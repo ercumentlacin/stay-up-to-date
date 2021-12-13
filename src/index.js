@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-async function getSmashingMagazine({ page, category }) {
+async function getSmashingMagazine({ page, category, site }) {
   const host = `https://www.smashingmagazine.com/category/${category}/`;
   const url = !!page && page > 1 ? `${host}/page/${page}/` : host;
 
@@ -22,11 +22,12 @@ async function getSmashingMagazine({ page, category }) {
       link,
       reading_time,
       date,
+      site,
     });
   });
   return articles;
 }
-async function getCssTrick({ page, category }) {
+async function getCssTrick({ page, category, site }) {
   const host = `https://css-tricks.com/tag/${category}/`;
   const url = !!page && page > 1 ? `${host}/page/${page}/` : host;
 
@@ -44,6 +45,7 @@ async function getCssTrick({ page, category }) {
       title,
       link,
       date,
+      site,
     });
   });
   return articles;
@@ -57,7 +59,7 @@ async function getArticles(props = {}) {
     'css-tricks': getCssTrick,
   };
 
-  const articles = await callbacks[site]({ page, category });
+  const articles = await callbacks[site]({ page, category, site });
 
   _articles.push(...articles);
 
