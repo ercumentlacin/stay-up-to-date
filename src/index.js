@@ -49,13 +49,15 @@ async function getCssTrick({ page, category }) {
   return articles;
 }
 
-async function getArticles({
-  page = '',
-  category = 'react',
-  _articles = [],
-  site,
-} = {}) {
-  const articles = await getCssTrick({ page, category });
+async function getArticles(props = {}) {
+  const { page = '', category = 'react', _articles = [], site } = props;
+
+  const callbacks = {
+    smashingmagazine: getSmashingMagazine,
+    'css-tricks': getCssTrick,
+  };
+
+  const articles = await callbacks[site]({ page, category });
 
   _articles.push(...articles);
 
@@ -74,13 +76,11 @@ async function getArticles({
   };
 }
 
-getArticles({ page: 1, category: 'react', site: 'css-tricks' }).then(
+getArticles({ page: 1, category: 'javascript', site: 'css-tricks' }).then(
   ({ data, category, site }) => {
     fs.writeFileSync(
       `./public/articles/${site}/${category}.json`,
       JSON.stringify(data, null, 2)
     );
-    console.log('done');
-    console.log(`./public/articles/${site}/${category}.json`);
   }
 );
