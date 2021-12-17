@@ -1,8 +1,9 @@
 const axios = require('axios');
 
 async function getDevTo(props = {}) {
-  const { category = 'javascript', site = 'devto' } = props;
-  const url = `https://dev.to/search/feed_content?per_page=15&page=0&tag=${category}t&sort_by=published_at&sort_direction=desc&tag_names%5B%5D=${category}t&approved=&class_name=Article`;
+  const { category = 'javascript' } = props;
+  const url = `https://dev.to/search/feed_content?per_page=15&page=0&tag=${category}&sort_by=hotness_score&sort_direction=desc&tag_names%5B%5D=${category}&approved=&class_name=Article`;
+
   const articles = [];
 
   try {
@@ -34,9 +35,9 @@ async function getDevTo(props = {}) {
     articles.push(
       ...data.result.map((post) => ({
         title: post.title,
-        link: `https://dev.to${post.path}`,
+        link: `dev.to${post.path}`,
         date: new Date(post.published_at_int).toLocaleDateString('en-us'),
-        site,
+        site: 'dev.to',
       })),
     );
   } catch (error) {

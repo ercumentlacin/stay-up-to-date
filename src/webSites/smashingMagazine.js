@@ -26,7 +26,7 @@ async function getSmashingMagazine(props) {
 
       articles.push({
         title,
-        link: `www.smashingmagazine.com${link}`,
+        link: `https://www.smashingmagazine.com${link}`,
         reading_time,
         date: new Date(date).toLocaleDateString('en-us'),
         site,

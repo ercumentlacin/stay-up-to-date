@@ -3,7 +3,7 @@ const cheerio = require('cheerio');
 const { dateFormater } = require('../utils');
 
 async function getCssTrick(props = {}) {
-  const { page, category, site = 'css-tricks' } = props;
+  const { page, category } = props;
   const articles = [];
 
   const host = `https://css-tricks.com/tag/${category}/`;
@@ -29,7 +29,7 @@ async function getCssTrick(props = {}) {
         title,
         link,
         date: dateFormated === 'Invalid Date' ? date : dateFormated,
-        site,
+        site: 'css-tricks',
       });
     });
   } catch (error) {

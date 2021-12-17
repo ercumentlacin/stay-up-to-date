@@ -29,7 +29,7 @@ const createHtml = () =>
         return `
         <div class="article-card article">
           <h2 class="article-card-title">
-            <a href="https://${link}" target='_blank'>${title}</a>
+            <a href="${link}" target='_blank'>${title}</a>
           </h2>
           <div class="article-card-meta">
             <span class="article-card-date">${date}</span>
