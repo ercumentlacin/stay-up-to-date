@@ -1,0 +1,134 @@
+@import './reset.css';
+
+:root {
+  /* CSS HSL */
+  --primary-text: hsla(270, 22%, 96%, 1);
+  --secondary-text: hsla(218, 5%, 70%, 1);
+  --tertiary-text: hsla(218, 4%, 44%, 1);
+  --accent-color: hsla(230, 5%, 22%, 1);
+  --card-color: hsla(218, 11%, 15%, 1);
+  --background-color: hsla(223, 14%, 10%, 1);
+  --cta: hsla(220, 80%, 70%, 1);
+  --cta-hover: hsla(220, 80%, 70%, 0.8);
+  --cta-active: hsla(220, 80%, 70%, 0.6);
+  --cta-disabled: hsla(220, 80%, 70%, 0.4);
+  --secondary-color: hsla(53, 77%, 74%, 1);
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--primary-text);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  padding-block: 1em;
+}
+
+.article-card.article {
+  flex: 1 1 100%;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: var(--card-color);
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+h2.article-card-title {
+  font-size: 1.5em;
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+a {
+  color: var(--cta);
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: var(--cta-hover);
+  text-decoration: underline;
+}
+
+a:visited {
+  color: var(--secondary-color);
+}
+
+a.active {
+  color: var(--cta-active);
+}
+
+.article-card-meta {
+  font-size: 0.8em;
+  color: var(--secondary-text);
+  margin-bottom: 10px;
+}
+
+.article-card-meta .article-card-date {
+  margin-right: 10px;
+}
+
+.article-card-meta .article-card-site {
+  margin-left: 10px;
+  color: var(--primary-text);
+}
+
+.row nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  flex: 1 1 100%;
+}
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex: 1 1 100%;
+  justify-content: center;
+}
+
+nav ul li {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+nav ul li a {
+  color: var(--secondary-text);
+  text-decoration: none;
+  font-size: 0.8em;
+  font-weight: 400;
+  transition: color 0.2s ease-in-out;
+  display: block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: var(--card-color);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+nav ul li a:hover {
+  color: var(--cta);
+}
+
+nav ul li a:active {
+  color: var(--cta-active);
+}
