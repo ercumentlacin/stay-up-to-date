@@ -3,11 +3,17 @@ on:
   schedule:
     - cron: '30 8 * * *'
 jobs:
-  say_hello:
+  update_articles:
     runs-on: ubuntu-latest
     steps:
-      - run: npm install
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - run: npm ci
       - run: npm run dev
       - run: git add .
-      - run: git commit -m "Update"
+      - run: git config user.email "ercument.lacin@akinon.com"
+      - run: git config user.name "ercumentlacin"
+      - run: git commit -m "Update Articles"
       - run: git push origin main

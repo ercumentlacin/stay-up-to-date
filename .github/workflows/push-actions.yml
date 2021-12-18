@@ -1,7 +1,7 @@
 name: push-actions
 on: [push]
 jobs:
-  say_hello:
+  update_articles:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -13,5 +13,5 @@ jobs:
       - run: git add .
       - run: git config user.email "ercument.lacin@akinon.com"
       - run: git config user.name "ercumentlacin"
-      - run: git commit -m "Update"
+      - run: git commit -m "Update Articles"
       - run: git push origin main
