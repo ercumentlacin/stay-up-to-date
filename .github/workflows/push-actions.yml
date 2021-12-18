@@ -4,7 +4,6 @@ jobs:
   say_hello:
     runs-on: ubuntu-latest
     steps:
-      - run: npm install
       - run: npm run dev
       - run: git add .
       - run: git commit -m "Update"
