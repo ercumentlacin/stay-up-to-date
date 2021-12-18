@@ -4,7 +4,7 @@ const path = require('path');
 const createHtml = () =>
   // eslint-disable-next-line implicit-arrow-linebreak
   fs.readdir(path.join(__dirname, '../../public/json'), (err, files) => {
-    files?.forEach((file) => {
+    files.forEach((file) => {
       const category = file.split('.')[0];
       const _articles = JSON.parse(
         fs.readFileSync(path.join(__dirname, `../../public/json/${file}`)),
