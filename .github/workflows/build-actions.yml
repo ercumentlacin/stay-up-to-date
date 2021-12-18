@@ -1,7 +1,7 @@
 name: build-actions
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '30 8 * * *'
 jobs:
   say_hello:
     runs-on: ubuntu-latest
