@@ -36,7 +36,9 @@ async function getDevTo(props = {}) {
       ...data.result.map((post) => ({
         title: post.title,
         link: `dev.to${post.path}`,
-        date: new Date(post.published_at_int).toLocaleDateString('en-us'),
+        date: new Date(post.published_at_int * 1000).toLocaleDateString(
+          'en-us',
+        ),
         site: 'dev.to',
       })),
     );
@@ -46,6 +48,7 @@ async function getDevTo(props = {}) {
 
   return articles;
 }
+
 module.exports = {
   getDevTo,
 };
