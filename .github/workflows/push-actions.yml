@@ -4,6 +4,7 @@ jobs:
   say_hello:
     runs-on: ubuntu-latest
     steps:
+      - run: echo "{path}" >> $GITHUB_PATH
       - run: cd ../../
       - name: Install dependencies
         run: npm install
