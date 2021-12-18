@@ -1,6 +1,12 @@
 const fs = require('fs');
 const path = require('path');
 
+const minifyHtml = require('@minify-html/js');
+const cfg = minifyHtml.createConfiguration({
+  keep_spaces_between_attributes: true,
+  keep_comments: true,
+});
+
 const createHtml = () =>
   // eslint-disable-next-line implicit-arrow-linebreak
   fs.readdir(path.join(__dirname, '../../public/json'), (err, files) => {
@@ -38,9 +44,8 @@ const createHtml = () =>
         </div>
       `;
       });
-      fs.writeFileSync(
-        path.join(__dirname, `../../public/${category}.html`),
-        `<!DOCTYPE html>
+
+      const html = `<!DOCTYPE html>
       <html lang="en">
         <head>
           <meta charset="UTF-8">
@@ -86,7 +91,13 @@ const createHtml = () =>
           <script src="/js/app.js"></script>
           
         </body>
-      </html>`,
+      </html>`;
+
+      const minified = minifyHtml.minify(html, cfg);
+
+      fs.writeFileSync(
+        path.join(__dirname, `../../public/${category}.html`),
+        minified,
       );
     });
   });
