@@ -34,8 +34,7 @@ body {
 .row {
   display: flex;
   flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
+  margin-inline: 0px;
   padding-block: 1em;
 }
 
@@ -138,6 +137,7 @@ nav ul li a:active {
   flex-direction: column;
   width: 100%;
   align-items: center;
+  margin-inline: 0px;
 }
 
 #info h1 {
