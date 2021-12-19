@@ -11,6 +11,7 @@ jobs:
         with:
           node-version: '14'
       - run: npm ci
+      - run: git checkout main
       - run: git pull origin main
       - run: npm run dev
       - run: git add .
