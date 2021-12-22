@@ -1,6 +1,6 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const { dateFormater } = require('../utils');
+const { dateFormater, linkFormatter } = require('../utils');
 
 async function getCssTrick(props = {}) {
   const { page, category } = props;
@@ -27,7 +27,7 @@ async function getCssTrick(props = {}) {
 
       articles.push({
         title,
-        link,
+        link: linkFormatter(link),
         date: dateFormated === 'Invalid Date' ? date : dateFormated,
         site: 'css-tricks',
       });

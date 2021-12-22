@@ -11,6 +11,15 @@ const dateFormater = (date) => {
   return new Date(dateForm).toLocaleDateString('en-us');
 };
 
+const linkFormatter = (url) => {
+  if (url.includes('http')) {
+    return url;
+  }
+
+  return `https://${url}`;
+};
+
 module.exports = {
   dateFormater,
+  linkFormatter,
 };

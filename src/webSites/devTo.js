@@ -1,4 +1,5 @@
 const axios = require('axios');
+const { linkFormatter } = require('../utils');
 
 async function getDevTo(props = {}) {
   const { category = 'javascript' } = props;
@@ -35,7 +36,7 @@ async function getDevTo(props = {}) {
     articles.push(
       ...data.result.map((post) => ({
         title: post.title,
-        link: `dev.to${post.path}`,
+        link: linkFormatter(`dev.to${post.path}`),
         date: new Date(post.published_at_int * 1000).toLocaleDateString(
           'en-us',
         ),

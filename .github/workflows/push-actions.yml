@@ -13,5 +13,5 @@ jobs:
       - run: git add .
       - run: git config user.email "ercument.lacin@akinon.com"
       - run: git config user.name "ercumentlacin"
-      - run: git commit -m "Update Articles"
+      - run: git commit -m "Update Articles ${{'%Y-%m-%d'}}"
       - run: git push origin main

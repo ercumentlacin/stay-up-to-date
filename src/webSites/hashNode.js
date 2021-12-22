@@ -1,4 +1,5 @@
 const axios = require('axios');
+const { linkFormatter } = require('../utils');
 
 async function getHashNode(props = {}) {
   const { category = 'javascript', site = 'hashnode' } = props;
@@ -31,9 +32,12 @@ async function getHashNode(props = {}) {
     articles.push(
       ...data.posts.map((post) => ({
         title: post.title,
-        link: `${
-          post.publication.domain || `${post.publication.username}hashnode.dev`
-        }/${post.slug}`,
+        link: linkFormatter(
+          `${
+            post.publication.domain ||
+            `${post.publication.username}.hashnode.dev`
+          }/${post.slug}`,
+        ),
         date: new Date(post.dateAdded).toLocaleDateString('en-us'),
         site,
       })),
