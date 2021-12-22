@@ -6,6 +6,9 @@ jobs:
   update_articles:
     runs-on: ubuntu-latest
     steps:
+    - name: Get current date
+          id: date
+          run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
@@ -17,5 +20,5 @@ jobs:
       - run: git add .
       - run: git config user.email "ercument.lacin@akinon.com"
       - run: git config user.name "ercumentlacin"
-      - run: git commit -m "Update Articles ${{'%Y-%m-%d'}}"
+      - run: git commit -m "Update Articles ${{ steps.date.outputs.date }}"
       - run: git push origin main
