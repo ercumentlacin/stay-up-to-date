@@ -1,13 +1,529 @@
 [
   {
-    "title": "20+ Useful JavaScript Array Methods Cheatsheet",
-    "link": "https://thecodingcompany.hashnode.dev/20-useful-javascript-array-methods-cheatsheet",
+    "title": "Another 4 JavaScript tips for shorter code",
+    "link": "https://abhinavvp.hashnode.dev/another-4-javascript-tips-for-shorter-code",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "HTML Sanitizer API - 原生的 JavaScript Security API",
+    "link": "https://blog.taiwolskit.com/html-sanitizer-api-javascript-security-api",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Hello World Web3 App | Full Stack",
+    "link": "https://marmooz.hashnode.dev/hello-world-web3-app-or-full-stack",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Map the Debris",
+    "link": "https://wata327.hashnode.dev/map-the-debris",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a QR Code generator using Vanilla JavaScript?",
+    "link": "https://dev.to/murtuzaalisurti/how-to-make-a-qr-code-generator-using-vanilla-javascript-3cla",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Career kickstart: IBM iX recruits new colleagues with bootcamp",
+    "link": "https://dev.to/ibmix/career-kickstart-ibm-ix-recruits-new-colleagues-with-bootcamp-3nef",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Have you used `flushSync` in React?",
+    "link": "https://dev.to/ssmkhrj/have-you-used-flushsync-in-react-4cpo",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Simple CRUD API using NodeJS, Express, and MongoDB",
+    "link": "https://dev.to/coderboyraiyan/how-to-build-a-simple-crud-api-using-nodejs-express-and-mongodb-ila",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of PBT 2021 - Day 23",
+    "link": "https://dev.to/dubzzz/advent-of-pbt-2021-day-23-52e5",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of PBT 2021 - Day 23 - Solution",
+    "link": "https://dev.to/dubzzz/advent-of-pbt-2021-day-23-solution-4lg4",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create Stopwatch using javascript ",
+    "link": "https://dev.to/codewith_random/create-stopwatch-using-javascript-m2h",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to sort users in talks/meetings",
+    "link": "https://dev.to/dippas/fun-way-to-sort-how-people-will-start-talking-in-meetings-with-daily-quotes-to-boost-your-day-1epg",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "OOP+DATA Structures then NLP class?",
+    "link": "https://dev.to/mmakki96/oopdata-structures-then-nlp-class-961",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "It's Prisma Time - Create Db",
+    "link": "https://dev.to/this-is-learning/its-prisma-time-create-db-3e8n",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is JSX? How does it work?",
+    "link": "https://dev.to/programmershahjalal/what-is-jsx-how-does-it-work-14gp",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create an App Information Component in Nuxt",
+    "link": "https://dev.to/ravgeetdhillon/create-an-app-information-component-in-nuxt-1ock",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of Code #4 (in JavaScript & Haskell)",
+    "link": "https://dev.to/sethcalebweeks/advent-of-code-4-in-javascript-haskell-f1h",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Another 4 JavaScript tips for shorter code",
+    "link": "https://abhinavvp.hashnode.dev/another-4-javascript-tips-for-shorter-code",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "HTML Sanitizer API - 原生的 JavaScript Security API",
+    "link": "https://blog.taiwolskit.com/html-sanitizer-api-javascript-security-api",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Hello World Web3 App | Full Stack",
+    "link": "https://marmooz.hashnode.dev/hello-world-web3-app-or-full-stack",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Map the Debris",
+    "link": "https://wata327.hashnode.dev/map-the-debris",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a QR Code generator using Vanilla JavaScript?",
+    "link": "https://dev.to/murtuzaalisurti/how-to-make-a-qr-code-generator-using-vanilla-javascript-3cla",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Career kickstart: IBM iX recruits new colleagues with bootcamp",
+    "link": "https://dev.to/ibmix/career-kickstart-ibm-ix-recruits-new-colleagues-with-bootcamp-3nef",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Have you used `flushSync` in React?",
+    "link": "https://dev.to/ssmkhrj/have-you-used-flushsync-in-react-4cpo",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Simple CRUD API using NodeJS, Express, and MongoDB",
+    "link": "https://dev.to/coderboyraiyan/how-to-build-a-simple-crud-api-using-nodejs-express-and-mongodb-ila",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of PBT 2021 - Day 23",
+    "link": "https://dev.to/dubzzz/advent-of-pbt-2021-day-23-52e5",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of PBT 2021 - Day 23 - Solution",
+    "link": "https://dev.to/dubzzz/advent-of-pbt-2021-day-23-solution-4lg4",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create Stopwatch using javascript ",
+    "link": "https://dev.to/codewith_random/create-stopwatch-using-javascript-m2h",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to sort users in talks/meetings",
+    "link": "https://dev.to/dippas/fun-way-to-sort-how-people-will-start-talking-in-meetings-with-daily-quotes-to-boost-your-day-1epg",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "OOP+DATA Structures then NLP class?",
+    "link": "https://dev.to/mmakki96/oopdata-structures-then-nlp-class-961",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "It's Prisma Time - Create Db",
+    "link": "https://dev.to/this-is-learning/its-prisma-time-create-db-3e8n",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is JSX? How does it work?",
+    "link": "https://dev.to/programmershahjalal/what-is-jsx-how-does-it-work-14gp",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create an App Information Component in Nuxt",
+    "link": "https://dev.to/ravgeetdhillon/create-an-app-information-component-in-nuxt-1ock",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of Code #4 (in JavaScript & Haskell)",
+    "link": "https://dev.to/sethcalebweeks/advent-of-code-4-in-javascript-haskell-f1h",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Another 4 JavaScript tips for shorter code",
+    "link": "https://abhinavvp.hashnode.dev/another-4-javascript-tips-for-shorter-code",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "HTML Sanitizer API - 原生的 JavaScript Security API",
+    "link": "https://blog.taiwolskit.com/html-sanitizer-api-javascript-security-api",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Hello World Web3 App | Full Stack",
+    "link": "https://marmooz.hashnode.dev/hello-world-web3-app-or-full-stack",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Map the Debris",
+    "link": "https://wata327.hashnode.dev/map-the-debris",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a QR Code generator using Vanilla JavaScript?",
+    "link": "https://dev.to/murtuzaalisurti/how-to-make-a-qr-code-generator-using-vanilla-javascript-3cla",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Career kickstart: IBM iX recruits new colleagues with bootcamp",
+    "link": "https://dev.to/ibmix/career-kickstart-ibm-ix-recruits-new-colleagues-with-bootcamp-3nef",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Have you used `flushSync` in React?",
+    "link": "https://dev.to/ssmkhrj/have-you-used-flushsync-in-react-4cpo",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Simple CRUD API using NodeJS, Express, and MongoDB",
+    "link": "https://dev.to/coderboyraiyan/how-to-build-a-simple-crud-api-using-nodejs-express-and-mongodb-ila",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of PBT 2021 - Day 23",
+    "link": "https://dev.to/dubzzz/advent-of-pbt-2021-day-23-52e5",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of PBT 2021 - Day 23 - Solution",
+    "link": "https://dev.to/dubzzz/advent-of-pbt-2021-day-23-solution-4lg4",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create Stopwatch using javascript ",
+    "link": "https://dev.to/codewith_random/create-stopwatch-using-javascript-m2h",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to sort users in talks/meetings",
+    "link": "https://dev.to/dippas/fun-way-to-sort-how-people-will-start-talking-in-meetings-with-daily-quotes-to-boost-your-day-1epg",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "OOP+DATA Structures then NLP class?",
+    "link": "https://dev.to/mmakki96/oopdata-structures-then-nlp-class-961",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "It's Prisma Time - Create Db",
+    "link": "https://dev.to/this-is-learning/its-prisma-time-create-db-3e8n",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is JSX? How does it work?",
+    "link": "https://dev.to/programmershahjalal/what-is-jsx-how-does-it-work-14gp",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create an App Information Component in Nuxt",
+    "link": "https://dev.to/ravgeetdhillon/create-an-app-information-component-in-nuxt-1ock",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of Code #4 (in JavaScript & Haskell)",
+    "link": "https://dev.to/sethcalebweeks/advent-of-code-4-in-javascript-haskell-f1h",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Another 4 JavaScript tips for shorter code",
+    "link": "https://abhinavvp.hashnode.dev/another-4-javascript-tips-for-shorter-code",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "HTML Sanitizer API - 原生的 JavaScript Security API",
+    "link": "https://blog.taiwolskit.com/html-sanitizer-api-javascript-security-api",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Hello World Web3 App | Full Stack",
+    "link": "https://marmooz.hashnode.dev/hello-world-web3-app-or-full-stack",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Map the Debris",
+    "link": "https://wata327.hashnode.dev/map-the-debris",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a QR Code generator using Vanilla JavaScript?",
+    "link": "https://dev.to/murtuzaalisurti/how-to-make-a-qr-code-generator-using-vanilla-javascript-3cla",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Career kickstart: IBM iX recruits new colleagues with bootcamp",
+    "link": "https://dev.to/ibmix/career-kickstart-ibm-ix-recruits-new-colleagues-with-bootcamp-3nef",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Have you used `flushSync` in React?",
+    "link": "https://dev.to/ssmkhrj/have-you-used-flushsync-in-react-4cpo",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Simple CRUD API using NodeJS, Express, and MongoDB",
+    "link": "https://dev.to/coderboyraiyan/how-to-build-a-simple-crud-api-using-nodejs-express-and-mongodb-ila",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of PBT 2021 - Day 23",
+    "link": "https://dev.to/dubzzz/advent-of-pbt-2021-day-23-52e5",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of PBT 2021 - Day 23 - Solution",
+    "link": "https://dev.to/dubzzz/advent-of-pbt-2021-day-23-solution-4lg4",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create Stopwatch using javascript ",
+    "link": "https://dev.to/codewith_random/create-stopwatch-using-javascript-m2h",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to sort users in talks/meetings",
+    "link": "https://dev.to/dippas/fun-way-to-sort-how-people-will-start-talking-in-meetings-with-daily-quotes-to-boost-your-day-1epg",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "OOP+DATA Structures then NLP class?",
+    "link": "https://dev.to/mmakki96/oopdata-structures-then-nlp-class-961",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "It's Prisma Time - Create Db",
+    "link": "https://dev.to/this-is-learning/its-prisma-time-create-db-3e8n",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is JSX? How does it work?",
+    "link": "https://dev.to/programmershahjalal/what-is-jsx-how-does-it-work-14gp",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create an App Information Component in Nuxt",
+    "link": "https://dev.to/ravgeetdhillon/create-an-app-information-component-in-nuxt-1ock",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of Code #4 (in JavaScript & Haskell)",
+    "link": "https://dev.to/sethcalebweeks/advent-of-code-4-in-javascript-haskell-f1h",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Another 4 JavaScript tips for shorter code",
+    "link": "https://abhinavvp.hashnode.dev/another-4-javascript-tips-for-shorter-code",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "HTML Sanitizer API - 原生的 JavaScript Security API",
+    "link": "https://blog.taiwolskit.com/html-sanitizer-api-javascript-security-api",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Hello World Web3 App | Full Stack",
+    "link": "https://marmooz.hashnode.dev/hello-world-web3-app-or-full-stack",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Map the Debris",
+    "link": "https://wata327.hashnode.dev/map-the-debris",
+    "date": "12/23/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a QR Code generator using Vanilla JavaScript?",
+    "link": "https://dev.to/murtuzaalisurti/how-to-make-a-qr-code-generator-using-vanilla-javascript-3cla",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Career kickstart: IBM iX recruits new colleagues with bootcamp",
+    "link": "https://dev.to/ibmix/career-kickstart-ibm-ix-recruits-new-colleagues-with-bootcamp-3nef",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Have you used `flushSync` in React?",
+    "link": "https://dev.to/ssmkhrj/have-you-used-flushsync-in-react-4cpo",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Simple CRUD API using NodeJS, Express, and MongoDB",
+    "link": "https://dev.to/coderboyraiyan/how-to-build-a-simple-crud-api-using-nodejs-express-and-mongodb-ila",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of PBT 2021 - Day 23",
+    "link": "https://dev.to/dubzzz/advent-of-pbt-2021-day-23-52e5",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of PBT 2021 - Day 23 - Solution",
+    "link": "https://dev.to/dubzzz/advent-of-pbt-2021-day-23-solution-4lg4",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create Stopwatch using javascript ",
+    "link": "https://dev.to/codewith_random/create-stopwatch-using-javascript-m2h",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to sort users in talks/meetings",
+    "link": "https://dev.to/dippas/fun-way-to-sort-how-people-will-start-talking-in-meetings-with-daily-quotes-to-boost-your-day-1epg",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "OOP+DATA Structures then NLP class?",
+    "link": "https://dev.to/mmakki96/oopdata-structures-then-nlp-class-961",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "It's Prisma Time - Create Db",
+    "link": "https://dev.to/this-is-learning/its-prisma-time-create-db-3e8n",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is JSX? How does it work?",
+    "link": "https://dev.to/programmershahjalal/what-is-jsx-how-does-it-work-14gp",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create an App Information Component in Nuxt",
+    "link": "https://dev.to/ravgeetdhillon/create-an-app-information-component-in-nuxt-1ock",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advent of Code #4 (in JavaScript & Haskell)",
+    "link": "https://dev.to/sethcalebweeks/advent-of-code-4-in-javascript-haskell-f1h",
+    "date": "12/23/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn to configure ESLINT and PRETTIER in React",
+    "link": "https://suprabhasupi.hashnode.dev/learn-to-configure-eslint-and-prettier-in-react",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
     "title": "React Architecture Patterns for Your Projects",
     "link": "https://openreplay.hashnode.dev/react-architecture-patterns-for-your-projects",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Angular for Newbies",
+    "link": "https://mhbaando.hashnode.dev/angular-for-newbies",
     "date": "12/22/2021",
     "site": "hashnode"
   },
@@ -24,6 +540,18 @@
     "site": "hashnode"
   },
   {
+    "title": "React.memo() is your friend",
+    "link": "https://blog.bracketsinstitute.com/reactmemo-is-your-friend",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "20day Coding Challenge Day 1 APIs",
+    "link": "https://codetheweb.hashnode.dev/20day-coding-challenge-day-1-apis",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Stop Building Your UI Components like this ❌",
     "link": "https://harshkc.hashnode.dev/stop-building-your-ui-components-like-this",
     "date": "12/22/2021",
@@ -36,140 +564,38 @@
     "site": "hashnode"
   },
   {
-    "title": "7 Awesome React UI Component Libraries",
-    "link": "https://annysah.hashnode.dev/7-awesome-react-ui-component-libraries",
+    "title": "The JavaScript Reduce Method",
+    "link": "https://codingnorm.hashnode.dev/the-javascript-reduce-method",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
-    "title": "How to generate Slug?",
-    "link": "https://snowbit-blog.hashnode.dev/how-to-generate-slug",
+    "title": "Cuenta regresiva para navidad",
+    "link": "https://entendiendoprogramacion.hashnode.dev/cuenta-regresiva-para-navidad",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
-    "title": "Flexbox & Properties - Explained",
-    "link": "https://snowbit-blog.hashnode.dev/flexbox-and-properties-explained",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Master Frontend by doing Frontendmentor challenges",
-    "link": "https://coderamrin.hashnode.dev/master-frontend-by-doing-frontendmentor-challenges",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to toggle Dark/Light Mode using JavaScript",
-    "link": "https://snowbit-blog.hashnode.dev/how-to-toggle-darklight-mode",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "I made a text editor like VS CODE",
-    "link": "https://snowbit-blog.hashnode.dev/i-made-a-text-editor-like-vs-code",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "From Banker to Web Developer?",
-    "link": "https://alexanderleino.hashnode.dev/from-banker-to-web-developer",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Mastering Styled Components with ease.",
-    "link": "https://dev.to/emmanueloluwafemi/mastering-styled-components-with-ease-1f0k",
+    "title": "Introduction to Docker for Javascript Developers (feat Node.js and PostgreSQL)",
+    "link": "https://dev.to/alexeagleson/docker-for-javascript-developers-41me",
     "date": "12/22/2021",
     "site": "dev.to"
   },
   {
-    "title": "Array Destructuring in JS!",
-    "link": "https://dev.to/ziratsu/array-destructuring-in-js-6o3",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Promise.race usefully",
-    "link": "https://dev.to/gajananpp/using-promiserace-usefully-420f",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bookmarklet for injecting scripts onto a page",
-    "link": "https://dev.to/mattkenefick/bookmarklet-for-injecting-scripts-onto-a-page-4gkg",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React.js,PropTypes,State-props,JSX,Hooks,custom hooks…",
-    "link": "https://dev.to/kaniznubtk/reactjsproptypesstate-propsjsxhookscustom-hooks-4am8",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animations with React Spring!",
-    "link": "https://dev.to/salehmubashar/animations-with-react-spring-21bd",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "MUSIC LOADER |",
-    "link": "https://dev.to/charroufyoussef/music-loader--4ecb",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js MongoDB - multi-tenant app by example",
-    "link": "https://dev.to/przpiw/nodejs-mongodb-multi-tenant-app-by-example-435n",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React JSX",
-    "link": "https://dev.to/barshonwebdev/react-jsx-1paf",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Return union types in ReScript",
-    "link": "https://dev.to/vtrofin/return-union-types-in-rescript-11d2",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Virtual DOM? Difference between virtual DOM and real DOM?",
-    "link": "https://dev.to/programmershahjalal/what-is-virtual-dom-difference-between-virtual-dom-and-real-dom-2l0i",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Virtual DOM and Diff algorithm in React",
-    "link": "https://dev.to/mariyapoly/virtual-dom-and-diff-algorithm-in-react-3h74",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React-Router-dom 6! What changed?",
-    "link": "https://dev.to/jubarcelos/react-router-dom-6-what-changed-4a8",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Call Control Objects (NCCOs) | One Dev Minute",
-    "link": "https://dev.to/vonagedev/call-control-objects-nccos-one-dev-minute-67l",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "20+ Useful JavaScript Array Methods Cheatsheet",
-    "link": "https://thecodingcompany.hashnode.dev/20-useful-javascript-array-methods-cheatsheet",
+    "title": "Learn to configure ESLINT and PRETTIER in React",
+    "link": "https://suprabhasupi.hashnode.dev/learn-to-configure-eslint-and-prettier-in-react",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
     "title": "React Architecture Patterns for Your Projects",
     "link": "https://openreplay.hashnode.dev/react-architecture-patterns-for-your-projects",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Angular for Newbies",
+    "link": "https://mhbaando.hashnode.dev/angular-for-newbies",
     "date": "12/22/2021",
     "site": "hashnode"
   },
@@ -186,6 +612,18 @@
     "site": "hashnode"
   },
   {
+    "title": "React.memo() is your friend",
+    "link": "https://blog.bracketsinstitute.com/reactmemo-is-your-friend",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "20day Coding Challenge Day 1 APIs",
+    "link": "https://codetheweb.hashnode.dev/20day-coding-challenge-day-1-apis",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Stop Building Your UI Components like this ❌",
     "link": "https://harshkc.hashnode.dev/stop-building-your-ui-components-like-this",
     "date": "12/22/2021",
@@ -198,140 +636,38 @@
     "site": "hashnode"
   },
   {
-    "title": "7 Awesome React UI Component Libraries",
-    "link": "https://annysah.hashnode.dev/7-awesome-react-ui-component-libraries",
+    "title": "The JavaScript Reduce Method",
+    "link": "https://codingnorm.hashnode.dev/the-javascript-reduce-method",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
-    "title": "How to generate Slug?",
-    "link": "https://snowbit-blog.hashnode.dev/how-to-generate-slug",
+    "title": "Cuenta regresiva para navidad",
+    "link": "https://entendiendoprogramacion.hashnode.dev/cuenta-regresiva-para-navidad",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
-    "title": "Flexbox & Properties - Explained",
-    "link": "https://snowbit-blog.hashnode.dev/flexbox-and-properties-explained",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Master Frontend by doing Frontendmentor challenges",
-    "link": "https://coderamrin.hashnode.dev/master-frontend-by-doing-frontendmentor-challenges",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to toggle Dark/Light Mode using JavaScript",
-    "link": "https://snowbit-blog.hashnode.dev/how-to-toggle-darklight-mode",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "I made a text editor like VS CODE",
-    "link": "https://snowbit-blog.hashnode.dev/i-made-a-text-editor-like-vs-code",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "From Banker to Web Developer?",
-    "link": "https://alexanderleino.hashnode.dev/from-banker-to-web-developer",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Mastering Styled Components with ease.",
-    "link": "https://dev.to/emmanueloluwafemi/mastering-styled-components-with-ease-1f0k",
+    "title": "Introduction to Docker for Javascript Developers (feat Node.js and PostgreSQL)",
+    "link": "https://dev.to/alexeagleson/docker-for-javascript-developers-41me",
     "date": "12/22/2021",
     "site": "dev.to"
   },
   {
-    "title": "Array Destructuring in JS!",
-    "link": "https://dev.to/ziratsu/array-destructuring-in-js-6o3",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Promise.race usefully",
-    "link": "https://dev.to/gajananpp/using-promiserace-usefully-420f",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bookmarklet for injecting scripts onto a page",
-    "link": "https://dev.to/mattkenefick/bookmarklet-for-injecting-scripts-onto-a-page-4gkg",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React.js,PropTypes,State-props,JSX,Hooks,custom hooks…",
-    "link": "https://dev.to/kaniznubtk/reactjsproptypesstate-propsjsxhookscustom-hooks-4am8",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animations with React Spring!",
-    "link": "https://dev.to/salehmubashar/animations-with-react-spring-21bd",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "MUSIC LOADER |",
-    "link": "https://dev.to/charroufyoussef/music-loader--4ecb",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js MongoDB - multi-tenant app by example",
-    "link": "https://dev.to/przpiw/nodejs-mongodb-multi-tenant-app-by-example-435n",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React JSX",
-    "link": "https://dev.to/barshonwebdev/react-jsx-1paf",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Return union types in ReScript",
-    "link": "https://dev.to/vtrofin/return-union-types-in-rescript-11d2",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Virtual DOM? Difference between virtual DOM and real DOM?",
-    "link": "https://dev.to/programmershahjalal/what-is-virtual-dom-difference-between-virtual-dom-and-real-dom-2l0i",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Virtual DOM and Diff algorithm in React",
-    "link": "https://dev.to/mariyapoly/virtual-dom-and-diff-algorithm-in-react-3h74",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React-Router-dom 6! What changed?",
-    "link": "https://dev.to/jubarcelos/react-router-dom-6-what-changed-4a8",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Call Control Objects (NCCOs) | One Dev Minute",
-    "link": "https://dev.to/vonagedev/call-control-objects-nccos-one-dev-minute-67l",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "20+ Useful JavaScript Array Methods Cheatsheet",
-    "link": "https://thecodingcompany.hashnode.dev/20-useful-javascript-array-methods-cheatsheet",
+    "title": "Learn to configure ESLINT and PRETTIER in React",
+    "link": "https://suprabhasupi.hashnode.dev/learn-to-configure-eslint-and-prettier-in-react",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
     "title": "React Architecture Patterns for Your Projects",
     "link": "https://openreplay.hashnode.dev/react-architecture-patterns-for-your-projects",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Angular for Newbies",
+    "link": "https://mhbaando.hashnode.dev/angular-for-newbies",
     "date": "12/22/2021",
     "site": "hashnode"
   },
@@ -348,6 +684,18 @@
     "site": "hashnode"
   },
   {
+    "title": "React.memo() is your friend",
+    "link": "https://blog.bracketsinstitute.com/reactmemo-is-your-friend",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "20day Coding Challenge Day 1 APIs",
+    "link": "https://codetheweb.hashnode.dev/20day-coding-challenge-day-1-apis",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Stop Building Your UI Components like this ❌",
     "link": "https://harshkc.hashnode.dev/stop-building-your-ui-components-like-this",
     "date": "12/22/2021",
@@ -360,140 +708,38 @@
     "site": "hashnode"
   },
   {
-    "title": "7 Awesome React UI Component Libraries",
-    "link": "https://annysah.hashnode.dev/7-awesome-react-ui-component-libraries",
+    "title": "The JavaScript Reduce Method",
+    "link": "https://codingnorm.hashnode.dev/the-javascript-reduce-method",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
-    "title": "How to generate Slug?",
-    "link": "https://snowbit-blog.hashnode.dev/how-to-generate-slug",
+    "title": "Cuenta regresiva para navidad",
+    "link": "https://entendiendoprogramacion.hashnode.dev/cuenta-regresiva-para-navidad",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
-    "title": "Flexbox & Properties - Explained",
-    "link": "https://snowbit-blog.hashnode.dev/flexbox-and-properties-explained",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Master Frontend by doing Frontendmentor challenges",
-    "link": "https://coderamrin.hashnode.dev/master-frontend-by-doing-frontendmentor-challenges",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to toggle Dark/Light Mode using JavaScript",
-    "link": "https://snowbit-blog.hashnode.dev/how-to-toggle-darklight-mode",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "I made a text editor like VS CODE",
-    "link": "https://snowbit-blog.hashnode.dev/i-made-a-text-editor-like-vs-code",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "From Banker to Web Developer?",
-    "link": "https://alexanderleino.hashnode.dev/from-banker-to-web-developer",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Mastering Styled Components with ease.",
-    "link": "https://dev.to/emmanueloluwafemi/mastering-styled-components-with-ease-1f0k",
+    "title": "Introduction to Docker for Javascript Developers (feat Node.js and PostgreSQL)",
+    "link": "https://dev.to/alexeagleson/docker-for-javascript-developers-41me",
     "date": "12/22/2021",
     "site": "dev.to"
   },
   {
-    "title": "Array Destructuring in JS!",
-    "link": "https://dev.to/ziratsu/array-destructuring-in-js-6o3",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Promise.race usefully",
-    "link": "https://dev.to/gajananpp/using-promiserace-usefully-420f",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bookmarklet for injecting scripts onto a page",
-    "link": "https://dev.to/mattkenefick/bookmarklet-for-injecting-scripts-onto-a-page-4gkg",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React.js,PropTypes,State-props,JSX,Hooks,custom hooks…",
-    "link": "https://dev.to/kaniznubtk/reactjsproptypesstate-propsjsxhookscustom-hooks-4am8",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animations with React Spring!",
-    "link": "https://dev.to/salehmubashar/animations-with-react-spring-21bd",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "MUSIC LOADER |",
-    "link": "https://dev.to/charroufyoussef/music-loader--4ecb",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js MongoDB - multi-tenant app by example",
-    "link": "https://dev.to/przpiw/nodejs-mongodb-multi-tenant-app-by-example-435n",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React JSX",
-    "link": "https://dev.to/barshonwebdev/react-jsx-1paf",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Return union types in ReScript",
-    "link": "https://dev.to/vtrofin/return-union-types-in-rescript-11d2",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Virtual DOM? Difference between virtual DOM and real DOM?",
-    "link": "https://dev.to/programmershahjalal/what-is-virtual-dom-difference-between-virtual-dom-and-real-dom-2l0i",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Virtual DOM and Diff algorithm in React",
-    "link": "https://dev.to/mariyapoly/virtual-dom-and-diff-algorithm-in-react-3h74",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React-Router-dom 6! What changed?",
-    "link": "https://dev.to/jubarcelos/react-router-dom-6-what-changed-4a8",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Call Control Objects (NCCOs) | One Dev Minute",
-    "link": "https://dev.to/vonagedev/call-control-objects-nccos-one-dev-minute-67l",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "20+ Useful JavaScript Array Methods Cheatsheet",
-    "link": "https://thecodingcompany.hashnode.dev/20-useful-javascript-array-methods-cheatsheet",
+    "title": "Learn to configure ESLINT and PRETTIER in React",
+    "link": "https://suprabhasupi.hashnode.dev/learn-to-configure-eslint-and-prettier-in-react",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
     "title": "React Architecture Patterns for Your Projects",
     "link": "https://openreplay.hashnode.dev/react-architecture-patterns-for-your-projects",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Angular for Newbies",
+    "link": "https://mhbaando.hashnode.dev/angular-for-newbies",
     "date": "12/22/2021",
     "site": "hashnode"
   },
@@ -510,6 +756,18 @@
     "site": "hashnode"
   },
   {
+    "title": "React.memo() is your friend",
+    "link": "https://blog.bracketsinstitute.com/reactmemo-is-your-friend",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "20day Coding Challenge Day 1 APIs",
+    "link": "https://codetheweb.hashnode.dev/20day-coding-challenge-day-1-apis",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Stop Building Your UI Components like this ❌",
     "link": "https://harshkc.hashnode.dev/stop-building-your-ui-components-like-this",
     "date": "12/22/2021",
@@ -522,140 +780,38 @@
     "site": "hashnode"
   },
   {
-    "title": "7 Awesome React UI Component Libraries",
-    "link": "https://annysah.hashnode.dev/7-awesome-react-ui-component-libraries",
+    "title": "The JavaScript Reduce Method",
+    "link": "https://codingnorm.hashnode.dev/the-javascript-reduce-method",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
-    "title": "How to generate Slug?",
-    "link": "https://snowbit-blog.hashnode.dev/how-to-generate-slug",
+    "title": "Cuenta regresiva para navidad",
+    "link": "https://entendiendoprogramacion.hashnode.dev/cuenta-regresiva-para-navidad",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
-    "title": "Flexbox & Properties - Explained",
-    "link": "https://snowbit-blog.hashnode.dev/flexbox-and-properties-explained",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Master Frontend by doing Frontendmentor challenges",
-    "link": "https://coderamrin.hashnode.dev/master-frontend-by-doing-frontendmentor-challenges",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to toggle Dark/Light Mode using JavaScript",
-    "link": "https://snowbit-blog.hashnode.dev/how-to-toggle-darklight-mode",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "I made a text editor like VS CODE",
-    "link": "https://snowbit-blog.hashnode.dev/i-made-a-text-editor-like-vs-code",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "From Banker to Web Developer?",
-    "link": "https://alexanderleino.hashnode.dev/from-banker-to-web-developer",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Mastering Styled Components with ease.",
-    "link": "https://dev.to/emmanueloluwafemi/mastering-styled-components-with-ease-1f0k",
+    "title": "Introduction to Docker for Javascript Developers (feat Node.js and PostgreSQL)",
+    "link": "https://dev.to/alexeagleson/docker-for-javascript-developers-41me",
     "date": "12/22/2021",
     "site": "dev.to"
   },
   {
-    "title": "Array Destructuring in JS!",
-    "link": "https://dev.to/ziratsu/array-destructuring-in-js-6o3",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Promise.race usefully",
-    "link": "https://dev.to/gajananpp/using-promiserace-usefully-420f",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bookmarklet for injecting scripts onto a page",
-    "link": "https://dev.to/mattkenefick/bookmarklet-for-injecting-scripts-onto-a-page-4gkg",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React.js,PropTypes,State-props,JSX,Hooks,custom hooks…",
-    "link": "https://dev.to/kaniznubtk/reactjsproptypesstate-propsjsxhookscustom-hooks-4am8",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animations with React Spring!",
-    "link": "https://dev.to/salehmubashar/animations-with-react-spring-21bd",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "MUSIC LOADER |",
-    "link": "https://dev.to/charroufyoussef/music-loader--4ecb",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js MongoDB - multi-tenant app by example",
-    "link": "https://dev.to/przpiw/nodejs-mongodb-multi-tenant-app-by-example-435n",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React JSX",
-    "link": "https://dev.to/barshonwebdev/react-jsx-1paf",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Return union types in ReScript",
-    "link": "https://dev.to/vtrofin/return-union-types-in-rescript-11d2",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Virtual DOM? Difference between virtual DOM and real DOM?",
-    "link": "https://dev.to/programmershahjalal/what-is-virtual-dom-difference-between-virtual-dom-and-real-dom-2l0i",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Virtual DOM and Diff algorithm in React",
-    "link": "https://dev.to/mariyapoly/virtual-dom-and-diff-algorithm-in-react-3h74",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React-Router-dom 6! What changed?",
-    "link": "https://dev.to/jubarcelos/react-router-dom-6-what-changed-4a8",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Call Control Objects (NCCOs) | One Dev Minute",
-    "link": "https://dev.to/vonagedev/call-control-objects-nccos-one-dev-minute-67l",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "20+ Useful JavaScript Array Methods Cheatsheet",
-    "link": "https://thecodingcompany.hashnode.dev/20-useful-javascript-array-methods-cheatsheet",
+    "title": "Learn to configure ESLINT and PRETTIER in React",
+    "link": "https://suprabhasupi.hashnode.dev/learn-to-configure-eslint-and-prettier-in-react",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
     "title": "React Architecture Patterns for Your Projects",
     "link": "https://openreplay.hashnode.dev/react-architecture-patterns-for-your-projects",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Angular for Newbies",
+    "link": "https://mhbaando.hashnode.dev/angular-for-newbies",
     "date": "12/22/2021",
     "site": "hashnode"
   },
@@ -672,6 +828,18 @@
     "site": "hashnode"
   },
   {
+    "title": "React.memo() is your friend",
+    "link": "https://blog.bracketsinstitute.com/reactmemo-is-your-friend",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "20day Coding Challenge Day 1 APIs",
+    "link": "https://codetheweb.hashnode.dev/20day-coding-challenge-day-1-apis",
+    "date": "12/22/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Stop Building Your UI Components like this ❌",
     "link": "https://harshkc.hashnode.dev/stop-building-your-ui-components-like-this",
     "date": "12/22/2021",
@@ -684,142 +852,22 @@
     "site": "hashnode"
   },
   {
-    "title": "7 Awesome React UI Component Libraries",
-    "link": "https://annysah.hashnode.dev/7-awesome-react-ui-component-libraries",
+    "title": "The JavaScript Reduce Method",
+    "link": "https://codingnorm.hashnode.dev/the-javascript-reduce-method",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
-    "title": "How to generate Slug?",
-    "link": "https://snowbit-blog.hashnode.dev/how-to-generate-slug",
+    "title": "Cuenta regresiva para navidad",
+    "link": "https://entendiendoprogramacion.hashnode.dev/cuenta-regresiva-para-navidad",
     "date": "12/22/2021",
     "site": "hashnode"
   },
   {
-    "title": "Flexbox & Properties - Explained",
-    "link": "https://snowbit-blog.hashnode.dev/flexbox-and-properties-explained",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Master Frontend by doing Frontendmentor challenges",
-    "link": "https://coderamrin.hashnode.dev/master-frontend-by-doing-frontendmentor-challenges",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to toggle Dark/Light Mode using JavaScript",
-    "link": "https://snowbit-blog.hashnode.dev/how-to-toggle-darklight-mode",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "I made a text editor like VS CODE",
-    "link": "https://snowbit-blog.hashnode.dev/i-made-a-text-editor-like-vs-code",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "From Banker to Web Developer?",
-    "link": "https://alexanderleino.hashnode.dev/from-banker-to-web-developer",
-    "date": "12/22/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Mastering Styled Components with ease.",
-    "link": "https://dev.to/emmanueloluwafemi/mastering-styled-components-with-ease-1f0k",
+    "title": "Introduction to Docker for Javascript Developers (feat Node.js and PostgreSQL)",
+    "link": "https://dev.to/alexeagleson/docker-for-javascript-developers-41me",
     "date": "12/22/2021",
     "site": "dev.to"
-  },
-  {
-    "title": "Array Destructuring in JS!",
-    "link": "https://dev.to/ziratsu/array-destructuring-in-js-6o3",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Promise.race usefully",
-    "link": "https://dev.to/gajananpp/using-promiserace-usefully-420f",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bookmarklet for injecting scripts onto a page",
-    "link": "https://dev.to/mattkenefick/bookmarklet-for-injecting-scripts-onto-a-page-4gkg",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React.js,PropTypes,State-props,JSX,Hooks,custom hooks…",
-    "link": "https://dev.to/kaniznubtk/reactjsproptypesstate-propsjsxhookscustom-hooks-4am8",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animations with React Spring!",
-    "link": "https://dev.to/salehmubashar/animations-with-react-spring-21bd",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "MUSIC LOADER |",
-    "link": "https://dev.to/charroufyoussef/music-loader--4ecb",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js MongoDB - multi-tenant app by example",
-    "link": "https://dev.to/przpiw/nodejs-mongodb-multi-tenant-app-by-example-435n",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React JSX",
-    "link": "https://dev.to/barshonwebdev/react-jsx-1paf",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Return union types in ReScript",
-    "link": "https://dev.to/vtrofin/return-union-types-in-rescript-11d2",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Virtual DOM? Difference between virtual DOM and real DOM?",
-    "link": "https://dev.to/programmershahjalal/what-is-virtual-dom-difference-between-virtual-dom-and-real-dom-2l0i",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Virtual DOM and Diff algorithm in React",
-    "link": "https://dev.to/mariyapoly/virtual-dom-and-diff-algorithm-in-react-3h74",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "React-Router-dom 6! What changed?",
-    "link": "https://dev.to/jubarcelos/react-router-dom-6-what-changed-4a8",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Call Control Objects (NCCOs) | One Dev Minute",
-    "link": "https://dev.to/vonagedev/call-control-objects-nccos-one-dev-minute-67l",
-    "date": "12/22/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "I share my Notion template with over 440 pages of web development content",
-    "link": "https://blog.damiandemasi.com/i-share-my-notion-template-with-over-440-pages-of-web-development-content",
-    "date": "12/21/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Get JavaScript Objects from a JSON File",
-    "link": "https://codewithnikhil.hashnode.dev/get-javascript-objects-from-a-json-file",
-    "date": "12/21/2021",
-    "site": "hashnode"
   },
   {
     "title": "I share my Notion template with over 440 pages of web development content",
@@ -829,15 +877,9 @@
   },
   {
     "title": "I share my Notion template with over 440 pages of web development content",
-    "link": "https://blog.damiandemasi.com/i-share-my-notion-template-with-over-440-pages-of-web-development-content",
+    "link": "https://dev.to/colocodes/i-share-my-notion-template-with-over-440-pages-of-web-development-content-22cf",
     "date": "12/21/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Get JavaScript Objects from a JSON File",
-    "link": "https://codewithnikhil.hashnode.dev/get-javascript-objects-from-a-json-file",
-    "date": "12/21/2021",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "I share my Notion template with over 440 pages of web development content",
@@ -847,51 +889,9 @@
   },
   {
     "title": "I share my Notion template with over 440 pages of web development content",
-    "link": "https://blog.damiandemasi.com/i-share-my-notion-template-with-over-440-pages-of-web-development-content",
-    "date": "12/21/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Get JavaScript Objects from a JSON File",
-    "link": "https://codewithnikhil.hashnode.dev/get-javascript-objects-from-a-json-file",
-    "date": "12/21/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "I share my Notion template with over 440 pages of web development content",
     "link": "https://dev.to/colocodes/i-share-my-notion-template-with-over-440-pages-of-web-development-content-22cf",
     "date": "12/21/2021",
     "site": "dev.to"
-  },
-  {
-    "title": "I share my Notion template with over 440 pages of web development content",
-    "link": "https://blog.damiandemasi.com/i-share-my-notion-template-with-over-440-pages-of-web-development-content",
-    "date": "12/21/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Get JavaScript Objects from a JSON File",
-    "link": "https://codewithnikhil.hashnode.dev/get-javascript-objects-from-a-json-file",
-    "date": "12/21/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "I share my Notion template with over 440 pages of web development content",
-    "link": "https://dev.to/colocodes/i-share-my-notion-template-with-over-440-pages-of-web-development-content-22cf",
-    "date": "12/21/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "I share my Notion template with over 440 pages of web development content",
-    "link": "https://blog.damiandemasi.com/i-share-my-notion-template-with-over-440-pages-of-web-development-content",
-    "date": "12/21/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Get JavaScript Objects from a JSON File",
-    "link": "https://codewithnikhil.hashnode.dev/get-javascript-objects-from-a-json-file",
-    "date": "12/21/2021",
-    "site": "hashnode"
   },
   {
     "title": "I share my Notion template with over 440 pages of web development content",
@@ -1076,7 +1076,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -1178,7 +1178,7 @@
   {
     "title": "Getting Started With Webpack",
     "link": "https://www.smashingmagazine.com/2021/06/getting-started-webpack/",
-    "reading_time": "20 min read",
+    "reading_time": "19 min read",
     "date": "6/4/2021",
     "site": "smashingmagazine"
   },
