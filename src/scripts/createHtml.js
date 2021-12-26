@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const minifyHtml = require('@minify-html/js');
+
 const cfg = minifyHtml.createConfiguration({
   keep_spaces_between_attributes: true,
   keep_comments: true,
@@ -29,7 +30,18 @@ const createHtml = () =>
         articlePage.push(_articles[i]);
       }
 
-      const articles = _articles.map((article) => {
+      const removeDupliactes = (values) => {
+        const concatArray = values.map((eachValue) =>
+          Object.values(eachValue).join(''),
+        );
+        const filterValues = values.filter(
+          (value, index) => concatArray.indexOf(concatArray[index]) === index,
+        );
+        return filterValues;
+      };
+      removeDupliactes(_articles);
+
+      const articles = removeDupliactes(_articles).map((article) => {
         const { title, link, date, site } = article;
 
         return `

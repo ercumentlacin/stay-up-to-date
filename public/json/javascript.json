@@ -1,19 +1,607 @@
 [
   {
+    "title": "LeetCode - Largest Number",
+    "link": "https://alkesh26.hashnode.dev/leetcode-largest-number",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting up Dapr Redis NestJS Pub Sub Via Docker-Compose",
+    "link": "https://thedatalife.com/setting-up-dapr-redis-nestjs-pub-sub-via-docker-compose",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Public Solving: Making an autopilot navigator",
+    "link": "https://h.daily-dev-tips.com/public-solving-making-an-autopilot-navigator",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "No way! Just finished my first course (not bought).",
+    "link": "https://iñaki.blog/no-way-just-finished-my-first-course-not-bought",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Public Solving: Making an autopilot navigator",
+    "link": "https://dev.to/dailydevtips1/public-solving-making-an-autopilot-navigator-3414",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can I disable the automatic deferring of module-scripts without the `async` attribute?",
+    "link": "https://dev.to/baenencalin/can-i-disable-the-automatic-deferring-of-module-scripts-without-the-async-attribute-54fd",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "LeetCode - Largest Number",
+    "link": "https://dev.to/_alkesh26/leetcode-largest-number-30no",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Automation with Playwright",
+    "link": "https://dev.to/ishanme/web-automation-with-playwright-4afl",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "does that lorem10/lorem not work in react JSX code?",
+    "link": "https://dev.to/ziaashraf/does-that-lorem10lorem-not-work-in-react-jsx-code-ip0",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "100 things I learned writing my first technical book ",
+    "link": "https://dev.to/viebel/100-things-i-learned-writing-my-first-technical-book-2np3",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using WebRTC and Svelte",
+    "link": "https://dev.to/yaku/using-webrtc-and-svelte-3pn",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Python?",
+    "link": "https://dev.to/rohithaditya/why-python-5h9o",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "1000+ Web development resources",
+    "link": "https://dev.to/codewhiteweb/1000-web-development-resources-24mb",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tech to Keep an Eye Out for in 2022",
+    "link": "https://dev.to/ruppysuppy/tech-to-keep-an-eye-out-for-in-2022-3i4m",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Find The Perfect Color Palette Using These Free Tools.",
+    "link": "https://dev.to/cesscode/find-the-perfect-color-palette-using-these-free-tools-28dk",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Simplify React Documentation using MDX with Docz!",
+    "link": "https://dev.to/aviyel/simplify-react-documentation-using-mdx-with-docz-430j",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add color to your code block",
+    "link": "https://dev.to/doldoki/add-colors-to-your-code-block-4h8k",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Brain**** interpreter I made is on Sololearn.",
+    "link": "https://dev.to/baenencalin/the-brain-interpreter-i-made-is-on-sololearn-15of",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "LeetCode - Largest Number",
+    "link": "https://alkesh26.hashnode.dev/leetcode-largest-number",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting up Dapr Redis NestJS Pub Sub Via Docker-Compose",
+    "link": "https://thedatalife.com/setting-up-dapr-redis-nestjs-pub-sub-via-docker-compose",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Public Solving: Making an autopilot navigator",
+    "link": "https://h.daily-dev-tips.com/public-solving-making-an-autopilot-navigator",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "No way! Just finished my first course (not bought).",
+    "link": "https://iñaki.blog/no-way-just-finished-my-first-course-not-bought",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Public Solving: Making an autopilot navigator",
+    "link": "https://dev.to/dailydevtips1/public-solving-making-an-autopilot-navigator-3414",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can I disable the automatic deferring of module-scripts without the `async` attribute?",
+    "link": "https://dev.to/baenencalin/can-i-disable-the-automatic-deferring-of-module-scripts-without-the-async-attribute-54fd",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "LeetCode - Largest Number",
+    "link": "https://dev.to/_alkesh26/leetcode-largest-number-30no",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Automation with Playwright",
+    "link": "https://dev.to/ishanme/web-automation-with-playwright-4afl",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "does that lorem10/lorem not work in react JSX code?",
+    "link": "https://dev.to/ziaashraf/does-that-lorem10lorem-not-work-in-react-jsx-code-ip0",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "100 things I learned writing my first technical book ",
+    "link": "https://dev.to/viebel/100-things-i-learned-writing-my-first-technical-book-2np3",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using WebRTC and Svelte",
+    "link": "https://dev.to/yaku/using-webrtc-and-svelte-3pn",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Python?",
+    "link": "https://dev.to/rohithaditya/why-python-5h9o",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "1000+ Web development resources",
+    "link": "https://dev.to/codewhiteweb/1000-web-development-resources-24mb",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tech to Keep an Eye Out for in 2022",
+    "link": "https://dev.to/ruppysuppy/tech-to-keep-an-eye-out-for-in-2022-3i4m",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Find The Perfect Color Palette Using These Free Tools.",
+    "link": "https://dev.to/cesscode/find-the-perfect-color-palette-using-these-free-tools-28dk",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Simplify React Documentation using MDX with Docz!",
+    "link": "https://dev.to/aviyel/simplify-react-documentation-using-mdx-with-docz-430j",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add color to your code block",
+    "link": "https://dev.to/doldoki/add-colors-to-your-code-block-4h8k",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Brain**** interpreter I made is on Sololearn.",
+    "link": "https://dev.to/baenencalin/the-brain-interpreter-i-made-is-on-sololearn-15of",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "LeetCode - Largest Number",
+    "link": "https://alkesh26.hashnode.dev/leetcode-largest-number",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting up Dapr Redis NestJS Pub Sub Via Docker-Compose",
+    "link": "https://thedatalife.com/setting-up-dapr-redis-nestjs-pub-sub-via-docker-compose",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Public Solving: Making an autopilot navigator",
+    "link": "https://h.daily-dev-tips.com/public-solving-making-an-autopilot-navigator",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "No way! Just finished my first course (not bought).",
+    "link": "https://iñaki.blog/no-way-just-finished-my-first-course-not-bought",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Public Solving: Making an autopilot navigator",
+    "link": "https://dev.to/dailydevtips1/public-solving-making-an-autopilot-navigator-3414",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can I disable the automatic deferring of module-scripts without the `async` attribute?",
+    "link": "https://dev.to/baenencalin/can-i-disable-the-automatic-deferring-of-module-scripts-without-the-async-attribute-54fd",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "LeetCode - Largest Number",
+    "link": "https://dev.to/_alkesh26/leetcode-largest-number-30no",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Automation with Playwright",
+    "link": "https://dev.to/ishanme/web-automation-with-playwright-4afl",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "does that lorem10/lorem not work in react JSX code?",
+    "link": "https://dev.to/ziaashraf/does-that-lorem10lorem-not-work-in-react-jsx-code-ip0",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "100 things I learned writing my first technical book ",
+    "link": "https://dev.to/viebel/100-things-i-learned-writing-my-first-technical-book-2np3",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using WebRTC and Svelte",
+    "link": "https://dev.to/yaku/using-webrtc-and-svelte-3pn",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Python?",
+    "link": "https://dev.to/rohithaditya/why-python-5h9o",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "1000+ Web development resources",
+    "link": "https://dev.to/codewhiteweb/1000-web-development-resources-24mb",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tech to Keep an Eye Out for in 2022",
+    "link": "https://dev.to/ruppysuppy/tech-to-keep-an-eye-out-for-in-2022-3i4m",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Find The Perfect Color Palette Using These Free Tools.",
+    "link": "https://dev.to/cesscode/find-the-perfect-color-palette-using-these-free-tools-28dk",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Simplify React Documentation using MDX with Docz!",
+    "link": "https://dev.to/aviyel/simplify-react-documentation-using-mdx-with-docz-430j",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add color to your code block",
+    "link": "https://dev.to/doldoki/add-colors-to-your-code-block-4h8k",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Brain**** interpreter I made is on Sololearn.",
+    "link": "https://dev.to/baenencalin/the-brain-interpreter-i-made-is-on-sololearn-15of",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "LeetCode - Largest Number",
+    "link": "https://alkesh26.hashnode.dev/leetcode-largest-number",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting up Dapr Redis NestJS Pub Sub Via Docker-Compose",
+    "link": "https://thedatalife.com/setting-up-dapr-redis-nestjs-pub-sub-via-docker-compose",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Public Solving: Making an autopilot navigator",
+    "link": "https://h.daily-dev-tips.com/public-solving-making-an-autopilot-navigator",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "No way! Just finished my first course (not bought).",
+    "link": "https://iñaki.blog/no-way-just-finished-my-first-course-not-bought",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Public Solving: Making an autopilot navigator",
+    "link": "https://dev.to/dailydevtips1/public-solving-making-an-autopilot-navigator-3414",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can I disable the automatic deferring of module-scripts without the `async` attribute?",
+    "link": "https://dev.to/baenencalin/can-i-disable-the-automatic-deferring-of-module-scripts-without-the-async-attribute-54fd",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "LeetCode - Largest Number",
+    "link": "https://dev.to/_alkesh26/leetcode-largest-number-30no",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Automation with Playwright",
+    "link": "https://dev.to/ishanme/web-automation-with-playwright-4afl",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "does that lorem10/lorem not work in react JSX code?",
+    "link": "https://dev.to/ziaashraf/does-that-lorem10lorem-not-work-in-react-jsx-code-ip0",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "100 things I learned writing my first technical book ",
+    "link": "https://dev.to/viebel/100-things-i-learned-writing-my-first-technical-book-2np3",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using WebRTC and Svelte",
+    "link": "https://dev.to/yaku/using-webrtc-and-svelte-3pn",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Python?",
+    "link": "https://dev.to/rohithaditya/why-python-5h9o",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "1000+ Web development resources",
+    "link": "https://dev.to/codewhiteweb/1000-web-development-resources-24mb",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tech to Keep an Eye Out for in 2022",
+    "link": "https://dev.to/ruppysuppy/tech-to-keep-an-eye-out-for-in-2022-3i4m",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Find The Perfect Color Palette Using These Free Tools.",
+    "link": "https://dev.to/cesscode/find-the-perfect-color-palette-using-these-free-tools-28dk",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Simplify React Documentation using MDX with Docz!",
+    "link": "https://dev.to/aviyel/simplify-react-documentation-using-mdx-with-docz-430j",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add color to your code block",
+    "link": "https://dev.to/doldoki/add-colors-to-your-code-block-4h8k",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Brain**** interpreter I made is on Sololearn.",
+    "link": "https://dev.to/baenencalin/the-brain-interpreter-i-made-is-on-sololearn-15of",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "LeetCode - Largest Number",
+    "link": "https://alkesh26.hashnode.dev/leetcode-largest-number",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting up Dapr Redis NestJS Pub Sub Via Docker-Compose",
+    "link": "https://thedatalife.com/setting-up-dapr-redis-nestjs-pub-sub-via-docker-compose",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Public Solving: Making an autopilot navigator",
+    "link": "https://h.daily-dev-tips.com/public-solving-making-an-autopilot-navigator",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "No way! Just finished my first course (not bought).",
+    "link": "https://iñaki.blog/no-way-just-finished-my-first-course-not-bought",
+    "date": "12/26/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Public Solving: Making an autopilot navigator",
+    "link": "https://dev.to/dailydevtips1/public-solving-making-an-autopilot-navigator-3414",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can I disable the automatic deferring of module-scripts without the `async` attribute?",
+    "link": "https://dev.to/baenencalin/can-i-disable-the-automatic-deferring-of-module-scripts-without-the-async-attribute-54fd",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "LeetCode - Largest Number",
+    "link": "https://dev.to/_alkesh26/leetcode-largest-number-30no",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Automation with Playwright",
+    "link": "https://dev.to/ishanme/web-automation-with-playwright-4afl",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "does that lorem10/lorem not work in react JSX code?",
+    "link": "https://dev.to/ziaashraf/does-that-lorem10lorem-not-work-in-react-jsx-code-ip0",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "100 things I learned writing my first technical book ",
+    "link": "https://dev.to/viebel/100-things-i-learned-writing-my-first-technical-book-2np3",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using WebRTC and Svelte",
+    "link": "https://dev.to/yaku/using-webrtc-and-svelte-3pn",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Python?",
+    "link": "https://dev.to/rohithaditya/why-python-5h9o",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "1000+ Web development resources",
+    "link": "https://dev.to/codewhiteweb/1000-web-development-resources-24mb",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tech to Keep an Eye Out for in 2022",
+    "link": "https://dev.to/ruppysuppy/tech-to-keep-an-eye-out-for-in-2022-3i4m",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Find The Perfect Color Palette Using These Free Tools.",
+    "link": "https://dev.to/cesscode/find-the-perfect-color-palette-using-these-free-tools-28dk",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Simplify React Documentation using MDX with Docz!",
+    "link": "https://dev.to/aviyel/simplify-react-documentation-using-mdx-with-docz-430j",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add color to your code block",
+    "link": "https://dev.to/doldoki/add-colors-to-your-code-block-4h8k",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Brain**** interpreter I made is on Sololearn.",
+    "link": "https://dev.to/baenencalin/the-brain-interpreter-i-made-is-on-sololearn-15of",
+    "date": "12/26/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Useful JavaScript Code Snippets for Common Problems 😎",
+    "link": "https://teeblog.hashnode.dev/useful-javascript-code-snippets-for-common-problems",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why I decided to learn coding?",
+    "link": "https://ismailosman.hashnode.dev/why-i-decided-to-learn-coding",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Dear young dev...",
+    "link": "https://babafemijk.hashnode.dev/dear-young-dev",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Reducing Clojure Lambda Cold Starts Part 5 - Native JVM vs Node Performance",
+    "link": "https://lambdastew.hashnode.dev/reducing-clojure-lambda-cold-starts-part-5-native-jvm-vs-node-performance",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Free Ebook & Courses for Frontend Devs",
+    "link": "https://suprabhasupi.hashnode.dev/free-ebook-and-courses-for-frontend-devs",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "My Journey from \"NO SOCIAL MEDIA\" to \"WRITING MY FIRST BLOG\"",
+    "link": "https://aishthecoder.hashnode.dev/my-journey-from-no-social-media-to-writing-my-first-blog",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "26 Github Open Sources For Learning Programming",
+    "link": "https://niemvuilaptrinh.hashnode.dev/26-github-open-sources-for-learning-programming",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Public Solving: Earth, Fire, Snow game",
     "link": "https://h.daily-dev-tips.com/public-solving-earth-fire-snow-game",
     "date": "12/25/2021",
     "site": "hashnode"
   },
   {
-    "title": "Best GitHub repos to learn Programming [UPDATED]",
-    "link": "https://blog.oussamazeddam.com/best-github-repos-to-learn-programming-updated",
+    "title": "Top 30  Best Chrome Extensions For Web Developers.",
+    "link": "https://blog.cmray.tech/top-30-best-chrome-extensions-for-web-developers",
     "date": "12/25/2021",
     "site": "hashnode"
   },
   {
-    "title": "Vue 3 - Declarative Rendering",
-    "link": "https://irlanvila.hashnode.dev/vue-3-declarative-rendering",
+    "title": "Primitive and Reference type in Javascript.",
+    "link": "https://adityakmr.hashnode.dev/primitive-and-reference-type-in-javascript",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a little npm package and publish it",
+    "link": "https://codewithsnowbit.hashnode.dev/how-to-make-a-little-npm-package-and-publish-it",
     "date": "12/25/2021",
     "site": "hashnode"
   },
@@ -24,70 +612,46 @@
     "site": "dev.to"
   },
   {
-    "title": "How to get rid of code formatting",
-    "link": "https://dev.to/dhruv_rajkotia/how-to-get-rid-of-code-formatting-5794",
+    "title": "Useful JavaScript Code Snippets for Common Problems 😎",
+    "link": "https://teeblog.hashnode.dev/useful-javascript-code-snippets-for-common-problems",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Build Your Own API using node and express",
-    "link": "https://dev.to/kirtisingh3008/build-your-own-api-using-node-and-express-3g3e",
+    "title": "Why I decided to learn coding?",
+    "link": "https://ismailosman.hashnode.dev/why-i-decided-to-learn-coding",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Server Side Rendering, Prisma + Next.js  + TypeScript",
-    "link": "https://dev.to/dmuraco3/server-side-rendering-prisma-nextjs-typescript-3kad",
+    "title": "Dear young dev...",
+    "link": "https://babafemijk.hashnode.dev/dear-young-dev",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Kemasan Sangat Berharga Untuk Produk Mu",
-    "link": "https://dev.to/akon/kemasan-sangat-berharga-untuk-produk-mu-3gg4",
+    "title": "Reducing Clojure Lambda Cold Starts Part 5 - Native JVM vs Node Performance",
+    "link": "https://lambdastew.hashnode.dev/reducing-clojure-lambda-cold-starts-part-5-native-jvm-vs-node-performance",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "E-commerce website with a powerful search engine equipped with autocomplete",
-    "link": "https://dev.to/irshad4250/e-commerce-website-with-a-powerful-search-engine-equipped-with-autocomplete-1j0g",
+    "title": "Free Ebook & Courses for Frontend Devs",
+    "link": "https://suprabhasupi.hashnode.dev/free-ebook-and-courses-for-frontend-devs",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Best GitHub repos to learn Programming [UPDATED]",
-    "link": "https://dev.to/oussamazeddam/best-github-repos-to-learn-programming-updated-aec",
+    "title": "My Journey from \"NO SOCIAL MEDIA\" to \"WRITING MY FIRST BLOG\"",
+    "link": "https://aishthecoder.hashnode.dev/my-journey-from-no-social-media-to-writing-my-first-blog",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Comparing Memory Consumption of Delegated Event Listeners and Individual Event Listeners in Javascript ",
-    "link": "https://dev.to/mohamadharith/comparing-memory-consumption-of-delegated-event-listeners-and-individual-event-listeners-in-javascript-1l3e",
+    "title": "26 Github Open Sources For Learning Programming",
+    "link": "https://niemvuilaptrinh.hashnode.dev/26-github-open-sources-for-learning-programming",
     "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "RecatJS CRUD operations using Local Storage",
-    "link": "https://dev.to/deepakjaiswal/recatjs-crud-operations-using-local-storage-3ih2",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Position Sticky With CSS Grid, Conditional Border Radius In CSS, Custom Scrollbars In CSS",
-    "link": "https://dev.to/sarminakterdipty/position-sticky-with-css-grid-conditional-border-radius-in-css-custom-scrollbars-in-css-28ff",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animate on click with Javascript!",
-    "link": "https://dev.to/subhransuindia/animate-on-click-with-javascript-5ae8",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "A cursor trailing effect library for this Christmas",
-    "link": "https://dev.to/finfin/a-cursor-trailing-effect-library-for-this-christmas-2mkg",
-    "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Public Solving: Earth, Fire, Snow game",
@@ -96,14 +660,20 @@
     "site": "hashnode"
   },
   {
-    "title": "Best GitHub repos to learn Programming [UPDATED]",
-    "link": "https://blog.oussamazeddam.com/best-github-repos-to-learn-programming-updated",
+    "title": "Top 30  Best Chrome Extensions For Web Developers.",
+    "link": "https://blog.cmray.tech/top-30-best-chrome-extensions-for-web-developers",
     "date": "12/25/2021",
     "site": "hashnode"
   },
   {
-    "title": "Vue 3 - Declarative Rendering",
-    "link": "https://irlanvila.hashnode.dev/vue-3-declarative-rendering",
+    "title": "Primitive and Reference type in Javascript.",
+    "link": "https://adityakmr.hashnode.dev/primitive-and-reference-type-in-javascript",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a little npm package and publish it",
+    "link": "https://codewithsnowbit.hashnode.dev/how-to-make-a-little-npm-package-and-publish-it",
     "date": "12/25/2021",
     "site": "hashnode"
   },
@@ -114,70 +684,46 @@
     "site": "dev.to"
   },
   {
-    "title": "How to get rid of code formatting",
-    "link": "https://dev.to/dhruv_rajkotia/how-to-get-rid-of-code-formatting-5794",
+    "title": "Useful JavaScript Code Snippets for Common Problems 😎",
+    "link": "https://teeblog.hashnode.dev/useful-javascript-code-snippets-for-common-problems",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Build Your Own API using node and express",
-    "link": "https://dev.to/kirtisingh3008/build-your-own-api-using-node-and-express-3g3e",
+    "title": "Why I decided to learn coding?",
+    "link": "https://ismailosman.hashnode.dev/why-i-decided-to-learn-coding",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Server Side Rendering, Prisma + Next.js  + TypeScript",
-    "link": "https://dev.to/dmuraco3/server-side-rendering-prisma-nextjs-typescript-3kad",
+    "title": "Dear young dev...",
+    "link": "https://babafemijk.hashnode.dev/dear-young-dev",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Kemasan Sangat Berharga Untuk Produk Mu",
-    "link": "https://dev.to/akon/kemasan-sangat-berharga-untuk-produk-mu-3gg4",
+    "title": "Reducing Clojure Lambda Cold Starts Part 5 - Native JVM vs Node Performance",
+    "link": "https://lambdastew.hashnode.dev/reducing-clojure-lambda-cold-starts-part-5-native-jvm-vs-node-performance",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "E-commerce website with a powerful search engine equipped with autocomplete",
-    "link": "https://dev.to/irshad4250/e-commerce-website-with-a-powerful-search-engine-equipped-with-autocomplete-1j0g",
+    "title": "Free Ebook & Courses for Frontend Devs",
+    "link": "https://suprabhasupi.hashnode.dev/free-ebook-and-courses-for-frontend-devs",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Best GitHub repos to learn Programming [UPDATED]",
-    "link": "https://dev.to/oussamazeddam/best-github-repos-to-learn-programming-updated-aec",
+    "title": "My Journey from \"NO SOCIAL MEDIA\" to \"WRITING MY FIRST BLOG\"",
+    "link": "https://aishthecoder.hashnode.dev/my-journey-from-no-social-media-to-writing-my-first-blog",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Comparing Memory Consumption of Delegated Event Listeners and Individual Event Listeners in Javascript ",
-    "link": "https://dev.to/mohamadharith/comparing-memory-consumption-of-delegated-event-listeners-and-individual-event-listeners-in-javascript-1l3e",
+    "title": "26 Github Open Sources For Learning Programming",
+    "link": "https://niemvuilaptrinh.hashnode.dev/26-github-open-sources-for-learning-programming",
     "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "RecatJS CRUD operations using Local Storage",
-    "link": "https://dev.to/deepakjaiswal/recatjs-crud-operations-using-local-storage-3ih2",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Position Sticky With CSS Grid, Conditional Border Radius In CSS, Custom Scrollbars In CSS",
-    "link": "https://dev.to/sarminakterdipty/position-sticky-with-css-grid-conditional-border-radius-in-css-custom-scrollbars-in-css-28ff",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animate on click with Javascript!",
-    "link": "https://dev.to/subhransuindia/animate-on-click-with-javascript-5ae8",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "A cursor trailing effect library for this Christmas",
-    "link": "https://dev.to/finfin/a-cursor-trailing-effect-library-for-this-christmas-2mkg",
-    "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Public Solving: Earth, Fire, Snow game",
@@ -186,14 +732,20 @@
     "site": "hashnode"
   },
   {
-    "title": "Best GitHub repos to learn Programming [UPDATED]",
-    "link": "https://blog.oussamazeddam.com/best-github-repos-to-learn-programming-updated",
+    "title": "Top 30  Best Chrome Extensions For Web Developers.",
+    "link": "https://blog.cmray.tech/top-30-best-chrome-extensions-for-web-developers",
     "date": "12/25/2021",
     "site": "hashnode"
   },
   {
-    "title": "Vue 3 - Declarative Rendering",
-    "link": "https://irlanvila.hashnode.dev/vue-3-declarative-rendering",
+    "title": "Primitive and Reference type in Javascript.",
+    "link": "https://adityakmr.hashnode.dev/primitive-and-reference-type-in-javascript",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a little npm package and publish it",
+    "link": "https://codewithsnowbit.hashnode.dev/how-to-make-a-little-npm-package-and-publish-it",
     "date": "12/25/2021",
     "site": "hashnode"
   },
@@ -204,70 +756,46 @@
     "site": "dev.to"
   },
   {
-    "title": "How to get rid of code formatting",
-    "link": "https://dev.to/dhruv_rajkotia/how-to-get-rid-of-code-formatting-5794",
+    "title": "Useful JavaScript Code Snippets for Common Problems 😎",
+    "link": "https://teeblog.hashnode.dev/useful-javascript-code-snippets-for-common-problems",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Build Your Own API using node and express",
-    "link": "https://dev.to/kirtisingh3008/build-your-own-api-using-node-and-express-3g3e",
+    "title": "Why I decided to learn coding?",
+    "link": "https://ismailosman.hashnode.dev/why-i-decided-to-learn-coding",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Server Side Rendering, Prisma + Next.js  + TypeScript",
-    "link": "https://dev.to/dmuraco3/server-side-rendering-prisma-nextjs-typescript-3kad",
+    "title": "Dear young dev...",
+    "link": "https://babafemijk.hashnode.dev/dear-young-dev",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Kemasan Sangat Berharga Untuk Produk Mu",
-    "link": "https://dev.to/akon/kemasan-sangat-berharga-untuk-produk-mu-3gg4",
+    "title": "Reducing Clojure Lambda Cold Starts Part 5 - Native JVM vs Node Performance",
+    "link": "https://lambdastew.hashnode.dev/reducing-clojure-lambda-cold-starts-part-5-native-jvm-vs-node-performance",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "E-commerce website with a powerful search engine equipped with autocomplete",
-    "link": "https://dev.to/irshad4250/e-commerce-website-with-a-powerful-search-engine-equipped-with-autocomplete-1j0g",
+    "title": "Free Ebook & Courses for Frontend Devs",
+    "link": "https://suprabhasupi.hashnode.dev/free-ebook-and-courses-for-frontend-devs",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Best GitHub repos to learn Programming [UPDATED]",
-    "link": "https://dev.to/oussamazeddam/best-github-repos-to-learn-programming-updated-aec",
+    "title": "My Journey from \"NO SOCIAL MEDIA\" to \"WRITING MY FIRST BLOG\"",
+    "link": "https://aishthecoder.hashnode.dev/my-journey-from-no-social-media-to-writing-my-first-blog",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Comparing Memory Consumption of Delegated Event Listeners and Individual Event Listeners in Javascript ",
-    "link": "https://dev.to/mohamadharith/comparing-memory-consumption-of-delegated-event-listeners-and-individual-event-listeners-in-javascript-1l3e",
+    "title": "26 Github Open Sources For Learning Programming",
+    "link": "https://niemvuilaptrinh.hashnode.dev/26-github-open-sources-for-learning-programming",
     "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "RecatJS CRUD operations using Local Storage",
-    "link": "https://dev.to/deepakjaiswal/recatjs-crud-operations-using-local-storage-3ih2",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Position Sticky With CSS Grid, Conditional Border Radius In CSS, Custom Scrollbars In CSS",
-    "link": "https://dev.to/sarminakterdipty/position-sticky-with-css-grid-conditional-border-radius-in-css-custom-scrollbars-in-css-28ff",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animate on click with Javascript!",
-    "link": "https://dev.to/subhransuindia/animate-on-click-with-javascript-5ae8",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "A cursor trailing effect library for this Christmas",
-    "link": "https://dev.to/finfin/a-cursor-trailing-effect-library-for-this-christmas-2mkg",
-    "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Public Solving: Earth, Fire, Snow game",
@@ -276,14 +804,20 @@
     "site": "hashnode"
   },
   {
-    "title": "Best GitHub repos to learn Programming [UPDATED]",
-    "link": "https://blog.oussamazeddam.com/best-github-repos-to-learn-programming-updated",
+    "title": "Top 30  Best Chrome Extensions For Web Developers.",
+    "link": "https://blog.cmray.tech/top-30-best-chrome-extensions-for-web-developers",
     "date": "12/25/2021",
     "site": "hashnode"
   },
   {
-    "title": "Vue 3 - Declarative Rendering",
-    "link": "https://irlanvila.hashnode.dev/vue-3-declarative-rendering",
+    "title": "Primitive and Reference type in Javascript.",
+    "link": "https://adityakmr.hashnode.dev/primitive-and-reference-type-in-javascript",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a little npm package and publish it",
+    "link": "https://codewithsnowbit.hashnode.dev/how-to-make-a-little-npm-package-and-publish-it",
     "date": "12/25/2021",
     "site": "hashnode"
   },
@@ -294,70 +828,46 @@
     "site": "dev.to"
   },
   {
-    "title": "How to get rid of code formatting",
-    "link": "https://dev.to/dhruv_rajkotia/how-to-get-rid-of-code-formatting-5794",
+    "title": "Useful JavaScript Code Snippets for Common Problems 😎",
+    "link": "https://teeblog.hashnode.dev/useful-javascript-code-snippets-for-common-problems",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Build Your Own API using node and express",
-    "link": "https://dev.to/kirtisingh3008/build-your-own-api-using-node-and-express-3g3e",
+    "title": "Why I decided to learn coding?",
+    "link": "https://ismailosman.hashnode.dev/why-i-decided-to-learn-coding",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Server Side Rendering, Prisma + Next.js  + TypeScript",
-    "link": "https://dev.to/dmuraco3/server-side-rendering-prisma-nextjs-typescript-3kad",
+    "title": "Dear young dev...",
+    "link": "https://babafemijk.hashnode.dev/dear-young-dev",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Kemasan Sangat Berharga Untuk Produk Mu",
-    "link": "https://dev.to/akon/kemasan-sangat-berharga-untuk-produk-mu-3gg4",
+    "title": "Reducing Clojure Lambda Cold Starts Part 5 - Native JVM vs Node Performance",
+    "link": "https://lambdastew.hashnode.dev/reducing-clojure-lambda-cold-starts-part-5-native-jvm-vs-node-performance",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "E-commerce website with a powerful search engine equipped with autocomplete",
-    "link": "https://dev.to/irshad4250/e-commerce-website-with-a-powerful-search-engine-equipped-with-autocomplete-1j0g",
+    "title": "Free Ebook & Courses for Frontend Devs",
+    "link": "https://suprabhasupi.hashnode.dev/free-ebook-and-courses-for-frontend-devs",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Best GitHub repos to learn Programming [UPDATED]",
-    "link": "https://dev.to/oussamazeddam/best-github-repos-to-learn-programming-updated-aec",
+    "title": "My Journey from \"NO SOCIAL MEDIA\" to \"WRITING MY FIRST BLOG\"",
+    "link": "https://aishthecoder.hashnode.dev/my-journey-from-no-social-media-to-writing-my-first-blog",
     "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Comparing Memory Consumption of Delegated Event Listeners and Individual Event Listeners in Javascript ",
-    "link": "https://dev.to/mohamadharith/comparing-memory-consumption-of-delegated-event-listeners-and-individual-event-listeners-in-javascript-1l3e",
+    "title": "26 Github Open Sources For Learning Programming",
+    "link": "https://niemvuilaptrinh.hashnode.dev/26-github-open-sources-for-learning-programming",
     "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "RecatJS CRUD operations using Local Storage",
-    "link": "https://dev.to/deepakjaiswal/recatjs-crud-operations-using-local-storage-3ih2",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Position Sticky With CSS Grid, Conditional Border Radius In CSS, Custom Scrollbars In CSS",
-    "link": "https://dev.to/sarminakterdipty/position-sticky-with-css-grid-conditional-border-radius-in-css-custom-scrollbars-in-css-28ff",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animate on click with Javascript!",
-    "link": "https://dev.to/subhransuindia/animate-on-click-with-javascript-5ae8",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "A cursor trailing effect library for this Christmas",
-    "link": "https://dev.to/finfin/a-cursor-trailing-effect-library-for-this-christmas-2mkg",
-    "date": "12/25/2021",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Public Solving: Earth, Fire, Snow game",
@@ -366,14 +876,20 @@
     "site": "hashnode"
   },
   {
-    "title": "Best GitHub repos to learn Programming [UPDATED]",
-    "link": "https://blog.oussamazeddam.com/best-github-repos-to-learn-programming-updated",
+    "title": "Top 30  Best Chrome Extensions For Web Developers.",
+    "link": "https://blog.cmray.tech/top-30-best-chrome-extensions-for-web-developers",
     "date": "12/25/2021",
     "site": "hashnode"
   },
   {
-    "title": "Vue 3 - Declarative Rendering",
-    "link": "https://irlanvila.hashnode.dev/vue-3-declarative-rendering",
+    "title": "Primitive and Reference type in Javascript.",
+    "link": "https://adityakmr.hashnode.dev/primitive-and-reference-type-in-javascript",
+    "date": "12/25/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a little npm package and publish it",
+    "link": "https://codewithsnowbit.hashnode.dev/how-to-make-a-little-npm-package-and-publish-it",
     "date": "12/25/2021",
     "site": "hashnode"
   },
@@ -381,522 +897,6 @@
     "title": "Interactive Personal Portfolio website with HTML CSS JS",
     "link": "https://dev.to/codewithsadee/how-to-create-nft-preview-card-with-html-css-3gio",
     "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to get rid of code formatting",
-    "link": "https://dev.to/dhruv_rajkotia/how-to-get-rid-of-code-formatting-5794",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Your Own API using node and express",
-    "link": "https://dev.to/kirtisingh3008/build-your-own-api-using-node-and-express-3g3e",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Server Side Rendering, Prisma + Next.js  + TypeScript",
-    "link": "https://dev.to/dmuraco3/server-side-rendering-prisma-nextjs-typescript-3kad",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Kemasan Sangat Berharga Untuk Produk Mu",
-    "link": "https://dev.to/akon/kemasan-sangat-berharga-untuk-produk-mu-3gg4",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "E-commerce website with a powerful search engine equipped with autocomplete",
-    "link": "https://dev.to/irshad4250/e-commerce-website-with-a-powerful-search-engine-equipped-with-autocomplete-1j0g",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best GitHub repos to learn Programming [UPDATED]",
-    "link": "https://dev.to/oussamazeddam/best-github-repos-to-learn-programming-updated-aec",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Comparing Memory Consumption of Delegated Event Listeners and Individual Event Listeners in Javascript ",
-    "link": "https://dev.to/mohamadharith/comparing-memory-consumption-of-delegated-event-listeners-and-individual-event-listeners-in-javascript-1l3e",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "RecatJS CRUD operations using Local Storage",
-    "link": "https://dev.to/deepakjaiswal/recatjs-crud-operations-using-local-storage-3ih2",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Position Sticky With CSS Grid, Conditional Border Radius In CSS, Custom Scrollbars In CSS",
-    "link": "https://dev.to/sarminakterdipty/position-sticky-with-css-grid-conditional-border-radius-in-css-custom-scrollbars-in-css-28ff",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animate on click with Javascript!",
-    "link": "https://dev.to/subhransuindia/animate-on-click-with-javascript-5ae8",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "A cursor trailing effect library for this Christmas",
-    "link": "https://dev.to/finfin/a-cursor-trailing-effect-library-for-this-christmas-2mkg",
-    "date": "12/25/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Make your own chrome extension Day 3 Coding Challenge - SebCodesTheWeb",
-    "link": "https://sebcodestheweb.hashnode.dev/make-your-own-chrome-extension-day-3-coding-challenge-sebcodestheweb",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introducing Pro-modoro: Your ultimate productivity station.",
-    "link": "https://abhirajb.hashnode.dev/introducing-pro-modoro-your-ultimate-productivity-station",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Difference between export as class and object in javascript ?",
-    "link": "https://www.internetkatta.com/difference-between-export-as-class-and-object-in-javascript",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "100 Languages Speedrun: Episode 32: Gherkin",
-    "link": "https://taw.hashnode.dev/100-languages-speedrun-episode-32-gherkin",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Free Ebook & Courses for Frontend Devs",
-    "link": "https://suprabhasupi.hashnode.dev/free-ebook-and-courses-for-frontend-devs",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript & Hoisting Made Easy",
-    "link": "https://jimboslice.hashnode.dev/javascript-and-hoisting-made-easy",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Basic CRUD Operations in Prisma",
-    "link": "https://sabinadams.hashnode.dev/basic-crud-operations-in-prisma",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "JS reduce",
-    "link": "https://vkglobal.hashnode.dev/js-reduce",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Converting Roman numerals to Arabic",
-    "link": "https://h.daily-dev-tips.com/public-solving-converting-roman-numerals-to-arabic",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Multiple v-model in Vue 3",
-    "link": "https://snehalkadwe.hashnode.dev/multiple-v-model-in-vue-3",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "You Don't Need To Learn ReactJS Now",
-    "link": "https://elijahtrillionz.hashnode.dev/you-dont-need-to-learn-reactjs-now",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Local Storage Simplified!",
-    "link": "https://blogs.ansubkhan.com/local-storage-simplified",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Happy Holidays: From a developer with code!",
-    "link": "https://dev.to/noriller/happy-holidays-from-a-developer-with-code-5n7",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Prueba tus códigos html, css y javascript con MGPanel en spark",
-    "link": "https://dev.to/eloymanuelch/prueba-tus-codigos-html-css-y-javascript-con-mgpanel-en-spark-1000",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Advent.js🎅🏼| #18: El sistema operativo de Santa Claus",
-    "link": "https://dev.to/duxtech/adventjs-18-el-sistema-operativo-de-santa-claus-1595",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Make your own chrome extension Day 3 Coding Challenge - SebCodesTheWeb",
-    "link": "https://sebcodestheweb.hashnode.dev/make-your-own-chrome-extension-day-3-coding-challenge-sebcodestheweb",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introducing Pro-modoro: Your ultimate productivity station.",
-    "link": "https://abhirajb.hashnode.dev/introducing-pro-modoro-your-ultimate-productivity-station",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Difference between export as class and object in javascript ?",
-    "link": "https://www.internetkatta.com/difference-between-export-as-class-and-object-in-javascript",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "100 Languages Speedrun: Episode 32: Gherkin",
-    "link": "https://taw.hashnode.dev/100-languages-speedrun-episode-32-gherkin",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Free Ebook & Courses for Frontend Devs",
-    "link": "https://suprabhasupi.hashnode.dev/free-ebook-and-courses-for-frontend-devs",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript & Hoisting Made Easy",
-    "link": "https://jimboslice.hashnode.dev/javascript-and-hoisting-made-easy",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Basic CRUD Operations in Prisma",
-    "link": "https://sabinadams.hashnode.dev/basic-crud-operations-in-prisma",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "JS reduce",
-    "link": "https://vkglobal.hashnode.dev/js-reduce",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Converting Roman numerals to Arabic",
-    "link": "https://h.daily-dev-tips.com/public-solving-converting-roman-numerals-to-arabic",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Multiple v-model in Vue 3",
-    "link": "https://snehalkadwe.hashnode.dev/multiple-v-model-in-vue-3",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "You Don't Need To Learn ReactJS Now",
-    "link": "https://elijahtrillionz.hashnode.dev/you-dont-need-to-learn-reactjs-now",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Local Storage Simplified!",
-    "link": "https://blogs.ansubkhan.com/local-storage-simplified",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Happy Holidays: From a developer with code!",
-    "link": "https://dev.to/noriller/happy-holidays-from-a-developer-with-code-5n7",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Prueba tus códigos html, css y javascript con MGPanel en spark",
-    "link": "https://dev.to/eloymanuelch/prueba-tus-codigos-html-css-y-javascript-con-mgpanel-en-spark-1000",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Advent.js🎅🏼| #18: El sistema operativo de Santa Claus",
-    "link": "https://dev.to/duxtech/adventjs-18-el-sistema-operativo-de-santa-claus-1595",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Make your own chrome extension Day 3 Coding Challenge - SebCodesTheWeb",
-    "link": "https://sebcodestheweb.hashnode.dev/make-your-own-chrome-extension-day-3-coding-challenge-sebcodestheweb",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introducing Pro-modoro: Your ultimate productivity station.",
-    "link": "https://abhirajb.hashnode.dev/introducing-pro-modoro-your-ultimate-productivity-station",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Difference between export as class and object in javascript ?",
-    "link": "https://www.internetkatta.com/difference-between-export-as-class-and-object-in-javascript",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "100 Languages Speedrun: Episode 32: Gherkin",
-    "link": "https://taw.hashnode.dev/100-languages-speedrun-episode-32-gherkin",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Free Ebook & Courses for Frontend Devs",
-    "link": "https://suprabhasupi.hashnode.dev/free-ebook-and-courses-for-frontend-devs",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript & Hoisting Made Easy",
-    "link": "https://jimboslice.hashnode.dev/javascript-and-hoisting-made-easy",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Basic CRUD Operations in Prisma",
-    "link": "https://sabinadams.hashnode.dev/basic-crud-operations-in-prisma",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "JS reduce",
-    "link": "https://vkglobal.hashnode.dev/js-reduce",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Converting Roman numerals to Arabic",
-    "link": "https://h.daily-dev-tips.com/public-solving-converting-roman-numerals-to-arabic",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Multiple v-model in Vue 3",
-    "link": "https://snehalkadwe.hashnode.dev/multiple-v-model-in-vue-3",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "You Don't Need To Learn ReactJS Now",
-    "link": "https://elijahtrillionz.hashnode.dev/you-dont-need-to-learn-reactjs-now",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Local Storage Simplified!",
-    "link": "https://blogs.ansubkhan.com/local-storage-simplified",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Happy Holidays: From a developer with code!",
-    "link": "https://dev.to/noriller/happy-holidays-from-a-developer-with-code-5n7",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Prueba tus códigos html, css y javascript con MGPanel en spark",
-    "link": "https://dev.to/eloymanuelch/prueba-tus-codigos-html-css-y-javascript-con-mgpanel-en-spark-1000",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Advent.js🎅🏼| #18: El sistema operativo de Santa Claus",
-    "link": "https://dev.to/duxtech/adventjs-18-el-sistema-operativo-de-santa-claus-1595",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Make your own chrome extension Day 3 Coding Challenge - SebCodesTheWeb",
-    "link": "https://sebcodestheweb.hashnode.dev/make-your-own-chrome-extension-day-3-coding-challenge-sebcodestheweb",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introducing Pro-modoro: Your ultimate productivity station.",
-    "link": "https://abhirajb.hashnode.dev/introducing-pro-modoro-your-ultimate-productivity-station",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Difference between export as class and object in javascript ?",
-    "link": "https://www.internetkatta.com/difference-between-export-as-class-and-object-in-javascript",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "100 Languages Speedrun: Episode 32: Gherkin",
-    "link": "https://taw.hashnode.dev/100-languages-speedrun-episode-32-gherkin",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Free Ebook & Courses for Frontend Devs",
-    "link": "https://suprabhasupi.hashnode.dev/free-ebook-and-courses-for-frontend-devs",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript & Hoisting Made Easy",
-    "link": "https://jimboslice.hashnode.dev/javascript-and-hoisting-made-easy",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Basic CRUD Operations in Prisma",
-    "link": "https://sabinadams.hashnode.dev/basic-crud-operations-in-prisma",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "JS reduce",
-    "link": "https://vkglobal.hashnode.dev/js-reduce",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Converting Roman numerals to Arabic",
-    "link": "https://h.daily-dev-tips.com/public-solving-converting-roman-numerals-to-arabic",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Multiple v-model in Vue 3",
-    "link": "https://snehalkadwe.hashnode.dev/multiple-v-model-in-vue-3",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "You Don't Need To Learn ReactJS Now",
-    "link": "https://elijahtrillionz.hashnode.dev/you-dont-need-to-learn-reactjs-now",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Local Storage Simplified!",
-    "link": "https://blogs.ansubkhan.com/local-storage-simplified",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Happy Holidays: From a developer with code!",
-    "link": "https://dev.to/noriller/happy-holidays-from-a-developer-with-code-5n7",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Prueba tus códigos html, css y javascript con MGPanel en spark",
-    "link": "https://dev.to/eloymanuelch/prueba-tus-codigos-html-css-y-javascript-con-mgpanel-en-spark-1000",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Advent.js🎅🏼| #18: El sistema operativo de Santa Claus",
-    "link": "https://dev.to/duxtech/adventjs-18-el-sistema-operativo-de-santa-claus-1595",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Make your own chrome extension Day 3 Coding Challenge - SebCodesTheWeb",
-    "link": "https://sebcodestheweb.hashnode.dev/make-your-own-chrome-extension-day-3-coding-challenge-sebcodestheweb",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introducing Pro-modoro: Your ultimate productivity station.",
-    "link": "https://abhirajb.hashnode.dev/introducing-pro-modoro-your-ultimate-productivity-station",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Difference between export as class and object in javascript ?",
-    "link": "https://www.internetkatta.com/difference-between-export-as-class-and-object-in-javascript",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "100 Languages Speedrun: Episode 32: Gherkin",
-    "link": "https://taw.hashnode.dev/100-languages-speedrun-episode-32-gherkin",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Free Ebook & Courses for Frontend Devs",
-    "link": "https://suprabhasupi.hashnode.dev/free-ebook-and-courses-for-frontend-devs",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript & Hoisting Made Easy",
-    "link": "https://jimboslice.hashnode.dev/javascript-and-hoisting-made-easy",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Basic CRUD Operations in Prisma",
-    "link": "https://sabinadams.hashnode.dev/basic-crud-operations-in-prisma",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "JS reduce",
-    "link": "https://vkglobal.hashnode.dev/js-reduce",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Converting Roman numerals to Arabic",
-    "link": "https://h.daily-dev-tips.com/public-solving-converting-roman-numerals-to-arabic",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Multiple v-model in Vue 3",
-    "link": "https://snehalkadwe.hashnode.dev/multiple-v-model-in-vue-3",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "You Don't Need To Learn ReactJS Now",
-    "link": "https://elijahtrillionz.hashnode.dev/you-dont-need-to-learn-reactjs-now",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Local Storage Simplified!",
-    "link": "https://blogs.ansubkhan.com/local-storage-simplified",
-    "date": "12/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Happy Holidays: From a developer with code!",
-    "link": "https://dev.to/noriller/happy-holidays-from-a-developer-with-code-5n7",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Prueba tus códigos html, css y javascript con MGPanel en spark",
-    "link": "https://dev.to/eloymanuelch/prueba-tus-codigos-html-css-y-javascript-con-mgpanel-en-spark-1000",
-    "date": "12/24/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Advent.js🎅🏼| #18: El sistema operativo de Santa Claus",
-    "link": "https://dev.to/duxtech/adventjs-18-el-sistema-operativo-de-santa-claus-1595",
-    "date": "12/24/2021",
     "site": "dev.to"
   },
   {
@@ -1076,14 +1076,14 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
@@ -1157,7 +1157,7 @@
   {
     "title": "Client-Side Routing In Next.js",
     "link": "https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "6/18/2021",
     "site": "smashingmagazine"
   },
@@ -1248,7 +1248,7 @@
   {
     "title": "A Guide To Undoing Mistakes With Git (Part 1)",
     "link": "https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "5/4/2021",
     "site": "smashingmagazine"
   },
