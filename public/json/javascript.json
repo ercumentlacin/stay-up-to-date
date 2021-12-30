@@ -1,13 +1,487 @@
 [
   {
-    "title": "Public Solving: Let it snow",
-    "link": "https://h.daily-dev-tips.com/public-solving-let-it-snow",
-    "date": "12/29/2021",
+    "title": "Module Pattern in JavaScript",
+    "link": "https://jsdev195.hashnode.dev/module-pattern-in-javascript",
+    "date": "12/30/2021",
     "site": "hashnode"
   },
   {
-    "title": "Build a countdown clock using JavaScript",
-    "link": "https://yuricodesbot.hashnode.dev/build-a-countdown-clock-using-javascript",
+    "title": "Node.js background job processing with bull - example 1",
+    "link": "https://e2e.utopiops.com/nodejs-background-job-processing-with-bull-example-1",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript The Hard Parts-Part 1",
+    "link": "https://osamamammar.hashnode.dev/javascript-the-hard-parts-part-1",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "🛑 Stop Use Of Javascript Like This.",
+    "link": "https://dev.to/ctenlive/stop-use-of-javascript-like-this-oi9",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Websites To Get Free Icons For Web Development",
+    "link": "https://dev.to/shoyeb001/5-websites-to-get-free-icons-for-web-development-nk6",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Constraints and Pipelines for a more intuitive JavaScript web-apps",
+    "link": "https://dev.to/bacloud14/using-constraints-and-pipelines-for-a-more-intuitive-javascript-web-apps-43ag",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "tiny-replace-files",
+    "link": "https://dev.to/rabbitzzc/tiny-replace-files-fc3",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Convert Audio from 2D to 3D",
+    "link": "https://dev.to/shirely/how-to-convert-audio-from-2d-to-3d-3amn",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "It's Prisma Time - Insert",
+    "link": "https://dev.to/this-is-learning/its-prisma-time-insert-fc2",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do you know how a single mobile application helps you in your business?",
+    "link": "https://dev.to/codeepsiloncs/do-you-know-how-a-single-mobile-application-helps-you-in-your-business-2e8i",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ree Drummond CBD Gummies | {Tested 2021}  Price, Reaction Before Buy!",
+    "link": "https://dev.to/drummondgummies/ree-drummond-cbd-gummies-tested-2021-price-reaction-before-buy-ek5",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "groupBy on an array of objects in javascript",
+    "link": "https://dev.to/dezforb/groupby-on-an-array-of-objects-in-javascript-3n0",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Trajectus",
+    "link": "https://dev.to/trajectus/trajectus-24l9",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Event Stream Data From Your Eleventy Site To Google Analytics Using RudderStack",
+    "link": "https://dev.to/rudderstack/how-to-event-stream-data-from-your-eleventy-site-to-google-analytics-using-rudderstack-1694",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "\nJavaScript String",
+    "link": "https://dev.to/simantabarua/javascript-string-3582",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Visual studio Theme",
+    "link": "https://dev.to/vermaprince123/my-visual-studio-theme-58bg",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Module Pattern in JavaScript",
+    "link": "https://jsdev195.hashnode.dev/module-pattern-in-javascript",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Node.js background job processing with bull - example 1",
+    "link": "https://e2e.utopiops.com/nodejs-background-job-processing-with-bull-example-1",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript The Hard Parts-Part 1",
+    "link": "https://osamamammar.hashnode.dev/javascript-the-hard-parts-part-1",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "🛑 Stop Use Of Javascript Like This.",
+    "link": "https://dev.to/ctenlive/stop-use-of-javascript-like-this-oi9",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Websites To Get Free Icons For Web Development",
+    "link": "https://dev.to/shoyeb001/5-websites-to-get-free-icons-for-web-development-nk6",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Constraints and Pipelines for a more intuitive JavaScript web-apps",
+    "link": "https://dev.to/bacloud14/using-constraints-and-pipelines-for-a-more-intuitive-javascript-web-apps-43ag",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "tiny-replace-files",
+    "link": "https://dev.to/rabbitzzc/tiny-replace-files-fc3",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Convert Audio from 2D to 3D",
+    "link": "https://dev.to/shirely/how-to-convert-audio-from-2d-to-3d-3amn",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "It's Prisma Time - Insert",
+    "link": "https://dev.to/this-is-learning/its-prisma-time-insert-fc2",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do you know how a single mobile application helps you in your business?",
+    "link": "https://dev.to/codeepsiloncs/do-you-know-how-a-single-mobile-application-helps-you-in-your-business-2e8i",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ree Drummond CBD Gummies | {Tested 2021}  Price, Reaction Before Buy!",
+    "link": "https://dev.to/drummondgummies/ree-drummond-cbd-gummies-tested-2021-price-reaction-before-buy-ek5",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "groupBy on an array of objects in javascript",
+    "link": "https://dev.to/dezforb/groupby-on-an-array-of-objects-in-javascript-3n0",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Trajectus",
+    "link": "https://dev.to/trajectus/trajectus-24l9",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Event Stream Data From Your Eleventy Site To Google Analytics Using RudderStack",
+    "link": "https://dev.to/rudderstack/how-to-event-stream-data-from-your-eleventy-site-to-google-analytics-using-rudderstack-1694",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "\nJavaScript String",
+    "link": "https://dev.to/simantabarua/javascript-string-3582",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Visual studio Theme",
+    "link": "https://dev.to/vermaprince123/my-visual-studio-theme-58bg",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Module Pattern in JavaScript",
+    "link": "https://jsdev195.hashnode.dev/module-pattern-in-javascript",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Node.js background job processing with bull - example 1",
+    "link": "https://e2e.utopiops.com/nodejs-background-job-processing-with-bull-example-1",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript The Hard Parts-Part 1",
+    "link": "https://osamamammar.hashnode.dev/javascript-the-hard-parts-part-1",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "🛑 Stop Use Of Javascript Like This.",
+    "link": "https://dev.to/ctenlive/stop-use-of-javascript-like-this-oi9",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Websites To Get Free Icons For Web Development",
+    "link": "https://dev.to/shoyeb001/5-websites-to-get-free-icons-for-web-development-nk6",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Constraints and Pipelines for a more intuitive JavaScript web-apps",
+    "link": "https://dev.to/bacloud14/using-constraints-and-pipelines-for-a-more-intuitive-javascript-web-apps-43ag",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "tiny-replace-files",
+    "link": "https://dev.to/rabbitzzc/tiny-replace-files-fc3",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Convert Audio from 2D to 3D",
+    "link": "https://dev.to/shirely/how-to-convert-audio-from-2d-to-3d-3amn",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "It's Prisma Time - Insert",
+    "link": "https://dev.to/this-is-learning/its-prisma-time-insert-fc2",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do you know how a single mobile application helps you in your business?",
+    "link": "https://dev.to/codeepsiloncs/do-you-know-how-a-single-mobile-application-helps-you-in-your-business-2e8i",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ree Drummond CBD Gummies | {Tested 2021}  Price, Reaction Before Buy!",
+    "link": "https://dev.to/drummondgummies/ree-drummond-cbd-gummies-tested-2021-price-reaction-before-buy-ek5",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "groupBy on an array of objects in javascript",
+    "link": "https://dev.to/dezforb/groupby-on-an-array-of-objects-in-javascript-3n0",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Trajectus",
+    "link": "https://dev.to/trajectus/trajectus-24l9",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Event Stream Data From Your Eleventy Site To Google Analytics Using RudderStack",
+    "link": "https://dev.to/rudderstack/how-to-event-stream-data-from-your-eleventy-site-to-google-analytics-using-rudderstack-1694",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "\nJavaScript String",
+    "link": "https://dev.to/simantabarua/javascript-string-3582",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Visual studio Theme",
+    "link": "https://dev.to/vermaprince123/my-visual-studio-theme-58bg",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Module Pattern in JavaScript",
+    "link": "https://jsdev195.hashnode.dev/module-pattern-in-javascript",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Node.js background job processing with bull - example 1",
+    "link": "https://e2e.utopiops.com/nodejs-background-job-processing-with-bull-example-1",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript The Hard Parts-Part 1",
+    "link": "https://osamamammar.hashnode.dev/javascript-the-hard-parts-part-1",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "🛑 Stop Use Of Javascript Like This.",
+    "link": "https://dev.to/ctenlive/stop-use-of-javascript-like-this-oi9",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Websites To Get Free Icons For Web Development",
+    "link": "https://dev.to/shoyeb001/5-websites-to-get-free-icons-for-web-development-nk6",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Constraints and Pipelines for a more intuitive JavaScript web-apps",
+    "link": "https://dev.to/bacloud14/using-constraints-and-pipelines-for-a-more-intuitive-javascript-web-apps-43ag",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "tiny-replace-files",
+    "link": "https://dev.to/rabbitzzc/tiny-replace-files-fc3",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Convert Audio from 2D to 3D",
+    "link": "https://dev.to/shirely/how-to-convert-audio-from-2d-to-3d-3amn",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "It's Prisma Time - Insert",
+    "link": "https://dev.to/this-is-learning/its-prisma-time-insert-fc2",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do you know how a single mobile application helps you in your business?",
+    "link": "https://dev.to/codeepsiloncs/do-you-know-how-a-single-mobile-application-helps-you-in-your-business-2e8i",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ree Drummond CBD Gummies | {Tested 2021}  Price, Reaction Before Buy!",
+    "link": "https://dev.to/drummondgummies/ree-drummond-cbd-gummies-tested-2021-price-reaction-before-buy-ek5",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "groupBy on an array of objects in javascript",
+    "link": "https://dev.to/dezforb/groupby-on-an-array-of-objects-in-javascript-3n0",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Trajectus",
+    "link": "https://dev.to/trajectus/trajectus-24l9",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Event Stream Data From Your Eleventy Site To Google Analytics Using RudderStack",
+    "link": "https://dev.to/rudderstack/how-to-event-stream-data-from-your-eleventy-site-to-google-analytics-using-rudderstack-1694",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "\nJavaScript String",
+    "link": "https://dev.to/simantabarua/javascript-string-3582",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Visual studio Theme",
+    "link": "https://dev.to/vermaprince123/my-visual-studio-theme-58bg",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Module Pattern in JavaScript",
+    "link": "https://jsdev195.hashnode.dev/module-pattern-in-javascript",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Node.js background job processing with bull - example 1",
+    "link": "https://e2e.utopiops.com/nodejs-background-job-processing-with-bull-example-1",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript The Hard Parts-Part 1",
+    "link": "https://osamamammar.hashnode.dev/javascript-the-hard-parts-part-1",
+    "date": "12/30/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "🛑 Stop Use Of Javascript Like This.",
+    "link": "https://dev.to/ctenlive/stop-use-of-javascript-like-this-oi9",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Websites To Get Free Icons For Web Development",
+    "link": "https://dev.to/shoyeb001/5-websites-to-get-free-icons-for-web-development-nk6",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Constraints and Pipelines for a more intuitive JavaScript web-apps",
+    "link": "https://dev.to/bacloud14/using-constraints-and-pipelines-for-a-more-intuitive-javascript-web-apps-43ag",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "tiny-replace-files",
+    "link": "https://dev.to/rabbitzzc/tiny-replace-files-fc3",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Convert Audio from 2D to 3D",
+    "link": "https://dev.to/shirely/how-to-convert-audio-from-2d-to-3d-3amn",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "It's Prisma Time - Insert",
+    "link": "https://dev.to/this-is-learning/its-prisma-time-insert-fc2",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do you know how a single mobile application helps you in your business?",
+    "link": "https://dev.to/codeepsiloncs/do-you-know-how-a-single-mobile-application-helps-you-in-your-business-2e8i",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ree Drummond CBD Gummies | {Tested 2021}  Price, Reaction Before Buy!",
+    "link": "https://dev.to/drummondgummies/ree-drummond-cbd-gummies-tested-2021-price-reaction-before-buy-ek5",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "groupBy on an array of objects in javascript",
+    "link": "https://dev.to/dezforb/groupby-on-an-array-of-objects-in-javascript-3n0",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Trajectus",
+    "link": "https://dev.to/trajectus/trajectus-24l9",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Event Stream Data From Your Eleventy Site To Google Analytics Using RudderStack",
+    "link": "https://dev.to/rudderstack/how-to-event-stream-data-from-your-eleventy-site-to-google-analytics-using-rudderstack-1694",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "\nJavaScript String",
+    "link": "https://dev.to/simantabarua/javascript-string-3582",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Visual studio Theme",
+    "link": "https://dev.to/vermaprince123/my-visual-studio-theme-58bg",
+    "date": "12/30/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ex-seafarer, JavaScript Messiah, and Junior Developer",
+    "link": "https://codecryrepeat.hashnode.dev/ex-seafarer-javascript-messiah-and-junior-developer",
     "date": "12/29/2021",
     "site": "hashnode"
   },
@@ -24,8 +498,20 @@
     "site": "hashnode"
   },
   {
-    "title": "How to integrate Google Sheet with Zapier's webhook",
-    "link": "https://byteblocks.hashnode.dev/how-to-integrate-google-sheet-with-zapiers-webhook",
+    "title": "Recreating lodash partition method",
+    "link": "https://abdel1.hashnode.dev/recreating-lodash-partition-method",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Drawing app that records your actions",
+    "link": "https://sebcodestheweb.hashnode.dev/drawing-app-that-records-your-actions",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Simple Form Validation Using JavaScript",
+    "link": "https://octagon.hashnode.dev/simple-form-validation-using-javascript",
     "date": "12/29/2021",
     "site": "hashnode"
   },
@@ -36,104 +522,44 @@
     "site": "hashnode"
   },
   {
-    "title": "Any Ideas Guys",
-    "link": "https://hsr369.hashnode.dev/any-ideas-guys",
-    "date": "12/29/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Choosing A Router In React Apps",
-    "link": "https://akashshyam.hashnode.dev/choosing-a-router-in-react-apps",
-    "date": "12/29/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Let it snow",
-    "link": "https://dev.to/dailydevtips1/public-solving-let-it-snow-29ik",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to handle loading progress flicker",
-    "link": "https://dev.to/kouts/how-to-handle-loading-progress-flicker-11ne",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 WEB UX LAWS EVERY DEVELOPER SHOULD KNOW",
-    "link": "https://dev.to/visualway/5-web-ux-laws-every-developer-should-know-f6h",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop using Array.map() everywhere 🥵",
-    "link": "https://dev.to/suprabhasupi/stop-using-arraymap-everywhere-57lf",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use Node.js to backup your personal files (and learn some webdev skills along the way)",
-    "link": "https://dev.to/alexeagleson/how-to-use-nodejs-to-backup-your-personal-files-and-learn-some-webdev-skills-along-the-way-541a",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Functions in Js and its types!!! (Part 1)",
-    "link": "https://dev.to/himanshupal0001/functions-in-js-and-its-types-part-1-1aj0",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "8 Projects Beginners can build to learn React.js in 2022",
-    "link": "https://dev.to/javinpaul/8-projects-beginners-can-build-to-learn-reactjs-in-2022-1e3i",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple React Concept ",
-    "link": "https://dev.to/mdhasanali/simple-react-concept-3kf8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Point-Free Programming",
-    "link": "https://dev.to/brewsterbhg/point-free-programming-53n",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Quick Guide To: jQuery",
-    "link": "https://dev.to/am20dipi/a-quick-guide-to-jquery-44l8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tips And Tricks Web Design #01 Navbar Animation",
-    "link": "https://dev.to/adityamputra27/tips-and-tricks-web-design-01-navbar-animation-3e2i",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Cat Illustration Pack 2022",
-    "link": "https://dev.to/fahmi42/best-cat-illustration-pack-2022-3ogp",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cara membuat proxy middleware untuk cross API.",
-    "link": "https://dev.to/suryatech/cara-membuat-proxy-middleware-untuk-cross-api-4c87",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
     "title": "Public Solving: Let it snow",
     "link": "https://h.daily-dev-tips.com/public-solving-let-it-snow",
     "date": "12/29/2021",
     "site": "hashnode"
   },
   {
+    "title": "Why do you actually need a roadmap ?",
+    "link": "https://saurav017.hashnode.dev/why-do-you-actually-need-a-roadmap",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Build a countdown clock using JavaScript",
     "link": "https://yuricodesbot.hashnode.dev/build-a-countdown-clock-using-javascript",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Vue Router 4 - Mystery of Nested Routes",
+    "link": "https://irlanvila.hashnode.dev/vue-router-4-mystery-of-nested-routes",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "The curious case of res.render",
+    "link": "https://ghosthugs.hashnode.dev/the-curious-case-of-res-dot-render",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "🤔 How should I build my Frontend for a huge project?",
+    "link": "https://dev.to/williammcgonagle/how-would-you-connect-a-frontend-and-backend-3p30",
+    "date": "12/29/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ex-seafarer, JavaScript Messiah, and Junior Developer",
+    "link": "https://codecryrepeat.hashnode.dev/ex-seafarer-javascript-messiah-and-junior-developer",
     "date": "12/29/2021",
     "site": "hashnode"
   },
@@ -150,8 +576,20 @@
     "site": "hashnode"
   },
   {
-    "title": "How to integrate Google Sheet with Zapier's webhook",
-    "link": "https://byteblocks.hashnode.dev/how-to-integrate-google-sheet-with-zapiers-webhook",
+    "title": "Recreating lodash partition method",
+    "link": "https://abdel1.hashnode.dev/recreating-lodash-partition-method",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Drawing app that records your actions",
+    "link": "https://sebcodestheweb.hashnode.dev/drawing-app-that-records-your-actions",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Simple Form Validation Using JavaScript",
+    "link": "https://octagon.hashnode.dev/simple-form-validation-using-javascript",
     "date": "12/29/2021",
     "site": "hashnode"
   },
@@ -162,104 +600,44 @@
     "site": "hashnode"
   },
   {
-    "title": "Any Ideas Guys",
-    "link": "https://hsr369.hashnode.dev/any-ideas-guys",
-    "date": "12/29/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Choosing A Router In React Apps",
-    "link": "https://akashshyam.hashnode.dev/choosing-a-router-in-react-apps",
-    "date": "12/29/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Let it snow",
-    "link": "https://dev.to/dailydevtips1/public-solving-let-it-snow-29ik",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to handle loading progress flicker",
-    "link": "https://dev.to/kouts/how-to-handle-loading-progress-flicker-11ne",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 WEB UX LAWS EVERY DEVELOPER SHOULD KNOW",
-    "link": "https://dev.to/visualway/5-web-ux-laws-every-developer-should-know-f6h",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop using Array.map() everywhere 🥵",
-    "link": "https://dev.to/suprabhasupi/stop-using-arraymap-everywhere-57lf",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use Node.js to backup your personal files (and learn some webdev skills along the way)",
-    "link": "https://dev.to/alexeagleson/how-to-use-nodejs-to-backup-your-personal-files-and-learn-some-webdev-skills-along-the-way-541a",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is the difference between TypeScript and PropTypes",
-    "link": "https://dev.to/nitsancohen770/what-is-the-difference-between-typescript-and-proptypes-11g8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Functions in Js and its types!!! (Part 1)",
-    "link": "https://dev.to/himanshupal0001/functions-in-js-and-its-types-part-1-1aj0",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "8 Projects Beginners can build to learn React.js in 2022",
-    "link": "https://dev.to/javinpaul/8-projects-beginners-can-build-to-learn-reactjs-in-2022-1e3i",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple React Concept ",
-    "link": "https://dev.to/mdhasanali/simple-react-concept-3kf8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Point-Free Programming",
-    "link": "https://dev.to/brewsterbhg/point-free-programming-53n",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Quick Guide To: jQuery",
-    "link": "https://dev.to/am20dipi/a-quick-guide-to-jquery-44l8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tips And Tricks Web Design #01 Navbar Animation",
-    "link": "https://dev.to/adityamputra27/tips-and-tricks-web-design-01-navbar-animation-3e2i",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Cat Illustration Pack 2022",
-    "link": "https://dev.to/fahmi42/best-cat-illustration-pack-2022-3ogp",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
     "title": "Public Solving: Let it snow",
     "link": "https://h.daily-dev-tips.com/public-solving-let-it-snow",
     "date": "12/29/2021",
     "site": "hashnode"
   },
   {
+    "title": "Why do you actually need a roadmap ?",
+    "link": "https://saurav017.hashnode.dev/why-do-you-actually-need-a-roadmap",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Build a countdown clock using JavaScript",
     "link": "https://yuricodesbot.hashnode.dev/build-a-countdown-clock-using-javascript",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Vue Router 4 - Mystery of Nested Routes",
+    "link": "https://irlanvila.hashnode.dev/vue-router-4-mystery-of-nested-routes",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "The curious case of res.render",
+    "link": "https://ghosthugs.hashnode.dev/the-curious-case-of-res-dot-render",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "🤔 How should I build my Frontend for a huge project?",
+    "link": "https://dev.to/williammcgonagle/how-would-you-connect-a-frontend-and-backend-3p30",
+    "date": "12/29/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ex-seafarer, JavaScript Messiah, and Junior Developer",
+    "link": "https://codecryrepeat.hashnode.dev/ex-seafarer-javascript-messiah-and-junior-developer",
     "date": "12/29/2021",
     "site": "hashnode"
   },
@@ -276,8 +654,20 @@
     "site": "hashnode"
   },
   {
-    "title": "How to integrate Google Sheet with Zapier's webhook",
-    "link": "https://byteblocks.hashnode.dev/how-to-integrate-google-sheet-with-zapiers-webhook",
+    "title": "Recreating lodash partition method",
+    "link": "https://abdel1.hashnode.dev/recreating-lodash-partition-method",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Drawing app that records your actions",
+    "link": "https://sebcodestheweb.hashnode.dev/drawing-app-that-records-your-actions",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Simple Form Validation Using JavaScript",
+    "link": "https://octagon.hashnode.dev/simple-form-validation-using-javascript",
     "date": "12/29/2021",
     "site": "hashnode"
   },
@@ -288,104 +678,44 @@
     "site": "hashnode"
   },
   {
-    "title": "Any Ideas Guys",
-    "link": "https://hsr369.hashnode.dev/any-ideas-guys",
-    "date": "12/29/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Choosing A Router In React Apps",
-    "link": "https://akashshyam.hashnode.dev/choosing-a-router-in-react-apps",
-    "date": "12/29/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Let it snow",
-    "link": "https://dev.to/dailydevtips1/public-solving-let-it-snow-29ik",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to handle loading progress flicker",
-    "link": "https://dev.to/kouts/how-to-handle-loading-progress-flicker-11ne",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 WEB UX LAWS EVERY DEVELOPER SHOULD KNOW",
-    "link": "https://dev.to/visualway/5-web-ux-laws-every-developer-should-know-f6h",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop using Array.map() everywhere 🥵",
-    "link": "https://dev.to/suprabhasupi/stop-using-arraymap-everywhere-57lf",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use Node.js to backup your personal files (and learn some webdev skills along the way)",
-    "link": "https://dev.to/alexeagleson/how-to-use-nodejs-to-backup-your-personal-files-and-learn-some-webdev-skills-along-the-way-541a",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is the difference between TypeScript and PropTypes",
-    "link": "https://dev.to/nitsancohen770/what-is-the-difference-between-typescript-and-proptypes-11g8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Functions in Js and its types!!! (Part 1)",
-    "link": "https://dev.to/himanshupal0001/functions-in-js-and-its-types-part-1-1aj0",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "8 Projects Beginners can build to learn React.js in 2022",
-    "link": "https://dev.to/javinpaul/8-projects-beginners-can-build-to-learn-reactjs-in-2022-1e3i",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple React Concept ",
-    "link": "https://dev.to/mdhasanali/simple-react-concept-3kf8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Point-Free Programming",
-    "link": "https://dev.to/brewsterbhg/point-free-programming-53n",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Quick Guide To: jQuery",
-    "link": "https://dev.to/am20dipi/a-quick-guide-to-jquery-44l8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tips And Tricks Web Design #01 Navbar Animation",
-    "link": "https://dev.to/adityamputra27/tips-and-tricks-web-design-01-navbar-animation-3e2i",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Cat Illustration Pack 2022",
-    "link": "https://dev.to/fahmi42/best-cat-illustration-pack-2022-3ogp",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
     "title": "Public Solving: Let it snow",
     "link": "https://h.daily-dev-tips.com/public-solving-let-it-snow",
     "date": "12/29/2021",
     "site": "hashnode"
   },
   {
+    "title": "Why do you actually need a roadmap ?",
+    "link": "https://saurav017.hashnode.dev/why-do-you-actually-need-a-roadmap",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Build a countdown clock using JavaScript",
     "link": "https://yuricodesbot.hashnode.dev/build-a-countdown-clock-using-javascript",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Vue Router 4 - Mystery of Nested Routes",
+    "link": "https://irlanvila.hashnode.dev/vue-router-4-mystery-of-nested-routes",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "The curious case of res.render",
+    "link": "https://ghosthugs.hashnode.dev/the-curious-case-of-res-dot-render",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "🤔 How should I build my Frontend for a huge project?",
+    "link": "https://dev.to/williammcgonagle/how-would-you-connect-a-frontend-and-backend-3p30",
+    "date": "12/29/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ex-seafarer, JavaScript Messiah, and Junior Developer",
+    "link": "https://codecryrepeat.hashnode.dev/ex-seafarer-javascript-messiah-and-junior-developer",
     "date": "12/29/2021",
     "site": "hashnode"
   },
@@ -402,8 +732,20 @@
     "site": "hashnode"
   },
   {
-    "title": "How to integrate Google Sheet with Zapier's webhook",
-    "link": "https://byteblocks.hashnode.dev/how-to-integrate-google-sheet-with-zapiers-webhook",
+    "title": "Recreating lodash partition method",
+    "link": "https://abdel1.hashnode.dev/recreating-lodash-partition-method",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Drawing app that records your actions",
+    "link": "https://sebcodestheweb.hashnode.dev/drawing-app-that-records-your-actions",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Simple Form Validation Using JavaScript",
+    "link": "https://octagon.hashnode.dev/simple-form-validation-using-javascript",
     "date": "12/29/2021",
     "site": "hashnode"
   },
@@ -414,104 +756,44 @@
     "site": "hashnode"
   },
   {
-    "title": "Any Ideas Guys",
-    "link": "https://hsr369.hashnode.dev/any-ideas-guys",
-    "date": "12/29/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Choosing A Router In React Apps",
-    "link": "https://akashshyam.hashnode.dev/choosing-a-router-in-react-apps",
-    "date": "12/29/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Let it snow",
-    "link": "https://dev.to/dailydevtips1/public-solving-let-it-snow-29ik",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to handle loading progress flicker",
-    "link": "https://dev.to/kouts/how-to-handle-loading-progress-flicker-11ne",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 WEB UX LAWS EVERY DEVELOPER SHOULD KNOW",
-    "link": "https://dev.to/visualway/5-web-ux-laws-every-developer-should-know-f6h",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop using Array.map() everywhere 🥵",
-    "link": "https://dev.to/suprabhasupi/stop-using-arraymap-everywhere-57lf",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use Node.js to backup your personal files (and learn some webdev skills along the way)",
-    "link": "https://dev.to/alexeagleson/how-to-use-nodejs-to-backup-your-personal-files-and-learn-some-webdev-skills-along-the-way-541a",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is the difference between TypeScript and PropTypes",
-    "link": "https://dev.to/nitsancohen770/what-is-the-difference-between-typescript-and-proptypes-11g8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Functions in Js and its types!!! (Part 1)",
-    "link": "https://dev.to/himanshupal0001/functions-in-js-and-its-types-part-1-1aj0",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "8 Projects Beginners can build to learn React.js in 2022",
-    "link": "https://dev.to/javinpaul/8-projects-beginners-can-build-to-learn-reactjs-in-2022-1e3i",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple React Concept ",
-    "link": "https://dev.to/mdhasanali/simple-react-concept-3kf8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Point-Free Programming",
-    "link": "https://dev.to/brewsterbhg/point-free-programming-53n",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Quick Guide To: jQuery",
-    "link": "https://dev.to/am20dipi/a-quick-guide-to-jquery-44l8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tips And Tricks Web Design #01 Navbar Animation",
-    "link": "https://dev.to/adityamputra27/tips-and-tricks-web-design-01-navbar-animation-3e2i",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Cat Illustration Pack 2022",
-    "link": "https://dev.to/fahmi42/best-cat-illustration-pack-2022-3ogp",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
     "title": "Public Solving: Let it snow",
     "link": "https://h.daily-dev-tips.com/public-solving-let-it-snow",
     "date": "12/29/2021",
     "site": "hashnode"
   },
   {
+    "title": "Why do you actually need a roadmap ?",
+    "link": "https://saurav017.hashnode.dev/why-do-you-actually-need-a-roadmap",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Build a countdown clock using JavaScript",
     "link": "https://yuricodesbot.hashnode.dev/build-a-countdown-clock-using-javascript",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Vue Router 4 - Mystery of Nested Routes",
+    "link": "https://irlanvila.hashnode.dev/vue-router-4-mystery-of-nested-routes",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "The curious case of res.render",
+    "link": "https://ghosthugs.hashnode.dev/the-curious-case-of-res-dot-render",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "🤔 How should I build my Frontend for a huge project?",
+    "link": "https://dev.to/williammcgonagle/how-would-you-connect-a-frontend-and-backend-3p30",
+    "date": "12/29/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ex-seafarer, JavaScript Messiah, and Junior Developer",
+    "link": "https://codecryrepeat.hashnode.dev/ex-seafarer-javascript-messiah-and-junior-developer",
     "date": "12/29/2021",
     "site": "hashnode"
   },
@@ -528,8 +810,20 @@
     "site": "hashnode"
   },
   {
-    "title": "How to integrate Google Sheet with Zapier's webhook",
-    "link": "https://byteblocks.hashnode.dev/how-to-integrate-google-sheet-with-zapiers-webhook",
+    "title": "Recreating lodash partition method",
+    "link": "https://abdel1.hashnode.dev/recreating-lodash-partition-method",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Drawing app that records your actions",
+    "link": "https://sebcodestheweb.hashnode.dev/drawing-app-that-records-your-actions",
+    "date": "12/29/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "Simple Form Validation Using JavaScript",
+    "link": "https://octagon.hashnode.dev/simple-form-validation-using-javascript",
     "date": "12/29/2021",
     "site": "hashnode"
   },
@@ -540,136 +834,40 @@
     "site": "hashnode"
   },
   {
-    "title": "Any Ideas Guys",
-    "link": "https://hsr369.hashnode.dev/any-ideas-guys",
-    "date": "12/29/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Choosing A Router In React Apps",
-    "link": "https://akashshyam.hashnode.dev/choosing-a-router-in-react-apps",
-    "date": "12/29/2021",
-    "site": "hashnode"
-  },
-  {
     "title": "Public Solving: Let it snow",
-    "link": "https://dev.to/dailydevtips1/public-solving-let-it-snow-29ik",
+    "link": "https://h.daily-dev-tips.com/public-solving-let-it-snow",
     "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to handle loading progress flicker",
-    "link": "https://dev.to/kouts/how-to-handle-loading-progress-flicker-11ne",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 WEB UX LAWS EVERY DEVELOPER SHOULD KNOW",
-    "link": "https://dev.to/visualway/5-web-ux-laws-every-developer-should-know-f6h",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop using Array.map() everywhere 🥵",
-    "link": "https://dev.to/suprabhasupi/stop-using-arraymap-everywhere-57lf",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use Node.js to backup your personal files (and learn some webdev skills along the way)",
-    "link": "https://dev.to/alexeagleson/how-to-use-nodejs-to-backup-your-personal-files-and-learn-some-webdev-skills-along-the-way-541a",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is the difference between TypeScript and PropTypes",
-    "link": "https://dev.to/nitsancohen770/what-is-the-difference-between-typescript-and-proptypes-11g8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Functions in Js and its types!!! (Part 1)",
-    "link": "https://dev.to/himanshupal0001/functions-in-js-and-its-types-part-1-1aj0",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "8 Projects Beginners can build to learn React.js in 2022",
-    "link": "https://dev.to/javinpaul/8-projects-beginners-can-build-to-learn-reactjs-in-2022-1e3i",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple React Concept ",
-    "link": "https://dev.to/mdhasanali/simple-react-concept-3kf8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Point-Free Programming",
-    "link": "https://dev.to/brewsterbhg/point-free-programming-53n",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Quick Guide To: jQuery",
-    "link": "https://dev.to/am20dipi/a-quick-guide-to-jquery-44l8",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tips And Tricks Web Design #01 Navbar Animation",
-    "link": "https://dev.to/adityamputra27/tips-and-tricks-web-design-01-navbar-animation-3e2i",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Cat Illustration Pack 2022",
-    "link": "https://dev.to/fahmi42/best-cat-illustration-pack-2022-3ogp",
-    "date": "12/29/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Higher-Order Functions(HoF) in JavaScript - Explain Like I'm Five",
-    "link": "https://blog.greenroots.info/higher-order-functions-in-javascript",
-    "date": "12/28/2021",
     "site": "hashnode"
   },
   {
-    "title": "History of JavaScript",
-    "link": "https://wasimfaiz.hashnode.dev/history-of-javascript",
-    "date": "12/28/2021",
+    "title": "Why do you actually need a roadmap ?",
+    "link": "https://saurav017.hashnode.dev/why-do-you-actually-need-a-roadmap",
+    "date": "12/29/2021",
     "site": "hashnode"
   },
   {
-    "title": "Reducing Clojure Lambda Cold Starts Part 9 - AWS SDK V3 With Webpack",
-    "link": "https://lambdastew.hashnode.dev/reducing-clojure-lambda-cold-starts-part-9-aws-sdk-v3-with-webpack",
-    "date": "12/28/2021",
+    "title": "Build a countdown clock using JavaScript",
+    "link": "https://yuricodesbot.hashnode.dev/build-a-countdown-clock-using-javascript",
+    "date": "12/29/2021",
     "site": "hashnode"
   },
   {
-    "title": "Public Solving: Calculating the wind chill",
-    "link": "https://h.daily-dev-tips.com/public-solving-calculating-the-wind-chill",
-    "date": "12/28/2021",
+    "title": "Vue Router 4 - Mystery of Nested Routes",
+    "link": "https://irlanvila.hashnode.dev/vue-router-4-mystery-of-nested-routes",
+    "date": "12/29/2021",
     "site": "hashnode"
   },
   {
-    "title": "Learn Javascript __Functions",
-    "link": "https://zahab.tech/learn-javascript-functions",
-    "date": "12/28/2021",
+    "title": "The curious case of res.render",
+    "link": "https://ghosthugs.hashnode.dev/the-curious-case-of-res-dot-render",
+    "date": "12/29/2021",
     "site": "hashnode"
   },
   {
-    "title": "Tweet Hunter- The Ecosystem to Tweet & Make Money.",
-    "link": "https://theankurtyagi.hashnode.dev/tweet-hunter-the-ecosystem-to-tweet-and-make-money",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Helpful tips for making a Twitter bot following Shahed Nasser's tutorial",
-    "link": "https://andie.hashnode.dev/helpful-tips-for-making-a-twitter-bot-following-shahed-nassers-tutorial",
-    "date": "12/28/2021",
-    "site": "hashnode"
+    "title": "🤔 How should I build my Frontend for a huge project?",
+    "link": "https://dev.to/williammcgonagle/how-would-you-connect-a-frontend-and-backend-3p30",
+    "date": "12/29/2021",
+    "site": "dev.to"
   },
   {
     "title": "Frontend Developer Resources 2022",
@@ -678,52 +876,10 @@
     "site": "dev.to"
   },
   {
-    "title": "Explanation of JavaScript \"this\" keyword\n",
-    "link": "https://dev.to/feroj7/explanation-of-javascript-this-keyword-578j",
+    "title": "Frontend Developer Resources 2022",
+    "link": "https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2",
     "date": "12/28/2021",
     "site": "dev.to"
-  },
-  {
-    "title": "Higher-Order Functions(HoF) in JavaScript - Explain Like I'm Five",
-    "link": "https://blog.greenroots.info/higher-order-functions-in-javascript",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "History of JavaScript",
-    "link": "https://wasimfaiz.hashnode.dev/history-of-javascript",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reducing Clojure Lambda Cold Starts Part 9 - AWS SDK V3 With Webpack",
-    "link": "https://lambdastew.hashnode.dev/reducing-clojure-lambda-cold-starts-part-9-aws-sdk-v3-with-webpack",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Calculating the wind chill",
-    "link": "https://h.daily-dev-tips.com/public-solving-calculating-the-wind-chill",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn Javascript __Functions",
-    "link": "https://zahab.tech/learn-javascript-functions",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tweet Hunter- The Ecosystem to Tweet & Make Money.",
-    "link": "https://theankurtyagi.hashnode.dev/tweet-hunter-the-ecosystem-to-tweet-and-make-money",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Helpful tips for making a Twitter bot following Shahed Nasser's tutorial",
-    "link": "https://andie.hashnode.dev/helpful-tips-for-making-a-twitter-bot-following-shahed-nassers-tutorial",
-    "date": "12/28/2021",
-    "site": "hashnode"
   },
   {
     "title": "Frontend Developer Resources 2022",
@@ -732,170 +888,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Explanation of JavaScript \"this\" keyword\n",
-    "link": "https://dev.to/feroj7/explanation-of-javascript-this-keyword-578j",
-    "date": "12/28/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Higher-Order Functions(HoF) in JavaScript - Explain Like I'm Five",
-    "link": "https://blog.greenroots.info/higher-order-functions-in-javascript",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "History of JavaScript",
-    "link": "https://wasimfaiz.hashnode.dev/history-of-javascript",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reducing Clojure Lambda Cold Starts Part 9 - AWS SDK V3 With Webpack",
-    "link": "https://lambdastew.hashnode.dev/reducing-clojure-lambda-cold-starts-part-9-aws-sdk-v3-with-webpack",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Calculating the wind chill",
-    "link": "https://h.daily-dev-tips.com/public-solving-calculating-the-wind-chill",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn Javascript __Functions",
-    "link": "https://zahab.tech/learn-javascript-functions",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tweet Hunter- The Ecosystem to Tweet & Make Money.",
-    "link": "https://theankurtyagi.hashnode.dev/tweet-hunter-the-ecosystem-to-tweet-and-make-money",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Helpful tips for making a Twitter bot following Shahed Nasser's tutorial",
-    "link": "https://andie.hashnode.dev/helpful-tips-for-making-a-twitter-bot-following-shahed-nassers-tutorial",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
     "title": "Frontend Developer Resources 2022",
     "link": "https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2",
     "date": "12/28/2021",
     "site": "dev.to"
   },
   {
-    "title": "Explanation of JavaScript \"this\" keyword\n",
-    "link": "https://dev.to/feroj7/explanation-of-javascript-this-keyword-578j",
-    "date": "12/28/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Higher-Order Functions(HoF) in JavaScript - Explain Like I'm Five",
-    "link": "https://blog.greenroots.info/higher-order-functions-in-javascript",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "History of JavaScript",
-    "link": "https://wasimfaiz.hashnode.dev/history-of-javascript",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reducing Clojure Lambda Cold Starts Part 9 - AWS SDK V3 With Webpack",
-    "link": "https://lambdastew.hashnode.dev/reducing-clojure-lambda-cold-starts-part-9-aws-sdk-v3-with-webpack",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Calculating the wind chill",
-    "link": "https://h.daily-dev-tips.com/public-solving-calculating-the-wind-chill",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn Javascript __Functions",
-    "link": "https://zahab.tech/learn-javascript-functions",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tweet Hunter- The Ecosystem to Tweet & Make Money.",
-    "link": "https://theankurtyagi.hashnode.dev/tweet-hunter-the-ecosystem-to-tweet-and-make-money",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Helpful tips for making a Twitter bot following Shahed Nasser's tutorial",
-    "link": "https://andie.hashnode.dev/helpful-tips-for-making-a-twitter-bot-following-shahed-nassers-tutorial",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
     "title": "Frontend Developer Resources 2022",
     "link": "https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2",
-    "date": "12/28/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Explanation of JavaScript \"this\" keyword\n",
-    "link": "https://dev.to/feroj7/explanation-of-javascript-this-keyword-578j",
-    "date": "12/28/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Higher-Order Functions(HoF) in JavaScript - Explain Like I'm Five",
-    "link": "https://blog.greenroots.info/higher-order-functions-in-javascript",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "History of JavaScript",
-    "link": "https://wasimfaiz.hashnode.dev/history-of-javascript",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reducing Clojure Lambda Cold Starts Part 9 - AWS SDK V3 With Webpack",
-    "link": "https://lambdastew.hashnode.dev/reducing-clojure-lambda-cold-starts-part-9-aws-sdk-v3-with-webpack",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Public Solving: Calculating the wind chill",
-    "link": "https://h.daily-dev-tips.com/public-solving-calculating-the-wind-chill",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn Javascript __Functions",
-    "link": "https://zahab.tech/learn-javascript-functions",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tweet Hunter- The Ecosystem to Tweet & Make Money.",
-    "link": "https://theankurtyagi.hashnode.dev/tweet-hunter-the-ecosystem-to-tweet-and-make-money",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Helpful tips for making a Twitter bot following Shahed Nasser's tutorial",
-    "link": "https://andie.hashnode.dev/helpful-tips-for-making-a-twitter-bot-following-shahed-nassers-tutorial",
-    "date": "12/28/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "Frontend Developer Resources 2022",
-    "link": "https://dev.to/nickytonline/frontend-developer-resources-2022-4cp2",
-    "date": "12/28/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Explanation of JavaScript \"this\" keyword\n",
-    "link": "https://dev.to/feroj7/explanation-of-javascript-this-keyword-578j",
     "date": "12/28/2021",
     "site": "dev.to"
   },
@@ -1076,7 +1076,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -1171,14 +1171,14 @@
   {
     "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
     "link": "https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/7/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Getting Started With Webpack",
     "link": "https://www.smashingmagazine.com/2021/06/getting-started-webpack/",
-    "reading_time": "19 min read",
+    "reading_time": "20 min read",
     "date": "6/4/2021",
     "site": "smashingmagazine"
   },
@@ -1199,7 +1199,7 @@
   {
     "title": "Adding A Commenting System To A WYSIWYG Editor",
     "link": "https://www.smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
-    "reading_time": "48 min read",
+    "reading_time": "49 min read",
     "date": "5/28/2021",
     "site": "smashingmagazine"
   },
@@ -1227,7 +1227,7 @@
   {
     "title": "Tree-Shaking: A Reference Guide",
     "link": "https://www.smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "5/14/2021",
     "site": "smashingmagazine"
   },
@@ -1282,7 +1282,7 @@
   {
     "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing",
     "link": "https://www.smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
-    "reading_time": "20 min read",
+    "reading_time": "19 min read",
     "date": "4/7/2021",
     "site": "smashingmagazine"
   },
