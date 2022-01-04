@@ -1,61 +1,349 @@
 [
   {
+    "title": "Code splitting (bundle-split) in React",
+    "link": "https://dev.to/nitsancohen770/code-splitting-bundle-split-in-react-1ffh",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Window mouse position hook in React",
+    "link": "https://dev.to/coder4_life/window-mouse-position-hook-in-react-bhm",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Project 92 of 100 - Basic Navigation in React Native",
+    "link": "https://dev.to/jwhubert91/project-92-of-100-basic-navigation-in-react-native-25e9",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": " would like to render the infoPage.js when the user clicks to handleClick function in react. Help Appreciated?",
+    "link": "https://dev.to/amrit853200/would-like-to-render-the-infopagejs-when-the-user-clicks-to-handleclick-function-in-react-help-appreciated-h42",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Beautiful Portfolio Website with NextJS & ChakraUI",
+    "link": "https://dev.to/wenlong12345/beautiful-portfolio-website-with-nextjs-chakraui-428c",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I created SmartContract UI - A quick and easy way to interact with blockchain's data",
+    "link": "https://dev.to/martinpham/i-created-smartcontract-ui-a-quick-and-easy-way-to-interact-with-blockchains-data-2ihb",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Table Server Side Pagination with Sorting and Search Filters",
+    "link": "https://dev.to/inimist/react-table-server-side-pagination-with-sorting-and-search-3163",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance optimization using React Hooks! Like useCallback and  useMemo.",
+    "link": "https://dev.to/vaibhav9017/performance-optimization-using-react-hooks-like-usecallback-and-usememo-4dhg",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark Mode Using React",
+    "link": "https://dev.to/lrth06/dark-mode-using-react-279p",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advanced JavaScript Series - Part 1: Execution Context and Call Stack",
+    "link": "https://dev.to/pranav016/advanced-javascript-series-part-1-execution-context-and-call-stack-l1o",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code splitting (bundle-split) in React",
+    "link": "https://dev.to/nitsancohen770/code-splitting-bundle-split-in-react-1ffh",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Window mouse position hook in React",
+    "link": "https://dev.to/coder4_life/window-mouse-position-hook-in-react-bhm",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Project 92 of 100 - Basic Navigation in React Native",
+    "link": "https://dev.to/jwhubert91/project-92-of-100-basic-navigation-in-react-native-25e9",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": " would like to render the infoPage.js when the user clicks to handleClick function in react. Help Appreciated?",
+    "link": "https://dev.to/amrit853200/would-like-to-render-the-infopagejs-when-the-user-clicks-to-handleclick-function-in-react-help-appreciated-h42",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Beautiful Portfolio Website with NextJS & ChakraUI",
+    "link": "https://dev.to/wenlong12345/beautiful-portfolio-website-with-nextjs-chakraui-428c",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I created SmartContract UI - A quick and easy way to interact with blockchain's data",
+    "link": "https://dev.to/martinpham/i-created-smartcontract-ui-a-quick-and-easy-way-to-interact-with-blockchains-data-2ihb",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Table Server Side Pagination with Sorting and Search Filters",
+    "link": "https://dev.to/inimist/react-table-server-side-pagination-with-sorting-and-search-3163",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance optimization using React Hooks! Like useCallback and  useMemo.",
+    "link": "https://dev.to/vaibhav9017/performance-optimization-using-react-hooks-like-usecallback-and-usememo-4dhg",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark Mode Using React",
+    "link": "https://dev.to/lrth06/dark-mode-using-react-279p",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advanced JavaScript Series - Part 1: Execution Context and Call Stack",
+    "link": "https://dev.to/pranav016/advanced-javascript-series-part-1-execution-context-and-call-stack-l1o",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code splitting (bundle-split) in React",
+    "link": "https://dev.to/nitsancohen770/code-splitting-bundle-split-in-react-1ffh",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Window mouse position hook in React",
+    "link": "https://dev.to/coder4_life/window-mouse-position-hook-in-react-bhm",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Project 92 of 100 - Basic Navigation in React Native",
+    "link": "https://dev.to/jwhubert91/project-92-of-100-basic-navigation-in-react-native-25e9",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": " would like to render the infoPage.js when the user clicks to handleClick function in react. Help Appreciated?",
+    "link": "https://dev.to/amrit853200/would-like-to-render-the-infopagejs-when-the-user-clicks-to-handleclick-function-in-react-help-appreciated-h42",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Beautiful Portfolio Website with NextJS & ChakraUI",
+    "link": "https://dev.to/wenlong12345/beautiful-portfolio-website-with-nextjs-chakraui-428c",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I created SmartContract UI - A quick and easy way to interact with blockchain's data",
+    "link": "https://dev.to/martinpham/i-created-smartcontract-ui-a-quick-and-easy-way-to-interact-with-blockchains-data-2ihb",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Table Server Side Pagination with Sorting and Search Filters",
+    "link": "https://dev.to/inimist/react-table-server-side-pagination-with-sorting-and-search-3163",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance optimization using React Hooks! Like useCallback and  useMemo.",
+    "link": "https://dev.to/vaibhav9017/performance-optimization-using-react-hooks-like-usecallback-and-usememo-4dhg",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark Mode Using React",
+    "link": "https://dev.to/lrth06/dark-mode-using-react-279p",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advanced JavaScript Series - Part 1: Execution Context and Call Stack",
+    "link": "https://dev.to/pranav016/advanced-javascript-series-part-1-execution-context-and-call-stack-l1o",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code splitting (bundle-split) in React",
+    "link": "https://dev.to/nitsancohen770/code-splitting-bundle-split-in-react-1ffh",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Window mouse position hook in React",
+    "link": "https://dev.to/coder4_life/window-mouse-position-hook-in-react-bhm",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Project 92 of 100 - Basic Navigation in React Native",
+    "link": "https://dev.to/jwhubert91/project-92-of-100-basic-navigation-in-react-native-25e9",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": " would like to render the infoPage.js when the user clicks to handleClick function in react. Help Appreciated?",
+    "link": "https://dev.to/amrit853200/would-like-to-render-the-infopagejs-when-the-user-clicks-to-handleclick-function-in-react-help-appreciated-h42",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Beautiful Portfolio Website with NextJS & ChakraUI",
+    "link": "https://dev.to/wenlong12345/beautiful-portfolio-website-with-nextjs-chakraui-428c",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I created SmartContract UI - A quick and easy way to interact with blockchain's data",
+    "link": "https://dev.to/martinpham/i-created-smartcontract-ui-a-quick-and-easy-way-to-interact-with-blockchains-data-2ihb",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Table Server Side Pagination with Sorting and Search Filters",
+    "link": "https://dev.to/inimist/react-table-server-side-pagination-with-sorting-and-search-3163",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance optimization using React Hooks! Like useCallback and  useMemo.",
+    "link": "https://dev.to/vaibhav9017/performance-optimization-using-react-hooks-like-usecallback-and-usememo-4dhg",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark Mode Using React",
+    "link": "https://dev.to/lrth06/dark-mode-using-react-279p",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advanced JavaScript Series - Part 1: Execution Context and Call Stack",
+    "link": "https://dev.to/pranav016/advanced-javascript-series-part-1-execution-context-and-call-stack-l1o",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code splitting (bundle-split) in React",
+    "link": "https://dev.to/nitsancohen770/code-splitting-bundle-split-in-react-1ffh",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Window mouse position hook in React",
+    "link": "https://dev.to/coder4_life/window-mouse-position-hook-in-react-bhm",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Project 92 of 100 - Basic Navigation in React Native",
+    "link": "https://dev.to/jwhubert91/project-92-of-100-basic-navigation-in-react-native-25e9",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": " would like to render the infoPage.js when the user clicks to handleClick function in react. Help Appreciated?",
+    "link": "https://dev.to/amrit853200/would-like-to-render-the-infopagejs-when-the-user-clicks-to-handleclick-function-in-react-help-appreciated-h42",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Beautiful Portfolio Website with NextJS & ChakraUI",
+    "link": "https://dev.to/wenlong12345/beautiful-portfolio-website-with-nextjs-chakraui-428c",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I created SmartContract UI - A quick and easy way to interact with blockchain's data",
+    "link": "https://dev.to/martinpham/i-created-smartcontract-ui-a-quick-and-easy-way-to-interact-with-blockchains-data-2ihb",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Table Server Side Pagination with Sorting and Search Filters",
+    "link": "https://dev.to/inimist/react-table-server-side-pagination-with-sorting-and-search-3163",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance optimization using React Hooks! Like useCallback and  useMemo.",
+    "link": "https://dev.to/vaibhav9017/performance-optimization-using-react-hooks-like-usecallback-and-usememo-4dhg",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark Mode Using React",
+    "link": "https://dev.to/lrth06/dark-mode-using-react-279p",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advanced JavaScript Series - Part 1: Execution Context and Call Stack",
+    "link": "https://dev.to/pranav016/advanced-javascript-series-part-1-execution-context-and-call-stack-l1o",
+    "date": "1/4/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Announcing the Wundergraph Hub, like npm, but for APIs",
+    "link": "https://dev.to/wundergraph/announcing-the-wundergraph-hub-like-npm-but-for-apis-33fl",
+    "date": "1/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create a lookalike search engine with Next.js, Tailwind and Elasticsearch (10 steps)",
+    "link": "https://dev.to/rap2hpoutre/create-a-lookalike-search-engine-with-nextjs-tailwind-and-elasticsearch-10-steps-4o9e",
+    "date": "1/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Generate Dynamic PDF With Custom Style In React",
+    "link": "https://dev.to/kishanzalariya/generate-dynamic-pdf-with-custom-style-in-react-27m3",
+    "date": "1/3/2022",
+    "site": "dev.to"
+  },
+  {
     "title": "React Component Testing",
     "link": "https://dev.to/ohdylan/react-component-testing-54ie",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "Create React App - Mind Map. Part 7 of 10: Chart",
-    "link": "https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-chart-1cbf",
+    "title": "Baloonza IT newsletters weekly digest #18",
+    "link": "https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-18-1ib",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "Rails with React/Redux",
-    "link": "https://dev.to/swislokdev/rails-with-reactredux-78l",
+    "title": "Announcing the Wundergraph Hub, like npm, but for APIs",
+    "link": "https://dev.to/wundergraph/announcing-the-wundergraph-hub-like-npm-but-for-apis-33fl",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "Project 91 of 100 - Build a Grocery List in React Native with <FlatList />",
-    "link": "https://dev.to/jwhubert91/project-91-of-100-build-a-grocery-list-in-react-native-with-18n1",
+    "title": "Create a lookalike search engine with Next.js, Tailwind and Elasticsearch (10 steps)",
+    "link": "https://dev.to/rap2hpoutre/create-a-lookalike-search-engine-with-nextjs-tailwind-and-elasticsearch-10-steps-4o9e",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "What is the definition of smart retail?",
-    "link": "https://dev.to/brisklogic/what-is-the-definition-of-smart-retail-381b",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use TypeScript Generics to enhance your React components and make them reusable",
-    "link": "https://dev.to/nitsancohen770/use-typescript-generics-to-enhance-your-react-components-and-make-them-reusable-431f",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Accidently build a start-up for Gamers 😬 | Azuuk",
-    "link": "https://dev.to/rajeshj3/i-accidently-build-a-start-up-for-gamers-azuuk-2enk",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Best Website Examples Developed with React.JS",
-    "link": "https://dev.to/jignesh_simform/the-best-website-examples-developed-with-reactjs-9le",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My FrontEnd Stack",
-    "link": "https://dev.to/knitesh/my-frontend-stack-kf3",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What’s new in React 18?",
-    "link": "https://dev.to/linearloop/whats-new-in-react-18-4ma4",
+    "title": "Generate Dynamic PDF With Custom Style In React",
+    "link": "https://dev.to/kishanzalariya/generate-dynamic-pdf-with-custom-style-in-react-27m3",
     "date": "1/3/2022",
     "site": "dev.to"
   },
@@ -66,56 +354,26 @@
     "site": "dev.to"
   },
   {
-    "title": "Create React App - Mind Map. Part 7 of 10: Chart",
-    "link": "https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-chart-1cbf",
+    "title": "Baloonza IT newsletters weekly digest #18",
+    "link": "https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-18-1ib",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "Rails with React/Redux",
-    "link": "https://dev.to/swislokdev/rails-with-reactredux-78l",
+    "title": "Announcing the Wundergraph Hub, like npm, but for APIs",
+    "link": "https://dev.to/wundergraph/announcing-the-wundergraph-hub-like-npm-but-for-apis-33fl",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "Project 91 of 100 - Build a Grocery List in React Native with <FlatList />",
-    "link": "https://dev.to/jwhubert91/project-91-of-100-build-a-grocery-list-in-react-native-with-18n1",
+    "title": "Create a lookalike search engine with Next.js, Tailwind and Elasticsearch (10 steps)",
+    "link": "https://dev.to/rap2hpoutre/create-a-lookalike-search-engine-with-nextjs-tailwind-and-elasticsearch-10-steps-4o9e",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "What is the definition of smart retail?",
-    "link": "https://dev.to/brisklogic/what-is-the-definition-of-smart-retail-381b",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use TypeScript Generics to enhance your React components and make them reusable",
-    "link": "https://dev.to/nitsancohen770/use-typescript-generics-to-enhance-your-react-components-and-make-them-reusable-431f",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Accidently build a start-up for Gamers 😬 | Azuuk",
-    "link": "https://dev.to/rajeshj3/i-accidently-build-a-start-up-for-gamers-azuuk-2enk",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Best Website Examples Developed with React.JS",
-    "link": "https://dev.to/jignesh_simform/the-best-website-examples-developed-with-reactjs-9le",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My FrontEnd Stack",
-    "link": "https://dev.to/knitesh/my-frontend-stack-kf3",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What’s new in React 18?",
-    "link": "https://dev.to/linearloop/whats-new-in-react-18-4ma4",
+    "title": "Generate Dynamic PDF With Custom Style In React",
+    "link": "https://dev.to/kishanzalariya/generate-dynamic-pdf-with-custom-style-in-react-27m3",
     "date": "1/3/2022",
     "site": "dev.to"
   },
@@ -126,56 +384,26 @@
     "site": "dev.to"
   },
   {
-    "title": "Create React App - Mind Map. Part 7 of 10: Chart",
-    "link": "https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-chart-1cbf",
+    "title": "Baloonza IT newsletters weekly digest #18",
+    "link": "https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-18-1ib",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "Rails with React/Redux",
-    "link": "https://dev.to/swislokdev/rails-with-reactredux-78l",
+    "title": "Announcing the Wundergraph Hub, like npm, but for APIs",
+    "link": "https://dev.to/wundergraph/announcing-the-wundergraph-hub-like-npm-but-for-apis-33fl",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "Project 91 of 100 - Build a Grocery List in React Native with <FlatList />",
-    "link": "https://dev.to/jwhubert91/project-91-of-100-build-a-grocery-list-in-react-native-with-18n1",
+    "title": "Create a lookalike search engine with Next.js, Tailwind and Elasticsearch (10 steps)",
+    "link": "https://dev.to/rap2hpoutre/create-a-lookalike-search-engine-with-nextjs-tailwind-and-elasticsearch-10-steps-4o9e",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "What is the definition of smart retail?",
-    "link": "https://dev.to/brisklogic/what-is-the-definition-of-smart-retail-381b",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use TypeScript Generics to enhance your React components and make them reusable",
-    "link": "https://dev.to/nitsancohen770/use-typescript-generics-to-enhance-your-react-components-and-make-them-reusable-431f",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Accidently build a start-up for Gamers 😬 | Azuuk",
-    "link": "https://dev.to/rajeshj3/i-accidently-build-a-start-up-for-gamers-azuuk-2enk",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Best Website Examples Developed with React.JS",
-    "link": "https://dev.to/jignesh_simform/the-best-website-examples-developed-with-reactjs-9le",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My FrontEnd Stack",
-    "link": "https://dev.to/knitesh/my-frontend-stack-kf3",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What’s new in React 18?",
-    "link": "https://dev.to/linearloop/whats-new-in-react-18-4ma4",
+    "title": "Generate Dynamic PDF With Custom Style In React",
+    "link": "https://dev.to/kishanzalariya/generate-dynamic-pdf-with-custom-style-in-react-27m3",
     "date": "1/3/2022",
     "site": "dev.to"
   },
@@ -186,56 +414,26 @@
     "site": "dev.to"
   },
   {
-    "title": "Create React App - Mind Map. Part 7 of 10: Chart",
-    "link": "https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-chart-1cbf",
+    "title": "Baloonza IT newsletters weekly digest #18",
+    "link": "https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-18-1ib",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "Rails with React/Redux",
-    "link": "https://dev.to/swislokdev/rails-with-reactredux-78l",
+    "title": "Announcing the Wundergraph Hub, like npm, but for APIs",
+    "link": "https://dev.to/wundergraph/announcing-the-wundergraph-hub-like-npm-but-for-apis-33fl",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "Project 91 of 100 - Build a Grocery List in React Native with <FlatList />",
-    "link": "https://dev.to/jwhubert91/project-91-of-100-build-a-grocery-list-in-react-native-with-18n1",
+    "title": "Create a lookalike search engine with Next.js, Tailwind and Elasticsearch (10 steps)",
+    "link": "https://dev.to/rap2hpoutre/create-a-lookalike-search-engine-with-nextjs-tailwind-and-elasticsearch-10-steps-4o9e",
     "date": "1/3/2022",
     "site": "dev.to"
   },
   {
-    "title": "What is the definition of smart retail?",
-    "link": "https://dev.to/brisklogic/what-is-the-definition-of-smart-retail-381b",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use TypeScript Generics to enhance your React components and make them reusable",
-    "link": "https://dev.to/nitsancohen770/use-typescript-generics-to-enhance-your-react-components-and-make-them-reusable-431f",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Accidently build a start-up for Gamers 😬 | Azuuk",
-    "link": "https://dev.to/rajeshj3/i-accidently-build-a-start-up-for-gamers-azuuk-2enk",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Best Website Examples Developed with React.JS",
-    "link": "https://dev.to/jignesh_simform/the-best-website-examples-developed-with-reactjs-9le",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My FrontEnd Stack",
-    "link": "https://dev.to/knitesh/my-frontend-stack-kf3",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What’s new in React 18?",
-    "link": "https://dev.to/linearloop/whats-new-in-react-18-4ma4",
+    "title": "Generate Dynamic PDF With Custom Style In React",
+    "link": "https://dev.to/kishanzalariya/generate-dynamic-pdf-with-custom-style-in-react-27m3",
     "date": "1/3/2022",
     "site": "dev.to"
   },
@@ -246,207 +444,9 @@
     "site": "dev.to"
   },
   {
-    "title": "Create React App - Mind Map. Part 7 of 10: Chart",
-    "link": "https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-chart-1cbf",
+    "title": "Baloonza IT newsletters weekly digest #18",
+    "link": "https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-18-1ib",
     "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rails with React/Redux",
-    "link": "https://dev.to/swislokdev/rails-with-reactredux-78l",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Project 91 of 100 - Build a Grocery List in React Native with <FlatList />",
-    "link": "https://dev.to/jwhubert91/project-91-of-100-build-a-grocery-list-in-react-native-with-18n1",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is the definition of smart retail?",
-    "link": "https://dev.to/brisklogic/what-is-the-definition-of-smart-retail-381b",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use TypeScript Generics to enhance your React components and make them reusable",
-    "link": "https://dev.to/nitsancohen770/use-typescript-generics-to-enhance-your-react-components-and-make-them-reusable-431f",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Accidently build a start-up for Gamers 😬 | Azuuk",
-    "link": "https://dev.to/rajeshj3/i-accidently-build-a-start-up-for-gamers-azuuk-2enk",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Best Website Examples Developed with React.JS",
-    "link": "https://dev.to/jignesh_simform/the-best-website-examples-developed-with-reactjs-9le",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My FrontEnd Stack",
-    "link": "https://dev.to/knitesh/my-frontend-stack-kf3",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What’s new in React 18?",
-    "link": "https://dev.to/linearloop/whats-new-in-react-18-4ma4",
-    "date": "1/3/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "react-router-dom question: \n should I wrap BrowserRouter around strict mode?",
-    "link": "https://dev.to/richard337/react-router-dom-question-should-i-wrap-browserrouter-around-strict-mode-54g",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Weekly Digest 52/2021",
-    "link": "https://dev.to/marcobiedermann/weekly-digest-522021-5hdf",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "todo list app (CRUD operations) using only useState hook | react | tailwind css |  next",
-    "link": "https://dev.to/shatud/todo-list-app-using-only-usestate-hook-react-tailwind-css-next-1amh",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My experience migrating a React App from Create-React-App 4 to 5",
-    "link": "https://dev.to/diballesteros/my-experience-migrating-a-react-app-from-create-react-app-4-to-5-17k0",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switching to angular after working with react?",
-    "link": "https://dev.to/yashjsalian/switching-to-angular-after-working-with-react-5bam",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "react-router-dom question: \n should I wrap BrowserRouter around strict mode?",
-    "link": "https://dev.to/richard337/react-router-dom-question-should-i-wrap-browserrouter-around-strict-mode-54g",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Weekly Digest 52/2021",
-    "link": "https://dev.to/marcobiedermann/weekly-digest-522021-5hdf",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "todo list app (CRUD operations) using only useState hook | react | tailwind css |  next",
-    "link": "https://dev.to/shatud/todo-list-app-using-only-usestate-hook-react-tailwind-css-next-1amh",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My experience migrating a React App from Create-React-App 4 to 5",
-    "link": "https://dev.to/diballesteros/my-experience-migrating-a-react-app-from-create-react-app-4-to-5-17k0",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switching to angular after working with react?",
-    "link": "https://dev.to/yashjsalian/switching-to-angular-after-working-with-react-5bam",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "react-router-dom question: \n should I wrap BrowserRouter around strict mode?",
-    "link": "https://dev.to/richard337/react-router-dom-question-should-i-wrap-browserrouter-around-strict-mode-54g",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Weekly Digest 52/2021",
-    "link": "https://dev.to/marcobiedermann/weekly-digest-522021-5hdf",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "todo list app (CRUD operations) using only useState hook | react | tailwind css |  next",
-    "link": "https://dev.to/shatud/todo-list-app-using-only-usestate-hook-react-tailwind-css-next-1amh",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My experience migrating a React App from Create-React-App 4 to 5",
-    "link": "https://dev.to/diballesteros/my-experience-migrating-a-react-app-from-create-react-app-4-to-5-17k0",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switching to angular after working with react?",
-    "link": "https://dev.to/yashjsalian/switching-to-angular-after-working-with-react-5bam",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "react-router-dom question: \n should I wrap BrowserRouter around strict mode?",
-    "link": "https://dev.to/richard337/react-router-dom-question-should-i-wrap-browserrouter-around-strict-mode-54g",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Weekly Digest 52/2021",
-    "link": "https://dev.to/marcobiedermann/weekly-digest-522021-5hdf",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "todo list app (CRUD operations) using only useState hook | react | tailwind css |  next",
-    "link": "https://dev.to/shatud/todo-list-app-using-only-usestate-hook-react-tailwind-css-next-1amh",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My experience migrating a React App from Create-React-App 4 to 5",
-    "link": "https://dev.to/diballesteros/my-experience-migrating-a-react-app-from-create-react-app-4-to-5-17k0",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switching to angular after working with react?",
-    "link": "https://dev.to/yashjsalian/switching-to-angular-after-working-with-react-5bam",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "react-router-dom question: \n should I wrap BrowserRouter around strict mode?",
-    "link": "https://dev.to/richard337/react-router-dom-question-should-i-wrap-browserrouter-around-strict-mode-54g",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Weekly Digest 52/2021",
-    "link": "https://dev.to/marcobiedermann/weekly-digest-522021-5hdf",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "todo list app (CRUD operations) using only useState hook | react | tailwind css |  next",
-    "link": "https://dev.to/shatud/todo-list-app-using-only-usestate-hook-react-tailwind-css-next-1amh",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My experience migrating a React App from Create-React-App 4 to 5",
-    "link": "https://dev.to/diballesteros/my-experience-migrating-a-react-app-from-create-react-app-4-to-5-17k0",
-    "date": "1/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switching to angular after working with react?",
-    "link": "https://dev.to/yashjsalian/switching-to-angular-after-working-with-react-5bam",
-    "date": "1/2/2022",
     "site": "dev.to"
   },
   {
@@ -537,7 +537,7 @@
   {
     "title": "Compound Components In React",
     "link": "https://www.smashingmagazine.com/2021/08/compound-components-react/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "8/27/2021",
     "site": "smashingmagazine"
   },
@@ -600,14 +600,14 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
@@ -706,7 +706,7 @@
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   },
@@ -904,7 +904,7 @@
   {
     "title": "Comparing Styling Methods In Next.js",
     "link": "https://www.smashingmagazine.com/2020/09/comparison-styling-methods-next-js/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "9/17/2020",
     "site": "smashingmagazine"
   },
