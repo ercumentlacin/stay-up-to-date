@@ -1,135 +1,705 @@
 [
   {
+    "title": "Understanding \"undefined\" and \"null\" in JavaScript",
+    "link": "https://mranand.hashnode.dev/understanding-undefined-and-null-in-javascript",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Use Ternary Operators - Daily JavaScript Tips #2",
+    "link": "https://codewithsnowbit.hashnode.dev/use-ternary-operators-daily-javascript-tips-2",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functions in JavaScript",
+    "link": "https://vanshsharma.hashnode.dev/functions-in-javascript",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Where to Learn React.JS in 2022 - A List of Resources for New Developers",
+    "link": "https://openreplay.hashnode.dev/where-to-learn-reactjs-in-2022-a-list-of-resources-for-new-developers",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Compiler & Transpiler",
+    "link": "https://arjunbharti.hashnode.dev/compiler-and-transpiler",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Show and hide a header based on scroll direction",
+    "link": "https://h.daily-dev-tips.com/show-and-hide-a-header-based-on-scroll-direction",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "🌞 Toggle theme 🌑 in React with MUI v5 and Redux 🚀",
+    "link": "https://dev.to/rajeshj3/toggle-theme-in-react-with-mui-v5-and-redux-4h4b",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep dive into React codebase [EP1: Prerequisites]",
+    "link": "https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 74 of 100 Days of Code & Scrum: Tenth Weekly Retrospective",
+    "link": "https://dev.to/rammina/day-74-of-100-days-of-code-scrum-tenth-weekly-retrospective-4me3",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Elm: ushering in a new era of web development",
+    "link": "https://dev.to/benjamonnguyen/elm-ushering-in-a-new-era-of-web-development-295d",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Program your own WYSIWYG editor – with HTML, CSS & pure JavaScript\n",
+    "link": "https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web vitals automation using github actions",
+    "link": "https://dev.to/achuthhadnoor/web-vitals-automation-using-github-actions-413a",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Connect a React App to a Notion Database",
+    "link": "https://dev.to/alexeagleson/how-to-connect-a-react-app-to-a-notion-database-51mc",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I published My new Chapter",
+    "link": "https://dev.to/subhransuindia/i-created-my-new-portfolio-hpa",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Technology Upskill Mess For Application Developers",
+    "link": "https://dev.to/techpackets/the-technology-upskill-mess-for-application-developers-g5",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My First Post 💖",
+    "link": "https://dev.to/sh20raj/my-first-post-52gc",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Show and hide a header based on scroll direction",
+    "link": "https://dev.to/dailydevtips1/show-and-hide-a-header-based-on-scroll-direction-19fa",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React - Passing ref from Child to Parent?",
+    "link": "https://dev.to/jr_web_dev/react-passing-ref-from-child-to-parent-2ac5",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Project 97 - React Native Color Customizer",
+    "link": "https://dev.to/jwhubert91/project-97-react-native-color-customizer-dfk",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dev note 8JAN2021\n",
+    "link": "https://dev.to/kipackjeong/dev-note-8jan2021-47km",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding \"undefined\" and \"null\" in JavaScript",
+    "link": "https://mranand.hashnode.dev/understanding-undefined-and-null-in-javascript",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Use Ternary Operators - Daily JavaScript Tips #2",
+    "link": "https://codewithsnowbit.hashnode.dev/use-ternary-operators-daily-javascript-tips-2",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functions in JavaScript",
+    "link": "https://vanshsharma.hashnode.dev/functions-in-javascript",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Where to Learn React.JS in 2022 - A List of Resources for New Developers",
+    "link": "https://openreplay.hashnode.dev/where-to-learn-reactjs-in-2022-a-list-of-resources-for-new-developers",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Compiler & Transpiler",
+    "link": "https://arjunbharti.hashnode.dev/compiler-and-transpiler",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Show and hide a header based on scroll direction",
+    "link": "https://h.daily-dev-tips.com/show-and-hide-a-header-based-on-scroll-direction",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "🌞 Toggle theme 🌑 in React with MUI v5 and Redux 🚀",
+    "link": "https://dev.to/rajeshj3/toggle-theme-in-react-with-mui-v5-and-redux-4h4b",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep dive into React codebase [EP1: Prerequisites]",
+    "link": "https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 74 of 100 Days of Code & Scrum: Tenth Weekly Retrospective",
+    "link": "https://dev.to/rammina/day-74-of-100-days-of-code-scrum-tenth-weekly-retrospective-4me3",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Elm: ushering in a new era of web development",
+    "link": "https://dev.to/benjamonnguyen/elm-ushering-in-a-new-era-of-web-development-295d",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Program your own WYSIWYG editor – with HTML, CSS & pure JavaScript\n",
+    "link": "https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web vitals automation using github actions",
+    "link": "https://dev.to/achuthhadnoor/web-vitals-automation-using-github-actions-413a",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Connect a React App to a Notion Database",
+    "link": "https://dev.to/alexeagleson/how-to-connect-a-react-app-to-a-notion-database-51mc",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I published My new Chapter",
+    "link": "https://dev.to/subhransuindia/i-created-my-new-portfolio-hpa",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Technology Upskill Mess For Application Developers",
+    "link": "https://dev.to/techpackets/the-technology-upskill-mess-for-application-developers-g5",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My First Post 💖",
+    "link": "https://dev.to/sh20raj/my-first-post-52gc",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Show and hide a header based on scroll direction",
+    "link": "https://dev.to/dailydevtips1/show-and-hide-a-header-based-on-scroll-direction-19fa",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React - Passing ref from Child to Parent?",
+    "link": "https://dev.to/jr_web_dev/react-passing-ref-from-child-to-parent-2ac5",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Project 97 - React Native Color Customizer",
+    "link": "https://dev.to/jwhubert91/project-97-react-native-color-customizer-dfk",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dev note 8JAN2021\n",
+    "link": "https://dev.to/kipackjeong/dev-note-8jan2021-47km",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding \"undefined\" and \"null\" in JavaScript",
+    "link": "https://mranand.hashnode.dev/understanding-undefined-and-null-in-javascript",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Use Ternary Operators - Daily JavaScript Tips #2",
+    "link": "https://codewithsnowbit.hashnode.dev/use-ternary-operators-daily-javascript-tips-2",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functions in JavaScript",
+    "link": "https://vanshsharma.hashnode.dev/functions-in-javascript",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Where to Learn React.JS in 2022 - A List of Resources for New Developers",
+    "link": "https://openreplay.hashnode.dev/where-to-learn-reactjs-in-2022-a-list-of-resources-for-new-developers",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Compiler & Transpiler",
+    "link": "https://arjunbharti.hashnode.dev/compiler-and-transpiler",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Show and hide a header based on scroll direction",
+    "link": "https://h.daily-dev-tips.com/show-and-hide-a-header-based-on-scroll-direction",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "🌞 Toggle theme 🌑 in React with MUI v5 and Redux 🚀",
+    "link": "https://dev.to/rajeshj3/toggle-theme-in-react-with-mui-v5-and-redux-4h4b",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep dive into React codebase [EP1: Prerequisites]",
+    "link": "https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 74 of 100 Days of Code & Scrum: Tenth Weekly Retrospective",
+    "link": "https://dev.to/rammina/day-74-of-100-days-of-code-scrum-tenth-weekly-retrospective-4me3",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Elm: ushering in a new era of web development",
+    "link": "https://dev.to/benjamonnguyen/elm-ushering-in-a-new-era-of-web-development-295d",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Program your own WYSIWYG editor – with HTML, CSS & pure JavaScript\n",
+    "link": "https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web vitals automation using github actions",
+    "link": "https://dev.to/achuthhadnoor/web-vitals-automation-using-github-actions-413a",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Connect a React App to a Notion Database",
+    "link": "https://dev.to/alexeagleson/how-to-connect-a-react-app-to-a-notion-database-51mc",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I published My new Chapter",
+    "link": "https://dev.to/subhransuindia/i-created-my-new-portfolio-hpa",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Technology Upskill Mess For Application Developers",
+    "link": "https://dev.to/techpackets/the-technology-upskill-mess-for-application-developers-g5",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My First Post 💖",
+    "link": "https://dev.to/sh20raj/my-first-post-52gc",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Show and hide a header based on scroll direction",
+    "link": "https://dev.to/dailydevtips1/show-and-hide-a-header-based-on-scroll-direction-19fa",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React - Passing ref from Child to Parent?",
+    "link": "https://dev.to/jr_web_dev/react-passing-ref-from-child-to-parent-2ac5",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Project 97 - React Native Color Customizer",
+    "link": "https://dev.to/jwhubert91/project-97-react-native-color-customizer-dfk",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dev note 8JAN2021\n",
+    "link": "https://dev.to/kipackjeong/dev-note-8jan2021-47km",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding \"undefined\" and \"null\" in JavaScript",
+    "link": "https://mranand.hashnode.dev/understanding-undefined-and-null-in-javascript",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Use Ternary Operators - Daily JavaScript Tips #2",
+    "link": "https://codewithsnowbit.hashnode.dev/use-ternary-operators-daily-javascript-tips-2",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functions in JavaScript",
+    "link": "https://vanshsharma.hashnode.dev/functions-in-javascript",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Where to Learn React.JS in 2022 - A List of Resources for New Developers",
+    "link": "https://openreplay.hashnode.dev/where-to-learn-reactjs-in-2022-a-list-of-resources-for-new-developers",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Compiler & Transpiler",
+    "link": "https://arjunbharti.hashnode.dev/compiler-and-transpiler",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Show and hide a header based on scroll direction",
+    "link": "https://h.daily-dev-tips.com/show-and-hide-a-header-based-on-scroll-direction",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "🌞 Toggle theme 🌑 in React with MUI v5 and Redux 🚀",
+    "link": "https://dev.to/rajeshj3/toggle-theme-in-react-with-mui-v5-and-redux-4h4b",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep dive into React codebase [EP1: Prerequisites]",
+    "link": "https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 74 of 100 Days of Code & Scrum: Tenth Weekly Retrospective",
+    "link": "https://dev.to/rammina/day-74-of-100-days-of-code-scrum-tenth-weekly-retrospective-4me3",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Elm: ushering in a new era of web development",
+    "link": "https://dev.to/benjamonnguyen/elm-ushering-in-a-new-era-of-web-development-295d",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Program your own WYSIWYG editor – with HTML, CSS & pure JavaScript\n",
+    "link": "https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web vitals automation using github actions",
+    "link": "https://dev.to/achuthhadnoor/web-vitals-automation-using-github-actions-413a",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Connect a React App to a Notion Database",
+    "link": "https://dev.to/alexeagleson/how-to-connect-a-react-app-to-a-notion-database-51mc",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I published My new Chapter",
+    "link": "https://dev.to/subhransuindia/i-created-my-new-portfolio-hpa",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Technology Upskill Mess For Application Developers",
+    "link": "https://dev.to/techpackets/the-technology-upskill-mess-for-application-developers-g5",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My First Post 💖",
+    "link": "https://dev.to/sh20raj/my-first-post-52gc",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Show and hide a header based on scroll direction",
+    "link": "https://dev.to/dailydevtips1/show-and-hide-a-header-based-on-scroll-direction-19fa",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React - Passing ref from Child to Parent?",
+    "link": "https://dev.to/jr_web_dev/react-passing-ref-from-child-to-parent-2ac5",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Project 97 - React Native Color Customizer",
+    "link": "https://dev.to/jwhubert91/project-97-react-native-color-customizer-dfk",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dev note 8JAN2021\n",
+    "link": "https://dev.to/kipackjeong/dev-note-8jan2021-47km",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding \"undefined\" and \"null\" in JavaScript",
+    "link": "https://mranand.hashnode.dev/understanding-undefined-and-null-in-javascript",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Use Ternary Operators - Daily JavaScript Tips #2",
+    "link": "https://codewithsnowbit.hashnode.dev/use-ternary-operators-daily-javascript-tips-2",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functions in JavaScript",
+    "link": "https://vanshsharma.hashnode.dev/functions-in-javascript",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Where to Learn React.JS in 2022 - A List of Resources for New Developers",
+    "link": "https://openreplay.hashnode.dev/where-to-learn-reactjs-in-2022-a-list-of-resources-for-new-developers",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Compiler & Transpiler",
+    "link": "https://arjunbharti.hashnode.dev/compiler-and-transpiler",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Show and hide a header based on scroll direction",
+    "link": "https://h.daily-dev-tips.com/show-and-hide-a-header-based-on-scroll-direction",
+    "date": "1/9/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "🌞 Toggle theme 🌑 in React with MUI v5 and Redux 🚀",
+    "link": "https://dev.to/rajeshj3/toggle-theme-in-react-with-mui-v5-and-redux-4h4b",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep dive into React codebase [EP1: Prerequisites]",
+    "link": "https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 74 of 100 Days of Code & Scrum: Tenth Weekly Retrospective",
+    "link": "https://dev.to/rammina/day-74-of-100-days-of-code-scrum-tenth-weekly-retrospective-4me3",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Elm: ushering in a new era of web development",
+    "link": "https://dev.to/benjamonnguyen/elm-ushering-in-a-new-era-of-web-development-295d",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Program your own WYSIWYG editor – with HTML, CSS & pure JavaScript\n",
+    "link": "https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web vitals automation using github actions",
+    "link": "https://dev.to/achuthhadnoor/web-vitals-automation-using-github-actions-413a",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Connect a React App to a Notion Database",
+    "link": "https://dev.to/alexeagleson/how-to-connect-a-react-app-to-a-notion-database-51mc",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I published My new Chapter",
+    "link": "https://dev.to/subhransuindia/i-created-my-new-portfolio-hpa",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Technology Upskill Mess For Application Developers",
+    "link": "https://dev.to/techpackets/the-technology-upskill-mess-for-application-developers-g5",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My First Post 💖",
+    "link": "https://dev.to/sh20raj/my-first-post-52gc",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Show and hide a header based on scroll direction",
+    "link": "https://dev.to/dailydevtips1/show-and-hide-a-header-based-on-scroll-direction-19fa",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React - Passing ref from Child to Parent?",
+    "link": "https://dev.to/jr_web_dev/react-passing-ref-from-child-to-parent-2ac5",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Project 97 - React Native Color Customizer",
+    "link": "https://dev.to/jwhubert91/project-97-react-native-color-customizer-dfk",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dev note 8JAN2021\n",
+    "link": "https://dev.to/kipackjeong/dev-note-8jan2021-47km",
+    "date": "1/9/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why you never truly use OOP: The sweet world of OOP syntactical sugar in JS",
+    "link": "https://raghavsinghgulia.hashnode.dev/oop-in-js",
+    "date": "1/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Maintaining FakerJS - Blaver",
+    "link": "https://talkswithme.hashnode.dev/maintaining-fakerjs-blaver",
+    "date": "1/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Lazy loading in Reactjs with React router v6.",
+    "link": "https://blog.devteni.xyz/lazy-loading-in-reactjs-with-react-router-v6",
+    "date": "1/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a Simple Timer with Vanilla JavaScript",
+    "link": "https://aahiknsv.hashnode.dev/building-a-simple-timer-with-vanilla-javascript",
+    "date": "1/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JS Shorts: Array.splice() vs Array.slice()",
+    "link": "https://dpkreativ.hashnode.dev/js-shorts-arraysplice-vs-arrayslice",
+    "date": "1/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Vue 3 Composition API ? Nah, thanks.",
+    "link": "https://the-one.hashnode.dev/vue-3-composition-api-nah-thanks",
+    "date": "1/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Managing JS and CSS Assets in Rails 7",
+    "link": "https://cristiano.hashnode.dev/managing-js-and-css-assets-in-rails-7",
+    "date": "1/8/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "Creating a Discord slash command bot",
     "link": "https://h.daily-dev-tips.com/creating-a-discord-slash-command-bot",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Reconciliation and Virtual DOM in React",
-    "link": "https://codewaala.hashnode.dev/reconciliation-and-virtual-dom-in-react",
+    "title": "Test Blog",
+    "link": "https://moksh.hashnode.dev/test-blog",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "My Amazon FEE Interview Experience",
-    "link": "https://blog.sahilkalyani.in/amazon-fee-interview-experience",
+    "title": "How to make full stack e-commerce website using HTML, CSS and JS | Part 01",
+    "link": "https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h",
+    "date": "1/8/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why you never truly use OOP: The sweet world of OOP syntactical sugar in JS",
+    "link": "https://raghavsinghgulia.hashnode.dev/oop-in-js",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Angular Newbies V",
-    "link": "https://mhbaando.hashnode.dev/angular-newbies-v",
+    "title": "Maintaining FakerJS - Blaver",
+    "link": "https://talkswithme.hashnode.dev/maintaining-fakerjs-blaver",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Javascript generator functions simplified",
-    "link": "https://e2e.utopiops.com/javascript-generator-functions-simplified",
+    "title": "Lazy loading in Reactjs with React router v6.",
+    "link": "https://blog.devteni.xyz/lazy-loading-in-reactjs-with-react-router-v6",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Conditionals and loops in Vue.js",
-    "link": "https://e2e.utopiops.com/conditionals-and-loops-in-vuejs",
+    "title": "Building a Simple Timer with Vanilla JavaScript",
+    "link": "https://aahiknsv.hashnode.dev/building-a-simple-timer-with-vanilla-javascript",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Nodejs 16 and Webpack 5 transition in Debian🍥",
-    "link": "https://ayoyimika.hashnode.dev/nodejs-16-and-webpack-5-transition-in-debian",
+    "title": "JS Shorts: Array.splice() vs Array.slice()",
+    "link": "https://dpkreativ.hashnode.dev/js-shorts-arraysplice-vs-arrayslice",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Inspired by the future: Vision UI Dashboard React (Open Source Version)",
-    "link": "https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-open-source-version-5aj6",
+    "title": "Vue 3 Composition API ? Nah, thanks.",
+    "link": "https://the-one.hashnode.dev/vue-3-composition-api-nah-thanks",
     "date": "1/8/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Creating a Discord slash command bot",
-    "link": "https://dev.to/dailydevtips1/creating-a-discord-slash-command-bot-1g7i",
+    "title": "Managing JS and CSS Assets in Rails 7",
+    "link": "https://cristiano.hashnode.dev/managing-js-and-css-assets-in-rails-7",
     "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Better Way of Sending Data to the Backend",
-    "link": "https://dev.to/manas_dev/the-better-way-of-sending-data-to-the-backend-bdp",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 73 of 100 Days of Code & Scrum: Project Page for My Portfolio",
-    "link": "https://dev.to/rammina/day-73-of-100-days-of-code-scrum-project-page-for-my-portfolio-30hf",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Close browser when button click",
-    "link": "https://dev.to/aamien97/close-browser-when-button-click-5cgd",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 2",
-    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-2-1bma",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM guide for beginners  #1",
-    "link": "https://dev.to/himanshupal0001/dom-guide-for-beginners-1-2k63",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reconciliation and Virtual DOM in React",
-    "link": "https://dev.to/amitthakur11/reconciliation-and-virtual-dom-in-react-h69",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built My Own TinyURL. Here’s How I Did It",
-    "link": "https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animation on scroll using HTML CSS and JavaScript without any pre-build libraries",
-    "link": "https://dev.to/harshkain/animation-on-scroll-using-html-css-and-javascript-without-any-pre-build-libraries-9jo",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Sustainable Websites",
-    "link": "https://dev.to/sharma2288/making-sustainable-websites-4h21",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use mouse coordinates to make an image button with React.",
-    "link": "https://dev.to/sirdigo/how-to-use-mouse-coordinates-to-make-an-image-button-with-react-5fmb",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Newbies V",
-    "link": "https://dev.to/mhbaando/angular-newbies-v-5ad6",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "video calling App in React JS using Simple Peer",
-    "link": "https://dev.to/deepakjaiswal/video-calling-app-in-react-js-using-simple-peer-4anh",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single-File JavaScript Modules",
-    "link": "https://dev.to/tythos/single-file-javascript-modules-7aj",
-    "date": "1/8/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Creating a Discord slash command bot",
@@ -138,130 +708,58 @@
     "site": "hashnode"
   },
   {
-    "title": "Reconciliation and Virtual DOM in React",
-    "link": "https://codewaala.hashnode.dev/reconciliation-and-virtual-dom-in-react",
+    "title": "Test Blog",
+    "link": "https://moksh.hashnode.dev/test-blog",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "My Amazon FEE Interview Experience",
-    "link": "https://blog.sahilkalyani.in/amazon-fee-interview-experience",
+    "title": "How to make full stack e-commerce website using HTML, CSS and JS | Part 01",
+    "link": "https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h",
+    "date": "1/8/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why you never truly use OOP: The sweet world of OOP syntactical sugar in JS",
+    "link": "https://raghavsinghgulia.hashnode.dev/oop-in-js",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Angular Newbies V",
-    "link": "https://mhbaando.hashnode.dev/angular-newbies-v",
+    "title": "Maintaining FakerJS - Blaver",
+    "link": "https://talkswithme.hashnode.dev/maintaining-fakerjs-blaver",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Javascript generator functions simplified",
-    "link": "https://e2e.utopiops.com/javascript-generator-functions-simplified",
+    "title": "Lazy loading in Reactjs with React router v6.",
+    "link": "https://blog.devteni.xyz/lazy-loading-in-reactjs-with-react-router-v6",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Conditionals and loops in Vue.js",
-    "link": "https://e2e.utopiops.com/conditionals-and-loops-in-vuejs",
+    "title": "Building a Simple Timer with Vanilla JavaScript",
+    "link": "https://aahiknsv.hashnode.dev/building-a-simple-timer-with-vanilla-javascript",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Nodejs 16 and Webpack 5 transition in Debian🍥",
-    "link": "https://ayoyimika.hashnode.dev/nodejs-16-and-webpack-5-transition-in-debian",
+    "title": "JS Shorts: Array.splice() vs Array.slice()",
+    "link": "https://dpkreativ.hashnode.dev/js-shorts-arraysplice-vs-arrayslice",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Inspired by the future: Vision UI Dashboard React (Open Source Version)",
-    "link": "https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-open-source-version-5aj6",
+    "title": "Vue 3 Composition API ? Nah, thanks.",
+    "link": "https://the-one.hashnode.dev/vue-3-composition-api-nah-thanks",
     "date": "1/8/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Creating a Discord slash command bot",
-    "link": "https://dev.to/dailydevtips1/creating-a-discord-slash-command-bot-1g7i",
+    "title": "Managing JS and CSS Assets in Rails 7",
+    "link": "https://cristiano.hashnode.dev/managing-js-and-css-assets-in-rails-7",
     "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Better Way of Sending Data to the Backend",
-    "link": "https://dev.to/manas_dev/the-better-way-of-sending-data-to-the-backend-bdp",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 73 of 100 Days of Code & Scrum: Project Page for My Portfolio",
-    "link": "https://dev.to/rammina/day-73-of-100-days-of-code-scrum-project-page-for-my-portfolio-30hf",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Close browser when button click",
-    "link": "https://dev.to/aamien97/close-browser-when-button-click-5cgd",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 2",
-    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-2-1bma",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM guide for beginners  #1",
-    "link": "https://dev.to/himanshupal0001/dom-guide-for-beginners-1-2k63",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reconciliation and Virtual DOM in React",
-    "link": "https://dev.to/amitthakur11/reconciliation-and-virtual-dom-in-react-h69",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built My Own TinyURL. Here’s How I Did It",
-    "link": "https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animation on scroll using HTML CSS and JavaScript without any pre-build libraries",
-    "link": "https://dev.to/harshkain/animation-on-scroll-using-html-css-and-javascript-without-any-pre-build-libraries-9jo",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Sustainable Websites",
-    "link": "https://dev.to/sharma2288/making-sustainable-websites-4h21",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use mouse coordinates to make an image button with React.",
-    "link": "https://dev.to/sirdigo/how-to-use-mouse-coordinates-to-make-an-image-button-with-react-5fmb",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Newbies V",
-    "link": "https://dev.to/mhbaando/angular-newbies-v-5ad6",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "video calling App in React JS using Simple Peer",
-    "link": "https://dev.to/deepakjaiswal/video-calling-app-in-react-js-using-simple-peer-4anh",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single-File JavaScript Modules",
-    "link": "https://dev.to/tythos/single-file-javascript-modules-7aj",
-    "date": "1/8/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Creating a Discord slash command bot",
@@ -270,130 +768,58 @@
     "site": "hashnode"
   },
   {
-    "title": "Reconciliation and Virtual DOM in React",
-    "link": "https://codewaala.hashnode.dev/reconciliation-and-virtual-dom-in-react",
+    "title": "Test Blog",
+    "link": "https://moksh.hashnode.dev/test-blog",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "My Amazon FEE Interview Experience",
-    "link": "https://blog.sahilkalyani.in/amazon-fee-interview-experience",
+    "title": "How to make full stack e-commerce website using HTML, CSS and JS | Part 01",
+    "link": "https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h",
+    "date": "1/8/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why you never truly use OOP: The sweet world of OOP syntactical sugar in JS",
+    "link": "https://raghavsinghgulia.hashnode.dev/oop-in-js",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Angular Newbies V",
-    "link": "https://mhbaando.hashnode.dev/angular-newbies-v",
+    "title": "Maintaining FakerJS - Blaver",
+    "link": "https://talkswithme.hashnode.dev/maintaining-fakerjs-blaver",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Javascript generator functions simplified",
-    "link": "https://e2e.utopiops.com/javascript-generator-functions-simplified",
+    "title": "Lazy loading in Reactjs with React router v6.",
+    "link": "https://blog.devteni.xyz/lazy-loading-in-reactjs-with-react-router-v6",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Conditionals and loops in Vue.js",
-    "link": "https://e2e.utopiops.com/conditionals-and-loops-in-vuejs",
+    "title": "Building a Simple Timer with Vanilla JavaScript",
+    "link": "https://aahiknsv.hashnode.dev/building-a-simple-timer-with-vanilla-javascript",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Nodejs 16 and Webpack 5 transition in Debian🍥",
-    "link": "https://ayoyimika.hashnode.dev/nodejs-16-and-webpack-5-transition-in-debian",
+    "title": "JS Shorts: Array.splice() vs Array.slice()",
+    "link": "https://dpkreativ.hashnode.dev/js-shorts-arraysplice-vs-arrayslice",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Inspired by the future: Vision UI Dashboard React (Open Source Version)",
-    "link": "https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-open-source-version-5aj6",
+    "title": "Vue 3 Composition API ? Nah, thanks.",
+    "link": "https://the-one.hashnode.dev/vue-3-composition-api-nah-thanks",
     "date": "1/8/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Creating a Discord slash command bot",
-    "link": "https://dev.to/dailydevtips1/creating-a-discord-slash-command-bot-1g7i",
+    "title": "Managing JS and CSS Assets in Rails 7",
+    "link": "https://cristiano.hashnode.dev/managing-js-and-css-assets-in-rails-7",
     "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Better Way of Sending Data to the Backend",
-    "link": "https://dev.to/manas_dev/the-better-way-of-sending-data-to-the-backend-bdp",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 73 of 100 Days of Code & Scrum: Project Page for My Portfolio",
-    "link": "https://dev.to/rammina/day-73-of-100-days-of-code-scrum-project-page-for-my-portfolio-30hf",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Close browser when button click",
-    "link": "https://dev.to/aamien97/close-browser-when-button-click-5cgd",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 2",
-    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-2-1bma",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM guide for beginners  #1",
-    "link": "https://dev.to/himanshupal0001/dom-guide-for-beginners-1-2k63",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reconciliation and Virtual DOM in React",
-    "link": "https://dev.to/amitthakur11/reconciliation-and-virtual-dom-in-react-h69",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built My Own TinyURL. Here’s How I Did It",
-    "link": "https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animation on scroll using HTML CSS and JavaScript without any pre-build libraries",
-    "link": "https://dev.to/harshkain/animation-on-scroll-using-html-css-and-javascript-without-any-pre-build-libraries-9jo",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Sustainable Websites",
-    "link": "https://dev.to/sharma2288/making-sustainable-websites-4h21",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use mouse coordinates to make an image button with React.",
-    "link": "https://dev.to/sirdigo/how-to-use-mouse-coordinates-to-make-an-image-button-with-react-5fmb",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Newbies V",
-    "link": "https://dev.to/mhbaando/angular-newbies-v-5ad6",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "video calling App in React JS using Simple Peer",
-    "link": "https://dev.to/deepakjaiswal/video-calling-app-in-react-js-using-simple-peer-4anh",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single-File JavaScript Modules",
-    "link": "https://dev.to/tythos/single-file-javascript-modules-7aj",
-    "date": "1/8/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Creating a Discord slash command bot",
@@ -402,130 +828,58 @@
     "site": "hashnode"
   },
   {
-    "title": "Reconciliation and Virtual DOM in React",
-    "link": "https://codewaala.hashnode.dev/reconciliation-and-virtual-dom-in-react",
+    "title": "Test Blog",
+    "link": "https://moksh.hashnode.dev/test-blog",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "My Amazon FEE Interview Experience",
-    "link": "https://blog.sahilkalyani.in/amazon-fee-interview-experience",
+    "title": "How to make full stack e-commerce website using HTML, CSS and JS | Part 01",
+    "link": "https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h",
+    "date": "1/8/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why you never truly use OOP: The sweet world of OOP syntactical sugar in JS",
+    "link": "https://raghavsinghgulia.hashnode.dev/oop-in-js",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Angular Newbies V",
-    "link": "https://mhbaando.hashnode.dev/angular-newbies-v",
+    "title": "Maintaining FakerJS - Blaver",
+    "link": "https://talkswithme.hashnode.dev/maintaining-fakerjs-blaver",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Javascript generator functions simplified",
-    "link": "https://e2e.utopiops.com/javascript-generator-functions-simplified",
+    "title": "Lazy loading in Reactjs with React router v6.",
+    "link": "https://blog.devteni.xyz/lazy-loading-in-reactjs-with-react-router-v6",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Conditionals and loops in Vue.js",
-    "link": "https://e2e.utopiops.com/conditionals-and-loops-in-vuejs",
+    "title": "Building a Simple Timer with Vanilla JavaScript",
+    "link": "https://aahiknsv.hashnode.dev/building-a-simple-timer-with-vanilla-javascript",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Nodejs 16 and Webpack 5 transition in Debian🍥",
-    "link": "https://ayoyimika.hashnode.dev/nodejs-16-and-webpack-5-transition-in-debian",
+    "title": "JS Shorts: Array.splice() vs Array.slice()",
+    "link": "https://dpkreativ.hashnode.dev/js-shorts-arraysplice-vs-arrayslice",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "Inspired by the future: Vision UI Dashboard React (Open Source Version)",
-    "link": "https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-open-source-version-5aj6",
+    "title": "Vue 3 Composition API ? Nah, thanks.",
+    "link": "https://the-one.hashnode.dev/vue-3-composition-api-nah-thanks",
     "date": "1/8/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Creating a Discord slash command bot",
-    "link": "https://dev.to/dailydevtips1/creating-a-discord-slash-command-bot-1g7i",
+    "title": "Managing JS and CSS Assets in Rails 7",
+    "link": "https://cristiano.hashnode.dev/managing-js-and-css-assets-in-rails-7",
     "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Better Way of Sending Data to the Backend",
-    "link": "https://dev.to/manas_dev/the-better-way-of-sending-data-to-the-backend-bdp",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 73 of 100 Days of Code & Scrum: Project Page for My Portfolio",
-    "link": "https://dev.to/rammina/day-73-of-100-days-of-code-scrum-project-page-for-my-portfolio-30hf",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Close browser when button click",
-    "link": "https://dev.to/aamien97/close-browser-when-button-click-5cgd",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 2",
-    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-2-1bma",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM guide for beginners  #1",
-    "link": "https://dev.to/himanshupal0001/dom-guide-for-beginners-1-2k63",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reconciliation and Virtual DOM in React",
-    "link": "https://dev.to/amitthakur11/reconciliation-and-virtual-dom-in-react-h69",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built My Own TinyURL. Here’s How I Did It",
-    "link": "https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animation on scroll using HTML CSS and JavaScript without any pre-build libraries",
-    "link": "https://dev.to/harshkain/animation-on-scroll-using-html-css-and-javascript-without-any-pre-build-libraries-9jo",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Sustainable Websites",
-    "link": "https://dev.to/sharma2288/making-sustainable-websites-4h21",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use mouse coordinates to make an image button with React.",
-    "link": "https://dev.to/sirdigo/how-to-use-mouse-coordinates-to-make-an-image-button-with-react-5fmb",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Newbies V",
-    "link": "https://dev.to/mhbaando/angular-newbies-v-5ad6",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "video calling App in React JS using Simple Peer",
-    "link": "https://dev.to/deepakjaiswal/video-calling-app-in-react-js-using-simple-peer-4anh",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single-File JavaScript Modules",
-    "link": "https://dev.to/tythos/single-file-javascript-modules-7aj",
-    "date": "1/8/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Creating a Discord slash command bot",
@@ -534,370 +888,16 @@
     "site": "hashnode"
   },
   {
-    "title": "Reconciliation and Virtual DOM in React",
-    "link": "https://codewaala.hashnode.dev/reconciliation-and-virtual-dom-in-react",
+    "title": "Test Blog",
+    "link": "https://moksh.hashnode.dev/test-blog",
     "date": "1/8/2022",
     "site": "hashnode"
   },
   {
-    "title": "My Amazon FEE Interview Experience",
-    "link": "https://blog.sahilkalyani.in/amazon-fee-interview-experience",
-    "date": "1/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Angular Newbies V",
-    "link": "https://mhbaando.hashnode.dev/angular-newbies-v",
-    "date": "1/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Javascript generator functions simplified",
-    "link": "https://e2e.utopiops.com/javascript-generator-functions-simplified",
-    "date": "1/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Conditionals and loops in Vue.js",
-    "link": "https://e2e.utopiops.com/conditionals-and-loops-in-vuejs",
-    "date": "1/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nodejs 16 and Webpack 5 transition in Debian🍥",
-    "link": "https://ayoyimika.hashnode.dev/nodejs-16-and-webpack-5-transition-in-debian",
-    "date": "1/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Inspired by the future: Vision UI Dashboard React (Open Source Version)",
-    "link": "https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-open-source-version-5aj6",
+    "title": "How to make full stack e-commerce website using HTML, CSS and JS | Part 01",
+    "link": "https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h",
     "date": "1/8/2022",
     "site": "dev.to"
-  },
-  {
-    "title": "Creating a Discord slash command bot",
-    "link": "https://dev.to/dailydevtips1/creating-a-discord-slash-command-bot-1g7i",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Better Way of Sending Data to the Backend",
-    "link": "https://dev.to/manas_dev/the-better-way-of-sending-data-to-the-backend-bdp",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 73 of 100 Days of Code & Scrum: Project Page for My Portfolio",
-    "link": "https://dev.to/rammina/day-73-of-100-days-of-code-scrum-project-page-for-my-portfolio-30hf",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Close browser when button click",
-    "link": "https://dev.to/aamien97/close-browser-when-button-click-5cgd",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 2",
-    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-2-1bma",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM guide for beginners  #1",
-    "link": "https://dev.to/himanshupal0001/dom-guide-for-beginners-1-2k63",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reconciliation and Virtual DOM in React",
-    "link": "https://dev.to/amitthakur11/reconciliation-and-virtual-dom-in-react-h69",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built My Own TinyURL. Here’s How I Did It",
-    "link": "https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Animation on scroll using HTML CSS and JavaScript without any pre-build libraries",
-    "link": "https://dev.to/harshkain/animation-on-scroll-using-html-css-and-javascript-without-any-pre-build-libraries-9jo",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Sustainable Websites",
-    "link": "https://dev.to/sharma2288/making-sustainable-websites-4h21",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use mouse coordinates to make an image button with React.",
-    "link": "https://dev.to/sirdigo/how-to-use-mouse-coordinates-to-make-an-image-button-with-react-5fmb",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Newbies V",
-    "link": "https://dev.to/mhbaando/angular-newbies-v-5ad6",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "video calling App in React JS using Simple Peer",
-    "link": "https://dev.to/deepakjaiswal/video-calling-app-in-react-js-using-simple-peer-4anh",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single-File JavaScript Modules",
-    "link": "https://dev.to/tythos/single-file-javascript-modules-7aj",
-    "date": "1/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding JavaScript Runtime Environment",
-    "link": "https://okosunmary.hashnode.dev/understanding-javascript-runtime-environment",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "7 Essential Front-end Resources You Should Know",
-    "link": "https://muthuannamalai.tech/7-essential-front-end-resources-you-should-know",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating Per-Page Layouts with Next.JS, Typescript, tRCP, and NextAuth",
-    "link": "https://blog.brockherion.dev/creating-per-page-layouts-with-nextjs-typescript-trcp-and-nextauth",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Write Once, Run Everywhere (Part 2 of N)",
-    "link": "https://newlibre.hashnode.dev/write-once-run-everywhere-part-2-of-n",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Write Once, Run Everywhere (Part 1 of N)",
-    "link": "https://newlibre.hashnode.dev/write-once-run-everywhere-part-1-of-n",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Dynamic Images in Vue.js",
-    "link": "https://blog.workingunittests.com/dynamic-images-in-vuejs",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building an Nx Prisma Generator",
-    "link": "https://sabinadams.hashnode.dev/nx-prisma-generator",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding JavaScript Runtime Environment",
-    "link": "https://okosunmary.hashnode.dev/understanding-javascript-runtime-environment",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "7 Essential Front-end Resources You Should Know",
-    "link": "https://muthuannamalai.tech/7-essential-front-end-resources-you-should-know",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating Per-Page Layouts with Next.JS, Typescript, tRCP, and NextAuth",
-    "link": "https://blog.brockherion.dev/creating-per-page-layouts-with-nextjs-typescript-trcp-and-nextauth",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Write Once, Run Everywhere (Part 2 of N)",
-    "link": "https://newlibre.hashnode.dev/write-once-run-everywhere-part-2-of-n",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Write Once, Run Everywhere (Part 1 of N)",
-    "link": "https://newlibre.hashnode.dev/write-once-run-everywhere-part-1-of-n",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Dynamic Images in Vue.js",
-    "link": "https://blog.workingunittests.com/dynamic-images-in-vuejs",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building an Nx Prisma Generator",
-    "link": "https://sabinadams.hashnode.dev/nx-prisma-generator",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding JavaScript Runtime Environment",
-    "link": "https://okosunmary.hashnode.dev/understanding-javascript-runtime-environment",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "7 Essential Front-end Resources You Should Know",
-    "link": "https://muthuannamalai.tech/7-essential-front-end-resources-you-should-know",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating Per-Page Layouts with Next.JS, Typescript, tRCP, and NextAuth",
-    "link": "https://blog.brockherion.dev/creating-per-page-layouts-with-nextjs-typescript-trcp-and-nextauth",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Write Once, Run Everywhere (Part 2 of N)",
-    "link": "https://newlibre.hashnode.dev/write-once-run-everywhere-part-2-of-n",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Write Once, Run Everywhere (Part 1 of N)",
-    "link": "https://newlibre.hashnode.dev/write-once-run-everywhere-part-1-of-n",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Dynamic Images in Vue.js",
-    "link": "https://blog.workingunittests.com/dynamic-images-in-vuejs",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building an Nx Prisma Generator",
-    "link": "https://sabinadams.hashnode.dev/nx-prisma-generator",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding JavaScript Runtime Environment",
-    "link": "https://okosunmary.hashnode.dev/understanding-javascript-runtime-environment",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "7 Essential Front-end Resources You Should Know",
-    "link": "https://muthuannamalai.tech/7-essential-front-end-resources-you-should-know",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating Per-Page Layouts with Next.JS, Typescript, tRCP, and NextAuth",
-    "link": "https://blog.brockherion.dev/creating-per-page-layouts-with-nextjs-typescript-trcp-and-nextauth",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Write Once, Run Everywhere (Part 2 of N)",
-    "link": "https://newlibre.hashnode.dev/write-once-run-everywhere-part-2-of-n",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Write Once, Run Everywhere (Part 1 of N)",
-    "link": "https://newlibre.hashnode.dev/write-once-run-everywhere-part-1-of-n",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Dynamic Images in Vue.js",
-    "link": "https://blog.workingunittests.com/dynamic-images-in-vuejs",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building an Nx Prisma Generator",
-    "link": "https://sabinadams.hashnode.dev/nx-prisma-generator",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding JavaScript Runtime Environment",
-    "link": "https://okosunmary.hashnode.dev/understanding-javascript-runtime-environment",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "7 Essential Front-end Resources You Should Know",
-    "link": "https://muthuannamalai.tech/7-essential-front-end-resources-you-should-know",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating Per-Page Layouts with Next.JS, Typescript, tRCP, and NextAuth",
-    "link": "https://blog.brockherion.dev/creating-per-page-layouts-with-nextjs-typescript-trcp-and-nextauth",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Write Once, Run Everywhere (Part 2 of N)",
-    "link": "https://newlibre.hashnode.dev/write-once-run-everywhere-part-2-of-n",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Write Once, Run Everywhere (Part 1 of N)",
-    "link": "https://newlibre.hashnode.dev/write-once-run-everywhere-part-1-of-n",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Dynamic Images in Vue.js",
-    "link": "https://blog.workingunittests.com/dynamic-images-in-vuejs",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building an Nx Prisma Generator",
-    "link": "https://sabinadams.hashnode.dev/nx-prisma-generator",
-    "date": "1/7/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding Closures in JavaScript",
-    "link": "https://omah.hashnode.dev/closures-in-javascript",
-    "date": "1/6/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding Closures in JavaScript",
-    "link": "https://omah.hashnode.dev/closures-in-javascript",
-    "date": "1/6/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding Closures in JavaScript",
-    "link": "https://omah.hashnode.dev/closures-in-javascript",
-    "date": "1/6/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding Closures in JavaScript",
-    "link": "https://omah.hashnode.dev/closures-in-javascript",
-    "date": "1/6/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding Closures in JavaScript",
-    "link": "https://omah.hashnode.dev/closures-in-javascript",
-    "date": "1/6/2022",
-    "site": "hashnode"
   },
   {
     "title": "The Invisible JavaScript Backdoor",
@@ -942,7 +942,7 @@
   {
     "title": "How To Build A Real-Time Multi-User Game From Scratch",
     "link": "https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/",
-    "reading_time": "20 min read",
+    "reading_time": "21 min read",
     "date": "10/22/2021",
     "site": "smashingmagazine"
   },
@@ -1076,7 +1076,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -1102,7 +1102,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
@@ -1157,7 +1157,7 @@
   {
     "title": "Client-Side Routing In Next.js",
     "link": "https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "6/18/2021",
     "site": "smashingmagazine"
   },
