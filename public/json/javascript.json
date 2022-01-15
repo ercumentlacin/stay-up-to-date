@@ -1,7 +1,547 @@
 [
   {
-    "title": "Understanding the Container Component Pattern with React Hooks",
-    "link": "https://openreplay.hashnode.dev/understanding-the-container-component-pattern-with-react-hooks",
+    "title": "Call(), Apply(), Bind() in JavaScript",
+    "link": "https://ashutoshbhadauriya.com/call-apply-bind-in-javascript",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Concepts that you should Learn in 2022",
+    "link": "https://blogs.ansubkhan.com/javascript-concepts-that-you-should-learn-in-2022",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Command Prompt tricks you did not know",
+    "link": "https://blog.abhiraj.co/command-prompt-tricks-you-did-not-know",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Pitfalls of Remove EventListner in JS",
+    "link": "https://jsdev195.hashnode.dev/pitfalls-of-remove-eventlistner-in-js",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introducing Metho: Safely adding superpowers to JS",
+    "link": "https://jonrandy.hashnode.dev/introducing-metho-safely-adding-superpowers-to-js",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Cypress: Integration Tests Made Easy!",
+    "link": "https://blog.workingunittests.com/cypress-integration-tests-made-easy",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Encryption Decryption User Details Using Crypto-JS Library to secure application in React",
+    "link": "https://dev.to/deepakjaiswal/encryption-decryption-user-details-using-crypto-js-library-to-secure-application-in-react-2ge8",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "\nExtra Strength Keto - Weight Loss Supplement, Price, Reviews And Benefits",
+    "link": "https://dev.to/extrastrengthb1/extra-strength-keto-weight-loss-supplement-price-reviews-and-benefits-1o01",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Concepts that you should Learn in 2022",
+    "link": "https://dev.to/ansub/javascript-concepts-that-you-should-learn-in-2022-6lk",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#16 - Sums of parts              CodeWars Kata (6 kyu)",
+    "link": "https://dev.to/cesar__dlr/16-sums-of-parts-codewars-kata-6-kyu-e4h",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 8",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-8-571m",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next Js SSR [getServerSideProps]",
+    "link": "https://dev.to/itishprasad30/next-js-ssr-getserversideprops-551g",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Truthy Falsy assignment /Short circuit evaluation.",
+    "link": "https://dev.to/shinyo627/js-truthy-falsy-assignment-short-circuit-evaluation-2g6o",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "AngularJS is dead.",
+    "link": "https://dev.to/manas_dev/angularjs-is-dead-455n",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Serverless - Create, debug and deploy  Lambda and API \n",
+    "link": "https://dev.to/prashantkalokhe/serverless-create-debug-and-deploy-lambda-and-api-26od",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "First PR of the Year:D",
+    "link": "https://dev.to/belokond/first-pr-of-the-yeard-5f1h",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to deploy a static website in Netlify for free",
+    "link": "https://dev.to/archanagandhi/how-to-deploy-a-static-website-in-netlify-for-free-3dg9",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Call(), Apply(), Bind() in JavaScript",
+    "link": "https://ashutoshbhadauriya.com/call-apply-bind-in-javascript",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Concepts that you should Learn in 2022",
+    "link": "https://blogs.ansubkhan.com/javascript-concepts-that-you-should-learn-in-2022",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Command Prompt tricks you did not know",
+    "link": "https://blog.abhiraj.co/command-prompt-tricks-you-did-not-know",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Pitfalls of Remove EventListner in JS",
+    "link": "https://jsdev195.hashnode.dev/pitfalls-of-remove-eventlistner-in-js",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introducing Metho: Safely adding superpowers to JS",
+    "link": "https://jonrandy.hashnode.dev/introducing-metho-safely-adding-superpowers-to-js",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Cypress: Integration Tests Made Easy!",
+    "link": "https://blog.workingunittests.com/cypress-integration-tests-made-easy",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Encryption Decryption User Details Using Crypto-JS Library to secure application in React",
+    "link": "https://dev.to/deepakjaiswal/encryption-decryption-user-details-using-crypto-js-library-to-secure-application-in-react-2ge8",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "\nExtra Strength Keto - Weight Loss Supplement, Price, Reviews And Benefits",
+    "link": "https://dev.to/extrastrengthb1/extra-strength-keto-weight-loss-supplement-price-reviews-and-benefits-1o01",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Concepts that you should Learn in 2022",
+    "link": "https://dev.to/ansub/javascript-concepts-that-you-should-learn-in-2022-6lk",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#16 - Sums of parts              CodeWars Kata (6 kyu)",
+    "link": "https://dev.to/cesar__dlr/16-sums-of-parts-codewars-kata-6-kyu-e4h",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 8",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-8-571m",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next Js SSR [getServerSideProps]",
+    "link": "https://dev.to/itishprasad30/next-js-ssr-getserversideprops-551g",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Truthy Falsy assignment /Short circuit evaluation.",
+    "link": "https://dev.to/shinyo627/js-truthy-falsy-assignment-short-circuit-evaluation-2g6o",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "AngularJS is dead.",
+    "link": "https://dev.to/manas_dev/angularjs-is-dead-455n",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Serverless - Create, debug and deploy  Lambda and API \n",
+    "link": "https://dev.to/prashantkalokhe/serverless-create-debug-and-deploy-lambda-and-api-26od",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "First PR of the Year:D",
+    "link": "https://dev.to/belokond/first-pr-of-the-yeard-5f1h",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to deploy a static website in Netlify for free",
+    "link": "https://dev.to/archanagandhi/how-to-deploy-a-static-website-in-netlify-for-free-3dg9",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Call(), Apply(), Bind() in JavaScript",
+    "link": "https://ashutoshbhadauriya.com/call-apply-bind-in-javascript",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Concepts that you should Learn in 2022",
+    "link": "https://blogs.ansubkhan.com/javascript-concepts-that-you-should-learn-in-2022",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Command Prompt tricks you did not know",
+    "link": "https://blog.abhiraj.co/command-prompt-tricks-you-did-not-know",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Pitfalls of Remove EventListner in JS",
+    "link": "https://jsdev195.hashnode.dev/pitfalls-of-remove-eventlistner-in-js",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introducing Metho: Safely adding superpowers to JS",
+    "link": "https://jonrandy.hashnode.dev/introducing-metho-safely-adding-superpowers-to-js",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Cypress: Integration Tests Made Easy!",
+    "link": "https://blog.workingunittests.com/cypress-integration-tests-made-easy",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Encryption Decryption User Details Using Crypto-JS Library to secure application in React",
+    "link": "https://dev.to/deepakjaiswal/encryption-decryption-user-details-using-crypto-js-library-to-secure-application-in-react-2ge8",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "\nExtra Strength Keto - Weight Loss Supplement, Price, Reviews And Benefits",
+    "link": "https://dev.to/extrastrengthb1/extra-strength-keto-weight-loss-supplement-price-reviews-and-benefits-1o01",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Concepts that you should Learn in 2022",
+    "link": "https://dev.to/ansub/javascript-concepts-that-you-should-learn-in-2022-6lk",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#16 - Sums of parts              CodeWars Kata (6 kyu)",
+    "link": "https://dev.to/cesar__dlr/16-sums-of-parts-codewars-kata-6-kyu-e4h",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 8",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-8-571m",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next Js SSR [getServerSideProps]",
+    "link": "https://dev.to/itishprasad30/next-js-ssr-getserversideprops-551g",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Truthy Falsy assignment /Short circuit evaluation.",
+    "link": "https://dev.to/shinyo627/js-truthy-falsy-assignment-short-circuit-evaluation-2g6o",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "AngularJS is dead.",
+    "link": "https://dev.to/manas_dev/angularjs-is-dead-455n",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Serverless - Create, debug and deploy  Lambda and API \n",
+    "link": "https://dev.to/prashantkalokhe/serverless-create-debug-and-deploy-lambda-and-api-26od",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "First PR of the Year:D",
+    "link": "https://dev.to/belokond/first-pr-of-the-yeard-5f1h",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to deploy a static website in Netlify for free",
+    "link": "https://dev.to/archanagandhi/how-to-deploy-a-static-website-in-netlify-for-free-3dg9",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Call(), Apply(), Bind() in JavaScript",
+    "link": "https://ashutoshbhadauriya.com/call-apply-bind-in-javascript",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Concepts that you should Learn in 2022",
+    "link": "https://blogs.ansubkhan.com/javascript-concepts-that-you-should-learn-in-2022",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Command Prompt tricks you did not know",
+    "link": "https://blog.abhiraj.co/command-prompt-tricks-you-did-not-know",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Pitfalls of Remove EventListner in JS",
+    "link": "https://jsdev195.hashnode.dev/pitfalls-of-remove-eventlistner-in-js",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introducing Metho: Safely adding superpowers to JS",
+    "link": "https://jonrandy.hashnode.dev/introducing-metho-safely-adding-superpowers-to-js",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Cypress: Integration Tests Made Easy!",
+    "link": "https://blog.workingunittests.com/cypress-integration-tests-made-easy",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Encryption Decryption User Details Using Crypto-JS Library to secure application in React",
+    "link": "https://dev.to/deepakjaiswal/encryption-decryption-user-details-using-crypto-js-library-to-secure-application-in-react-2ge8",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "\nExtra Strength Keto - Weight Loss Supplement, Price, Reviews And Benefits",
+    "link": "https://dev.to/extrastrengthb1/extra-strength-keto-weight-loss-supplement-price-reviews-and-benefits-1o01",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Concepts that you should Learn in 2022",
+    "link": "https://dev.to/ansub/javascript-concepts-that-you-should-learn-in-2022-6lk",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#16 - Sums of parts              CodeWars Kata (6 kyu)",
+    "link": "https://dev.to/cesar__dlr/16-sums-of-parts-codewars-kata-6-kyu-e4h",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 8",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-8-571m",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next Js SSR [getServerSideProps]",
+    "link": "https://dev.to/itishprasad30/next-js-ssr-getserversideprops-551g",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Truthy Falsy assignment /Short circuit evaluation.",
+    "link": "https://dev.to/shinyo627/js-truthy-falsy-assignment-short-circuit-evaluation-2g6o",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "AngularJS is dead.",
+    "link": "https://dev.to/manas_dev/angularjs-is-dead-455n",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Serverless - Create, debug and deploy  Lambda and API \n",
+    "link": "https://dev.to/prashantkalokhe/serverless-create-debug-and-deploy-lambda-and-api-26od",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "First PR of the Year:D",
+    "link": "https://dev.to/belokond/first-pr-of-the-yeard-5f1h",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to deploy a static website in Netlify for free",
+    "link": "https://dev.to/archanagandhi/how-to-deploy-a-static-website-in-netlify-for-free-3dg9",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Call(), Apply(), Bind() in JavaScript",
+    "link": "https://ashutoshbhadauriya.com/call-apply-bind-in-javascript",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Concepts that you should Learn in 2022",
+    "link": "https://blogs.ansubkhan.com/javascript-concepts-that-you-should-learn-in-2022",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Command Prompt tricks you did not know",
+    "link": "https://blog.abhiraj.co/command-prompt-tricks-you-did-not-know",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Pitfalls of Remove EventListner in JS",
+    "link": "https://jsdev195.hashnode.dev/pitfalls-of-remove-eventlistner-in-js",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introducing Metho: Safely adding superpowers to JS",
+    "link": "https://jonrandy.hashnode.dev/introducing-metho-safely-adding-superpowers-to-js",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Cypress: Integration Tests Made Easy!",
+    "link": "https://blog.workingunittests.com/cypress-integration-tests-made-easy",
+    "date": "1/15/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Encryption Decryption User Details Using Crypto-JS Library to secure application in React",
+    "link": "https://dev.to/deepakjaiswal/encryption-decryption-user-details-using-crypto-js-library-to-secure-application-in-react-2ge8",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "\nExtra Strength Keto - Weight Loss Supplement, Price, Reviews And Benefits",
+    "link": "https://dev.to/extrastrengthb1/extra-strength-keto-weight-loss-supplement-price-reviews-and-benefits-1o01",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Concepts that you should Learn in 2022",
+    "link": "https://dev.to/ansub/javascript-concepts-that-you-should-learn-in-2022-6lk",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#16 - Sums of parts              CodeWars Kata (6 kyu)",
+    "link": "https://dev.to/cesar__dlr/16-sums-of-parts-codewars-kata-6-kyu-e4h",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 8",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-8-571m",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next Js SSR [getServerSideProps]",
+    "link": "https://dev.to/itishprasad30/next-js-ssr-getserversideprops-551g",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Truthy Falsy assignment /Short circuit evaluation.",
+    "link": "https://dev.to/shinyo627/js-truthy-falsy-assignment-short-circuit-evaluation-2g6o",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "AngularJS is dead.",
+    "link": "https://dev.to/manas_dev/angularjs-is-dead-455n",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Serverless - Create, debug and deploy  Lambda and API \n",
+    "link": "https://dev.to/prashantkalokhe/serverless-create-debug-and-deploy-lambda-and-api-26od",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "First PR of the Year:D",
+    "link": "https://dev.to/belokond/first-pr-of-the-yeard-5f1h",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to deploy a static website in Netlify for free",
+    "link": "https://dev.to/archanagandhi/how-to-deploy-a-static-website-in-netlify-for-free-3dg9",
+    "date": "1/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Shorts: Objects",
+    "link": "https://dpkreativ.hashnode.dev/js-shorts-objects",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Rest Vs Spread operator in JavaScript, \nWhat's the difference?",
+    "link": "https://dikshadhote.hashnode.dev/rest-vs-spread-operator-in-javascript-whats-the-difference",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Basics in its Simplest Form",
+    "link": "https://moosedev.hashnode.dev/javascript-basics-in-its-simplest-form",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a real time video text recognition app using Tesseract JS and React",
+    "link": "https://maheshlocker.com/building-a-real-time-video-text-recognition-app-using-tesseract-js-and-react",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How ES6 changed JavaScript",
+    "link": "https://chirag0527.hashnode.dev/how-es6-changed-javascript",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javascript Basics (let, const, var)",
+    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-let-const-var",
     "date": "1/14/2022",
     "site": "hashnode"
   },
@@ -12,134 +552,74 @@
     "site": "hashnode"
   },
   {
-    "title": "JS Slice",
-    "link": "https://vkglobal.hashnode.dev/js-slice",
+    "title": "How to use the Node.js REPL console",
+    "link": "https://mboehm.hashnode.dev/how-to-use-the-nodejs-repl-console",
     "date": "1/14/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "What the heck is Event Loop in JavaScript",
-    "link": "https://danitiestech.hashnode.dev/what-the-heck-is-event-loop-in-javascript",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Set up a local Prisma instance",
-    "link": "https://h.daily-dev-tips.com/set-up-a-local-prisma-instance",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is Lexical Scope and Lexical Environment?",
-    "link": "https://magnus.hashnode.dev/what-is-lexical-scope-and-lexical-environment",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Polyfill and Transpiler",
-    "link": "https://sadathshariff.hashnode.dev/polyfill-and-transpiler",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "3 JavaScript Animation Libraries That You Should Try",
-    "link": "https://adarshgupta.hashnode.dev/3-javascript-animation-libraries-that-you-should-try",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Clean  Code - Javascript",
-    "link": "https://dev.to/swrjp/clean-code-javascript-2hla",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Variable",
-    "link": "https://dev.to/shinyo627/js-variable-17gc",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Set up a local Prisma instance",
-    "link": "https://dev.to/dailydevtips1/set-up-a-local-prisma-instance-2anf",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What they heck is Event Loop",
-    "link": "https://dev.to/danities316/what-they-heck-is-event-loop-294k",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Phen24 - Weight Loss Supplement, Price, Reviews And Results",
-    "link": "https://dev.to/phen24pills1/phen24-weight-loss-supplement-price-reviews-and-results-8kk",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM guide for beginners #3",
-    "link": "https://dev.to/himanshupal0001/dom-guide-for-beginners-3-5dh4",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Intro",
-    "link": "https://dev.to/shinyo627/js-intro-397i",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Redis Weekly Updates(Jan 14, 2022) - Latest Blogs, Tutorials,  Sample Apps & Events",
-    "link": "https://dev.to/redis/redis-weekly-updatesjan-14-2022-latest-blogs-tutorials-sample-apps-events-905",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Developing Chrome Extensions with Amplify Authentication",
-    "link": "https://dev.to/kenmiyashita/developing-chrome-extensions-with-amplify-authentication-22an",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 7",
-    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-7-3fk2",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First bad version problem",
-    "link": "https://dev.to/carnato/first-bad-version-problem-4g9n",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Uploading Images to Django REST Framework from Forms in React",
-    "link": "https://dev.to/thomz/uploading-images-to-django-rest-framework-from-forms-in-react-3jhj",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Event emails reminder using Mongo DB Atlas",
-    "link": "https://dev.to/shivamarora1/event-emails-reminder-using-mongo-db-atlas-29b5",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#15 - Digits explosion               CodeWars Kata (7 kyu)",
-    "link": "https://dev.to/cesar__dlr/14-digits-explosion-codewars-kata-7-kyu-13je",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First post",
-    "link": "https://dev.to/gregnavarro/first-post-5hfo",
-    "date": "1/14/2022",
-    "site": "dev.to"
   },
   {
     "title": "Understanding the Container Component Pattern with React Hooks",
     "link": "https://openreplay.hashnode.dev/understanding-the-container-component-pattern-with-react-hooks",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "AI won't destroy us all... but it might automate your day.",
+    "link": "https://dev.to/13tinydots/ai-wont-destroy-us-all-but-it-might-automate-your-day-6n",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tasker, React/Redux + Rails API Final Project",
+    "link": "https://dev.to/babiescatscode/tasker-reactredux-rails-api-final-project-4i4b",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Push to Deploy to update or deploy your Meteor App directly from your repository",
+    "link": "https://dev.to/fredmaiaarantes/use-push-to-deploy-to-update-or-deploy-your-meteor-app-directly-from-your-repository-2hpk",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Form Handling With API Tutorial",
+    "link": "https://dev.to/abanoubgeorge/form-handling-with-api-tutorial-45lc",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Shorts: Objects",
+    "link": "https://dpkreativ.hashnode.dev/js-shorts-objects",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Rest Vs Spread operator in JavaScript, \nWhat's the difference?",
+    "link": "https://dikshadhote.hashnode.dev/rest-vs-spread-operator-in-javascript-whats-the-difference",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Basics in its Simplest Form",
+    "link": "https://moosedev.hashnode.dev/javascript-basics-in-its-simplest-form",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a real time video text recognition app using Tesseract JS and React",
+    "link": "https://maheshlocker.com/building-a-real-time-video-text-recognition-app-using-tesseract-js-and-react",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How ES6 changed JavaScript",
+    "link": "https://chirag0527.hashnode.dev/how-es6-changed-javascript",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javascript Basics (let, const, var)",
+    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-let-const-var",
     "date": "1/14/2022",
     "site": "hashnode"
   },
@@ -150,134 +630,74 @@
     "site": "hashnode"
   },
   {
-    "title": "JS Slice",
-    "link": "https://vkglobal.hashnode.dev/js-slice",
+    "title": "How to use the Node.js REPL console",
+    "link": "https://mboehm.hashnode.dev/how-to-use-the-nodejs-repl-console",
     "date": "1/14/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "What the heck is Event Loop in JavaScript",
-    "link": "https://danitiestech.hashnode.dev/what-the-heck-is-event-loop-in-javascript",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Set up a local Prisma instance",
-    "link": "https://h.daily-dev-tips.com/set-up-a-local-prisma-instance",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is Lexical Scope and Lexical Environment?",
-    "link": "https://magnus.hashnode.dev/what-is-lexical-scope-and-lexical-environment",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Polyfill and Transpiler",
-    "link": "https://sadathshariff.hashnode.dev/polyfill-and-transpiler",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "3 JavaScript Animation Libraries That You Should Try",
-    "link": "https://adarshgupta.hashnode.dev/3-javascript-animation-libraries-that-you-should-try",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Clean  Code - Javascript",
-    "link": "https://dev.to/swrjp/clean-code-javascript-2hla",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Variable",
-    "link": "https://dev.to/shinyo627/js-variable-17gc",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Set up a local Prisma instance",
-    "link": "https://dev.to/dailydevtips1/set-up-a-local-prisma-instance-2anf",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What they heck is Event Loop",
-    "link": "https://dev.to/danities316/what-they-heck-is-event-loop-294k",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Phen24 - Weight Loss Supplement, Price, Reviews And Results",
-    "link": "https://dev.to/phen24pills1/phen24-weight-loss-supplement-price-reviews-and-results-8kk",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM guide for beginners #3",
-    "link": "https://dev.to/himanshupal0001/dom-guide-for-beginners-3-5dh4",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Intro",
-    "link": "https://dev.to/shinyo627/js-intro-397i",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Redis Weekly Updates(Jan 14, 2022) - Latest Blogs, Tutorials,  Sample Apps & Events",
-    "link": "https://dev.to/redis/redis-weekly-updatesjan-14-2022-latest-blogs-tutorials-sample-apps-events-905",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Developing Chrome Extensions with Amplify Authentication",
-    "link": "https://dev.to/kenmiyashita/developing-chrome-extensions-with-amplify-authentication-22an",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 7",
-    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-7-3fk2",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First bad version problem",
-    "link": "https://dev.to/carnato/first-bad-version-problem-4g9n",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Uploading Images to Django REST Framework from Forms in React",
-    "link": "https://dev.to/thomz/uploading-images-to-django-rest-framework-from-forms-in-react-3jhj",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Event emails reminder using Mongo DB Atlas",
-    "link": "https://dev.to/shivamarora1/event-emails-reminder-using-mongo-db-atlas-29b5",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#15 - Digits explosion               CodeWars Kata (7 kyu)",
-    "link": "https://dev.to/cesar__dlr/14-digits-explosion-codewars-kata-7-kyu-13je",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First post",
-    "link": "https://dev.to/gregnavarro/first-post-5hfo",
-    "date": "1/14/2022",
-    "site": "dev.to"
   },
   {
     "title": "Understanding the Container Component Pattern with React Hooks",
     "link": "https://openreplay.hashnode.dev/understanding-the-container-component-pattern-with-react-hooks",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "AI won't destroy us all... but it might automate your day.",
+    "link": "https://dev.to/13tinydots/ai-wont-destroy-us-all-but-it-might-automate-your-day-6n",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tasker, React/Redux + Rails API Final Project",
+    "link": "https://dev.to/babiescatscode/tasker-reactredux-rails-api-final-project-4i4b",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Push to Deploy to update or deploy your Meteor App directly from your repository",
+    "link": "https://dev.to/fredmaiaarantes/use-push-to-deploy-to-update-or-deploy-your-meteor-app-directly-from-your-repository-2hpk",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Form Handling With API Tutorial",
+    "link": "https://dev.to/abanoubgeorge/form-handling-with-api-tutorial-45lc",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Shorts: Objects",
+    "link": "https://dpkreativ.hashnode.dev/js-shorts-objects",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Rest Vs Spread operator in JavaScript, \nWhat's the difference?",
+    "link": "https://dikshadhote.hashnode.dev/rest-vs-spread-operator-in-javascript-whats-the-difference",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Basics in its Simplest Form",
+    "link": "https://moosedev.hashnode.dev/javascript-basics-in-its-simplest-form",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a real time video text recognition app using Tesseract JS and React",
+    "link": "https://maheshlocker.com/building-a-real-time-video-text-recognition-app-using-tesseract-js-and-react",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How ES6 changed JavaScript",
+    "link": "https://chirag0527.hashnode.dev/how-es6-changed-javascript",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javascript Basics (let, const, var)",
+    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-let-const-var",
     "date": "1/14/2022",
     "site": "hashnode"
   },
@@ -288,134 +708,74 @@
     "site": "hashnode"
   },
   {
-    "title": "JS Slice",
-    "link": "https://vkglobal.hashnode.dev/js-slice",
+    "title": "How to use the Node.js REPL console",
+    "link": "https://mboehm.hashnode.dev/how-to-use-the-nodejs-repl-console",
     "date": "1/14/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "What the heck is Event Loop in JavaScript",
-    "link": "https://danitiestech.hashnode.dev/what-the-heck-is-event-loop-in-javascript",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Set up a local Prisma instance",
-    "link": "https://h.daily-dev-tips.com/set-up-a-local-prisma-instance",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is Lexical Scope and Lexical Environment?",
-    "link": "https://magnus.hashnode.dev/what-is-lexical-scope-and-lexical-environment",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Polyfill and Transpiler",
-    "link": "https://sadathshariff.hashnode.dev/polyfill-and-transpiler",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "3 JavaScript Animation Libraries That You Should Try",
-    "link": "https://adarshgupta.hashnode.dev/3-javascript-animation-libraries-that-you-should-try",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Clean  Code - Javascript",
-    "link": "https://dev.to/swrjp/clean-code-javascript-2hla",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Variable",
-    "link": "https://dev.to/shinyo627/js-variable-17gc",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Set up a local Prisma instance",
-    "link": "https://dev.to/dailydevtips1/set-up-a-local-prisma-instance-2anf",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What they heck is Event Loop",
-    "link": "https://dev.to/danities316/what-they-heck-is-event-loop-294k",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Phen24 - Weight Loss Supplement, Price, Reviews And Results",
-    "link": "https://dev.to/phen24pills1/phen24-weight-loss-supplement-price-reviews-and-results-8kk",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM guide for beginners #3",
-    "link": "https://dev.to/himanshupal0001/dom-guide-for-beginners-3-5dh4",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Intro",
-    "link": "https://dev.to/shinyo627/js-intro-397i",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Redis Weekly Updates(Jan 14, 2022) - Latest Blogs, Tutorials,  Sample Apps & Events",
-    "link": "https://dev.to/redis/redis-weekly-updatesjan-14-2022-latest-blogs-tutorials-sample-apps-events-905",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Developing Chrome Extensions with Amplify Authentication",
-    "link": "https://dev.to/kenmiyashita/developing-chrome-extensions-with-amplify-authentication-22an",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 7",
-    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-7-3fk2",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First bad version problem",
-    "link": "https://dev.to/carnato/first-bad-version-problem-4g9n",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Uploading Images to Django REST Framework from Forms in React",
-    "link": "https://dev.to/thomz/uploading-images-to-django-rest-framework-from-forms-in-react-3jhj",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Event emails reminder using Mongo DB Atlas",
-    "link": "https://dev.to/shivamarora1/event-emails-reminder-using-mongo-db-atlas-29b5",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#15 - Digits explosion               CodeWars Kata (7 kyu)",
-    "link": "https://dev.to/cesar__dlr/14-digits-explosion-codewars-kata-7-kyu-13je",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First post",
-    "link": "https://dev.to/gregnavarro/first-post-5hfo",
-    "date": "1/14/2022",
-    "site": "dev.to"
   },
   {
     "title": "Understanding the Container Component Pattern with React Hooks",
     "link": "https://openreplay.hashnode.dev/understanding-the-container-component-pattern-with-react-hooks",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "AI won't destroy us all... but it might automate your day.",
+    "link": "https://dev.to/13tinydots/ai-wont-destroy-us-all-but-it-might-automate-your-day-6n",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tasker, React/Redux + Rails API Final Project",
+    "link": "https://dev.to/babiescatscode/tasker-reactredux-rails-api-final-project-4i4b",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Push to Deploy to update or deploy your Meteor App directly from your repository",
+    "link": "https://dev.to/fredmaiaarantes/use-push-to-deploy-to-update-or-deploy-your-meteor-app-directly-from-your-repository-2hpk",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Form Handling With API Tutorial",
+    "link": "https://dev.to/abanoubgeorge/form-handling-with-api-tutorial-45lc",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Shorts: Objects",
+    "link": "https://dpkreativ.hashnode.dev/js-shorts-objects",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Rest Vs Spread operator in JavaScript, \nWhat's the difference?",
+    "link": "https://dikshadhote.hashnode.dev/rest-vs-spread-operator-in-javascript-whats-the-difference",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Basics in its Simplest Form",
+    "link": "https://moosedev.hashnode.dev/javascript-basics-in-its-simplest-form",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a real time video text recognition app using Tesseract JS and React",
+    "link": "https://maheshlocker.com/building-a-real-time-video-text-recognition-app-using-tesseract-js-and-react",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How ES6 changed JavaScript",
+    "link": "https://chirag0527.hashnode.dev/how-es6-changed-javascript",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javascript Basics (let, const, var)",
+    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-let-const-var",
     "date": "1/14/2022",
     "site": "hashnode"
   },
@@ -426,134 +786,74 @@
     "site": "hashnode"
   },
   {
-    "title": "JS Slice",
-    "link": "https://vkglobal.hashnode.dev/js-slice",
+    "title": "How to use the Node.js REPL console",
+    "link": "https://mboehm.hashnode.dev/how-to-use-the-nodejs-repl-console",
     "date": "1/14/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "What the heck is Event Loop in JavaScript",
-    "link": "https://danitiestech.hashnode.dev/what-the-heck-is-event-loop-in-javascript",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Set up a local Prisma instance",
-    "link": "https://h.daily-dev-tips.com/set-up-a-local-prisma-instance",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is Lexical Scope and Lexical Environment?",
-    "link": "https://magnus.hashnode.dev/what-is-lexical-scope-and-lexical-environment",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Polyfill and Transpiler",
-    "link": "https://sadathshariff.hashnode.dev/polyfill-and-transpiler",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "3 JavaScript Animation Libraries That You Should Try",
-    "link": "https://adarshgupta.hashnode.dev/3-javascript-animation-libraries-that-you-should-try",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Clean  Code - Javascript",
-    "link": "https://dev.to/swrjp/clean-code-javascript-2hla",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Variable",
-    "link": "https://dev.to/shinyo627/js-variable-17gc",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Set up a local Prisma instance",
-    "link": "https://dev.to/dailydevtips1/set-up-a-local-prisma-instance-2anf",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What they heck is Event Loop",
-    "link": "https://dev.to/danities316/what-they-heck-is-event-loop-294k",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Phen24 - Weight Loss Supplement, Price, Reviews And Results",
-    "link": "https://dev.to/phen24pills1/phen24-weight-loss-supplement-price-reviews-and-results-8kk",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM guide for beginners #3",
-    "link": "https://dev.to/himanshupal0001/dom-guide-for-beginners-3-5dh4",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Intro",
-    "link": "https://dev.to/shinyo627/js-intro-397i",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Redis Weekly Updates(Jan 14, 2022) - Latest Blogs, Tutorials,  Sample Apps & Events",
-    "link": "https://dev.to/redis/redis-weekly-updatesjan-14-2022-latest-blogs-tutorials-sample-apps-events-905",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Developing Chrome Extensions with Amplify Authentication",
-    "link": "https://dev.to/kenmiyashita/developing-chrome-extensions-with-amplify-authentication-22an",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 7",
-    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-7-3fk2",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First bad version problem",
-    "link": "https://dev.to/carnato/first-bad-version-problem-4g9n",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Uploading Images to Django REST Framework from Forms in React",
-    "link": "https://dev.to/thomz/uploading-images-to-django-rest-framework-from-forms-in-react-3jhj",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Event emails reminder using Mongo DB Atlas",
-    "link": "https://dev.to/shivamarora1/event-emails-reminder-using-mongo-db-atlas-29b5",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#15 - Digits explosion               CodeWars Kata (7 kyu)",
-    "link": "https://dev.to/cesar__dlr/14-digits-explosion-codewars-kata-7-kyu-13je",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First post",
-    "link": "https://dev.to/gregnavarro/first-post-5hfo",
-    "date": "1/14/2022",
-    "site": "dev.to"
   },
   {
     "title": "Understanding the Container Component Pattern with React Hooks",
     "link": "https://openreplay.hashnode.dev/understanding-the-container-component-pattern-with-react-hooks",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "AI won't destroy us all... but it might automate your day.",
+    "link": "https://dev.to/13tinydots/ai-wont-destroy-us-all-but-it-might-automate-your-day-6n",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tasker, React/Redux + Rails API Final Project",
+    "link": "https://dev.to/babiescatscode/tasker-reactredux-rails-api-final-project-4i4b",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Push to Deploy to update or deploy your Meteor App directly from your repository",
+    "link": "https://dev.to/fredmaiaarantes/use-push-to-deploy-to-update-or-deploy-your-meteor-app-directly-from-your-repository-2hpk",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Form Handling With API Tutorial",
+    "link": "https://dev.to/abanoubgeorge/form-handling-with-api-tutorial-45lc",
+    "date": "1/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Shorts: Objects",
+    "link": "https://dpkreativ.hashnode.dev/js-shorts-objects",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Rest Vs Spread operator in JavaScript, \nWhat's the difference?",
+    "link": "https://dikshadhote.hashnode.dev/rest-vs-spread-operator-in-javascript-whats-the-difference",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Basics in its Simplest Form",
+    "link": "https://moosedev.hashnode.dev/javascript-basics-in-its-simplest-form",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a real time video text recognition app using Tesseract JS and React",
+    "link": "https://maheshlocker.com/building-a-real-time-video-text-recognition-app-using-tesseract-js-and-react",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How ES6 changed JavaScript",
+    "link": "https://chirag0527.hashnode.dev/how-es6-changed-javascript",
+    "date": "1/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javascript Basics (let, const, var)",
+    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-let-const-var",
     "date": "1/14/2022",
     "site": "hashnode"
   },
@@ -564,128 +864,38 @@
     "site": "hashnode"
   },
   {
-    "title": "JS Slice",
-    "link": "https://vkglobal.hashnode.dev/js-slice",
+    "title": "How to use the Node.js REPL console",
+    "link": "https://mboehm.hashnode.dev/how-to-use-the-nodejs-repl-console",
     "date": "1/14/2022",
     "site": "hashnode"
   },
   {
-    "title": "What the heck is Event Loop in JavaScript",
-    "link": "https://danitiestech.hashnode.dev/what-the-heck-is-event-loop-in-javascript",
+    "title": "Understanding the Container Component Pattern with React Hooks",
+    "link": "https://openreplay.hashnode.dev/understanding-the-container-component-pattern-with-react-hooks",
     "date": "1/14/2022",
     "site": "hashnode"
   },
   {
-    "title": "Set up a local Prisma instance",
-    "link": "https://h.daily-dev-tips.com/set-up-a-local-prisma-instance",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is Lexical Scope and Lexical Environment?",
-    "link": "https://magnus.hashnode.dev/what-is-lexical-scope-and-lexical-environment",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Polyfill and Transpiler",
-    "link": "https://sadathshariff.hashnode.dev/polyfill-and-transpiler",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "3 JavaScript Animation Libraries That You Should Try",
-    "link": "https://adarshgupta.hashnode.dev/3-javascript-animation-libraries-that-you-should-try",
-    "date": "1/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Clean  Code - Javascript",
-    "link": "https://dev.to/swrjp/clean-code-javascript-2hla",
+    "title": "AI won't destroy us all... but it might automate your day.",
+    "link": "https://dev.to/13tinydots/ai-wont-destroy-us-all-but-it-might-automate-your-day-6n",
     "date": "1/14/2022",
     "site": "dev.to"
   },
   {
-    "title": "JS Variable",
-    "link": "https://dev.to/shinyo627/js-variable-17gc",
+    "title": "Tasker, React/Redux + Rails API Final Project",
+    "link": "https://dev.to/babiescatscode/tasker-reactredux-rails-api-final-project-4i4b",
     "date": "1/14/2022",
     "site": "dev.to"
   },
   {
-    "title": "Set up a local Prisma instance",
-    "link": "https://dev.to/dailydevtips1/set-up-a-local-prisma-instance-2anf",
+    "title": "Use Push to Deploy to update or deploy your Meteor App directly from your repository",
+    "link": "https://dev.to/fredmaiaarantes/use-push-to-deploy-to-update-or-deploy-your-meteor-app-directly-from-your-repository-2hpk",
     "date": "1/14/2022",
     "site": "dev.to"
   },
   {
-    "title": "What they heck is Event Loop",
-    "link": "https://dev.to/danities316/what-they-heck-is-event-loop-294k",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Phen24 - Weight Loss Supplement, Price, Reviews And Results",
-    "link": "https://dev.to/phen24pills1/phen24-weight-loss-supplement-price-reviews-and-results-8kk",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM guide for beginners #3",
-    "link": "https://dev.to/himanshupal0001/dom-guide-for-beginners-3-5dh4",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Intro",
-    "link": "https://dev.to/shinyo627/js-intro-397i",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Redis Weekly Updates(Jan 14, 2022) - Latest Blogs, Tutorials,  Sample Apps & Events",
-    "link": "https://dev.to/redis/redis-weekly-updatesjan-14-2022-latest-blogs-tutorials-sample-apps-events-905",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Developing Chrome Extensions with Amplify Authentication",
-    "link": "https://dev.to/kenmiyashita/developing-chrome-extensions-with-amplify-authentication-22an",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 7",
-    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-7-3fk2",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First bad version problem",
-    "link": "https://dev.to/carnato/first-bad-version-problem-4g9n",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Uploading Images to Django REST Framework from Forms in React",
-    "link": "https://dev.to/thomz/uploading-images-to-django-rest-framework-from-forms-in-react-3jhj",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Event emails reminder using Mongo DB Atlas",
-    "link": "https://dev.to/shivamarora1/event-emails-reminder-using-mongo-db-atlas-29b5",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#15 - Digits explosion               CodeWars Kata (7 kyu)",
-    "link": "https://dev.to/cesar__dlr/14-digits-explosion-codewars-kata-7-kyu-13je",
-    "date": "1/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First post",
-    "link": "https://dev.to/gregnavarro/first-post-5hfo",
+    "title": "Form Handling With API Tutorial",
+    "link": "https://dev.to/abanoubgeorge/form-handling-with-api-tutorial-45lc",
     "date": "1/14/2022",
     "site": "dev.to"
   },
@@ -695,216 +905,6 @@
     "reading_time": "22 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "How to Show Now Playing in Spotify with Next.js",
-    "link": "https://hashnode.theodorusclarence.com/how-to-show-now-playing-in-spotify-with-nextjs",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to learn while working on personal projects",
-    "link": "https://how-to.dev/how-to-learn-while-working-on-personal-projects",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My new GSAP series 🎊🎊: Introduction to GSAP",
-    "link": "https://raghavsinghgulia.hashnode.dev/introduction-to-gsap",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learning Programming As A Lifetime Visual Artist With Scrimba",
-    "link": "https://notacoder.hashnode.dev/learning-programming-as-a-lifetime-visual-artist-with-scrimba",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Temporal Dead Zone.",
-    "link": "https://ankurchunekar.hashnode.dev/the-temporal-dead-zone",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding variable declaration and scope in JavaScript!!",
-    "link": "https://atulhande03a.hashnode.dev/understanding-variable-declaration-and-scope-in-javascript",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Do you really think that loose equals (==) compares the value and strict equals (===) compares the value as well as the type of two variables in JS?",
-    "link": "https://blog.shahbazkhan.in/do-you-really-think-that-loose-equals-compares-the-value-and-strict-equals-compares-the-value-as-well-as-the-type-of-two-variables-in-js",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Show Now Playing in Spotify with Next.js",
-    "link": "https://hashnode.theodorusclarence.com/how-to-show-now-playing-in-spotify-with-nextjs",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to learn while working on personal projects",
-    "link": "https://how-to.dev/how-to-learn-while-working-on-personal-projects",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My new GSAP series 🎊🎊: Introduction to GSAP",
-    "link": "https://raghavsinghgulia.hashnode.dev/introduction-to-gsap",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learning Programming As A Lifetime Visual Artist With Scrimba",
-    "link": "https://notacoder.hashnode.dev/learning-programming-as-a-lifetime-visual-artist-with-scrimba",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Temporal Dead Zone.",
-    "link": "https://ankurchunekar.hashnode.dev/the-temporal-dead-zone",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding variable declaration and scope in JavaScript!!",
-    "link": "https://atulhande03a.hashnode.dev/understanding-variable-declaration-and-scope-in-javascript",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Do you really think that loose equals (==) compares the value and strict equals (===) compares the value as well as the type of two variables in JS?",
-    "link": "https://blog.shahbazkhan.in/do-you-really-think-that-loose-equals-compares-the-value-and-strict-equals-compares-the-value-as-well-as-the-type-of-two-variables-in-js",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Show Now Playing in Spotify with Next.js",
-    "link": "https://hashnode.theodorusclarence.com/how-to-show-now-playing-in-spotify-with-nextjs",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to learn while working on personal projects",
-    "link": "https://how-to.dev/how-to-learn-while-working-on-personal-projects",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My new GSAP series 🎊🎊: Introduction to GSAP",
-    "link": "https://raghavsinghgulia.hashnode.dev/introduction-to-gsap",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learning Programming As A Lifetime Visual Artist With Scrimba",
-    "link": "https://notacoder.hashnode.dev/learning-programming-as-a-lifetime-visual-artist-with-scrimba",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Temporal Dead Zone.",
-    "link": "https://ankurchunekar.hashnode.dev/the-temporal-dead-zone",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding variable declaration and scope in JavaScript!!",
-    "link": "https://atulhande03a.hashnode.dev/understanding-variable-declaration-and-scope-in-javascript",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Do you really think that loose equals (==) compares the value and strict equals (===) compares the value as well as the type of two variables in JS?",
-    "link": "https://blog.shahbazkhan.in/do-you-really-think-that-loose-equals-compares-the-value-and-strict-equals-compares-the-value-as-well-as-the-type-of-two-variables-in-js",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Show Now Playing in Spotify with Next.js",
-    "link": "https://hashnode.theodorusclarence.com/how-to-show-now-playing-in-spotify-with-nextjs",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to learn while working on personal projects",
-    "link": "https://how-to.dev/how-to-learn-while-working-on-personal-projects",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My new GSAP series 🎊🎊: Introduction to GSAP",
-    "link": "https://raghavsinghgulia.hashnode.dev/introduction-to-gsap",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learning Programming As A Lifetime Visual Artist With Scrimba",
-    "link": "https://notacoder.hashnode.dev/learning-programming-as-a-lifetime-visual-artist-with-scrimba",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Temporal Dead Zone.",
-    "link": "https://ankurchunekar.hashnode.dev/the-temporal-dead-zone",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding variable declaration and scope in JavaScript!!",
-    "link": "https://atulhande03a.hashnode.dev/understanding-variable-declaration-and-scope-in-javascript",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Do you really think that loose equals (==) compares the value and strict equals (===) compares the value as well as the type of two variables in JS?",
-    "link": "https://blog.shahbazkhan.in/do-you-really-think-that-loose-equals-compares-the-value-and-strict-equals-compares-the-value-as-well-as-the-type-of-two-variables-in-js",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Show Now Playing in Spotify with Next.js",
-    "link": "https://hashnode.theodorusclarence.com/how-to-show-now-playing-in-spotify-with-nextjs",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to learn while working on personal projects",
-    "link": "https://how-to.dev/how-to-learn-while-working-on-personal-projects",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My new GSAP series 🎊🎊: Introduction to GSAP",
-    "link": "https://raghavsinghgulia.hashnode.dev/introduction-to-gsap",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learning Programming As A Lifetime Visual Artist With Scrimba",
-    "link": "https://notacoder.hashnode.dev/learning-programming-as-a-lifetime-visual-artist-with-scrimba",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Temporal Dead Zone.",
-    "link": "https://ankurchunekar.hashnode.dev/the-temporal-dead-zone",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Understanding variable declaration and scope in JavaScript!!",
-    "link": "https://atulhande03a.hashnode.dev/understanding-variable-declaration-and-scope-in-javascript",
-    "date": "1/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Do you really think that loose equals (==) compares the value and strict equals (===) compares the value as well as the type of two variables in JS?",
-    "link": "https://blog.shahbazkhan.in/do-you-really-think-that-loose-equals-compares-the-value-and-strict-equals-compares-the-value-as-well-as-the-type-of-two-variables-in-js",
-    "date": "1/13/2022",
-    "site": "hashnode"
   },
   {
     "title": "The Invisible JavaScript Backdoor",
@@ -1083,7 +1083,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -1130,7 +1130,7 @@
   {
     "title": "Tools And Practices To Speed Up The Vue.js Development Process",
     "link": "https://www.smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/8/2021",
     "site": "smashingmagazine"
   },
@@ -1185,14 +1185,14 @@
   {
     "title": "Getting Started With Webpack",
     "link": "https://www.smashingmagazine.com/2021/06/getting-started-webpack/",
-    "reading_time": "20 min read",
+    "reading_time": "19 min read",
     "date": "6/4/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Managing Shared State In Vue 3",
     "link": "https://www.smashingmagazine.com/2021/06/managing-shared-state-vue3/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "6/3/2021",
     "site": "smashingmagazine"
   },
@@ -1255,14 +1255,14 @@
   {
     "title": "A Guide To Undoing Mistakes With Git (Part 1)",
     "link": "https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "5/4/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "The Evolution Of Jamstack",
     "link": "https://www.smashingmagazine.com/2021/05/evolution-jamstack/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/3/2021",
     "site": "smashingmagazine"
   },
@@ -1289,7 +1289,7 @@
   {
     "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing",
     "link": "https://www.smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
-    "reading_time": "20 min read",
+    "reading_time": "19 min read",
     "date": "4/7/2021",
     "site": "smashingmagazine"
   },
