@@ -1,19 +1,511 @@
 [
   {
-    "title": "Why I created a tool to copy text/code in a click from any website?",
-    "link": "https://devapt.hashnode.dev/tool-to-copy-text-code-in-click",
+    "title": "# How to customize email notifications in TalkJS",
+    "link": "https://talkjs.hashnode.dev/how-to-customize-email-notifications-in-talkjs",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "CRUD operations with Prisma and Fastify",
+    "link": "https://h.daily-dev-tips.com/crud-operations-with-prisma-and-fastify",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Improving An App",
+    "link": "https://joannamollman.hashnode.dev/improving-an-app",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why syncing .env files doesn’t scale for secrets management",
+    "link": "https://dev.to/doppler/why-syncing-env-files-doesnt-scale-for-secrets-management-5325",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Import CSV File with React",
+    "link": "https://dev.to/pankod/how-to-import-csv-file-with-react-4pj2",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Review chronicles: destructuring, linting and one valid reason for Typescript",
+    "link": "https://dev.to/dvddpl/code-review-chronicles-destructuring-linting-and-one-valid-reason-for-typescript-3mfb",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary: 55. Jump Game [Bottom-Up DP]",
+    "link": "https://dev.to/kevin074/leetcode-diary-55-jump-game-bottom-up-dp-nhd",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "🤌🤌How to 👉Build a Great Website👈 for Your Business - Tips and Tricks",
+    "link": "https://dev.to/joshowen12/how-to-build-a-great-website-for-your-business-tips-and-tricks-3oif",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to customize email notifications in TalkJS\n",
+    "link": "https://dev.to/talkjs/how-to-customize-email-notifications-in-talkjs-5abk",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Meticore - Weight Loss Results, Price, Reviews And Benefits",
+    "link": "https://dev.to/meticor83398468/meticore-weight-loss-results-price-reviews-and-benefits-1d53",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Component LifeCycle Stages",
+    "link": "https://dev.to/gursidak/react-lifecycle-4e71",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to learn React.js in 2022: A Complete Guide for Beginners",
+    "link": "https://dev.to/ashikarose/how-to-learn-reactjs-in-2022-a-complete-guide-for-beginners-d94",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#20 - Sort Numbers                      \nCodeWars Kata (7 kyu)",
+    "link": "https://dev.to/cesar__dlr/20-sort-numbers-codewars-kata-7-kyu-536g",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD operations with Prisma and Fastify",
+    "link": "https://dev.to/dailydevtips1/crud-operations-with-prisma-and-fastify-4njc",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automagically  REST and GraphQL endpoints  from your Azure SQL database",
+    "link": "https://dev.to/azure/automagically-rest-and-graphql-endpoints-from-your-azure-sql-database-40j9",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 12",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-12-2mon",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "# How to customize email notifications in TalkJS",
+    "link": "https://talkjs.hashnode.dev/how-to-customize-email-notifications-in-talkjs",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "CRUD operations with Prisma and Fastify",
+    "link": "https://h.daily-dev-tips.com/crud-operations-with-prisma-and-fastify",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Improving An App",
+    "link": "https://joannamollman.hashnode.dev/improving-an-app",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why syncing .env files doesn’t scale for secrets management",
+    "link": "https://dev.to/doppler/why-syncing-env-files-doesnt-scale-for-secrets-management-5325",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Import CSV File with React",
+    "link": "https://dev.to/pankod/how-to-import-csv-file-with-react-4pj2",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Review chronicles: destructuring, linting and one valid reason for Typescript",
+    "link": "https://dev.to/dvddpl/code-review-chronicles-destructuring-linting-and-one-valid-reason-for-typescript-3mfb",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary: 55. Jump Game [Bottom-Up DP]",
+    "link": "https://dev.to/kevin074/leetcode-diary-55-jump-game-bottom-up-dp-nhd",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "🤌🤌How to 👉Build a Great Website👈 for Your Business - Tips and Tricks",
+    "link": "https://dev.to/joshowen12/how-to-build-a-great-website-for-your-business-tips-and-tricks-3oif",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to customize email notifications in TalkJS\n",
+    "link": "https://dev.to/talkjs/how-to-customize-email-notifications-in-talkjs-5abk",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Meticore - Weight Loss Results, Price, Reviews And Benefits",
+    "link": "https://dev.to/meticor83398468/meticore-weight-loss-results-price-reviews-and-benefits-1d53",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Component LifeCycle Stages",
+    "link": "https://dev.to/gursidak/react-lifecycle-4e71",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to learn React.js in 2022: A Complete Guide for Beginners",
+    "link": "https://dev.to/ashikarose/how-to-learn-reactjs-in-2022-a-complete-guide-for-beginners-d94",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#20 - Sort Numbers                      \nCodeWars Kata (7 kyu)",
+    "link": "https://dev.to/cesar__dlr/20-sort-numbers-codewars-kata-7-kyu-536g",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD operations with Prisma and Fastify",
+    "link": "https://dev.to/dailydevtips1/crud-operations-with-prisma-and-fastify-4njc",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automagically  REST and GraphQL endpoints  from your Azure SQL database",
+    "link": "https://dev.to/azure/automagically-rest-and-graphql-endpoints-from-your-azure-sql-database-40j9",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 12",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-12-2mon",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "# How to customize email notifications in TalkJS",
+    "link": "https://talkjs.hashnode.dev/how-to-customize-email-notifications-in-talkjs",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "CRUD operations with Prisma and Fastify",
+    "link": "https://h.daily-dev-tips.com/crud-operations-with-prisma-and-fastify",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Improving An App",
+    "link": "https://joannamollman.hashnode.dev/improving-an-app",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why syncing .env files doesn’t scale for secrets management",
+    "link": "https://dev.to/doppler/why-syncing-env-files-doesnt-scale-for-secrets-management-5325",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Import CSV File with React",
+    "link": "https://dev.to/pankod/how-to-import-csv-file-with-react-4pj2",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Review chronicles: destructuring, linting and one valid reason for Typescript",
+    "link": "https://dev.to/dvddpl/code-review-chronicles-destructuring-linting-and-one-valid-reason-for-typescript-3mfb",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary: 55. Jump Game [Bottom-Up DP]",
+    "link": "https://dev.to/kevin074/leetcode-diary-55-jump-game-bottom-up-dp-nhd",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "🤌🤌How to 👉Build a Great Website👈 for Your Business - Tips and Tricks",
+    "link": "https://dev.to/joshowen12/how-to-build-a-great-website-for-your-business-tips-and-tricks-3oif",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to customize email notifications in TalkJS\n",
+    "link": "https://dev.to/talkjs/how-to-customize-email-notifications-in-talkjs-5abk",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Meticore - Weight Loss Results, Price, Reviews And Benefits",
+    "link": "https://dev.to/meticor83398468/meticore-weight-loss-results-price-reviews-and-benefits-1d53",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Component LifeCycle Stages",
+    "link": "https://dev.to/gursidak/react-lifecycle-4e71",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to learn React.js in 2022: A Complete Guide for Beginners",
+    "link": "https://dev.to/ashikarose/how-to-learn-reactjs-in-2022-a-complete-guide-for-beginners-d94",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#20 - Sort Numbers                      \nCodeWars Kata (7 kyu)",
+    "link": "https://dev.to/cesar__dlr/20-sort-numbers-codewars-kata-7-kyu-536g",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD operations with Prisma and Fastify",
+    "link": "https://dev.to/dailydevtips1/crud-operations-with-prisma-and-fastify-4njc",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automagically  REST and GraphQL endpoints  from your Azure SQL database",
+    "link": "https://dev.to/azure/automagically-rest-and-graphql-endpoints-from-your-azure-sql-database-40j9",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 12",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-12-2mon",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "# How to customize email notifications in TalkJS",
+    "link": "https://talkjs.hashnode.dev/how-to-customize-email-notifications-in-talkjs",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "CRUD operations with Prisma and Fastify",
+    "link": "https://h.daily-dev-tips.com/crud-operations-with-prisma-and-fastify",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Improving An App",
+    "link": "https://joannamollman.hashnode.dev/improving-an-app",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why syncing .env files doesn’t scale for secrets management",
+    "link": "https://dev.to/doppler/why-syncing-env-files-doesnt-scale-for-secrets-management-5325",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Import CSV File with React",
+    "link": "https://dev.to/pankod/how-to-import-csv-file-with-react-4pj2",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Review chronicles: destructuring, linting and one valid reason for Typescript",
+    "link": "https://dev.to/dvddpl/code-review-chronicles-destructuring-linting-and-one-valid-reason-for-typescript-3mfb",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary: 55. Jump Game [Bottom-Up DP]",
+    "link": "https://dev.to/kevin074/leetcode-diary-55-jump-game-bottom-up-dp-nhd",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "🤌🤌How to 👉Build a Great Website👈 for Your Business - Tips and Tricks",
+    "link": "https://dev.to/joshowen12/how-to-build-a-great-website-for-your-business-tips-and-tricks-3oif",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to customize email notifications in TalkJS\n",
+    "link": "https://dev.to/talkjs/how-to-customize-email-notifications-in-talkjs-5abk",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Meticore - Weight Loss Results, Price, Reviews And Benefits",
+    "link": "https://dev.to/meticor83398468/meticore-weight-loss-results-price-reviews-and-benefits-1d53",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Component LifeCycle Stages",
+    "link": "https://dev.to/gursidak/react-lifecycle-4e71",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to learn React.js in 2022: A Complete Guide for Beginners",
+    "link": "https://dev.to/ashikarose/how-to-learn-reactjs-in-2022-a-complete-guide-for-beginners-d94",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#20 - Sort Numbers                      \nCodeWars Kata (7 kyu)",
+    "link": "https://dev.to/cesar__dlr/20-sort-numbers-codewars-kata-7-kyu-536g",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD operations with Prisma and Fastify",
+    "link": "https://dev.to/dailydevtips1/crud-operations-with-prisma-and-fastify-4njc",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automagically  REST and GraphQL endpoints  from your Azure SQL database",
+    "link": "https://dev.to/azure/automagically-rest-and-graphql-endpoints-from-your-azure-sql-database-40j9",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 12",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-12-2mon",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "# How to customize email notifications in TalkJS",
+    "link": "https://talkjs.hashnode.dev/how-to-customize-email-notifications-in-talkjs",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "CRUD operations with Prisma and Fastify",
+    "link": "https://h.daily-dev-tips.com/crud-operations-with-prisma-and-fastify",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Improving An App",
+    "link": "https://joannamollman.hashnode.dev/improving-an-app",
+    "date": "1/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why syncing .env files doesn’t scale for secrets management",
+    "link": "https://dev.to/doppler/why-syncing-env-files-doesnt-scale-for-secrets-management-5325",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Import CSV File with React",
+    "link": "https://dev.to/pankod/how-to-import-csv-file-with-react-4pj2",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Review chronicles: destructuring, linting and one valid reason for Typescript",
+    "link": "https://dev.to/dvddpl/code-review-chronicles-destructuring-linting-and-one-valid-reason-for-typescript-3mfb",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary: 55. Jump Game [Bottom-Up DP]",
+    "link": "https://dev.to/kevin074/leetcode-diary-55-jump-game-bottom-up-dp-nhd",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "🤌🤌How to 👉Build a Great Website👈 for Your Business - Tips and Tricks",
+    "link": "https://dev.to/joshowen12/how-to-build-a-great-website-for-your-business-tips-and-tricks-3oif",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to customize email notifications in TalkJS\n",
+    "link": "https://dev.to/talkjs/how-to-customize-email-notifications-in-talkjs-5abk",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Meticore - Weight Loss Results, Price, Reviews And Benefits",
+    "link": "https://dev.to/meticor83398468/meticore-weight-loss-results-price-reviews-and-benefits-1d53",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Component LifeCycle Stages",
+    "link": "https://dev.to/gursidak/react-lifecycle-4e71",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to learn React.js in 2022: A Complete Guide for Beginners",
+    "link": "https://dev.to/ashikarose/how-to-learn-reactjs-in-2022-a-complete-guide-for-beginners-d94",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#20 - Sort Numbers                      \nCodeWars Kata (7 kyu)",
+    "link": "https://dev.to/cesar__dlr/20-sort-numbers-codewars-kata-7-kyu-536g",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD operations with Prisma and Fastify",
+    "link": "https://dev.to/dailydevtips1/crud-operations-with-prisma-and-fastify-4njc",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automagically  REST and GraphQL endpoints  from your Azure SQL database",
+    "link": "https://dev.to/azure/automagically-rest-and-graphql-endpoints-from-your-azure-sql-database-40j9",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 12",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-12-2mon",
+    "date": "1/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "14 GitHub Repositories to Ace Your JavaScript Interviews 🎯 🚀",
+    "link": "https://madza.hashnode.dev/14-github-repositories-to-ace-your-javascript-interviews",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "What are the different data types present in JavaScript?",
-    "link": "https://codewithsnowbit.hashnode.dev/what-are-the-different-data-types-present-in-javascript",
+    "title": "ASP.NET:  Please wait ...",
+    "link": "https://adamsjourney.hashnode.dev/aspnet-please-wait",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "Dependency Injection in Node.js - Higher Order Routing With Express",
-    "link": "https://openreplay.hashnode.dev/dependency-injection-in-nodejs-higher-order-routing-with-express",
+    "title": "PhaserJS Platformer Aim & Shoot Mechanics",
+    "link": "https://saricden.hashnode.dev/phaserjs-platformer-aim-and-shoot-mechanics",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Game Development: Breakout in JavaScript",
+    "link": "https://blog.michaelkaren.dev/game-development-breakout-in-javascript",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Single Number",
+    "link": "https://ioscript.org/single-number",
     "date": "1/18/2022",
     "site": "hashnode"
   },
@@ -24,20 +516,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Configuring nodemon with TypeScript",
-    "link": "https://blog.colegaw.in/configuring-nodemon-with-typescript",
+    "title": "JS Currying",
+    "link": "https://vkglobal.hashnode.dev/js-currying",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "13 Unique and Fun APIs + Project ideas",
-    "link": "https://rahulism.hashnode.dev/13-unique-and-fun-apis-project-ideas",
-    "date": "1/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 React Native UI libraries to spice up your apps",
-    "link": "https://blog.abhiraj.co/10-react-native-ui-libraries-to-spice-up-your-apps",
+    "title": "JS Declarative VS Imperative",
+    "link": "https://vkglobal.hashnode.dev/js-declarative-vs-imperative",
     "date": "1/18/2022",
     "site": "hashnode"
   },
@@ -48,110 +534,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Learning Stacks In JavaScript",
-    "link": "https://delvoid.hashnode.dev/learning-stacks-in-javascript",
-    "date": "1/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript object destructuring usages you must know",
-    "link": "https://dev.to/atapas/javascript-object-destructuring-usages-you-must-know-2o0a",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Unique and Fun APIs + Project ideas",
-    "link": "https://dev.to/devdefinitive/13-unique-and-fun-apis-project-ideas-3766",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Syntax highlighting with Prism and Next.js",
-    "link": "https://dev.to/dawsoncodes/syntax-highlighting-with-prism-and-nextjs-40ee",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "For Loop through an array in backward direction in JavaScript\n",
-    "link": "https://dev.to/sh20raj/for-loop-through-an-array-in-backward-direction-in-javascript-421i",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Daily tools for Office",
-    "link": "https://dev.to/abhimanyudev7/daily-tools-for-office-23f2",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "It's Prisma Time - Aggregate and GroupBy",
-    "link": "https://dev.to/this-is-learning/its-prisma-time-aggregate-and-groupby-36a7",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What are the different data types present in JavaScript?",
-    "link": "https://dev.to/codewithsnowbit/what-are-the-different-data-types-present-in-javascript-13e7",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configuring nodemon with TypeScript",
-    "link": "https://dev.to/chroline/configuring-nodemon-with-typescript-21lp",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Don't fully trust AI in dev work! /yet",
-    "link": "https://dev.to/kaumnen/dont-fully-trust-ai-in-dev-work-yet-4n35",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Speed up Windows for heavy development.",
-    "link": "https://dev.to/akashpattnaik/speed-up-windows-for-heavy-development-3k4e",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Callback function",
-    "link": "https://dev.to/malcolmkee/understanding-callback-function-2jpf",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Added a Service Worker to my Website",
-    "link": "https://dev.to/dwhenson/how-to-add-a-service-worker-to-a-website-3ppi",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Interesting react projects for learning",
-    "link": "https://dev.to/gmoniava/interesting-react-projects-for-learning-3l8b",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Node.js is Good for Backend Development?",
-    "link": "https://dev.to/herbertj/why-nodejs-is-good-for-backend-development-3o3o",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Why I created a tool to copy text/code in a click from any website?",
     "link": "https://devapt.hashnode.dev/tool-to-copy-text-code-in-click",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "What are the different data types present in JavaScript?",
-    "link": "https://codewithsnowbit.hashnode.dev/what-are-the-different-data-types-present-in-javascript",
+    "title": "Demystifying OOP in Javascript",
+    "link": "https://pratieek.hashnode.dev/demystifying-oop-in-javascript",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "Dependency Injection in Node.js - Higher Order Routing With Express",
-    "link": "https://openreplay.hashnode.dev/dependency-injection-in-nodejs-higher-order-routing-with-express",
+    "title": "Do you see people as objects? A tale about primitive and non-primitive data types.",
+    "link": "https://logan1x.hashnode.dev/do-you-see-people-as-objects-a-tale-about-primitive-and-non-primitive-data-types",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "this.concept = important",
+    "link": "https://dev.to/zachinjapan/thisisimportant-2n47",
+    "date": "1/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "14 GitHub Repositories to Ace Your JavaScript Interviews 🎯 🚀",
+    "link": "https://madza.hashnode.dev/14-github-repositories-to-ace-your-javascript-interviews",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "ASP.NET:  Please wait ...",
+    "link": "https://adamsjourney.hashnode.dev/aspnet-please-wait",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "PhaserJS Platformer Aim & Shoot Mechanics",
+    "link": "https://saricden.hashnode.dev/phaserjs-platformer-aim-and-shoot-mechanics",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Game Development: Breakout in JavaScript",
+    "link": "https://blog.michaelkaren.dev/game-development-breakout-in-javascript",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Single Number",
+    "link": "https://ioscript.org/single-number",
     "date": "1/18/2022",
     "site": "hashnode"
   },
@@ -162,20 +594,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Configuring nodemon with TypeScript",
-    "link": "https://blog.colegaw.in/configuring-nodemon-with-typescript",
+    "title": "JS Currying",
+    "link": "https://vkglobal.hashnode.dev/js-currying",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "13 Unique and Fun APIs + Project ideas",
-    "link": "https://rahulism.hashnode.dev/13-unique-and-fun-apis-project-ideas",
-    "date": "1/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 React Native UI libraries to spice up your apps",
-    "link": "https://blog.abhiraj.co/10-react-native-ui-libraries-to-spice-up-your-apps",
+    "title": "JS Declarative VS Imperative",
+    "link": "https://vkglobal.hashnode.dev/js-declarative-vs-imperative",
     "date": "1/18/2022",
     "site": "hashnode"
   },
@@ -186,110 +612,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Learning Stacks In JavaScript",
-    "link": "https://delvoid.hashnode.dev/learning-stacks-in-javascript",
-    "date": "1/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript object destructuring usages you must know",
-    "link": "https://dev.to/atapas/javascript-object-destructuring-usages-you-must-know-2o0a",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Unique and Fun APIs + Project ideas",
-    "link": "https://dev.to/devdefinitive/13-unique-and-fun-apis-project-ideas-3766",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Syntax highlighting with Prism and Next.js",
-    "link": "https://dev.to/dawsoncodes/syntax-highlighting-with-prism-and-nextjs-40ee",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "For Loop through an array in backward direction in JavaScript\n",
-    "link": "https://dev.to/sh20raj/for-loop-through-an-array-in-backward-direction-in-javascript-421i",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Daily tools for Office",
-    "link": "https://dev.to/abhimanyudev7/daily-tools-for-office-23f2",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "It's Prisma Time - Aggregate and GroupBy",
-    "link": "https://dev.to/this-is-learning/its-prisma-time-aggregate-and-groupby-36a7",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What are the different data types present in JavaScript?",
-    "link": "https://dev.to/codewithsnowbit/what-are-the-different-data-types-present-in-javascript-13e7",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configuring nodemon with TypeScript",
-    "link": "https://dev.to/chroline/configuring-nodemon-with-typescript-21lp",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Don't fully trust AI in dev work! /yet",
-    "link": "https://dev.to/kaumnen/dont-fully-trust-ai-in-dev-work-yet-4n35",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Speed up Windows for heavy development.",
-    "link": "https://dev.to/akashpattnaik/speed-up-windows-for-heavy-development-3k4e",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Callback function",
-    "link": "https://dev.to/malcolmkee/understanding-callback-function-2jpf",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Added a Service Worker to my Website",
-    "link": "https://dev.to/dwhenson/how-to-add-a-service-worker-to-a-website-3ppi",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Interesting react projects for learning",
-    "link": "https://dev.to/gmoniava/interesting-react-projects-for-learning-3l8b",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Node.js is Good for Backend Development?",
-    "link": "https://dev.to/herbertj/why-nodejs-is-good-for-backend-development-3o3o",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Why I created a tool to copy text/code in a click from any website?",
     "link": "https://devapt.hashnode.dev/tool-to-copy-text-code-in-click",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "What are the different data types present in JavaScript?",
-    "link": "https://codewithsnowbit.hashnode.dev/what-are-the-different-data-types-present-in-javascript",
+    "title": "Demystifying OOP in Javascript",
+    "link": "https://pratieek.hashnode.dev/demystifying-oop-in-javascript",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "Dependency Injection in Node.js - Higher Order Routing With Express",
-    "link": "https://openreplay.hashnode.dev/dependency-injection-in-nodejs-higher-order-routing-with-express",
+    "title": "Do you see people as objects? A tale about primitive and non-primitive data types.",
+    "link": "https://logan1x.hashnode.dev/do-you-see-people-as-objects-a-tale-about-primitive-and-non-primitive-data-types",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "this.concept = important",
+    "link": "https://dev.to/zachinjapan/thisisimportant-2n47",
+    "date": "1/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "14 GitHub Repositories to Ace Your JavaScript Interviews 🎯 🚀",
+    "link": "https://madza.hashnode.dev/14-github-repositories-to-ace-your-javascript-interviews",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "ASP.NET:  Please wait ...",
+    "link": "https://adamsjourney.hashnode.dev/aspnet-please-wait",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "PhaserJS Platformer Aim & Shoot Mechanics",
+    "link": "https://saricden.hashnode.dev/phaserjs-platformer-aim-and-shoot-mechanics",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Game Development: Breakout in JavaScript",
+    "link": "https://blog.michaelkaren.dev/game-development-breakout-in-javascript",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Single Number",
+    "link": "https://ioscript.org/single-number",
     "date": "1/18/2022",
     "site": "hashnode"
   },
@@ -300,20 +672,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Configuring nodemon with TypeScript",
-    "link": "https://blog.colegaw.in/configuring-nodemon-with-typescript",
+    "title": "JS Currying",
+    "link": "https://vkglobal.hashnode.dev/js-currying",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "13 Unique and Fun APIs + Project ideas",
-    "link": "https://rahulism.hashnode.dev/13-unique-and-fun-apis-project-ideas",
-    "date": "1/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 React Native UI libraries to spice up your apps",
-    "link": "https://blog.abhiraj.co/10-react-native-ui-libraries-to-spice-up-your-apps",
+    "title": "JS Declarative VS Imperative",
+    "link": "https://vkglobal.hashnode.dev/js-declarative-vs-imperative",
     "date": "1/18/2022",
     "site": "hashnode"
   },
@@ -324,110 +690,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Learning Stacks In JavaScript",
-    "link": "https://delvoid.hashnode.dev/learning-stacks-in-javascript",
-    "date": "1/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript object destructuring usages you must know",
-    "link": "https://dev.to/atapas/javascript-object-destructuring-usages-you-must-know-2o0a",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Unique and Fun APIs + Project ideas",
-    "link": "https://dev.to/devdefinitive/13-unique-and-fun-apis-project-ideas-3766",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Syntax highlighting with Prism and Next.js",
-    "link": "https://dev.to/dawsoncodes/syntax-highlighting-with-prism-and-nextjs-40ee",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "For Loop through an array in backward direction in JavaScript\n",
-    "link": "https://dev.to/sh20raj/for-loop-through-an-array-in-backward-direction-in-javascript-421i",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Daily tools for Office",
-    "link": "https://dev.to/abhimanyudev7/daily-tools-for-office-23f2",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "It's Prisma Time - Aggregate and GroupBy",
-    "link": "https://dev.to/this-is-learning/its-prisma-time-aggregate-and-groupby-36a7",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What are the different data types present in JavaScript?",
-    "link": "https://dev.to/codewithsnowbit/what-are-the-different-data-types-present-in-javascript-13e7",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configuring nodemon with TypeScript",
-    "link": "https://dev.to/chroline/configuring-nodemon-with-typescript-21lp",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Don't fully trust AI in dev work! /yet",
-    "link": "https://dev.to/kaumnen/dont-fully-trust-ai-in-dev-work-yet-4n35",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Speed up Windows for heavy development.",
-    "link": "https://dev.to/akashpattnaik/speed-up-windows-for-heavy-development-3k4e",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Callback function",
-    "link": "https://dev.to/malcolmkee/understanding-callback-function-2jpf",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Added a Service Worker to my Website",
-    "link": "https://dev.to/dwhenson/how-to-add-a-service-worker-to-a-website-3ppi",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Interesting react projects for learning",
-    "link": "https://dev.to/gmoniava/interesting-react-projects-for-learning-3l8b",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Node.js is Good for Backend Development?",
-    "link": "https://dev.to/herbertj/why-nodejs-is-good-for-backend-development-3o3o",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Why I created a tool to copy text/code in a click from any website?",
     "link": "https://devapt.hashnode.dev/tool-to-copy-text-code-in-click",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "What are the different data types present in JavaScript?",
-    "link": "https://codewithsnowbit.hashnode.dev/what-are-the-different-data-types-present-in-javascript",
+    "title": "Demystifying OOP in Javascript",
+    "link": "https://pratieek.hashnode.dev/demystifying-oop-in-javascript",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "Dependency Injection in Node.js - Higher Order Routing With Express",
-    "link": "https://openreplay.hashnode.dev/dependency-injection-in-nodejs-higher-order-routing-with-express",
+    "title": "Do you see people as objects? A tale about primitive and non-primitive data types.",
+    "link": "https://logan1x.hashnode.dev/do-you-see-people-as-objects-a-tale-about-primitive-and-non-primitive-data-types",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "this.concept = important",
+    "link": "https://dev.to/zachinjapan/thisisimportant-2n47",
+    "date": "1/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "14 GitHub Repositories to Ace Your JavaScript Interviews 🎯 🚀",
+    "link": "https://madza.hashnode.dev/14-github-repositories-to-ace-your-javascript-interviews",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "ASP.NET:  Please wait ...",
+    "link": "https://adamsjourney.hashnode.dev/aspnet-please-wait",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "PhaserJS Platformer Aim & Shoot Mechanics",
+    "link": "https://saricden.hashnode.dev/phaserjs-platformer-aim-and-shoot-mechanics",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Game Development: Breakout in JavaScript",
+    "link": "https://blog.michaelkaren.dev/game-development-breakout-in-javascript",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Single Number",
+    "link": "https://ioscript.org/single-number",
     "date": "1/18/2022",
     "site": "hashnode"
   },
@@ -438,20 +750,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Configuring nodemon with TypeScript",
-    "link": "https://blog.colegaw.in/configuring-nodemon-with-typescript",
+    "title": "JS Currying",
+    "link": "https://vkglobal.hashnode.dev/js-currying",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "13 Unique and Fun APIs + Project ideas",
-    "link": "https://rahulism.hashnode.dev/13-unique-and-fun-apis-project-ideas",
-    "date": "1/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 React Native UI libraries to spice up your apps",
-    "link": "https://blog.abhiraj.co/10-react-native-ui-libraries-to-spice-up-your-apps",
+    "title": "JS Declarative VS Imperative",
+    "link": "https://vkglobal.hashnode.dev/js-declarative-vs-imperative",
     "date": "1/18/2022",
     "site": "hashnode"
   },
@@ -462,110 +768,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Learning Stacks In JavaScript",
-    "link": "https://delvoid.hashnode.dev/learning-stacks-in-javascript",
-    "date": "1/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript object destructuring usages you must know",
-    "link": "https://dev.to/atapas/javascript-object-destructuring-usages-you-must-know-2o0a",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Unique and Fun APIs + Project ideas",
-    "link": "https://dev.to/devdefinitive/13-unique-and-fun-apis-project-ideas-3766",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Syntax highlighting with Prism and Next.js",
-    "link": "https://dev.to/dawsoncodes/syntax-highlighting-with-prism-and-nextjs-40ee",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "For Loop through an array in backward direction in JavaScript\n",
-    "link": "https://dev.to/sh20raj/for-loop-through-an-array-in-backward-direction-in-javascript-421i",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Daily tools for Office",
-    "link": "https://dev.to/abhimanyudev7/daily-tools-for-office-23f2",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "It's Prisma Time - Aggregate and GroupBy",
-    "link": "https://dev.to/this-is-learning/its-prisma-time-aggregate-and-groupby-36a7",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What are the different data types present in JavaScript?",
-    "link": "https://dev.to/codewithsnowbit/what-are-the-different-data-types-present-in-javascript-13e7",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configuring nodemon with TypeScript",
-    "link": "https://dev.to/chroline/configuring-nodemon-with-typescript-21lp",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Don't fully trust AI in dev work! /yet",
-    "link": "https://dev.to/kaumnen/dont-fully-trust-ai-in-dev-work-yet-4n35",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Speed up Windows for heavy development.",
-    "link": "https://dev.to/akashpattnaik/speed-up-windows-for-heavy-development-3k4e",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Callback function",
-    "link": "https://dev.to/malcolmkee/understanding-callback-function-2jpf",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Added a Service Worker to my Website",
-    "link": "https://dev.to/dwhenson/how-to-add-a-service-worker-to-a-website-3ppi",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Interesting react projects for learning",
-    "link": "https://dev.to/gmoniava/interesting-react-projects-for-learning-3l8b",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Node.js is Good for Backend Development?",
-    "link": "https://dev.to/herbertj/why-nodejs-is-good-for-backend-development-3o3o",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Why I created a tool to copy text/code in a click from any website?",
     "link": "https://devapt.hashnode.dev/tool-to-copy-text-code-in-click",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "What are the different data types present in JavaScript?",
-    "link": "https://codewithsnowbit.hashnode.dev/what-are-the-different-data-types-present-in-javascript",
+    "title": "Demystifying OOP in Javascript",
+    "link": "https://pratieek.hashnode.dev/demystifying-oop-in-javascript",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "Dependency Injection in Node.js - Higher Order Routing With Express",
-    "link": "https://openreplay.hashnode.dev/dependency-injection-in-nodejs-higher-order-routing-with-express",
+    "title": "Do you see people as objects? A tale about primitive and non-primitive data types.",
+    "link": "https://logan1x.hashnode.dev/do-you-see-people-as-objects-a-tale-about-primitive-and-non-primitive-data-types",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "this.concept = important",
+    "link": "https://dev.to/zachinjapan/thisisimportant-2n47",
+    "date": "1/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "14 GitHub Repositories to Ace Your JavaScript Interviews 🎯 🚀",
+    "link": "https://madza.hashnode.dev/14-github-repositories-to-ace-your-javascript-interviews",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "ASP.NET:  Please wait ...",
+    "link": "https://adamsjourney.hashnode.dev/aspnet-please-wait",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "PhaserJS Platformer Aim & Shoot Mechanics",
+    "link": "https://saricden.hashnode.dev/phaserjs-platformer-aim-and-shoot-mechanics",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Game Development: Breakout in JavaScript",
+    "link": "https://blog.michaelkaren.dev/game-development-breakout-in-javascript",
+    "date": "1/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Single Number",
+    "link": "https://ioscript.org/single-number",
     "date": "1/18/2022",
     "site": "hashnode"
   },
@@ -576,20 +828,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Configuring nodemon with TypeScript",
-    "link": "https://blog.colegaw.in/configuring-nodemon-with-typescript",
+    "title": "JS Currying",
+    "link": "https://vkglobal.hashnode.dev/js-currying",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "13 Unique and Fun APIs + Project ideas",
-    "link": "https://rahulism.hashnode.dev/13-unique-and-fun-apis-project-ideas",
-    "date": "1/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 React Native UI libraries to spice up your apps",
-    "link": "https://blog.abhiraj.co/10-react-native-ui-libraries-to-spice-up-your-apps",
+    "title": "JS Declarative VS Imperative",
+    "link": "https://vkglobal.hashnode.dev/js-declarative-vs-imperative",
     "date": "1/18/2022",
     "site": "hashnode"
   },
@@ -600,303 +846,27 @@
     "site": "hashnode"
   },
   {
-    "title": "Learning Stacks In JavaScript",
-    "link": "https://delvoid.hashnode.dev/learning-stacks-in-javascript",
+    "title": "Why I created a tool to copy text/code in a click from any website?",
+    "link": "https://devapt.hashnode.dev/tool-to-copy-text-code-in-click",
     "date": "1/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript object destructuring usages you must know",
-    "link": "https://dev.to/atapas/javascript-object-destructuring-usages-you-must-know-2o0a",
+    "title": "Demystifying OOP in Javascript",
+    "link": "https://pratieek.hashnode.dev/demystifying-oop-in-javascript",
     "date": "1/18/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "13 Unique and Fun APIs + Project ideas",
-    "link": "https://dev.to/devdefinitive/13-unique-and-fun-apis-project-ideas-3766",
+    "title": "Do you see people as objects? A tale about primitive and non-primitive data types.",
+    "link": "https://logan1x.hashnode.dev/do-you-see-people-as-objects-a-tale-about-primitive-and-non-primitive-data-types",
     "date": "1/18/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Syntax highlighting with Prism and Next.js",
-    "link": "https://dev.to/dawsoncodes/syntax-highlighting-with-prism-and-nextjs-40ee",
+    "title": "this.concept = important",
+    "link": "https://dev.to/zachinjapan/thisisimportant-2n47",
     "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "For Loop through an array in backward direction in JavaScript\n",
-    "link": "https://dev.to/sh20raj/for-loop-through-an-array-in-backward-direction-in-javascript-421i",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Daily tools for Office",
-    "link": "https://dev.to/abhimanyudev7/daily-tools-for-office-23f2",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "It's Prisma Time - Aggregate and GroupBy",
-    "link": "https://dev.to/this-is-learning/its-prisma-time-aggregate-and-groupby-36a7",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What are the different data types present in JavaScript?",
-    "link": "https://dev.to/codewithsnowbit/what-are-the-different-data-types-present-in-javascript-13e7",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configuring nodemon with TypeScript",
-    "link": "https://dev.to/chroline/configuring-nodemon-with-typescript-21lp",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Don't fully trust AI in dev work! /yet",
-    "link": "https://dev.to/kaumnen/dont-fully-trust-ai-in-dev-work-yet-4n35",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Speed up Windows for heavy development.",
-    "link": "https://dev.to/akashpattnaik/speed-up-windows-for-heavy-development-3k4e",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Callback function",
-    "link": "https://dev.to/malcolmkee/understanding-callback-function-2jpf",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Added a Service Worker to my Website",
-    "link": "https://dev.to/dwhenson/how-to-add-a-service-worker-to-a-website-3ppi",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Interesting react projects for learning",
-    "link": "https://dev.to/gmoniava/interesting-react-projects-for-learning-3l8b",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Node.js is Good for Backend Development?",
-    "link": "https://dev.to/herbertj/why-nodejs-is-good-for-backend-development-3o3o",
-    "date": "1/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript object destructuring usages you must know",
-    "link": "https://blog.greenroots.info/javascript-object-destructuring-usages-you-must-know",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "15 Recommended Books For Computer Science Students",
-    "link": "https://astrodevil.hashnode.dev/15-recommended-books-for-computer-science-students",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "21 Must-Visit Awesome Websites For Web Developers",
-    "link": "https://muthuannamalai.tech/21-must-visit-awesome-websites-for-web-developers",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TikTok API: How to Post to TikTok Using a Social Media API",
-    "link": "https://ayrshare.hashnode.dev/tiktok-api-how-to-post-to-tiktok-using-a-social-media-api",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "WTF JavaScript: A Variable with Side Effects",
-    "link": "https://p42.hashnode.dev/wtf-javascript-a-variable-with-side-effects",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Why let, const and var can't work things out.",
-    "link": "https://prabhavsharmaa.hashnode.dev/why-let-const-and-var-cant-work-things-out",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 Essential Front End Web Development Tools",
-    "link": "https://dev.to/code_priyank/10-essential-front-end-web-development-tools-1la5",
-    "date": "1/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript object destructuring usages you must know",
-    "link": "https://blog.greenroots.info/javascript-object-destructuring-usages-you-must-know",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "15 Recommended Books For Computer Science Students",
-    "link": "https://astrodevil.hashnode.dev/15-recommended-books-for-computer-science-students",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "21 Must-Visit Awesome Websites For Web Developers",
-    "link": "https://muthuannamalai.tech/21-must-visit-awesome-websites-for-web-developers",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TikTok API: How to Post to TikTok Using a Social Media API",
-    "link": "https://ayrshare.hashnode.dev/tiktok-api-how-to-post-to-tiktok-using-a-social-media-api",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "WTF JavaScript: A Variable with Side Effects",
-    "link": "https://p42.hashnode.dev/wtf-javascript-a-variable-with-side-effects",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Why let, const and var can't work things out.",
-    "link": "https://prabhavsharmaa.hashnode.dev/why-let-const-and-var-cant-work-things-out",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 Essential Front End Web Development Tools",
-    "link": "https://dev.to/code_priyank/10-essential-front-end-web-development-tools-1la5",
-    "date": "1/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript object destructuring usages you must know",
-    "link": "https://blog.greenroots.info/javascript-object-destructuring-usages-you-must-know",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "15 Recommended Books For Computer Science Students",
-    "link": "https://astrodevil.hashnode.dev/15-recommended-books-for-computer-science-students",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "21 Must-Visit Awesome Websites For Web Developers",
-    "link": "https://muthuannamalai.tech/21-must-visit-awesome-websites-for-web-developers",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TikTok API: How to Post to TikTok Using a Social Media API",
-    "link": "https://ayrshare.hashnode.dev/tiktok-api-how-to-post-to-tiktok-using-a-social-media-api",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "WTF JavaScript: A Variable with Side Effects",
-    "link": "https://p42.hashnode.dev/wtf-javascript-a-variable-with-side-effects",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Why let, const and var can't work things out.",
-    "link": "https://prabhavsharmaa.hashnode.dev/why-let-const-and-var-cant-work-things-out",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 Essential Front End Web Development Tools",
-    "link": "https://dev.to/code_priyank/10-essential-front-end-web-development-tools-1la5",
-    "date": "1/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript object destructuring usages you must know",
-    "link": "https://blog.greenroots.info/javascript-object-destructuring-usages-you-must-know",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "15 Recommended Books For Computer Science Students",
-    "link": "https://astrodevil.hashnode.dev/15-recommended-books-for-computer-science-students",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "21 Must-Visit Awesome Websites For Web Developers",
-    "link": "https://muthuannamalai.tech/21-must-visit-awesome-websites-for-web-developers",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TikTok API: How to Post to TikTok Using a Social Media API",
-    "link": "https://ayrshare.hashnode.dev/tiktok-api-how-to-post-to-tiktok-using-a-social-media-api",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "WTF JavaScript: A Variable with Side Effects",
-    "link": "https://p42.hashnode.dev/wtf-javascript-a-variable-with-side-effects",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Why let, const and var can't work things out.",
-    "link": "https://prabhavsharmaa.hashnode.dev/why-let-const-and-var-cant-work-things-out",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 Essential Front End Web Development Tools",
-    "link": "https://dev.to/code_priyank/10-essential-front-end-web-development-tools-1la5",
-    "date": "1/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript object destructuring usages you must know",
-    "link": "https://blog.greenroots.info/javascript-object-destructuring-usages-you-must-know",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "15 Recommended Books For Computer Science Students",
-    "link": "https://astrodevil.hashnode.dev/15-recommended-books-for-computer-science-students",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "21 Must-Visit Awesome Websites For Web Developers",
-    "link": "https://muthuannamalai.tech/21-must-visit-awesome-websites-for-web-developers",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TikTok API: How to Post to TikTok Using a Social Media API",
-    "link": "https://ayrshare.hashnode.dev/tiktok-api-how-to-post-to-tiktok-using-a-social-media-api",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "WTF JavaScript: A Variable with Side Effects",
-    "link": "https://p42.hashnode.dev/wtf-javascript-a-variable-with-side-effects",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Why let, const and var can't work things out.",
-    "link": "https://prabhavsharmaa.hashnode.dev/why-let-const-and-var-cant-work-things-out",
-    "date": "1/17/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 Essential Front End Web Development Tools",
-    "link": "https://dev.to/code_priyank/10-essential-front-end-web-development-tools-1la5",
-    "date": "1/17/2022",
     "site": "dev.to"
   },
   {
@@ -1206,7 +1176,7 @@
   {
     "title": "Adding A Commenting System To A WYSIWYG Editor",
     "link": "https://www.smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
-    "reading_time": "49 min read",
+    "reading_time": "48 min read",
     "date": "5/28/2021",
     "site": "smashingmagazine"
   },
@@ -1320,6 +1290,36 @@
     "reading_time": "13 min read",
     "date": "3/11/2021",
     "site": "smashingmagazine"
+  },
+  {
+    "title": "Tutorial: Javascript Dom Methods",
+    "link": "https://dev.to/devwares/tutorial-javascript-dom-methods-4h80",
+    "date": "1/10/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tutorial: Javascript Dom Methods",
+    "link": "https://dev.to/devwares/tutorial-javascript-dom-methods-4h80",
+    "date": "1/10/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tutorial: Javascript Dom Methods",
+    "link": "https://dev.to/devwares/tutorial-javascript-dom-methods-4h80",
+    "date": "1/10/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tutorial: Javascript Dom Methods",
+    "link": "https://dev.to/devwares/tutorial-javascript-dom-methods-4h80",
+    "date": "1/10/2021",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tutorial: Javascript Dom Methods",
+    "link": "https://dev.to/devwares/tutorial-javascript-dom-methods-4h80",
+    "date": "1/10/2021",
+    "site": "dev.to"
   },
   {
     "title": "Lots of Ways to Use Math.random() in JavaScript",
