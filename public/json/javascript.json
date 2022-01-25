@@ -1,603 +1,843 @@
 [
   {
-    "title": "`useEffect` doesn't run after the first `render` and whenever its dependencies change",
-    "link": "https://marcoss.hashnode.dev/useeffect-doesnt-run-after-the-first-render-and-whenever-its-dependencies-change",
+    "title": "Intro to GraphQL with Node.js and TypeScript",
+    "link": "https://thecatblog.hashnode.dev/intro-to-graphql-with-nodejs-and-typescript",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How does React handle user-defined components behind the scenes?",
+    "link": "https://blog.fromaline.com/how-does-react-handle-user-defined-components-behind-the-scenes",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "E-commerce Order Management Dashboard with Hasura and GraphQL",
+    "link": "https://undefined.hashnode.dev/e-commerce-order-management-dashboard-with-hasura-and-graphql",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript is Crazy - Part 2",
+    "link": "https://codewithsnowbit.hashnode.dev/javascript-is-crazy-part-2",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Learning JavaScript in 2022",
+    "link": "https://shashwatsharma.hashnode.dev/learning-javascript-in-2022",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How I built a SPA with Vanilla.js + Ruby on Rails backend",
+    "link": "https://shariftarver.hashnode.dev/how-i-built-a-spa-with-vanillajs-ruby-on-rails-backend",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 85 of 100 Days of Code & Scrum: Twelfth Weekly Retrospective",
+    "link": "https://dev.to/rammina/day-85-of-100-days-of-code-scrum-twelfth-weekly-retrospective-568",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to convert column index of a spreadsheet into letters",
+    "link": "https://dev.to/all_stacks_developer/how-to-convert-column-index-of-a-spreadsheet-into-letters-31k0",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Higher Order Function in Javascript",
+    "link": "https://dev.to/shubhamtiwari909/higher-order-function-in-javascript-1i5h",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "2022年最全梯子游戏打法讲解与规律掌握，走势规律均值算法单双预测",
+    "link": "https://dev.to/9558448qqcom1/2022nian-zui-quan-ti-zi-you-xi-da-fa-jiang-jie-yu-gui-lu-zhang-wo-zou-shi-gui-lu-jun-zhi-suan-fa-dan-shuang-yu-ce-3lo6",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "theming with styled-components",
+    "link": "https://dev.to/kmyrrpen/theming-with-styled-components-2784",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm",
+    "link": "https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Simple nested JS Ternary",
+    "link": "https://dev.to/mikayil/simple-nested-js-ternary-44bp",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hawkeye Hemp Gummies - Pain Relief Results, Price, Reviews And Benefits",
+    "link": "https://dev.to/hawkeyehempinfo/hawkeye-hemp-gummies-pain-relief-results-price-reviews-and-benefits-4bdc",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 18",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-18-a2",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Secure a Job in 2022",
+    "link": "https://dev.to/yaku/how-to-secure-a-job-in-2022-502d",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Smart Contracts and NFTs: The Future of Digital Transactions?",
+    "link": "https://dev.to/yaku/smart-contracts-and-nfts-the-future-of-digital-transactions-4a52",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Webex Chatbot in Node.js",
+    "link": "https://dev.to/alvinslee/how-to-build-a-webex-chatbot-in-nodejs-2n0n",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Svelte: A Comprehensive Guide to Developing Your App With Svelte - Part 1 🦜",
+    "link": "https://dev.to/yaku/svelte-a-comprehensive-guide-to-developing-your-app-with-svelte-part-1-3iob",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create a Scalable Naming System",
+    "link": "https://dev.to/lrth06/create-a-scalable-naming-system-4ldn",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Intro to GraphQL with Node.js and TypeScript",
+    "link": "https://thecatblog.hashnode.dev/intro-to-graphql-with-nodejs-and-typescript",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How does React handle user-defined components behind the scenes?",
+    "link": "https://blog.fromaline.com/how-does-react-handle-user-defined-components-behind-the-scenes",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "E-commerce Order Management Dashboard with Hasura and GraphQL",
+    "link": "https://undefined.hashnode.dev/e-commerce-order-management-dashboard-with-hasura-and-graphql",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript is Crazy - Part 2",
+    "link": "https://codewithsnowbit.hashnode.dev/javascript-is-crazy-part-2",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Learning JavaScript in 2022",
+    "link": "https://shashwatsharma.hashnode.dev/learning-javascript-in-2022",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How I built a SPA with Vanilla.js + Ruby on Rails backend",
+    "link": "https://shariftarver.hashnode.dev/how-i-built-a-spa-with-vanillajs-ruby-on-rails-backend",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 85 of 100 Days of Code & Scrum: Twelfth Weekly Retrospective",
+    "link": "https://dev.to/rammina/day-85-of-100-days-of-code-scrum-twelfth-weekly-retrospective-568",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to convert column index of a spreadsheet into letters",
+    "link": "https://dev.to/all_stacks_developer/how-to-convert-column-index-of-a-spreadsheet-into-letters-31k0",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Higher Order Function in Javascript",
+    "link": "https://dev.to/shubhamtiwari909/higher-order-function-in-javascript-1i5h",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "2022年最全梯子游戏打法讲解与规律掌握，走势规律均值算法单双预测",
+    "link": "https://dev.to/9558448qqcom1/2022nian-zui-quan-ti-zi-you-xi-da-fa-jiang-jie-yu-gui-lu-zhang-wo-zou-shi-gui-lu-jun-zhi-suan-fa-dan-shuang-yu-ce-3lo6",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "theming with styled-components",
+    "link": "https://dev.to/kmyrrpen/theming-with-styled-components-2784",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm",
+    "link": "https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Simple nested JS Ternary",
+    "link": "https://dev.to/mikayil/simple-nested-js-ternary-44bp",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hawkeye Hemp Gummies - Pain Relief Results, Price, Reviews And Benefits",
+    "link": "https://dev.to/hawkeyehempinfo/hawkeye-hemp-gummies-pain-relief-results-price-reviews-and-benefits-4bdc",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 18",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-18-a2",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Secure a Job in 2022",
+    "link": "https://dev.to/yaku/how-to-secure-a-job-in-2022-502d",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Smart Contracts and NFTs: The Future of Digital Transactions?",
+    "link": "https://dev.to/yaku/smart-contracts-and-nfts-the-future-of-digital-transactions-4a52",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Webex Chatbot in Node.js",
+    "link": "https://dev.to/alvinslee/how-to-build-a-webex-chatbot-in-nodejs-2n0n",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Svelte: A Comprehensive Guide to Developing Your App With Svelte - Part 1 🦜",
+    "link": "https://dev.to/yaku/svelte-a-comprehensive-guide-to-developing-your-app-with-svelte-part-1-3iob",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create a Scalable Naming System",
+    "link": "https://dev.to/lrth06/create-a-scalable-naming-system-4ldn",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Intro to GraphQL with Node.js and TypeScript",
+    "link": "https://thecatblog.hashnode.dev/intro-to-graphql-with-nodejs-and-typescript",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How does React handle user-defined components behind the scenes?",
+    "link": "https://blog.fromaline.com/how-does-react-handle-user-defined-components-behind-the-scenes",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "E-commerce Order Management Dashboard with Hasura and GraphQL",
+    "link": "https://undefined.hashnode.dev/e-commerce-order-management-dashboard-with-hasura-and-graphql",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript is Crazy - Part 2",
+    "link": "https://codewithsnowbit.hashnode.dev/javascript-is-crazy-part-2",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Learning JavaScript in 2022",
+    "link": "https://shashwatsharma.hashnode.dev/learning-javascript-in-2022",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How I built a SPA with Vanilla.js + Ruby on Rails backend",
+    "link": "https://shariftarver.hashnode.dev/how-i-built-a-spa-with-vanillajs-ruby-on-rails-backend",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 85 of 100 Days of Code & Scrum: Twelfth Weekly Retrospective",
+    "link": "https://dev.to/rammina/day-85-of-100-days-of-code-scrum-twelfth-weekly-retrospective-568",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to convert column index of a spreadsheet into letters",
+    "link": "https://dev.to/all_stacks_developer/how-to-convert-column-index-of-a-spreadsheet-into-letters-31k0",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Higher Order Function in Javascript",
+    "link": "https://dev.to/shubhamtiwari909/higher-order-function-in-javascript-1i5h",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "2022年最全梯子游戏打法讲解与规律掌握，走势规律均值算法单双预测",
+    "link": "https://dev.to/9558448qqcom1/2022nian-zui-quan-ti-zi-you-xi-da-fa-jiang-jie-yu-gui-lu-zhang-wo-zou-shi-gui-lu-jun-zhi-suan-fa-dan-shuang-yu-ce-3lo6",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "theming with styled-components",
+    "link": "https://dev.to/kmyrrpen/theming-with-styled-components-2784",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm",
+    "link": "https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Simple nested JS Ternary",
+    "link": "https://dev.to/mikayil/simple-nested-js-ternary-44bp",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hawkeye Hemp Gummies - Pain Relief Results, Price, Reviews And Benefits",
+    "link": "https://dev.to/hawkeyehempinfo/hawkeye-hemp-gummies-pain-relief-results-price-reviews-and-benefits-4bdc",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 18",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-18-a2",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Secure a Job in 2022",
+    "link": "https://dev.to/yaku/how-to-secure-a-job-in-2022-502d",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Smart Contracts and NFTs: The Future of Digital Transactions?",
+    "link": "https://dev.to/yaku/smart-contracts-and-nfts-the-future-of-digital-transactions-4a52",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Webex Chatbot in Node.js",
+    "link": "https://dev.to/alvinslee/how-to-build-a-webex-chatbot-in-nodejs-2n0n",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Svelte: A Comprehensive Guide to Developing Your App With Svelte - Part 1 🦜",
+    "link": "https://dev.to/yaku/svelte-a-comprehensive-guide-to-developing-your-app-with-svelte-part-1-3iob",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create a Scalable Naming System",
+    "link": "https://dev.to/lrth06/create-a-scalable-naming-system-4ldn",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Intro to GraphQL with Node.js and TypeScript",
+    "link": "https://thecatblog.hashnode.dev/intro-to-graphql-with-nodejs-and-typescript",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How does React handle user-defined components behind the scenes?",
+    "link": "https://blog.fromaline.com/how-does-react-handle-user-defined-components-behind-the-scenes",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "E-commerce Order Management Dashboard with Hasura and GraphQL",
+    "link": "https://undefined.hashnode.dev/e-commerce-order-management-dashboard-with-hasura-and-graphql",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript is Crazy - Part 2",
+    "link": "https://codewithsnowbit.hashnode.dev/javascript-is-crazy-part-2",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Learning JavaScript in 2022",
+    "link": "https://shashwatsharma.hashnode.dev/learning-javascript-in-2022",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How I built a SPA with Vanilla.js + Ruby on Rails backend",
+    "link": "https://shariftarver.hashnode.dev/how-i-built-a-spa-with-vanillajs-ruby-on-rails-backend",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 85 of 100 Days of Code & Scrum: Twelfth Weekly Retrospective",
+    "link": "https://dev.to/rammina/day-85-of-100-days-of-code-scrum-twelfth-weekly-retrospective-568",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to convert column index of a spreadsheet into letters",
+    "link": "https://dev.to/all_stacks_developer/how-to-convert-column-index-of-a-spreadsheet-into-letters-31k0",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Higher Order Function in Javascript",
+    "link": "https://dev.to/shubhamtiwari909/higher-order-function-in-javascript-1i5h",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "2022年最全梯子游戏打法讲解与规律掌握，走势规律均值算法单双预测",
+    "link": "https://dev.to/9558448qqcom1/2022nian-zui-quan-ti-zi-you-xi-da-fa-jiang-jie-yu-gui-lu-zhang-wo-zou-shi-gui-lu-jun-zhi-suan-fa-dan-shuang-yu-ce-3lo6",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "theming with styled-components",
+    "link": "https://dev.to/kmyrrpen/theming-with-styled-components-2784",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm",
+    "link": "https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Simple nested JS Ternary",
+    "link": "https://dev.to/mikayil/simple-nested-js-ternary-44bp",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hawkeye Hemp Gummies - Pain Relief Results, Price, Reviews And Benefits",
+    "link": "https://dev.to/hawkeyehempinfo/hawkeye-hemp-gummies-pain-relief-results-price-reviews-and-benefits-4bdc",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 18",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-18-a2",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Secure a Job in 2022",
+    "link": "https://dev.to/yaku/how-to-secure-a-job-in-2022-502d",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Smart Contracts and NFTs: The Future of Digital Transactions?",
+    "link": "https://dev.to/yaku/smart-contracts-and-nfts-the-future-of-digital-transactions-4a52",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Webex Chatbot in Node.js",
+    "link": "https://dev.to/alvinslee/how-to-build-a-webex-chatbot-in-nodejs-2n0n",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Svelte: A Comprehensive Guide to Developing Your App With Svelte - Part 1 🦜",
+    "link": "https://dev.to/yaku/svelte-a-comprehensive-guide-to-developing-your-app-with-svelte-part-1-3iob",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create a Scalable Naming System",
+    "link": "https://dev.to/lrth06/create-a-scalable-naming-system-4ldn",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Intro to GraphQL with Node.js and TypeScript",
+    "link": "https://thecatblog.hashnode.dev/intro-to-graphql-with-nodejs-and-typescript",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How does React handle user-defined components behind the scenes?",
+    "link": "https://blog.fromaline.com/how-does-react-handle-user-defined-components-behind-the-scenes",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "E-commerce Order Management Dashboard with Hasura and GraphQL",
+    "link": "https://undefined.hashnode.dev/e-commerce-order-management-dashboard-with-hasura-and-graphql",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript is Crazy - Part 2",
+    "link": "https://codewithsnowbit.hashnode.dev/javascript-is-crazy-part-2",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Learning JavaScript in 2022",
+    "link": "https://shashwatsharma.hashnode.dev/learning-javascript-in-2022",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How I built a SPA with Vanilla.js + Ruby on Rails backend",
+    "link": "https://shariftarver.hashnode.dev/how-i-built-a-spa-with-vanillajs-ruby-on-rails-backend",
+    "date": "1/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 85 of 100 Days of Code & Scrum: Twelfth Weekly Retrospective",
+    "link": "https://dev.to/rammina/day-85-of-100-days-of-code-scrum-twelfth-weekly-retrospective-568",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to convert column index of a spreadsheet into letters",
+    "link": "https://dev.to/all_stacks_developer/how-to-convert-column-index-of-a-spreadsheet-into-letters-31k0",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Higher Order Function in Javascript",
+    "link": "https://dev.to/shubhamtiwari909/higher-order-function-in-javascript-1i5h",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "2022年最全梯子游戏打法讲解与规律掌握，走势规律均值算法单双预测",
+    "link": "https://dev.to/9558448qqcom1/2022nian-zui-quan-ti-zi-you-xi-da-fa-jiang-jie-yu-gui-lu-zhang-wo-zou-shi-gui-lu-jun-zhi-suan-fa-dan-shuang-yu-ce-3lo6",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "theming with styled-components",
+    "link": "https://dev.to/kmyrrpen/theming-with-styled-components-2784",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm",
+    "link": "https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Simple nested JS Ternary",
+    "link": "https://dev.to/mikayil/simple-nested-js-ternary-44bp",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hawkeye Hemp Gummies - Pain Relief Results, Price, Reviews And Benefits",
+    "link": "https://dev.to/hawkeyehempinfo/hawkeye-hemp-gummies-pain-relief-results-price-reviews-and-benefits-4bdc",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 18",
+    "link": "https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-18-a2",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Secure a Job in 2022",
+    "link": "https://dev.to/yaku/how-to-secure-a-job-in-2022-502d",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Smart Contracts and NFTs: The Future of Digital Transactions?",
+    "link": "https://dev.to/yaku/smart-contracts-and-nfts-the-future-of-digital-transactions-4a52",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Webex Chatbot in Node.js",
+    "link": "https://dev.to/alvinslee/how-to-build-a-webex-chatbot-in-nodejs-2n0n",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Svelte: A Comprehensive Guide to Developing Your App With Svelte - Part 1 🦜",
+    "link": "https://dev.to/yaku/svelte-a-comprehensive-guide-to-developing-your-app-with-svelte-part-1-3iob",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create a Scalable Naming System",
+    "link": "https://dev.to/lrth06/create-a-scalable-naming-system-4ldn",
+    "date": "1/25/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Super fast React Localization 🌍 (i18n) with i18next and Tolgee 🐁",
+    "link": "https://hn.tolgee.io/super-fast-react-localization-i18n-with-i18next-and-tolgee",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to Combine Add and Edit Forms in Angular",
-    "link": "https://blog.michaelkaren.dev/how-to-combine-add-and-edit-forms-in-angular",
+    "title": "Do you need to know UX as a frontend developer?",
+    "link": "https://adrianjanula.hashnode.dev/do-you-need-to-know-ux-as-a-frontend-developer",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Live Coding & Streaming - 10 Ways Developers Make Money Working from Home - E02",
-    "link": "https://danfleser.hashnode.dev/live-coding-and-streaming-10-ways-developers-make-money-working-from-home-e02",
+    "title": "Passed the Halfway Mark on my Coding Bootcamp Journey",
+    "link": "https://kjmasters.hashnode.dev/passed-the-halfway-mark-on-my-coding-bootcamp-journey",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "A bit about Javascript's prototype chain",
-    "link": "https://biki321.hashnode.dev/a-bit-about-javascripts-prototype-chain",
+    "title": "How Does JavaScript Even Work? Things Which 90% of JavaScript Developers Don't Know! (Part 2)",
+    "link": "https://lightmap.dev/how-does-javascript-even-work-part-2",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "An Introduction to Webpack",
-    "link": "https://rishi1011.hashnode.dev/an-introduction-to-webpack",
+    "title": "Understanding Variables and constants in JavaScript (ES6) - var, let, const",
+    "link": "https://dataille.hashnode.dev/es6-variables-en",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "How and Why to Invoke the Android Number Pad",
-    "link": "https://kristenkinnearohlmann.hashnode.dev/how-and-why-to-invoke-the-android-number-pad",
+    "title": "What is Truthy and Falsy in JavaScript?",
+    "link": "https://johnpalmgren.hashnode.dev/what-is-truthy-and-falsy-in-javascript",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "An Easy Way to Understand Promise in Javascript",
-    "link": "https://raaynaldo.hashnode.dev/an-easy-way-to-understand-promise-in-javascript",
+    "title": "Theta Network, R Socket and Super Tokens",
+    "link": "https://gokhale.me/theta-network-r-socket-and-super-tokens",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Live Coding & Streaming - 10 Ways Developers Make Money Working from Home - E02",
-    "link": "https://dev.to/danfleser/live-coding-streaming-10-ways-developers-make-money-working-from-home-e02-1d0",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Search Filter",
-    "link": "https://dev.to/drsimplegraffiti/react-search-filter-2ec8",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Day 2 ,3 and 4 ",
-    "link": "https://dev.to/pushanverma/javascript-day-2-3-and-4-1633",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Como usar o .env?",
-    "link": "https://dev.to/x8ing_/why-you-need-to-use-env-1o41",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebRTC For Beginners - Part 3: Creating the peers and sending/receiving media",
-    "link": "https://dev.to/ethand91/webrtc-for-beginners-part-3-creating-the-peers-and-sendingreceiving-media-4lab",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ways to loop in an array using the different types of \"FOR LOOP\" in Javascript.",
-    "link": "https://dev.to/kidxs/ways-to-loop-in-an-array-using-the-different-types-of-for-loop-in-javascript-1832",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Leetcode diary: 62. Unique Paths",
-    "link": "https://dev.to/kevin074/leetcode-diary-62-unique-paths-30p9",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "More you learn more you earn",
-    "link": "https://dev.to/mishabka/more-you-learn-more-you-earn-p7k",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Leetcode diary: 198. House Robber",
-    "link": "https://dev.to/kevin074/leetcode-diary-198-house-robber-1628",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How and Why to Invoke the Android Number Pad",
-    "link": "https://dev.to/kristenkinnearohlmann/how-and-why-to-invoke-the-android-number-pad-455o",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Paracetamol.js💊| #27: ¿Qué imprime este código JavaScript? ",
-    "link": "https://dev.to/duxtech/paracetamoljs-27-que-imprime-este-codigo-javascript-5bd0",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Introduction to Webpack",
-    "link": "https://dev.to/rishikrishna_r/an-introduction-to-webpack-406l",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Returning JSON from a PHP Script - Create Rest API in Php",
-    "link": "https://dev.to/sh20raj/returning-json-from-a-php-script-create-rest-api-in-php-3gm5",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "`useEffect` doesn't run after the first `render` and whenever its dependencies change",
-    "link": "https://marcoss.hashnode.dev/useeffect-doesnt-run-after-the-first-render-and-whenever-its-dependencies-change",
+    "title": "Create PDF files with Go, Javascript, Curl or other languages",
+    "link": "https://schukai.hashnode.dev/create-pdf-files-with-go-javascript-curl-or-other-languages",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to Combine Add and Edit Forms in Angular",
-    "link": "https://blog.michaelkaren.dev/how-to-combine-add-and-edit-forms-in-angular",
+    "title": "Super fast React Localization 🌍 (i18n) with i18next and Tolgee 🐁",
+    "link": "https://hn.tolgee.io/super-fast-react-localization-i18n-with-i18next-and-tolgee",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Live Coding & Streaming - 10 Ways Developers Make Money Working from Home - E02",
-    "link": "https://danfleser.hashnode.dev/live-coding-and-streaming-10-ways-developers-make-money-working-from-home-e02",
+    "title": "Do you need to know UX as a frontend developer?",
+    "link": "https://adrianjanula.hashnode.dev/do-you-need-to-know-ux-as-a-frontend-developer",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "A bit about Javascript's prototype chain",
-    "link": "https://biki321.hashnode.dev/a-bit-about-javascripts-prototype-chain",
+    "title": "Passed the Halfway Mark on my Coding Bootcamp Journey",
+    "link": "https://kjmasters.hashnode.dev/passed-the-halfway-mark-on-my-coding-bootcamp-journey",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "An Introduction to Webpack",
-    "link": "https://rishi1011.hashnode.dev/an-introduction-to-webpack",
+    "title": "How Does JavaScript Even Work? Things Which 90% of JavaScript Developers Don't Know! (Part 2)",
+    "link": "https://lightmap.dev/how-does-javascript-even-work-part-2",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "How and Why to Invoke the Android Number Pad",
-    "link": "https://kristenkinnearohlmann.hashnode.dev/how-and-why-to-invoke-the-android-number-pad",
+    "title": "Understanding Variables and constants in JavaScript (ES6) - var, let, const",
+    "link": "https://dataille.hashnode.dev/es6-variables-en",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "An Easy Way to Understand Promise in Javascript",
-    "link": "https://raaynaldo.hashnode.dev/an-easy-way-to-understand-promise-in-javascript",
+    "title": "What is Truthy and Falsy in JavaScript?",
+    "link": "https://johnpalmgren.hashnode.dev/what-is-truthy-and-falsy-in-javascript",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Live Coding & Streaming - 10 Ways Developers Make Money Working from Home - E02",
-    "link": "https://dev.to/danfleser/live-coding-streaming-10-ways-developers-make-money-working-from-home-e02-1d0",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Search Filter",
-    "link": "https://dev.to/drsimplegraffiti/react-search-filter-2ec8",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Day 2 ,3 and 4 ",
-    "link": "https://dev.to/pushanverma/javascript-day-2-3-and-4-1633",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Como usar o .env?",
-    "link": "https://dev.to/x8ing_/why-you-need-to-use-env-1o41",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebRTC For Beginners - Part 3: Creating the peers and sending/receiving media",
-    "link": "https://dev.to/ethand91/webrtc-for-beginners-part-3-creating-the-peers-and-sendingreceiving-media-4lab",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ways to loop in an array using the different types of \"FOR LOOP\" in Javascript.",
-    "link": "https://dev.to/kidxs/ways-to-loop-in-an-array-using-the-different-types-of-for-loop-in-javascript-1832",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Leetcode diary: 62. Unique Paths",
-    "link": "https://dev.to/kevin074/leetcode-diary-62-unique-paths-30p9",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "More you learn more you earn",
-    "link": "https://dev.to/mishabka/more-you-learn-more-you-earn-p7k",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Leetcode diary: 198. House Robber",
-    "link": "https://dev.to/kevin074/leetcode-diary-198-house-robber-1628",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How and Why to Invoke the Android Number Pad",
-    "link": "https://dev.to/kristenkinnearohlmann/how-and-why-to-invoke-the-android-number-pad-455o",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Paracetamol.js💊| #27: ¿Qué imprime este código JavaScript? ",
-    "link": "https://dev.to/duxtech/paracetamoljs-27-que-imprime-este-codigo-javascript-5bd0",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Introduction to Webpack",
-    "link": "https://dev.to/rishikrishna_r/an-introduction-to-webpack-406l",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Returning JSON from a PHP Script - Create Rest API in Php",
-    "link": "https://dev.to/sh20raj/returning-json-from-a-php-script-create-rest-api-in-php-3gm5",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "`useEffect` doesn't run after the first `render` and whenever its dependencies change",
-    "link": "https://marcoss.hashnode.dev/useeffect-doesnt-run-after-the-first-render-and-whenever-its-dependencies-change",
+    "title": "Theta Network, R Socket and Super Tokens",
+    "link": "https://gokhale.me/theta-network-r-socket-and-super-tokens",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to Combine Add and Edit Forms in Angular",
-    "link": "https://blog.michaelkaren.dev/how-to-combine-add-and-edit-forms-in-angular",
+    "title": "Create PDF files with Go, Javascript, Curl or other languages",
+    "link": "https://schukai.hashnode.dev/create-pdf-files-with-go-javascript-curl-or-other-languages",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Live Coding & Streaming - 10 Ways Developers Make Money Working from Home - E02",
-    "link": "https://danfleser.hashnode.dev/live-coding-and-streaming-10-ways-developers-make-money-working-from-home-e02",
+    "title": "Super fast React Localization 🌍 (i18n) with i18next and Tolgee 🐁",
+    "link": "https://hn.tolgee.io/super-fast-react-localization-i18n-with-i18next-and-tolgee",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "A bit about Javascript's prototype chain",
-    "link": "https://biki321.hashnode.dev/a-bit-about-javascripts-prototype-chain",
+    "title": "Do you need to know UX as a frontend developer?",
+    "link": "https://adrianjanula.hashnode.dev/do-you-need-to-know-ux-as-a-frontend-developer",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "An Introduction to Webpack",
-    "link": "https://rishi1011.hashnode.dev/an-introduction-to-webpack",
+    "title": "Passed the Halfway Mark on my Coding Bootcamp Journey",
+    "link": "https://kjmasters.hashnode.dev/passed-the-halfway-mark-on-my-coding-bootcamp-journey",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "How and Why to Invoke the Android Number Pad",
-    "link": "https://kristenkinnearohlmann.hashnode.dev/how-and-why-to-invoke-the-android-number-pad",
+    "title": "How Does JavaScript Even Work? Things Which 90% of JavaScript Developers Don't Know! (Part 2)",
+    "link": "https://lightmap.dev/how-does-javascript-even-work-part-2",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "An Easy Way to Understand Promise in Javascript",
-    "link": "https://raaynaldo.hashnode.dev/an-easy-way-to-understand-promise-in-javascript",
+    "title": "Understanding Variables and constants in JavaScript (ES6) - var, let, const",
+    "link": "https://dataille.hashnode.dev/es6-variables-en",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Live Coding & Streaming - 10 Ways Developers Make Money Working from Home - E02",
-    "link": "https://dev.to/danfleser/live-coding-streaming-10-ways-developers-make-money-working-from-home-e02-1d0",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Search Filter",
-    "link": "https://dev.to/drsimplegraffiti/react-search-filter-2ec8",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Day 2 ,3 and 4 ",
-    "link": "https://dev.to/pushanverma/javascript-day-2-3-and-4-1633",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Como usar o .env?",
-    "link": "https://dev.to/x8ing_/why-you-need-to-use-env-1o41",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebRTC For Beginners - Part 3: Creating the peers and sending/receiving media",
-    "link": "https://dev.to/ethand91/webrtc-for-beginners-part-3-creating-the-peers-and-sendingreceiving-media-4lab",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ways to loop in an array using the different types of \"FOR LOOP\" in Javascript.",
-    "link": "https://dev.to/kidxs/ways-to-loop-in-an-array-using-the-different-types-of-for-loop-in-javascript-1832",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Leetcode diary: 62. Unique Paths",
-    "link": "https://dev.to/kevin074/leetcode-diary-62-unique-paths-30p9",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "More you learn more you earn",
-    "link": "https://dev.to/mishabka/more-you-learn-more-you-earn-p7k",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Leetcode diary: 198. House Robber",
-    "link": "https://dev.to/kevin074/leetcode-diary-198-house-robber-1628",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How and Why to Invoke the Android Number Pad",
-    "link": "https://dev.to/kristenkinnearohlmann/how-and-why-to-invoke-the-android-number-pad-455o",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Paracetamol.js💊| #27: ¿Qué imprime este código JavaScript? ",
-    "link": "https://dev.to/duxtech/paracetamoljs-27-que-imprime-este-codigo-javascript-5bd0",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Introduction to Webpack",
-    "link": "https://dev.to/rishikrishna_r/an-introduction-to-webpack-406l",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Returning JSON from a PHP Script - Create Rest API in Php",
-    "link": "https://dev.to/sh20raj/returning-json-from-a-php-script-create-rest-api-in-php-3gm5",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "`useEffect` doesn't run after the first `render` and whenever its dependencies change",
-    "link": "https://marcoss.hashnode.dev/useeffect-doesnt-run-after-the-first-render-and-whenever-its-dependencies-change",
+    "title": "What is Truthy and Falsy in JavaScript?",
+    "link": "https://johnpalmgren.hashnode.dev/what-is-truthy-and-falsy-in-javascript",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to Combine Add and Edit Forms in Angular",
-    "link": "https://blog.michaelkaren.dev/how-to-combine-add-and-edit-forms-in-angular",
+    "title": "Theta Network, R Socket and Super Tokens",
+    "link": "https://gokhale.me/theta-network-r-socket-and-super-tokens",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Live Coding & Streaming - 10 Ways Developers Make Money Working from Home - E02",
-    "link": "https://danfleser.hashnode.dev/live-coding-and-streaming-10-ways-developers-make-money-working-from-home-e02",
+    "title": "Create PDF files with Go, Javascript, Curl or other languages",
+    "link": "https://schukai.hashnode.dev/create-pdf-files-with-go-javascript-curl-or-other-languages",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "A bit about Javascript's prototype chain",
-    "link": "https://biki321.hashnode.dev/a-bit-about-javascripts-prototype-chain",
+    "title": "Super fast React Localization 🌍 (i18n) with i18next and Tolgee 🐁",
+    "link": "https://hn.tolgee.io/super-fast-react-localization-i18n-with-i18next-and-tolgee",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "An Introduction to Webpack",
-    "link": "https://rishi1011.hashnode.dev/an-introduction-to-webpack",
+    "title": "Do you need to know UX as a frontend developer?",
+    "link": "https://adrianjanula.hashnode.dev/do-you-need-to-know-ux-as-a-frontend-developer",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "How and Why to Invoke the Android Number Pad",
-    "link": "https://kristenkinnearohlmann.hashnode.dev/how-and-why-to-invoke-the-android-number-pad",
+    "title": "Passed the Halfway Mark on my Coding Bootcamp Journey",
+    "link": "https://kjmasters.hashnode.dev/passed-the-halfway-mark-on-my-coding-bootcamp-journey",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "An Easy Way to Understand Promise in Javascript",
-    "link": "https://raaynaldo.hashnode.dev/an-easy-way-to-understand-promise-in-javascript",
+    "title": "How Does JavaScript Even Work? Things Which 90% of JavaScript Developers Don't Know! (Part 2)",
+    "link": "https://lightmap.dev/how-does-javascript-even-work-part-2",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Live Coding & Streaming - 10 Ways Developers Make Money Working from Home - E02",
-    "link": "https://dev.to/danfleser/live-coding-streaming-10-ways-developers-make-money-working-from-home-e02-1d0",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Search Filter",
-    "link": "https://dev.to/drsimplegraffiti/react-search-filter-2ec8",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Day 2 ,3 and 4 ",
-    "link": "https://dev.to/pushanverma/javascript-day-2-3-and-4-1633",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Como usar o .env?",
-    "link": "https://dev.to/x8ing_/why-you-need-to-use-env-1o41",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebRTC For Beginners - Part 3: Creating the peers and sending/receiving media",
-    "link": "https://dev.to/ethand91/webrtc-for-beginners-part-3-creating-the-peers-and-sendingreceiving-media-4lab",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ways to loop in an array using the different types of \"FOR LOOP\" in Javascript.",
-    "link": "https://dev.to/kidxs/ways-to-loop-in-an-array-using-the-different-types-of-for-loop-in-javascript-1832",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Leetcode diary: 62. Unique Paths",
-    "link": "https://dev.to/kevin074/leetcode-diary-62-unique-paths-30p9",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "More you learn more you earn",
-    "link": "https://dev.to/mishabka/more-you-learn-more-you-earn-p7k",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Leetcode diary: 198. House Robber",
-    "link": "https://dev.to/kevin074/leetcode-diary-198-house-robber-1628",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How and Why to Invoke the Android Number Pad",
-    "link": "https://dev.to/kristenkinnearohlmann/how-and-why-to-invoke-the-android-number-pad-455o",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Paracetamol.js💊| #27: ¿Qué imprime este código JavaScript? ",
-    "link": "https://dev.to/duxtech/paracetamoljs-27-que-imprime-este-codigo-javascript-5bd0",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Introduction to Webpack",
-    "link": "https://dev.to/rishikrishna_r/an-introduction-to-webpack-406l",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Returning JSON from a PHP Script - Create Rest API in Php",
-    "link": "https://dev.to/sh20raj/returning-json-from-a-php-script-create-rest-api-in-php-3gm5",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "`useEffect` doesn't run after the first `render` and whenever its dependencies change",
-    "link": "https://marcoss.hashnode.dev/useeffect-doesnt-run-after-the-first-render-and-whenever-its-dependencies-change",
+    "title": "Understanding Variables and constants in JavaScript (ES6) - var, let, const",
+    "link": "https://dataille.hashnode.dev/es6-variables-en",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to Combine Add and Edit Forms in Angular",
-    "link": "https://blog.michaelkaren.dev/how-to-combine-add-and-edit-forms-in-angular",
+    "title": "What is Truthy and Falsy in JavaScript?",
+    "link": "https://johnpalmgren.hashnode.dev/what-is-truthy-and-falsy-in-javascript",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Live Coding & Streaming - 10 Ways Developers Make Money Working from Home - E02",
-    "link": "https://danfleser.hashnode.dev/live-coding-and-streaming-10-ways-developers-make-money-working-from-home-e02",
+    "title": "Theta Network, R Socket and Super Tokens",
+    "link": "https://gokhale.me/theta-network-r-socket-and-super-tokens",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "A bit about Javascript's prototype chain",
-    "link": "https://biki321.hashnode.dev/a-bit-about-javascripts-prototype-chain",
+    "title": "Create PDF files with Go, Javascript, Curl or other languages",
+    "link": "https://schukai.hashnode.dev/create-pdf-files-with-go-javascript-curl-or-other-languages",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "An Introduction to Webpack",
-    "link": "https://rishi1011.hashnode.dev/an-introduction-to-webpack",
+    "title": "Super fast React Localization 🌍 (i18n) with i18next and Tolgee 🐁",
+    "link": "https://hn.tolgee.io/super-fast-react-localization-i18n-with-i18next-and-tolgee",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "How and Why to Invoke the Android Number Pad",
-    "link": "https://kristenkinnearohlmann.hashnode.dev/how-and-why-to-invoke-the-android-number-pad",
+    "title": "Do you need to know UX as a frontend developer?",
+    "link": "https://adrianjanula.hashnode.dev/do-you-need-to-know-ux-as-a-frontend-developer",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "An Easy Way to Understand Promise in Javascript",
-    "link": "https://raaynaldo.hashnode.dev/an-easy-way-to-understand-promise-in-javascript",
+    "title": "Passed the Halfway Mark on my Coding Bootcamp Journey",
+    "link": "https://kjmasters.hashnode.dev/passed-the-halfway-mark-on-my-coding-bootcamp-journey",
     "date": "1/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Live Coding & Streaming - 10 Ways Developers Make Money Working from Home - E02",
-    "link": "https://dev.to/danfleser/live-coding-streaming-10-ways-developers-make-money-working-from-home-e02-1d0",
+    "title": "How Does JavaScript Even Work? Things Which 90% of JavaScript Developers Don't Know! (Part 2)",
+    "link": "https://lightmap.dev/how-does-javascript-even-work-part-2",
     "date": "1/24/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "React Search Filter",
-    "link": "https://dev.to/drsimplegraffiti/react-search-filter-2ec8",
+    "title": "Understanding Variables and constants in JavaScript (ES6) - var, let, const",
+    "link": "https://dataille.hashnode.dev/es6-variables-en",
     "date": "1/24/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Javascript Day 2 ,3 and 4 ",
-    "link": "https://dev.to/pushanverma/javascript-day-2-3-and-4-1633",
+    "title": "What is Truthy and Falsy in JavaScript?",
+    "link": "https://johnpalmgren.hashnode.dev/what-is-truthy-and-falsy-in-javascript",
     "date": "1/24/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Como usar o .env?",
-    "link": "https://dev.to/x8ing_/why-you-need-to-use-env-1o41",
+    "title": "Theta Network, R Socket and Super Tokens",
+    "link": "https://gokhale.me/theta-network-r-socket-and-super-tokens",
     "date": "1/24/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "WebRTC For Beginners - Part 3: Creating the peers and sending/receiving media",
-    "link": "https://dev.to/ethand91/webrtc-for-beginners-part-3-creating-the-peers-and-sendingreceiving-media-4lab",
+    "title": "Create PDF files with Go, Javascript, Curl or other languages",
+    "link": "https://schukai.hashnode.dev/create-pdf-files-with-go-javascript-curl-or-other-languages",
     "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ways to loop in an array using the different types of \"FOR LOOP\" in Javascript.",
-    "link": "https://dev.to/kidxs/ways-to-loop-in-an-array-using-the-different-types-of-for-loop-in-javascript-1832",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Leetcode diary: 62. Unique Paths",
-    "link": "https://dev.to/kevin074/leetcode-diary-62-unique-paths-30p9",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "More you learn more you earn",
-    "link": "https://dev.to/mishabka/more-you-learn-more-you-earn-p7k",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Leetcode diary: 198. House Robber",
-    "link": "https://dev.to/kevin074/leetcode-diary-198-house-robber-1628",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How and Why to Invoke the Android Number Pad",
-    "link": "https://dev.to/kristenkinnearohlmann/how-and-why-to-invoke-the-android-number-pad-455o",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Paracetamol.js💊| #27: ¿Qué imprime este código JavaScript? ",
-    "link": "https://dev.to/duxtech/paracetamoljs-27-que-imprime-este-codigo-javascript-5bd0",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Introduction to Webpack",
-    "link": "https://dev.to/rishikrishna_r/an-introduction-to-webpack-406l",
-    "date": "1/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Returning JSON from a PHP Script - Create Rest API in Php",
-    "link": "https://dev.to/sh20raj/returning-json-from-a-php-script-create-rest-api-in-php-3gm5",
-    "date": "1/24/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Getting Started with TailwindCSS",
@@ -606,44 +846,8 @@
     "site": "hashnode"
   },
   {
-    "title": "Evolution 🌪 ES5 ⏳ES7",
-    "link": "https://webdevjourney.hashnode.dev/evolution-es5-es7",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript for Making API Calls",
-    "link": "https://shittuolumide.hashnode.dev/javascript-for-making-api-calls",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Demystifying Heroku & Express Server Deployment",
-    "link": "https://jimboslice.hashnode.dev/demystifying-heroku-and-express-server-deployment",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a Markdown Blog Powered by Next.js in Under an Hour",
-    "link": "https://openreplay.hashnode.dev/creating-a-markdown-blog-powered-by-nextjs-in-under-an-hour",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating stars using JavaScript",
-    "link": "https://blog.nicm42.co.uk/creating-stars-using-javascript",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How I created a simple NPM package with basic email templates",
-    "link": "https://coding-philosophy.hashnode.dev/how-i-created-a-simple-npm-package-with-basic-email-templates",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Props Explained",
-    "link": "https://evansblog.hashnode.dev/react-props-explained",
+    "title": "Getting Started with TailwindCSS",
+    "link": "https://tijan.hashnode.dev/getting-started-with-tailwindcss",
     "date": "1/23/2022",
     "site": "hashnode"
   },
@@ -654,195 +858,21 @@
     "site": "hashnode"
   },
   {
-    "title": "Evolution 🌪 ES5 ⏳ES7",
-    "link": "https://webdevjourney.hashnode.dev/evolution-es5-es7",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript for Making API Calls",
-    "link": "https://shittuolumide.hashnode.dev/javascript-for-making-api-calls",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Demystifying Heroku & Express Server Deployment",
-    "link": "https://jimboslice.hashnode.dev/demystifying-heroku-and-express-server-deployment",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a Markdown Blog Powered by Next.js in Under an Hour",
-    "link": "https://openreplay.hashnode.dev/creating-a-markdown-blog-powered-by-nextjs-in-under-an-hour",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating stars using JavaScript",
-    "link": "https://blog.nicm42.co.uk/creating-stars-using-javascript",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How I created a simple NPM package with basic email templates",
-    "link": "https://coding-philosophy.hashnode.dev/how-i-created-a-simple-npm-package-with-basic-email-templates",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Props Explained",
-    "link": "https://evansblog.hashnode.dev/react-props-explained",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
     "title": "Getting Started with TailwindCSS",
     "link": "https://tijan.hashnode.dev/getting-started-with-tailwindcss",
     "date": "1/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Evolution 🌪 ES5 ⏳ES7",
-    "link": "https://webdevjourney.hashnode.dev/evolution-es5-es7",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript for Making API Calls",
-    "link": "https://shittuolumide.hashnode.dev/javascript-for-making-api-calls",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Demystifying Heroku & Express Server Deployment",
-    "link": "https://jimboslice.hashnode.dev/demystifying-heroku-and-express-server-deployment",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a Markdown Blog Powered by Next.js in Under an Hour",
-    "link": "https://openreplay.hashnode.dev/creating-a-markdown-blog-powered-by-nextjs-in-under-an-hour",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating stars using JavaScript",
-    "link": "https://blog.nicm42.co.uk/creating-stars-using-javascript",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How I created a simple NPM package with basic email templates",
-    "link": "https://coding-philosophy.hashnode.dev/how-i-created-a-simple-npm-package-with-basic-email-templates",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Props Explained",
-    "link": "https://evansblog.hashnode.dev/react-props-explained",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
     "title": "Getting Started with TailwindCSS",
     "link": "https://tijan.hashnode.dev/getting-started-with-tailwindcss",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Evolution 🌪 ES5 ⏳ES7",
-    "link": "https://webdevjourney.hashnode.dev/evolution-es5-es7",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript for Making API Calls",
-    "link": "https://shittuolumide.hashnode.dev/javascript-for-making-api-calls",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Demystifying Heroku & Express Server Deployment",
-    "link": "https://jimboslice.hashnode.dev/demystifying-heroku-and-express-server-deployment",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a Markdown Blog Powered by Next.js in Under an Hour",
-    "link": "https://openreplay.hashnode.dev/creating-a-markdown-blog-powered-by-nextjs-in-under-an-hour",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating stars using JavaScript",
-    "link": "https://blog.nicm42.co.uk/creating-stars-using-javascript",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How I created a simple NPM package with basic email templates",
-    "link": "https://coding-philosophy.hashnode.dev/how-i-created-a-simple-npm-package-with-basic-email-templates",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Props Explained",
-    "link": "https://evansblog.hashnode.dev/react-props-explained",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Getting Started with TailwindCSS",
-    "link": "https://tijan.hashnode.dev/getting-started-with-tailwindcss",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Evolution 🌪 ES5 ⏳ES7",
-    "link": "https://webdevjourney.hashnode.dev/evolution-es5-es7",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript for Making API Calls",
-    "link": "https://shittuolumide.hashnode.dev/javascript-for-making-api-calls",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Demystifying Heroku & Express Server Deployment",
-    "link": "https://jimboslice.hashnode.dev/demystifying-heroku-and-express-server-deployment",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a Markdown Blog Powered by Next.js in Under an Hour",
-    "link": "https://openreplay.hashnode.dev/creating-a-markdown-blog-powered-by-nextjs-in-under-an-hour",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating stars using JavaScript",
-    "link": "https://blog.nicm42.co.uk/creating-stars-using-javascript",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How I created a simple NPM package with basic email templates",
-    "link": "https://coding-philosophy.hashnode.dev/how-i-created-a-simple-npm-package-with-basic-email-templates",
-    "date": "1/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Props Explained",
-    "link": "https://evansblog.hashnode.dev/react-props-explained",
     "date": "1/23/2022",
     "site": "hashnode"
   },
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -1023,14 +1053,14 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
@@ -1070,7 +1100,7 @@
   {
     "title": "Tools And Practices To Speed Up The Vue.js Development Process",
     "link": "https://www.smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/8/2021",
     "site": "smashingmagazine"
   },
@@ -1118,7 +1148,7 @@
   {
     "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
     "link": "https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "6/7/2021",
     "site": "smashingmagazine"
   },
@@ -1262,63 +1292,33 @@
     "site": "smashingmagazine"
   },
   {
-    "title": "Got App? Got Data? Here’s how to store data to MongoDB in a Node / Express App",
-    "link": "https://dev.to/ratracegrad/got-app-got-data-heres-how-to-store-data-to-mongodb-in-a-node-express-app-1440",
-    "date": "2/15/2021",
+    "title": "Tutorial: Javascript statement, syntax and comments",
+    "link": "https://dev.to/devwares/tutorial-javascript-statement-syntax-and-comments-1n87",
+    "date": "1/10/2021",
     "site": "dev.to"
   },
   {
-    "title": "Got App? Got Data? Here’s how to store data to MongoDB in a Node / Express App",
-    "link": "https://dev.to/ratracegrad/got-app-got-data-heres-how-to-store-data-to-mongodb-in-a-node-express-app-1440",
-    "date": "2/15/2021",
+    "title": "Tutorial: Javascript statement, syntax and comments",
+    "link": "https://dev.to/devwares/tutorial-javascript-statement-syntax-and-comments-1n87",
+    "date": "1/10/2021",
     "site": "dev.to"
   },
   {
-    "title": "Got App? Got Data? Here’s how to store data to MongoDB in a Node / Express App",
-    "link": "https://dev.to/ratracegrad/got-app-got-data-heres-how-to-store-data-to-mongodb-in-a-node-express-app-1440",
-    "date": "2/15/2021",
+    "title": "Tutorial: Javascript statement, syntax and comments",
+    "link": "https://dev.to/devwares/tutorial-javascript-statement-syntax-and-comments-1n87",
+    "date": "1/10/2021",
     "site": "dev.to"
   },
   {
-    "title": "Got App? Got Data? Here’s how to store data to MongoDB in a Node / Express App",
-    "link": "https://dev.to/ratracegrad/got-app-got-data-heres-how-to-store-data-to-mongodb-in-a-node-express-app-1440",
-    "date": "2/15/2021",
+    "title": "Tutorial: Javascript statement, syntax and comments",
+    "link": "https://dev.to/devwares/tutorial-javascript-statement-syntax-and-comments-1n87",
+    "date": "1/10/2021",
     "site": "dev.to"
   },
   {
-    "title": "Got App? Got Data? Here’s how to store data to MongoDB in a Node / Express App",
-    "link": "https://dev.to/ratracegrad/got-app-got-data-heres-how-to-store-data-to-mongodb-in-a-node-express-app-1440",
-    "date": "2/15/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Authentication to a Vue App Using Auth0",
-    "link": "https://dev.to/ratracegrad/how-to-add-authentication-to-a-vue-app-using-auth0-1a4a",
-    "date": "12/31/2020",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Authentication to a Vue App Using Auth0",
-    "link": "https://dev.to/ratracegrad/how-to-add-authentication-to-a-vue-app-using-auth0-1a4a",
-    "date": "12/31/2020",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Authentication to a Vue App Using Auth0",
-    "link": "https://dev.to/ratracegrad/how-to-add-authentication-to-a-vue-app-using-auth0-1a4a",
-    "date": "12/31/2020",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Authentication to a Vue App Using Auth0",
-    "link": "https://dev.to/ratracegrad/how-to-add-authentication-to-a-vue-app-using-auth0-1a4a",
-    "date": "12/31/2020",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Authentication to a Vue App Using Auth0",
-    "link": "https://dev.to/ratracegrad/how-to-add-authentication-to-a-vue-app-using-auth0-1a4a",
-    "date": "12/31/2020",
+    "title": "Tutorial: Javascript statement, syntax and comments",
+    "link": "https://dev.to/devwares/tutorial-javascript-statement-syntax-and-comments-1n87",
+    "date": "1/10/2021",
     "site": "dev.to"
   },
   {
