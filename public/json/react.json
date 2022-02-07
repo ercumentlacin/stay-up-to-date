@@ -1,422 +1,452 @@
 [
   {
-    "title": "An Introduction To NextJS",
-    "link": "https://dev.to/rlangvad/an-introduction-to-nextjs-49ga",
+    "title": "React Hooks: useContext()",
+    "link": "https://dev.to/fig781/react-hooks-usecontext-167h",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making a prettier Webpage for Nasa's Astronomy API",
+    "link": "https://dev.to/h12m54am/making-a-prettier-webpage-for-nasas-astronomy-api-1ob6",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I structure my Next JS Projects",
+    "link": "https://dev.to/kranurag/how-i-structure-my-next-js-projects-2m5h",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add comment system to your static site with Giscus",
+    "link": "https://dev.to/melvnl/add-comment-system-to-your-static-site-with-giscus-482o",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automatically refetching with React Query",
+    "link": "https://dev.to/dailydevtips1/automatically-refetching-with-react-query-1l0f",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Virtual DOM, Diffing, and Keys",
+    "link": "https://dev.to/smhaley/react-virtual-dom-diffing-and-keys-119g",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ECMA version",
+    "link": "https://dev.to/arunbm123/ecma-version-4a19",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Passing Data Between React Components",
+    "link": "https://dev.to/mkienbus/passing-data-between-react-components-5c8l",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks: useContext()",
+    "link": "https://dev.to/fig781/react-hooks-usecontext-167h",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making a prettier Webpage for Nasa's Astronomy API",
+    "link": "https://dev.to/h12m54am/making-a-prettier-webpage-for-nasas-astronomy-api-1ob6",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I structure my Next JS Projects",
+    "link": "https://dev.to/kranurag/how-i-structure-my-next-js-projects-2m5h",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add comment system to your static site with Giscus",
+    "link": "https://dev.to/melvnl/add-comment-system-to-your-static-site-with-giscus-482o",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automatically refetching with React Query",
+    "link": "https://dev.to/dailydevtips1/automatically-refetching-with-react-query-1l0f",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Virtual DOM, Diffing, and Keys",
+    "link": "https://dev.to/smhaley/react-virtual-dom-diffing-and-keys-119g",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ECMA version",
+    "link": "https://dev.to/arunbm123/ecma-version-4a19",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Passing Data Between React Components",
+    "link": "https://dev.to/mkienbus/passing-data-between-react-components-5c8l",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks: useContext()",
+    "link": "https://dev.to/fig781/react-hooks-usecontext-167h",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making a prettier Webpage for Nasa's Astronomy API",
+    "link": "https://dev.to/h12m54am/making-a-prettier-webpage-for-nasas-astronomy-api-1ob6",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I structure my Next JS Projects",
+    "link": "https://dev.to/kranurag/how-i-structure-my-next-js-projects-2m5h",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add comment system to your static site with Giscus",
+    "link": "https://dev.to/melvnl/add-comment-system-to-your-static-site-with-giscus-482o",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automatically refetching with React Query",
+    "link": "https://dev.to/dailydevtips1/automatically-refetching-with-react-query-1l0f",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Virtual DOM, Diffing, and Keys",
+    "link": "https://dev.to/smhaley/react-virtual-dom-diffing-and-keys-119g",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ECMA version",
+    "link": "https://dev.to/arunbm123/ecma-version-4a19",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Passing Data Between React Components",
+    "link": "https://dev.to/mkienbus/passing-data-between-react-components-5c8l",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks: useContext()",
+    "link": "https://dev.to/fig781/react-hooks-usecontext-167h",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making a prettier Webpage for Nasa's Astronomy API",
+    "link": "https://dev.to/h12m54am/making-a-prettier-webpage-for-nasas-astronomy-api-1ob6",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I structure my Next JS Projects",
+    "link": "https://dev.to/kranurag/how-i-structure-my-next-js-projects-2m5h",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add comment system to your static site with Giscus",
+    "link": "https://dev.to/melvnl/add-comment-system-to-your-static-site-with-giscus-482o",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automatically refetching with React Query",
+    "link": "https://dev.to/dailydevtips1/automatically-refetching-with-react-query-1l0f",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Virtual DOM, Diffing, and Keys",
+    "link": "https://dev.to/smhaley/react-virtual-dom-diffing-and-keys-119g",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ECMA version",
+    "link": "https://dev.to/arunbm123/ecma-version-4a19",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Passing Data Between React Components",
+    "link": "https://dev.to/mkienbus/passing-data-between-react-components-5c8l",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks: useContext()",
+    "link": "https://dev.to/fig781/react-hooks-usecontext-167h",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making a prettier Webpage for Nasa's Astronomy API",
+    "link": "https://dev.to/h12m54am/making-a-prettier-webpage-for-nasas-astronomy-api-1ob6",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I structure my Next JS Projects",
+    "link": "https://dev.to/kranurag/how-i-structure-my-next-js-projects-2m5h",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add comment system to your static site with Giscus",
+    "link": "https://dev.to/melvnl/add-comment-system-to-your-static-site-with-giscus-482o",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automatically refetching with React Query",
+    "link": "https://dev.to/dailydevtips1/automatically-refetching-with-react-query-1l0f",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Virtual DOM, Diffing, and Keys",
+    "link": "https://dev.to/smhaley/react-virtual-dom-diffing-and-keys-119g",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ECMA version",
+    "link": "https://dev.to/arunbm123/ecma-version-4a19",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Passing Data Between React Components",
+    "link": "https://dev.to/mkienbus/passing-data-between-react-components-5c8l",
+    "date": "2/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keystone.js custom fields: text with autocomplete",
+    "link": "https://dev.to/eabald/keystonejs-custom-fields-text-with-autocomplete-3d5e",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Make your life easier with React Query DevTools",
-    "link": "https://dev.to/dailydevtips1/make-your-life-easier-with-react-query-devtools-486",
+    "title": "NPM dependencies vs dev dependencies, how to decide?",
+    "link": "https://dev.to/eljeffe/npm-dependencies-vs-dev-dependencies-how-to-decide-38bb",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "js❤️ - Cierre",
-    "link": "https://dev.to/jacarma/js-cierre-2kfa",
+    "title": "Understanding react context",
+    "link": "https://dev.to/alverd04/understanding-react-context-5686",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How I made a Desktop Environment in the Browser (Part 1: Window Manager)",
-    "link": "https://dev.to/dustinbrett/how-i-made-a-desktop-environment-in-the-browser-part-1-window-manager-197k",
+    "title": "Flask-react upload a list of images",
+    "link": "https://dev.to/ouabi1999/flask-react-upload-a-list-of-imges-2kkk",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to gradually migrate a large React codebase to TypeScript",
-    "link": "https://dev.to/giovanniantonaccio/how-to-gradually-migrate-a-large-react-codebase-to-typescript-2g95",
+    "title": "useReducer Hook to the rescue!",
+    "link": "https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Or Angular – Which Is Better? It Depends.",
-    "link": "https://dev.to/davidnnussbaum/react-or-angular-which-is-better-it-depends-2pkb",
+    "title": "3 things I learned by building a simple react-redux application",
+    "link": "https://dev.to/vnaydev/3-things-i-learned-by-building-a-simple-react-redux-application-38mp",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "An Introduction To NextJS",
-    "link": "https://dev.to/rlangvad/an-introduction-to-nextjs-49ga",
+    "title": "Reflecting on React",
+    "link": "https://dev.to/mailauki/reflecting-on-react-511h",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Make your life easier with React Query DevTools",
-    "link": "https://dev.to/dailydevtips1/make-your-life-easier-with-react-query-devtools-486",
+    "title": "Keystone.js custom fields: text with autocomplete",
+    "link": "https://dev.to/eabald/keystonejs-custom-fields-text-with-autocomplete-3d5e",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "js❤️ - Cierre",
-    "link": "https://dev.to/jacarma/js-cierre-2kfa",
+    "title": "NPM dependencies vs dev dependencies, how to decide?",
+    "link": "https://dev.to/eljeffe/npm-dependencies-vs-dev-dependencies-how-to-decide-38bb",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How I made a Desktop Environment in the Browser (Part 1: Window Manager)",
-    "link": "https://dev.to/dustinbrett/how-i-made-a-desktop-environment-in-the-browser-part-1-window-manager-197k",
+    "title": "Understanding react context",
+    "link": "https://dev.to/alverd04/understanding-react-context-5686",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to gradually migrate a large React codebase to TypeScript",
-    "link": "https://dev.to/giovanniantonaccio/how-to-gradually-migrate-a-large-react-codebase-to-typescript-2g95",
+    "title": "Flask-react upload a list of images",
+    "link": "https://dev.to/ouabi1999/flask-react-upload-a-list-of-imges-2kkk",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Or Angular – Which Is Better? It Depends.",
-    "link": "https://dev.to/davidnnussbaum/react-or-angular-which-is-better-it-depends-2pkb",
+    "title": "useReducer Hook to the rescue!",
+    "link": "https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "An Introduction To NextJS",
-    "link": "https://dev.to/rlangvad/an-introduction-to-nextjs-49ga",
+    "title": "3 things I learned by building a simple react-redux application",
+    "link": "https://dev.to/vnaydev/3-things-i-learned-by-building-a-simple-react-redux-application-38mp",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Make your life easier with React Query DevTools",
-    "link": "https://dev.to/dailydevtips1/make-your-life-easier-with-react-query-devtools-486",
+    "title": "Reflecting on React",
+    "link": "https://dev.to/mailauki/reflecting-on-react-511h",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "js❤️ - Cierre",
-    "link": "https://dev.to/jacarma/js-cierre-2kfa",
+    "title": "Keystone.js custom fields: text with autocomplete",
+    "link": "https://dev.to/eabald/keystonejs-custom-fields-text-with-autocomplete-3d5e",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How I made a Desktop Environment in the Browser (Part 1: Window Manager)",
-    "link": "https://dev.to/dustinbrett/how-i-made-a-desktop-environment-in-the-browser-part-1-window-manager-197k",
+    "title": "NPM dependencies vs dev dependencies, how to decide?",
+    "link": "https://dev.to/eljeffe/npm-dependencies-vs-dev-dependencies-how-to-decide-38bb",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to gradually migrate a large React codebase to TypeScript",
-    "link": "https://dev.to/giovanniantonaccio/how-to-gradually-migrate-a-large-react-codebase-to-typescript-2g95",
+    "title": "Understanding react context",
+    "link": "https://dev.to/alverd04/understanding-react-context-5686",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Or Angular – Which Is Better? It Depends.",
-    "link": "https://dev.to/davidnnussbaum/react-or-angular-which-is-better-it-depends-2pkb",
+    "title": "Flask-react upload a list of images",
+    "link": "https://dev.to/ouabi1999/flask-react-upload-a-list-of-imges-2kkk",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "An Introduction To NextJS",
-    "link": "https://dev.to/rlangvad/an-introduction-to-nextjs-49ga",
+    "title": "useReducer Hook to the rescue!",
+    "link": "https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Make your life easier with React Query DevTools",
-    "link": "https://dev.to/dailydevtips1/make-your-life-easier-with-react-query-devtools-486",
+    "title": "3 things I learned by building a simple react-redux application",
+    "link": "https://dev.to/vnaydev/3-things-i-learned-by-building-a-simple-react-redux-application-38mp",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "js❤️ - Cierre",
-    "link": "https://dev.to/jacarma/js-cierre-2kfa",
+    "title": "Reflecting on React",
+    "link": "https://dev.to/mailauki/reflecting-on-react-511h",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How I made a Desktop Environment in the Browser (Part 1: Window Manager)",
-    "link": "https://dev.to/dustinbrett/how-i-made-a-desktop-environment-in-the-browser-part-1-window-manager-197k",
+    "title": "Keystone.js custom fields: text with autocomplete",
+    "link": "https://dev.to/eabald/keystonejs-custom-fields-text-with-autocomplete-3d5e",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to gradually migrate a large React codebase to TypeScript",
-    "link": "https://dev.to/giovanniantonaccio/how-to-gradually-migrate-a-large-react-codebase-to-typescript-2g95",
+    "title": "NPM dependencies vs dev dependencies, how to decide?",
+    "link": "https://dev.to/eljeffe/npm-dependencies-vs-dev-dependencies-how-to-decide-38bb",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Or Angular – Which Is Better? It Depends.",
-    "link": "https://dev.to/davidnnussbaum/react-or-angular-which-is-better-it-depends-2pkb",
+    "title": "Understanding react context",
+    "link": "https://dev.to/alverd04/understanding-react-context-5686",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "An Introduction To NextJS",
-    "link": "https://dev.to/rlangvad/an-introduction-to-nextjs-49ga",
+    "title": "Flask-react upload a list of images",
+    "link": "https://dev.to/ouabi1999/flask-react-upload-a-list-of-imges-2kkk",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Make your life easier with React Query DevTools",
-    "link": "https://dev.to/dailydevtips1/make-your-life-easier-with-react-query-devtools-486",
+    "title": "useReducer Hook to the rescue!",
+    "link": "https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "js❤️ - Cierre",
-    "link": "https://dev.to/jacarma/js-cierre-2kfa",
+    "title": "3 things I learned by building a simple react-redux application",
+    "link": "https://dev.to/vnaydev/3-things-i-learned-by-building-a-simple-react-redux-application-38mp",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How I made a Desktop Environment in the Browser (Part 1: Window Manager)",
-    "link": "https://dev.to/dustinbrett/how-i-made-a-desktop-environment-in-the-browser-part-1-window-manager-197k",
+    "title": "Reflecting on React",
+    "link": "https://dev.to/mailauki/reflecting-on-react-511h",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to gradually migrate a large React codebase to TypeScript",
-    "link": "https://dev.to/giovanniantonaccio/how-to-gradually-migrate-a-large-react-codebase-to-typescript-2g95",
+    "title": "Keystone.js custom fields: text with autocomplete",
+    "link": "https://dev.to/eabald/keystonejs-custom-fields-text-with-autocomplete-3d5e",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Or Angular – Which Is Better? It Depends.",
-    "link": "https://dev.to/davidnnussbaum/react-or-angular-which-is-better-it-depends-2pkb",
+    "title": "NPM dependencies vs dev dependencies, how to decide?",
+    "link": "https://dev.to/eljeffe/npm-dependencies-vs-dev-dependencies-how-to-decide-38bb",
     "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Using Nextjs with Sass the Angular way!",
-    "link": "https://dev.to/justgeek/using-nextjs-with-sass-the-angular-way-3f7l",
-    "date": "2/5/2022",
+    "title": "Understanding react context",
+    "link": "https://dev.to/alverd04/understanding-react-context-5686",
+    "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to turn on autoplay for Swiper React",
-    "link": "https://dev.to/timo_ernst/how-to-turn-on-autoplay-for-swiper-react-enable-javascript-carousel-tutorial-34lk",
-    "date": "2/5/2022",
+    "title": "Flask-react upload a list of images",
+    "link": "https://dev.to/ouabi1999/flask-react-upload-a-list-of-imges-2kkk",
+    "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to test current time with jest and react-testing-library",
-    "link": "https://dev.to/joannaotmianowska/how-to-test-current-time-with-jest-and-react-testing-library-a12",
-    "date": "2/5/2022",
+    "title": "useReducer Hook to the rescue!",
+    "link": "https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48",
+    "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Expanding cards with multiple buttons using a single state ",
-    "link": "https://dev.to/alxanderapollo/expanding-cards-with-multiple-buttons-using-a-single-state-3blb",
-    "date": "2/5/2022",
+    "title": "3 things I learned by building a simple react-redux application",
+    "link": "https://dev.to/vnaydev/3-things-i-learned-by-building-a-simple-react-redux-application-38mp",
+    "date": "2/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Achieving an Organized State in your React App with Overmind (Basic)",
-    "link": "https://dev.to/sutt0n/achieving-an-organized-state-in-your-react-app-with-overmind-basic-1371",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basics of React server-side rendering with Express.js",
-    "link": "https://dev.to/juhanakristian/basics-of-react-server-side-rendering-with-expressjs-phd",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basics of React – Part 1",
-    "link": "https://dev.to/sobhandash/basics-of-react-part-1-2j67",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Full stack java with react",
-    "link": "https://dev.to/vermaprince123/full-stack-java-with-react-3e7o",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Nextjs with Sass the Angular way!",
-    "link": "https://dev.to/justgeek/using-nextjs-with-sass-the-angular-way-3f7l",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to turn on autoplay for Swiper React",
-    "link": "https://dev.to/timo_ernst/how-to-turn-on-autoplay-for-swiper-react-enable-javascript-carousel-tutorial-34lk",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to test current time with jest and react-testing-library",
-    "link": "https://dev.to/joannaotmianowska/how-to-test-current-time-with-jest-and-react-testing-library-a12",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expanding cards with multiple buttons using a single state ",
-    "link": "https://dev.to/alxanderapollo/expanding-cards-with-multiple-buttons-using-a-single-state-3blb",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Achieving an Organized State in your React App with Overmind (Basic)",
-    "link": "https://dev.to/sutt0n/achieving-an-organized-state-in-your-react-app-with-overmind-basic-1371",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basics of React server-side rendering with Express.js",
-    "link": "https://dev.to/juhanakristian/basics-of-react-server-side-rendering-with-expressjs-phd",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basics of React – Part 1",
-    "link": "https://dev.to/sobhandash/basics-of-react-part-1-2j67",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Full stack java with react",
-    "link": "https://dev.to/vermaprince123/full-stack-java-with-react-3e7o",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Nextjs with Sass the Angular way!",
-    "link": "https://dev.to/justgeek/using-nextjs-with-sass-the-angular-way-3f7l",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to turn on autoplay for Swiper React",
-    "link": "https://dev.to/timo_ernst/how-to-turn-on-autoplay-for-swiper-react-enable-javascript-carousel-tutorial-34lk",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to test current time with jest and react-testing-library",
-    "link": "https://dev.to/joannaotmianowska/how-to-test-current-time-with-jest-and-react-testing-library-a12",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expanding cards with multiple buttons using a single state ",
-    "link": "https://dev.to/alxanderapollo/expanding-cards-with-multiple-buttons-using-a-single-state-3blb",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Achieving an Organized State in your React App with Overmind (Basic)",
-    "link": "https://dev.to/sutt0n/achieving-an-organized-state-in-your-react-app-with-overmind-basic-1371",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basics of React server-side rendering with Express.js",
-    "link": "https://dev.to/juhanakristian/basics-of-react-server-side-rendering-with-expressjs-phd",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basics of React – Part 1",
-    "link": "https://dev.to/sobhandash/basics-of-react-part-1-2j67",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Full stack java with react",
-    "link": "https://dev.to/vermaprince123/full-stack-java-with-react-3e7o",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Nextjs with Sass the Angular way!",
-    "link": "https://dev.to/justgeek/using-nextjs-with-sass-the-angular-way-3f7l",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to turn on autoplay for Swiper React",
-    "link": "https://dev.to/timo_ernst/how-to-turn-on-autoplay-for-swiper-react-enable-javascript-carousel-tutorial-34lk",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to test current time with jest and react-testing-library",
-    "link": "https://dev.to/joannaotmianowska/how-to-test-current-time-with-jest-and-react-testing-library-a12",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expanding cards with multiple buttons using a single state ",
-    "link": "https://dev.to/alxanderapollo/expanding-cards-with-multiple-buttons-using-a-single-state-3blb",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Achieving an Organized State in your React App with Overmind (Basic)",
-    "link": "https://dev.to/sutt0n/achieving-an-organized-state-in-your-react-app-with-overmind-basic-1371",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basics of React server-side rendering with Express.js",
-    "link": "https://dev.to/juhanakristian/basics-of-react-server-side-rendering-with-expressjs-phd",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basics of React – Part 1",
-    "link": "https://dev.to/sobhandash/basics-of-react-part-1-2j67",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Full stack java with react",
-    "link": "https://dev.to/vermaprince123/full-stack-java-with-react-3e7o",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Nextjs with Sass the Angular way!",
-    "link": "https://dev.to/justgeek/using-nextjs-with-sass-the-angular-way-3f7l",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to turn on autoplay for Swiper React",
-    "link": "https://dev.to/timo_ernst/how-to-turn-on-autoplay-for-swiper-react-enable-javascript-carousel-tutorial-34lk",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to test current time with jest and react-testing-library",
-    "link": "https://dev.to/joannaotmianowska/how-to-test-current-time-with-jest-and-react-testing-library-a12",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expanding cards with multiple buttons using a single state ",
-    "link": "https://dev.to/alxanderapollo/expanding-cards-with-multiple-buttons-using-a-single-state-3blb",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Achieving an Organized State in your React App with Overmind (Basic)",
-    "link": "https://dev.to/sutt0n/achieving-an-organized-state-in-your-react-app-with-overmind-basic-1371",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basics of React server-side rendering with Express.js",
-    "link": "https://dev.to/juhanakristian/basics-of-react-server-side-rendering-with-expressjs-phd",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basics of React – Part 1",
-    "link": "https://dev.to/sobhandash/basics-of-react-part-1-2j67",
-    "date": "2/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Full stack java with react",
-    "link": "https://dev.to/vermaprince123/full-stack-java-with-react-3e7o",
-    "date": "2/5/2022",
+    "title": "Reflecting on React",
+    "link": "https://dev.to/mailauki/reflecting-on-react-511h",
+    "date": "2/6/2022",
     "site": "dev.to"
   },
   {
@@ -425,36 +455,6 @@
     "reading_time": "16 min read",
     "date": "2/4/2022",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "10 Must-Know Patterns for Writing Clean Code with React and TypeScript✨🛀",
-    "link": "https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g",
-    "date": "2/4/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Must-Know Patterns for Writing Clean Code with React and TypeScript✨🛀",
-    "link": "https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g",
-    "date": "2/4/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Must-Know Patterns for Writing Clean Code with React and TypeScript✨🛀",
-    "link": "https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g",
-    "date": "2/4/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Must-Know Patterns for Writing Clean Code with React and TypeScript✨🛀",
-    "link": "https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g",
-    "date": "2/4/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Must-Know Patterns for Writing Clean Code with React and TypeScript✨🛀",
-    "link": "https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g",
-    "date": "2/4/2022",
-    "site": "dev.to"
   },
   {
     "title": "User Registration and Auth Using Firebase and React",
@@ -570,7 +570,7 @@
   {
     "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
     "link": "https://www.smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "9/9/2021",
     "site": "smashingmagazine"
   },
@@ -614,7 +614,7 @@
   {
     "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
     "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "8/11/2021",
     "site": "smashingmagazine"
   },
@@ -740,7 +740,7 @@
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   },
@@ -842,7 +842,7 @@
   {
     "title": "Authenticating React Apps With Auth0",
     "link": "https://www.smashingmagazine.com/2020/11/authenticating-react-apps-auth0/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "11/11/2020",
     "site": "smashingmagazine"
   },
@@ -870,7 +870,7 @@
   {
     "title": "How To Build A GraphQL Server Using Next.js API Routes",
     "link": "https://www.smashingmagazine.com/2020/10/graphql-server-next-javascript-api-routes/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "10/29/2020",
     "site": "smashingmagazine"
   },
@@ -905,7 +905,7 @@
   {
     "title": "React Form Validation With Formik And Yup",
     "link": "https://www.smashingmagazine.com/2020/10/react-validation-formik-yup/",
-    "reading_time": "13 min read",
+    "reading_time": "12 min read",
     "date": "10/12/2020",
     "site": "smashingmagazine"
   },
@@ -919,7 +919,7 @@
   {
     "title": "Unit Testing In React Native Applications",
     "link": "https://www.smashingmagazine.com/2020/09/unit-testing-react-native-applications/",
-    "reading_time": "13 min read",
+    "reading_time": "12 min read",
     "date": "9/29/2020",
     "site": "smashingmagazine"
   },
