@@ -1,49 +1,469 @@
 [
   {
-    "title": "A simple front-end for your MSSQL datasource",
-    "link": "https://undefined.hashnode.dev/a-simple-front-end-for-your-mssql-datasource",
+    "title": "Make your Navbar responsive with React, Tailwind Css and react-router-dom to link our page",
+    "link": "https://jonuel.hashnode.dev/make-your-navbar-responsive-with-react-tailwind-css-and-react-router-dom-to-link-our-page",
+    "date": "2/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to take a middle paragraph",
+    "link": "https://dapthehuman.hashnode.dev/how-to-take-a-middle-paragraph",
+    "date": "2/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Make you Custom Hooks in React!",
+    "link": "https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Swapping 2 Numbers In More Than 2 Ways.",
+    "link": "https://dev.to/ishanbagchi/swapping-2-numbers-in-more-than-2-ways-4og0",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I suck at WORDLE, so I solved it with JS and Uilicious",
+    "link": "https://dev.to/uilicious/i-suck-at-wordle-so-i-solved-it-with-js-and-uilicious-4hfc",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 3 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1.Two-Sum(Easy/JavaScript)",
+    "link": "https://dev.to/corndog_com567/day-3-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1two-sumeasyjavascript-4o6",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary: 153. Find Minimum in Rotated Sorted Array [Binary Search]",
+    "link": "https://dev.to/kevin074/leetcode-diary-153-find-minimum-in-rotated-sorted-array-binary-search-4ao8",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This is How I Switch from Angular to React",
+    "link": "https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make The Whole Picture Link.",
+    "link": "https://dev.to/anreizm/make-the-whole-picture-link-f84",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leanbean - Fat Loss Results, Price, Ingredients And Side Effects",
+    "link": "https://dev.to/leanbea80474390/leanbean-fat-loss-results-price-ingredients-and-side-effects-fdm",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tilt on hover using Vanilla-tilt.js",
+    "link": "https://dev.to/yashkumat/tilt-on-hover-using-vanilla-tiltjs-23n0",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Global State Management in Svelte",
+    "link": "https://dev.to/hideckies/global-state-management-in-svelte-109d",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comparison between fetch and axios",
+    "link": "https://dev.to/lada496/comparison-between-fetch-and-axios-4np2",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make your Navbar responsive with React, Tailwind Css and react-router-dom to link our page",
+    "link": "https://jonuel.hashnode.dev/make-your-navbar-responsive-with-react-tailwind-css-and-react-router-dom-to-link-our-page",
+    "date": "2/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to take a middle paragraph",
+    "link": "https://dapthehuman.hashnode.dev/how-to-take-a-middle-paragraph",
+    "date": "2/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Make you Custom Hooks in React!",
+    "link": "https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Swapping 2 Numbers In More Than 2 Ways.",
+    "link": "https://dev.to/ishanbagchi/swapping-2-numbers-in-more-than-2-ways-4og0",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I suck at WORDLE, so I solved it with JS and Uilicious",
+    "link": "https://dev.to/uilicious/i-suck-at-wordle-so-i-solved-it-with-js-and-uilicious-4hfc",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 3 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1.Two-Sum(Easy/JavaScript)",
+    "link": "https://dev.to/corndog_com567/day-3-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1two-sumeasyjavascript-4o6",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary: 153. Find Minimum in Rotated Sorted Array [Binary Search]",
+    "link": "https://dev.to/kevin074/leetcode-diary-153-find-minimum-in-rotated-sorted-array-binary-search-4ao8",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This is How I Switch from Angular to React",
+    "link": "https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make The Whole Picture Link.",
+    "link": "https://dev.to/anreizm/make-the-whole-picture-link-f84",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leanbean - Fat Loss Results, Price, Ingredients And Side Effects",
+    "link": "https://dev.to/leanbea80474390/leanbean-fat-loss-results-price-ingredients-and-side-effects-fdm",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tilt on hover using Vanilla-tilt.js",
+    "link": "https://dev.to/yashkumat/tilt-on-hover-using-vanilla-tiltjs-23n0",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Global State Management in Svelte",
+    "link": "https://dev.to/hideckies/global-state-management-in-svelte-109d",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comparison between fetch and axios",
+    "link": "https://dev.to/lada496/comparison-between-fetch-and-axios-4np2",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make your Navbar responsive with React, Tailwind Css and react-router-dom to link our page",
+    "link": "https://jonuel.hashnode.dev/make-your-navbar-responsive-with-react-tailwind-css-and-react-router-dom-to-link-our-page",
+    "date": "2/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to take a middle paragraph",
+    "link": "https://dapthehuman.hashnode.dev/how-to-take-a-middle-paragraph",
+    "date": "2/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Make you Custom Hooks in React!",
+    "link": "https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Swapping 2 Numbers In More Than 2 Ways.",
+    "link": "https://dev.to/ishanbagchi/swapping-2-numbers-in-more-than-2-ways-4og0",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I suck at WORDLE, so I solved it with JS and Uilicious",
+    "link": "https://dev.to/uilicious/i-suck-at-wordle-so-i-solved-it-with-js-and-uilicious-4hfc",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 3 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1.Two-Sum(Easy/JavaScript)",
+    "link": "https://dev.to/corndog_com567/day-3-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1two-sumeasyjavascript-4o6",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary: 153. Find Minimum in Rotated Sorted Array [Binary Search]",
+    "link": "https://dev.to/kevin074/leetcode-diary-153-find-minimum-in-rotated-sorted-array-binary-search-4ao8",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This is How I Switch from Angular to React",
+    "link": "https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make The Whole Picture Link.",
+    "link": "https://dev.to/anreizm/make-the-whole-picture-link-f84",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leanbean - Fat Loss Results, Price, Ingredients And Side Effects",
+    "link": "https://dev.to/leanbea80474390/leanbean-fat-loss-results-price-ingredients-and-side-effects-fdm",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tilt on hover using Vanilla-tilt.js",
+    "link": "https://dev.to/yashkumat/tilt-on-hover-using-vanilla-tiltjs-23n0",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Global State Management in Svelte",
+    "link": "https://dev.to/hideckies/global-state-management-in-svelte-109d",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comparison between fetch and axios",
+    "link": "https://dev.to/lada496/comparison-between-fetch-and-axios-4np2",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make your Navbar responsive with React, Tailwind Css and react-router-dom to link our page",
+    "link": "https://jonuel.hashnode.dev/make-your-navbar-responsive-with-react-tailwind-css-and-react-router-dom-to-link-our-page",
+    "date": "2/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to take a middle paragraph",
+    "link": "https://dapthehuman.hashnode.dev/how-to-take-a-middle-paragraph",
+    "date": "2/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Make you Custom Hooks in React!",
+    "link": "https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Swapping 2 Numbers In More Than 2 Ways.",
+    "link": "https://dev.to/ishanbagchi/swapping-2-numbers-in-more-than-2-ways-4og0",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I suck at WORDLE, so I solved it with JS and Uilicious",
+    "link": "https://dev.to/uilicious/i-suck-at-wordle-so-i-solved-it-with-js-and-uilicious-4hfc",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 3 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1.Two-Sum(Easy/JavaScript)",
+    "link": "https://dev.to/corndog_com567/day-3-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1two-sumeasyjavascript-4o6",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary: 153. Find Minimum in Rotated Sorted Array [Binary Search]",
+    "link": "https://dev.to/kevin074/leetcode-diary-153-find-minimum-in-rotated-sorted-array-binary-search-4ao8",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This is How I Switch from Angular to React",
+    "link": "https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make The Whole Picture Link.",
+    "link": "https://dev.to/anreizm/make-the-whole-picture-link-f84",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leanbean - Fat Loss Results, Price, Ingredients And Side Effects",
+    "link": "https://dev.to/leanbea80474390/leanbean-fat-loss-results-price-ingredients-and-side-effects-fdm",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tilt on hover using Vanilla-tilt.js",
+    "link": "https://dev.to/yashkumat/tilt-on-hover-using-vanilla-tiltjs-23n0",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Global State Management in Svelte",
+    "link": "https://dev.to/hideckies/global-state-management-in-svelte-109d",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comparison between fetch and axios",
+    "link": "https://dev.to/lada496/comparison-between-fetch-and-axios-4np2",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make your Navbar responsive with React, Tailwind Css and react-router-dom to link our page",
+    "link": "https://jonuel.hashnode.dev/make-your-navbar-responsive-with-react-tailwind-css-and-react-router-dom-to-link-our-page",
+    "date": "2/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to take a middle paragraph",
+    "link": "https://dapthehuman.hashnode.dev/how-to-take-a-middle-paragraph",
+    "date": "2/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Make you Custom Hooks in React!",
+    "link": "https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Swapping 2 Numbers In More Than 2 Ways.",
+    "link": "https://dev.to/ishanbagchi/swapping-2-numbers-in-more-than-2-ways-4og0",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I suck at WORDLE, so I solved it with JS and Uilicious",
+    "link": "https://dev.to/uilicious/i-suck-at-wordle-so-i-solved-it-with-js-and-uilicious-4hfc",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 3 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1.Two-Sum(Easy/JavaScript)",
+    "link": "https://dev.to/corndog_com567/day-3-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1two-sumeasyjavascript-4o6",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary: 153. Find Minimum in Rotated Sorted Array [Binary Search]",
+    "link": "https://dev.to/kevin074/leetcode-diary-153-find-minimum-in-rotated-sorted-array-binary-search-4ao8",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This is How I Switch from Angular to React",
+    "link": "https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make The Whole Picture Link.",
+    "link": "https://dev.to/anreizm/make-the-whole-picture-link-f84",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leanbean - Fat Loss Results, Price, Ingredients And Side Effects",
+    "link": "https://dev.to/leanbea80474390/leanbean-fat-loss-results-price-ingredients-and-side-effects-fdm",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tilt on hover using Vanilla-tilt.js",
+    "link": "https://dev.to/yashkumat/tilt-on-hover-using-vanilla-tiltjs-23n0",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Global State Management in Svelte",
+    "link": "https://dev.to/hideckies/global-state-management-in-svelte-109d",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comparison between fetch and axios",
+    "link": "https://dev.to/lada496/comparison-between-fetch-and-axios-4np2",
+    "date": "2/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "9 New React and JavaScript Links for February 2022",
+    "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
+    "date": "2/11/2022",
+    "site": "css-tricks"
+  },
+  {
+    "title": "Using Custom Cursors with Javascript for a Better User Experience",
+    "link": "https://israelmitolu.hashnode.dev/using-custom-cursors-with-javascript-for-a-better-user-experience",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "DevTools TipsDevTools Tips",
-    "link": "https://xiaobo.blog/devtools-tipsdevtools-tips",
+    "title": "Reusable form component in react using React Hook Form 🎣 and Zod 🛡",
+    "link": "https://omkarkulkarni.hashnode.dev/reusable-form-component-in-react-using-react-hook-form-and-zod",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Render State in the User Interface Another Way",
-    "link": "https://magnus.hashnode.dev/render-state-in-the-user-interface-another-way",
+    "title": "Usage of `React.FC` from my experience",
+    "link": "https://krishna-damaraju.hashnode.dev/usage-of-reactfc-from-my-experience",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Render State in the User Interface",
-    "link": "https://magnus.hashnode.dev/render-state-in-the-user-interface",
+    "title": "Map and Filter and a freeCodeCamp Challenge",
+    "link": "https://meliksahakdeniz.com/map-and-filter-and-a-freecodecamp-challenge",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Create a Stateful Component",
-    "link": "https://magnus.hashnode.dev/create-a-stateful-component",
+    "title": "Adding Inline Javascript to a React App",
+    "link": "https://blog.alexhyett.com/inline-javascript-react",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Exploring SvelteKit: A new approach to building Svelte Apps",
-    "link": "https://theafolayan.hashnode.dev/exploring-sveltekit-a-new-approach-to-building-svelte-apps",
+    "title": "Promise Day-Feb 11th- Promises with my Lover JS (JavaScript)",
+    "link": "https://devkeycode.hashnode.dev/promise-day-feb-11th-promises-with-my-lover-javascript",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Review Using Props with Stateless Functional Components",
-    "link": "https://magnus.hashnode.dev/review-using-props-with-stateless-functional-components",
+    "title": "Explore ES 2017 features: javascript",
+    "link": "https://vkglobal.hashnode.dev/explore-es-2017-features-javascript",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Safety precautions",
-    "link": "https://xiaobo.blog/safety-precautions",
+    "title": "8 Ways to Make Your Code Look Cleaner and Better 👀!",
+    "link": "https://arindol.hashnode.dev/8-ways-to-make-your-code-look-cleaner-and-better",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Closure in JavaScript",
+    "link": "https://sahedthought.hashnode.dev/closure-in-javascript",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Hello World!",
+    "link": "https://blog.casperdesign.no/hello-world",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Upload Image with Expo and Firebase Cloud Storage",
+    "link": "https://expofire.hashnode.dev/upload-image-with-expo-and-firebase-cloud-storage",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "30 games you can play to learn to code",
+    "link": "https://geektech.codes/30-games-you-can-play-to-learn-to-code",
     "date": "2/11/2022",
     "site": "hashnode"
   },
@@ -54,104 +474,92 @@
     "site": "dev.to"
   },
   {
-    "title": "Event Bubbling and Delegation in JavaScript for beginners by a beginner.",
-    "link": "https://dev.to/newbiehritick/event-bubbling-and-delegation-in-javascript-for-beginners-by-a-beginner-3m6k",
+    "title": "Javascript Objects",
+    "link": "https://dev.to/collinsonindo/javascript-objects-2gig",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Difference between Node.JS and Javascript",
-    "link": "https://dev.to/mrdanishsaleem/difference-between-nodejs-and-javascript-4nbj",
+    "title": "tsParticles 1.41.0 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-1410-released-3bag",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Vision 20 - Eye Benefits, Price, Reviews And Complaints?",
-    "link": "https://dev.to/vision20price/vision-20-eye-benefits-price-reviews-and-complaints-16lp",
+    "title": "Svelte VS React, which one?",
+    "link": "https://dev.to/dimaodin/svelte-vs-react-which-one-5gif",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Help",
-    "link": "https://dev.to/jam11/help-1di9",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ResizeObserver & UseState",
-    "link": "https://dev.to/bjupfield/resizeobserver-usestate-544k",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Implement Camera Access from Web Browsers in 5 Minutes",
-    "link": "https://dev.to/yushulx/how-to-implement-camera-access-from-web-browsers-in-5-minutes-4hop",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What are the differences between C# and Java? ",
-    "link": "https://dev.to/educrystal/what-are-the-differences-between-c-and-java-4n2e",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 05 benefits of Angular used cases in 2022!",
-    "link": "https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Create Multi Language Website in Laravel",
-    "link": "https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A simple front-end for your MSSQL datasource",
-    "link": "https://undefined.hashnode.dev/a-simple-front-end-for-your-mssql-datasource",
+    "title": "Using Custom Cursors with Javascript for a Better User Experience",
+    "link": "https://israelmitolu.hashnode.dev/using-custom-cursors-with-javascript-for-a-better-user-experience",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "DevTools TipsDevTools Tips",
-    "link": "https://xiaobo.blog/devtools-tipsdevtools-tips",
+    "title": "Reusable form component in react using React Hook Form 🎣 and Zod 🛡",
+    "link": "https://omkarkulkarni.hashnode.dev/reusable-form-component-in-react-using-react-hook-form-and-zod",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Render State in the User Interface Another Way",
-    "link": "https://magnus.hashnode.dev/render-state-in-the-user-interface-another-way",
+    "title": "Usage of `React.FC` from my experience",
+    "link": "https://krishna-damaraju.hashnode.dev/usage-of-reactfc-from-my-experience",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Render State in the User Interface",
-    "link": "https://magnus.hashnode.dev/render-state-in-the-user-interface",
+    "title": "Map and Filter and a freeCodeCamp Challenge",
+    "link": "https://meliksahakdeniz.com/map-and-filter-and-a-freecodecamp-challenge",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Create a Stateful Component",
-    "link": "https://magnus.hashnode.dev/create-a-stateful-component",
+    "title": "Adding Inline Javascript to a React App",
+    "link": "https://blog.alexhyett.com/inline-javascript-react",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Exploring SvelteKit: A new approach to building Svelte Apps",
-    "link": "https://theafolayan.hashnode.dev/exploring-sveltekit-a-new-approach-to-building-svelte-apps",
+    "title": "Promise Day-Feb 11th- Promises with my Lover JS (JavaScript)",
+    "link": "https://devkeycode.hashnode.dev/promise-day-feb-11th-promises-with-my-lover-javascript",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Review Using Props with Stateless Functional Components",
-    "link": "https://magnus.hashnode.dev/review-using-props-with-stateless-functional-components",
+    "title": "Explore ES 2017 features: javascript",
+    "link": "https://vkglobal.hashnode.dev/explore-es-2017-features-javascript",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Safety precautions",
-    "link": "https://xiaobo.blog/safety-precautions",
+    "title": "8 Ways to Make Your Code Look Cleaner and Better 👀!",
+    "link": "https://arindol.hashnode.dev/8-ways-to-make-your-code-look-cleaner-and-better",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Closure in JavaScript",
+    "link": "https://sahedthought.hashnode.dev/closure-in-javascript",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Hello World!",
+    "link": "https://blog.casperdesign.no/hello-world",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Upload Image with Expo and Firebase Cloud Storage",
+    "link": "https://expofire.hashnode.dev/upload-image-with-expo-and-firebase-cloud-storage",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "30 games you can play to learn to code",
+    "link": "https://geektech.codes/30-games-you-can-play-to-learn-to-code",
     "date": "2/11/2022",
     "site": "hashnode"
   },
@@ -162,104 +570,92 @@
     "site": "dev.to"
   },
   {
-    "title": "Event Bubbling and Delegation in JavaScript for beginners by a beginner.",
-    "link": "https://dev.to/newbiehritick/event-bubbling-and-delegation-in-javascript-for-beginners-by-a-beginner-3m6k",
+    "title": "Javascript Objects",
+    "link": "https://dev.to/collinsonindo/javascript-objects-2gig",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Difference between Node.JS and Javascript",
-    "link": "https://dev.to/mrdanishsaleem/difference-between-nodejs-and-javascript-4nbj",
+    "title": "tsParticles 1.41.0 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-1410-released-3bag",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Vision 20 - Eye Benefits, Price, Reviews And Complaints?",
-    "link": "https://dev.to/vision20price/vision-20-eye-benefits-price-reviews-and-complaints-16lp",
+    "title": "Svelte VS React, which one?",
+    "link": "https://dev.to/dimaodin/svelte-vs-react-which-one-5gif",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Help",
-    "link": "https://dev.to/jam11/help-1di9",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ResizeObserver & UseState",
-    "link": "https://dev.to/bjupfield/resizeobserver-usestate-544k",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Implement Camera Access from Web Browsers in 5 Minutes",
-    "link": "https://dev.to/yushulx/how-to-implement-camera-access-from-web-browsers-in-5-minutes-4hop",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What are the differences between C# and Java? ",
-    "link": "https://dev.to/educrystal/what-are-the-differences-between-c-and-java-4n2e",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 05 benefits of Angular used cases in 2022!",
-    "link": "https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Create Multi Language Website in Laravel",
-    "link": "https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A simple front-end for your MSSQL datasource",
-    "link": "https://undefined.hashnode.dev/a-simple-front-end-for-your-mssql-datasource",
+    "title": "Using Custom Cursors with Javascript for a Better User Experience",
+    "link": "https://israelmitolu.hashnode.dev/using-custom-cursors-with-javascript-for-a-better-user-experience",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "DevTools TipsDevTools Tips",
-    "link": "https://xiaobo.blog/devtools-tipsdevtools-tips",
+    "title": "Reusable form component in react using React Hook Form 🎣 and Zod 🛡",
+    "link": "https://omkarkulkarni.hashnode.dev/reusable-form-component-in-react-using-react-hook-form-and-zod",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Render State in the User Interface Another Way",
-    "link": "https://magnus.hashnode.dev/render-state-in-the-user-interface-another-way",
+    "title": "Usage of `React.FC` from my experience",
+    "link": "https://krishna-damaraju.hashnode.dev/usage-of-reactfc-from-my-experience",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Render State in the User Interface",
-    "link": "https://magnus.hashnode.dev/render-state-in-the-user-interface",
+    "title": "Map and Filter and a freeCodeCamp Challenge",
+    "link": "https://meliksahakdeniz.com/map-and-filter-and-a-freecodecamp-challenge",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Create a Stateful Component",
-    "link": "https://magnus.hashnode.dev/create-a-stateful-component",
+    "title": "Adding Inline Javascript to a React App",
+    "link": "https://blog.alexhyett.com/inline-javascript-react",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Exploring SvelteKit: A new approach to building Svelte Apps",
-    "link": "https://theafolayan.hashnode.dev/exploring-sveltekit-a-new-approach-to-building-svelte-apps",
+    "title": "Promise Day-Feb 11th- Promises with my Lover JS (JavaScript)",
+    "link": "https://devkeycode.hashnode.dev/promise-day-feb-11th-promises-with-my-lover-javascript",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Review Using Props with Stateless Functional Components",
-    "link": "https://magnus.hashnode.dev/review-using-props-with-stateless-functional-components",
+    "title": "Explore ES 2017 features: javascript",
+    "link": "https://vkglobal.hashnode.dev/explore-es-2017-features-javascript",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Safety precautions",
-    "link": "https://xiaobo.blog/safety-precautions",
+    "title": "8 Ways to Make Your Code Look Cleaner and Better 👀!",
+    "link": "https://arindol.hashnode.dev/8-ways-to-make-your-code-look-cleaner-and-better",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Closure in JavaScript",
+    "link": "https://sahedthought.hashnode.dev/closure-in-javascript",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Hello World!",
+    "link": "https://blog.casperdesign.no/hello-world",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Upload Image with Expo and Firebase Cloud Storage",
+    "link": "https://expofire.hashnode.dev/upload-image-with-expo-and-firebase-cloud-storage",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "30 games you can play to learn to code",
+    "link": "https://geektech.codes/30-games-you-can-play-to-learn-to-code",
     "date": "2/11/2022",
     "site": "hashnode"
   },
@@ -270,104 +666,92 @@
     "site": "dev.to"
   },
   {
-    "title": "Event Bubbling and Delegation in JavaScript for beginners by a beginner.",
-    "link": "https://dev.to/newbiehritick/event-bubbling-and-delegation-in-javascript-for-beginners-by-a-beginner-3m6k",
+    "title": "Javascript Objects",
+    "link": "https://dev.to/collinsonindo/javascript-objects-2gig",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Difference between Node.JS and Javascript",
-    "link": "https://dev.to/mrdanishsaleem/difference-between-nodejs-and-javascript-4nbj",
+    "title": "tsParticles 1.41.0 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-1410-released-3bag",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Vision 20 - Eye Benefits, Price, Reviews And Complaints?",
-    "link": "https://dev.to/vision20price/vision-20-eye-benefits-price-reviews-and-complaints-16lp",
+    "title": "Svelte VS React, which one?",
+    "link": "https://dev.to/dimaodin/svelte-vs-react-which-one-5gif",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Help",
-    "link": "https://dev.to/jam11/help-1di9",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ResizeObserver & UseState",
-    "link": "https://dev.to/bjupfield/resizeobserver-usestate-544k",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Implement Camera Access from Web Browsers in 5 Minutes",
-    "link": "https://dev.to/yushulx/how-to-implement-camera-access-from-web-browsers-in-5-minutes-4hop",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What are the differences between C# and Java? ",
-    "link": "https://dev.to/educrystal/what-are-the-differences-between-c-and-java-4n2e",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 05 benefits of Angular used cases in 2022!",
-    "link": "https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Create Multi Language Website in Laravel",
-    "link": "https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A simple front-end for your MSSQL datasource",
-    "link": "https://undefined.hashnode.dev/a-simple-front-end-for-your-mssql-datasource",
+    "title": "Using Custom Cursors with Javascript for a Better User Experience",
+    "link": "https://israelmitolu.hashnode.dev/using-custom-cursors-with-javascript-for-a-better-user-experience",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "DevTools TipsDevTools Tips",
-    "link": "https://xiaobo.blog/devtools-tipsdevtools-tips",
+    "title": "Reusable form component in react using React Hook Form 🎣 and Zod 🛡",
+    "link": "https://omkarkulkarni.hashnode.dev/reusable-form-component-in-react-using-react-hook-form-and-zod",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Render State in the User Interface Another Way",
-    "link": "https://magnus.hashnode.dev/render-state-in-the-user-interface-another-way",
+    "title": "Usage of `React.FC` from my experience",
+    "link": "https://krishna-damaraju.hashnode.dev/usage-of-reactfc-from-my-experience",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Render State in the User Interface",
-    "link": "https://magnus.hashnode.dev/render-state-in-the-user-interface",
+    "title": "Map and Filter and a freeCodeCamp Challenge",
+    "link": "https://meliksahakdeniz.com/map-and-filter-and-a-freecodecamp-challenge",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Create a Stateful Component",
-    "link": "https://magnus.hashnode.dev/create-a-stateful-component",
+    "title": "Adding Inline Javascript to a React App",
+    "link": "https://blog.alexhyett.com/inline-javascript-react",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Exploring SvelteKit: A new approach to building Svelte Apps",
-    "link": "https://theafolayan.hashnode.dev/exploring-sveltekit-a-new-approach-to-building-svelte-apps",
+    "title": "Promise Day-Feb 11th- Promises with my Lover JS (JavaScript)",
+    "link": "https://devkeycode.hashnode.dev/promise-day-feb-11th-promises-with-my-lover-javascript",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Review Using Props with Stateless Functional Components",
-    "link": "https://magnus.hashnode.dev/review-using-props-with-stateless-functional-components",
+    "title": "Explore ES 2017 features: javascript",
+    "link": "https://vkglobal.hashnode.dev/explore-es-2017-features-javascript",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Safety precautions",
-    "link": "https://xiaobo.blog/safety-precautions",
+    "title": "8 Ways to Make Your Code Look Cleaner and Better 👀!",
+    "link": "https://arindol.hashnode.dev/8-ways-to-make-your-code-look-cleaner-and-better",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Closure in JavaScript",
+    "link": "https://sahedthought.hashnode.dev/closure-in-javascript",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Hello World!",
+    "link": "https://blog.casperdesign.no/hello-world",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Upload Image with Expo and Firebase Cloud Storage",
+    "link": "https://expofire.hashnode.dev/upload-image-with-expo-and-firebase-cloud-storage",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "30 games you can play to learn to code",
+    "link": "https://geektech.codes/30-games-you-can-play-to-learn-to-code",
     "date": "2/11/2022",
     "site": "hashnode"
   },
@@ -378,104 +762,92 @@
     "site": "dev.to"
   },
   {
-    "title": "Event Bubbling and Delegation in JavaScript for beginners by a beginner.",
-    "link": "https://dev.to/newbiehritick/event-bubbling-and-delegation-in-javascript-for-beginners-by-a-beginner-3m6k",
+    "title": "Javascript Objects",
+    "link": "https://dev.to/collinsonindo/javascript-objects-2gig",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Difference between Node.JS and Javascript",
-    "link": "https://dev.to/mrdanishsaleem/difference-between-nodejs-and-javascript-4nbj",
+    "title": "tsParticles 1.41.0 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-1410-released-3bag",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Vision 20 - Eye Benefits, Price, Reviews And Complaints?",
-    "link": "https://dev.to/vision20price/vision-20-eye-benefits-price-reviews-and-complaints-16lp",
+    "title": "Svelte VS React, which one?",
+    "link": "https://dev.to/dimaodin/svelte-vs-react-which-one-5gif",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Help",
-    "link": "https://dev.to/jam11/help-1di9",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ResizeObserver & UseState",
-    "link": "https://dev.to/bjupfield/resizeobserver-usestate-544k",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Implement Camera Access from Web Browsers in 5 Minutes",
-    "link": "https://dev.to/yushulx/how-to-implement-camera-access-from-web-browsers-in-5-minutes-4hop",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What are the differences between C# and Java? ",
-    "link": "https://dev.to/educrystal/what-are-the-differences-between-c-and-java-4n2e",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 05 benefits of Angular used cases in 2022!",
-    "link": "https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Create Multi Language Website in Laravel",
-    "link": "https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A simple front-end for your MSSQL datasource",
-    "link": "https://undefined.hashnode.dev/a-simple-front-end-for-your-mssql-datasource",
+    "title": "Using Custom Cursors with Javascript for a Better User Experience",
+    "link": "https://israelmitolu.hashnode.dev/using-custom-cursors-with-javascript-for-a-better-user-experience",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "DevTools TipsDevTools Tips",
-    "link": "https://xiaobo.blog/devtools-tipsdevtools-tips",
+    "title": "Reusable form component in react using React Hook Form 🎣 and Zod 🛡",
+    "link": "https://omkarkulkarni.hashnode.dev/reusable-form-component-in-react-using-react-hook-form-and-zod",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Render State in the User Interface Another Way",
-    "link": "https://magnus.hashnode.dev/render-state-in-the-user-interface-another-way",
+    "title": "Usage of `React.FC` from my experience",
+    "link": "https://krishna-damaraju.hashnode.dev/usage-of-reactfc-from-my-experience",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Render State in the User Interface",
-    "link": "https://magnus.hashnode.dev/render-state-in-the-user-interface",
+    "title": "Map and Filter and a freeCodeCamp Challenge",
+    "link": "https://meliksahakdeniz.com/map-and-filter-and-a-freecodecamp-challenge",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Create a Stateful Component",
-    "link": "https://magnus.hashnode.dev/create-a-stateful-component",
+    "title": "Adding Inline Javascript to a React App",
+    "link": "https://blog.alexhyett.com/inline-javascript-react",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Exploring SvelteKit: A new approach to building Svelte Apps",
-    "link": "https://theafolayan.hashnode.dev/exploring-sveltekit-a-new-approach-to-building-svelte-apps",
+    "title": "Promise Day-Feb 11th- Promises with my Lover JS (JavaScript)",
+    "link": "https://devkeycode.hashnode.dev/promise-day-feb-11th-promises-with-my-lover-javascript",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Review Using Props with Stateless Functional Components",
-    "link": "https://magnus.hashnode.dev/review-using-props-with-stateless-functional-components",
+    "title": "Explore ES 2017 features: javascript",
+    "link": "https://vkglobal.hashnode.dev/explore-es-2017-features-javascript",
     "date": "2/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Safety precautions",
-    "link": "https://xiaobo.blog/safety-precautions",
+    "title": "8 Ways to Make Your Code Look Cleaner and Better 👀!",
+    "link": "https://arindol.hashnode.dev/8-ways-to-make-your-code-look-cleaner-and-better",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Closure in JavaScript",
+    "link": "https://sahedthought.hashnode.dev/closure-in-javascript",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Hello World!",
+    "link": "https://blog.casperdesign.no/hello-world",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Upload Image with Expo and Firebase Cloud Storage",
+    "link": "https://expofire.hashnode.dev/upload-image-with-expo-and-firebase-cloud-storage",
+    "date": "2/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "30 games you can play to learn to code",
+    "link": "https://geektech.codes/30-games-you-can-play-to-learn-to-code",
     "date": "2/11/2022",
     "site": "hashnode"
   },
@@ -486,56 +858,20 @@
     "site": "dev.to"
   },
   {
-    "title": "Event Bubbling and Delegation in JavaScript for beginners by a beginner.",
-    "link": "https://dev.to/newbiehritick/event-bubbling-and-delegation-in-javascript-for-beginners-by-a-beginner-3m6k",
+    "title": "Javascript Objects",
+    "link": "https://dev.to/collinsonindo/javascript-objects-2gig",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Difference between Node.JS and Javascript",
-    "link": "https://dev.to/mrdanishsaleem/difference-between-nodejs-and-javascript-4nbj",
+    "title": "tsParticles 1.41.0 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-1410-released-3bag",
     "date": "2/11/2022",
     "site": "dev.to"
   },
   {
-    "title": "Vision 20 - Eye Benefits, Price, Reviews And Complaints?",
-    "link": "https://dev.to/vision20price/vision-20-eye-benefits-price-reviews-and-complaints-16lp",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Help",
-    "link": "https://dev.to/jam11/help-1di9",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ResizeObserver & UseState",
-    "link": "https://dev.to/bjupfield/resizeobserver-usestate-544k",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Implement Camera Access from Web Browsers in 5 Minutes",
-    "link": "https://dev.to/yushulx/how-to-implement-camera-access-from-web-browsers-in-5-minutes-4hop",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What are the differences between C# and Java? ",
-    "link": "https://dev.to/educrystal/what-are-the-differences-between-c-and-java-4n2e",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 05 benefits of Angular used cases in 2022!",
-    "link": "https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Create Multi Language Website in Laravel",
-    "link": "https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d",
+    "title": "Svelte VS React, which one?",
+    "link": "https://dev.to/dimaodin/svelte-vs-react-which-one-5gif",
     "date": "2/11/2022",
     "site": "dev.to"
   },
@@ -546,70 +882,10 @@
     "site": "hashnode"
   },
   {
-    "title": "LeetCode - Reverse Linked List II",
-    "link": "https://alkesh26.hashnode.dev/leetcode-reverse-linked-list-ii",
+    "title": "How to collect data via forms like a boss",
+    "link": "https://blog.abhiraj.co/how-to-collect-data-via-forms-like-a-boss",
     "date": "2/10/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Moving from JavaScript to TypeScript",
-    "link": "https://andrewbaisden.hashnode.dev/moving-from-javascript-to-typescript",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nullish coalescing operator",
-    "link": "https://christianholm.hashnode.dev/nullish-coalescing-operator",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Redux and Redux toolkit - simply explained.",
-    "link": "https://blog.devmdmamun.com/redux-and-redux-toolkit-simply-explained",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Teddy Day-Feb 10th- Callbacks with my Lover JS (JavaScript)",
-    "link": "https://devkeycode.hashnode.dev/teddy-day-feb-10th-callbacks-with-my-lover-javascript",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tailwind Gradients - How to Make a Glowing Gradient Background",
-    "link": "https://blog.braydoncoyer.dev/tailwind-gradients-how-to-make-a-glowing-gradient-background",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Showing different titles depending if the tab is active or not",
-    "link": "https://dev.to/codepo8/showing-different-titles-depending-if-the-tab-is-active-or-not-hef",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I made a realtime 1v1 game with Next.js & Tailwind CSS, learn how",
-    "link": "https://dev.to/nicoandrade/i-made-a-realtime-1v1-game-with-nextjs-tailwind-css-learn-how-536b",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Combining two independent git repositories",
-    "link": "https://dev.to/siddharthssb11/combining-two-independent-git-repositories-1b5i",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "100daysOfCode Restarted",
-    "link": "https://dev.to/alsiam/100daysofcode-restarted-f8d",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving from JavaScript to TypeScript",
-    "link": "https://dev.to/andrewbaisden/moving-from-javascript-to-typescript-40ac",
-    "date": "2/10/2022",
-    "site": "dev.to"
   },
   {
     "title": "How to collect data via forms like a boss",
@@ -618,286 +894,16 @@
     "site": "hashnode"
   },
   {
-    "title": "LeetCode - Reverse Linked List II",
-    "link": "https://alkesh26.hashnode.dev/leetcode-reverse-linked-list-ii",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Moving from JavaScript to TypeScript",
-    "link": "https://andrewbaisden.hashnode.dev/moving-from-javascript-to-typescript",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nullish coalescing operator",
-    "link": "https://christianholm.hashnode.dev/nullish-coalescing-operator",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Redux and Redux toolkit - simply explained.",
-    "link": "https://blog.devmdmamun.com/redux-and-redux-toolkit-simply-explained",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Teddy Day-Feb 10th- Callbacks with my Lover JS (JavaScript)",
-    "link": "https://devkeycode.hashnode.dev/teddy-day-feb-10th-callbacks-with-my-lover-javascript",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tailwind Gradients - How to Make a Glowing Gradient Background",
-    "link": "https://blog.braydoncoyer.dev/tailwind-gradients-how-to-make-a-glowing-gradient-background",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Showing different titles depending if the tab is active or not",
-    "link": "https://dev.to/codepo8/showing-different-titles-depending-if-the-tab-is-active-or-not-hef",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I made a realtime 1v1 game with Next.js & Tailwind CSS, learn how",
-    "link": "https://dev.to/nicoandrade/i-made-a-realtime-1v1-game-with-nextjs-tailwind-css-learn-how-536b",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Combining two independent git repositories",
-    "link": "https://dev.to/siddharthssb11/combining-two-independent-git-repositories-1b5i",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "100daysOfCode Restarted",
-    "link": "https://dev.to/alsiam/100daysofcode-restarted-f8d",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving from JavaScript to TypeScript",
-    "link": "https://dev.to/andrewbaisden/moving-from-javascript-to-typescript-40ac",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "How to collect data via forms like a boss",
     "link": "https://blog.abhiraj.co/how-to-collect-data-via-forms-like-a-boss",
     "date": "2/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "LeetCode - Reverse Linked List II",
-    "link": "https://alkesh26.hashnode.dev/leetcode-reverse-linked-list-ii",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Moving from JavaScript to TypeScript",
-    "link": "https://andrewbaisden.hashnode.dev/moving-from-javascript-to-typescript",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nullish coalescing operator",
-    "link": "https://christianholm.hashnode.dev/nullish-coalescing-operator",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Redux and Redux toolkit - simply explained.",
-    "link": "https://blog.devmdmamun.com/redux-and-redux-toolkit-simply-explained",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Teddy Day-Feb 10th- Callbacks with my Lover JS (JavaScript)",
-    "link": "https://devkeycode.hashnode.dev/teddy-day-feb-10th-callbacks-with-my-lover-javascript",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tailwind Gradients - How to Make a Glowing Gradient Background",
-    "link": "https://blog.braydoncoyer.dev/tailwind-gradients-how-to-make-a-glowing-gradient-background",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Showing different titles depending if the tab is active or not",
-    "link": "https://dev.to/codepo8/showing-different-titles-depending-if-the-tab-is-active-or-not-hef",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I made a realtime 1v1 game with Next.js & Tailwind CSS, learn how",
-    "link": "https://dev.to/nicoandrade/i-made-a-realtime-1v1-game-with-nextjs-tailwind-css-learn-how-536b",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Combining two independent git repositories",
-    "link": "https://dev.to/siddharthssb11/combining-two-independent-git-repositories-1b5i",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "100daysOfCode Restarted",
-    "link": "https://dev.to/alsiam/100daysofcode-restarted-f8d",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving from JavaScript to TypeScript",
-    "link": "https://dev.to/andrewbaisden/moving-from-javascript-to-typescript-40ac",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "How to collect data via forms like a boss",
     "link": "https://blog.abhiraj.co/how-to-collect-data-via-forms-like-a-boss",
     "date": "2/10/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "LeetCode - Reverse Linked List II",
-    "link": "https://alkesh26.hashnode.dev/leetcode-reverse-linked-list-ii",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Moving from JavaScript to TypeScript",
-    "link": "https://andrewbaisden.hashnode.dev/moving-from-javascript-to-typescript",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nullish coalescing operator",
-    "link": "https://christianholm.hashnode.dev/nullish-coalescing-operator",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Redux and Redux toolkit - simply explained.",
-    "link": "https://blog.devmdmamun.com/redux-and-redux-toolkit-simply-explained",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Teddy Day-Feb 10th- Callbacks with my Lover JS (JavaScript)",
-    "link": "https://devkeycode.hashnode.dev/teddy-day-feb-10th-callbacks-with-my-lover-javascript",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tailwind Gradients - How to Make a Glowing Gradient Background",
-    "link": "https://blog.braydoncoyer.dev/tailwind-gradients-how-to-make-a-glowing-gradient-background",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Showing different titles depending if the tab is active or not",
-    "link": "https://dev.to/codepo8/showing-different-titles-depending-if-the-tab-is-active-or-not-hef",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I made a realtime 1v1 game with Next.js & Tailwind CSS, learn how",
-    "link": "https://dev.to/nicoandrade/i-made-a-realtime-1v1-game-with-nextjs-tailwind-css-learn-how-536b",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Combining two independent git repositories",
-    "link": "https://dev.to/siddharthssb11/combining-two-independent-git-repositories-1b5i",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "100daysOfCode Restarted",
-    "link": "https://dev.to/alsiam/100daysofcode-restarted-f8d",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving from JavaScript to TypeScript",
-    "link": "https://dev.to/andrewbaisden/moving-from-javascript-to-typescript-40ac",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to collect data via forms like a boss",
-    "link": "https://blog.abhiraj.co/how-to-collect-data-via-forms-like-a-boss",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "LeetCode - Reverse Linked List II",
-    "link": "https://alkesh26.hashnode.dev/leetcode-reverse-linked-list-ii",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Moving from JavaScript to TypeScript",
-    "link": "https://andrewbaisden.hashnode.dev/moving-from-javascript-to-typescript",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nullish coalescing operator",
-    "link": "https://christianholm.hashnode.dev/nullish-coalescing-operator",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Redux and Redux toolkit - simply explained.",
-    "link": "https://blog.devmdmamun.com/redux-and-redux-toolkit-simply-explained",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Teddy Day-Feb 10th- Callbacks with my Lover JS (JavaScript)",
-    "link": "https://devkeycode.hashnode.dev/teddy-day-feb-10th-callbacks-with-my-lover-javascript",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tailwind Gradients - How to Make a Glowing Gradient Background",
-    "link": "https://blog.braydoncoyer.dev/tailwind-gradients-how-to-make-a-glowing-gradient-background",
-    "date": "2/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Showing different titles depending if the tab is active or not",
-    "link": "https://dev.to/codepo8/showing-different-titles-depending-if-the-tab-is-active-or-not-hef",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I made a realtime 1v1 game with Next.js & Tailwind CSS, learn how",
-    "link": "https://dev.to/nicoandrade/i-made-a-realtime-1v1-game-with-nextjs-tailwind-css-learn-how-536b",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Combining two independent git repositories",
-    "link": "https://dev.to/siddharthssb11/combining-two-independent-git-repositories-1b5i",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "100daysOfCode Restarted",
-    "link": "https://dev.to/alsiam/100daysofcode-restarted-f8d",
-    "date": "2/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving from JavaScript to TypeScript",
-    "link": "https://dev.to/andrewbaisden/moving-from-javascript-to-typescript-40ac",
-    "date": "2/10/2022",
-    "site": "dev.to"
   },
   {
     "title": "What Web Frameworks Solve: The Vanilla Alternative (Part 2)",
@@ -976,7 +982,7 @@
   {
     "title": "How To Build A Real-Time Multi-User Game From Scratch",
     "link": "https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/",
-    "reading_time": "20 min read",
+    "reading_time": "21 min read",
     "date": "10/22/2021",
     "site": "smashingmagazine"
   },
@@ -1128,12 +1134,6 @@
     "site": "css-tricks"
   },
   {
-    "title": "Typewriter Animation That Handles Anything You Throw at It",
-    "link": "https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/",
-    "date": "7/20/2021",
-    "site": "css-tricks"
-  },
-  {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
     "reading_time": "21 min read",
@@ -1212,7 +1212,7 @@
   {
     "title": "Getting Started With Webpack",
     "link": "https://www.smashingmagazine.com/2021/06/getting-started-webpack/",
-    "reading_time": "19 min read",
+    "reading_time": "20 min read",
     "date": "6/4/2021",
     "site": "smashingmagazine"
   },
@@ -1309,7 +1309,7 @@
   {
     "title": "Building A Video Streaming App With Nuxt.js, Node And Express",
     "link": "https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "4/13/2021",
     "site": "smashingmagazine"
   },
