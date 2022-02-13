@@ -1,301 +1,451 @@
 [
   {
-    "title": "Make you Custom Hooks in React!",
-    "link": "https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig",
+    "title": "How does React allow creating custom components?",
+    "link": "https://dev.to/fromaline/how-does-react-allow-creating-custom-components-3mbe",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Object Immutability: How it helps React",
+    "link": "https://dev.to/nishadkumar/object-immutability-how-it-helps-react-3pc4",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Query leveraging placeholder data",
+    "link": "https://dev.to/dailydevtips1/react-query-leveraging-placeholder-data-144p",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React ",
+    "link": "https://dev.to/nelsonmalbonecoding/react-59m3",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a web application with ReactJS and Django (Beginner Project)",
+    "link": "https://dev.to/jod35/build-a-web-application-with-reactjs-and-django-beginner-project-o0g",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Remark.js Syntax Highlighter",
+    "link": "https://dev.to/alexwhb/how-to-build-a-remarkjs-syntax-highlighter-5dl6",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How does React allow creating custom components?",
+    "link": "https://dev.to/fromaline/how-does-react-allow-creating-custom-components-3mbe",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Object Immutability: How it helps React",
+    "link": "https://dev.to/nishadkumar/object-immutability-how-it-helps-react-3pc4",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Query leveraging placeholder data",
+    "link": "https://dev.to/dailydevtips1/react-query-leveraging-placeholder-data-144p",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React ",
+    "link": "https://dev.to/nelsonmalbonecoding/react-59m3",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a web application with ReactJS and Django (Beginner Project)",
+    "link": "https://dev.to/jod35/build-a-web-application-with-reactjs-and-django-beginner-project-o0g",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Remark.js Syntax Highlighter",
+    "link": "https://dev.to/alexwhb/how-to-build-a-remarkjs-syntax-highlighter-5dl6",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How does React allow creating custom components?",
+    "link": "https://dev.to/fromaline/how-does-react-allow-creating-custom-components-3mbe",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Object Immutability: How it helps React",
+    "link": "https://dev.to/nishadkumar/object-immutability-how-it-helps-react-3pc4",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Query leveraging placeholder data",
+    "link": "https://dev.to/dailydevtips1/react-query-leveraging-placeholder-data-144p",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React ",
+    "link": "https://dev.to/nelsonmalbonecoding/react-59m3",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a web application with ReactJS and Django (Beginner Project)",
+    "link": "https://dev.to/jod35/build-a-web-application-with-reactjs-and-django-beginner-project-o0g",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Remark.js Syntax Highlighter",
+    "link": "https://dev.to/alexwhb/how-to-build-a-remarkjs-syntax-highlighter-5dl6",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How does React allow creating custom components?",
+    "link": "https://dev.to/fromaline/how-does-react-allow-creating-custom-components-3mbe",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Object Immutability: How it helps React",
+    "link": "https://dev.to/nishadkumar/object-immutability-how-it-helps-react-3pc4",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Query leveraging placeholder data",
+    "link": "https://dev.to/dailydevtips1/react-query-leveraging-placeholder-data-144p",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React ",
+    "link": "https://dev.to/nelsonmalbonecoding/react-59m3",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a web application with ReactJS and Django (Beginner Project)",
+    "link": "https://dev.to/jod35/build-a-web-application-with-reactjs-and-django-beginner-project-o0g",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Remark.js Syntax Highlighter",
+    "link": "https://dev.to/alexwhb/how-to-build-a-remarkjs-syntax-highlighter-5dl6",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How does React allow creating custom components?",
+    "link": "https://dev.to/fromaline/how-does-react-allow-creating-custom-components-3mbe",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Object Immutability: How it helps React",
+    "link": "https://dev.to/nishadkumar/object-immutability-how-it-helps-react-3pc4",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Query leveraging placeholder data",
+    "link": "https://dev.to/dailydevtips1/react-query-leveraging-placeholder-data-144p",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React ",
+    "link": "https://dev.to/nelsonmalbonecoding/react-59m3",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a web application with ReactJS and Django (Beginner Project)",
+    "link": "https://dev.to/jod35/build-a-web-application-with-reactjs-and-django-beginner-project-o0g",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Remark.js Syntax Highlighter",
+    "link": "https://dev.to/alexwhb/how-to-build-a-remarkjs-syntax-highlighter-5dl6",
+    "date": "2/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is easier to learn: React or Angular? ",
+    "link": "https://dev.to/tomaszs2/what-is-easier-to-learn-react-or-angular-50d4",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Level-Up Your React Skill with Testing (Part 1)",
-    "link": "https://dev.to/fadhilradh/level-up-your-react-game-with-testing-part-1-lhd",
+    "title": "Remix: Something different",
+    "link": "https://dev.to/link2twenty/remix-something-different-1i06",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Dependent queries in React Query",
-    "link": "https://dev.to/dailydevtips1/dependent-queries-in-react-query-d0i",
+    "title": "How to test React application with Jest",
+    "link": "https://dev.to/pavelkeyzik/how-to-test-react-application-with-jest-2d47",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "This is How I Switch from Angular to React",
-    "link": "https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g",
+    "title": "Beginners guide to React.js Batched Updates",
+    "link": "https://dev.to/siddharthssb11/beginners-guide-to-reactjs-batched-updates-5c3c",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "A pagination state management with useReducer",
-    "link": "https://dev.to/lada496/a-pagination-state-management-with-usereducer-5fc4",
+    "title": "How To Export Text From Adobe Illustrator and Photoshop To Notepad?",
+    "link": "https://dev.to/zujaj/how-to-export-text-from-adobe-illustrator-and-photoshop-to-notepad-7g2",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Optimised  Components",
-    "link": "https://dev.to/ankitpat/react-optimised-components-5787",
+    "title": "Crashing gracefully while error handling using Error Boundaries.",
+    "link": "https://dev.to/siddharthssb11/crashing-gracefully-while-error-handling-using-error-boundaries-558a",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Router: Updating from v5",
-    "link": "https://dev.to/lada496/react-router-updating-from-v5-kjj",
+    "title": "How to implement conditional rendering in react.",
+    "link": "https://dev.to/iamchiki/how-to-implement-conditional-rendering-in-react-pc8",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "To-do list with Firebase (Web ver.9)",
-    "link": "https://dev.to/lada496/to-do-list-with-firebase-web-ver9-hd8",
+    "title": "how to useContext better",
+    "link": "https://dev.to/kmyrrpen/how-to-usecontext-better-4pd2",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React and redux",
-    "link": "https://dev.to/nelsonmalbonecoding/react-and-redux-2kok",
+    "title": "Create Cool Plots With React and Plotly",
+    "link": "https://dev.to/marianna13/create-cool-plots-with-react-and-plotly-494g",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Change Dark theme React",
-    "link": "https://dev.to/chenerzhang/change-dark-theme-react-o6c",
+    "title": "What is easier to learn: React or Angular? ",
+    "link": "https://dev.to/tomaszs2/what-is-easier-to-learn-react-or-angular-50d4",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Make you Custom Hooks in React!",
-    "link": "https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig",
+    "title": "Remix: Something different",
+    "link": "https://dev.to/link2twenty/remix-something-different-1i06",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Level-Up Your React Skill with Testing (Part 1)",
-    "link": "https://dev.to/fadhilradh/level-up-your-react-game-with-testing-part-1-lhd",
+    "title": "How to test React application with Jest",
+    "link": "https://dev.to/pavelkeyzik/how-to-test-react-application-with-jest-2d47",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Dependent queries in React Query",
-    "link": "https://dev.to/dailydevtips1/dependent-queries-in-react-query-d0i",
+    "title": "Beginners guide to React.js Batched Updates",
+    "link": "https://dev.to/siddharthssb11/beginners-guide-to-reactjs-batched-updates-5c3c",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "This is How I Switch from Angular to React",
-    "link": "https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g",
+    "title": "How To Export Text From Adobe Illustrator and Photoshop To Notepad?",
+    "link": "https://dev.to/zujaj/how-to-export-text-from-adobe-illustrator-and-photoshop-to-notepad-7g2",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "A pagination state management with useReducer",
-    "link": "https://dev.to/lada496/a-pagination-state-management-with-usereducer-5fc4",
+    "title": "Crashing gracefully while error handling using Error Boundaries.",
+    "link": "https://dev.to/siddharthssb11/crashing-gracefully-while-error-handling-using-error-boundaries-558a",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Optimised  Components",
-    "link": "https://dev.to/ankitpat/react-optimised-components-5787",
+    "title": "How to implement conditional rendering in react.",
+    "link": "https://dev.to/iamchiki/how-to-implement-conditional-rendering-in-react-pc8",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Router: Updating from v5",
-    "link": "https://dev.to/lada496/react-router-updating-from-v5-kjj",
+    "title": "how to useContext better",
+    "link": "https://dev.to/kmyrrpen/how-to-usecontext-better-4pd2",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "To-do list with Firebase (Web ver.9)",
-    "link": "https://dev.to/lada496/to-do-list-with-firebase-web-ver9-hd8",
+    "title": "Create Cool Plots With React and Plotly",
+    "link": "https://dev.to/marianna13/create-cool-plots-with-react-and-plotly-494g",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React and redux",
-    "link": "https://dev.to/nelsonmalbonecoding/react-and-redux-2kok",
+    "title": "What is easier to learn: React or Angular? ",
+    "link": "https://dev.to/tomaszs2/what-is-easier-to-learn-react-or-angular-50d4",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Change Dark theme React",
-    "link": "https://dev.to/chenerzhang/change-dark-theme-react-o6c",
+    "title": "Remix: Something different",
+    "link": "https://dev.to/link2twenty/remix-something-different-1i06",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Make you Custom Hooks in React!",
-    "link": "https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig",
+    "title": "How to test React application with Jest",
+    "link": "https://dev.to/pavelkeyzik/how-to-test-react-application-with-jest-2d47",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Level-Up Your React Skill with Testing (Part 1)",
-    "link": "https://dev.to/fadhilradh/level-up-your-react-game-with-testing-part-1-lhd",
+    "title": "Beginners guide to React.js Batched Updates",
+    "link": "https://dev.to/siddharthssb11/beginners-guide-to-reactjs-batched-updates-5c3c",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Dependent queries in React Query",
-    "link": "https://dev.to/dailydevtips1/dependent-queries-in-react-query-d0i",
+    "title": "How To Export Text From Adobe Illustrator and Photoshop To Notepad?",
+    "link": "https://dev.to/zujaj/how-to-export-text-from-adobe-illustrator-and-photoshop-to-notepad-7g2",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "This is How I Switch from Angular to React",
-    "link": "https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g",
+    "title": "Crashing gracefully while error handling using Error Boundaries.",
+    "link": "https://dev.to/siddharthssb11/crashing-gracefully-while-error-handling-using-error-boundaries-558a",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "A pagination state management with useReducer",
-    "link": "https://dev.to/lada496/a-pagination-state-management-with-usereducer-5fc4",
+    "title": "How to implement conditional rendering in react.",
+    "link": "https://dev.to/iamchiki/how-to-implement-conditional-rendering-in-react-pc8",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Optimised  Components",
-    "link": "https://dev.to/ankitpat/react-optimised-components-5787",
+    "title": "how to useContext better",
+    "link": "https://dev.to/kmyrrpen/how-to-usecontext-better-4pd2",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Router: Updating from v5",
-    "link": "https://dev.to/lada496/react-router-updating-from-v5-kjj",
+    "title": "Create Cool Plots With React and Plotly",
+    "link": "https://dev.to/marianna13/create-cool-plots-with-react-and-plotly-494g",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "To-do list with Firebase (Web ver.9)",
-    "link": "https://dev.to/lada496/to-do-list-with-firebase-web-ver9-hd8",
+    "title": "What is easier to learn: React or Angular? ",
+    "link": "https://dev.to/tomaszs2/what-is-easier-to-learn-react-or-angular-50d4",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React and redux",
-    "link": "https://dev.to/nelsonmalbonecoding/react-and-redux-2kok",
+    "title": "Remix: Something different",
+    "link": "https://dev.to/link2twenty/remix-something-different-1i06",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Change Dark theme React",
-    "link": "https://dev.to/chenerzhang/change-dark-theme-react-o6c",
+    "title": "How to test React application with Jest",
+    "link": "https://dev.to/pavelkeyzik/how-to-test-react-application-with-jest-2d47",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Make you Custom Hooks in React!",
-    "link": "https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig",
+    "title": "Beginners guide to React.js Batched Updates",
+    "link": "https://dev.to/siddharthssb11/beginners-guide-to-reactjs-batched-updates-5c3c",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Level-Up Your React Skill with Testing (Part 1)",
-    "link": "https://dev.to/fadhilradh/level-up-your-react-game-with-testing-part-1-lhd",
+    "title": "How To Export Text From Adobe Illustrator and Photoshop To Notepad?",
+    "link": "https://dev.to/zujaj/how-to-export-text-from-adobe-illustrator-and-photoshop-to-notepad-7g2",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Dependent queries in React Query",
-    "link": "https://dev.to/dailydevtips1/dependent-queries-in-react-query-d0i",
+    "title": "Crashing gracefully while error handling using Error Boundaries.",
+    "link": "https://dev.to/siddharthssb11/crashing-gracefully-while-error-handling-using-error-boundaries-558a",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "This is How I Switch from Angular to React",
-    "link": "https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g",
+    "title": "How to implement conditional rendering in react.",
+    "link": "https://dev.to/iamchiki/how-to-implement-conditional-rendering-in-react-pc8",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "A pagination state management with useReducer",
-    "link": "https://dev.to/lada496/a-pagination-state-management-with-usereducer-5fc4",
+    "title": "how to useContext better",
+    "link": "https://dev.to/kmyrrpen/how-to-usecontext-better-4pd2",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Optimised  Components",
-    "link": "https://dev.to/ankitpat/react-optimised-components-5787",
+    "title": "Create Cool Plots With React and Plotly",
+    "link": "https://dev.to/marianna13/create-cool-plots-with-react-and-plotly-494g",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Router: Updating from v5",
-    "link": "https://dev.to/lada496/react-router-updating-from-v5-kjj",
+    "title": "What is easier to learn: React or Angular? ",
+    "link": "https://dev.to/tomaszs2/what-is-easier-to-learn-react-or-angular-50d4",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "To-do list with Firebase (Web ver.9)",
-    "link": "https://dev.to/lada496/to-do-list-with-firebase-web-ver9-hd8",
+    "title": "Remix: Something different",
+    "link": "https://dev.to/link2twenty/remix-something-different-1i06",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "React and redux",
-    "link": "https://dev.to/nelsonmalbonecoding/react-and-redux-2kok",
+    "title": "How to test React application with Jest",
+    "link": "https://dev.to/pavelkeyzik/how-to-test-react-application-with-jest-2d47",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Change Dark theme React",
-    "link": "https://dev.to/chenerzhang/change-dark-theme-react-o6c",
+    "title": "Beginners guide to React.js Batched Updates",
+    "link": "https://dev.to/siddharthssb11/beginners-guide-to-reactjs-batched-updates-5c3c",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Make you Custom Hooks in React!",
-    "link": "https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig",
+    "title": "How To Export Text From Adobe Illustrator and Photoshop To Notepad?",
+    "link": "https://dev.to/zujaj/how-to-export-text-from-adobe-illustrator-and-photoshop-to-notepad-7g2",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Level-Up Your React Skill with Testing (Part 1)",
-    "link": "https://dev.to/fadhilradh/level-up-your-react-game-with-testing-part-1-lhd",
+    "title": "Crashing gracefully while error handling using Error Boundaries.",
+    "link": "https://dev.to/siddharthssb11/crashing-gracefully-while-error-handling-using-error-boundaries-558a",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Dependent queries in React Query",
-    "link": "https://dev.to/dailydevtips1/dependent-queries-in-react-query-d0i",
+    "title": "How to implement conditional rendering in react.",
+    "link": "https://dev.to/iamchiki/how-to-implement-conditional-rendering-in-react-pc8",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "This is How I Switch from Angular to React",
-    "link": "https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g",
+    "title": "how to useContext better",
+    "link": "https://dev.to/kmyrrpen/how-to-usecontext-better-4pd2",
     "date": "2/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "A pagination state management with useReducer",
-    "link": "https://dev.to/lada496/a-pagination-state-management-with-usereducer-5fc4",
-    "date": "2/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Optimised  Components",
-    "link": "https://dev.to/ankitpat/react-optimised-components-5787",
-    "date": "2/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Router: Updating from v5",
-    "link": "https://dev.to/lada496/react-router-updating-from-v5-kjj",
-    "date": "2/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "To-do list with Firebase (Web ver.9)",
-    "link": "https://dev.to/lada496/to-do-list-with-firebase-web-ver9-hd8",
-    "date": "2/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React and redux",
-    "link": "https://dev.to/nelsonmalbonecoding/react-and-redux-2kok",
-    "date": "2/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Change Dark theme React",
-    "link": "https://dev.to/chenerzhang/change-dark-theme-react-o6c",
+    "title": "Create Cool Plots With React and Plotly",
+    "link": "https://dev.to/marianna13/create-cool-plots-with-react-and-plotly-494g",
     "date": "2/12/2022",
     "site": "dev.to"
   },
@@ -304,156 +454,6 @@
     "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
     "date": "2/11/2022",
     "site": "css-tricks"
-  },
-  {
-    "title": "Building a Radio Button",
-    "link": "https://dev.to/simonnystrom/building-a-radio-button-2khn",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte VS React, which one?",
-    "link": "https://dev.to/dimaodin/svelte-vs-react-which-one-5gif",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Django Templates with React",
-    "link": "https://dev.to/kozlovzxc/django-templates-with-react-4hko",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Compilation - Outstanding React meetups in January 2022",
-    "link": "https://dev.to/meetupfeedio/a-compilation-outstanding-react-meetups-in-january-2022-4ko0",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Data Visualizations with React",
-    "link": "https://dev.to/nabeelvalley/build-data-visualizations-with-react-35al",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Radio Button",
-    "link": "https://dev.to/simonnystrom/building-a-radio-button-2khn",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte VS React, which one?",
-    "link": "https://dev.to/dimaodin/svelte-vs-react-which-one-5gif",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Django Templates with React",
-    "link": "https://dev.to/kozlovzxc/django-templates-with-react-4hko",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Compilation - Outstanding React meetups in January 2022",
-    "link": "https://dev.to/meetupfeedio/a-compilation-outstanding-react-meetups-in-january-2022-4ko0",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Data Visualizations with React",
-    "link": "https://dev.to/nabeelvalley/build-data-visualizations-with-react-35al",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Radio Button",
-    "link": "https://dev.to/simonnystrom/building-a-radio-button-2khn",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte VS React, which one?",
-    "link": "https://dev.to/dimaodin/svelte-vs-react-which-one-5gif",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Django Templates with React",
-    "link": "https://dev.to/kozlovzxc/django-templates-with-react-4hko",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Compilation - Outstanding React meetups in January 2022",
-    "link": "https://dev.to/meetupfeedio/a-compilation-outstanding-react-meetups-in-january-2022-4ko0",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Data Visualizations with React",
-    "link": "https://dev.to/nabeelvalley/build-data-visualizations-with-react-35al",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Radio Button",
-    "link": "https://dev.to/simonnystrom/building-a-radio-button-2khn",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte VS React, which one?",
-    "link": "https://dev.to/dimaodin/svelte-vs-react-which-one-5gif",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Django Templates with React",
-    "link": "https://dev.to/kozlovzxc/django-templates-with-react-4hko",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Compilation - Outstanding React meetups in January 2022",
-    "link": "https://dev.to/meetupfeedio/a-compilation-outstanding-react-meetups-in-january-2022-4ko0",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Data Visualizations with React",
-    "link": "https://dev.to/nabeelvalley/build-data-visualizations-with-react-35al",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Radio Button",
-    "link": "https://dev.to/simonnystrom/building-a-radio-button-2khn",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte VS React, which one?",
-    "link": "https://dev.to/dimaodin/svelte-vs-react-which-one-5gif",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Django Templates with React",
-    "link": "https://dev.to/kozlovzxc/django-templates-with-react-4hko",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Compilation - Outstanding React meetups in January 2022",
-    "link": "https://dev.to/meetupfeedio/a-compilation-outstanding-react-meetups-in-january-2022-4ko0",
-    "date": "2/11/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Data Visualizations with React",
-    "link": "https://dev.to/nabeelvalley/build-data-visualizations-with-react-35al",
-    "date": "2/11/2022",
-    "site": "dev.to"
   },
   {
     "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
@@ -677,9 +677,15 @@
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
+  },
+  {
+    "title": "Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator",
+    "link": "https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/",
+    "date": "7/1/2021",
+    "site": "css-tricks"
   },
   {
     "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
@@ -900,7 +906,7 @@
   {
     "title": "How To Build A GraphQL Server Using Next.js API Routes",
     "link": "https://www.smashingmagazine.com/2020/10/graphql-server-next-javascript-api-routes/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "10/29/2020",
     "site": "smashingmagazine"
   },
@@ -963,7 +969,7 @@
   {
     "title": "Animating React Components With GreenSock",
     "link": "https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "9/14/2020",
     "site": "smashingmagazine"
   },
@@ -1211,12 +1217,6 @@
     "title": "Using FuseBox as a Bundling Alternative to webpack for React",
     "link": "https://css-tricks.com/using-fusebox-as-a-bundling-alternative-to-webpack-for-react/",
     "date": "3/1/2019",
-    "site": "css-tricks"
-  },
-  {
-    "title": "Model-Based Testing in React with State Machines",
-    "link": "https://css-tricks.com/model-based-testing-in-react-with-state-machines/",
-    "date": "1/4/2019",
     "site": "css-tricks"
   },
   {
