@@ -1,7 +1,589 @@
 [
   {
-    "title": "React Hook : useState()",
-    "link": "https://yipcode.hashnode.dev/react-hook-usestate",
+    "title": "Technology",
+    "link": "https://sachin534.hashnode.dev/technology",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Full Stack development in 2022: trends, frameworks and languages.",
+    "link": "https://bognov.tech/full-stack-development-in-2022-trends-frameworks-and-languages",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Supercharge Web DX in Svelte way",
+    "link": "https://davipon.hashnode.dev/supercharge-web-dx-in-svelte-way",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "TypeScript utility types: Pick and Omit",
+    "link": "https://h.daily-dev-tips.com/typescript-utility-types-pick-and-omit",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Experience of Working at Startup",
+    "link": "https://samblogs.hashnode.dev/experience-of-working-at-startup",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "LeetCode TwoSum JavaScript Solution",
+    "link": "https://jimboslice.hashnode.dev/leetcode-twosum-javascript-solution",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Multiple menu drop-downs with vanilla js",
+    "link": "https://dev.to/wyattmarshalldev/multiple-menu-drop-downs-with-vanilla-js-29d5",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary:  75. Sort Colors",
+    "link": "https://dev.to/kevin074/leetcode-diary-75-sort-colors-1dig",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supercharge Web DX in Svelte way",
+    "link": "https://dev.to/davipon/supercharge-web-dx-in-svelte-way-3nke",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Organize large React Applications like this",
+    "link": "https://dev.to/darshancodes/organize-large-react-applications-like-this-1pgk",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "6 Killer Utility Functions in JavaScript",
+    "link": "https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node Js File System",
+    "link": "https://dev.to/shabikashab/node-js-file-system-dl7",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Setup and Integrate Umami to Your Next.js Site",
+    "link": "https://dev.to/yehezkielgunawan/how-to-setup-and-integrate-umami-to-your-nextjs-site-ahf",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Miracle Money Magnets",
+    "link": "https://dev.to/shiv99/miracle-money-magnets-4m09",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Basic React Router 6 Setup",
+    "link": "https://dev.to/mhx/my-basic-react-router-6-setup-58c7",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning from The Odin Project.",
+    "link": "https://dev.to/henchman4/learning-from-the-odin-project-4241",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 2/100, 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-2100-100-days-of-code-4cen",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Planning a React Application",
+    "link": "https://dev.to/fkkarakurt/planning-a-react-application-3pe4",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript utility types: Pick and Omit",
+    "link": "https://dev.to/dailydevtips1/typescript-utility-types-pick-and-omit-135e",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Technology",
+    "link": "https://sachin534.hashnode.dev/technology",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Full Stack development in 2022: trends, frameworks and languages.",
+    "link": "https://bognov.tech/full-stack-development-in-2022-trends-frameworks-and-languages",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Supercharge Web DX in Svelte way",
+    "link": "https://davipon.hashnode.dev/supercharge-web-dx-in-svelte-way",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "TypeScript utility types: Pick and Omit",
+    "link": "https://h.daily-dev-tips.com/typescript-utility-types-pick-and-omit",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Experience of Working at Startup",
+    "link": "https://samblogs.hashnode.dev/experience-of-working-at-startup",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "LeetCode TwoSum JavaScript Solution",
+    "link": "https://jimboslice.hashnode.dev/leetcode-twosum-javascript-solution",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Multiple menu drop-downs with vanilla js",
+    "link": "https://dev.to/wyattmarshalldev/multiple-menu-drop-downs-with-vanilla-js-29d5",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary:  75. Sort Colors",
+    "link": "https://dev.to/kevin074/leetcode-diary-75-sort-colors-1dig",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supercharge Web DX in Svelte way",
+    "link": "https://dev.to/davipon/supercharge-web-dx-in-svelte-way-3nke",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Organize large React Applications like this",
+    "link": "https://dev.to/darshancodes/organize-large-react-applications-like-this-1pgk",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "6 Killer Utility Functions in JavaScript",
+    "link": "https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node Js File System",
+    "link": "https://dev.to/shabikashab/node-js-file-system-dl7",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Setup and Integrate Umami to Your Next.js Site",
+    "link": "https://dev.to/yehezkielgunawan/how-to-setup-and-integrate-umami-to-your-nextjs-site-ahf",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Miracle Money Magnets",
+    "link": "https://dev.to/shiv99/miracle-money-magnets-4m09",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Basic React Router 6 Setup",
+    "link": "https://dev.to/mhx/my-basic-react-router-6-setup-58c7",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning from The Odin Project.",
+    "link": "https://dev.to/henchman4/learning-from-the-odin-project-4241",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 2/100, 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-2100-100-days-of-code-4cen",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Planning a React Application",
+    "link": "https://dev.to/fkkarakurt/planning-a-react-application-3pe4",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript utility types: Pick and Omit",
+    "link": "https://dev.to/dailydevtips1/typescript-utility-types-pick-and-omit-135e",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Technology",
+    "link": "https://sachin534.hashnode.dev/technology",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Full Stack development in 2022: trends, frameworks and languages.",
+    "link": "https://bognov.tech/full-stack-development-in-2022-trends-frameworks-and-languages",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Supercharge Web DX in Svelte way",
+    "link": "https://davipon.hashnode.dev/supercharge-web-dx-in-svelte-way",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "TypeScript utility types: Pick and Omit",
+    "link": "https://h.daily-dev-tips.com/typescript-utility-types-pick-and-omit",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Experience of Working at Startup",
+    "link": "https://samblogs.hashnode.dev/experience-of-working-at-startup",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "LeetCode TwoSum JavaScript Solution",
+    "link": "https://jimboslice.hashnode.dev/leetcode-twosum-javascript-solution",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Multiple menu drop-downs with vanilla js",
+    "link": "https://dev.to/wyattmarshalldev/multiple-menu-drop-downs-with-vanilla-js-29d5",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary:  75. Sort Colors",
+    "link": "https://dev.to/kevin074/leetcode-diary-75-sort-colors-1dig",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supercharge Web DX in Svelte way",
+    "link": "https://dev.to/davipon/supercharge-web-dx-in-svelte-way-3nke",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Organize large React Applications like this",
+    "link": "https://dev.to/darshancodes/organize-large-react-applications-like-this-1pgk",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "6 Killer Utility Functions in JavaScript",
+    "link": "https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node Js File System",
+    "link": "https://dev.to/shabikashab/node-js-file-system-dl7",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Setup and Integrate Umami to Your Next.js Site",
+    "link": "https://dev.to/yehezkielgunawan/how-to-setup-and-integrate-umami-to-your-nextjs-site-ahf",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Miracle Money Magnets",
+    "link": "https://dev.to/shiv99/miracle-money-magnets-4m09",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Basic React Router 6 Setup",
+    "link": "https://dev.to/mhx/my-basic-react-router-6-setup-58c7",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning from The Odin Project.",
+    "link": "https://dev.to/henchman4/learning-from-the-odin-project-4241",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 2/100, 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-2100-100-days-of-code-4cen",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Planning a React Application",
+    "link": "https://dev.to/fkkarakurt/planning-a-react-application-3pe4",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript utility types: Pick and Omit",
+    "link": "https://dev.to/dailydevtips1/typescript-utility-types-pick-and-omit-135e",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Technology",
+    "link": "https://sachin534.hashnode.dev/technology",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Full Stack development in 2022: trends, frameworks and languages.",
+    "link": "https://bognov.tech/full-stack-development-in-2022-trends-frameworks-and-languages",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Supercharge Web DX in Svelte way",
+    "link": "https://davipon.hashnode.dev/supercharge-web-dx-in-svelte-way",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "TypeScript utility types: Pick and Omit",
+    "link": "https://h.daily-dev-tips.com/typescript-utility-types-pick-and-omit",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Experience of Working at Startup",
+    "link": "https://samblogs.hashnode.dev/experience-of-working-at-startup",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "LeetCode TwoSum JavaScript Solution",
+    "link": "https://jimboslice.hashnode.dev/leetcode-twosum-javascript-solution",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Multiple menu drop-downs with vanilla js",
+    "link": "https://dev.to/wyattmarshalldev/multiple-menu-drop-downs-with-vanilla-js-29d5",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary:  75. Sort Colors",
+    "link": "https://dev.to/kevin074/leetcode-diary-75-sort-colors-1dig",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supercharge Web DX in Svelte way",
+    "link": "https://dev.to/davipon/supercharge-web-dx-in-svelte-way-3nke",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Organize large React Applications like this",
+    "link": "https://dev.to/darshancodes/organize-large-react-applications-like-this-1pgk",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "6 Killer Utility Functions in JavaScript",
+    "link": "https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node Js File System",
+    "link": "https://dev.to/shabikashab/node-js-file-system-dl7",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Setup and Integrate Umami to Your Next.js Site",
+    "link": "https://dev.to/yehezkielgunawan/how-to-setup-and-integrate-umami-to-your-nextjs-site-ahf",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Miracle Money Magnets",
+    "link": "https://dev.to/shiv99/miracle-money-magnets-4m09",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Basic React Router 6 Setup",
+    "link": "https://dev.to/mhx/my-basic-react-router-6-setup-58c7",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning from The Odin Project.",
+    "link": "https://dev.to/henchman4/learning-from-the-odin-project-4241",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 2/100, 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-2100-100-days-of-code-4cen",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Planning a React Application",
+    "link": "https://dev.to/fkkarakurt/planning-a-react-application-3pe4",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript utility types: Pick and Omit",
+    "link": "https://dev.to/dailydevtips1/typescript-utility-types-pick-and-omit-135e",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Technology",
+    "link": "https://sachin534.hashnode.dev/technology",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Full Stack development in 2022: trends, frameworks and languages.",
+    "link": "https://bognov.tech/full-stack-development-in-2022-trends-frameworks-and-languages",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Supercharge Web DX in Svelte way",
+    "link": "https://davipon.hashnode.dev/supercharge-web-dx-in-svelte-way",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "TypeScript utility types: Pick and Omit",
+    "link": "https://h.daily-dev-tips.com/typescript-utility-types-pick-and-omit",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Experience of Working at Startup",
+    "link": "https://samblogs.hashnode.dev/experience-of-working-at-startup",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "LeetCode TwoSum JavaScript Solution",
+    "link": "https://jimboslice.hashnode.dev/leetcode-twosum-javascript-solution",
+    "date": "2/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Multiple menu drop-downs with vanilla js",
+    "link": "https://dev.to/wyattmarshalldev/multiple-menu-drop-downs-with-vanilla-js-29d5",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leetcode diary:  75. Sort Colors",
+    "link": "https://dev.to/kevin074/leetcode-diary-75-sort-colors-1dig",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supercharge Web DX in Svelte way",
+    "link": "https://dev.to/davipon/supercharge-web-dx-in-svelte-way-3nke",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Organize large React Applications like this",
+    "link": "https://dev.to/darshancodes/organize-large-react-applications-like-this-1pgk",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "6 Killer Utility Functions in JavaScript",
+    "link": "https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node Js File System",
+    "link": "https://dev.to/shabikashab/node-js-file-system-dl7",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Setup and Integrate Umami to Your Next.js Site",
+    "link": "https://dev.to/yehezkielgunawan/how-to-setup-and-integrate-umami-to-your-nextjs-site-ahf",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Miracle Money Magnets",
+    "link": "https://dev.to/shiv99/miracle-money-magnets-4m09",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Basic React Router 6 Setup",
+    "link": "https://dev.to/mhx/my-basic-react-router-6-setup-58c7",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning from The Odin Project.",
+    "link": "https://dev.to/henchman4/learning-from-the-odin-project-4241",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 2/100, 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-2100-100-days-of-code-4cen",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Planning a React Application",
+    "link": "https://dev.to/fkkarakurt/planning-a-react-application-3pe4",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript utility types: Pick and Omit",
+    "link": "https://dev.to/dailydevtips1/typescript-utility-types-pick-and-omit-135e",
+    "date": "2/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "To Infinity and beyond 🚀🚀",
+    "link": "https://qahwah.hashnode.dev/to-infinity-and-beyond",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "4 Ways to Handle Async Operations in Javascript",
+    "link": "https://blog.mayallo.com/4-ways-to-handle-async-operations-in-javascript",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Creating a Chai like assertion library using proxies",
+    "link": "https://hn.berganza.dev/creating-a-chai-like-assertion-library-using-proxies",
     "date": "2/19/2022",
     "site": "hashnode"
   },
@@ -12,80 +594,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Flutter: Providing non-objects.",
-    "link": "https://dev.to/shanmathi/providing-non-objects-33j0",
+    "title": "What is JavaScript?",
+    "link": "https://timotech.hashnode.dev/what-is-javascript",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The most useful Arabic resources to learn programming 👌",
+    "link": "https://mostafaamine.tech/the-most-useful-arabic-resources-to-learn-programming",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 6 #100DaysofCode.\nQuiz App Using JavaScript",
+    "link": "https://ayomisco.hashnode.dev/day-6-100daysofcode-quiz-app-using-javascript",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "So, Lets Talk Javascript: Bindings, Expressions and Statements",
+    "link": "https://chukwuemekangumoha.hashnode.dev/so-lets-talk-javascript-bindings-expressions-and-statements",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introduction to my PoW based Cryptocurrency",
+    "link": "https://vitalik-hakim-codes.hashnode.dev/introduction-to-my-pow-based-cryptocurrency",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "tsParticles 1.41.3 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-1413-released-dp",
     "date": "2/19/2022",
     "site": "dev.to"
   },
   {
-    "title": "Yjs + typegoose = yTypegoose",
-    "link": "https://dev.to/wes5510/yjs-typegoose-ytypegoose-3b74",
+    "title": "To Infinity and beyond 🚀🚀",
+    "link": "https://qahwah.hashnode.dev/to-infinity-and-beyond",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "모바일에서 invalid date",
-    "link": "https://dev.to/wes5510/mobaileseo-invalid-date-oi5",
+    "title": "4 Ways to Handle Async Operations in Javascript",
+    "link": "https://blog.mayallo.com/4-ways-to-handle-async-operations-in-javascript",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Renew Dental - Dental Results, Benefits, Price And Worth The Money?",
-    "link": "https://dev.to/renewdentalinfo/renew-dental-dental-results-benefits-price-and-worth-the-money-moj",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript utility types: Partial and Required",
-    "link": "https://dev.to/dailydevtips1/typescript-utility-types-partial-and-required-1klm",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Ultimate List of 7 Perfect Vue 3 UI Libraries for every project\n",
-    "link": "https://dev.to/ranaharoon3222/the-ultimate-list-of-7-perfect-vue-3-ui-libraries-for-every-project-1l39",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "[Javascript] Scope",
-    "link": "https://dev.to/joylee/javascript-scope-1230",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Guess who's new here 🎉",
-    "link": "https://dev.to/csfreak28/guess-whos-new-here-9pi",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "GlucoTrust - Blood Sugar Reviews, Benefits, Results And Warnings?",
-    "link": "https://dev.to/glucotrustfact/glucotrust-blood-sugar-reviews-benefits-results-and-warnings-17p2",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hanging on for dear life!",
-    "link": "https://dev.to/jareichert/hanging-on-for-dear-life-352",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSX in React",
-    "link": "https://dev.to/shabikashab/jsx-in-react-7o2",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async and Await",
-    "link": "https://dev.to/shivam164/async-and-await-d6m",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hook : useState()",
-    "link": "https://yipcode.hashnode.dev/react-hook-usestate",
+    "title": "Creating a Chai like assertion library using proxies",
+    "link": "https://hn.berganza.dev/creating-a-chai-like-assertion-library-using-proxies",
     "date": "2/19/2022",
     "site": "hashnode"
   },
@@ -96,80 +654,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Flutter: Providing non-objects.",
-    "link": "https://dev.to/shanmathi/providing-non-objects-33j0",
+    "title": "What is JavaScript?",
+    "link": "https://timotech.hashnode.dev/what-is-javascript",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The most useful Arabic resources to learn programming 👌",
+    "link": "https://mostafaamine.tech/the-most-useful-arabic-resources-to-learn-programming",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 6 #100DaysofCode.\nQuiz App Using JavaScript",
+    "link": "https://ayomisco.hashnode.dev/day-6-100daysofcode-quiz-app-using-javascript",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "So, Lets Talk Javascript: Bindings, Expressions and Statements",
+    "link": "https://chukwuemekangumoha.hashnode.dev/so-lets-talk-javascript-bindings-expressions-and-statements",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introduction to my PoW based Cryptocurrency",
+    "link": "https://vitalik-hakim-codes.hashnode.dev/introduction-to-my-pow-based-cryptocurrency",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "tsParticles 1.41.3 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-1413-released-dp",
     "date": "2/19/2022",
     "site": "dev.to"
   },
   {
-    "title": "Yjs + typegoose = yTypegoose",
-    "link": "https://dev.to/wes5510/yjs-typegoose-ytypegoose-3b74",
+    "title": "To Infinity and beyond 🚀🚀",
+    "link": "https://qahwah.hashnode.dev/to-infinity-and-beyond",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "모바일에서 invalid date",
-    "link": "https://dev.to/wes5510/mobaileseo-invalid-date-oi5",
+    "title": "4 Ways to Handle Async Operations in Javascript",
+    "link": "https://blog.mayallo.com/4-ways-to-handle-async-operations-in-javascript",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Renew Dental - Dental Results, Benefits, Price And Worth The Money?",
-    "link": "https://dev.to/renewdentalinfo/renew-dental-dental-results-benefits-price-and-worth-the-money-moj",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript utility types: Partial and Required",
-    "link": "https://dev.to/dailydevtips1/typescript-utility-types-partial-and-required-1klm",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Ultimate List of 7 Perfect Vue 3 UI Libraries for every project\n",
-    "link": "https://dev.to/ranaharoon3222/the-ultimate-list-of-7-perfect-vue-3-ui-libraries-for-every-project-1l39",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "[Javascript] Scope",
-    "link": "https://dev.to/joylee/javascript-scope-1230",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Guess who's new here 🎉",
-    "link": "https://dev.to/csfreak28/guess-whos-new-here-9pi",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "GlucoTrust - Blood Sugar Reviews, Benefits, Results And Warnings?",
-    "link": "https://dev.to/glucotrustfact/glucotrust-blood-sugar-reviews-benefits-results-and-warnings-17p2",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hanging on for dear life!",
-    "link": "https://dev.to/jareichert/hanging-on-for-dear-life-352",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSX in React",
-    "link": "https://dev.to/shabikashab/jsx-in-react-7o2",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async and Await",
-    "link": "https://dev.to/shivam164/async-and-await-d6m",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hook : useState()",
-    "link": "https://yipcode.hashnode.dev/react-hook-usestate",
+    "title": "Creating a Chai like assertion library using proxies",
+    "link": "https://hn.berganza.dev/creating-a-chai-like-assertion-library-using-proxies",
     "date": "2/19/2022",
     "site": "hashnode"
   },
@@ -180,80 +714,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Flutter: Providing non-objects.",
-    "link": "https://dev.to/shanmathi/providing-non-objects-33j0",
+    "title": "What is JavaScript?",
+    "link": "https://timotech.hashnode.dev/what-is-javascript",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The most useful Arabic resources to learn programming 👌",
+    "link": "https://mostafaamine.tech/the-most-useful-arabic-resources-to-learn-programming",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 6 #100DaysofCode.\nQuiz App Using JavaScript",
+    "link": "https://ayomisco.hashnode.dev/day-6-100daysofcode-quiz-app-using-javascript",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "So, Lets Talk Javascript: Bindings, Expressions and Statements",
+    "link": "https://chukwuemekangumoha.hashnode.dev/so-lets-talk-javascript-bindings-expressions-and-statements",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introduction to my PoW based Cryptocurrency",
+    "link": "https://vitalik-hakim-codes.hashnode.dev/introduction-to-my-pow-based-cryptocurrency",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "tsParticles 1.41.3 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-1413-released-dp",
     "date": "2/19/2022",
     "site": "dev.to"
   },
   {
-    "title": "Yjs + typegoose = yTypegoose",
-    "link": "https://dev.to/wes5510/yjs-typegoose-ytypegoose-3b74",
+    "title": "To Infinity and beyond 🚀🚀",
+    "link": "https://qahwah.hashnode.dev/to-infinity-and-beyond",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "모바일에서 invalid date",
-    "link": "https://dev.to/wes5510/mobaileseo-invalid-date-oi5",
+    "title": "4 Ways to Handle Async Operations in Javascript",
+    "link": "https://blog.mayallo.com/4-ways-to-handle-async-operations-in-javascript",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Renew Dental - Dental Results, Benefits, Price And Worth The Money?",
-    "link": "https://dev.to/renewdentalinfo/renew-dental-dental-results-benefits-price-and-worth-the-money-moj",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript utility types: Partial and Required",
-    "link": "https://dev.to/dailydevtips1/typescript-utility-types-partial-and-required-1klm",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Ultimate List of 7 Perfect Vue 3 UI Libraries for every project\n",
-    "link": "https://dev.to/ranaharoon3222/the-ultimate-list-of-7-perfect-vue-3-ui-libraries-for-every-project-1l39",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "[Javascript] Scope",
-    "link": "https://dev.to/joylee/javascript-scope-1230",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Guess who's new here 🎉",
-    "link": "https://dev.to/csfreak28/guess-whos-new-here-9pi",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "GlucoTrust - Blood Sugar Reviews, Benefits, Results And Warnings?",
-    "link": "https://dev.to/glucotrustfact/glucotrust-blood-sugar-reviews-benefits-results-and-warnings-17p2",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hanging on for dear life!",
-    "link": "https://dev.to/jareichert/hanging-on-for-dear-life-352",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSX in React",
-    "link": "https://dev.to/shabikashab/jsx-in-react-7o2",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async and Await",
-    "link": "https://dev.to/shivam164/async-and-await-d6m",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hook : useState()",
-    "link": "https://yipcode.hashnode.dev/react-hook-usestate",
+    "title": "Creating a Chai like assertion library using proxies",
+    "link": "https://hn.berganza.dev/creating-a-chai-like-assertion-library-using-proxies",
     "date": "2/19/2022",
     "site": "hashnode"
   },
@@ -264,80 +774,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Flutter: Providing non-objects.",
-    "link": "https://dev.to/shanmathi/providing-non-objects-33j0",
+    "title": "What is JavaScript?",
+    "link": "https://timotech.hashnode.dev/what-is-javascript",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The most useful Arabic resources to learn programming 👌",
+    "link": "https://mostafaamine.tech/the-most-useful-arabic-resources-to-learn-programming",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 6 #100DaysofCode.\nQuiz App Using JavaScript",
+    "link": "https://ayomisco.hashnode.dev/day-6-100daysofcode-quiz-app-using-javascript",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "So, Lets Talk Javascript: Bindings, Expressions and Statements",
+    "link": "https://chukwuemekangumoha.hashnode.dev/so-lets-talk-javascript-bindings-expressions-and-statements",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introduction to my PoW based Cryptocurrency",
+    "link": "https://vitalik-hakim-codes.hashnode.dev/introduction-to-my-pow-based-cryptocurrency",
+    "date": "2/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "tsParticles 1.41.3 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-1413-released-dp",
     "date": "2/19/2022",
     "site": "dev.to"
   },
   {
-    "title": "Yjs + typegoose = yTypegoose",
-    "link": "https://dev.to/wes5510/yjs-typegoose-ytypegoose-3b74",
+    "title": "To Infinity and beyond 🚀🚀",
+    "link": "https://qahwah.hashnode.dev/to-infinity-and-beyond",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "모바일에서 invalid date",
-    "link": "https://dev.to/wes5510/mobaileseo-invalid-date-oi5",
+    "title": "4 Ways to Handle Async Operations in Javascript",
+    "link": "https://blog.mayallo.com/4-ways-to-handle-async-operations-in-javascript",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Renew Dental - Dental Results, Benefits, Price And Worth The Money?",
-    "link": "https://dev.to/renewdentalinfo/renew-dental-dental-results-benefits-price-and-worth-the-money-moj",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript utility types: Partial and Required",
-    "link": "https://dev.to/dailydevtips1/typescript-utility-types-partial-and-required-1klm",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Ultimate List of 7 Perfect Vue 3 UI Libraries for every project\n",
-    "link": "https://dev.to/ranaharoon3222/the-ultimate-list-of-7-perfect-vue-3-ui-libraries-for-every-project-1l39",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "[Javascript] Scope",
-    "link": "https://dev.to/joylee/javascript-scope-1230",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Guess who's new here 🎉",
-    "link": "https://dev.to/csfreak28/guess-whos-new-here-9pi",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "GlucoTrust - Blood Sugar Reviews, Benefits, Results And Warnings?",
-    "link": "https://dev.to/glucotrustfact/glucotrust-blood-sugar-reviews-benefits-results-and-warnings-17p2",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hanging on for dear life!",
-    "link": "https://dev.to/jareichert/hanging-on-for-dear-life-352",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSX in React",
-    "link": "https://dev.to/shabikashab/jsx-in-react-7o2",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async and Await",
-    "link": "https://dev.to/shivam164/async-and-await-d6m",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hook : useState()",
-    "link": "https://yipcode.hashnode.dev/react-hook-usestate",
+    "title": "Creating a Chai like assertion library using proxies",
+    "link": "https://hn.berganza.dev/creating-a-chai-like-assertion-library-using-proxies",
     "date": "2/19/2022",
     "site": "hashnode"
   },
@@ -348,74 +834,38 @@
     "site": "hashnode"
   },
   {
-    "title": "Flutter: Providing non-objects.",
-    "link": "https://dev.to/shanmathi/providing-non-objects-33j0",
+    "title": "What is JavaScript?",
+    "link": "https://timotech.hashnode.dev/what-is-javascript",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Yjs + typegoose = yTypegoose",
-    "link": "https://dev.to/wes5510/yjs-typegoose-ytypegoose-3b74",
+    "title": "The most useful Arabic resources to learn programming 👌",
+    "link": "https://mostafaamine.tech/the-most-useful-arabic-resources-to-learn-programming",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "모바일에서 invalid date",
-    "link": "https://dev.to/wes5510/mobaileseo-invalid-date-oi5",
+    "title": "Day 6 #100DaysofCode.\nQuiz App Using JavaScript",
+    "link": "https://ayomisco.hashnode.dev/day-6-100daysofcode-quiz-app-using-javascript",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Renew Dental - Dental Results, Benefits, Price And Worth The Money?",
-    "link": "https://dev.to/renewdentalinfo/renew-dental-dental-results-benefits-price-and-worth-the-money-moj",
+    "title": "So, Lets Talk Javascript: Bindings, Expressions and Statements",
+    "link": "https://chukwuemekangumoha.hashnode.dev/so-lets-talk-javascript-bindings-expressions-and-statements",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "TypeScript utility types: Partial and Required",
-    "link": "https://dev.to/dailydevtips1/typescript-utility-types-partial-and-required-1klm",
+    "title": "Introduction to my PoW based Cryptocurrency",
+    "link": "https://vitalik-hakim-codes.hashnode.dev/introduction-to-my-pow-based-cryptocurrency",
     "date": "2/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "The Ultimate List of 7 Perfect Vue 3 UI Libraries for every project\n",
-    "link": "https://dev.to/ranaharoon3222/the-ultimate-list-of-7-perfect-vue-3-ui-libraries-for-every-project-1l39",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "[Javascript] Scope",
-    "link": "https://dev.to/joylee/javascript-scope-1230",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Guess who's new here 🎉",
-    "link": "https://dev.to/csfreak28/guess-whos-new-here-9pi",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "GlucoTrust - Blood Sugar Reviews, Benefits, Results And Warnings?",
-    "link": "https://dev.to/glucotrustfact/glucotrust-blood-sugar-reviews-benefits-results-and-warnings-17p2",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hanging on for dear life!",
-    "link": "https://dev.to/jareichert/hanging-on-for-dear-life-352",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSX in React",
-    "link": "https://dev.to/shabikashab/jsx-in-react-7o2",
-    "date": "2/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async and Await",
-    "link": "https://dev.to/shivam164/async-and-await-d6m",
+    "title": "tsParticles 1.41.3 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-1413-released-dp",
     "date": "2/19/2022",
     "site": "dev.to"
   },
@@ -426,483 +876,33 @@
     "site": "css-tricks"
   },
   {
-    "title": "6 Free Resources to help you become a Senior Frontend Engineer",
-    "link": "https://divyamrastogi.in/6-free-resources-to-help-you-become-a-senior-frontend-engineer",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization to improve UI performance in ReactJS",
-    "link": "https://yashpaneliya.hashnode.dev/memoization-to-improve-ui-performance-in-reactjs",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "👑 Higher Order Functions  (Part 1)",
-    "link": "https://milindmishra.me/higher-order-functions-part-1",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 3 of 100 days of Code: BlackJack 1",
-    "link": "https://nkem.hashnode.dev/day-3-of-100-days-of-code-blackjack-1",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "100 Days of Code day 10 Linked List Data Structure",
-    "link": "https://myblog.riegercodes.com/100-days-of-code-day-10-linked-list-data-structure",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TypeScript types and interfaces",
-    "link": "https://h.daily-dev-tips.com/typescript-types-and-interfaces",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization in javascript",
-    "link": "https://gercocca.hashnode.dev/memoization-in-javascript",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How I learnt to think in React!",
-    "link": "https://learn-react.hashnode.dev/how-i-learnt-to-think-in-react",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add ESlint, Prettier, and Husky (Git Hook) in React JS 2022",
-    "link": "https://nerdjfpb.hashnode.dev/how-to-add-eslint-prettier-and-husky-git-hook-in-react-js-2022",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React vs Svelte?\nWhy you may want to use a framework rather than library.",
-    "link": "https://samuelokeke.hashnode.dev/react-vs-svelte-why-you-may-want-to-use-a-framework-rather-than-library",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Sorting - part 2",
-    "link": "https://divyajyotiuk.hashnode.dev/sorting-part-2",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JSWORLD Conference Recordings ready for you..",
-    "link": "https://jsworld.hashnode.dev/jsworld-conference-recordings-ready-for-you",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Fetching data with React",
-    "link": "https://brunosabot.hashnode.dev/fetching-data-with-react",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reset Final Cut Pro & Logic Pro",
-    "link": "https://dev.to/ravics09/reset-final-cut-pro-logic-pro-h0p",
-    "date": "2/18/2022",
+    "title": "The Harsh Reality for JS Developers: If You Don't Study The Fundamentals You Will Be Just Another “Coder”",
+    "link": "https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke",
+    "date": "2/16/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Get Logos From Your Favorites Libraries ",
-    "link": "https://dev.to/zavbala/how-to-get-logos-from-your-favorites-libraries-kg4",
-    "date": "2/18/2022",
+    "title": "The Harsh Reality for JS Developers: If You Don't Study The Fundamentals You Will Be Just Another “Coder”",
+    "link": "https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke",
+    "date": "2/16/2022",
     "site": "dev.to"
   },
   {
-    "title": "Making Karlson Since Dani Will Not Relese it on steam!",
-    "link": "https://dev.to/orangedragondev/making-karlson-since-dani-will-not-relese-it-on-steam-1hko",
-    "date": "2/18/2022",
+    "title": "The Harsh Reality for JS Developers: If You Don't Study The Fundamentals You Will Be Just Another “Coder”",
+    "link": "https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke",
+    "date": "2/16/2022",
     "site": "dev.to"
   },
   {
-    "title": "6 Free Resources to help you become a Senior Frontend Engineer",
-    "link": "https://divyamrastogi.in/6-free-resources-to-help-you-become-a-senior-frontend-engineer",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization to improve UI performance in ReactJS",
-    "link": "https://yashpaneliya.hashnode.dev/memoization-to-improve-ui-performance-in-reactjs",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "👑 Higher Order Functions  (Part 1)",
-    "link": "https://milindmishra.me/higher-order-functions-part-1",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 3 of 100 days of Code: BlackJack 1",
-    "link": "https://nkem.hashnode.dev/day-3-of-100-days-of-code-blackjack-1",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "100 Days of Code day 10 Linked List Data Structure",
-    "link": "https://myblog.riegercodes.com/100-days-of-code-day-10-linked-list-data-structure",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TypeScript types and interfaces",
-    "link": "https://h.daily-dev-tips.com/typescript-types-and-interfaces",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization in javascript",
-    "link": "https://gercocca.hashnode.dev/memoization-in-javascript",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How I learnt to think in React!",
-    "link": "https://learn-react.hashnode.dev/how-i-learnt-to-think-in-react",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add ESlint, Prettier, and Husky (Git Hook) in React JS 2022",
-    "link": "https://nerdjfpb.hashnode.dev/how-to-add-eslint-prettier-and-husky-git-hook-in-react-js-2022",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React vs Svelte?\nWhy you may want to use a framework rather than library.",
-    "link": "https://samuelokeke.hashnode.dev/react-vs-svelte-why-you-may-want-to-use-a-framework-rather-than-library",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Sorting - part 2",
-    "link": "https://divyajyotiuk.hashnode.dev/sorting-part-2",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JSWORLD Conference Recordings ready for you..",
-    "link": "https://jsworld.hashnode.dev/jsworld-conference-recordings-ready-for-you",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Fetching data with React",
-    "link": "https://brunosabot.hashnode.dev/fetching-data-with-react",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reset Final Cut Pro & Logic Pro",
-    "link": "https://dev.to/ravics09/reset-final-cut-pro-logic-pro-h0p",
-    "date": "2/18/2022",
+    "title": "The Harsh Reality for JS Developers: If You Don't Study The Fundamentals You Will Be Just Another “Coder”",
+    "link": "https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke",
+    "date": "2/16/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Get Logos From Your Favorites Libraries ",
-    "link": "https://dev.to/zavbala/how-to-get-logos-from-your-favorites-libraries-kg4",
-    "date": "2/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Karlson Since Dani Will Not Relese it on steam!",
-    "link": "https://dev.to/orangedragondev/making-karlson-since-dani-will-not-relese-it-on-steam-1hko",
-    "date": "2/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "6 Free Resources to help you become a Senior Frontend Engineer",
-    "link": "https://divyamrastogi.in/6-free-resources-to-help-you-become-a-senior-frontend-engineer",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization to improve UI performance in ReactJS",
-    "link": "https://yashpaneliya.hashnode.dev/memoization-to-improve-ui-performance-in-reactjs",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "👑 Higher Order Functions  (Part 1)",
-    "link": "https://milindmishra.me/higher-order-functions-part-1",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 3 of 100 days of Code: BlackJack 1",
-    "link": "https://nkem.hashnode.dev/day-3-of-100-days-of-code-blackjack-1",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "100 Days of Code day 10 Linked List Data Structure",
-    "link": "https://myblog.riegercodes.com/100-days-of-code-day-10-linked-list-data-structure",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TypeScript types and interfaces",
-    "link": "https://h.daily-dev-tips.com/typescript-types-and-interfaces",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization in javascript",
-    "link": "https://gercocca.hashnode.dev/memoization-in-javascript",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How I learnt to think in React!",
-    "link": "https://learn-react.hashnode.dev/how-i-learnt-to-think-in-react",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add ESlint, Prettier, and Husky (Git Hook) in React JS 2022",
-    "link": "https://nerdjfpb.hashnode.dev/how-to-add-eslint-prettier-and-husky-git-hook-in-react-js-2022",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React vs Svelte?\nWhy you may want to use a framework rather than library.",
-    "link": "https://samuelokeke.hashnode.dev/react-vs-svelte-why-you-may-want-to-use-a-framework-rather-than-library",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Sorting - part 2",
-    "link": "https://divyajyotiuk.hashnode.dev/sorting-part-2",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JSWORLD Conference Recordings ready for you..",
-    "link": "https://jsworld.hashnode.dev/jsworld-conference-recordings-ready-for-you",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Fetching data with React",
-    "link": "https://brunosabot.hashnode.dev/fetching-data-with-react",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reset Final Cut Pro & Logic Pro",
-    "link": "https://dev.to/ravics09/reset-final-cut-pro-logic-pro-h0p",
-    "date": "2/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Get Logos From Your Favorites Libraries ",
-    "link": "https://dev.to/zavbala/how-to-get-logos-from-your-favorites-libraries-kg4",
-    "date": "2/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Karlson Since Dani Will Not Relese it on steam!",
-    "link": "https://dev.to/orangedragondev/making-karlson-since-dani-will-not-relese-it-on-steam-1hko",
-    "date": "2/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "6 Free Resources to help you become a Senior Frontend Engineer",
-    "link": "https://divyamrastogi.in/6-free-resources-to-help-you-become-a-senior-frontend-engineer",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization to improve UI performance in ReactJS",
-    "link": "https://yashpaneliya.hashnode.dev/memoization-to-improve-ui-performance-in-reactjs",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "👑 Higher Order Functions  (Part 1)",
-    "link": "https://milindmishra.me/higher-order-functions-part-1",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 3 of 100 days of Code: BlackJack 1",
-    "link": "https://nkem.hashnode.dev/day-3-of-100-days-of-code-blackjack-1",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "100 Days of Code day 10 Linked List Data Structure",
-    "link": "https://myblog.riegercodes.com/100-days-of-code-day-10-linked-list-data-structure",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TypeScript types and interfaces",
-    "link": "https://h.daily-dev-tips.com/typescript-types-and-interfaces",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization in javascript",
-    "link": "https://gercocca.hashnode.dev/memoization-in-javascript",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How I learnt to think in React!",
-    "link": "https://learn-react.hashnode.dev/how-i-learnt-to-think-in-react",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add ESlint, Prettier, and Husky (Git Hook) in React JS 2022",
-    "link": "https://nerdjfpb.hashnode.dev/how-to-add-eslint-prettier-and-husky-git-hook-in-react-js-2022",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React vs Svelte?\nWhy you may want to use a framework rather than library.",
-    "link": "https://samuelokeke.hashnode.dev/react-vs-svelte-why-you-may-want-to-use-a-framework-rather-than-library",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Sorting - part 2",
-    "link": "https://divyajyotiuk.hashnode.dev/sorting-part-2",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JSWORLD Conference Recordings ready for you..",
-    "link": "https://jsworld.hashnode.dev/jsworld-conference-recordings-ready-for-you",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Fetching data with React",
-    "link": "https://brunosabot.hashnode.dev/fetching-data-with-react",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reset Final Cut Pro & Logic Pro",
-    "link": "https://dev.to/ravics09/reset-final-cut-pro-logic-pro-h0p",
-    "date": "2/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Get Logos From Your Favorites Libraries ",
-    "link": "https://dev.to/zavbala/how-to-get-logos-from-your-favorites-libraries-kg4",
-    "date": "2/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Karlson Since Dani Will Not Relese it on steam!",
-    "link": "https://dev.to/orangedragondev/making-karlson-since-dani-will-not-relese-it-on-steam-1hko",
-    "date": "2/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "6 Free Resources to help you become a Senior Frontend Engineer",
-    "link": "https://divyamrastogi.in/6-free-resources-to-help-you-become-a-senior-frontend-engineer",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization to improve UI performance in ReactJS",
-    "link": "https://yashpaneliya.hashnode.dev/memoization-to-improve-ui-performance-in-reactjs",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "👑 Higher Order Functions  (Part 1)",
-    "link": "https://milindmishra.me/higher-order-functions-part-1",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 3 of 100 days of Code: BlackJack 1",
-    "link": "https://nkem.hashnode.dev/day-3-of-100-days-of-code-blackjack-1",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "100 Days of Code day 10 Linked List Data Structure",
-    "link": "https://myblog.riegercodes.com/100-days-of-code-day-10-linked-list-data-structure",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TypeScript types and interfaces",
-    "link": "https://h.daily-dev-tips.com/typescript-types-and-interfaces",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization in javascript",
-    "link": "https://gercocca.hashnode.dev/memoization-in-javascript",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How I learnt to think in React!",
-    "link": "https://learn-react.hashnode.dev/how-i-learnt-to-think-in-react",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add ESlint, Prettier, and Husky (Git Hook) in React JS 2022",
-    "link": "https://nerdjfpb.hashnode.dev/how-to-add-eslint-prettier-and-husky-git-hook-in-react-js-2022",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React vs Svelte?\nWhy you may want to use a framework rather than library.",
-    "link": "https://samuelokeke.hashnode.dev/react-vs-svelte-why-you-may-want-to-use-a-framework-rather-than-library",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Sorting - part 2",
-    "link": "https://divyajyotiuk.hashnode.dev/sorting-part-2",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JSWORLD Conference Recordings ready for you..",
-    "link": "https://jsworld.hashnode.dev/jsworld-conference-recordings-ready-for-you",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Fetching data with React",
-    "link": "https://brunosabot.hashnode.dev/fetching-data-with-react",
-    "date": "2/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reset Final Cut Pro & Logic Pro",
-    "link": "https://dev.to/ravics09/reset-final-cut-pro-logic-pro-h0p",
-    "date": "2/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Get Logos From Your Favorites Libraries ",
-    "link": "https://dev.to/zavbala/how-to-get-logos-from-your-favorites-libraries-kg4",
-    "date": "2/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Karlson Since Dani Will Not Relese it on steam!",
-    "link": "https://dev.to/orangedragondev/making-karlson-since-dani-will-not-relese-it-on-steam-1hko",
-    "date": "2/18/2022",
+    "title": "The Harsh Reality for JS Developers: If You Don't Study The Fundamentals You Will Be Just Another “Coder”",
+    "link": "https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke",
+    "date": "2/16/2022",
     "site": "dev.to"
   },
   {
@@ -967,7 +967,7 @@
   {
     "title": "How To Build An Amazon Product Scraper With Node.js",
     "link": "https://www.smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "10/28/2021",
     "site": "smashingmagazine"
   },
@@ -1041,7 +1041,7 @@
   {
     "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
     "link": "https://www.smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "9/9/2021",
     "site": "smashingmagazine"
   },
@@ -1134,6 +1134,12 @@
     "site": "smashingmagazine"
   },
   {
+    "title": "ECMAScript proposal: JSON modules",
+    "link": "https://css-tricks.com/ecmascript-proposal-json-modules/",
+    "date": "7/21/2021",
+    "site": "css-tricks"
+  },
+  {
     "title": "Typewriter Animation That Handles Anything You Throw at It",
     "link": "https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/",
     "date": "7/20/2021",
@@ -1142,7 +1148,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
@@ -1322,7 +1328,7 @@
   {
     "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing",
     "link": "https://www.smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
-    "reading_time": "20 min read",
+    "reading_time": "19 min read",
     "date": "4/7/2021",
     "site": "smashingmagazine"
   },
