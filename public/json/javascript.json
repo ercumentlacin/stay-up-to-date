@@ -1,7 +1,733 @@
 [
   {
-    "title": "HTTP request",
-    "link": "xiaobo.blog/http-request",
+    "title": "TypeScript Readonly Utility type",
+    "link": "https://h.daily-dev-tips.com/typescript-readonly-utility-type",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways of Passing Multiple Parameters to the onClick Handler in React",
+    "link": "https://openreplay.hashnode.dev/3-ways-of-passing-multiple-parameters-to-the-onclick-handler-in-react",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How does 0, 1 Binary make Everything in your computer?",
+    "link": "https://thedev.com/how-does-0-1-binary-make-everything-in-your-computer",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is TCP？",
+    "link": "https://xiaobo.blog/what-is-tcp",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Desarrollando un login con Ethereum - Parte I",
+    "link": "https://javascripted.xyz/desarrollando-un-login-con-ethereum-parte-i",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Arrays",
+    "link": "https://alwayslearningtech.com/arrays",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Best Online IDE for Fast Development",
+    "link": "https://surajondev.hashnode.dev/best-online-ide-for-fast-development",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My third React project",
+    "link": "https://babafemijk.hashnode.dev/my-third-react-project",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Compose Function in JavaScript:",
+    "link": "https://consoledotcode.hashnode.dev/compose-function-in-javascript",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Top 10 VSCode Extensions you NEED as a React developer",
+    "link": "https://ben-carter.hashnode.dev/top-10-vscode-extensions-you-need-as-a-react-developer",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Check String If its a number",
+    "link": "https://dev.to/brojenuel/check-string-if-its-a-number-4e5n",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a PDF invoice template using only typescript and jspdf-autotable",
+    "link": "https://dev.to/maxwelladn/build-a-pdf-invoice-template-using-only-typescript-and-jspdf-autotable-25gn",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Tuple Type in Typescript",
+    "link": "https://dev.to/this-is-learning/the-tuple-type-in-typescript-nb7",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Basics | Part - 4",
+    "link": "https://dev.to/elwinjyot/react-basics-part-4-bab",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Почему и как нужно транспилировать зависимости",
+    "link": "https://dev.to/dangreen/pochiemu-i-kak-nuzhno-transpilirovat-zavisimosti-5ceb",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "มาเล่น Tailwind CSS กับ Angular กัน",
+    "link": "https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-328p",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keravita Pro - Nail Fungus Results, Uses, Reviews And Ingredients",
+    "link": "https://dev.to/keravitaproinfo/keravita-pro-nail-fungus-results-uses-reviews-and-ingredients-30d2",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "PT TRIM FAT BURN: CUSTOMER REVIEW AND WARNINGS FOR NEW BUYER? MUST READ",
+    "link": "https://dev.to/jbriefert/pt-trim-fat-burn-customer-review-and-warnings-for-new-buyer-must-read-3hgb",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "RudderStack Product News - Vol. #020: SDK Event Filtering, Beacon Support for JS, and OneTrust for JS",
+    "link": "https://dev.to/rudderstack/rudderstack-product-news-vol-020-sdk-event-filtering-beacon-support-for-js-and-onetrust-for-js-1ic4",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's play Tailwind CSS with Angular",
+    "link": "https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-2i1b",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use Copilot to deploy projects on ECS",
+    "link": "https://dev.to/alichherawalla/how-to-use-copilot-to-deploy-projects-on-ecs-22ab",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Yugasa Software Labs | Best Mobile App Development Company in Gurgaon",
+    "link": "https://dev.to/yugasasoftware/yugasa-software-labs-best-mobile-app-development-company-in-gurgaon-3131",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "unit conversion using javascript",
+    "link": "https://dev.to/shijug/unit-conversion-using-javascript-5361",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Readonly Utility type",
+    "link": "https://dev.to/dailydevtips1/typescript-readonly-utility-type-pl6",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Readonly Utility type",
+    "link": "https://h.daily-dev-tips.com/typescript-readonly-utility-type",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways of Passing Multiple Parameters to the onClick Handler in React",
+    "link": "https://openreplay.hashnode.dev/3-ways-of-passing-multiple-parameters-to-the-onclick-handler-in-react",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How does 0, 1 Binary make Everything in your computer?",
+    "link": "https://thedev.com/how-does-0-1-binary-make-everything-in-your-computer",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is TCP？",
+    "link": "https://xiaobo.blog/what-is-tcp",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Desarrollando un login con Ethereum - Parte I",
+    "link": "https://javascripted.xyz/desarrollando-un-login-con-ethereum-parte-i",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Arrays",
+    "link": "https://alwayslearningtech.com/arrays",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Best Online IDE for Fast Development",
+    "link": "https://surajondev.hashnode.dev/best-online-ide-for-fast-development",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My third React project",
+    "link": "https://babafemijk.hashnode.dev/my-third-react-project",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Compose Function in JavaScript:",
+    "link": "https://consoledotcode.hashnode.dev/compose-function-in-javascript",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Top 10 VSCode Extensions you NEED as a React developer",
+    "link": "https://ben-carter.hashnode.dev/top-10-vscode-extensions-you-need-as-a-react-developer",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Check String If its a number",
+    "link": "https://dev.to/brojenuel/check-string-if-its-a-number-4e5n",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a PDF invoice template using only typescript and jspdf-autotable",
+    "link": "https://dev.to/maxwelladn/build-a-pdf-invoice-template-using-only-typescript-and-jspdf-autotable-25gn",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Tuple Type in Typescript",
+    "link": "https://dev.to/this-is-learning/the-tuple-type-in-typescript-nb7",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Basics | Part - 4",
+    "link": "https://dev.to/elwinjyot/react-basics-part-4-bab",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Почему и как нужно транспилировать зависимости",
+    "link": "https://dev.to/dangreen/pochiemu-i-kak-nuzhno-transpilirovat-zavisimosti-5ceb",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "มาเล่น Tailwind CSS กับ Angular กัน",
+    "link": "https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-328p",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keravita Pro - Nail Fungus Results, Uses, Reviews And Ingredients",
+    "link": "https://dev.to/keravitaproinfo/keravita-pro-nail-fungus-results-uses-reviews-and-ingredients-30d2",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "PT TRIM FAT BURN: CUSTOMER REVIEW AND WARNINGS FOR NEW BUYER? MUST READ",
+    "link": "https://dev.to/jbriefert/pt-trim-fat-burn-customer-review-and-warnings-for-new-buyer-must-read-3hgb",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "RudderStack Product News - Vol. #020: SDK Event Filtering, Beacon Support for JS, and OneTrust for JS",
+    "link": "https://dev.to/rudderstack/rudderstack-product-news-vol-020-sdk-event-filtering-beacon-support-for-js-and-onetrust-for-js-1ic4",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's play Tailwind CSS with Angular",
+    "link": "https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-2i1b",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use Copilot to deploy projects on ECS",
+    "link": "https://dev.to/alichherawalla/how-to-use-copilot-to-deploy-projects-on-ecs-22ab",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Yugasa Software Labs | Best Mobile App Development Company in Gurgaon",
+    "link": "https://dev.to/yugasasoftware/yugasa-software-labs-best-mobile-app-development-company-in-gurgaon-3131",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "unit conversion using javascript",
+    "link": "https://dev.to/shijug/unit-conversion-using-javascript-5361",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Readonly Utility type",
+    "link": "https://dev.to/dailydevtips1/typescript-readonly-utility-type-pl6",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Readonly Utility type",
+    "link": "https://h.daily-dev-tips.com/typescript-readonly-utility-type",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways of Passing Multiple Parameters to the onClick Handler in React",
+    "link": "https://openreplay.hashnode.dev/3-ways-of-passing-multiple-parameters-to-the-onclick-handler-in-react",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How does 0, 1 Binary make Everything in your computer?",
+    "link": "https://thedev.com/how-does-0-1-binary-make-everything-in-your-computer",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is TCP？",
+    "link": "https://xiaobo.blog/what-is-tcp",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Desarrollando un login con Ethereum - Parte I",
+    "link": "https://javascripted.xyz/desarrollando-un-login-con-ethereum-parte-i",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Arrays",
+    "link": "https://alwayslearningtech.com/arrays",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Best Online IDE for Fast Development",
+    "link": "https://surajondev.hashnode.dev/best-online-ide-for-fast-development",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My third React project",
+    "link": "https://babafemijk.hashnode.dev/my-third-react-project",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Compose Function in JavaScript:",
+    "link": "https://consoledotcode.hashnode.dev/compose-function-in-javascript",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Top 10 VSCode Extensions you NEED as a React developer",
+    "link": "https://ben-carter.hashnode.dev/top-10-vscode-extensions-you-need-as-a-react-developer",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Check String If its a number",
+    "link": "https://dev.to/brojenuel/check-string-if-its-a-number-4e5n",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a PDF invoice template using only typescript and jspdf-autotable",
+    "link": "https://dev.to/maxwelladn/build-a-pdf-invoice-template-using-only-typescript-and-jspdf-autotable-25gn",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Tuple Type in Typescript",
+    "link": "https://dev.to/this-is-learning/the-tuple-type-in-typescript-nb7",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Basics | Part - 4",
+    "link": "https://dev.to/elwinjyot/react-basics-part-4-bab",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Почему и как нужно транспилировать зависимости",
+    "link": "https://dev.to/dangreen/pochiemu-i-kak-nuzhno-transpilirovat-zavisimosti-5ceb",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "มาเล่น Tailwind CSS กับ Angular กัน",
+    "link": "https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-328p",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keravita Pro - Nail Fungus Results, Uses, Reviews And Ingredients",
+    "link": "https://dev.to/keravitaproinfo/keravita-pro-nail-fungus-results-uses-reviews-and-ingredients-30d2",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "PT TRIM FAT BURN: CUSTOMER REVIEW AND WARNINGS FOR NEW BUYER? MUST READ",
+    "link": "https://dev.to/jbriefert/pt-trim-fat-burn-customer-review-and-warnings-for-new-buyer-must-read-3hgb",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "RudderStack Product News - Vol. #020: SDK Event Filtering, Beacon Support for JS, and OneTrust for JS",
+    "link": "https://dev.to/rudderstack/rudderstack-product-news-vol-020-sdk-event-filtering-beacon-support-for-js-and-onetrust-for-js-1ic4",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's play Tailwind CSS with Angular",
+    "link": "https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-2i1b",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use Copilot to deploy projects on ECS",
+    "link": "https://dev.to/alichherawalla/how-to-use-copilot-to-deploy-projects-on-ecs-22ab",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Yugasa Software Labs | Best Mobile App Development Company in Gurgaon",
+    "link": "https://dev.to/yugasasoftware/yugasa-software-labs-best-mobile-app-development-company-in-gurgaon-3131",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "unit conversion using javascript",
+    "link": "https://dev.to/shijug/unit-conversion-using-javascript-5361",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Readonly Utility type",
+    "link": "https://dev.to/dailydevtips1/typescript-readonly-utility-type-pl6",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Readonly Utility type",
+    "link": "https://h.daily-dev-tips.com/typescript-readonly-utility-type",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways of Passing Multiple Parameters to the onClick Handler in React",
+    "link": "https://openreplay.hashnode.dev/3-ways-of-passing-multiple-parameters-to-the-onclick-handler-in-react",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How does 0, 1 Binary make Everything in your computer?",
+    "link": "https://thedev.com/how-does-0-1-binary-make-everything-in-your-computer",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is TCP？",
+    "link": "https://xiaobo.blog/what-is-tcp",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Desarrollando un login con Ethereum - Parte I",
+    "link": "https://javascripted.xyz/desarrollando-un-login-con-ethereum-parte-i",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Arrays",
+    "link": "https://alwayslearningtech.com/arrays",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Best Online IDE for Fast Development",
+    "link": "https://surajondev.hashnode.dev/best-online-ide-for-fast-development",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My third React project",
+    "link": "https://babafemijk.hashnode.dev/my-third-react-project",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Compose Function in JavaScript:",
+    "link": "https://consoledotcode.hashnode.dev/compose-function-in-javascript",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Top 10 VSCode Extensions you NEED as a React developer",
+    "link": "https://ben-carter.hashnode.dev/top-10-vscode-extensions-you-need-as-a-react-developer",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Check String If its a number",
+    "link": "https://dev.to/brojenuel/check-string-if-its-a-number-4e5n",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a PDF invoice template using only typescript and jspdf-autotable",
+    "link": "https://dev.to/maxwelladn/build-a-pdf-invoice-template-using-only-typescript-and-jspdf-autotable-25gn",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Tuple Type in Typescript",
+    "link": "https://dev.to/this-is-learning/the-tuple-type-in-typescript-nb7",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Basics | Part - 4",
+    "link": "https://dev.to/elwinjyot/react-basics-part-4-bab",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Почему и как нужно транспилировать зависимости",
+    "link": "https://dev.to/dangreen/pochiemu-i-kak-nuzhno-transpilirovat-zavisimosti-5ceb",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "มาเล่น Tailwind CSS กับ Angular กัน",
+    "link": "https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-328p",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keravita Pro - Nail Fungus Results, Uses, Reviews And Ingredients",
+    "link": "https://dev.to/keravitaproinfo/keravita-pro-nail-fungus-results-uses-reviews-and-ingredients-30d2",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "PT TRIM FAT BURN: CUSTOMER REVIEW AND WARNINGS FOR NEW BUYER? MUST READ",
+    "link": "https://dev.to/jbriefert/pt-trim-fat-burn-customer-review-and-warnings-for-new-buyer-must-read-3hgb",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "RudderStack Product News - Vol. #020: SDK Event Filtering, Beacon Support for JS, and OneTrust for JS",
+    "link": "https://dev.to/rudderstack/rudderstack-product-news-vol-020-sdk-event-filtering-beacon-support-for-js-and-onetrust-for-js-1ic4",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's play Tailwind CSS with Angular",
+    "link": "https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-2i1b",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use Copilot to deploy projects on ECS",
+    "link": "https://dev.to/alichherawalla/how-to-use-copilot-to-deploy-projects-on-ecs-22ab",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Yugasa Software Labs | Best Mobile App Development Company in Gurgaon",
+    "link": "https://dev.to/yugasasoftware/yugasa-software-labs-best-mobile-app-development-company-in-gurgaon-3131",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "unit conversion using javascript",
+    "link": "https://dev.to/shijug/unit-conversion-using-javascript-5361",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Readonly Utility type",
+    "link": "https://dev.to/dailydevtips1/typescript-readonly-utility-type-pl6",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Readonly Utility type",
+    "link": "https://h.daily-dev-tips.com/typescript-readonly-utility-type",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways of Passing Multiple Parameters to the onClick Handler in React",
+    "link": "https://openreplay.hashnode.dev/3-ways-of-passing-multiple-parameters-to-the-onclick-handler-in-react",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How does 0, 1 Binary make Everything in your computer?",
+    "link": "https://thedev.com/how-does-0-1-binary-make-everything-in-your-computer",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is TCP？",
+    "link": "https://xiaobo.blog/what-is-tcp",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Desarrollando un login con Ethereum - Parte I",
+    "link": "https://javascripted.xyz/desarrollando-un-login-con-ethereum-parte-i",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Arrays",
+    "link": "https://alwayslearningtech.com/arrays",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Best Online IDE for Fast Development",
+    "link": "https://surajondev.hashnode.dev/best-online-ide-for-fast-development",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My third React project",
+    "link": "https://babafemijk.hashnode.dev/my-third-react-project",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Compose Function in JavaScript:",
+    "link": "https://consoledotcode.hashnode.dev/compose-function-in-javascript",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Top 10 VSCode Extensions you NEED as a React developer",
+    "link": "https://ben-carter.hashnode.dev/top-10-vscode-extensions-you-need-as-a-react-developer",
+    "date": "2/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Check String If its a number",
+    "link": "https://dev.to/brojenuel/check-string-if-its-a-number-4e5n",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a PDF invoice template using only typescript and jspdf-autotable",
+    "link": "https://dev.to/maxwelladn/build-a-pdf-invoice-template-using-only-typescript-and-jspdf-autotable-25gn",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Tuple Type in Typescript",
+    "link": "https://dev.to/this-is-learning/the-tuple-type-in-typescript-nb7",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Basics | Part - 4",
+    "link": "https://dev.to/elwinjyot/react-basics-part-4-bab",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Почему и как нужно транспилировать зависимости",
+    "link": "https://dev.to/dangreen/pochiemu-i-kak-nuzhno-transpilirovat-zavisimosti-5ceb",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "มาเล่น Tailwind CSS กับ Angular กัน",
+    "link": "https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-328p",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keravita Pro - Nail Fungus Results, Uses, Reviews And Ingredients",
+    "link": "https://dev.to/keravitaproinfo/keravita-pro-nail-fungus-results-uses-reviews-and-ingredients-30d2",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "PT TRIM FAT BURN: CUSTOMER REVIEW AND WARNINGS FOR NEW BUYER? MUST READ",
+    "link": "https://dev.to/jbriefert/pt-trim-fat-burn-customer-review-and-warnings-for-new-buyer-must-read-3hgb",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "RudderStack Product News - Vol. #020: SDK Event Filtering, Beacon Support for JS, and OneTrust for JS",
+    "link": "https://dev.to/rudderstack/rudderstack-product-news-vol-020-sdk-event-filtering-beacon-support-for-js-and-onetrust-for-js-1ic4",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's play Tailwind CSS with Angular",
+    "link": "https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-2i1b",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use Copilot to deploy projects on ECS",
+    "link": "https://dev.to/alichherawalla/how-to-use-copilot-to-deploy-projects-on-ecs-22ab",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Yugasa Software Labs | Best Mobile App Development Company in Gurgaon",
+    "link": "https://dev.to/yugasasoftware/yugasa-software-labs-best-mobile-app-development-company-in-gurgaon-3131",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "unit conversion using javascript",
+    "link": "https://dev.to/shijug/unit-conversion-using-javascript-5361",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Readonly Utility type",
+    "link": "https://dev.to/dailydevtips1/typescript-readonly-utility-type-pl6",
+    "date": "2/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a marginal tax bracket breakout calculator!",
+    "link": "https://brittjoiner.hashnode.dev/i-built-a-marginal-tax-bracket-breakout-calculator",
+    "date": "2/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introducing Revelar - URL Revealer",
+    "link": "https://codewithsnowbit.hashnode.dev/introducing-revelar-url-revealer",
     "date": "2/21/2022",
     "site": "hashnode"
   },
@@ -12,32 +738,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Spread syntax in JavaScript",
-    "link": "https://therajatg.hashnode.dev/spread-syntax-in-javascript",
+    "title": "HTTP request",
+    "link": "xiaobo.blog/http-request",
     "date": "2/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Simple Front-end for Your Redis Datasource",
-    "link": "https://undefined.hashnode.dev/a-simple-front-end-for-your-redis-datasource",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Combining TypeScript utility types",
-    "link": "https://h.daily-dev-tips.com/combining-typescript-utility-types",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How did I learn JavaScript language [ for beginner] 🤔?",
-    "link": "https://chaitanyaoffic.hashnode.dev/how-did-i-learn-javascript-language-for-beginner",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization in JavaScript? And how to apply it to get better code performance.",
-    "link": "https://rakibtalukder.hashnode.dev/memoization-in-javascript-and-how-to-apply-it-to-get-better-code-performance",
+    "title": "Why do we call ReactJs declarative?",
+    "link": "https://dynamicprogrammer.hashnode.dev/why-do-we-call-reactjs-declarative",
     "date": "2/21/2022",
     "site": "hashnode"
   },
@@ -48,92 +756,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Build internal tools using Low-Code with Refine, React-based framework",
-    "link": "https://dev.to/pankod/build-internal-tools-using-low-code-with-refine-react-based-framework-4k92",
+    "title": "I built a marginal tax bracket breakout calculator!",
+    "link": "https://brittjoiner.hashnode.dev/i-built-a-marginal-tax-bracket-breakout-calculator",
     "date": "2/21/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Combining TypeScript utility types",
-    "link": "https://dev.to/dailydevtips1/combining-typescript-utility-types-4gk",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3/100, 100 Days of Code",
-    "link": "https://dev.to/xurgg/day-3100-100-days-of-code-4a7d",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "javascript : behind the scene",
-    "link": "https://dev.to/sobitp59/javascript-behind-the-scene-4hac",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "WordPress Developer",
-    "link": "https://dev.to/merjashourov/wordpress-developer-1h03",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Full Featured Admin Panel with React and Ant Design",
-    "link": "https://dev.to/pankod/create-full-featured-admin-panel-with-react-and-ant-design-3po8",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular material cross field form validation",
-    "link": "https://dev.to/anirbmuk/angular-material-cross-field-form-validation-45nn",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A powerful Javascript playground for Desktop 🔥",
-    "link": "https://dev.to/alagrede/a-powerful-javascript-playground-for-desktop-1iom",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JAVASCRIPT SPREAD OPERATOR",
-    "link": "https://dev.to/asapsonter/javascript-spread-operator-45ph",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 9 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#26.Remove Duplicates from Sorted Array(Easy/JS)",
-    "link": "https://dev.to/corndog_com567/day-9-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem26remove-duplicates-from-sorted-arrayeasyjs-2fnm",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#37 - Row of the odd triangle - CodeWars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/37-row-of-the-odd-triangle-codewars-kata-6-kyu-54e8",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Open Speech Corpus - Self Hosted and Open Source Tool to Collect and Validate Voice Samples.",
-    "link": "https://dev.to/vikasbukhari/open-speech-corpus-self-hosted-and-open-source-tool-to-collect-and-validate-voice-samples-2la3",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Spread syntax in JavaScript",
-    "link": "https://dev.to/therajatg/spread-syntax-in-javascript-1jk2",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "COUNTDOWN TIMER USING HTML, CSS AND JAVASCRIPT",
-    "link": "https://dev.to/sameer8saini/countdown-timer-using-html-css-and-javascript-22d3",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "HTTP request",
-    "link": "xiaobo.blog/http-request",
+    "title": "Introducing Revelar - URL Revealer",
+    "link": "https://codewithsnowbit.hashnode.dev/introducing-revelar-url-revealer",
     "date": "2/21/2022",
     "site": "hashnode"
   },
@@ -144,32 +774,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Spread syntax in JavaScript",
-    "link": "https://therajatg.hashnode.dev/spread-syntax-in-javascript",
+    "title": "HTTP request",
+    "link": "xiaobo.blog/http-request",
     "date": "2/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Simple Front-end for Your Redis Datasource",
-    "link": "https://undefined.hashnode.dev/a-simple-front-end-for-your-redis-datasource",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Combining TypeScript utility types",
-    "link": "https://h.daily-dev-tips.com/combining-typescript-utility-types",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How did I learn JavaScript language [ for beginner] 🤔?",
-    "link": "https://chaitanyaoffic.hashnode.dev/how-did-i-learn-javascript-language-for-beginner",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization in JavaScript? And how to apply it to get better code performance.",
-    "link": "https://rakibtalukder.hashnode.dev/memoization-in-javascript-and-how-to-apply-it-to-get-better-code-performance",
+    "title": "Why do we call ReactJs declarative?",
+    "link": "https://dynamicprogrammer.hashnode.dev/why-do-we-call-reactjs-declarative",
     "date": "2/21/2022",
     "site": "hashnode"
   },
@@ -180,92 +792,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Build internal tools using Low-Code with Refine, React-based framework",
-    "link": "https://dev.to/pankod/build-internal-tools-using-low-code-with-refine-react-based-framework-4k92",
+    "title": "I built a marginal tax bracket breakout calculator!",
+    "link": "https://brittjoiner.hashnode.dev/i-built-a-marginal-tax-bracket-breakout-calculator",
     "date": "2/21/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Combining TypeScript utility types",
-    "link": "https://dev.to/dailydevtips1/combining-typescript-utility-types-4gk",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3/100, 100 Days of Code",
-    "link": "https://dev.to/xurgg/day-3100-100-days-of-code-4a7d",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "javascript : behind the scene",
-    "link": "https://dev.to/sobitp59/javascript-behind-the-scene-4hac",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "WordPress Developer",
-    "link": "https://dev.to/merjashourov/wordpress-developer-1h03",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Full Featured Admin Panel with React and Ant Design",
-    "link": "https://dev.to/pankod/create-full-featured-admin-panel-with-react-and-ant-design-3po8",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular material cross field form validation",
-    "link": "https://dev.to/anirbmuk/angular-material-cross-field-form-validation-45nn",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A powerful Javascript playground for Desktop 🔥",
-    "link": "https://dev.to/alagrede/a-powerful-javascript-playground-for-desktop-1iom",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JAVASCRIPT SPREAD OPERATOR",
-    "link": "https://dev.to/asapsonter/javascript-spread-operator-45ph",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 9 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#26.Remove Duplicates from Sorted Array(Easy/JS)",
-    "link": "https://dev.to/corndog_com567/day-9-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem26remove-duplicates-from-sorted-arrayeasyjs-2fnm",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#37 - Row of the odd triangle - CodeWars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/37-row-of-the-odd-triangle-codewars-kata-6-kyu-54e8",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Open Speech Corpus - Self Hosted and Open Source Tool to Collect and Validate Voice Samples.",
-    "link": "https://dev.to/vikasbukhari/open-speech-corpus-self-hosted-and-open-source-tool-to-collect-and-validate-voice-samples-2la3",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Spread syntax in JavaScript",
-    "link": "https://dev.to/therajatg/spread-syntax-in-javascript-1jk2",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "COUNTDOWN TIMER USING HTML, CSS AND JAVASCRIPT",
-    "link": "https://dev.to/sameer8saini/countdown-timer-using-html-css-and-javascript-22d3",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "HTTP request",
-    "link": "xiaobo.blog/http-request",
+    "title": "Introducing Revelar - URL Revealer",
+    "link": "https://codewithsnowbit.hashnode.dev/introducing-revelar-url-revealer",
     "date": "2/21/2022",
     "site": "hashnode"
   },
@@ -276,32 +810,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Spread syntax in JavaScript",
-    "link": "https://therajatg.hashnode.dev/spread-syntax-in-javascript",
+    "title": "HTTP request",
+    "link": "xiaobo.blog/http-request",
     "date": "2/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Simple Front-end for Your Redis Datasource",
-    "link": "https://undefined.hashnode.dev/a-simple-front-end-for-your-redis-datasource",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Combining TypeScript utility types",
-    "link": "https://h.daily-dev-tips.com/combining-typescript-utility-types",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How did I learn JavaScript language [ for beginner] 🤔?",
-    "link": "https://chaitanyaoffic.hashnode.dev/how-did-i-learn-javascript-language-for-beginner",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization in JavaScript? And how to apply it to get better code performance.",
-    "link": "https://rakibtalukder.hashnode.dev/memoization-in-javascript-and-how-to-apply-it-to-get-better-code-performance",
+    "title": "Why do we call ReactJs declarative?",
+    "link": "https://dynamicprogrammer.hashnode.dev/why-do-we-call-reactjs-declarative",
     "date": "2/21/2022",
     "site": "hashnode"
   },
@@ -312,92 +828,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Build internal tools using Low-Code with Refine, React-based framework",
-    "link": "https://dev.to/pankod/build-internal-tools-using-low-code-with-refine-react-based-framework-4k92",
+    "title": "I built a marginal tax bracket breakout calculator!",
+    "link": "https://brittjoiner.hashnode.dev/i-built-a-marginal-tax-bracket-breakout-calculator",
     "date": "2/21/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Combining TypeScript utility types",
-    "link": "https://dev.to/dailydevtips1/combining-typescript-utility-types-4gk",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3/100, 100 Days of Code",
-    "link": "https://dev.to/xurgg/day-3100-100-days-of-code-4a7d",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "javascript : behind the scene",
-    "link": "https://dev.to/sobitp59/javascript-behind-the-scene-4hac",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "WordPress Developer",
-    "link": "https://dev.to/merjashourov/wordpress-developer-1h03",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Full Featured Admin Panel with React and Ant Design",
-    "link": "https://dev.to/pankod/create-full-featured-admin-panel-with-react-and-ant-design-3po8",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular material cross field form validation",
-    "link": "https://dev.to/anirbmuk/angular-material-cross-field-form-validation-45nn",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A powerful Javascript playground for Desktop 🔥",
-    "link": "https://dev.to/alagrede/a-powerful-javascript-playground-for-desktop-1iom",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JAVASCRIPT SPREAD OPERATOR",
-    "link": "https://dev.to/asapsonter/javascript-spread-operator-45ph",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 9 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#26.Remove Duplicates from Sorted Array(Easy/JS)",
-    "link": "https://dev.to/corndog_com567/day-9-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem26remove-duplicates-from-sorted-arrayeasyjs-2fnm",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#37 - Row of the odd triangle - CodeWars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/37-row-of-the-odd-triangle-codewars-kata-6-kyu-54e8",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Open Speech Corpus - Self Hosted and Open Source Tool to Collect and Validate Voice Samples.",
-    "link": "https://dev.to/vikasbukhari/open-speech-corpus-self-hosted-and-open-source-tool-to-collect-and-validate-voice-samples-2la3",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Spread syntax in JavaScript",
-    "link": "https://dev.to/therajatg/spread-syntax-in-javascript-1jk2",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "COUNTDOWN TIMER USING HTML, CSS AND JAVASCRIPT",
-    "link": "https://dev.to/sameer8saini/countdown-timer-using-html-css-and-javascript-22d3",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "HTTP request",
-    "link": "xiaobo.blog/http-request",
+    "title": "Introducing Revelar - URL Revealer",
+    "link": "https://codewithsnowbit.hashnode.dev/introducing-revelar-url-revealer",
     "date": "2/21/2022",
     "site": "hashnode"
   },
@@ -408,32 +846,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Spread syntax in JavaScript",
-    "link": "https://therajatg.hashnode.dev/spread-syntax-in-javascript",
+    "title": "HTTP request",
+    "link": "xiaobo.blog/http-request",
     "date": "2/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Simple Front-end for Your Redis Datasource",
-    "link": "https://undefined.hashnode.dev/a-simple-front-end-for-your-redis-datasource",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Combining TypeScript utility types",
-    "link": "https://h.daily-dev-tips.com/combining-typescript-utility-types",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How did I learn JavaScript language [ for beginner] 🤔?",
-    "link": "https://chaitanyaoffic.hashnode.dev/how-did-i-learn-javascript-language-for-beginner",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization in JavaScript? And how to apply it to get better code performance.",
-    "link": "https://rakibtalukder.hashnode.dev/memoization-in-javascript-and-how-to-apply-it-to-get-better-code-performance",
+    "title": "Why do we call ReactJs declarative?",
+    "link": "https://dynamicprogrammer.hashnode.dev/why-do-we-call-reactjs-declarative",
     "date": "2/21/2022",
     "site": "hashnode"
   },
@@ -444,92 +864,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Build internal tools using Low-Code with Refine, React-based framework",
-    "link": "https://dev.to/pankod/build-internal-tools-using-low-code-with-refine-react-based-framework-4k92",
+    "title": "I built a marginal tax bracket breakout calculator!",
+    "link": "https://brittjoiner.hashnode.dev/i-built-a-marginal-tax-bracket-breakout-calculator",
     "date": "2/21/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Combining TypeScript utility types",
-    "link": "https://dev.to/dailydevtips1/combining-typescript-utility-types-4gk",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3/100, 100 Days of Code",
-    "link": "https://dev.to/xurgg/day-3100-100-days-of-code-4a7d",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "javascript : behind the scene",
-    "link": "https://dev.to/sobitp59/javascript-behind-the-scene-4hac",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "WordPress Developer",
-    "link": "https://dev.to/merjashourov/wordpress-developer-1h03",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Full Featured Admin Panel with React and Ant Design",
-    "link": "https://dev.to/pankod/create-full-featured-admin-panel-with-react-and-ant-design-3po8",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular material cross field form validation",
-    "link": "https://dev.to/anirbmuk/angular-material-cross-field-form-validation-45nn",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A powerful Javascript playground for Desktop 🔥",
-    "link": "https://dev.to/alagrede/a-powerful-javascript-playground-for-desktop-1iom",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JAVASCRIPT SPREAD OPERATOR",
-    "link": "https://dev.to/asapsonter/javascript-spread-operator-45ph",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 9 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#26.Remove Duplicates from Sorted Array(Easy/JS)",
-    "link": "https://dev.to/corndog_com567/day-9-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem26remove-duplicates-from-sorted-arrayeasyjs-2fnm",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#37 - Row of the odd triangle - CodeWars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/37-row-of-the-odd-triangle-codewars-kata-6-kyu-54e8",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Open Speech Corpus - Self Hosted and Open Source Tool to Collect and Validate Voice Samples.",
-    "link": "https://dev.to/vikasbukhari/open-speech-corpus-self-hosted-and-open-source-tool-to-collect-and-validate-voice-samples-2la3",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Spread syntax in JavaScript",
-    "link": "https://dev.to/therajatg/spread-syntax-in-javascript-1jk2",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "COUNTDOWN TIMER USING HTML, CSS AND JAVASCRIPT",
-    "link": "https://dev.to/sameer8saini/countdown-timer-using-html-css-and-javascript-22d3",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "HTTP request",
-    "link": "xiaobo.blog/http-request",
+    "title": "Introducing Revelar - URL Revealer",
+    "link": "https://codewithsnowbit.hashnode.dev/introducing-revelar-url-revealer",
     "date": "2/21/2022",
     "site": "hashnode"
   },
@@ -540,32 +882,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Spread syntax in JavaScript",
-    "link": "https://therajatg.hashnode.dev/spread-syntax-in-javascript",
+    "title": "HTTP request",
+    "link": "xiaobo.blog/http-request",
     "date": "2/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Simple Front-end for Your Redis Datasource",
-    "link": "https://undefined.hashnode.dev/a-simple-front-end-for-your-redis-datasource",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Combining TypeScript utility types",
-    "link": "https://h.daily-dev-tips.com/combining-typescript-utility-types",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How did I learn JavaScript language [ for beginner] 🤔?",
-    "link": "https://chaitanyaoffic.hashnode.dev/how-did-i-learn-javascript-language-for-beginner",
-    "date": "2/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Memoization in JavaScript? And how to apply it to get better code performance.",
-    "link": "https://rakibtalukder.hashnode.dev/memoization-in-javascript-and-how-to-apply-it-to-get-better-code-performance",
+    "title": "Why do we call ReactJs declarative?",
+    "link": "https://dynamicprogrammer.hashnode.dev/why-do-we-call-reactjs-declarative",
     "date": "2/21/2022",
     "site": "hashnode"
   },
@@ -574,330 +898,6 @@
     "link": "https://dev.to/pankod/top-react-js-frameworks-every-developer-should-know-3pod",
     "date": "2/21/2022",
     "site": "dev.to"
-  },
-  {
-    "title": "Build internal tools using Low-Code with Refine, React-based framework",
-    "link": "https://dev.to/pankod/build-internal-tools-using-low-code-with-refine-react-based-framework-4k92",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Combining TypeScript utility types",
-    "link": "https://dev.to/dailydevtips1/combining-typescript-utility-types-4gk",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3/100, 100 Days of Code",
-    "link": "https://dev.to/xurgg/day-3100-100-days-of-code-4a7d",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "javascript : behind the scene",
-    "link": "https://dev.to/sobitp59/javascript-behind-the-scene-4hac",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "WordPress Developer",
-    "link": "https://dev.to/merjashourov/wordpress-developer-1h03",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Full Featured Admin Panel with React and Ant Design",
-    "link": "https://dev.to/pankod/create-full-featured-admin-panel-with-react-and-ant-design-3po8",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular material cross field form validation",
-    "link": "https://dev.to/anirbmuk/angular-material-cross-field-form-validation-45nn",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A powerful Javascript playground for Desktop 🔥",
-    "link": "https://dev.to/alagrede/a-powerful-javascript-playground-for-desktop-1iom",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JAVASCRIPT SPREAD OPERATOR",
-    "link": "https://dev.to/asapsonter/javascript-spread-operator-45ph",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 9 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#26.Remove Duplicates from Sorted Array(Easy/JS)",
-    "link": "https://dev.to/corndog_com567/day-9-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem26remove-duplicates-from-sorted-arrayeasyjs-2fnm",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#37 - Row of the odd triangle - CodeWars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/37-row-of-the-odd-triangle-codewars-kata-6-kyu-54e8",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Open Speech Corpus - Self Hosted and Open Source Tool to Collect and Validate Voice Samples.",
-    "link": "https://dev.to/vikasbukhari/open-speech-corpus-self-hosted-and-open-source-tool-to-collect-and-validate-voice-samples-2la3",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Spread syntax in JavaScript",
-    "link": "https://dev.to/therajatg/spread-syntax-in-javascript-1jk2",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "COUNTDOWN TIMER USING HTML, CSS AND JAVASCRIPT",
-    "link": "https://dev.to/sameer8saini/countdown-timer-using-html-css-and-javascript-22d3",
-    "date": "2/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The State of Things After Week 2 of my Software Development Bootcamp.",
-    "link": "https://trail2dev.hashnode.dev/the-state-of-things-after-week-2-of-my-software-development-bootcamp",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node.js Roadmap for Beginners",
-    "link": "https://stasklymenko.hashnode.dev/nodejs-roadmap-for-beginners",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Technology",
-    "link": "https://sachin534.hashnode.dev/technology",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "ROT13 Cipher Solution",
-    "link": "https://eikon.hashnode.dev/rot13-cipher-solution",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Best way to learn Svelte as a beginner",
-    "link": "https://raghavsinghgulia.hashnode.dev/best-way-to-learn-svelte-as-a-beginner",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Compare Objects in JavaScript",
-    "link": "https://octagon.hashnode.dev/how-to-compare-objects-in-javascript",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Higher Order Functions - (II) & Beyond ⚡️",
-    "link": "https://milindmishra.me/higher-order-functions-ii-and-beyond",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Explain the working of Node.js",
-    "link": "https://vasantisuthar.hashnode.dev/explain-the-working-of-nodejs",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The State of Things After Week 2 of my Software Development Bootcamp.",
-    "link": "https://trail2dev.hashnode.dev/the-state-of-things-after-week-2-of-my-software-development-bootcamp",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node.js Roadmap for Beginners",
-    "link": "https://stasklymenko.hashnode.dev/nodejs-roadmap-for-beginners",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Technology",
-    "link": "https://sachin534.hashnode.dev/technology",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "ROT13 Cipher Solution",
-    "link": "https://eikon.hashnode.dev/rot13-cipher-solution",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Best way to learn Svelte as a beginner",
-    "link": "https://raghavsinghgulia.hashnode.dev/best-way-to-learn-svelte-as-a-beginner",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Compare Objects in JavaScript",
-    "link": "https://octagon.hashnode.dev/how-to-compare-objects-in-javascript",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Higher Order Functions - (II) & Beyond ⚡️",
-    "link": "https://milindmishra.me/higher-order-functions-ii-and-beyond",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Explain the working of Node.js",
-    "link": "https://vasantisuthar.hashnode.dev/explain-the-working-of-nodejs",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The State of Things After Week 2 of my Software Development Bootcamp.",
-    "link": "https://trail2dev.hashnode.dev/the-state-of-things-after-week-2-of-my-software-development-bootcamp",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node.js Roadmap for Beginners",
-    "link": "https://stasklymenko.hashnode.dev/nodejs-roadmap-for-beginners",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Technology",
-    "link": "https://sachin534.hashnode.dev/technology",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "ROT13 Cipher Solution",
-    "link": "https://eikon.hashnode.dev/rot13-cipher-solution",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Best way to learn Svelte as a beginner",
-    "link": "https://raghavsinghgulia.hashnode.dev/best-way-to-learn-svelte-as-a-beginner",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Compare Objects in JavaScript",
-    "link": "https://octagon.hashnode.dev/how-to-compare-objects-in-javascript",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Higher Order Functions - (II) & Beyond ⚡️",
-    "link": "https://milindmishra.me/higher-order-functions-ii-and-beyond",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Explain the working of Node.js",
-    "link": "https://vasantisuthar.hashnode.dev/explain-the-working-of-nodejs",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The State of Things After Week 2 of my Software Development Bootcamp.",
-    "link": "https://trail2dev.hashnode.dev/the-state-of-things-after-week-2-of-my-software-development-bootcamp",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node.js Roadmap for Beginners",
-    "link": "https://stasklymenko.hashnode.dev/nodejs-roadmap-for-beginners",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Technology",
-    "link": "https://sachin534.hashnode.dev/technology",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "ROT13 Cipher Solution",
-    "link": "https://eikon.hashnode.dev/rot13-cipher-solution",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Best way to learn Svelte as a beginner",
-    "link": "https://raghavsinghgulia.hashnode.dev/best-way-to-learn-svelte-as-a-beginner",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Compare Objects in JavaScript",
-    "link": "https://octagon.hashnode.dev/how-to-compare-objects-in-javascript",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Higher Order Functions - (II) & Beyond ⚡️",
-    "link": "https://milindmishra.me/higher-order-functions-ii-and-beyond",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Explain the working of Node.js",
-    "link": "https://vasantisuthar.hashnode.dev/explain-the-working-of-nodejs",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The State of Things After Week 2 of my Software Development Bootcamp.",
-    "link": "https://trail2dev.hashnode.dev/the-state-of-things-after-week-2-of-my-software-development-bootcamp",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node.js Roadmap for Beginners",
-    "link": "https://stasklymenko.hashnode.dev/nodejs-roadmap-for-beginners",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Technology",
-    "link": "https://sachin534.hashnode.dev/technology",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "ROT13 Cipher Solution",
-    "link": "https://eikon.hashnode.dev/rot13-cipher-solution",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Best way to learn Svelte as a beginner",
-    "link": "https://raghavsinghgulia.hashnode.dev/best-way-to-learn-svelte-as-a-beginner",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Compare Objects in JavaScript",
-    "link": "https://octagon.hashnode.dev/how-to-compare-objects-in-javascript",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Higher Order Functions - (II) & Beyond ⚡️",
-    "link": "https://milindmishra.me/higher-order-functions-ii-and-beyond",
-    "date": "2/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Explain the working of Node.js",
-    "link": "https://vasantisuthar.hashnode.dev/explain-the-working-of-nodejs",
-    "date": "2/20/2022",
-    "site": "hashnode"
   },
   {
     "title": "Comparing Node JavaScript to JavaScript in the Browser",
@@ -1041,7 +1041,7 @@
   {
     "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
     "link": "https://www.smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "9/9/2021",
     "site": "smashingmagazine"
   },
@@ -1115,7 +1115,7 @@
   {
     "title": "Creating An Accessible Dialog From Scratch",
     "link": "https://www.smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "7/28/2021",
     "site": "smashingmagazine"
   },
@@ -1224,14 +1224,14 @@
   {
     "title": "Getting Started With Webpack",
     "link": "https://www.smashingmagazine.com/2021/06/getting-started-webpack/",
-    "reading_time": "20 min read",
+    "reading_time": "19 min read",
     "date": "6/4/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Managing Shared State In Vue 3",
     "link": "https://www.smashingmagazine.com/2021/06/managing-shared-state-vue3/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "6/3/2021",
     "site": "smashingmagazine"
   },
@@ -1245,7 +1245,7 @@
   {
     "title": "Adding A Commenting System To A WYSIWYG Editor",
     "link": "https://www.smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
-    "reading_time": "49 min read",
+    "reading_time": "48 min read",
     "date": "5/28/2021",
     "site": "smashingmagazine"
   },
@@ -1328,7 +1328,7 @@
   {
     "title": "Flaky Tests: Getting Rid Of A Living Nightmare In Testing",
     "link": "https://www.smashingmagazine.com/2021/04/flaky-tests-living-nightmare/",
-    "reading_time": "20 min read",
+    "reading_time": "19 min read",
     "date": "4/7/2021",
     "site": "smashingmagazine"
   },
