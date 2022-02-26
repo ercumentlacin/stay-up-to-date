@@ -1,543 +1,873 @@
 [
   {
-    "title": "Switch statement in JavaScript",
-    "link": "https://sarveshprajapati.hashnode.dev/switch-statement-in-javascript",
+    "title": "5 Best React UI Frameworks to Build Web Applications Faster in 2022",
+    "link": "https://diogocapela.hashnode.dev/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript: Arrays vs Objects General Overview",
+    "link": "https://deniscabrera.dev/javascript-arrays-vs-objects-general-overview",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How I Bounced Back from my First (Failed) Attempt at Learning JavaScript",
+    "link": "https://webdevterri.hashnode.dev/javascript-success-tips",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Project 4: Speaking keyboard in Javascript",
+    "link": "https://dev.to/urstrulyvishwak/project-4-speaking-keyboard-38fh",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top Web Development Tools in 2022",
+    "link": "https://dev.to/thenerdydev/top-web-development-tools-in-2022-541j",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 14 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#209. Minimum Size Subarray Sum(Medium/JavaScript)",
+    "link": "https://dev.to/corndog_com567/day-14-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem209-minimum-size-subarray-summediumjavascript-3lej",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring Blockdom: Fastest Virtual DOM (ever!)",
+    "link": "https://dev.to/aidenybai/exploring-blockdom-fastest-virtual-dom-ever-28nl",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (26-02-2022) - Branding, marketing, the future of tech and cyberwar",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-26-02-2022-branding-marketing-the-future-of-tech-and-cyberwar-3cm3",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reverse Lift - Skin Care Reviews, Price, Ingredients & Complaints? ",
+    "link": "https://dev.to/reverseliftinfo/reverse-lift-skin-care-reviews-price-ingredients-complaints-bl1",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of Context API ",
+    "link": "https://dev.to/sobhandash/the-secret-life-of-context-api-5250",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "MongoDB Complex Schemas Structures",
+    "link": "https://dev.to/deepakjaiswal/mongodb-schemas-structures-58g8",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 1: JS 30",
+    "link": "https://dev.to/diwakardayal/day-1-js-30-4pcj",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js - Limitação de taxa de API",
+    "link": "https://dev.to/jhonywalkeer/nodejs-limitacao-de-taxa-de-api-6n3",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 7/100, 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-7100-100-days-of-code-52ld",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript HTML DOM",
+    "link": "https://dev.to/mursalfk/javascript-html-dom-177a",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Second Experience In Being Sheriff ",
+    "link": "https://dev.to/aserputov/my-second-experience-in-being-sheriff-1m2e",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "👋 Hey Devs!🌀 Here are some awesome, cool and free personal portfolio templates Thread 🧵👇 (10 Templates 🤓)",
+    "link": "https://dev.to/atultrp/hey-devs-here-are-some-awesome-cool-and-free-personal-portfolio-templates-thread-10-templates--56b9",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rails 7 JS on page load",
+    "link": "https://dev.to/jocvegar/rails-7-js-on-page-load-2142",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Best React UI Frameworks to Build Web Applications Faster in 2022",
+    "link": "https://diogocapela.hashnode.dev/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript: Arrays vs Objects General Overview",
+    "link": "https://deniscabrera.dev/javascript-arrays-vs-objects-general-overview",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How I Bounced Back from my First (Failed) Attempt at Learning JavaScript",
+    "link": "https://webdevterri.hashnode.dev/javascript-success-tips",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Project 4: Speaking keyboard in Javascript",
+    "link": "https://dev.to/urstrulyvishwak/project-4-speaking-keyboard-38fh",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top Web Development Tools in 2022",
+    "link": "https://dev.to/thenerdydev/top-web-development-tools-in-2022-541j",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 14 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#209. Minimum Size Subarray Sum(Medium/JavaScript)",
+    "link": "https://dev.to/corndog_com567/day-14-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem209-minimum-size-subarray-summediumjavascript-3lej",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring Blockdom: Fastest Virtual DOM (ever!)",
+    "link": "https://dev.to/aidenybai/exploring-blockdom-fastest-virtual-dom-ever-28nl",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (26-02-2022) - Branding, marketing, the future of tech and cyberwar",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-26-02-2022-branding-marketing-the-future-of-tech-and-cyberwar-3cm3",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reverse Lift - Skin Care Reviews, Price, Ingredients & Complaints? ",
+    "link": "https://dev.to/reverseliftinfo/reverse-lift-skin-care-reviews-price-ingredients-complaints-bl1",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of Context API ",
+    "link": "https://dev.to/sobhandash/the-secret-life-of-context-api-5250",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "MongoDB Complex Schemas Structures",
+    "link": "https://dev.to/deepakjaiswal/mongodb-schemas-structures-58g8",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 1: JS 30",
+    "link": "https://dev.to/diwakardayal/day-1-js-30-4pcj",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js - Limitação de taxa de API",
+    "link": "https://dev.to/jhonywalkeer/nodejs-limitacao-de-taxa-de-api-6n3",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 7/100, 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-7100-100-days-of-code-52ld",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript HTML DOM",
+    "link": "https://dev.to/mursalfk/javascript-html-dom-177a",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Second Experience In Being Sheriff ",
+    "link": "https://dev.to/aserputov/my-second-experience-in-being-sheriff-1m2e",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "👋 Hey Devs!🌀 Here are some awesome, cool and free personal portfolio templates Thread 🧵👇 (10 Templates 🤓)",
+    "link": "https://dev.to/atultrp/hey-devs-here-are-some-awesome-cool-and-free-personal-portfolio-templates-thread-10-templates--56b9",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rails 7 JS on page load",
+    "link": "https://dev.to/jocvegar/rails-7-js-on-page-load-2142",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Best React UI Frameworks to Build Web Applications Faster in 2022",
+    "link": "https://diogocapela.hashnode.dev/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript: Arrays vs Objects General Overview",
+    "link": "https://deniscabrera.dev/javascript-arrays-vs-objects-general-overview",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How I Bounced Back from my First (Failed) Attempt at Learning JavaScript",
+    "link": "https://webdevterri.hashnode.dev/javascript-success-tips",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Project 4: Speaking keyboard in Javascript",
+    "link": "https://dev.to/urstrulyvishwak/project-4-speaking-keyboard-38fh",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top Web Development Tools in 2022",
+    "link": "https://dev.to/thenerdydev/top-web-development-tools-in-2022-541j",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 14 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#209. Minimum Size Subarray Sum(Medium/JavaScript)",
+    "link": "https://dev.to/corndog_com567/day-14-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem209-minimum-size-subarray-summediumjavascript-3lej",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring Blockdom: Fastest Virtual DOM (ever!)",
+    "link": "https://dev.to/aidenybai/exploring-blockdom-fastest-virtual-dom-ever-28nl",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (26-02-2022) - Branding, marketing, the future of tech and cyberwar",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-26-02-2022-branding-marketing-the-future-of-tech-and-cyberwar-3cm3",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reverse Lift - Skin Care Reviews, Price, Ingredients & Complaints? ",
+    "link": "https://dev.to/reverseliftinfo/reverse-lift-skin-care-reviews-price-ingredients-complaints-bl1",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of Context API ",
+    "link": "https://dev.to/sobhandash/the-secret-life-of-context-api-5250",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "MongoDB Complex Schemas Structures",
+    "link": "https://dev.to/deepakjaiswal/mongodb-schemas-structures-58g8",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 1: JS 30",
+    "link": "https://dev.to/diwakardayal/day-1-js-30-4pcj",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js - Limitação de taxa de API",
+    "link": "https://dev.to/jhonywalkeer/nodejs-limitacao-de-taxa-de-api-6n3",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 7/100, 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-7100-100-days-of-code-52ld",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript HTML DOM",
+    "link": "https://dev.to/mursalfk/javascript-html-dom-177a",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Second Experience In Being Sheriff ",
+    "link": "https://dev.to/aserputov/my-second-experience-in-being-sheriff-1m2e",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "👋 Hey Devs!🌀 Here are some awesome, cool and free personal portfolio templates Thread 🧵👇 (10 Templates 🤓)",
+    "link": "https://dev.to/atultrp/hey-devs-here-are-some-awesome-cool-and-free-personal-portfolio-templates-thread-10-templates--56b9",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rails 7 JS on page load",
+    "link": "https://dev.to/jocvegar/rails-7-js-on-page-load-2142",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Best React UI Frameworks to Build Web Applications Faster in 2022",
+    "link": "https://diogocapela.hashnode.dev/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript: Arrays vs Objects General Overview",
+    "link": "https://deniscabrera.dev/javascript-arrays-vs-objects-general-overview",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How I Bounced Back from my First (Failed) Attempt at Learning JavaScript",
+    "link": "https://webdevterri.hashnode.dev/javascript-success-tips",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Project 4: Speaking keyboard in Javascript",
+    "link": "https://dev.to/urstrulyvishwak/project-4-speaking-keyboard-38fh",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top Web Development Tools in 2022",
+    "link": "https://dev.to/thenerdydev/top-web-development-tools-in-2022-541j",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 14 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#209. Minimum Size Subarray Sum(Medium/JavaScript)",
+    "link": "https://dev.to/corndog_com567/day-14-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem209-minimum-size-subarray-summediumjavascript-3lej",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring Blockdom: Fastest Virtual DOM (ever!)",
+    "link": "https://dev.to/aidenybai/exploring-blockdom-fastest-virtual-dom-ever-28nl",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (26-02-2022) - Branding, marketing, the future of tech and cyberwar",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-26-02-2022-branding-marketing-the-future-of-tech-and-cyberwar-3cm3",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reverse Lift - Skin Care Reviews, Price, Ingredients & Complaints? ",
+    "link": "https://dev.to/reverseliftinfo/reverse-lift-skin-care-reviews-price-ingredients-complaints-bl1",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of Context API ",
+    "link": "https://dev.to/sobhandash/the-secret-life-of-context-api-5250",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "MongoDB Complex Schemas Structures",
+    "link": "https://dev.to/deepakjaiswal/mongodb-schemas-structures-58g8",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 1: JS 30",
+    "link": "https://dev.to/diwakardayal/day-1-js-30-4pcj",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js - Limitação de taxa de API",
+    "link": "https://dev.to/jhonywalkeer/nodejs-limitacao-de-taxa-de-api-6n3",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 7/100, 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-7100-100-days-of-code-52ld",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript HTML DOM",
+    "link": "https://dev.to/mursalfk/javascript-html-dom-177a",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Second Experience In Being Sheriff ",
+    "link": "https://dev.to/aserputov/my-second-experience-in-being-sheriff-1m2e",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "👋 Hey Devs!🌀 Here are some awesome, cool and free personal portfolio templates Thread 🧵👇 (10 Templates 🤓)",
+    "link": "https://dev.to/atultrp/hey-devs-here-are-some-awesome-cool-and-free-personal-portfolio-templates-thread-10-templates--56b9",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rails 7 JS on page load",
+    "link": "https://dev.to/jocvegar/rails-7-js-on-page-load-2142",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Best React UI Frameworks to Build Web Applications Faster in 2022",
+    "link": "https://diogocapela.hashnode.dev/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript: Arrays vs Objects General Overview",
+    "link": "https://deniscabrera.dev/javascript-arrays-vs-objects-general-overview",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How I Bounced Back from my First (Failed) Attempt at Learning JavaScript",
+    "link": "https://webdevterri.hashnode.dev/javascript-success-tips",
+    "date": "2/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Project 4: Speaking keyboard in Javascript",
+    "link": "https://dev.to/urstrulyvishwak/project-4-speaking-keyboard-38fh",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top Web Development Tools in 2022",
+    "link": "https://dev.to/thenerdydev/top-web-development-tools-in-2022-541j",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 14 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#209. Minimum Size Subarray Sum(Medium/JavaScript)",
+    "link": "https://dev.to/corndog_com567/day-14-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem209-minimum-size-subarray-summediumjavascript-3lej",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring Blockdom: Fastest Virtual DOM (ever!)",
+    "link": "https://dev.to/aidenybai/exploring-blockdom-fastest-virtual-dom-ever-28nl",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (26-02-2022) - Branding, marketing, the future of tech and cyberwar",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-26-02-2022-branding-marketing-the-future-of-tech-and-cyberwar-3cm3",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reverse Lift - Skin Care Reviews, Price, Ingredients & Complaints? ",
+    "link": "https://dev.to/reverseliftinfo/reverse-lift-skin-care-reviews-price-ingredients-complaints-bl1",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of Context API ",
+    "link": "https://dev.to/sobhandash/the-secret-life-of-context-api-5250",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "MongoDB Complex Schemas Structures",
+    "link": "https://dev.to/deepakjaiswal/mongodb-schemas-structures-58g8",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 1: JS 30",
+    "link": "https://dev.to/diwakardayal/day-1-js-30-4pcj",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js - Limitação de taxa de API",
+    "link": "https://dev.to/jhonywalkeer/nodejs-limitacao-de-taxa-de-api-6n3",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 7/100, 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-7100-100-days-of-code-52ld",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript HTML DOM",
+    "link": "https://dev.to/mursalfk/javascript-html-dom-177a",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Second Experience In Being Sheriff ",
+    "link": "https://dev.to/aserputov/my-second-experience-in-being-sheriff-1m2e",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "👋 Hey Devs!🌀 Here are some awesome, cool and free personal portfolio templates Thread 🧵👇 (10 Templates 🤓)",
+    "link": "https://dev.to/atultrp/hey-devs-here-are-some-awesome-cool-and-free-personal-portfolio-templates-thread-10-templates--56b9",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rails 7 JS on page load",
+    "link": "https://dev.to/jocvegar/rails-7-js-on-page-load-2142",
+    "date": "2/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What the heck are props in react",
+    "link": "https://rajatgupta.net/what-the-heck-are-props-in-react",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Basics - Double Not ( !! ) Operator",
-    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-double-not-operator",
+    "title": "Random Password Generator – Learn Modern React JS By Projects For FREE In 2022",
+    "link": "https://nerdjfpb.hashnode.dev/random-password-generator-learn-modern-react-js-by-projects-for-free-in-2022",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to use Array.Reduce() for JavaScript and the importance of DELETE EVERYTHING AND START FROM BEGINNING!",
-    "link": "https://samsterpiece.hashnode.dev/how-to-use-arrayreduce-for-javascript-and-the-importance-of-delete-everything-and-start-from-beginning-1",
+    "title": "Filter different file types in JavaScript",
+    "link": "https://w3bdev.hashnode.dev/filter-different-file-types-in-javascript",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "How To Create Dark And Light Mode Website Using jQuery",
-    "link": "https://techsolutionstuff.hashnode.dev/how-to-create-dark-and-light-mode-website-using-jquery",
+    "title": "Clone of -\"cult.fit\"",
+    "link": "https://chaitanyag.hashnode.dev/clone-of-cultfit",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "Modernizing JavaScript Code: CSV/Table Manipulation",
-    "link": "https://non-traditional.dev/modernizing-javascript-code-csvtable-manipulation",
+    "title": "Creating A Clone Of - 'CoSchedule.com'",
+    "link": "https://coscheduleclone.hashnode.dev/creating-a-clone-of-coschedulecom",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "HTML Creative Resume Templates With Free Source Code",
-    "link": "https://dev.to/customui/html-creative-resume-templates-with-free-source-code-f3i",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switch statement in JavaScript",
-    "link": "https://dev.to/sarveshprajapati/switch-statement-in-javascript-23oa",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Jest Mocking Cheatsheet",
-    "link": "https://dev.to/mbarzeev/jest-mocking-cheatsheet-fca",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Derma Progenix - Skin Care Results, Price, Reviews, Uses And Benefits",
-    "link": "https://dev.to/dermaprogenixi1/derma-progenix-skin-care-results-price-reviews-uses-and-benefits-1n3h",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Moody with Spotify's API",
-    "link": "https://dev.to/rayleighrozier/getting-moody-with-spotifys-api-pfa",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Front-end Project ",
-    "link": "https://dev.to/santoast/front-end-project-3ml0",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "angular and jquery",
-    "link": "https://dev.to/maxkolin_1/angular-and-jquery-m7c",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google Summer of Code Detailed Post (1/5)",
-    "link": "https://dev.to/sanjaysinghrajpoot/google-summer-of-code-detailed-post-15-3dcd",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript with React",
-    "link": "https://dev.to/programmershahjalal/typescript-with-react-3kbp",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Resources for React developers in 2022",
-    "link": "https://dev.to/jakubgarfield/resources-for-react-developers-in-2022-26c1",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Every new programmer can't be a programmer",
-    "link": "https://dev.to/codewithshahan/every-new-programmer-cant-be-a-programmer-2o04",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 13 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#134. Gas Station(Medium/JavaScript)",
-    "link": "https://dev.to/corndog_com567/day-13-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem134-gas-stationmediumjavascript-2fn5",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "When should we use Let and const in our code🤔. ",
-    "link": "https://dev.to/amolshelke2/when-should-we-use-let-and-const-in-our-code-3lgm",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switch statement in JavaScript",
-    "link": "https://sarveshprajapati.hashnode.dev/switch-statement-in-javascript",
+    "title": "Deploy React-App to Github",
+    "link": "https://akshaymore.hashnode.dev/deploy-react-app-to-github",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Basics - Double Not ( !! ) Operator",
-    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-double-not-operator",
+    "title": "What can we do with Node JS?",
+    "link": "https://milliefrancis.hashnode.dev/what-can-we-do-with-node-js",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to use Array.Reduce() for JavaScript and the importance of DELETE EVERYTHING AND START FROM BEGINNING!",
-    "link": "https://samsterpiece.hashnode.dev/how-to-use-arrayreduce-for-javascript-and-the-importance-of-delete-everything-and-start-from-beginning-1",
+    "title": "onclick vs addEventListener in JavaScript",
+    "link": "https://victoriacheng15.hashnode.dev/onclick-vs-addeventlistener-in-javascript",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "How To Create Dark And Light Mode Website Using jQuery",
-    "link": "https://techsolutionstuff.hashnode.dev/how-to-create-dark-and-light-mode-website-using-jquery",
+    "title": "IIFE (Immediately invoked Function Expression)",
+    "link": "https://chirag1.hashnode.dev/iife-immediately-invoked-function-expression",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "Modernizing JavaScript Code: CSV/Table Manipulation",
-    "link": "https://non-traditional.dev/modernizing-javascript-code-csvtable-manipulation",
+    "title": "Funciones de flecha en Javascript",
+    "link": "https://devlucas.hashnode.dev/funciones-de-flecha-en-javascript",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "HTML Creative Resume Templates With Free Source Code",
-    "link": "https://dev.to/customui/html-creative-resume-templates-with-free-source-code-f3i",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switch statement in JavaScript",
-    "link": "https://dev.to/sarveshprajapati/switch-statement-in-javascript-23oa",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Jest Mocking Cheatsheet",
-    "link": "https://dev.to/mbarzeev/jest-mocking-cheatsheet-fca",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Derma Progenix - Skin Care Results, Price, Reviews, Uses And Benefits",
-    "link": "https://dev.to/dermaprogenixi1/derma-progenix-skin-care-results-price-reviews-uses-and-benefits-1n3h",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Moody with Spotify's API",
-    "link": "https://dev.to/rayleighrozier/getting-moody-with-spotifys-api-pfa",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Front-end Project ",
-    "link": "https://dev.to/santoast/front-end-project-3ml0",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "angular and jquery",
-    "link": "https://dev.to/maxkolin_1/angular-and-jquery-m7c",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google Summer of Code Detailed Post (1/5)",
-    "link": "https://dev.to/sanjaysinghrajpoot/google-summer-of-code-detailed-post-15-3dcd",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript with React",
-    "link": "https://dev.to/programmershahjalal/typescript-with-react-3kbp",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Resources for React developers in 2022",
-    "link": "https://dev.to/jakubgarfield/resources-for-react-developers-in-2022-26c1",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Every new programmer can't be a programmer",
-    "link": "https://dev.to/codewithshahan/every-new-programmer-cant-be-a-programmer-2o04",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 13 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#134. Gas Station(Medium/JavaScript)",
-    "link": "https://dev.to/corndog_com567/day-13-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem134-gas-stationmediumjavascript-2fn5",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "When should we use Let and const in our code🤔. ",
-    "link": "https://dev.to/amolshelke2/when-should-we-use-let-and-const-in-our-code-3lgm",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switch statement in JavaScript",
-    "link": "https://sarveshprajapati.hashnode.dev/switch-statement-in-javascript",
+    "title": "Secrets App Management",
+    "link": "https://globalpress.hashnode.dev/secrets-app-management",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Basics - Double Not ( !! ) Operator",
-    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-double-not-operator",
+    "title": "What the heck are props in react",
+    "link": "https://rajatgupta.net/what-the-heck-are-props-in-react",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to use Array.Reduce() for JavaScript and the importance of DELETE EVERYTHING AND START FROM BEGINNING!",
-    "link": "https://samsterpiece.hashnode.dev/how-to-use-arrayreduce-for-javascript-and-the-importance-of-delete-everything-and-start-from-beginning-1",
+    "title": "Random Password Generator – Learn Modern React JS By Projects For FREE In 2022",
+    "link": "https://nerdjfpb.hashnode.dev/random-password-generator-learn-modern-react-js-by-projects-for-free-in-2022",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "How To Create Dark And Light Mode Website Using jQuery",
-    "link": "https://techsolutionstuff.hashnode.dev/how-to-create-dark-and-light-mode-website-using-jquery",
+    "title": "Filter different file types in JavaScript",
+    "link": "https://w3bdev.hashnode.dev/filter-different-file-types-in-javascript",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "Modernizing JavaScript Code: CSV/Table Manipulation",
-    "link": "https://non-traditional.dev/modernizing-javascript-code-csvtable-manipulation",
+    "title": "Clone of -\"cult.fit\"",
+    "link": "https://chaitanyag.hashnode.dev/clone-of-cultfit",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "HTML Creative Resume Templates With Free Source Code",
-    "link": "https://dev.to/customui/html-creative-resume-templates-with-free-source-code-f3i",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switch statement in JavaScript",
-    "link": "https://dev.to/sarveshprajapati/switch-statement-in-javascript-23oa",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Jest Mocking Cheatsheet",
-    "link": "https://dev.to/mbarzeev/jest-mocking-cheatsheet-fca",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Derma Progenix - Skin Care Results, Price, Reviews, Uses And Benefits",
-    "link": "https://dev.to/dermaprogenixi1/derma-progenix-skin-care-results-price-reviews-uses-and-benefits-1n3h",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Moody with Spotify's API",
-    "link": "https://dev.to/rayleighrozier/getting-moody-with-spotifys-api-pfa",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Front-end Project ",
-    "link": "https://dev.to/santoast/front-end-project-3ml0",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "angular and jquery",
-    "link": "https://dev.to/maxkolin_1/angular-and-jquery-m7c",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google Summer of Code Detailed Post (1/5)",
-    "link": "https://dev.to/sanjaysinghrajpoot/google-summer-of-code-detailed-post-15-3dcd",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript with React",
-    "link": "https://dev.to/programmershahjalal/typescript-with-react-3kbp",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Resources for React developers in 2022",
-    "link": "https://dev.to/jakubgarfield/resources-for-react-developers-in-2022-26c1",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Every new programmer can't be a programmer",
-    "link": "https://dev.to/codewithshahan/every-new-programmer-cant-be-a-programmer-2o04",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 13 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#134. Gas Station(Medium/JavaScript)",
-    "link": "https://dev.to/corndog_com567/day-13-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem134-gas-stationmediumjavascript-2fn5",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "When should we use Let and const in our code🤔. ",
-    "link": "https://dev.to/amolshelke2/when-should-we-use-let-and-const-in-our-code-3lgm",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switch statement in JavaScript",
-    "link": "https://sarveshprajapati.hashnode.dev/switch-statement-in-javascript",
+    "title": "Creating A Clone Of - 'CoSchedule.com'",
+    "link": "https://coscheduleclone.hashnode.dev/creating-a-clone-of-coschedulecom",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Basics - Double Not ( !! ) Operator",
-    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-double-not-operator",
+    "title": "Deploy React-App to Github",
+    "link": "https://akshaymore.hashnode.dev/deploy-react-app-to-github",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to use Array.Reduce() for JavaScript and the importance of DELETE EVERYTHING AND START FROM BEGINNING!",
-    "link": "https://samsterpiece.hashnode.dev/how-to-use-arrayreduce-for-javascript-and-the-importance-of-delete-everything-and-start-from-beginning-1",
+    "title": "What can we do with Node JS?",
+    "link": "https://milliefrancis.hashnode.dev/what-can-we-do-with-node-js",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "How To Create Dark And Light Mode Website Using jQuery",
-    "link": "https://techsolutionstuff.hashnode.dev/how-to-create-dark-and-light-mode-website-using-jquery",
+    "title": "onclick vs addEventListener in JavaScript",
+    "link": "https://victoriacheng15.hashnode.dev/onclick-vs-addeventlistener-in-javascript",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "Modernizing JavaScript Code: CSV/Table Manipulation",
-    "link": "https://non-traditional.dev/modernizing-javascript-code-csvtable-manipulation",
+    "title": "IIFE (Immediately invoked Function Expression)",
+    "link": "https://chirag1.hashnode.dev/iife-immediately-invoked-function-expression",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "HTML Creative Resume Templates With Free Source Code",
-    "link": "https://dev.to/customui/html-creative-resume-templates-with-free-source-code-f3i",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switch statement in JavaScript",
-    "link": "https://dev.to/sarveshprajapati/switch-statement-in-javascript-23oa",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Jest Mocking Cheatsheet",
-    "link": "https://dev.to/mbarzeev/jest-mocking-cheatsheet-fca",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Derma Progenix - Skin Care Results, Price, Reviews, Uses And Benefits",
-    "link": "https://dev.to/dermaprogenixi1/derma-progenix-skin-care-results-price-reviews-uses-and-benefits-1n3h",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Moody with Spotify's API",
-    "link": "https://dev.to/rayleighrozier/getting-moody-with-spotifys-api-pfa",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Front-end Project ",
-    "link": "https://dev.to/santoast/front-end-project-3ml0",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "angular and jquery",
-    "link": "https://dev.to/maxkolin_1/angular-and-jquery-m7c",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google Summer of Code Detailed Post (1/5)",
-    "link": "https://dev.to/sanjaysinghrajpoot/google-summer-of-code-detailed-post-15-3dcd",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript with React",
-    "link": "https://dev.to/programmershahjalal/typescript-with-react-3kbp",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Resources for React developers in 2022",
-    "link": "https://dev.to/jakubgarfield/resources-for-react-developers-in-2022-26c1",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Every new programmer can't be a programmer",
-    "link": "https://dev.to/codewithshahan/every-new-programmer-cant-be-a-programmer-2o04",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 13 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#134. Gas Station(Medium/JavaScript)",
-    "link": "https://dev.to/corndog_com567/day-13-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem134-gas-stationmediumjavascript-2fn5",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "When should we use Let and const in our code🤔. ",
-    "link": "https://dev.to/amolshelke2/when-should-we-use-let-and-const-in-our-code-3lgm",
-    "date": "2/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Switch statement in JavaScript",
-    "link": "https://sarveshprajapati.hashnode.dev/switch-statement-in-javascript",
+    "title": "Funciones de flecha en Javascript",
+    "link": "https://devlucas.hashnode.dev/funciones-de-flecha-en-javascript",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Basics - Double Not ( !! ) Operator",
-    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-double-not-operator",
+    "title": "Secrets App Management",
+    "link": "https://globalpress.hashnode.dev/secrets-app-management",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to use Array.Reduce() for JavaScript and the importance of DELETE EVERYTHING AND START FROM BEGINNING!",
-    "link": "https://samsterpiece.hashnode.dev/how-to-use-arrayreduce-for-javascript-and-the-importance-of-delete-everything-and-start-from-beginning-1",
+    "title": "What the heck are props in react",
+    "link": "https://rajatgupta.net/what-the-heck-are-props-in-react",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "How To Create Dark And Light Mode Website Using jQuery",
-    "link": "https://techsolutionstuff.hashnode.dev/how-to-create-dark-and-light-mode-website-using-jquery",
+    "title": "Random Password Generator – Learn Modern React JS By Projects For FREE In 2022",
+    "link": "https://nerdjfpb.hashnode.dev/random-password-generator-learn-modern-react-js-by-projects-for-free-in-2022",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "Modernizing JavaScript Code: CSV/Table Manipulation",
-    "link": "https://non-traditional.dev/modernizing-javascript-code-csvtable-manipulation",
+    "title": "Filter different file types in JavaScript",
+    "link": "https://w3bdev.hashnode.dev/filter-different-file-types-in-javascript",
     "date": "2/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "HTML Creative Resume Templates With Free Source Code",
-    "link": "https://dev.to/customui/html-creative-resume-templates-with-free-source-code-f3i",
+    "title": "Clone of -\"cult.fit\"",
+    "link": "https://chaitanyag.hashnode.dev/clone-of-cultfit",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Switch statement in JavaScript",
-    "link": "https://dev.to/sarveshprajapati/switch-statement-in-javascript-23oa",
+    "title": "Creating A Clone Of - 'CoSchedule.com'",
+    "link": "https://coscheduleclone.hashnode.dev/creating-a-clone-of-coschedulecom",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Jest Mocking Cheatsheet",
-    "link": "https://dev.to/mbarzeev/jest-mocking-cheatsheet-fca",
+    "title": "Deploy React-App to Github",
+    "link": "https://akshaymore.hashnode.dev/deploy-react-app-to-github",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Derma Progenix - Skin Care Results, Price, Reviews, Uses And Benefits",
-    "link": "https://dev.to/dermaprogenixi1/derma-progenix-skin-care-results-price-reviews-uses-and-benefits-1n3h",
+    "title": "What can we do with Node JS?",
+    "link": "https://milliefrancis.hashnode.dev/what-can-we-do-with-node-js",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Getting Moody with Spotify's API",
-    "link": "https://dev.to/rayleighrozier/getting-moody-with-spotifys-api-pfa",
+    "title": "onclick vs addEventListener in JavaScript",
+    "link": "https://victoriacheng15.hashnode.dev/onclick-vs-addeventlistener-in-javascript",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Front-end Project ",
-    "link": "https://dev.to/santoast/front-end-project-3ml0",
+    "title": "IIFE (Immediately invoked Function Expression)",
+    "link": "https://chirag1.hashnode.dev/iife-immediately-invoked-function-expression",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "angular and jquery",
-    "link": "https://dev.to/maxkolin_1/angular-and-jquery-m7c",
+    "title": "Funciones de flecha en Javascript",
+    "link": "https://devlucas.hashnode.dev/funciones-de-flecha-en-javascript",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Google Summer of Code Detailed Post (1/5)",
-    "link": "https://dev.to/sanjaysinghrajpoot/google-summer-of-code-detailed-post-15-3dcd",
+    "title": "Secrets App Management",
+    "link": "https://globalpress.hashnode.dev/secrets-app-management",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Typescript with React",
-    "link": "https://dev.to/programmershahjalal/typescript-with-react-3kbp",
+    "title": "What the heck are props in react",
+    "link": "https://rajatgupta.net/what-the-heck-are-props-in-react",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Resources for React developers in 2022",
-    "link": "https://dev.to/jakubgarfield/resources-for-react-developers-in-2022-26c1",
+    "title": "Random Password Generator – Learn Modern React JS By Projects For FREE In 2022",
+    "link": "https://nerdjfpb.hashnode.dev/random-password-generator-learn-modern-react-js-by-projects-for-free-in-2022",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Every new programmer can't be a programmer",
-    "link": "https://dev.to/codewithshahan/every-new-programmer-cant-be-a-programmer-2o04",
+    "title": "Filter different file types in JavaScript",
+    "link": "https://w3bdev.hashnode.dev/filter-different-file-types-in-javascript",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Day 13 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#134. Gas Station(Medium/JavaScript)",
-    "link": "https://dev.to/corndog_com567/day-13-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem134-gas-stationmediumjavascript-2fn5",
+    "title": "Clone of -\"cult.fit\"",
+    "link": "https://chaitanyag.hashnode.dev/clone-of-cultfit",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "When should we use Let and const in our code🤔. ",
-    "link": "https://dev.to/amolshelke2/when-should-we-use-let-and-const-in-our-code-3lgm",
+    "title": "Creating A Clone Of - 'CoSchedule.com'",
+    "link": "https://coscheduleclone.hashnode.dev/creating-a-clone-of-coschedulecom",
     "date": "2/25/2022",
-    "site": "dev.to"
+    "site": "hashnode"
+  },
+  {
+    "title": "Deploy React-App to Github",
+    "link": "https://akshaymore.hashnode.dev/deploy-react-app-to-github",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What can we do with Node JS?",
+    "link": "https://milliefrancis.hashnode.dev/what-can-we-do-with-node-js",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "onclick vs addEventListener in JavaScript",
+    "link": "https://victoriacheng15.hashnode.dev/onclick-vs-addeventlistener-in-javascript",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "IIFE (Immediately invoked Function Expression)",
+    "link": "https://chirag1.hashnode.dev/iife-immediately-invoked-function-expression",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Funciones de flecha en Javascript",
+    "link": "https://devlucas.hashnode.dev/funciones-de-flecha-en-javascript",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Secrets App Management",
+    "link": "https://globalpress.hashnode.dev/secrets-app-management",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What the heck are props in react",
+    "link": "https://rajatgupta.net/what-the-heck-are-props-in-react",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Random Password Generator – Learn Modern React JS By Projects For FREE In 2022",
+    "link": "https://nerdjfpb.hashnode.dev/random-password-generator-learn-modern-react-js-by-projects-for-free-in-2022",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Filter different file types in JavaScript",
+    "link": "https://w3bdev.hashnode.dev/filter-different-file-types-in-javascript",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Clone of -\"cult.fit\"",
+    "link": "https://chaitanyag.hashnode.dev/clone-of-cultfit",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Creating A Clone Of - 'CoSchedule.com'",
+    "link": "https://coscheduleclone.hashnode.dev/creating-a-clone-of-coschedulecom",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Deploy React-App to Github",
+    "link": "https://akshaymore.hashnode.dev/deploy-react-app-to-github",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What can we do with Node JS?",
+    "link": "https://milliefrancis.hashnode.dev/what-can-we-do-with-node-js",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "onclick vs addEventListener in JavaScript",
+    "link": "https://victoriacheng15.hashnode.dev/onclick-vs-addeventlistener-in-javascript",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "IIFE (Immediately invoked Function Expression)",
+    "link": "https://chirag1.hashnode.dev/iife-immediately-invoked-function-expression",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Funciones de flecha en Javascript",
+    "link": "https://devlucas.hashnode.dev/funciones-de-flecha-en-javascript",
+    "date": "2/25/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Secrets App Management",
+    "link": "https://globalpress.hashnode.dev/secrets-app-management",
+    "date": "2/25/2022",
+    "site": "hashnode"
   },
   {
     "title": "🚗 📻 RoadTrip.FM: Quickly & Easily Find Nearby Radio Stations",
@@ -546,64 +876,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Build a FullStack App with Next.js, Supabase & Prisma",
-    "link": "https://alterclass.hashnode.dev/build-a-fullstack-app-with-nextjs-supabase-and-prisma",
+    "title": "🚗 📻 RoadTrip.FM: Quickly & Easily Find Nearby Radio Stations",
+    "link": "https://blog.alyssaholland.me/roadtripfm",
     "date": "2/24/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Web 3 RoadMap with Resources to learn",
-    "link": "https://surajondev.hashnode.dev/web-3-roadmap-with-resources-to-learn",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My tech journey",
-    "link": "https://moyosore.hashnode.dev/my-tech-journey",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Complete Beginner's Guide to Local Storage in JavaScript",
-    "link": "https://boatengg.hashnode.dev/complete-beginners-guide-to-local-storage-in-javascript",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A collection of the best HTTP clients for various languages",
-    "link": "mbagley.hashnode.dev/a-collection-of-the-best-http-clients-for-various-languages",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "# Introduction to JavaScript Classes: Maps",
-    "link": "https://sambayo.hashnode.dev/introduction-to-javascript-classes-maps",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "useEffect: which saves time",
-    "link": "https://shaanblog.io/useeffect-which-saves-time",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn JavaScript Arrays",
-    "link": "https://mwendwabundi.hashnode.dev/learn-javascript-arrays",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 12 of Studying LeetCode Solution until I Can Solve One on My Own: Problem1560. Most Visited Sector in a Circular Track(E/JS)",
-    "link": "https://dev.to/corndog_com567/day-12-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1560-most-visited-sector-in-a-circular-trackejs-1ple",
-    "date": "2/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Flashup use case | Redwood Crystals, a small business",
-    "link": "https://dev.to/richkurtzman/flashup-use-case-redwood-crystals-a-small-business-idf",
-    "date": "2/24/2022",
-    "site": "dev.to"
   },
   {
     "title": "🚗 📻 RoadTrip.FM: Quickly & Easily Find Nearby Radio Stations",
@@ -612,291 +888,15 @@
     "site": "hashnode"
   },
   {
-    "title": "Build a FullStack App with Next.js, Supabase & Prisma",
-    "link": "https://alterclass.hashnode.dev/build-a-fullstack-app-with-nextjs-supabase-and-prisma",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Web 3 RoadMap with Resources to learn",
-    "link": "https://surajondev.hashnode.dev/web-3-roadmap-with-resources-to-learn",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My tech journey",
-    "link": "https://moyosore.hashnode.dev/my-tech-journey",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Complete Beginner's Guide to Local Storage in JavaScript",
-    "link": "https://boatengg.hashnode.dev/complete-beginners-guide-to-local-storage-in-javascript",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A collection of the best HTTP clients for various languages",
-    "link": "mbagley.hashnode.dev/a-collection-of-the-best-http-clients-for-various-languages",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "# Introduction to JavaScript Classes: Maps",
-    "link": "https://sambayo.hashnode.dev/introduction-to-javascript-classes-maps",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "useEffect: which saves time",
-    "link": "https://shaanblog.io/useeffect-which-saves-time",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn JavaScript Arrays",
-    "link": "https://mwendwabundi.hashnode.dev/learn-javascript-arrays",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 12 of Studying LeetCode Solution until I Can Solve One on My Own: Problem1560. Most Visited Sector in a Circular Track(E/JS)",
-    "link": "https://dev.to/corndog_com567/day-12-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1560-most-visited-sector-in-a-circular-trackejs-1ple",
-    "date": "2/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Flashup use case | Redwood Crystals, a small business",
-    "link": "https://dev.to/richkurtzman/flashup-use-case-redwood-crystals-a-small-business-idf",
-    "date": "2/24/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "🚗 📻 RoadTrip.FM: Quickly & Easily Find Nearby Radio Stations",
     "link": "https://blog.alyssaholland.me/roadtripfm",
     "date": "2/24/2022",
     "site": "hashnode"
   },
   {
-    "title": "Build a FullStack App with Next.js, Supabase & Prisma",
-    "link": "https://alterclass.hashnode.dev/build-a-fullstack-app-with-nextjs-supabase-and-prisma",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Web 3 RoadMap with Resources to learn",
-    "link": "https://surajondev.hashnode.dev/web-3-roadmap-with-resources-to-learn",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My tech journey",
-    "link": "https://moyosore.hashnode.dev/my-tech-journey",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Complete Beginner's Guide to Local Storage in JavaScript",
-    "link": "https://boatengg.hashnode.dev/complete-beginners-guide-to-local-storage-in-javascript",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A collection of the best HTTP clients for various languages",
-    "link": "mbagley.hashnode.dev/a-collection-of-the-best-http-clients-for-various-languages",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "# Introduction to JavaScript Classes: Maps",
-    "link": "https://sambayo.hashnode.dev/introduction-to-javascript-classes-maps",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "useEffect: which saves time",
-    "link": "https://shaanblog.io/useeffect-which-saves-time",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn JavaScript Arrays",
-    "link": "https://mwendwabundi.hashnode.dev/learn-javascript-arrays",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 12 of Studying LeetCode Solution until I Can Solve One on My Own: Problem1560. Most Visited Sector in a Circular Track(E/JS)",
-    "link": "https://dev.to/corndog_com567/day-12-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1560-most-visited-sector-in-a-circular-trackejs-1ple",
-    "date": "2/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Flashup use case | Redwood Crystals, a small business",
-    "link": "https://dev.to/richkurtzman/flashup-use-case-redwood-crystals-a-small-business-idf",
-    "date": "2/24/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "🚗 📻 RoadTrip.FM: Quickly & Easily Find Nearby Radio Stations",
     "link": "https://blog.alyssaholland.me/roadtripfm",
     "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Build a FullStack App with Next.js, Supabase & Prisma",
-    "link": "https://alterclass.hashnode.dev/build-a-fullstack-app-with-nextjs-supabase-and-prisma",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Web 3 RoadMap with Resources to learn",
-    "link": "https://surajondev.hashnode.dev/web-3-roadmap-with-resources-to-learn",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My tech journey",
-    "link": "https://moyosore.hashnode.dev/my-tech-journey",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Complete Beginner's Guide to Local Storage in JavaScript",
-    "link": "https://boatengg.hashnode.dev/complete-beginners-guide-to-local-storage-in-javascript",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A collection of the best HTTP clients for various languages",
-    "link": "mbagley.hashnode.dev/a-collection-of-the-best-http-clients-for-various-languages",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "# Introduction to JavaScript Classes: Maps",
-    "link": "https://sambayo.hashnode.dev/introduction-to-javascript-classes-maps",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "useEffect: which saves time",
-    "link": "https://shaanblog.io/useeffect-which-saves-time",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn JavaScript Arrays",
-    "link": "https://mwendwabundi.hashnode.dev/learn-javascript-arrays",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 12 of Studying LeetCode Solution until I Can Solve One on My Own: Problem1560. Most Visited Sector in a Circular Track(E/JS)",
-    "link": "https://dev.to/corndog_com567/day-12-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1560-most-visited-sector-in-a-circular-trackejs-1ple",
-    "date": "2/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Flashup use case | Redwood Crystals, a small business",
-    "link": "https://dev.to/richkurtzman/flashup-use-case-redwood-crystals-a-small-business-idf",
-    "date": "2/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚗 📻 RoadTrip.FM: Quickly & Easily Find Nearby Radio Stations",
-    "link": "https://blog.alyssaholland.me/roadtripfm",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Build a FullStack App with Next.js, Supabase & Prisma",
-    "link": "https://alterclass.hashnode.dev/build-a-fullstack-app-with-nextjs-supabase-and-prisma",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Web 3 RoadMap with Resources to learn",
-    "link": "https://surajondev.hashnode.dev/web-3-roadmap-with-resources-to-learn",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My tech journey",
-    "link": "https://moyosore.hashnode.dev/my-tech-journey",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Complete Beginner's Guide to Local Storage in JavaScript",
-    "link": "https://boatengg.hashnode.dev/complete-beginners-guide-to-local-storage-in-javascript",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A collection of the best HTTP clients for various languages",
-    "link": "mbagley.hashnode.dev/a-collection-of-the-best-http-clients-for-various-languages",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "# Introduction to JavaScript Classes: Maps",
-    "link": "https://sambayo.hashnode.dev/introduction-to-javascript-classes-maps",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "useEffect: which saves time",
-    "link": "https://shaanblog.io/useeffect-which-saves-time",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn JavaScript Arrays",
-    "link": "https://mwendwabundi.hashnode.dev/learn-javascript-arrays",
-    "date": "2/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 12 of Studying LeetCode Solution until I Can Solve One on My Own: Problem1560. Most Visited Sector in a Circular Track(E/JS)",
-    "link": "https://dev.to/corndog_com567/day-12-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1560-most-visited-sector-in-a-circular-trackejs-1ple",
-    "date": "2/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Flashup use case | Redwood Crystals, a small business",
-    "link": "https://dev.to/richkurtzman/flashup-use-case-redwood-crystals-a-small-business-idf",
-    "date": "2/24/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a To-do list app using Redux Toolkit",
-    "link": "https://yosracodes.hashnode.dev/creating-a-to-do-list-app-using-redux-toolkit",
-    "date": "2/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a To-do list app using Redux Toolkit",
-    "link": "https://yosracodes.hashnode.dev/creating-a-to-do-list-app-using-redux-toolkit",
-    "date": "2/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a To-do list app using Redux Toolkit",
-    "link": "https://yosracodes.hashnode.dev/creating-a-to-do-list-app-using-redux-toolkit",
-    "date": "2/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a To-do list app using Redux Toolkit",
-    "link": "https://yosracodes.hashnode.dev/creating-a-to-do-list-app-using-redux-toolkit",
-    "date": "2/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a To-do list app using Redux Toolkit",
-    "link": "https://yosracodes.hashnode.dev/creating-a-to-do-list-app-using-redux-toolkit",
-    "date": "2/23/2022",
     "site": "hashnode"
   },
   {
@@ -941,7 +941,7 @@
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -1041,7 +1041,7 @@
   {
     "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
     "link": "https://www.smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "9/9/2021",
     "site": "smashingmagazine"
   },
@@ -1076,7 +1076,7 @@
   {
     "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
     "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "8/11/2021",
     "site": "smashingmagazine"
   },
@@ -1122,7 +1122,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -1231,7 +1231,7 @@
   {
     "title": "Managing Shared State In Vue 3",
     "link": "https://www.smashingmagazine.com/2021/06/managing-shared-state-vue3/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "6/3/2021",
     "site": "smashingmagazine"
   },
@@ -1294,14 +1294,14 @@
   {
     "title": "A Guide To Undoing Mistakes With Git (Part 1)",
     "link": "https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "5/4/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "The Evolution Of Jamstack",
     "link": "https://www.smashingmagazine.com/2021/05/evolution-jamstack/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "5/3/2021",
     "site": "smashingmagazine"
   },
