@@ -1,61 +1,361 @@
 [
   {
-    "title": "Deploying React App in GitHub Pages",
-    "link": "https://dev.to/shivishbrahma/deploying-react-app-in-github-pages-4jfd",
+    "title": "React State Management (2) : Redux",
+    "link": "https://dev.to/lada496/react-state-management-2-redux-4bpk",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (3) : Redux Toolkit",
+    "link": "https://dev.to/lada496/react-state-management-3-redux-toolkit-5f7c",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (1) : context API",
+    "link": "https://dev.to/lada496/react-state-management-1-context-api-3klc",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I created Wordle, but for Blockchain!",
+    "link": "https://dev.to/saugaatallabadi/i-created-wordle-but-for-blockchain-1i21",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make your own Wordle in React 🟩🟨⬛️",
+    "link": "https://dev.to/krisgardiner/build-wordle-in-react-1hkb",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hide Firebase API Keys in ReactJS Project using Environment Variables",
+    "link": "https://dev.to/ayushdev_24/hide-firebase-api-keys-in-reactjs-project-using-environment-variables-mb5",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (2) : Redux",
+    "link": "https://dev.to/lada496/react-state-management-2-redux-4bpk",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (3) : Redux Toolkit",
+    "link": "https://dev.to/lada496/react-state-management-3-redux-toolkit-5f7c",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (1) : context API",
+    "link": "https://dev.to/lada496/react-state-management-1-context-api-3klc",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I created Wordle, but for Blockchain!",
+    "link": "https://dev.to/saugaatallabadi/i-created-wordle-but-for-blockchain-1i21",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make your own Wordle in React 🟩🟨⬛️",
+    "link": "https://dev.to/krisgardiner/build-wordle-in-react-1hkb",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hide Firebase API Keys in ReactJS Project using Environment Variables",
+    "link": "https://dev.to/ayushdev_24/hide-firebase-api-keys-in-reactjs-project-using-environment-variables-mb5",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (2) : Redux",
+    "link": "https://dev.to/lada496/react-state-management-2-redux-4bpk",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (3) : Redux Toolkit",
+    "link": "https://dev.to/lada496/react-state-management-3-redux-toolkit-5f7c",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (1) : context API",
+    "link": "https://dev.to/lada496/react-state-management-1-context-api-3klc",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I created Wordle, but for Blockchain!",
+    "link": "https://dev.to/saugaatallabadi/i-created-wordle-but-for-blockchain-1i21",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make your own Wordle in React 🟩🟨⬛️",
+    "link": "https://dev.to/krisgardiner/build-wordle-in-react-1hkb",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hide Firebase API Keys in ReactJS Project using Environment Variables",
+    "link": "https://dev.to/ayushdev_24/hide-firebase-api-keys-in-reactjs-project-using-environment-variables-mb5",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (2) : Redux",
+    "link": "https://dev.to/lada496/react-state-management-2-redux-4bpk",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (3) : Redux Toolkit",
+    "link": "https://dev.to/lada496/react-state-management-3-redux-toolkit-5f7c",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (1) : context API",
+    "link": "https://dev.to/lada496/react-state-management-1-context-api-3klc",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I created Wordle, but for Blockchain!",
+    "link": "https://dev.to/saugaatallabadi/i-created-wordle-but-for-blockchain-1i21",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make your own Wordle in React 🟩🟨⬛️",
+    "link": "https://dev.to/krisgardiner/build-wordle-in-react-1hkb",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hide Firebase API Keys in ReactJS Project using Environment Variables",
+    "link": "https://dev.to/ayushdev_24/hide-firebase-api-keys-in-reactjs-project-using-environment-variables-mb5",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (2) : Redux",
+    "link": "https://dev.to/lada496/react-state-management-2-redux-4bpk",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (3) : Redux Toolkit",
+    "link": "https://dev.to/lada496/react-state-management-3-redux-toolkit-5f7c",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management (1) : context API",
+    "link": "https://dev.to/lada496/react-state-management-1-context-api-3klc",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I created Wordle, but for Blockchain!",
+    "link": "https://dev.to/saugaatallabadi/i-created-wordle-but-for-blockchain-1i21",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Make your own Wordle in React 🟩🟨⬛️",
+    "link": "https://dev.to/krisgardiner/build-wordle-in-react-1hkb",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hide Firebase API Keys in ReactJS Project using Environment Variables",
+    "link": "https://dev.to/ayushdev_24/hide-firebase-api-keys-in-reactjs-project-using-environment-variables-mb5",
+    "date": "3/7/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "GraphQL Microservices and the magic of Apollo Federation",
+    "link": "https://dev.to/ilakshay/graphql-microservices-and-the-magic-of-apollo-federation-545n",
     "date": "3/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Creating a web framework in under an hour!!",
-    "link": "https://dev.to/acashjos/creating-a-web-framework-in-under-an-hour-58m",
+    "title": "Next.js docs -- js から React へを読んで",
+    "link": "https://dev.to/kaede_io/nextjs-docs-dom-to-html-wodu-nde-338l",
     "date": "3/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Deploying React App in GitHub Pages",
-    "link": "https://dev.to/shivishbrahma/deploying-react-app-in-github-pages-4jfd",
+    "title": "How to use PAGINATION on React",
+    "link": "https://dev.to/slimpotatoboy/how-to-use-pagination-on-react-4nlf",
     "date": "3/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Creating a web framework in under an hour!!",
-    "link": "https://dev.to/acashjos/creating-a-web-framework-in-under-an-hour-58m",
+    "title": "Weekly Digest 09/2022",
+    "link": "https://dev.to/marcobiedermann/weekly-digest-092022-5cn6",
     "date": "3/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Deploying React App in GitHub Pages",
-    "link": "https://dev.to/shivishbrahma/deploying-react-app-in-github-pages-4jfd",
+    "title": "Introduction to React.js",
+    "link": "https://dev.to/enajciiru/introduction-to-reactjs-336h",
     "date": "3/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Creating a web framework in under an hour!!",
-    "link": "https://dev.to/acashjos/creating-a-web-framework-in-under-an-hour-58m",
+    "title": "How to become a Blockchain Developer ?",
+    "link": "https://dev.to/shubhamathawane/how-to-become-a-blockchain-developer--1p0b",
     "date": "3/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Deploying React App in GitHub Pages",
-    "link": "https://dev.to/shivishbrahma/deploying-react-app-in-github-pages-4jfd",
+    "title": "GraphQL Microservices and the magic of Apollo Federation",
+    "link": "https://dev.to/ilakshay/graphql-microservices-and-the-magic-of-apollo-federation-545n",
     "date": "3/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Creating a web framework in under an hour!!",
-    "link": "https://dev.to/acashjos/creating-a-web-framework-in-under-an-hour-58m",
+    "title": "Next.js docs -- js から React へを読んで",
+    "link": "https://dev.to/kaede_io/nextjs-docs-dom-to-html-wodu-nde-338l",
     "date": "3/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Deploying React App in GitHub Pages",
-    "link": "https://dev.to/shivishbrahma/deploying-react-app-in-github-pages-4jfd",
+    "title": "How to use PAGINATION on React",
+    "link": "https://dev.to/slimpotatoboy/how-to-use-pagination-on-react-4nlf",
     "date": "3/6/2022",
     "site": "dev.to"
   },
   {
-    "title": "Creating a web framework in under an hour!!",
-    "link": "https://dev.to/acashjos/creating-a-web-framework-in-under-an-hour-58m",
+    "title": "Weekly Digest 09/2022",
+    "link": "https://dev.to/marcobiedermann/weekly-digest-092022-5cn6",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to React.js",
+    "link": "https://dev.to/enajciiru/introduction-to-reactjs-336h",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to become a Blockchain Developer ?",
+    "link": "https://dev.to/shubhamathawane/how-to-become-a-blockchain-developer--1p0b",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "GraphQL Microservices and the magic of Apollo Federation",
+    "link": "https://dev.to/ilakshay/graphql-microservices-and-the-magic-of-apollo-federation-545n",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js docs -- js から React へを読んで",
+    "link": "https://dev.to/kaede_io/nextjs-docs-dom-to-html-wodu-nde-338l",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use PAGINATION on React",
+    "link": "https://dev.to/slimpotatoboy/how-to-use-pagination-on-react-4nlf",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Weekly Digest 09/2022",
+    "link": "https://dev.to/marcobiedermann/weekly-digest-092022-5cn6",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to React.js",
+    "link": "https://dev.to/enajciiru/introduction-to-reactjs-336h",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to become a Blockchain Developer ?",
+    "link": "https://dev.to/shubhamathawane/how-to-become-a-blockchain-developer--1p0b",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "GraphQL Microservices and the magic of Apollo Federation",
+    "link": "https://dev.to/ilakshay/graphql-microservices-and-the-magic-of-apollo-federation-545n",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js docs -- js から React へを読んで",
+    "link": "https://dev.to/kaede_io/nextjs-docs-dom-to-html-wodu-nde-338l",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use PAGINATION on React",
+    "link": "https://dev.to/slimpotatoboy/how-to-use-pagination-on-react-4nlf",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Weekly Digest 09/2022",
+    "link": "https://dev.to/marcobiedermann/weekly-digest-092022-5cn6",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to React.js",
+    "link": "https://dev.to/enajciiru/introduction-to-reactjs-336h",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to become a Blockchain Developer ?",
+    "link": "https://dev.to/shubhamathawane/how-to-become-a-blockchain-developer--1p0b",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "GraphQL Microservices and the magic of Apollo Federation",
+    "link": "https://dev.to/ilakshay/graphql-microservices-and-the-magic-of-apollo-federation-545n",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js docs -- js から React へを読んで",
+    "link": "https://dev.to/kaede_io/nextjs-docs-dom-to-html-wodu-nde-338l",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use PAGINATION on React",
+    "link": "https://dev.to/slimpotatoboy/how-to-use-pagination-on-react-4nlf",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Weekly Digest 09/2022",
+    "link": "https://dev.to/marcobiedermann/weekly-digest-092022-5cn6",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to React.js",
+    "link": "https://dev.to/enajciiru/introduction-to-reactjs-336h",
+    "date": "3/6/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to become a Blockchain Developer ?",
+    "link": "https://dev.to/shubhamathawane/how-to-become-a-blockchain-developer--1p0b",
     "date": "3/6/2022",
     "site": "dev.to"
   },
@@ -78,62 +378,20 @@
     "site": "dev.to"
   },
   {
-    "title": "2022 Powerful Work: An Ultra-Delicate Picture Preview Component",
-    "link": "https://dev.to/minjieliu/2022-powerful-work-an-ultra-delicate-picture-preview-component-2ia3",
+    "title": "Razorpay Payment Gateway Integration In Node JS & React JS | MERN Stack Tutorial",
+    "link": "https://dev.to/cyberwolve/razorpay-payment-gateway-integration-in-node-js-react-js-mern-stack-tutorial-5hba",
     "date": "3/5/2022",
     "site": "dev.to"
   },
   {
-    "title": "React - Image Editor",
-    "link": "https://dev.to/kenji_goh/react-image-editor-1o8j",
+    "title": "🧑‍💻 Building CLIs with React Ink",
+    "link": "https://dev.to/carrotfarmer/building-clis-with-react-ink-2038",
     "date": "3/5/2022",
     "site": "dev.to"
   },
   {
-    "title": "Benefits and Application of using Artificial Intelligence on Modern E-commerce Web Application",
-    "link": "https://dev.to/tanzim395/benefits-and-application-of-using-artificial-intelligence-on-modern-e-commerce-web-application-4l8d",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to eat an elephant by JS?",
-    "link": "https://dev.to/asktosimon/how-to-eat-an-elephant-by-js-1g9p",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Truly Understanding React (TUR) - Ep5",
-    "link": "https://dev.to/mrpaulishaili/quick-tip-importing-and-exporting-components-in-react-app-2930",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Everything you need to know about React.memo (with examples)",
-    "link": "https://dev.to/kairatorozobekov/everything-you-need-to-know-about-reactmemo-with-examples-57em",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Controlling React API Calls With Hooks",
-    "link": "https://dev.to/bytebodger/controlling-react-api-calls-with-hooks-a79",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy react application using Netlify",
-    "link": "https://dev.to/codewitharjun/deploy-react-application-using-netlify-24j9",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Can I Show Pie Charts on My Website? - Introducing Recharts",
-    "link": "https://dev.to/hzahar/can-i-show-pie-charts-on-my-website-introducing-recharts-55p",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Axios Scripts",
-    "link": "https://dev.to/jasoncruzdev/axios-scripts-1pic",
+    "title": "MERN Auth - Signup & Login with Email (JWT) | React , Node, Express, MongoDB",
+    "link": "https://dev.to/cyberwolve/mern-auth-signup-login-with-email-jwt-react-node-express-mongodb-m76",
     "date": "3/5/2022",
     "site": "dev.to"
   },
@@ -156,66 +414,6 @@
     "site": "dev.to"
   },
   {
-    "title": "2022 Powerful Work: An Ultra-Delicate Picture Preview Component",
-    "link": "https://dev.to/minjieliu/2022-powerful-work-an-ultra-delicate-picture-preview-component-2ia3",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React - Image Editor",
-    "link": "https://dev.to/kenji_goh/react-image-editor-1o8j",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Benefits and Application of using Artificial Intelligence on Modern E-commerce Web Application",
-    "link": "https://dev.to/tanzim395/benefits-and-application-of-using-artificial-intelligence-on-modern-e-commerce-web-application-4l8d",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to eat an elephant by JS?",
-    "link": "https://dev.to/asktosimon/how-to-eat-an-elephant-by-js-1g9p",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Truly Understanding React (TUR) - Ep5",
-    "link": "https://dev.to/mrpaulishaili/quick-tip-importing-and-exporting-components-in-react-app-2930",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Everything you need to know about React.memo (with examples)",
-    "link": "https://dev.to/kairatorozobekov/everything-you-need-to-know-about-reactmemo-with-examples-57em",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Controlling React API Calls With Hooks",
-    "link": "https://dev.to/bytebodger/controlling-react-api-calls-with-hooks-a79",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy react application using Netlify",
-    "link": "https://dev.to/codewitharjun/deploy-react-application-using-netlify-24j9",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Can I Show Pie Charts on My Website? - Introducing Recharts",
-    "link": "https://dev.to/hzahar/can-i-show-pie-charts-on-my-website-introducing-recharts-55p",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Axios Scripts",
-    "link": "https://dev.to/jasoncruzdev/axios-scripts-1pic",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Razorpay Payment Gateway Integration In Node JS & React JS | MERN Stack Tutorial",
     "link": "https://dev.to/cyberwolve/razorpay-payment-gateway-integration-in-node-js-react-js-mern-stack-tutorial-5hba",
     "date": "3/5/2022",
@@ -234,66 +432,6 @@
     "site": "dev.to"
   },
   {
-    "title": "2022 Powerful Work: An Ultra-Delicate Picture Preview Component",
-    "link": "https://dev.to/minjieliu/2022-powerful-work-an-ultra-delicate-picture-preview-component-2ia3",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React - Image Editor",
-    "link": "https://dev.to/kenji_goh/react-image-editor-1o8j",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Benefits and Application of using Artificial Intelligence on Modern E-commerce Web Application",
-    "link": "https://dev.to/tanzim395/benefits-and-application-of-using-artificial-intelligence-on-modern-e-commerce-web-application-4l8d",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to eat an elephant by JS?",
-    "link": "https://dev.to/asktosimon/how-to-eat-an-elephant-by-js-1g9p",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Truly Understanding React (TUR) - Ep5",
-    "link": "https://dev.to/mrpaulishaili/quick-tip-importing-and-exporting-components-in-react-app-2930",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Everything you need to know about React.memo (with examples)",
-    "link": "https://dev.to/kairatorozobekov/everything-you-need-to-know-about-reactmemo-with-examples-57em",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Controlling React API Calls With Hooks",
-    "link": "https://dev.to/bytebodger/controlling-react-api-calls-with-hooks-a79",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy react application using Netlify",
-    "link": "https://dev.to/codewitharjun/deploy-react-application-using-netlify-24j9",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Can I Show Pie Charts on My Website? - Introducing Recharts",
-    "link": "https://dev.to/hzahar/can-i-show-pie-charts-on-my-website-introducing-recharts-55p",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Axios Scripts",
-    "link": "https://dev.to/jasoncruzdev/axios-scripts-1pic",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Razorpay Payment Gateway Integration In Node JS & React JS | MERN Stack Tutorial",
     "link": "https://dev.to/cyberwolve/razorpay-payment-gateway-integration-in-node-js-react-js-mern-stack-tutorial-5hba",
     "date": "3/5/2022",
@@ -308,144 +446,6 @@
   {
     "title": "MERN Auth - Signup & Login with Email (JWT) | React , Node, Express, MongoDB",
     "link": "https://dev.to/cyberwolve/mern-auth-signup-login-with-email-jwt-react-node-express-mongodb-m76",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "2022 Powerful Work: An Ultra-Delicate Picture Preview Component",
-    "link": "https://dev.to/minjieliu/2022-powerful-work-an-ultra-delicate-picture-preview-component-2ia3",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React - Image Editor",
-    "link": "https://dev.to/kenji_goh/react-image-editor-1o8j",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Benefits and Application of using Artificial Intelligence on Modern E-commerce Web Application",
-    "link": "https://dev.to/tanzim395/benefits-and-application-of-using-artificial-intelligence-on-modern-e-commerce-web-application-4l8d",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to eat an elephant by JS?",
-    "link": "https://dev.to/asktosimon/how-to-eat-an-elephant-by-js-1g9p",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Truly Understanding React (TUR) - Ep5",
-    "link": "https://dev.to/mrpaulishaili/quick-tip-importing-and-exporting-components-in-react-app-2930",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Everything you need to know about React.memo (with examples)",
-    "link": "https://dev.to/kairatorozobekov/everything-you-need-to-know-about-reactmemo-with-examples-57em",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Controlling React API Calls With Hooks",
-    "link": "https://dev.to/bytebodger/controlling-react-api-calls-with-hooks-a79",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy react application using Netlify",
-    "link": "https://dev.to/codewitharjun/deploy-react-application-using-netlify-24j9",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Can I Show Pie Charts on My Website? - Introducing Recharts",
-    "link": "https://dev.to/hzahar/can-i-show-pie-charts-on-my-website-introducing-recharts-55p",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Axios Scripts",
-    "link": "https://dev.to/jasoncruzdev/axios-scripts-1pic",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Razorpay Payment Gateway Integration In Node JS & React JS | MERN Stack Tutorial",
-    "link": "https://dev.to/cyberwolve/razorpay-payment-gateway-integration-in-node-js-react-js-mern-stack-tutorial-5hba",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "🧑‍💻 Building CLIs with React Ink",
-    "link": "https://dev.to/carrotfarmer/building-clis-with-react-ink-2038",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "MERN Auth - Signup & Login with Email (JWT) | React , Node, Express, MongoDB",
-    "link": "https://dev.to/cyberwolve/mern-auth-signup-login-with-email-jwt-react-node-express-mongodb-m76",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "2022 Powerful Work: An Ultra-Delicate Picture Preview Component",
-    "link": "https://dev.to/minjieliu/2022-powerful-work-an-ultra-delicate-picture-preview-component-2ia3",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React - Image Editor",
-    "link": "https://dev.to/kenji_goh/react-image-editor-1o8j",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Benefits and Application of using Artificial Intelligence on Modern E-commerce Web Application",
-    "link": "https://dev.to/tanzim395/benefits-and-application-of-using-artificial-intelligence-on-modern-e-commerce-web-application-4l8d",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to eat an elephant by JS?",
-    "link": "https://dev.to/asktosimon/how-to-eat-an-elephant-by-js-1g9p",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Truly Understanding React (TUR) - Ep5",
-    "link": "https://dev.to/mrpaulishaili/quick-tip-importing-and-exporting-components-in-react-app-2930",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Everything you need to know about React.memo (with examples)",
-    "link": "https://dev.to/kairatorozobekov/everything-you-need-to-know-about-reactmemo-with-examples-57em",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Controlling React API Calls With Hooks",
-    "link": "https://dev.to/bytebodger/controlling-react-api-calls-with-hooks-a79",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy react application using Netlify",
-    "link": "https://dev.to/codewitharjun/deploy-react-application-using-netlify-24j9",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Can I Show Pie Charts on My Website? - Introducing Recharts",
-    "link": "https://dev.to/hzahar/can-i-show-pie-charts-on-my-website-introducing-recharts-55p",
-    "date": "3/5/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Axios Scripts",
-    "link": "https://dev.to/jasoncruzdev/axios-scripts-1pic",
     "date": "3/5/2022",
     "site": "dev.to"
   },
@@ -903,7 +903,7 @@
   {
     "title": "Authenticating React Apps With Auth0",
     "link": "https://www.smashingmagazine.com/2020/11/authenticating-react-apps-auth0/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "11/11/2020",
     "site": "smashingmagazine"
   },
@@ -938,7 +938,7 @@
   {
     "title": "Introducing Framer Motion",
     "link": "https://www.smashingmagazine.com/2020/10/introduction-to-framer-motion/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "10/26/2020",
     "site": "smashingmagazine"
   },
