@@ -1,459 +1,441 @@
 [
   {
-    "title": "The Record Utility Type in TypeScript",
-    "link": "https://h.daily-dev-tips.com/the-record-utility-type-in-typescript",
+    "title": "What is an Algorithm?",
+    "link": "https://blog.cyishere.dev/what-is-an-algorithm",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Basics (Execution Flow)",
+    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-execution-flow",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are five youtube channel I follow to learn about web development?",
+    "link": "https://chaitanyaoffic.hashnode.dev/what-are-five-youtube-channel-i-follow-to-learn-about-web-development",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Deterministic npm dependencies with Bazel",
+    "link": "https://blog.aspect.dev/npm-determinism",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Difference between javascript shift() and slice() method in array.",
+    "link": "https://dev.to/shijug/difference-between-javascript-shift-and-slice-method-in-array-4016",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD Operations In Node JS | MERN STACK | CRUD REST API",
+    "link": "https://dev.to/cyberwolve/crud-operations-in-node-js-mern-stack-crud-rest-api-34e8",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD Operations In React JS | MERN STACK | CRUD REST API",
+    "link": "https://dev.to/cyberwolve/crud-operations-in-react-js-mern-stack-crud-rest-api-5643",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Designing software in a complex domain - Domain-Driven Design",
+    "link": "https://dev.to/bibekshah09/designing-software-in-a-complex-domain-domain-driven-design-31ah",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automatically Format your code on Git Commit using Husky, ESLint, Prettier in 9 minutes",
+    "link": "https://dev.to/ruppysuppy/automatically-format-your-code-on-git-commit-using-husky-eslint-prettier-in-9-minutes-45eg",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Converting a callback to a promise",
+    "link": "https://dev.to/paramagicdev/converting-a-callback-to-a-promise-1mj1",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Email Account Verification In Node JS & React JS | MERN Stack Project",
+    "link": "https://dev.to/cyberwolve/email-account-verification-in-node-js-react-js-mern-stack-project-1hlk",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bored? Try my first app!",
+    "link": "https://dev.to/nicm/bored-try-my-first-app-18fi",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "SETs and MAPs in JS.",
+    "link": "https://dev.to/moreshwar/sets-and-maps-in-js-17da",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Habit Tracker",
+    "link": "https://dev.to/josettetgarcia/the-habit-tracker-4o0h",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is an Algorithm?",
+    "link": "https://blog.cyishere.dev/what-is-an-algorithm",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Basics (Execution Flow)",
+    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-execution-flow",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are five youtube channel I follow to learn about web development?",
+    "link": "https://chaitanyaoffic.hashnode.dev/what-are-five-youtube-channel-i-follow-to-learn-about-web-development",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Deterministic npm dependencies with Bazel",
+    "link": "https://blog.aspect.dev/npm-determinism",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Difference between javascript shift() and slice() method in array.",
+    "link": "https://dev.to/shijug/difference-between-javascript-shift-and-slice-method-in-array-4016",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD Operations In Node JS | MERN STACK | CRUD REST API",
+    "link": "https://dev.to/cyberwolve/crud-operations-in-node-js-mern-stack-crud-rest-api-34e8",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD Operations In React JS | MERN STACK | CRUD REST API",
+    "link": "https://dev.to/cyberwolve/crud-operations-in-react-js-mern-stack-crud-rest-api-5643",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Designing software in a complex domain - Domain-Driven Design",
+    "link": "https://dev.to/bibekshah09/designing-software-in-a-complex-domain-domain-driven-design-31ah",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automatically Format your code on Git Commit using Husky, ESLint, Prettier in 9 minutes",
+    "link": "https://dev.to/ruppysuppy/automatically-format-your-code-on-git-commit-using-husky-eslint-prettier-in-9-minutes-45eg",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Converting a callback to a promise",
+    "link": "https://dev.to/paramagicdev/converting-a-callback-to-a-promise-1mj1",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Email Account Verification In Node JS & React JS | MERN Stack Project",
+    "link": "https://dev.to/cyberwolve/email-account-verification-in-node-js-react-js-mern-stack-project-1hlk",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bored? Try my first app!",
+    "link": "https://dev.to/nicm/bored-try-my-first-app-18fi",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "SETs and MAPs in JS.",
+    "link": "https://dev.to/moreshwar/sets-and-maps-in-js-17da",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Habit Tracker",
+    "link": "https://dev.to/josettetgarcia/the-habit-tracker-4o0h",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is an Algorithm?",
+    "link": "https://blog.cyishere.dev/what-is-an-algorithm",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Basics (Execution Flow)",
+    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-execution-flow",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are five youtube channel I follow to learn about web development?",
+    "link": "https://chaitanyaoffic.hashnode.dev/what-are-five-youtube-channel-i-follow-to-learn-about-web-development",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Deterministic npm dependencies with Bazel",
+    "link": "https://blog.aspect.dev/npm-determinism",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Difference between javascript shift() and slice() method in array.",
+    "link": "https://dev.to/shijug/difference-between-javascript-shift-and-slice-method-in-array-4016",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD Operations In Node JS | MERN STACK | CRUD REST API",
+    "link": "https://dev.to/cyberwolve/crud-operations-in-node-js-mern-stack-crud-rest-api-34e8",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD Operations In React JS | MERN STACK | CRUD REST API",
+    "link": "https://dev.to/cyberwolve/crud-operations-in-react-js-mern-stack-crud-rest-api-5643",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Designing software in a complex domain - Domain-Driven Design",
+    "link": "https://dev.to/bibekshah09/designing-software-in-a-complex-domain-domain-driven-design-31ah",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automatically Format your code on Git Commit using Husky, ESLint, Prettier in 9 minutes",
+    "link": "https://dev.to/ruppysuppy/automatically-format-your-code-on-git-commit-using-husky-eslint-prettier-in-9-minutes-45eg",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Converting a callback to a promise",
+    "link": "https://dev.to/paramagicdev/converting-a-callback-to-a-promise-1mj1",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Email Account Verification In Node JS & React JS | MERN Stack Project",
+    "link": "https://dev.to/cyberwolve/email-account-verification-in-node-js-react-js-mern-stack-project-1hlk",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bored? Try my first app!",
+    "link": "https://dev.to/nicm/bored-try-my-first-app-18fi",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "SETs and MAPs in JS.",
+    "link": "https://dev.to/moreshwar/sets-and-maps-in-js-17da",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Habit Tracker",
+    "link": "https://dev.to/josettetgarcia/the-habit-tracker-4o0h",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is an Algorithm?",
+    "link": "https://blog.cyishere.dev/what-is-an-algorithm",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Basics (Execution Flow)",
+    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-execution-flow",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are five youtube channel I follow to learn about web development?",
+    "link": "https://chaitanyaoffic.hashnode.dev/what-are-five-youtube-channel-i-follow-to-learn-about-web-development",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Deterministic npm dependencies with Bazel",
+    "link": "https://blog.aspect.dev/npm-determinism",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Difference between javascript shift() and slice() method in array.",
+    "link": "https://dev.to/shijug/difference-between-javascript-shift-and-slice-method-in-array-4016",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD Operations In Node JS | MERN STACK | CRUD REST API",
+    "link": "https://dev.to/cyberwolve/crud-operations-in-node-js-mern-stack-crud-rest-api-34e8",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD Operations In React JS | MERN STACK | CRUD REST API",
+    "link": "https://dev.to/cyberwolve/crud-operations-in-react-js-mern-stack-crud-rest-api-5643",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Designing software in a complex domain - Domain-Driven Design",
+    "link": "https://dev.to/bibekshah09/designing-software-in-a-complex-domain-domain-driven-design-31ah",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automatically Format your code on Git Commit using Husky, ESLint, Prettier in 9 minutes",
+    "link": "https://dev.to/ruppysuppy/automatically-format-your-code-on-git-commit-using-husky-eslint-prettier-in-9-minutes-45eg",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Converting a callback to a promise",
+    "link": "https://dev.to/paramagicdev/converting-a-callback-to-a-promise-1mj1",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Email Account Verification In Node JS & React JS | MERN Stack Project",
+    "link": "https://dev.to/cyberwolve/email-account-verification-in-node-js-react-js-mern-stack-project-1hlk",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bored? Try my first app!",
+    "link": "https://dev.to/nicm/bored-try-my-first-app-18fi",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "SETs and MAPs in JS.",
+    "link": "https://dev.to/moreshwar/sets-and-maps-in-js-17da",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Habit Tracker",
+    "link": "https://dev.to/josettetgarcia/the-habit-tracker-4o0h",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is an Algorithm?",
+    "link": "https://blog.cyishere.dev/what-is-an-algorithm",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Basics (Execution Flow)",
+    "link": "https://srujana-technical-blogs.hashnode.dev/javascript-basics-execution-flow",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are five youtube channel I follow to learn about web development?",
+    "link": "https://chaitanyaoffic.hashnode.dev/what-are-five-youtube-channel-i-follow-to-learn-about-web-development",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Deterministic npm dependencies with Bazel",
+    "link": "https://blog.aspect.dev/npm-determinism",
+    "date": "3/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Difference between javascript shift() and slice() method in array.",
+    "link": "https://dev.to/shijug/difference-between-javascript-shift-and-slice-method-in-array-4016",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD Operations In Node JS | MERN STACK | CRUD REST API",
+    "link": "https://dev.to/cyberwolve/crud-operations-in-node-js-mern-stack-crud-rest-api-34e8",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRUD Operations In React JS | MERN STACK | CRUD REST API",
+    "link": "https://dev.to/cyberwolve/crud-operations-in-react-js-mern-stack-crud-rest-api-5643",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Designing software in a complex domain - Domain-Driven Design",
+    "link": "https://dev.to/bibekshah09/designing-software-in-a-complex-domain-domain-driven-design-31ah",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Automatically Format your code on Git Commit using Husky, ESLint, Prettier in 9 minutes",
+    "link": "https://dev.to/ruppysuppy/automatically-format-your-code-on-git-commit-using-husky-eslint-prettier-in-9-minutes-45eg",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Converting a callback to a promise",
+    "link": "https://dev.to/paramagicdev/converting-a-callback-to-a-promise-1mj1",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Email Account Verification In Node JS & React JS | MERN Stack Project",
+    "link": "https://dev.to/cyberwolve/email-account-verification-in-node-js-react-js-mern-stack-project-1hlk",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bored? Try my first app!",
+    "link": "https://dev.to/nicm/bored-try-my-first-app-18fi",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "SETs and MAPs in JS.",
+    "link": "https://dev.to/moreshwar/sets-and-maps-in-js-17da",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Habit Tracker",
+    "link": "https://dev.to/josettetgarcia/the-habit-tracker-4o0h",
+    "date": "3/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add InstantSearch Analytics Widgets in Typesense",
+    "link": "https://unclebigbay.com/how-to-add-instantsearch-analytics-widgets-in-typesense",
     "date": "3/12/2022",
     "site": "hashnode"
   },
   {
-    "title": "Realtime data streaming using server-sent events(SSE) with react.js and node.js",
-    "link": "https://techfortified.hashnode.dev/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs",
+    "title": "Dev Beginner's Guide To Arrays",
+    "link": "https://ijaycent.hashnode.dev/dev-beginners-guide-to-arrays",
     "date": "3/12/2022",
     "site": "hashnode"
   },
   {
-    "title": "08768702982#Rupee Cash/ Loan/ Customer /Care Number❽❷❾❷❽❷❾❽⓿❺",
-    "link": "https://bhaga.hashnode.dev/08768702982rupee-cash-loan-customer-care-number-1",
+    "title": "A Complete Guide To Get Started With Node - Node.js Essentials",
+    "link": "https://apsingh.hashnode.dev/a-complete-guide-to-get-started-with-node-nodejs-essentials",
     "date": "3/12/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "08768702982#Rupee Cash/ Loan/ Customer /Care Number❽❷❾❷❽❷❾❽⓿❺",
-    "link": "https://bhaga.hashnode.dev/08768702982rupee-cash-loan-customer-care-number",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Record Utility Type in TypeScript",
-    "link": "https://dev.to/dailydevtips1/the-record-utility-type-in-typescript-3jj5",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Green Otter CBD Gummies - Pain Relief Reviews, Benefits, Side Effects And Price",
-    "link": "https://dev.to/greenottercbdf1/green-otter-cbd-gummies-pain-relief-reviews-benefits-side-effects-and-price-jkk",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sudoku Solver using SolidJS & Tailwind",
-    "link": "https://dev.to/sadanandpai/sudoku-solver-using-solidjs-tailwind-22if",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "dfdfhskdjf",
-    "link": "https://dev.to/balagpy/dfdfhskdjf-14f0",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "replace the last comma to period in string",
-    "link": "https://dev.to/chanyayun/replace-the-last-comma-to-period-in-string-55p9",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (12-03-2022) - Kindness on the rocks",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-12-03-2022-kindness-on-the-rocks-i4j",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Portfolio Website Using Flask and Google sheets",
-    "link": "https://dev.to/engmert/create-portfolio-website-using-flask-and-google-sheets-fkp",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sveltekit Private Routes with Backendless",
-    "link": "https://dev.to/brewhousedigital/sveltekit-private-routes-with-backendless-2lfn",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "LeetCode Notes: Find All Duplicates in an Array",
-    "link": "https://dev.to/openhacking/leetcode-notes-find-all-duplicates-in-an-array-4bjj",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Need to fix a issue that comming in antd tree component",
-    "link": "https://dev.to/himanshurathi/need-to-fix-a-issue-that-comming-in-antd-tree-component-4dg0",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "CRO Development, a Brief Introduction",
-    "link": "https://dev.to/makingstuffs/cro-development-a-brief-introduction-5912",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Realtime data streaming using server-sent events(SSE) with react.js and node.js",
-    "link": "https://dev.to/techfortified/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The truth behind online Courses",
-    "link": "https://dev.to/ayman23904881/the-truth-behind-online-courses-4n4k",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "شركة خدمات الرياض",
-    "link": "https://dev.to/omnia_ayman1/shrk-khdmt-lryd-1jcb",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Core principles of API Design - Part 2",
-    "link": "https://dev.to/varenya/core-principles-of-api-design-part-2-1c1p",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Record Utility Type in TypeScript",
-    "link": "https://h.daily-dev-tips.com/the-record-utility-type-in-typescript",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Realtime data streaming using server-sent events(SSE) with react.js and node.js",
-    "link": "https://techfortified.hashnode.dev/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "08768702982#Rupee Cash/ Loan/ Customer /Care Number❽❷❾❷❽❷❾❽⓿❺",
-    "link": "https://bhaga.hashnode.dev/08768702982rupee-cash-loan-customer-care-number-1",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "08768702982#Rupee Cash/ Loan/ Customer /Care Number❽❷❾❷❽❷❾❽⓿❺",
-    "link": "https://bhaga.hashnode.dev/08768702982rupee-cash-loan-customer-care-number",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Record Utility Type in TypeScript",
-    "link": "https://dev.to/dailydevtips1/the-record-utility-type-in-typescript-3jj5",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Green Otter CBD Gummies - Pain Relief Reviews, Benefits, Side Effects And Price",
-    "link": "https://dev.to/greenottercbdf1/green-otter-cbd-gummies-pain-relief-reviews-benefits-side-effects-and-price-jkk",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sudoku Solver using SolidJS & Tailwind",
-    "link": "https://dev.to/sadanandpai/sudoku-solver-using-solidjs-tailwind-22if",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "dfdfhskdjf",
-    "link": "https://dev.to/balagpy/dfdfhskdjf-14f0",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "replace the last comma to period in string",
-    "link": "https://dev.to/chanyayun/replace-the-last-comma-to-period-in-string-55p9",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (12-03-2022) - Kindness on the rocks",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-12-03-2022-kindness-on-the-rocks-i4j",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Portfolio Website Using Flask and Google sheets",
-    "link": "https://dev.to/engmert/create-portfolio-website-using-flask-and-google-sheets-fkp",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sveltekit Private Routes with Backendless",
-    "link": "https://dev.to/brewhousedigital/sveltekit-private-routes-with-backendless-2lfn",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "LeetCode Notes: Find All Duplicates in an Array",
-    "link": "https://dev.to/openhacking/leetcode-notes-find-all-duplicates-in-an-array-4bjj",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Need to fix a issue that comming in antd tree component",
-    "link": "https://dev.to/himanshurathi/need-to-fix-a-issue-that-comming-in-antd-tree-component-4dg0",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "CRO Development, a Brief Introduction",
-    "link": "https://dev.to/makingstuffs/cro-development-a-brief-introduction-5912",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Realtime data streaming using server-sent events(SSE) with react.js and node.js",
-    "link": "https://dev.to/techfortified/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The truth behind online Courses",
-    "link": "https://dev.to/ayman23904881/the-truth-behind-online-courses-4n4k",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "شركة خدمات الرياض",
-    "link": "https://dev.to/omnia_ayman1/shrk-khdmt-lryd-1jcb",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Core principles of API Design - Part 2",
-    "link": "https://dev.to/varenya/core-principles-of-api-design-part-2-1c1p",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Record Utility Type in TypeScript",
-    "link": "https://h.daily-dev-tips.com/the-record-utility-type-in-typescript",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Realtime data streaming using server-sent events(SSE) with react.js and node.js",
-    "link": "https://techfortified.hashnode.dev/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "08768702982#Rupee Cash/ Loan/ Customer /Care Number❽❷❾❷❽❷❾❽⓿❺",
-    "link": "https://bhaga.hashnode.dev/08768702982rupee-cash-loan-customer-care-number-1",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "08768702982#Rupee Cash/ Loan/ Customer /Care Number❽❷❾❷❽❷❾❽⓿❺",
-    "link": "https://bhaga.hashnode.dev/08768702982rupee-cash-loan-customer-care-number",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Record Utility Type in TypeScript",
-    "link": "https://dev.to/dailydevtips1/the-record-utility-type-in-typescript-3jj5",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Green Otter CBD Gummies - Pain Relief Reviews, Benefits, Side Effects And Price",
-    "link": "https://dev.to/greenottercbdf1/green-otter-cbd-gummies-pain-relief-reviews-benefits-side-effects-and-price-jkk",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sudoku Solver using SolidJS & Tailwind",
-    "link": "https://dev.to/sadanandpai/sudoku-solver-using-solidjs-tailwind-22if",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "dfdfhskdjf",
-    "link": "https://dev.to/balagpy/dfdfhskdjf-14f0",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "replace the last comma to period in string",
-    "link": "https://dev.to/chanyayun/replace-the-last-comma-to-period-in-string-55p9",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (12-03-2022) - Kindness on the rocks",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-12-03-2022-kindness-on-the-rocks-i4j",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Portfolio Website Using Flask and Google sheets",
-    "link": "https://dev.to/engmert/create-portfolio-website-using-flask-and-google-sheets-fkp",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sveltekit Private Routes with Backendless",
-    "link": "https://dev.to/brewhousedigital/sveltekit-private-routes-with-backendless-2lfn",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "LeetCode Notes: Find All Duplicates in an Array",
-    "link": "https://dev.to/openhacking/leetcode-notes-find-all-duplicates-in-an-array-4bjj",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Need to fix a issue that comming in antd tree component",
-    "link": "https://dev.to/himanshurathi/need-to-fix-a-issue-that-comming-in-antd-tree-component-4dg0",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "CRO Development, a Brief Introduction",
-    "link": "https://dev.to/makingstuffs/cro-development-a-brief-introduction-5912",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Realtime data streaming using server-sent events(SSE) with react.js and node.js",
-    "link": "https://dev.to/techfortified/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The truth behind online Courses",
-    "link": "https://dev.to/ayman23904881/the-truth-behind-online-courses-4n4k",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "شركة خدمات الرياض",
-    "link": "https://dev.to/omnia_ayman1/shrk-khdmt-lryd-1jcb",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Core principles of API Design - Part 2",
-    "link": "https://dev.to/varenya/core-principles-of-api-design-part-2-1c1p",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Record Utility Type in TypeScript",
-    "link": "https://h.daily-dev-tips.com/the-record-utility-type-in-typescript",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Realtime data streaming using server-sent events(SSE) with react.js and node.js",
-    "link": "https://techfortified.hashnode.dev/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "08768702982#Rupee Cash/ Loan/ Customer /Care Number❽❷❾❷❽❷❾❽⓿❺",
-    "link": "https://bhaga.hashnode.dev/08768702982rupee-cash-loan-customer-care-number-1",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "08768702982#Rupee Cash/ Loan/ Customer /Care Number❽❷❾❷❽❷❾❽⓿❺",
-    "link": "https://bhaga.hashnode.dev/08768702982rupee-cash-loan-customer-care-number",
-    "date": "3/12/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Record Utility Type in TypeScript",
-    "link": "https://dev.to/dailydevtips1/the-record-utility-type-in-typescript-3jj5",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Green Otter CBD Gummies - Pain Relief Reviews, Benefits, Side Effects And Price",
-    "link": "https://dev.to/greenottercbdf1/green-otter-cbd-gummies-pain-relief-reviews-benefits-side-effects-and-price-jkk",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sudoku Solver using SolidJS & Tailwind",
-    "link": "https://dev.to/sadanandpai/sudoku-solver-using-solidjs-tailwind-22if",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "dfdfhskdjf",
-    "link": "https://dev.to/balagpy/dfdfhskdjf-14f0",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "replace the last comma to period in string",
-    "link": "https://dev.to/chanyayun/replace-the-last-comma-to-period-in-string-55p9",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (12-03-2022) - Kindness on the rocks",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-12-03-2022-kindness-on-the-rocks-i4j",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Portfolio Website Using Flask and Google sheets",
-    "link": "https://dev.to/engmert/create-portfolio-website-using-flask-and-google-sheets-fkp",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sveltekit Private Routes with Backendless",
-    "link": "https://dev.to/brewhousedigital/sveltekit-private-routes-with-backendless-2lfn",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "LeetCode Notes: Find All Duplicates in an Array",
-    "link": "https://dev.to/openhacking/leetcode-notes-find-all-duplicates-in-an-array-4bjj",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Need to fix a issue that comming in antd tree component",
-    "link": "https://dev.to/himanshurathi/need-to-fix-a-issue-that-comming-in-antd-tree-component-4dg0",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "CRO Development, a Brief Introduction",
-    "link": "https://dev.to/makingstuffs/cro-development-a-brief-introduction-5912",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Realtime data streaming using server-sent events(SSE) with react.js and node.js",
-    "link": "https://dev.to/techfortified/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The truth behind online Courses",
-    "link": "https://dev.to/ayman23904881/the-truth-behind-online-courses-4n4k",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "شركة خدمات الرياض",
-    "link": "https://dev.to/omnia_ayman1/shrk-khdmt-lryd-1jcb",
-    "date": "3/12/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Core principles of API Design - Part 2",
-    "link": "https://dev.to/varenya/core-principles-of-api-design-part-2-1c1p",
-    "date": "3/12/2022",
-    "site": "dev.to"
   },
   {
     "title": "The Record Utility Type in TypeScript",
@@ -462,110 +444,428 @@
     "site": "hashnode"
   },
   {
-    "title": "Realtime data streaming using server-sent events(SSE) with react.js and node.js",
-    "link": "https://techfortified.hashnode.dev/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs",
+    "title": "Why Do We Need JSX In ReactJS?",
+    "link": "https://svdcse.hashnode.dev/why-do-we-need-jsx-in-reactjs",
     "date": "3/12/2022",
     "site": "hashnode"
   },
   {
-    "title": "08768702982#Rupee Cash/ Loan/ Customer /Care Number❽❷❾❷❽❷❾❽⓿❺",
-    "link": "https://bhaga.hashnode.dev/08768702982rupee-cash-loan-customer-care-number-1",
+    "title": "Deploy Chrome Extention in a couple of minutes",
+    "link": "https://annamtnt.hashnode.dev/deploy-chrome-extention-in-a-couple-of-minutes",
     "date": "3/12/2022",
     "site": "hashnode"
   },
   {
-    "title": "08768702982#Rupee Cash/ Loan/ Customer /Care Number❽❷❾❷❽❷❾❽⓿❺",
-    "link": "https://bhaga.hashnode.dev/08768702982rupee-cash-loan-customer-care-number",
+    "title": "How to make an animated text sphere in Javascript in TagCloud.js",
+    "link": "https://sengolda.hashnode.dev/how-to-make-an-animated-text-sphere-in-javascript-in-tagcloudjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Best practices for ReactJs",
+    "link": "https://blog.sachinchaurasiya.dev/5-best-practices-for-reactjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Введение в курс по three.js",
+    "link": "https://travellerlogs.hashnode.dev/vvedenie-v-kurs-po-threejs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Classes in TypeScript",
+    "link": "https://blog.learncodeonline.in/classes-in-typescript",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React-native new Architecture, what to expect ?",
+    "link": "https://dev.to/salemabderaouf/react-native-new-architecture-what-to-expect--ojf",
+    "date": "3/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Paracetamol.js💊| #77: Explica este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoljs-77-explica-este-codigo-javascript-15i2",
+    "date": "3/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Axios in Nuxt with Composition API",
+    "link": "https://dev.to/kouts/using-axios-in-nuxt-with-composition-api-1iaj",
+    "date": "3/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Authentication with React From Wizard and Nodejs - Part 1",
+    "link": "https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-1-366a",
+    "date": "3/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to develop the plugin deal with i18n in Figma Plugin?",
+    "link": "https://dev.to/kurokky/how-to-develop-the-plugin-deal-with-i18n-in-figma-plugin-295",
+    "date": "3/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add InstantSearch Analytics Widgets in Typesense",
+    "link": "https://unclebigbay.com/how-to-add-instantsearch-analytics-widgets-in-typesense",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Dev Beginner's Guide To Arrays",
+    "link": "https://ijaycent.hashnode.dev/dev-beginners-guide-to-arrays",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A Complete Guide To Get Started With Node - Node.js Essentials",
+    "link": "https://apsingh.hashnode.dev/a-complete-guide-to-get-started-with-node-nodejs-essentials",
     "date": "3/12/2022",
     "site": "hashnode"
   },
   {
     "title": "The Record Utility Type in TypeScript",
-    "link": "https://dev.to/dailydevtips1/the-record-utility-type-in-typescript-3jj5",
+    "link": "https://h.daily-dev-tips.com/the-record-utility-type-in-typescript",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why Do We Need JSX In ReactJS?",
+    "link": "https://svdcse.hashnode.dev/why-do-we-need-jsx-in-reactjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Deploy Chrome Extention in a couple of minutes",
+    "link": "https://annamtnt.hashnode.dev/deploy-chrome-extention-in-a-couple-of-minutes",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make an animated text sphere in Javascript in TagCloud.js",
+    "link": "https://sengolda.hashnode.dev/how-to-make-an-animated-text-sphere-in-javascript-in-tagcloudjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Best practices for ReactJs",
+    "link": "https://blog.sachinchaurasiya.dev/5-best-practices-for-reactjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Введение в курс по three.js",
+    "link": "https://travellerlogs.hashnode.dev/vvedenie-v-kurs-po-threejs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Classes in TypeScript",
+    "link": "https://blog.learncodeonline.in/classes-in-typescript",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React-native new Architecture, what to expect ?",
+    "link": "https://dev.to/salemabderaouf/react-native-new-architecture-what-to-expect--ojf",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Green Otter CBD Gummies - Pain Relief Reviews, Benefits, Side Effects And Price",
-    "link": "https://dev.to/greenottercbdf1/green-otter-cbd-gummies-pain-relief-reviews-benefits-side-effects-and-price-jkk",
+    "title": "Paracetamol.js💊| #77: Explica este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoljs-77-explica-este-codigo-javascript-15i2",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Sudoku Solver using SolidJS & Tailwind",
-    "link": "https://dev.to/sadanandpai/sudoku-solver-using-solidjs-tailwind-22if",
+    "title": "Using Axios in Nuxt with Composition API",
+    "link": "https://dev.to/kouts/using-axios-in-nuxt-with-composition-api-1iaj",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "dfdfhskdjf",
-    "link": "https://dev.to/balagpy/dfdfhskdjf-14f0",
+    "title": "Authentication with React From Wizard and Nodejs - Part 1",
+    "link": "https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-1-366a",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "replace the last comma to period in string",
-    "link": "https://dev.to/chanyayun/replace-the-last-comma-to-period-in-string-55p9",
+    "title": "How to develop the plugin deal with i18n in Figma Plugin?",
+    "link": "https://dev.to/kurokky/how-to-develop-the-plugin-deal-with-i18n-in-figma-plugin-295",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (12-03-2022) - Kindness on the rocks",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-12-03-2022-kindness-on-the-rocks-i4j",
+    "title": "How to Add InstantSearch Analytics Widgets in Typesense",
+    "link": "https://unclebigbay.com/how-to-add-instantsearch-analytics-widgets-in-typesense",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Dev Beginner's Guide To Arrays",
+    "link": "https://ijaycent.hashnode.dev/dev-beginners-guide-to-arrays",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A Complete Guide To Get Started With Node - Node.js Essentials",
+    "link": "https://apsingh.hashnode.dev/a-complete-guide-to-get-started-with-node-nodejs-essentials",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Record Utility Type in TypeScript",
+    "link": "https://h.daily-dev-tips.com/the-record-utility-type-in-typescript",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why Do We Need JSX In ReactJS?",
+    "link": "https://svdcse.hashnode.dev/why-do-we-need-jsx-in-reactjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Deploy Chrome Extention in a couple of minutes",
+    "link": "https://annamtnt.hashnode.dev/deploy-chrome-extention-in-a-couple-of-minutes",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make an animated text sphere in Javascript in TagCloud.js",
+    "link": "https://sengolda.hashnode.dev/how-to-make-an-animated-text-sphere-in-javascript-in-tagcloudjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Best practices for ReactJs",
+    "link": "https://blog.sachinchaurasiya.dev/5-best-practices-for-reactjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Введение в курс по three.js",
+    "link": "https://travellerlogs.hashnode.dev/vvedenie-v-kurs-po-threejs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Classes in TypeScript",
+    "link": "https://blog.learncodeonline.in/classes-in-typescript",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React-native new Architecture, what to expect ?",
+    "link": "https://dev.to/salemabderaouf/react-native-new-architecture-what-to-expect--ojf",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Create Portfolio Website Using Flask and Google sheets",
-    "link": "https://dev.to/engmert/create-portfolio-website-using-flask-and-google-sheets-fkp",
+    "title": "Paracetamol.js💊| #77: Explica este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoljs-77-explica-este-codigo-javascript-15i2",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Sveltekit Private Routes with Backendless",
-    "link": "https://dev.to/brewhousedigital/sveltekit-private-routes-with-backendless-2lfn",
+    "title": "Using Axios in Nuxt with Composition API",
+    "link": "https://dev.to/kouts/using-axios-in-nuxt-with-composition-api-1iaj",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "LeetCode Notes: Find All Duplicates in an Array",
-    "link": "https://dev.to/openhacking/leetcode-notes-find-all-duplicates-in-an-array-4bjj",
+    "title": "Authentication with React From Wizard and Nodejs - Part 1",
+    "link": "https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-1-366a",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Need to fix a issue that comming in antd tree component",
-    "link": "https://dev.to/himanshurathi/need-to-fix-a-issue-that-comming-in-antd-tree-component-4dg0",
+    "title": "How to develop the plugin deal with i18n in Figma Plugin?",
+    "link": "https://dev.to/kurokky/how-to-develop-the-plugin-deal-with-i18n-in-figma-plugin-295",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "CRO Development, a Brief Introduction",
-    "link": "https://dev.to/makingstuffs/cro-development-a-brief-introduction-5912",
+    "title": "How to Add InstantSearch Analytics Widgets in Typesense",
+    "link": "https://unclebigbay.com/how-to-add-instantsearch-analytics-widgets-in-typesense",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Dev Beginner's Guide To Arrays",
+    "link": "https://ijaycent.hashnode.dev/dev-beginners-guide-to-arrays",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A Complete Guide To Get Started With Node - Node.js Essentials",
+    "link": "https://apsingh.hashnode.dev/a-complete-guide-to-get-started-with-node-nodejs-essentials",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Record Utility Type in TypeScript",
+    "link": "https://h.daily-dev-tips.com/the-record-utility-type-in-typescript",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why Do We Need JSX In ReactJS?",
+    "link": "https://svdcse.hashnode.dev/why-do-we-need-jsx-in-reactjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Deploy Chrome Extention in a couple of minutes",
+    "link": "https://annamtnt.hashnode.dev/deploy-chrome-extention-in-a-couple-of-minutes",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make an animated text sphere in Javascript in TagCloud.js",
+    "link": "https://sengolda.hashnode.dev/how-to-make-an-animated-text-sphere-in-javascript-in-tagcloudjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Best practices for ReactJs",
+    "link": "https://blog.sachinchaurasiya.dev/5-best-practices-for-reactjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Введение в курс по three.js",
+    "link": "https://travellerlogs.hashnode.dev/vvedenie-v-kurs-po-threejs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Classes in TypeScript",
+    "link": "https://blog.learncodeonline.in/classes-in-typescript",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React-native new Architecture, what to expect ?",
+    "link": "https://dev.to/salemabderaouf/react-native-new-architecture-what-to-expect--ojf",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Realtime data streaming using server-sent events(SSE) with react.js and node.js",
-    "link": "https://dev.to/techfortified/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak",
+    "title": "Paracetamol.js💊| #77: Explica este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoljs-77-explica-este-codigo-javascript-15i2",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "The truth behind online Courses",
-    "link": "https://dev.to/ayman23904881/the-truth-behind-online-courses-4n4k",
+    "title": "Using Axios in Nuxt with Composition API",
+    "link": "https://dev.to/kouts/using-axios-in-nuxt-with-composition-api-1iaj",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "شركة خدمات الرياض",
-    "link": "https://dev.to/omnia_ayman1/shrk-khdmt-lryd-1jcb",
+    "title": "Authentication with React From Wizard and Nodejs - Part 1",
+    "link": "https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-1-366a",
     "date": "3/12/2022",
     "site": "dev.to"
   },
   {
-    "title": "Core principles of API Design - Part 2",
-    "link": "https://dev.to/varenya/core-principles-of-api-design-part-2-1c1p",
+    "title": "How to develop the plugin deal with i18n in Figma Plugin?",
+    "link": "https://dev.to/kurokky/how-to-develop-the-plugin-deal-with-i18n-in-figma-plugin-295",
+    "date": "3/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add InstantSearch Analytics Widgets in Typesense",
+    "link": "https://unclebigbay.com/how-to-add-instantsearch-analytics-widgets-in-typesense",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Dev Beginner's Guide To Arrays",
+    "link": "https://ijaycent.hashnode.dev/dev-beginners-guide-to-arrays",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A Complete Guide To Get Started With Node - Node.js Essentials",
+    "link": "https://apsingh.hashnode.dev/a-complete-guide-to-get-started-with-node-nodejs-essentials",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Record Utility Type in TypeScript",
+    "link": "https://h.daily-dev-tips.com/the-record-utility-type-in-typescript",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why Do We Need JSX In ReactJS?",
+    "link": "https://svdcse.hashnode.dev/why-do-we-need-jsx-in-reactjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Deploy Chrome Extention in a couple of minutes",
+    "link": "https://annamtnt.hashnode.dev/deploy-chrome-extention-in-a-couple-of-minutes",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make an animated text sphere in Javascript in TagCloud.js",
+    "link": "https://sengolda.hashnode.dev/how-to-make-an-animated-text-sphere-in-javascript-in-tagcloudjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Best practices for ReactJs",
+    "link": "https://blog.sachinchaurasiya.dev/5-best-practices-for-reactjs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Введение в курс по three.js",
+    "link": "https://travellerlogs.hashnode.dev/vvedenie-v-kurs-po-threejs",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Classes in TypeScript",
+    "link": "https://blog.learncodeonline.in/classes-in-typescript",
+    "date": "3/12/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React-native new Architecture, what to expect ?",
+    "link": "https://dev.to/salemabderaouf/react-native-new-architecture-what-to-expect--ojf",
+    "date": "3/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Paracetamol.js💊| #77: Explica este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoljs-77-explica-este-codigo-javascript-15i2",
+    "date": "3/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Axios in Nuxt with Composition API",
+    "link": "https://dev.to/kouts/using-axios-in-nuxt-with-composition-api-1iaj",
+    "date": "3/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Authentication with React From Wizard and Nodejs - Part 1",
+    "link": "https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-1-366a",
+    "date": "3/12/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to develop the plugin deal with i18n in Figma Plugin?",
+    "link": "https://dev.to/kurokky/how-to-develop-the-plugin-deal-with-i18n-in-figma-plugin-295",
     "date": "3/12/2022",
     "site": "dev.to"
   },
@@ -576,56 +876,8 @@
     "site": "hashnode"
   },
   {
-    "title": "Difference between Dot notation & Bracket notation in JavaScript Objects",
-    "link": "https://shamgurav.hashnode.dev/difference-between-dot-notation-and-bracket-notation-in-javascript-objects",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pages are like Notebooks",
-    "link": "https://madco.me/pages-are-like-notebooks",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "⓪⑧⑦⑥+⑧⑦⓪②+⑨⑧②Cash Samosa loan customer care number❼❻+❽❼⓿❷+❾❽❷+",
-    "link": "https://hdb.hashnode.dev/cash-samosa-loan-customer-care-number-1",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "⓪⑧⑦⑥+⑧⑦⓪②+⑨⑧②Cash Samosa loan customer care number❼❻+❽❼⓿❷+❾❽❷+",
-    "link": "https://hdb.hashnode.dev/cash-samosa-loan-customer-care-number",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Let's make a Sponsor page with Next JS and Stripe",
-    "link": "https://codewithsnowbit.hashnode.dev/lets-make-a-sponsor-page-with-next-js-and-stripe",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Remove an Object's Property in JavaScript Without Mutation",
-    "link": "https://solathecoder.hashnode.dev/how-to-remove-an-objects-property-in-javascript-without-mutation",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Aurora: An application that helps fight cyberbullying.",
-    "link": "https://coderoflagos.hashnode.dev/aurora-an-application-that-helps-fight-cyberbullying",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "FREE! Translate your language JSON file to any languages.",
-    "link": "https://parvineyvazov.hashnode.dev/free-translate-your-language-json-file-to-any-languages",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Cómo ser un desarrollador web sin tener experiencia",
-    "link": "https://tecnologia.hashnode.dev/como-ser-un-desarollador-web",
+    "title": "Remotion: A 100% honest review of it",
+    "link": "https://raghavsinghgulia.hashnode.dev/remotion-a-100-honest-review-of-it",
     "date": "3/11/2022",
     "site": "hashnode"
   },
@@ -636,56 +888,8 @@
     "site": "hashnode"
   },
   {
-    "title": "Difference between Dot notation & Bracket notation in JavaScript Objects",
-    "link": "https://shamgurav.hashnode.dev/difference-between-dot-notation-and-bracket-notation-in-javascript-objects",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pages are like Notebooks",
-    "link": "https://madco.me/pages-are-like-notebooks",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "⓪⑧⑦⑥+⑧⑦⓪②+⑨⑧②Cash Samosa loan customer care number❼❻+❽❼⓿❷+❾❽❷+",
-    "link": "https://hdb.hashnode.dev/cash-samosa-loan-customer-care-number-1",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "⓪⑧⑦⑥+⑧⑦⓪②+⑨⑧②Cash Samosa loan customer care number❼❻+❽❼⓿❷+❾❽❷+",
-    "link": "https://hdb.hashnode.dev/cash-samosa-loan-customer-care-number",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Let's make a Sponsor page with Next JS and Stripe",
-    "link": "https://codewithsnowbit.hashnode.dev/lets-make-a-sponsor-page-with-next-js-and-stripe",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Remove an Object's Property in JavaScript Without Mutation",
-    "link": "https://solathecoder.hashnode.dev/how-to-remove-an-objects-property-in-javascript-without-mutation",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Aurora: An application that helps fight cyberbullying.",
-    "link": "https://coderoflagos.hashnode.dev/aurora-an-application-that-helps-fight-cyberbullying",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "FREE! Translate your language JSON file to any languages.",
-    "link": "https://parvineyvazov.hashnode.dev/free-translate-your-language-json-file-to-any-languages",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Cómo ser un desarrollador web sin tener experiencia",
-    "link": "https://tecnologia.hashnode.dev/como-ser-un-desarollador-web",
+    "title": "Remotion: A 100% honest review of it",
+    "link": "https://raghavsinghgulia.hashnode.dev/remotion-a-100-honest-review-of-it",
     "date": "3/11/2022",
     "site": "hashnode"
   },
@@ -693,210 +897,6 @@
     "title": "Remotion: A 100% honest review of it",
     "link": "https://raghavsinghgulia.hashnode.dev/remotion-a-100-honest-review-of-it",
     "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Difference between Dot notation & Bracket notation in JavaScript Objects",
-    "link": "https://shamgurav.hashnode.dev/difference-between-dot-notation-and-bracket-notation-in-javascript-objects",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pages are like Notebooks",
-    "link": "https://madco.me/pages-are-like-notebooks",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "⓪⑧⑦⑥+⑧⑦⓪②+⑨⑧②Cash Samosa loan customer care number❼❻+❽❼⓿❷+❾❽❷+",
-    "link": "https://hdb.hashnode.dev/cash-samosa-loan-customer-care-number-1",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "⓪⑧⑦⑥+⑧⑦⓪②+⑨⑧②Cash Samosa loan customer care number❼❻+❽❼⓿❷+❾❽❷+",
-    "link": "https://hdb.hashnode.dev/cash-samosa-loan-customer-care-number",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Let's make a Sponsor page with Next JS and Stripe",
-    "link": "https://codewithsnowbit.hashnode.dev/lets-make-a-sponsor-page-with-next-js-and-stripe",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Remove an Object's Property in JavaScript Without Mutation",
-    "link": "https://solathecoder.hashnode.dev/how-to-remove-an-objects-property-in-javascript-without-mutation",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Aurora: An application that helps fight cyberbullying.",
-    "link": "https://coderoflagos.hashnode.dev/aurora-an-application-that-helps-fight-cyberbullying",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "FREE! Translate your language JSON file to any languages.",
-    "link": "https://parvineyvazov.hashnode.dev/free-translate-your-language-json-file-to-any-languages",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Cómo ser un desarrollador web sin tener experiencia",
-    "link": "https://tecnologia.hashnode.dev/como-ser-un-desarollador-web",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Remotion: A 100% honest review of it",
-    "link": "https://raghavsinghgulia.hashnode.dev/remotion-a-100-honest-review-of-it",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Difference between Dot notation & Bracket notation in JavaScript Objects",
-    "link": "https://shamgurav.hashnode.dev/difference-between-dot-notation-and-bracket-notation-in-javascript-objects",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pages are like Notebooks",
-    "link": "https://madco.me/pages-are-like-notebooks",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "⓪⑧⑦⑥+⑧⑦⓪②+⑨⑧②Cash Samosa loan customer care number❼❻+❽❼⓿❷+❾❽❷+",
-    "link": "https://hdb.hashnode.dev/cash-samosa-loan-customer-care-number-1",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "⓪⑧⑦⑥+⑧⑦⓪②+⑨⑧②Cash Samosa loan customer care number❼❻+❽❼⓿❷+❾❽❷+",
-    "link": "https://hdb.hashnode.dev/cash-samosa-loan-customer-care-number",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Let's make a Sponsor page with Next JS and Stripe",
-    "link": "https://codewithsnowbit.hashnode.dev/lets-make-a-sponsor-page-with-next-js-and-stripe",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Remove an Object's Property in JavaScript Without Mutation",
-    "link": "https://solathecoder.hashnode.dev/how-to-remove-an-objects-property-in-javascript-without-mutation",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Aurora: An application that helps fight cyberbullying.",
-    "link": "https://coderoflagos.hashnode.dev/aurora-an-application-that-helps-fight-cyberbullying",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "FREE! Translate your language JSON file to any languages.",
-    "link": "https://parvineyvazov.hashnode.dev/free-translate-your-language-json-file-to-any-languages",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Cómo ser un desarrollador web sin tener experiencia",
-    "link": "https://tecnologia.hashnode.dev/como-ser-un-desarollador-web",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Remotion: A 100% honest review of it",
-    "link": "https://raghavsinghgulia.hashnode.dev/remotion-a-100-honest-review-of-it",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Difference between Dot notation & Bracket notation in JavaScript Objects",
-    "link": "https://shamgurav.hashnode.dev/difference-between-dot-notation-and-bracket-notation-in-javascript-objects",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pages are like Notebooks",
-    "link": "https://madco.me/pages-are-like-notebooks",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "⓪⑧⑦⑥+⑧⑦⓪②+⑨⑧②Cash Samosa loan customer care number❼❻+❽❼⓿❷+❾❽❷+",
-    "link": "https://hdb.hashnode.dev/cash-samosa-loan-customer-care-number-1",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "⓪⑧⑦⑥+⑧⑦⓪②+⑨⑧②Cash Samosa loan customer care number❼❻+❽❼⓿❷+❾❽❷+",
-    "link": "https://hdb.hashnode.dev/cash-samosa-loan-customer-care-number",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Let's make a Sponsor page with Next JS and Stripe",
-    "link": "https://codewithsnowbit.hashnode.dev/lets-make-a-sponsor-page-with-next-js-and-stripe",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Remove an Object's Property in JavaScript Without Mutation",
-    "link": "https://solathecoder.hashnode.dev/how-to-remove-an-objects-property-in-javascript-without-mutation",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Aurora: An application that helps fight cyberbullying.",
-    "link": "https://coderoflagos.hashnode.dev/aurora-an-application-that-helps-fight-cyberbullying",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "FREE! Translate your language JSON file to any languages.",
-    "link": "https://parvineyvazov.hashnode.dev/free-translate-your-language-json-file-to-any-languages",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Cómo ser un desarrollador web sin tener experiencia",
-    "link": "https://tecnologia.hashnode.dev/como-ser-un-desarollador-web",
-    "date": "3/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "12 Gorgeous UI Components for Your Design Inspiration 🎨✨",
-    "link": "https://madza.hashnode.dev/12-gorgeous-ui-components-for-your-design-inspiration",
-    "date": "3/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "12 Gorgeous UI Components for Your Design Inspiration 🎨✨",
-    "link": "https://madza.hashnode.dev/12-gorgeous-ui-components-for-your-design-inspiration",
-    "date": "3/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "12 Gorgeous UI Components for Your Design Inspiration 🎨✨",
-    "link": "https://madza.hashnode.dev/12-gorgeous-ui-components-for-your-design-inspiration",
-    "date": "3/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "12 Gorgeous UI Components for Your Design Inspiration 🎨✨",
-    "link": "https://madza.hashnode.dev/12-gorgeous-ui-components-for-your-design-inspiration",
-    "date": "3/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "12 Gorgeous UI Components for Your Design Inspiration 🎨✨",
-    "link": "https://madza.hashnode.dev/12-gorgeous-ui-components-for-your-design-inspiration",
-    "date": "3/10/2022",
     "site": "hashnode"
   },
   {
@@ -1097,7 +1097,7 @@
   {
     "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
     "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "8/11/2021",
     "site": "smashingmagazine"
   },
@@ -1169,7 +1169,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
@@ -1252,7 +1252,7 @@
   {
     "title": "Managing Shared State In Vue 3",
     "link": "https://www.smashingmagazine.com/2021/06/managing-shared-state-vue3/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "6/3/2021",
     "site": "smashingmagazine"
   },
@@ -1322,7 +1322,7 @@
   {
     "title": "The Evolution Of Jamstack",
     "link": "https://www.smashingmagazine.com/2021/05/evolution-jamstack/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/3/2021",
     "site": "smashingmagazine"
   },
