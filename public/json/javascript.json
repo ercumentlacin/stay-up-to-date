@@ -1,123 +1,633 @@
 [
   {
+    "title": "Journal CLI - Write Journal in Notion using CLI",
+    "link": "https://blog.amitwani.dev/journal-cli-write-journal-in-notion-using-cli",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Enable Slack Notifications for AWS Amplify Deployments",
+    "link": "https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to setup React global alert popup in 10mins",
+    "link": "https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Journal CLI - Write Journal in Notion using CLI",
+    "link": "https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a beautiful gradient scroll bar with CSS",
+    "link": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning to code",
+    "link": "https://dev.to/achessor/learning-to-code-d17",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to share a single global object across your app (Singleton design pattern)",
+    "link": "https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mock REST APIs with Mockatron",
+    "link": "https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make Next.JS starter template.",
+    "link": "https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular - Testes de Componentes",
+    "link": "https://dev.to/wesleyegberto/angular-testes-de-componentes-32of",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Make Push Notification Using Node.js and Service Worker",
+    "link": "https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploy strapi v4 to heroku and quasar to vercel",
+    "link": "https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Interview Question #1 (Group Anagrams)",
+    "link": "https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I REACTO to Algos: Caesar Cipher",
+    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "29 𝓖𝓸𝓻𝓰𝓮𝓸𝓾𝓼 Web Designs To Inspire You 😍️🌟️",
+    "link": "https://dev.to/bestofofficial/10-web-designs-for-your-inspiration-2ih0",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging: Javascript",
+    "link": "https://dev.to/nash4253/debugging-javascript-1n84",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Journal CLI - Write Journal in Notion using CLI",
+    "link": "https://blog.amitwani.dev/journal-cli-write-journal-in-notion-using-cli",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Enable Slack Notifications for AWS Amplify Deployments",
+    "link": "https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to setup React global alert popup in 10mins",
+    "link": "https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Journal CLI - Write Journal in Notion using CLI",
+    "link": "https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a beautiful gradient scroll bar with CSS",
+    "link": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning to code",
+    "link": "https://dev.to/achessor/learning-to-code-d17",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to share a single global object across your app (Singleton design pattern)",
+    "link": "https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mock REST APIs with Mockatron",
+    "link": "https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make Next.JS starter template.",
+    "link": "https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular - Testes de Componentes",
+    "link": "https://dev.to/wesleyegberto/angular-testes-de-componentes-32of",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Make Push Notification Using Node.js and Service Worker",
+    "link": "https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploy strapi v4 to heroku and quasar to vercel",
+    "link": "https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Interview Question #1 (Group Anagrams)",
+    "link": "https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I REACTO to Algos: Caesar Cipher",
+    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "29 𝓖𝓸𝓻𝓰𝓮𝓸𝓾𝓼 Web Designs To Inspire You 😍️🌟️",
+    "link": "https://dev.to/bestofofficial/10-web-designs-for-your-inspiration-2ih0",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging: Javascript",
+    "link": "https://dev.to/nash4253/debugging-javascript-1n84",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Journal CLI - Write Journal in Notion using CLI",
+    "link": "https://blog.amitwani.dev/journal-cli-write-journal-in-notion-using-cli",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Enable Slack Notifications for AWS Amplify Deployments",
+    "link": "https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to setup React global alert popup in 10mins",
+    "link": "https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Journal CLI - Write Journal in Notion using CLI",
+    "link": "https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a beautiful gradient scroll bar with CSS",
+    "link": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning to code",
+    "link": "https://dev.to/achessor/learning-to-code-d17",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to share a single global object across your app (Singleton design pattern)",
+    "link": "https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mock REST APIs with Mockatron",
+    "link": "https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make Next.JS starter template.",
+    "link": "https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular - Testes de Componentes",
+    "link": "https://dev.to/wesleyegberto/angular-testes-de-componentes-32of",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Make Push Notification Using Node.js and Service Worker",
+    "link": "https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploy strapi v4 to heroku and quasar to vercel",
+    "link": "https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Interview Question #1 (Group Anagrams)",
+    "link": "https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I REACTO to Algos: Caesar Cipher",
+    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "29 𝓖𝓸𝓻𝓰𝓮𝓸𝓾𝓼 Web Designs To Inspire You 😍️🌟️",
+    "link": "https://dev.to/bestofofficial/10-web-designs-for-your-inspiration-2ih0",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging: Javascript",
+    "link": "https://dev.to/nash4253/debugging-javascript-1n84",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Journal CLI - Write Journal in Notion using CLI",
+    "link": "https://blog.amitwani.dev/journal-cli-write-journal-in-notion-using-cli",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Enable Slack Notifications for AWS Amplify Deployments",
+    "link": "https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to setup React global alert popup in 10mins",
+    "link": "https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Journal CLI - Write Journal in Notion using CLI",
+    "link": "https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a beautiful gradient scroll bar with CSS",
+    "link": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning to code",
+    "link": "https://dev.to/achessor/learning-to-code-d17",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to share a single global object across your app (Singleton design pattern)",
+    "link": "https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mock REST APIs with Mockatron",
+    "link": "https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make Next.JS starter template.",
+    "link": "https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular - Testes de Componentes",
+    "link": "https://dev.to/wesleyegberto/angular-testes-de-componentes-32of",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Make Push Notification Using Node.js and Service Worker",
+    "link": "https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploy strapi v4 to heroku and quasar to vercel",
+    "link": "https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Interview Question #1 (Group Anagrams)",
+    "link": "https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I REACTO to Algos: Caesar Cipher",
+    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "29 𝓖𝓸𝓻𝓰𝓮𝓸𝓾𝓼 Web Designs To Inspire You 😍️🌟️",
+    "link": "https://dev.to/bestofofficial/10-web-designs-for-your-inspiration-2ih0",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging: Javascript",
+    "link": "https://dev.to/nash4253/debugging-javascript-1n84",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Journal CLI - Write Journal in Notion using CLI",
+    "link": "https://blog.amitwani.dev/journal-cli-write-journal-in-notion-using-cli",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Enable Slack Notifications for AWS Amplify Deployments",
+    "link": "https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to setup React global alert popup in 10mins",
+    "link": "https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Journal CLI - Write Journal in Notion using CLI",
+    "link": "https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a beautiful gradient scroll bar with CSS",
+    "link": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning to code",
+    "link": "https://dev.to/achessor/learning-to-code-d17",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to share a single global object across your app (Singleton design pattern)",
+    "link": "https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mock REST APIs with Mockatron",
+    "link": "https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make Next.JS starter template.",
+    "link": "https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular - Testes de Componentes",
+    "link": "https://dev.to/wesleyegberto/angular-testes-de-componentes-32of",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Make Push Notification Using Node.js and Service Worker",
+    "link": "https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploy strapi v4 to heroku and quasar to vercel",
+    "link": "https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Interview Question #1 (Group Anagrams)",
+    "link": "https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I REACTO to Algos: Caesar Cipher",
+    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "29 𝓖𝓸𝓻𝓰𝓮𝓸𝓾𝓼 Web Designs To Inspire You 😍️🌟️",
+    "link": "https://dev.to/bestofofficial/10-web-designs-for-your-inspiration-2ih0",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging: Javascript",
+    "link": "https://dev.to/nash4253/debugging-javascript-1n84",
+    "date": "3/20/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to understand complex coding concepts better using the Feynman Technique",
+    "link": "https://cesscode.hashnode.dev/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "First Official Blog",
+    "link": "https://shreyashbuilds.hashnode.dev/first-official-blog",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Study Notes: Design Patterns",
+    "link": "https://theodorusandi.hashnode.dev/study-notes-design-patterns",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 13 of 100 Days of Code",
+    "link": "https://nkem.hashnode.dev/day-13-of-100-days-of-code",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My journey into coding...",
+    "link": "https://zonamoon.hashnode.dev/my-journey-into-coding",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Regex Method Madness",
+    "link": "https://cbats1545.hashnode.dev/regex-method-madness",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Inline, Embedded or External CSS",
+    "link": "https://estherchris.hashnode.dev/inline-embedded-or-external-css",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Procedural, OOP, and Functional Programming",
+    "link": "https://sammychris.hashnode.dev/procedural-oop-and-functional-programming",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Pure function in Javascript",
+    "link": "https://sammychris.hashnode.dev/pure-function-in-javascript",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functions, Callback, and Anonymous Function in JavaScript",
+    "link": "https://sammychris.hashnode.dev/functions-callback-and-anonymous-function-in-javascript",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Presentational And Container Component With React",
+    "link": "https://sammychris.hashnode.dev/presentational-and-container-component-with-react",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Closures, First-class Functions, and Higher-Order Function.",
+    "link": "https://sammychris.hashnode.dev/closures-first-class-functions-and-higher-order-function",
+    "date": "3/19/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "My Introduction 👋",
     "link": "https://timjdev.hashnode.dev/my-introduction",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "Frontend Engineer Interview Experience At Tekion Corp",
-    "link": "https://saideepesh.hashnode.dev/frontend-engineer-interview-experience-at-tekion-corp",
+    "title": "How to understand complex coding concepts better using the Feynman Technique",
+    "link": "https://cesscode.hashnode.dev/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to Architect a Fitness Tracker App with TomTom Maps",
-    "link": "https://tomtomdevs.hashnode.dev/how-to-architect-a-fitness-tracker-app-with-tomtom-maps",
+    "title": "First Official Blog",
+    "link": "https://shreyashbuilds.hashnode.dev/first-official-blog",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Challenge: 3",
-    "link": "https://arunarivanandam.hashnode.dev/js-challenge-3",
+    "title": "Study Notes: Design Patterns",
+    "link": "https://theodorusandi.hashnode.dev/study-notes-design-patterns",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Challenge: 2",
-    "link": "https://arunarivanandam.hashnode.dev/js-challenge-2",
+    "title": "Day 13 of 100 Days of Code",
+    "link": "https://nkem.hashnode.dev/day-13-of-100-days-of-code",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Brief History of JavaScript Part 2",
-    "link": "https://adibhasib.hashnode.dev/a-brief-history-of-javascript-part-2",
+    "title": "My journey into coding...",
+    "link": "https://zonamoon.hashnode.dev/my-journey-into-coding",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "Coding Bootcamp vs. Computer Science Degree",
-    "link": "https://oceans.hashnode.dev/coding-bootcamp-vs-computer-science-degree",
+    "title": "Regex Method Madness",
+    "link": "https://cbats1545.hashnode.dev/regex-method-madness",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "Make Express Server fast Request & Response Using Indexing in mongoDB",
-    "link": "https://dev.to/deepakjaiswal/make-express-server-fast-request-response-using-indexing-in-mongodb-49pm",
+    "title": "Inline, Embedded or External CSS",
+    "link": "https://estherchris.hashnode.dev/inline-embedded-or-external-css",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Creating a plugin in Dative v2-alpha",
-    "link": "https://dev.to/tobithedev/creating-a-plugin-in-dative-v2-alpha-11j3",
+    "title": "Procedural, OOP, and Functional Programming",
+    "link": "https://sammychris.hashnode.dev/procedural-oop-and-functional-programming",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "{\"message\":\"path is not defined\",\"stack\":null}",
-    "link": "https://dev.to/mhmdrameez/messagepath-is-not-definedstacknull-5ag",
+    "title": "Pure function in Javascript",
+    "link": "https://sammychris.hashnode.dev/pure-function-in-javascript",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "HasAllChildren",
-    "link": "https://dev.to/lizardkinglk/hasallchildren-55lh",
+    "title": "Functions, Callback, and Anonymous Function in JavaScript",
+    "link": "https://sammychris.hashnode.dev/functions-callback-and-anonymous-function-in-javascript",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Branding logo in SVG",
-    "link": "https://dev.to/mhebrard/branding-logo-in-svg-47eb",
+    "title": "Presentational And Container Component With React",
+    "link": "https://sammychris.hashnode.dev/presentational-and-container-component-with-react",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Best Web development company in Kerala",
-    "link": "https://dev.to/woxro/best-web-development-company-in-kerala-407n",
+    "title": "Closures, First-class Functions, and Higher-Order Function.",
+    "link": "https://sammychris.hashnode.dev/closures-first-class-functions-and-higher-order-function",
     "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Apa itu Higher Order Function ?",
-    "link": "https://dev.to/syafiq1331/what-is-higher-order-function--51np",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning the basics of web dev by building a weather app",
-    "link": "https://dev.to/prajwalkulkarni/learning-the-basics-of-web-dev-by-building-a-weather-app-3l25",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reverse Integer",
-    "link": "https://dev.to/seth_king/reverse-integer-33p7",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NVIM",
-    "link": "https://dev.to/bcakyz/nvim-2b6h",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 31 of Studying LeetCode until I Can Solve One on My Own: #1481. Least Number of Unique Integers after K Removals(M/JS)",
-    "link": "https://dev.to/killingleetcode/day-31-of-studying-leetcode-until-i-can-solve-one-on-my-own-1481-least-number-of-unique-integers-after-k-removalsmjs-ae6",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create custom code snippets in VS Code",
-    "link": "https://dev.to/abdadeel/how-to-create-custom-code-snippets-in-vs-code-4e7l",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 30 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1492. The kth Factor of n(Medium/JavaScript)",
-    "link": "https://dev.to/killingleetcode/day-30-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1492-the-kth-factor-of-nmediumjavascript-6o",
-    "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "My Introduction 👋",
@@ -126,118 +636,76 @@
     "site": "hashnode"
   },
   {
-    "title": "Frontend Engineer Interview Experience At Tekion Corp",
-    "link": "https://saideepesh.hashnode.dev/frontend-engineer-interview-experience-at-tekion-corp",
+    "title": "How to understand complex coding concepts better using the Feynman Technique",
+    "link": "https://cesscode.hashnode.dev/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to Architect a Fitness Tracker App with TomTom Maps",
-    "link": "https://tomtomdevs.hashnode.dev/how-to-architect-a-fitness-tracker-app-with-tomtom-maps",
+    "title": "First Official Blog",
+    "link": "https://shreyashbuilds.hashnode.dev/first-official-blog",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Challenge: 3",
-    "link": "https://arunarivanandam.hashnode.dev/js-challenge-3",
+    "title": "Study Notes: Design Patterns",
+    "link": "https://theodorusandi.hashnode.dev/study-notes-design-patterns",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Challenge: 2",
-    "link": "https://arunarivanandam.hashnode.dev/js-challenge-2",
+    "title": "Day 13 of 100 Days of Code",
+    "link": "https://nkem.hashnode.dev/day-13-of-100-days-of-code",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Brief History of JavaScript Part 2",
-    "link": "https://adibhasib.hashnode.dev/a-brief-history-of-javascript-part-2",
+    "title": "My journey into coding...",
+    "link": "https://zonamoon.hashnode.dev/my-journey-into-coding",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "Coding Bootcamp vs. Computer Science Degree",
-    "link": "https://oceans.hashnode.dev/coding-bootcamp-vs-computer-science-degree",
+    "title": "Regex Method Madness",
+    "link": "https://cbats1545.hashnode.dev/regex-method-madness",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "Make Express Server fast Request & Response Using Indexing in mongoDB",
-    "link": "https://dev.to/deepakjaiswal/make-express-server-fast-request-response-using-indexing-in-mongodb-49pm",
+    "title": "Inline, Embedded or External CSS",
+    "link": "https://estherchris.hashnode.dev/inline-embedded-or-external-css",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Creating a plugin in Dative v2-alpha",
-    "link": "https://dev.to/tobithedev/creating-a-plugin-in-dative-v2-alpha-11j3",
+    "title": "Procedural, OOP, and Functional Programming",
+    "link": "https://sammychris.hashnode.dev/procedural-oop-and-functional-programming",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "{\"message\":\"path is not defined\",\"stack\":null}",
-    "link": "https://dev.to/mhmdrameez/messagepath-is-not-definedstacknull-5ag",
+    "title": "Pure function in Javascript",
+    "link": "https://sammychris.hashnode.dev/pure-function-in-javascript",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "HasAllChildren",
-    "link": "https://dev.to/lizardkinglk/hasallchildren-55lh",
+    "title": "Functions, Callback, and Anonymous Function in JavaScript",
+    "link": "https://sammychris.hashnode.dev/functions-callback-and-anonymous-function-in-javascript",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Branding logo in SVG",
-    "link": "https://dev.to/mhebrard/branding-logo-in-svg-47eb",
+    "title": "Presentational And Container Component With React",
+    "link": "https://sammychris.hashnode.dev/presentational-and-container-component-with-react",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Best Web development company in Kerala",
-    "link": "https://dev.to/woxro/best-web-development-company-in-kerala-407n",
+    "title": "Closures, First-class Functions, and Higher-Order Function.",
+    "link": "https://sammychris.hashnode.dev/closures-first-class-functions-and-higher-order-function",
     "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Apa itu Higher Order Function ?",
-    "link": "https://dev.to/syafiq1331/what-is-higher-order-function--51np",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning the basics of web dev by building a weather app",
-    "link": "https://dev.to/prajwalkulkarni/learning-the-basics-of-web-dev-by-building-a-weather-app-3l25",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reverse Integer",
-    "link": "https://dev.to/seth_king/reverse-integer-33p7",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NVIM",
-    "link": "https://dev.to/bcakyz/nvim-2b6h",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 31 of Studying LeetCode until I Can Solve One on My Own: #1481. Least Number of Unique Integers after K Removals(M/JS)",
-    "link": "https://dev.to/killingleetcode/day-31-of-studying-leetcode-until-i-can-solve-one-on-my-own-1481-least-number-of-unique-integers-after-k-removalsmjs-ae6",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create custom code snippets in VS Code",
-    "link": "https://dev.to/abdadeel/how-to-create-custom-code-snippets-in-vs-code-4e7l",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 30 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1492. The kth Factor of n(Medium/JavaScript)",
-    "link": "https://dev.to/killingleetcode/day-30-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1492-the-kth-factor-of-nmediumjavascript-6o",
-    "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "My Introduction 👋",
@@ -246,118 +714,76 @@
     "site": "hashnode"
   },
   {
-    "title": "Frontend Engineer Interview Experience At Tekion Corp",
-    "link": "https://saideepesh.hashnode.dev/frontend-engineer-interview-experience-at-tekion-corp",
+    "title": "How to understand complex coding concepts better using the Feynman Technique",
+    "link": "https://cesscode.hashnode.dev/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to Architect a Fitness Tracker App with TomTom Maps",
-    "link": "https://tomtomdevs.hashnode.dev/how-to-architect-a-fitness-tracker-app-with-tomtom-maps",
+    "title": "First Official Blog",
+    "link": "https://shreyashbuilds.hashnode.dev/first-official-blog",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Challenge: 3",
-    "link": "https://arunarivanandam.hashnode.dev/js-challenge-3",
+    "title": "Study Notes: Design Patterns",
+    "link": "https://theodorusandi.hashnode.dev/study-notes-design-patterns",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Challenge: 2",
-    "link": "https://arunarivanandam.hashnode.dev/js-challenge-2",
+    "title": "Day 13 of 100 Days of Code",
+    "link": "https://nkem.hashnode.dev/day-13-of-100-days-of-code",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Brief History of JavaScript Part 2",
-    "link": "https://adibhasib.hashnode.dev/a-brief-history-of-javascript-part-2",
+    "title": "My journey into coding...",
+    "link": "https://zonamoon.hashnode.dev/my-journey-into-coding",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "Coding Bootcamp vs. Computer Science Degree",
-    "link": "https://oceans.hashnode.dev/coding-bootcamp-vs-computer-science-degree",
+    "title": "Regex Method Madness",
+    "link": "https://cbats1545.hashnode.dev/regex-method-madness",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "Make Express Server fast Request & Response Using Indexing in mongoDB",
-    "link": "https://dev.to/deepakjaiswal/make-express-server-fast-request-response-using-indexing-in-mongodb-49pm",
+    "title": "Inline, Embedded or External CSS",
+    "link": "https://estherchris.hashnode.dev/inline-embedded-or-external-css",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Creating a plugin in Dative v2-alpha",
-    "link": "https://dev.to/tobithedev/creating-a-plugin-in-dative-v2-alpha-11j3",
+    "title": "Procedural, OOP, and Functional Programming",
+    "link": "https://sammychris.hashnode.dev/procedural-oop-and-functional-programming",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "{\"message\":\"path is not defined\",\"stack\":null}",
-    "link": "https://dev.to/mhmdrameez/messagepath-is-not-definedstacknull-5ag",
+    "title": "Pure function in Javascript",
+    "link": "https://sammychris.hashnode.dev/pure-function-in-javascript",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "HasAllChildren",
-    "link": "https://dev.to/lizardkinglk/hasallchildren-55lh",
+    "title": "Functions, Callback, and Anonymous Function in JavaScript",
+    "link": "https://sammychris.hashnode.dev/functions-callback-and-anonymous-function-in-javascript",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Branding logo in SVG",
-    "link": "https://dev.to/mhebrard/branding-logo-in-svg-47eb",
+    "title": "Presentational And Container Component With React",
+    "link": "https://sammychris.hashnode.dev/presentational-and-container-component-with-react",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Best Web development company in Kerala",
-    "link": "https://dev.to/woxro/best-web-development-company-in-kerala-407n",
+    "title": "Closures, First-class Functions, and Higher-Order Function.",
+    "link": "https://sammychris.hashnode.dev/closures-first-class-functions-and-higher-order-function",
     "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Apa itu Higher Order Function ?",
-    "link": "https://dev.to/syafiq1331/what-is-higher-order-function--51np",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning the basics of web dev by building a weather app",
-    "link": "https://dev.to/prajwalkulkarni/learning-the-basics-of-web-dev-by-building-a-weather-app-3l25",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reverse Integer",
-    "link": "https://dev.to/seth_king/reverse-integer-33p7",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NVIM",
-    "link": "https://dev.to/bcakyz/nvim-2b6h",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 31 of Studying LeetCode until I Can Solve One on My Own: #1481. Least Number of Unique Integers after K Removals(M/JS)",
-    "link": "https://dev.to/killingleetcode/day-31-of-studying-leetcode-until-i-can-solve-one-on-my-own-1481-least-number-of-unique-integers-after-k-removalsmjs-ae6",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create custom code snippets in VS Code",
-    "link": "https://dev.to/abdadeel/how-to-create-custom-code-snippets-in-vs-code-4e7l",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 30 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1492. The kth Factor of n(Medium/JavaScript)",
-    "link": "https://dev.to/killingleetcode/day-30-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1492-the-kth-factor-of-nmediumjavascript-6o",
-    "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "My Introduction 👋",
@@ -366,238 +792,82 @@
     "site": "hashnode"
   },
   {
-    "title": "Frontend Engineer Interview Experience At Tekion Corp",
-    "link": "https://saideepesh.hashnode.dev/frontend-engineer-interview-experience-at-tekion-corp",
+    "title": "How to understand complex coding concepts better using the Feynman Technique",
+    "link": "https://cesscode.hashnode.dev/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to Architect a Fitness Tracker App with TomTom Maps",
-    "link": "https://tomtomdevs.hashnode.dev/how-to-architect-a-fitness-tracker-app-with-tomtom-maps",
+    "title": "First Official Blog",
+    "link": "https://shreyashbuilds.hashnode.dev/first-official-blog",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Challenge: 3",
-    "link": "https://arunarivanandam.hashnode.dev/js-challenge-3",
+    "title": "Study Notes: Design Patterns",
+    "link": "https://theodorusandi.hashnode.dev/study-notes-design-patterns",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Challenge: 2",
-    "link": "https://arunarivanandam.hashnode.dev/js-challenge-2",
+    "title": "Day 13 of 100 Days of Code",
+    "link": "https://nkem.hashnode.dev/day-13-of-100-days-of-code",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Brief History of JavaScript Part 2",
-    "link": "https://adibhasib.hashnode.dev/a-brief-history-of-javascript-part-2",
+    "title": "My journey into coding...",
+    "link": "https://zonamoon.hashnode.dev/my-journey-into-coding",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "Coding Bootcamp vs. Computer Science Degree",
-    "link": "https://oceans.hashnode.dev/coding-bootcamp-vs-computer-science-degree",
+    "title": "Regex Method Madness",
+    "link": "https://cbats1545.hashnode.dev/regex-method-madness",
     "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "Make Express Server fast Request & Response Using Indexing in mongoDB",
-    "link": "https://dev.to/deepakjaiswal/make-express-server-fast-request-response-using-indexing-in-mongodb-49pm",
+    "title": "Inline, Embedded or External CSS",
+    "link": "https://estherchris.hashnode.dev/inline-embedded-or-external-css",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Creating a plugin in Dative v2-alpha",
-    "link": "https://dev.to/tobithedev/creating-a-plugin-in-dative-v2-alpha-11j3",
+    "title": "Procedural, OOP, and Functional Programming",
+    "link": "https://sammychris.hashnode.dev/procedural-oop-and-functional-programming",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "{\"message\":\"path is not defined\",\"stack\":null}",
-    "link": "https://dev.to/mhmdrameez/messagepath-is-not-definedstacknull-5ag",
+    "title": "Pure function in Javascript",
+    "link": "https://sammychris.hashnode.dev/pure-function-in-javascript",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "HasAllChildren",
-    "link": "https://dev.to/lizardkinglk/hasallchildren-55lh",
+    "title": "Functions, Callback, and Anonymous Function in JavaScript",
+    "link": "https://sammychris.hashnode.dev/functions-callback-and-anonymous-function-in-javascript",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Branding logo in SVG",
-    "link": "https://dev.to/mhebrard/branding-logo-in-svg-47eb",
+    "title": "Presentational And Container Component With React",
+    "link": "https://sammychris.hashnode.dev/presentational-and-container-component-with-react",
     "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Best Web development company in Kerala",
-    "link": "https://dev.to/woxro/best-web-development-company-in-kerala-407n",
+    "title": "Closures, First-class Functions, and Higher-Order Function.",
+    "link": "https://sammychris.hashnode.dev/closures-first-class-functions-and-higher-order-function",
     "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Apa itu Higher Order Function ?",
-    "link": "https://dev.to/syafiq1331/what-is-higher-order-function--51np",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning the basics of web dev by building a weather app",
-    "link": "https://dev.to/prajwalkulkarni/learning-the-basics-of-web-dev-by-building-a-weather-app-3l25",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reverse Integer",
-    "link": "https://dev.to/seth_king/reverse-integer-33p7",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NVIM",
-    "link": "https://dev.to/bcakyz/nvim-2b6h",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 31 of Studying LeetCode until I Can Solve One on My Own: #1481. Least Number of Unique Integers after K Removals(M/JS)",
-    "link": "https://dev.to/killingleetcode/day-31-of-studying-leetcode-until-i-can-solve-one-on-my-own-1481-least-number-of-unique-integers-after-k-removalsmjs-ae6",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create custom code snippets in VS Code",
-    "link": "https://dev.to/abdadeel/how-to-create-custom-code-snippets-in-vs-code-4e7l",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 30 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1492. The kth Factor of n(Medium/JavaScript)",
-    "link": "https://dev.to/killingleetcode/day-30-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1492-the-kth-factor-of-nmediumjavascript-6o",
-    "date": "3/19/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "My Introduction 👋",
     "link": "https://timjdev.hashnode.dev/my-introduction",
     "date": "3/19/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Frontend Engineer Interview Experience At Tekion Corp",
-    "link": "https://saideepesh.hashnode.dev/frontend-engineer-interview-experience-at-tekion-corp",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Architect a Fitness Tracker App with TomTom Maps",
-    "link": "https://tomtomdevs.hashnode.dev/how-to-architect-a-fitness-tracker-app-with-tomtom-maps",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JS Challenge: 3",
-    "link": "https://arunarivanandam.hashnode.dev/js-challenge-3",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JS Challenge: 2",
-    "link": "https://arunarivanandam.hashnode.dev/js-challenge-2",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Brief History of JavaScript Part 2",
-    "link": "https://adibhasib.hashnode.dev/a-brief-history-of-javascript-part-2",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Coding Bootcamp vs. Computer Science Degree",
-    "link": "https://oceans.hashnode.dev/coding-bootcamp-vs-computer-science-degree",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Make Express Server fast Request & Response Using Indexing in mongoDB",
-    "link": "https://dev.to/deepakjaiswal/make-express-server-fast-request-response-using-indexing-in-mongodb-49pm",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a plugin in Dative v2-alpha",
-    "link": "https://dev.to/tobithedev/creating-a-plugin-in-dative-v2-alpha-11j3",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "{\"message\":\"path is not defined\",\"stack\":null}",
-    "link": "https://dev.to/mhmdrameez/messagepath-is-not-definedstacknull-5ag",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "HasAllChildren",
-    "link": "https://dev.to/lizardkinglk/hasallchildren-55lh",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Branding logo in SVG",
-    "link": "https://dev.to/mhebrard/branding-logo-in-svg-47eb",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Web development company in Kerala",
-    "link": "https://dev.to/woxro/best-web-development-company-in-kerala-407n",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Apa itu Higher Order Function ?",
-    "link": "https://dev.to/syafiq1331/what-is-higher-order-function--51np",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning the basics of web dev by building a weather app",
-    "link": "https://dev.to/prajwalkulkarni/learning-the-basics-of-web-dev-by-building-a-weather-app-3l25",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reverse Integer",
-    "link": "https://dev.to/seth_king/reverse-integer-33p7",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NVIM",
-    "link": "https://dev.to/bcakyz/nvim-2b6h",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 31 of Studying LeetCode until I Can Solve One on My Own: #1481. Least Number of Unique Integers after K Removals(M/JS)",
-    "link": "https://dev.to/killingleetcode/day-31-of-studying-leetcode-until-i-can-solve-one-on-my-own-1481-least-number-of-unique-integers-after-k-removalsmjs-ae6",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create custom code snippets in VS Code",
-    "link": "https://dev.to/abdadeel/how-to-create-custom-code-snippets-in-vs-code-4e7l",
-    "date": "3/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 30 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1492. The kth Factor of n(Medium/JavaScript)",
-    "link": "https://dev.to/killingleetcode/day-30-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1492-the-kth-factor-of-nmediumjavascript-6o",
-    "date": "3/19/2022",
-    "site": "dev.to"
   },
   {
     "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
@@ -613,58 +883,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Designing Layouts with CSS Gridbox",
-    "link": "https://codewith.gyen.dev/css-grid",
+    "title": "Learn Framer Motion with React",
+    "link": "https://petecapecod.hashnode.dev/learn-framer-motion-with-react",
     "date": "3/18/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Resolving HTTP Headers sent error in Node.JS",
-    "link": "fjolt.hashnode.dev/resolving-http-headers-sent-error-in-nodejs",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Things You Need To Know About ES6 If You Want To Be A Good ReactJS Developer",
-    "link": "https://svdcse.xyz/things-you-need-to-know-about-es6-if-you-want-to-be-a-good-reactjs-developer",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Easy to understand approach to Functions in JavaScript",
-    "link": "https://efkumah.hashnode.dev/easy-to-understand-approach-to-functions-in-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "5 Fast Tips In Javascript",
-    "link": "https://techcoder.hashnode.dev/5-fast-tips-in-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Calculate Days Between two Dates using JavaScript",
-    "link": "https://foolishdeveloper.hashnode.dev/calculate-days-between-two-dates-using-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The JavaScript Call Stack & Event Loop Simplified",
-    "link": "https://codewith.gyen.dev/the-javascript-call-stack-and-event-loop",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "tsParticles 1.42.3 Released",
-    "link": "https://dev.to/matteobruni/tsparticles-1423-released-21ge",
-    "date": "3/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "« Unlimited vacation » means « little vacation ».",
-    "link": "https://dev.to/loicpoullain/-unlimited-vacation-means-little-vacation--i72",
-    "date": "3/18/2022",
-    "site": "dev.to"
   },
   {
     "title": "Learn Framer Motion with React",
@@ -673,238 +895,16 @@
     "site": "hashnode"
   },
   {
-    "title": "Designing Layouts with CSS Gridbox",
-    "link": "https://codewith.gyen.dev/css-grid",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Resolving HTTP Headers sent error in Node.JS",
-    "link": "fjolt.hashnode.dev/resolving-http-headers-sent-error-in-nodejs",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Things You Need To Know About ES6 If You Want To Be A Good ReactJS Developer",
-    "link": "https://svdcse.xyz/things-you-need-to-know-about-es6-if-you-want-to-be-a-good-reactjs-developer",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Easy to understand approach to Functions in JavaScript",
-    "link": "https://efkumah.hashnode.dev/easy-to-understand-approach-to-functions-in-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "5 Fast Tips In Javascript",
-    "link": "https://techcoder.hashnode.dev/5-fast-tips-in-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Calculate Days Between two Dates using JavaScript",
-    "link": "https://foolishdeveloper.hashnode.dev/calculate-days-between-two-dates-using-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The JavaScript Call Stack & Event Loop Simplified",
-    "link": "https://codewith.gyen.dev/the-javascript-call-stack-and-event-loop",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "tsParticles 1.42.3 Released",
-    "link": "https://dev.to/matteobruni/tsparticles-1423-released-21ge",
-    "date": "3/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "« Unlimited vacation » means « little vacation ».",
-    "link": "https://dev.to/loicpoullain/-unlimited-vacation-means-little-vacation--i72",
-    "date": "3/18/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Learn Framer Motion with React",
     "link": "https://petecapecod.hashnode.dev/learn-framer-motion-with-react",
     "date": "3/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "Designing Layouts with CSS Gridbox",
-    "link": "https://codewith.gyen.dev/css-grid",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Resolving HTTP Headers sent error in Node.JS",
-    "link": "fjolt.hashnode.dev/resolving-http-headers-sent-error-in-nodejs",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Things You Need To Know About ES6 If You Want To Be A Good ReactJS Developer",
-    "link": "https://svdcse.xyz/things-you-need-to-know-about-es6-if-you-want-to-be-a-good-reactjs-developer",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Easy to understand approach to Functions in JavaScript",
-    "link": "https://efkumah.hashnode.dev/easy-to-understand-approach-to-functions-in-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "5 Fast Tips In Javascript",
-    "link": "https://techcoder.hashnode.dev/5-fast-tips-in-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Calculate Days Between two Dates using JavaScript",
-    "link": "https://foolishdeveloper.hashnode.dev/calculate-days-between-two-dates-using-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The JavaScript Call Stack & Event Loop Simplified",
-    "link": "https://codewith.gyen.dev/the-javascript-call-stack-and-event-loop",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "tsParticles 1.42.3 Released",
-    "link": "https://dev.to/matteobruni/tsparticles-1423-released-21ge",
-    "date": "3/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "« Unlimited vacation » means « little vacation ».",
-    "link": "https://dev.to/loicpoullain/-unlimited-vacation-means-little-vacation--i72",
-    "date": "3/18/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Learn Framer Motion with React",
     "link": "https://petecapecod.hashnode.dev/learn-framer-motion-with-react",
     "date": "3/18/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Designing Layouts with CSS Gridbox",
-    "link": "https://codewith.gyen.dev/css-grid",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Resolving HTTP Headers sent error in Node.JS",
-    "link": "fjolt.hashnode.dev/resolving-http-headers-sent-error-in-nodejs",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Things You Need To Know About ES6 If You Want To Be A Good ReactJS Developer",
-    "link": "https://svdcse.xyz/things-you-need-to-know-about-es6-if-you-want-to-be-a-good-reactjs-developer",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Easy to understand approach to Functions in JavaScript",
-    "link": "https://efkumah.hashnode.dev/easy-to-understand-approach-to-functions-in-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "5 Fast Tips In Javascript",
-    "link": "https://techcoder.hashnode.dev/5-fast-tips-in-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Calculate Days Between two Dates using JavaScript",
-    "link": "https://foolishdeveloper.hashnode.dev/calculate-days-between-two-dates-using-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The JavaScript Call Stack & Event Loop Simplified",
-    "link": "https://codewith.gyen.dev/the-javascript-call-stack-and-event-loop",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "tsParticles 1.42.3 Released",
-    "link": "https://dev.to/matteobruni/tsparticles-1423-released-21ge",
-    "date": "3/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "« Unlimited vacation » means « little vacation ».",
-    "link": "https://dev.to/loicpoullain/-unlimited-vacation-means-little-vacation--i72",
-    "date": "3/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learn Framer Motion with React",
-    "link": "https://petecapecod.hashnode.dev/learn-framer-motion-with-react",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Designing Layouts with CSS Gridbox",
-    "link": "https://codewith.gyen.dev/css-grid",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Resolving HTTP Headers sent error in Node.JS",
-    "link": "fjolt.hashnode.dev/resolving-http-headers-sent-error-in-nodejs",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Things You Need To Know About ES6 If You Want To Be A Good ReactJS Developer",
-    "link": "https://svdcse.xyz/things-you-need-to-know-about-es6-if-you-want-to-be-a-good-reactjs-developer",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Easy to understand approach to Functions in JavaScript",
-    "link": "https://efkumah.hashnode.dev/easy-to-understand-approach-to-functions-in-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "5 Fast Tips In Javascript",
-    "link": "https://techcoder.hashnode.dev/5-fast-tips-in-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Calculate Days Between two Dates using JavaScript",
-    "link": "https://foolishdeveloper.hashnode.dev/calculate-days-between-two-dates-using-javascript",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The JavaScript Call Stack & Event Loop Simplified",
-    "link": "https://codewith.gyen.dev/the-javascript-call-stack-and-event-loop",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "tsParticles 1.42.3 Released",
-    "link": "https://dev.to/matteobruni/tsparticles-1423-released-21ge",
-    "date": "3/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "« Unlimited vacation » means « little vacation ».",
-    "link": "https://dev.to/loicpoullain/-unlimited-vacation-means-little-vacation--i72",
-    "date": "3/18/2022",
-    "site": "dev.to"
   },
   {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
