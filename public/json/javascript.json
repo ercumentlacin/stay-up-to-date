@@ -1,505 +1,847 @@
 [
   {
-    "title": "Journal CLI - Write Journal in Notion using CLI",
-    "link": "https://blog.amitwani.dev/journal-cli-write-journal-in-notion-using-cli",
+    "title": "DOM Elements in JavaScript",
+    "link": "https://vineeth-t.hashnode.dev/dom-elements-in-javascript",
+    "date": "3/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Find Query with Prisma",
+    "link": "https://kristenkinnearohlmann.hashnode.dev/basic-find-query-with-prisma",
+    "date": "3/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "[Vite Plugin] Jump to local IDE source code while click the element of browser automatically.",
+    "link": "https://dev.to/webfansplz/vite-plugin-jump-to-local-ide-source-code-while-click-the-element-of-browser-automatically-2j2n",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 18/100; 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-18100-100-days-of-code-2fg0",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Glass Bead",
+    "link": "https://dev.to/glassbeadprice/glass-bead-45cg",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to add dark mode to Next.js project using Tailwind ?",
+    "link": "https://dev.to/imkarthikeyan/how-to-add-dark-mode-to-nextjs-project-using-tailwind--gj7",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Migrating Gatsby Remark Blog to MDX",
+    "link": "https://dev.to/mmz001/migrating-gatsby-remark-blog-to-mdx-59oc",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Apple Keto Gummies Australia Reviews 2022 – What SHOCKING Report Says?",
+    "link": "https://dev.to/appleketogummy_/apple-keto-gummies-australia-reviews-2022-what-shocking-report-says-cnc",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Working with the DOM in javascript - substring comparisons?",
+    "link": "https://dev.to/fyrfli/working-with-the-dom-4a46",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "First Fullstack Project: Tixxly",
+    "link": "https://dev.to/santoast/first-fullstack-project-tixxly-576j",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Formatando números e moedas com toLocaleString()",
+    "link": "https://dev.to/vanribeiro/formatando-numeros-e-moedas-com-tolocalestring-2j97",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Padronize seus commits com Commitlint + Husky + Commitizen.",
+    "link": "https://dev.to/vinicius_rodrigues/padronize-seus-commits-com-commitlint-husky-commitzen-2o6h",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Which is the best backend language for future?",
+    "link": "https://dev.to/hvm3/which-is-the-best-backend-language-for-future-2jk4",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Which is the best front-end language for future?",
+    "link": "https://dev.to/hvm3/which-is-the-best-front-end-language-for-future-49m5",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding Barcode Support to a Salesforce Mobile Application",
+    "link": "https://dev.to/johnjvester/adding-barcode-support-to-a-salesforce-mobile-application-fib",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Linked List in JavaScript",
+    "link": "https://dev.to/fig781/linked-list-in-javascript-4a19",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "DOM Elements in JavaScript",
+    "link": "https://vineeth-t.hashnode.dev/dom-elements-in-javascript",
+    "date": "3/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Find Query with Prisma",
+    "link": "https://kristenkinnearohlmann.hashnode.dev/basic-find-query-with-prisma",
+    "date": "3/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "[Vite Plugin] Jump to local IDE source code while click the element of browser automatically.",
+    "link": "https://dev.to/webfansplz/vite-plugin-jump-to-local-ide-source-code-while-click-the-element-of-browser-automatically-2j2n",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 18/100; 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-18100-100-days-of-code-2fg0",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Glass Bead",
+    "link": "https://dev.to/glassbeadprice/glass-bead-45cg",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to add dark mode to Next.js project using Tailwind ?",
+    "link": "https://dev.to/imkarthikeyan/how-to-add-dark-mode-to-nextjs-project-using-tailwind--gj7",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Migrating Gatsby Remark Blog to MDX",
+    "link": "https://dev.to/mmz001/migrating-gatsby-remark-blog-to-mdx-59oc",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Apple Keto Gummies Australia Reviews 2022 – What SHOCKING Report Says?",
+    "link": "https://dev.to/appleketogummy_/apple-keto-gummies-australia-reviews-2022-what-shocking-report-says-cnc",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Working with the DOM in javascript - substring comparisons?",
+    "link": "https://dev.to/fyrfli/working-with-the-dom-4a46",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "First Fullstack Project: Tixxly",
+    "link": "https://dev.to/santoast/first-fullstack-project-tixxly-576j",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Formatando números e moedas com toLocaleString()",
+    "link": "https://dev.to/vanribeiro/formatando-numeros-e-moedas-com-tolocalestring-2j97",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Padronize seus commits com Commitlint + Husky + Commitizen.",
+    "link": "https://dev.to/vinicius_rodrigues/padronize-seus-commits-com-commitlint-husky-commitzen-2o6h",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Which is the best backend language for future?",
+    "link": "https://dev.to/hvm3/which-is-the-best-backend-language-for-future-2jk4",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Which is the best front-end language for future?",
+    "link": "https://dev.to/hvm3/which-is-the-best-front-end-language-for-future-49m5",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding Barcode Support to a Salesforce Mobile Application",
+    "link": "https://dev.to/johnjvester/adding-barcode-support-to-a-salesforce-mobile-application-fib",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Linked List in JavaScript",
+    "link": "https://dev.to/fig781/linked-list-in-javascript-4a19",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "DOM Elements in JavaScript",
+    "link": "https://vineeth-t.hashnode.dev/dom-elements-in-javascript",
+    "date": "3/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Find Query with Prisma",
+    "link": "https://kristenkinnearohlmann.hashnode.dev/basic-find-query-with-prisma",
+    "date": "3/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "[Vite Plugin] Jump to local IDE source code while click the element of browser automatically.",
+    "link": "https://dev.to/webfansplz/vite-plugin-jump-to-local-ide-source-code-while-click-the-element-of-browser-automatically-2j2n",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 18/100; 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-18100-100-days-of-code-2fg0",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Glass Bead",
+    "link": "https://dev.to/glassbeadprice/glass-bead-45cg",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to add dark mode to Next.js project using Tailwind ?",
+    "link": "https://dev.to/imkarthikeyan/how-to-add-dark-mode-to-nextjs-project-using-tailwind--gj7",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Migrating Gatsby Remark Blog to MDX",
+    "link": "https://dev.to/mmz001/migrating-gatsby-remark-blog-to-mdx-59oc",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Apple Keto Gummies Australia Reviews 2022 – What SHOCKING Report Says?",
+    "link": "https://dev.to/appleketogummy_/apple-keto-gummies-australia-reviews-2022-what-shocking-report-says-cnc",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Working with the DOM in javascript - substring comparisons?",
+    "link": "https://dev.to/fyrfli/working-with-the-dom-4a46",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "First Fullstack Project: Tixxly",
+    "link": "https://dev.to/santoast/first-fullstack-project-tixxly-576j",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Formatando números e moedas com toLocaleString()",
+    "link": "https://dev.to/vanribeiro/formatando-numeros-e-moedas-com-tolocalestring-2j97",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Padronize seus commits com Commitlint + Husky + Commitizen.",
+    "link": "https://dev.to/vinicius_rodrigues/padronize-seus-commits-com-commitlint-husky-commitzen-2o6h",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Which is the best backend language for future?",
+    "link": "https://dev.to/hvm3/which-is-the-best-backend-language-for-future-2jk4",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Which is the best front-end language for future?",
+    "link": "https://dev.to/hvm3/which-is-the-best-front-end-language-for-future-49m5",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding Barcode Support to a Salesforce Mobile Application",
+    "link": "https://dev.to/johnjvester/adding-barcode-support-to-a-salesforce-mobile-application-fib",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Linked List in JavaScript",
+    "link": "https://dev.to/fig781/linked-list-in-javascript-4a19",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "DOM Elements in JavaScript",
+    "link": "https://vineeth-t.hashnode.dev/dom-elements-in-javascript",
+    "date": "3/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Find Query with Prisma",
+    "link": "https://kristenkinnearohlmann.hashnode.dev/basic-find-query-with-prisma",
+    "date": "3/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "[Vite Plugin] Jump to local IDE source code while click the element of browser automatically.",
+    "link": "https://dev.to/webfansplz/vite-plugin-jump-to-local-ide-source-code-while-click-the-element-of-browser-automatically-2j2n",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 18/100; 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-18100-100-days-of-code-2fg0",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Glass Bead",
+    "link": "https://dev.to/glassbeadprice/glass-bead-45cg",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to add dark mode to Next.js project using Tailwind ?",
+    "link": "https://dev.to/imkarthikeyan/how-to-add-dark-mode-to-nextjs-project-using-tailwind--gj7",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Migrating Gatsby Remark Blog to MDX",
+    "link": "https://dev.to/mmz001/migrating-gatsby-remark-blog-to-mdx-59oc",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Apple Keto Gummies Australia Reviews 2022 – What SHOCKING Report Says?",
+    "link": "https://dev.to/appleketogummy_/apple-keto-gummies-australia-reviews-2022-what-shocking-report-says-cnc",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Working with the DOM in javascript - substring comparisons?",
+    "link": "https://dev.to/fyrfli/working-with-the-dom-4a46",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "First Fullstack Project: Tixxly",
+    "link": "https://dev.to/santoast/first-fullstack-project-tixxly-576j",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Formatando números e moedas com toLocaleString()",
+    "link": "https://dev.to/vanribeiro/formatando-numeros-e-moedas-com-tolocalestring-2j97",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Padronize seus commits com Commitlint + Husky + Commitizen.",
+    "link": "https://dev.to/vinicius_rodrigues/padronize-seus-commits-com-commitlint-husky-commitzen-2o6h",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Which is the best backend language for future?",
+    "link": "https://dev.to/hvm3/which-is-the-best-backend-language-for-future-2jk4",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Which is the best front-end language for future?",
+    "link": "https://dev.to/hvm3/which-is-the-best-front-end-language-for-future-49m5",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding Barcode Support to a Salesforce Mobile Application",
+    "link": "https://dev.to/johnjvester/adding-barcode-support-to-a-salesforce-mobile-application-fib",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Linked List in JavaScript",
+    "link": "https://dev.to/fig781/linked-list-in-javascript-4a19",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "DOM Elements in JavaScript",
+    "link": "https://vineeth-t.hashnode.dev/dom-elements-in-javascript",
+    "date": "3/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Find Query with Prisma",
+    "link": "https://kristenkinnearohlmann.hashnode.dev/basic-find-query-with-prisma",
+    "date": "3/21/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "[Vite Plugin] Jump to local IDE source code while click the element of browser automatically.",
+    "link": "https://dev.to/webfansplz/vite-plugin-jump-to-local-ide-source-code-while-click-the-element-of-browser-automatically-2j2n",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 18/100; 100 Days of Code",
+    "link": "https://dev.to/xurgg/day-18100-100-days-of-code-2fg0",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Glass Bead",
+    "link": "https://dev.to/glassbeadprice/glass-bead-45cg",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to add dark mode to Next.js project using Tailwind ?",
+    "link": "https://dev.to/imkarthikeyan/how-to-add-dark-mode-to-nextjs-project-using-tailwind--gj7",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Migrating Gatsby Remark Blog to MDX",
+    "link": "https://dev.to/mmz001/migrating-gatsby-remark-blog-to-mdx-59oc",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Apple Keto Gummies Australia Reviews 2022 – What SHOCKING Report Says?",
+    "link": "https://dev.to/appleketogummy_/apple-keto-gummies-australia-reviews-2022-what-shocking-report-says-cnc",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Working with the DOM in javascript - substring comparisons?",
+    "link": "https://dev.to/fyrfli/working-with-the-dom-4a46",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "First Fullstack Project: Tixxly",
+    "link": "https://dev.to/santoast/first-fullstack-project-tixxly-576j",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Formatando números e moedas com toLocaleString()",
+    "link": "https://dev.to/vanribeiro/formatando-numeros-e-moedas-com-tolocalestring-2j97",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Padronize seus commits com Commitlint + Husky + Commitizen.",
+    "link": "https://dev.to/vinicius_rodrigues/padronize-seus-commits-com-commitlint-husky-commitzen-2o6h",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Which is the best backend language for future?",
+    "link": "https://dev.to/hvm3/which-is-the-best-backend-language-for-future-2jk4",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Which is the best front-end language for future?",
+    "link": "https://dev.to/hvm3/which-is-the-best-front-end-language-for-future-49m5",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding Barcode Support to a Salesforce Mobile Application",
+    "link": "https://dev.to/johnjvester/adding-barcode-support-to-a-salesforce-mobile-application-fib",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Linked List in JavaScript",
+    "link": "https://dev.to/fig781/linked-list-in-javascript-4a19",
+    "date": "3/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seamless Stripe QR Checkout with Hasura as Backend API",
+    "link": "https://coolhead.in/seamless-stripe-qr-checkout-with-hasura-as-backend-api",
     "date": "3/20/2022",
     "site": "hashnode"
   },
   {
-    "title": "Enable Slack Notifications for AWS Amplify Deployments",
-    "link": "https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to setup React global alert popup in 10mins",
-    "link": "https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journal CLI - Write Journal in Notion using CLI",
-    "link": "https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make a beautiful gradient scroll bar with CSS",
-    "link": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning to code",
-    "link": "https://dev.to/achessor/learning-to-code-d17",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to share a single global object across your app (Singleton design pattern)",
-    "link": "https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mock REST APIs with Mockatron",
-    "link": "https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make Next.JS starter template.",
-    "link": "https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular - Testes de Componentes",
-    "link": "https://dev.to/wesleyegberto/angular-testes-de-componentes-32of",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Make Push Notification Using Node.js and Service Worker",
-    "link": "https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy strapi v4 to heroku and quasar to vercel",
-    "link": "https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Interview Question #1 (Group Anagrams)",
-    "link": "https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I REACTO to Algos: Caesar Cipher",
-    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "29 𝓖𝓸𝓻𝓰𝓮𝓸𝓾𝓼 Web Designs To Inspire You 😍️🌟️",
-    "link": "https://dev.to/bestofofficial/10-web-designs-for-your-inspiration-2ih0",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging: Javascript",
-    "link": "https://dev.to/nash4253/debugging-javascript-1n84",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journal CLI - Write Journal in Notion using CLI",
-    "link": "https://blog.amitwani.dev/journal-cli-write-journal-in-notion-using-cli",
+    "title": "My first-ever blog launch!",
+    "link": "https://devsunny.hashnode.dev/my-first-ever-blog-launch",
     "date": "3/20/2022",
     "site": "hashnode"
   },
   {
-    "title": "Enable Slack Notifications for AWS Amplify Deployments",
-    "link": "https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to setup React global alert popup in 10mins",
-    "link": "https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journal CLI - Write Journal in Notion using CLI",
-    "link": "https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make a beautiful gradient scroll bar with CSS",
-    "link": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning to code",
-    "link": "https://dev.to/achessor/learning-to-code-d17",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to share a single global object across your app (Singleton design pattern)",
-    "link": "https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mock REST APIs with Mockatron",
-    "link": "https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make Next.JS starter template.",
-    "link": "https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular - Testes de Componentes",
-    "link": "https://dev.to/wesleyegberto/angular-testes-de-componentes-32of",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Make Push Notification Using Node.js and Service Worker",
-    "link": "https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy strapi v4 to heroku and quasar to vercel",
-    "link": "https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Interview Question #1 (Group Anagrams)",
-    "link": "https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I REACTO to Algos: Caesar Cipher",
-    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "29 𝓖𝓸𝓻𝓰𝓮𝓸𝓾𝓼 Web Designs To Inspire You 😍️🌟️",
-    "link": "https://dev.to/bestofofficial/10-web-designs-for-your-inspiration-2ih0",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging: Javascript",
-    "link": "https://dev.to/nash4253/debugging-javascript-1n84",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journal CLI - Write Journal in Notion using CLI",
-    "link": "https://blog.amitwani.dev/journal-cli-write-journal-in-notion-using-cli",
+    "title": "React source code visible 😲",
+    "link": "https://dhanushxeno.hashnode.dev/react-source-code-visible",
     "date": "3/20/2022",
     "site": "hashnode"
   },
   {
-    "title": "Enable Slack Notifications for AWS Amplify Deployments",
-    "link": "https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to setup React global alert popup in 10mins",
-    "link": "https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journal CLI - Write Journal in Notion using CLI",
-    "link": "https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make a beautiful gradient scroll bar with CSS",
-    "link": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning to code",
-    "link": "https://dev.to/achessor/learning-to-code-d17",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to share a single global object across your app (Singleton design pattern)",
-    "link": "https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mock REST APIs with Mockatron",
-    "link": "https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make Next.JS starter template.",
-    "link": "https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular - Testes de Componentes",
-    "link": "https://dev.to/wesleyegberto/angular-testes-de-componentes-32of",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Make Push Notification Using Node.js and Service Worker",
-    "link": "https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy strapi v4 to heroku and quasar to vercel",
-    "link": "https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Interview Question #1 (Group Anagrams)",
-    "link": "https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I REACTO to Algos: Caesar Cipher",
-    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "29 𝓖𝓸𝓻𝓰𝓮𝓸𝓾𝓼 Web Designs To Inspire You 😍️🌟️",
-    "link": "https://dev.to/bestofofficial/10-web-designs-for-your-inspiration-2ih0",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging: Javascript",
-    "link": "https://dev.to/nash4253/debugging-javascript-1n84",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journal CLI - Write Journal in Notion using CLI",
-    "link": "https://blog.amitwani.dev/journal-cli-write-journal-in-notion-using-cli",
+    "title": "Absolute path in react js",
+    "link": "https://dynamicprogrammer.hashnode.dev/absolute-path-in-react-js",
     "date": "3/20/2022",
     "site": "hashnode"
   },
   {
-    "title": "Enable Slack Notifications for AWS Amplify Deployments",
-    "link": "https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to setup React global alert popup in 10mins",
-    "link": "https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journal CLI - Write Journal in Notion using CLI",
-    "link": "https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make a beautiful gradient scroll bar with CSS",
-    "link": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning to code",
-    "link": "https://dev.to/achessor/learning-to-code-d17",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to share a single global object across your app (Singleton design pattern)",
-    "link": "https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mock REST APIs with Mockatron",
-    "link": "https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make Next.JS starter template.",
-    "link": "https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular - Testes de Componentes",
-    "link": "https://dev.to/wesleyegberto/angular-testes-de-componentes-32of",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Make Push Notification Using Node.js and Service Worker",
-    "link": "https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy strapi v4 to heroku and quasar to vercel",
-    "link": "https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Interview Question #1 (Group Anagrams)",
-    "link": "https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I REACTO to Algos: Caesar Cipher",
-    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "29 𝓖𝓸𝓻𝓰𝓮𝓸𝓾𝓼 Web Designs To Inspire You 😍️🌟️",
-    "link": "https://dev.to/bestofofficial/10-web-designs-for-your-inspiration-2ih0",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging: Javascript",
-    "link": "https://dev.to/nash4253/debugging-javascript-1n84",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journal CLI - Write Journal in Notion using CLI",
-    "link": "https://blog.amitwani.dev/journal-cli-write-journal-in-notion-using-cli",
+    "title": "Are you using map, forEach, and reduce wrong?",
+    "link": "https://antman-does-software.com/are-you-using-map-foreach-and-reduce-wrong",
     "date": "3/20/2022",
     "site": "hashnode"
   },
   {
-    "title": "Enable Slack Notifications for AWS Amplify Deployments",
-    "link": "https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l",
+    "title": "Binary Search",
+    "link": "https://blog.ahmedessamsalem.com/binary-search",
     "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to setup React global alert popup in 10mins",
-    "link": "https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journal CLI - Write Journal in Notion using CLI",
-    "link": "https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make a beautiful gradient scroll bar with CSS",
-    "link": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning to code",
-    "link": "https://dev.to/achessor/learning-to-code-d17",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to share a single global object across your app (Singleton design pattern)",
-    "link": "https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mock REST APIs with Mockatron",
-    "link": "https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make Next.JS starter template.",
-    "link": "https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular - Testes de Componentes",
-    "link": "https://dev.to/wesleyegberto/angular-testes-de-componentes-32of",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Make Push Notification Using Node.js and Service Worker",
-    "link": "https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy strapi v4 to heroku and quasar to vercel",
-    "link": "https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Interview Question #1 (Group Anagrams)",
-    "link": "https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I REACTO to Algos: Caesar Cipher",
-    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "29 𝓖𝓸𝓻𝓰𝓮𝓸𝓾𝓼 Web Designs To Inspire You 😍️🌟️",
-    "link": "https://dev.to/bestofofficial/10-web-designs-for-your-inspiration-2ih0",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging: Javascript",
-    "link": "https://dev.to/nash4253/debugging-javascript-1n84",
-    "date": "3/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to understand complex coding concepts better using the Feynman Technique",
-    "link": "https://cesscode.hashnode.dev/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique",
-    "date": "3/19/2022",
     "site": "hashnode"
   },
   {
-    "title": "First Official Blog",
-    "link": "https://shreyashbuilds.hashnode.dev/first-official-blog",
-    "date": "3/19/2022",
+    "title": "Using Web Components today",
+    "link": "https://divided-by-zero.dev/using-web-components-today",
+    "date": "3/20/2022",
     "site": "hashnode"
   },
   {
-    "title": "Study Notes: Design Patterns",
-    "link": "https://theodorusandi.hashnode.dev/study-notes-design-patterns",
-    "date": "3/19/2022",
+    "title": "JavaScript Top 500 Interview Questions",
+    "link": "https://jscoders.hashnode.dev/javascript-top-500-interview-questions",
+    "date": "3/20/2022",
     "site": "hashnode"
   },
   {
-    "title": "Day 13 of 100 Days of Code",
-    "link": "https://nkem.hashnode.dev/day-13-of-100-days-of-code",
+    "title": "How the Web works",
+    "link": "https://victoriaomeire.hashnode.dev/how-the-web-works",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Open Source Adventures: Episode 18: Imba 2",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-18-imba-2",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Securing API using Request Signing (implementing HMAC in NodeJs",
+    "link": "https://blog.malkit.pro/request-signing-using-hmac-in-nodejs",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Belajar Web Programming : Hari Ke - 1",
+    "link": "https://bahrulrozak.hashnode.dev/belajar-web-programming-hari-ke-1",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Seamless Stripe QR Checkout with Hasura as Backend API",
+    "link": "https://coolhead.in/seamless-stripe-qr-checkout-with-hasura-as-backend-api",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My first-ever blog launch!",
+    "link": "https://devsunny.hashnode.dev/my-first-ever-blog-launch",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React source code visible 😲",
+    "link": "https://dhanushxeno.hashnode.dev/react-source-code-visible",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Absolute path in react js",
+    "link": "https://dynamicprogrammer.hashnode.dev/absolute-path-in-react-js",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Are you using map, forEach, and reduce wrong?",
+    "link": "https://antman-does-software.com/are-you-using-map-foreach-and-reduce-wrong",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://blog.ahmedessamsalem.com/binary-search",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Using Web Components today",
+    "link": "https://divided-by-zero.dev/using-web-components-today",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Top 500 Interview Questions",
+    "link": "https://jscoders.hashnode.dev/javascript-top-500-interview-questions",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How the Web works",
+    "link": "https://victoriaomeire.hashnode.dev/how-the-web-works",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Open Source Adventures: Episode 18: Imba 2",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-18-imba-2",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Securing API using Request Signing (implementing HMAC in NodeJs",
+    "link": "https://blog.malkit.pro/request-signing-using-hmac-in-nodejs",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Belajar Web Programming : Hari Ke - 1",
+    "link": "https://bahrulrozak.hashnode.dev/belajar-web-programming-hari-ke-1",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Seamless Stripe QR Checkout with Hasura as Backend API",
+    "link": "https://coolhead.in/seamless-stripe-qr-checkout-with-hasura-as-backend-api",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My first-ever blog launch!",
+    "link": "https://devsunny.hashnode.dev/my-first-ever-blog-launch",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React source code visible 😲",
+    "link": "https://dhanushxeno.hashnode.dev/react-source-code-visible",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Absolute path in react js",
+    "link": "https://dynamicprogrammer.hashnode.dev/absolute-path-in-react-js",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Are you using map, forEach, and reduce wrong?",
+    "link": "https://antman-does-software.com/are-you-using-map-foreach-and-reduce-wrong",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://blog.ahmedessamsalem.com/binary-search",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Using Web Components today",
+    "link": "https://divided-by-zero.dev/using-web-components-today",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Top 500 Interview Questions",
+    "link": "https://jscoders.hashnode.dev/javascript-top-500-interview-questions",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How the Web works",
+    "link": "https://victoriaomeire.hashnode.dev/how-the-web-works",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Open Source Adventures: Episode 18: Imba 2",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-18-imba-2",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Securing API using Request Signing (implementing HMAC in NodeJs",
+    "link": "https://blog.malkit.pro/request-signing-using-hmac-in-nodejs",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Belajar Web Programming : Hari Ke - 1",
+    "link": "https://bahrulrozak.hashnode.dev/belajar-web-programming-hari-ke-1",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Seamless Stripe QR Checkout with Hasura as Backend API",
+    "link": "https://coolhead.in/seamless-stripe-qr-checkout-with-hasura-as-backend-api",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My first-ever blog launch!",
+    "link": "https://devsunny.hashnode.dev/my-first-ever-blog-launch",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React source code visible 😲",
+    "link": "https://dhanushxeno.hashnode.dev/react-source-code-visible",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Absolute path in react js",
+    "link": "https://dynamicprogrammer.hashnode.dev/absolute-path-in-react-js",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Are you using map, forEach, and reduce wrong?",
+    "link": "https://antman-does-software.com/are-you-using-map-foreach-and-reduce-wrong",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://blog.ahmedessamsalem.com/binary-search",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Using Web Components today",
+    "link": "https://divided-by-zero.dev/using-web-components-today",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Top 500 Interview Questions",
+    "link": "https://jscoders.hashnode.dev/javascript-top-500-interview-questions",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How the Web works",
+    "link": "https://victoriaomeire.hashnode.dev/how-the-web-works",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Open Source Adventures: Episode 18: Imba 2",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-18-imba-2",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Securing API using Request Signing (implementing HMAC in NodeJs",
+    "link": "https://blog.malkit.pro/request-signing-using-hmac-in-nodejs",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Belajar Web Programming : Hari Ke - 1",
+    "link": "https://bahrulrozak.hashnode.dev/belajar-web-programming-hari-ke-1",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Seamless Stripe QR Checkout with Hasura as Backend API",
+    "link": "https://coolhead.in/seamless-stripe-qr-checkout-with-hasura-as-backend-api",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My first-ever blog launch!",
+    "link": "https://devsunny.hashnode.dev/my-first-ever-blog-launch",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React source code visible 😲",
+    "link": "https://dhanushxeno.hashnode.dev/react-source-code-visible",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Absolute path in react js",
+    "link": "https://dynamicprogrammer.hashnode.dev/absolute-path-in-react-js",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Are you using map, forEach, and reduce wrong?",
+    "link": "https://antman-does-software.com/are-you-using-map-foreach-and-reduce-wrong",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://blog.ahmedessamsalem.com/binary-search",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Using Web Components today",
+    "link": "https://divided-by-zero.dev/using-web-components-today",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Top 500 Interview Questions",
+    "link": "https://jscoders.hashnode.dev/javascript-top-500-interview-questions",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How the Web works",
+    "link": "https://victoriaomeire.hashnode.dev/how-the-web-works",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Open Source Adventures: Episode 18: Imba 2",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-18-imba-2",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Securing API using Request Signing (implementing HMAC in NodeJs",
+    "link": "https://blog.malkit.pro/request-signing-using-hmac-in-nodejs",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Belajar Web Programming : Hari Ke - 1",
+    "link": "https://bahrulrozak.hashnode.dev/belajar-web-programming-hari-ke-1",
+    "date": "3/20/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "My journey into coding...",
+    "link": "https://zonamoon.hashnode.dev/my-journey-into-coding",
     "date": "3/19/2022",
     "site": "hashnode"
   },
@@ -510,74 +852,8 @@
     "site": "hashnode"
   },
   {
-    "title": "Regex Method Madness",
-    "link": "https://cbats1545.hashnode.dev/regex-method-madness",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Inline, Embedded or External CSS",
-    "link": "https://estherchris.hashnode.dev/inline-embedded-or-external-css",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Procedural, OOP, and Functional Programming",
-    "link": "https://sammychris.hashnode.dev/procedural-oop-and-functional-programming",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pure function in Javascript",
-    "link": "https://sammychris.hashnode.dev/pure-function-in-javascript",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Functions, Callback, and Anonymous Function in JavaScript",
-    "link": "https://sammychris.hashnode.dev/functions-callback-and-anonymous-function-in-javascript",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Presentational And Container Component With React",
-    "link": "https://sammychris.hashnode.dev/presentational-and-container-component-with-react",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Closures, First-class Functions, and Higher-Order Function.",
-    "link": "https://sammychris.hashnode.dev/closures-first-class-functions-and-higher-order-function",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My Introduction 👋",
-    "link": "https://timjdev.hashnode.dev/my-introduction",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to understand complex coding concepts better using the Feynman Technique",
-    "link": "https://cesscode.hashnode.dev/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "First Official Blog",
-    "link": "https://shreyashbuilds.hashnode.dev/first-official-blog",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Study Notes: Design Patterns",
-    "link": "https://theodorusandi.hashnode.dev/study-notes-design-patterns",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 13 of 100 Days of Code",
-    "link": "https://nkem.hashnode.dev/day-13-of-100-days-of-code",
+    "title": "My journey into coding...",
+    "link": "https://zonamoon.hashnode.dev/my-journey-into-coding",
     "date": "3/19/2022",
     "site": "hashnode"
   },
@@ -588,284 +864,8 @@
     "site": "hashnode"
   },
   {
-    "title": "Regex Method Madness",
-    "link": "https://cbats1545.hashnode.dev/regex-method-madness",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Inline, Embedded or External CSS",
-    "link": "https://estherchris.hashnode.dev/inline-embedded-or-external-css",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Procedural, OOP, and Functional Programming",
-    "link": "https://sammychris.hashnode.dev/procedural-oop-and-functional-programming",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pure function in Javascript",
-    "link": "https://sammychris.hashnode.dev/pure-function-in-javascript",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Functions, Callback, and Anonymous Function in JavaScript",
-    "link": "https://sammychris.hashnode.dev/functions-callback-and-anonymous-function-in-javascript",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Presentational And Container Component With React",
-    "link": "https://sammychris.hashnode.dev/presentational-and-container-component-with-react",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Closures, First-class Functions, and Higher-Order Function.",
-    "link": "https://sammychris.hashnode.dev/closures-first-class-functions-and-higher-order-function",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My Introduction 👋",
-    "link": "https://timjdev.hashnode.dev/my-introduction",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to understand complex coding concepts better using the Feynman Technique",
-    "link": "https://cesscode.hashnode.dev/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "First Official Blog",
-    "link": "https://shreyashbuilds.hashnode.dev/first-official-blog",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Study Notes: Design Patterns",
-    "link": "https://theodorusandi.hashnode.dev/study-notes-design-patterns",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 13 of 100 Days of Code",
-    "link": "https://nkem.hashnode.dev/day-13-of-100-days-of-code",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
     "title": "My journey into coding...",
     "link": "https://zonamoon.hashnode.dev/my-journey-into-coding",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Regex Method Madness",
-    "link": "https://cbats1545.hashnode.dev/regex-method-madness",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Inline, Embedded or External CSS",
-    "link": "https://estherchris.hashnode.dev/inline-embedded-or-external-css",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Procedural, OOP, and Functional Programming",
-    "link": "https://sammychris.hashnode.dev/procedural-oop-and-functional-programming",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pure function in Javascript",
-    "link": "https://sammychris.hashnode.dev/pure-function-in-javascript",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Functions, Callback, and Anonymous Function in JavaScript",
-    "link": "https://sammychris.hashnode.dev/functions-callback-and-anonymous-function-in-javascript",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Presentational And Container Component With React",
-    "link": "https://sammychris.hashnode.dev/presentational-and-container-component-with-react",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Closures, First-class Functions, and Higher-Order Function.",
-    "link": "https://sammychris.hashnode.dev/closures-first-class-functions-and-higher-order-function",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My Introduction 👋",
-    "link": "https://timjdev.hashnode.dev/my-introduction",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to understand complex coding concepts better using the Feynman Technique",
-    "link": "https://cesscode.hashnode.dev/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "First Official Blog",
-    "link": "https://shreyashbuilds.hashnode.dev/first-official-blog",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Study Notes: Design Patterns",
-    "link": "https://theodorusandi.hashnode.dev/study-notes-design-patterns",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 13 of 100 Days of Code",
-    "link": "https://nkem.hashnode.dev/day-13-of-100-days-of-code",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My journey into coding...",
-    "link": "https://zonamoon.hashnode.dev/my-journey-into-coding",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Regex Method Madness",
-    "link": "https://cbats1545.hashnode.dev/regex-method-madness",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Inline, Embedded or External CSS",
-    "link": "https://estherchris.hashnode.dev/inline-embedded-or-external-css",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Procedural, OOP, and Functional Programming",
-    "link": "https://sammychris.hashnode.dev/procedural-oop-and-functional-programming",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pure function in Javascript",
-    "link": "https://sammychris.hashnode.dev/pure-function-in-javascript",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Functions, Callback, and Anonymous Function in JavaScript",
-    "link": "https://sammychris.hashnode.dev/functions-callback-and-anonymous-function-in-javascript",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Presentational And Container Component With React",
-    "link": "https://sammychris.hashnode.dev/presentational-and-container-component-with-react",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Closures, First-class Functions, and Higher-Order Function.",
-    "link": "https://sammychris.hashnode.dev/closures-first-class-functions-and-higher-order-function",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My Introduction 👋",
-    "link": "https://timjdev.hashnode.dev/my-introduction",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to understand complex coding concepts better using the Feynman Technique",
-    "link": "https://cesscode.hashnode.dev/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "First Official Blog",
-    "link": "https://shreyashbuilds.hashnode.dev/first-official-blog",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Study Notes: Design Patterns",
-    "link": "https://theodorusandi.hashnode.dev/study-notes-design-patterns",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Day 13 of 100 Days of Code",
-    "link": "https://nkem.hashnode.dev/day-13-of-100-days-of-code",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My journey into coding...",
-    "link": "https://zonamoon.hashnode.dev/my-journey-into-coding",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Regex Method Madness",
-    "link": "https://cbats1545.hashnode.dev/regex-method-madness",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Inline, Embedded or External CSS",
-    "link": "https://estherchris.hashnode.dev/inline-embedded-or-external-css",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Procedural, OOP, and Functional Programming",
-    "link": "https://sammychris.hashnode.dev/procedural-oop-and-functional-programming",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pure function in Javascript",
-    "link": "https://sammychris.hashnode.dev/pure-function-in-javascript",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Functions, Callback, and Anonymous Function in JavaScript",
-    "link": "https://sammychris.hashnode.dev/functions-callback-and-anonymous-function-in-javascript",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Presentational And Container Component With React",
-    "link": "https://sammychris.hashnode.dev/presentational-and-container-component-with-react",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Closures, First-class Functions, and Higher-Order Function.",
-    "link": "https://sammychris.hashnode.dev/closures-first-class-functions-and-higher-order-function",
-    "date": "3/19/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My Introduction 👋",
-    "link": "https://timjdev.hashnode.dev/my-introduction",
     "date": "3/19/2022",
     "site": "hashnode"
   },
@@ -875,36 +875,6 @@
     "reading_time": "30 min read",
     "date": "3/18/2022",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "Learn Framer Motion with React",
-    "link": "https://petecapecod.hashnode.dev/learn-framer-motion-with-react",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn Framer Motion with React",
-    "link": "https://petecapecod.hashnode.dev/learn-framer-motion-with-react",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn Framer Motion with React",
-    "link": "https://petecapecod.hashnode.dev/learn-framer-motion-with-react",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn Framer Motion with React",
-    "link": "https://petecapecod.hashnode.dev/learn-framer-motion-with-react",
-    "date": "3/18/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn Framer Motion with React",
-    "link": "https://petecapecod.hashnode.dev/learn-framer-motion-with-react",
-    "date": "3/18/2022",
-    "site": "hashnode"
   },
   {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
@@ -926,6 +896,36 @@
     "reading_time": "24 min read",
     "date": "3/2/2022",
     "site": "smashingmagazine"
+  },
+  {
+    "title": "Google Chrome Developer Tools – Part 2",
+    "link": "https://dev.to/bugfenderapp/google-chrome-developer-tools-part-2-2g38",
+    "date": "3/1/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Chrome Developer Tools – Part 2",
+    "link": "https://dev.to/bugfenderapp/google-chrome-developer-tools-part-2-2g38",
+    "date": "3/1/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Chrome Developer Tools – Part 2",
+    "link": "https://dev.to/bugfenderapp/google-chrome-developer-tools-part-2-2g38",
+    "date": "3/1/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Chrome Developer Tools – Part 2",
+    "link": "https://dev.to/bugfenderapp/google-chrome-developer-tools-part-2-2g38",
+    "date": "3/1/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Chrome Developer Tools – Part 2",
+    "link": "https://dev.to/bugfenderapp/google-chrome-developer-tools-part-2-2g38",
+    "date": "3/1/2022",
+    "site": "dev.to"
   },
   {
     "title": "Comparing Node JavaScript to JavaScript in the Browser",
