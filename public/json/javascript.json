@@ -1,117 +1,645 @@
 [
   {
+    "title": "Implementing a Search Bar with a Control to Clear the Input Value using react-hook-form",
+    "link": "https://michaelrjames.hashnode.dev/implementing-a-search-bar-with-a-control-to-clear-the-input-value-using-react-hook-form",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functional Programming : Declarative",
+    "link": "https://dev21.hashnode.dev/functional-programming-declarative",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What's New in Appwrite's Storage",
+    "link": "https://dlohani.hashnode.dev/whats-new-in-appwrites-storage",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "VSCode Extensions I swear by as a Developer in 2022",
+    "link": "https://aditijalaj.hashnode.dev/vscode-extensions-i-swear-by-as-a-developer-in-2022",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React Router: Basics",
+    "link": "https://rajatgupta.net/react-router-basics",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introduction JavaScript code guidelines",
+    "link": "https://dev.to/naftalimurgor/introduction-javascript-code-guidelines-5a8i",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React: Send email from contact form without server code - Email.js Tutorial",
+    "link": "https://dev.to/chaoocharles/react-send-email-from-contact-form-without-server-code-emailjs-tutorial-463j",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Router: Basics",
+    "link": "https://dev.to/therajatg/react-router-basics-gba",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Read the latest news! Integration of Huawei Push Kit in Application using React Native",
+    "link": "https://dev.to/hmscommunity/read-the-latest-news-integration-of-huawei-push-kit-in-application-using-react-native-538",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create tables in Console DevTools",
+    "link": "https://dev.to/heybaldur/how-to-create-tables-in-console-devtools-46g5",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "eCommerce expert",
+    "link": "https://dev.to/ashishchaubeys/ecommerce-expert-4l9j",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ajax Search Data in PHP & MySQL using jQuery",
+    "link": "https://dev.to/codeanddeploy/ajax-search-data-in-php-mysql-using-jquery-end",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "3 Method To Get Selected Radio Button Value in jQuery",
+    "link": "https://dev.to/codeanddeploy/3-method-to-get-selected-radio-button-value-in-jquery-3imb",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Check Empty, Null, and Undefined Variables in Javascript / jQuery?",
+    "link": "https://dev.to/codeanddeploy/how-to-check-empty-null-and-undefined-variables-in-javascript-jquery-5agl",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Submit Multiple Checkbox Value to PHP using jQuery & Ajax",
+    "link": "https://dev.to/codeanddeploy/how-to-submit-multiple-checkbox-value-to-php-using-jquery-ajax-4cg6",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Import SVGs as React Components | Tutorial by DevDone",
+    "link": "https://dev.to/jodharishi/import-svgs-as-react-components-tutorial-by-devdone-45gm",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Phase 1 Project: Colorado Fourteeners",
+    "link": "https://dev.to/jordantaylorj/phase-1-project-colorado-fourteeners-dni",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your guide to NextJS Internationalization",
+    "link": "https://dev.to/codegino/your-guide-to-nextjs-internationalization-bgf",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging a Node C Addon",
+    "link": "https://dev.to/krowemoh/debugging-a-node-c-addon-3h12",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing a Search Bar with a Control to Clear the Input Value using react-hook-form",
+    "link": "https://michaelrjames.hashnode.dev/implementing-a-search-bar-with-a-control-to-clear-the-input-value-using-react-hook-form",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functional Programming : Declarative",
+    "link": "https://dev21.hashnode.dev/functional-programming-declarative",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What's New in Appwrite's Storage",
+    "link": "https://dlohani.hashnode.dev/whats-new-in-appwrites-storage",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "VSCode Extensions I swear by as a Developer in 2022",
+    "link": "https://aditijalaj.hashnode.dev/vscode-extensions-i-swear-by-as-a-developer-in-2022",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React Router: Basics",
+    "link": "https://rajatgupta.net/react-router-basics",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introduction JavaScript code guidelines",
+    "link": "https://dev.to/naftalimurgor/introduction-javascript-code-guidelines-5a8i",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React: Send email from contact form without server code - Email.js Tutorial",
+    "link": "https://dev.to/chaoocharles/react-send-email-from-contact-form-without-server-code-emailjs-tutorial-463j",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Router: Basics",
+    "link": "https://dev.to/therajatg/react-router-basics-gba",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Read the latest news! Integration of Huawei Push Kit in Application using React Native",
+    "link": "https://dev.to/hmscommunity/read-the-latest-news-integration-of-huawei-push-kit-in-application-using-react-native-538",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create tables in Console DevTools",
+    "link": "https://dev.to/heybaldur/how-to-create-tables-in-console-devtools-46g5",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "eCommerce expert",
+    "link": "https://dev.to/ashishchaubeys/ecommerce-expert-4l9j",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ajax Search Data in PHP & MySQL using jQuery",
+    "link": "https://dev.to/codeanddeploy/ajax-search-data-in-php-mysql-using-jquery-end",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "3 Method To Get Selected Radio Button Value in jQuery",
+    "link": "https://dev.to/codeanddeploy/3-method-to-get-selected-radio-button-value-in-jquery-3imb",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Check Empty, Null, and Undefined Variables in Javascript / jQuery?",
+    "link": "https://dev.to/codeanddeploy/how-to-check-empty-null-and-undefined-variables-in-javascript-jquery-5agl",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Submit Multiple Checkbox Value to PHP using jQuery & Ajax",
+    "link": "https://dev.to/codeanddeploy/how-to-submit-multiple-checkbox-value-to-php-using-jquery-ajax-4cg6",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Import SVGs as React Components | Tutorial by DevDone",
+    "link": "https://dev.to/jodharishi/import-svgs-as-react-components-tutorial-by-devdone-45gm",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Phase 1 Project: Colorado Fourteeners",
+    "link": "https://dev.to/jordantaylorj/phase-1-project-colorado-fourteeners-dni",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your guide to NextJS Internationalization",
+    "link": "https://dev.to/codegino/your-guide-to-nextjs-internationalization-bgf",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging a Node C Addon",
+    "link": "https://dev.to/krowemoh/debugging-a-node-c-addon-3h12",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing a Search Bar with a Control to Clear the Input Value using react-hook-form",
+    "link": "https://michaelrjames.hashnode.dev/implementing-a-search-bar-with-a-control-to-clear-the-input-value-using-react-hook-form",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functional Programming : Declarative",
+    "link": "https://dev21.hashnode.dev/functional-programming-declarative",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What's New in Appwrite's Storage",
+    "link": "https://dlohani.hashnode.dev/whats-new-in-appwrites-storage",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "VSCode Extensions I swear by as a Developer in 2022",
+    "link": "https://aditijalaj.hashnode.dev/vscode-extensions-i-swear-by-as-a-developer-in-2022",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React Router: Basics",
+    "link": "https://rajatgupta.net/react-router-basics",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introduction JavaScript code guidelines",
+    "link": "https://dev.to/naftalimurgor/introduction-javascript-code-guidelines-5a8i",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React: Send email from contact form without server code - Email.js Tutorial",
+    "link": "https://dev.to/chaoocharles/react-send-email-from-contact-form-without-server-code-emailjs-tutorial-463j",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Router: Basics",
+    "link": "https://dev.to/therajatg/react-router-basics-gba",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Read the latest news! Integration of Huawei Push Kit in Application using React Native",
+    "link": "https://dev.to/hmscommunity/read-the-latest-news-integration-of-huawei-push-kit-in-application-using-react-native-538",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create tables in Console DevTools",
+    "link": "https://dev.to/heybaldur/how-to-create-tables-in-console-devtools-46g5",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "eCommerce expert",
+    "link": "https://dev.to/ashishchaubeys/ecommerce-expert-4l9j",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ajax Search Data in PHP & MySQL using jQuery",
+    "link": "https://dev.to/codeanddeploy/ajax-search-data-in-php-mysql-using-jquery-end",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "3 Method To Get Selected Radio Button Value in jQuery",
+    "link": "https://dev.to/codeanddeploy/3-method-to-get-selected-radio-button-value-in-jquery-3imb",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Check Empty, Null, and Undefined Variables in Javascript / jQuery?",
+    "link": "https://dev.to/codeanddeploy/how-to-check-empty-null-and-undefined-variables-in-javascript-jquery-5agl",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Submit Multiple Checkbox Value to PHP using jQuery & Ajax",
+    "link": "https://dev.to/codeanddeploy/how-to-submit-multiple-checkbox-value-to-php-using-jquery-ajax-4cg6",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Import SVGs as React Components | Tutorial by DevDone",
+    "link": "https://dev.to/jodharishi/import-svgs-as-react-components-tutorial-by-devdone-45gm",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Phase 1 Project: Colorado Fourteeners",
+    "link": "https://dev.to/jordantaylorj/phase-1-project-colorado-fourteeners-dni",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your guide to NextJS Internationalization",
+    "link": "https://dev.to/codegino/your-guide-to-nextjs-internationalization-bgf",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging a Node C Addon",
+    "link": "https://dev.to/krowemoh/debugging-a-node-c-addon-3h12",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing a Search Bar with a Control to Clear the Input Value using react-hook-form",
+    "link": "https://michaelrjames.hashnode.dev/implementing-a-search-bar-with-a-control-to-clear-the-input-value-using-react-hook-form",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functional Programming : Declarative",
+    "link": "https://dev21.hashnode.dev/functional-programming-declarative",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What's New in Appwrite's Storage",
+    "link": "https://dlohani.hashnode.dev/whats-new-in-appwrites-storage",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "VSCode Extensions I swear by as a Developer in 2022",
+    "link": "https://aditijalaj.hashnode.dev/vscode-extensions-i-swear-by-as-a-developer-in-2022",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React Router: Basics",
+    "link": "https://rajatgupta.net/react-router-basics",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introduction JavaScript code guidelines",
+    "link": "https://dev.to/naftalimurgor/introduction-javascript-code-guidelines-5a8i",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React: Send email from contact form without server code - Email.js Tutorial",
+    "link": "https://dev.to/chaoocharles/react-send-email-from-contact-form-without-server-code-emailjs-tutorial-463j",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Router: Basics",
+    "link": "https://dev.to/therajatg/react-router-basics-gba",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Read the latest news! Integration of Huawei Push Kit in Application using React Native",
+    "link": "https://dev.to/hmscommunity/read-the-latest-news-integration-of-huawei-push-kit-in-application-using-react-native-538",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create tables in Console DevTools",
+    "link": "https://dev.to/heybaldur/how-to-create-tables-in-console-devtools-46g5",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "eCommerce expert",
+    "link": "https://dev.to/ashishchaubeys/ecommerce-expert-4l9j",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ajax Search Data in PHP & MySQL using jQuery",
+    "link": "https://dev.to/codeanddeploy/ajax-search-data-in-php-mysql-using-jquery-end",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "3 Method To Get Selected Radio Button Value in jQuery",
+    "link": "https://dev.to/codeanddeploy/3-method-to-get-selected-radio-button-value-in-jquery-3imb",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Check Empty, Null, and Undefined Variables in Javascript / jQuery?",
+    "link": "https://dev.to/codeanddeploy/how-to-check-empty-null-and-undefined-variables-in-javascript-jquery-5agl",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Submit Multiple Checkbox Value to PHP using jQuery & Ajax",
+    "link": "https://dev.to/codeanddeploy/how-to-submit-multiple-checkbox-value-to-php-using-jquery-ajax-4cg6",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Import SVGs as React Components | Tutorial by DevDone",
+    "link": "https://dev.to/jodharishi/import-svgs-as-react-components-tutorial-by-devdone-45gm",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Phase 1 Project: Colorado Fourteeners",
+    "link": "https://dev.to/jordantaylorj/phase-1-project-colorado-fourteeners-dni",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your guide to NextJS Internationalization",
+    "link": "https://dev.to/codegino/your-guide-to-nextjs-internationalization-bgf",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging a Node C Addon",
+    "link": "https://dev.to/krowemoh/debugging-a-node-c-addon-3h12",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing a Search Bar with a Control to Clear the Input Value using react-hook-form",
+    "link": "https://michaelrjames.hashnode.dev/implementing-a-search-bar-with-a-control-to-clear-the-input-value-using-react-hook-form",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functional Programming : Declarative",
+    "link": "https://dev21.hashnode.dev/functional-programming-declarative",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What's New in Appwrite's Storage",
+    "link": "https://dlohani.hashnode.dev/whats-new-in-appwrites-storage",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "VSCode Extensions I swear by as a Developer in 2022",
+    "link": "https://aditijalaj.hashnode.dev/vscode-extensions-i-swear-by-as-a-developer-in-2022",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React Router: Basics",
+    "link": "https://rajatgupta.net/react-router-basics",
+    "date": "3/23/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introduction JavaScript code guidelines",
+    "link": "https://dev.to/naftalimurgor/introduction-javascript-code-guidelines-5a8i",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React: Send email from contact form without server code - Email.js Tutorial",
+    "link": "https://dev.to/chaoocharles/react-send-email-from-contact-form-without-server-code-emailjs-tutorial-463j",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Router: Basics",
+    "link": "https://dev.to/therajatg/react-router-basics-gba",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Read the latest news! Integration of Huawei Push Kit in Application using React Native",
+    "link": "https://dev.to/hmscommunity/read-the-latest-news-integration-of-huawei-push-kit-in-application-using-react-native-538",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create tables in Console DevTools",
+    "link": "https://dev.to/heybaldur/how-to-create-tables-in-console-devtools-46g5",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "eCommerce expert",
+    "link": "https://dev.to/ashishchaubeys/ecommerce-expert-4l9j",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ajax Search Data in PHP & MySQL using jQuery",
+    "link": "https://dev.to/codeanddeploy/ajax-search-data-in-php-mysql-using-jquery-end",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "3 Method To Get Selected Radio Button Value in jQuery",
+    "link": "https://dev.to/codeanddeploy/3-method-to-get-selected-radio-button-value-in-jquery-3imb",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Check Empty, Null, and Undefined Variables in Javascript / jQuery?",
+    "link": "https://dev.to/codeanddeploy/how-to-check-empty-null-and-undefined-variables-in-javascript-jquery-5agl",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Submit Multiple Checkbox Value to PHP using jQuery & Ajax",
+    "link": "https://dev.to/codeanddeploy/how-to-submit-multiple-checkbox-value-to-php-using-jquery-ajax-4cg6",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Import SVGs as React Components | Tutorial by DevDone",
+    "link": "https://dev.to/jodharishi/import-svgs-as-react-components-tutorial-by-devdone-45gm",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Phase 1 Project: Colorado Fourteeners",
+    "link": "https://dev.to/jordantaylorj/phase-1-project-colorado-fourteeners-dni",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your guide to NextJS Internationalization",
+    "link": "https://dev.to/codegino/your-guide-to-nextjs-internationalization-bgf",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging a Node C Addon",
+    "link": "https://dev.to/krowemoh/debugging-a-node-c-addon-3h12",
+    "date": "3/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Best JavaScript Code Editors in 2022 - In-depth Review",
+    "link": "https://toolbox.hashnode.com/5-best-javascript-code-editors",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "React useEffect Hook usages you must know",
     "link": "https://blog.greenroots.info/react-useeffect-hook-usages-you-must-know",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "SEO in Angular with SSR - Part I",
-    "link": "https://elmota.com/seo-in-angular-with-ssr-part-i",
+    "title": "Bypassing Captchas like a pro using 2Captcha",
+    "link": "https://devwriteups.com/bypassing-captchas-like-a-pro-using-2captcha",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Writing unit testing using react-testing-library 🐐",
-    "link": "https://itsvishak.hashnode.dev/writing-unit-testing-using-react-testing-library",
+    "title": "How to Integrate Your Open Source Ecommerce Store with Slack",
+    "link": "https://medusajs.hashnode.dev/how-to-integrate-your-open-source-ecommerce-store-with-slack",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Angular vs React vs Vue – The Right Framework For You",
-    "link": "https://architprajapati.hashnode.dev/angular-vs-react-vs-vue-the-right-framework-for-you",
+    "title": "🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!",
+    "link": "https://blog.usman-s.me/sort-imports-using-prettier-in-a-javascript-project-inside-vs-code",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript concepts you need to know in order to get started with React 2022",
-    "link": "https://blog.braincuber.com/javascript-concepts-you-need-to-know-in-order-to-get-started-with-react",
+    "title": "How to use HarperDB custom functions to build your entire backend",
+    "link": "https://andrewbaisden.hashnode.dev/how-to-use-harperdb-custom-functions-to-build-your-entire-backend",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Compiling vs Transpiling",
-    "link": "https://rushikeshchougule.hashnode.dev/compiling-vs-transpiling",
+    "title": "Data Types and variables in Javascript",
+    "link": "https://dev.vengalath.com/data-types-and-variables-in-javascript",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best PG in Bengaluru for students or Job Seeker #top10Bengalurupg",
-    "link": "https://dev.to/code_leads/best-pg-in-bengaluru-for-students-or-job-seeker-top10bengalurupg-1k5a",
+    "title": "JavaScript Tutorial: Build a Custom Color Palette App [Part Two]",
+    "link": "https://lordsamdev.hashnode.dev/javascript-tutorial-build-a-custom-color-palette-app-part-two",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Belajar Web Programming : Hari Ke - 2",
+    "link": "https://bahrulrozak.hashnode.dev/belajar-web-programming-hari-ke-2",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Serverless Way to Modernize Applications",
+    "link": "https://catalystbyzoho.hashnode.dev/the-serverless-way-to-modernize-applications",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Your SSR is slow & your devtools are lying to you",
+    "link": "https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056",
     "date": "3/22/2022",
     "site": "dev.to"
   },
   {
-    "title": "SEO in Angular with SSR - Part I",
-    "link": "https://dev.to/ayyash/seo-in-angular-with-ssr-part-i-55fa",
+    "title": "5 Best JavaScript Code Editors in 2022 - In-depth Review",
+    "link": "https://toolbox.hashnode.com/5-best-javascript-code-editors",
     "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lean Start Keto - Is It Scam Or Legit & Real Results, Ingredients",
-    "link": "https://dev.to/leanstartketoi1/lean-start-keto-is-it-scam-or-legit-real-results-ingredients-1691",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Function context in JavaScript",
-    "link": "https://dev.to/princekizhthara/function-context-in-javascript-1aok",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular vs React vs Vue – The Right Framework For You",
-    "link": "https://dev.to/architprajapati/angular-vs-react-vs-vue-the-right-framework-for-you-4e8g",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sanitize Input using PHP",
-    "link": "https://dev.to/codeanddeploy/sanitize-input-using-php-1pa6",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The First Few Lines",
-    "link": "https://dev.to/jojocoding/the-first-few-lines-193m",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check If Email Address Is Already Exists in The Database",
-    "link": "https://dev.to/codeanddeploy/check-if-email-address-is-already-exists-in-the-database-4jf7",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#39 - Two Sum CodeWars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/39-two-sum-codewars-kata-6-kyu-gef",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hire ReactJs Developers in 2022",
-    "link": "https://dev.to/yashexternlabs/hire-reactjs-developers-in-2022-4i0f",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The JavaScript Skills You Need For React",
-    "link": "https://dev.to/sananayab/the-javascript-skills-you-need-for-react-4can",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple Dynamic Form Validation Function Using PHP",
-    "link": "https://dev.to/codeanddeploy/simple-dynamic-form-validation-function-using-php-3fe2",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Interview Question #2 (Accidental Global Variable)",
-    "link": "https://dev.to/learndaily1/js-interview-question-2-accidental-global-variable-4fjb",
-    "date": "3/22/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "React useEffect Hook usages you must know",
@@ -120,112 +648,64 @@
     "site": "hashnode"
   },
   {
-    "title": "SEO in Angular with SSR - Part I",
-    "link": "https://elmota.com/seo-in-angular-with-ssr-part-i",
+    "title": "Bypassing Captchas like a pro using 2Captcha",
+    "link": "https://devwriteups.com/bypassing-captchas-like-a-pro-using-2captcha",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Writing unit testing using react-testing-library 🐐",
-    "link": "https://itsvishak.hashnode.dev/writing-unit-testing-using-react-testing-library",
+    "title": "How to Integrate Your Open Source Ecommerce Store with Slack",
+    "link": "https://medusajs.hashnode.dev/how-to-integrate-your-open-source-ecommerce-store-with-slack",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Angular vs React vs Vue – The Right Framework For You",
-    "link": "https://architprajapati.hashnode.dev/angular-vs-react-vs-vue-the-right-framework-for-you",
+    "title": "🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!",
+    "link": "https://blog.usman-s.me/sort-imports-using-prettier-in-a-javascript-project-inside-vs-code",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript concepts you need to know in order to get started with React 2022",
-    "link": "https://blog.braincuber.com/javascript-concepts-you-need-to-know-in-order-to-get-started-with-react",
+    "title": "How to use HarperDB custom functions to build your entire backend",
+    "link": "https://andrewbaisden.hashnode.dev/how-to-use-harperdb-custom-functions-to-build-your-entire-backend",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Compiling vs Transpiling",
-    "link": "https://rushikeshchougule.hashnode.dev/compiling-vs-transpiling",
+    "title": "Data Types and variables in Javascript",
+    "link": "https://dev.vengalath.com/data-types-and-variables-in-javascript",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best PG in Bengaluru for students or Job Seeker #top10Bengalurupg",
-    "link": "https://dev.to/code_leads/best-pg-in-bengaluru-for-students-or-job-seeker-top10bengalurupg-1k5a",
+    "title": "JavaScript Tutorial: Build a Custom Color Palette App [Part Two]",
+    "link": "https://lordsamdev.hashnode.dev/javascript-tutorial-build-a-custom-color-palette-app-part-two",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Belajar Web Programming : Hari Ke - 2",
+    "link": "https://bahrulrozak.hashnode.dev/belajar-web-programming-hari-ke-2",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Serverless Way to Modernize Applications",
+    "link": "https://catalystbyzoho.hashnode.dev/the-serverless-way-to-modernize-applications",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Your SSR is slow & your devtools are lying to you",
+    "link": "https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056",
     "date": "3/22/2022",
     "site": "dev.to"
   },
   {
-    "title": "SEO in Angular with SSR - Part I",
-    "link": "https://dev.to/ayyash/seo-in-angular-with-ssr-part-i-55fa",
+    "title": "5 Best JavaScript Code Editors in 2022 - In-depth Review",
+    "link": "https://toolbox.hashnode.com/5-best-javascript-code-editors",
     "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lean Start Keto - Is It Scam Or Legit & Real Results, Ingredients",
-    "link": "https://dev.to/leanstartketoi1/lean-start-keto-is-it-scam-or-legit-real-results-ingredients-1691",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Function context in JavaScript",
-    "link": "https://dev.to/princekizhthara/function-context-in-javascript-1aok",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular vs React vs Vue – The Right Framework For You",
-    "link": "https://dev.to/architprajapati/angular-vs-react-vs-vue-the-right-framework-for-you-4e8g",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sanitize Input using PHP",
-    "link": "https://dev.to/codeanddeploy/sanitize-input-using-php-1pa6",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The First Few Lines",
-    "link": "https://dev.to/jojocoding/the-first-few-lines-193m",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check If Email Address Is Already Exists in The Database",
-    "link": "https://dev.to/codeanddeploy/check-if-email-address-is-already-exists-in-the-database-4jf7",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#39 - Two Sum CodeWars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/39-two-sum-codewars-kata-6-kyu-gef",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hire ReactJs Developers in 2022",
-    "link": "https://dev.to/yashexternlabs/hire-reactjs-developers-in-2022-4i0f",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The JavaScript Skills You Need For React",
-    "link": "https://dev.to/sananayab/the-javascript-skills-you-need-for-react-4can",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple Dynamic Form Validation Function Using PHP",
-    "link": "https://dev.to/codeanddeploy/simple-dynamic-form-validation-function-using-php-3fe2",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Interview Question #2 (Accidental Global Variable)",
-    "link": "https://dev.to/learndaily1/js-interview-question-2-accidental-global-variable-4fjb",
-    "date": "3/22/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "React useEffect Hook usages you must know",
@@ -234,112 +714,64 @@
     "site": "hashnode"
   },
   {
-    "title": "SEO in Angular with SSR - Part I",
-    "link": "https://elmota.com/seo-in-angular-with-ssr-part-i",
+    "title": "Bypassing Captchas like a pro using 2Captcha",
+    "link": "https://devwriteups.com/bypassing-captchas-like-a-pro-using-2captcha",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Writing unit testing using react-testing-library 🐐",
-    "link": "https://itsvishak.hashnode.dev/writing-unit-testing-using-react-testing-library",
+    "title": "How to Integrate Your Open Source Ecommerce Store with Slack",
+    "link": "https://medusajs.hashnode.dev/how-to-integrate-your-open-source-ecommerce-store-with-slack",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Angular vs React vs Vue – The Right Framework For You",
-    "link": "https://architprajapati.hashnode.dev/angular-vs-react-vs-vue-the-right-framework-for-you",
+    "title": "🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!",
+    "link": "https://blog.usman-s.me/sort-imports-using-prettier-in-a-javascript-project-inside-vs-code",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript concepts you need to know in order to get started with React 2022",
-    "link": "https://blog.braincuber.com/javascript-concepts-you-need-to-know-in-order-to-get-started-with-react",
+    "title": "How to use HarperDB custom functions to build your entire backend",
+    "link": "https://andrewbaisden.hashnode.dev/how-to-use-harperdb-custom-functions-to-build-your-entire-backend",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Compiling vs Transpiling",
-    "link": "https://rushikeshchougule.hashnode.dev/compiling-vs-transpiling",
+    "title": "Data Types and variables in Javascript",
+    "link": "https://dev.vengalath.com/data-types-and-variables-in-javascript",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best PG in Bengaluru for students or Job Seeker #top10Bengalurupg",
-    "link": "https://dev.to/code_leads/best-pg-in-bengaluru-for-students-or-job-seeker-top10bengalurupg-1k5a",
+    "title": "JavaScript Tutorial: Build a Custom Color Palette App [Part Two]",
+    "link": "https://lordsamdev.hashnode.dev/javascript-tutorial-build-a-custom-color-palette-app-part-two",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Belajar Web Programming : Hari Ke - 2",
+    "link": "https://bahrulrozak.hashnode.dev/belajar-web-programming-hari-ke-2",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Serverless Way to Modernize Applications",
+    "link": "https://catalystbyzoho.hashnode.dev/the-serverless-way-to-modernize-applications",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Your SSR is slow & your devtools are lying to you",
+    "link": "https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056",
     "date": "3/22/2022",
     "site": "dev.to"
   },
   {
-    "title": "SEO in Angular with SSR - Part I",
-    "link": "https://dev.to/ayyash/seo-in-angular-with-ssr-part-i-55fa",
+    "title": "5 Best JavaScript Code Editors in 2022 - In-depth Review",
+    "link": "https://toolbox.hashnode.com/5-best-javascript-code-editors",
     "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lean Start Keto - Is It Scam Or Legit & Real Results, Ingredients",
-    "link": "https://dev.to/leanstartketoi1/lean-start-keto-is-it-scam-or-legit-real-results-ingredients-1691",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Function context in JavaScript",
-    "link": "https://dev.to/princekizhthara/function-context-in-javascript-1aok",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular vs React vs Vue – The Right Framework For You",
-    "link": "https://dev.to/architprajapati/angular-vs-react-vs-vue-the-right-framework-for-you-4e8g",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sanitize Input using PHP",
-    "link": "https://dev.to/codeanddeploy/sanitize-input-using-php-1pa6",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The First Few Lines",
-    "link": "https://dev.to/jojocoding/the-first-few-lines-193m",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check If Email Address Is Already Exists in The Database",
-    "link": "https://dev.to/codeanddeploy/check-if-email-address-is-already-exists-in-the-database-4jf7",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#39 - Two Sum CodeWars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/39-two-sum-codewars-kata-6-kyu-gef",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hire ReactJs Developers in 2022",
-    "link": "https://dev.to/yashexternlabs/hire-reactjs-developers-in-2022-4i0f",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The JavaScript Skills You Need For React",
-    "link": "https://dev.to/sananayab/the-javascript-skills-you-need-for-react-4can",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple Dynamic Form Validation Function Using PHP",
-    "link": "https://dev.to/codeanddeploy/simple-dynamic-form-validation-function-using-php-3fe2",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Interview Question #2 (Accidental Global Variable)",
-    "link": "https://dev.to/learndaily1/js-interview-question-2-accidental-global-variable-4fjb",
-    "date": "3/22/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "React useEffect Hook usages you must know",
@@ -348,112 +780,64 @@
     "site": "hashnode"
   },
   {
-    "title": "SEO in Angular with SSR - Part I",
-    "link": "https://elmota.com/seo-in-angular-with-ssr-part-i",
+    "title": "Bypassing Captchas like a pro using 2Captcha",
+    "link": "https://devwriteups.com/bypassing-captchas-like-a-pro-using-2captcha",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Writing unit testing using react-testing-library 🐐",
-    "link": "https://itsvishak.hashnode.dev/writing-unit-testing-using-react-testing-library",
+    "title": "How to Integrate Your Open Source Ecommerce Store with Slack",
+    "link": "https://medusajs.hashnode.dev/how-to-integrate-your-open-source-ecommerce-store-with-slack",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Angular vs React vs Vue – The Right Framework For You",
-    "link": "https://architprajapati.hashnode.dev/angular-vs-react-vs-vue-the-right-framework-for-you",
+    "title": "🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!",
+    "link": "https://blog.usman-s.me/sort-imports-using-prettier-in-a-javascript-project-inside-vs-code",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript concepts you need to know in order to get started with React 2022",
-    "link": "https://blog.braincuber.com/javascript-concepts-you-need-to-know-in-order-to-get-started-with-react",
+    "title": "How to use HarperDB custom functions to build your entire backend",
+    "link": "https://andrewbaisden.hashnode.dev/how-to-use-harperdb-custom-functions-to-build-your-entire-backend",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Compiling vs Transpiling",
-    "link": "https://rushikeshchougule.hashnode.dev/compiling-vs-transpiling",
+    "title": "Data Types and variables in Javascript",
+    "link": "https://dev.vengalath.com/data-types-and-variables-in-javascript",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best PG in Bengaluru for students or Job Seeker #top10Bengalurupg",
-    "link": "https://dev.to/code_leads/best-pg-in-bengaluru-for-students-or-job-seeker-top10bengalurupg-1k5a",
+    "title": "JavaScript Tutorial: Build a Custom Color Palette App [Part Two]",
+    "link": "https://lordsamdev.hashnode.dev/javascript-tutorial-build-a-custom-color-palette-app-part-two",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Belajar Web Programming : Hari Ke - 2",
+    "link": "https://bahrulrozak.hashnode.dev/belajar-web-programming-hari-ke-2",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Serverless Way to Modernize Applications",
+    "link": "https://catalystbyzoho.hashnode.dev/the-serverless-way-to-modernize-applications",
+    "date": "3/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Your SSR is slow & your devtools are lying to you",
+    "link": "https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056",
     "date": "3/22/2022",
     "site": "dev.to"
   },
   {
-    "title": "SEO in Angular with SSR - Part I",
-    "link": "https://dev.to/ayyash/seo-in-angular-with-ssr-part-i-55fa",
+    "title": "5 Best JavaScript Code Editors in 2022 - In-depth Review",
+    "link": "https://toolbox.hashnode.com/5-best-javascript-code-editors",
     "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lean Start Keto - Is It Scam Or Legit & Real Results, Ingredients",
-    "link": "https://dev.to/leanstartketoi1/lean-start-keto-is-it-scam-or-legit-real-results-ingredients-1691",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Function context in JavaScript",
-    "link": "https://dev.to/princekizhthara/function-context-in-javascript-1aok",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular vs React vs Vue – The Right Framework For You",
-    "link": "https://dev.to/architprajapati/angular-vs-react-vs-vue-the-right-framework-for-you-4e8g",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sanitize Input using PHP",
-    "link": "https://dev.to/codeanddeploy/sanitize-input-using-php-1pa6",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The First Few Lines",
-    "link": "https://dev.to/jojocoding/the-first-few-lines-193m",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check If Email Address Is Already Exists in The Database",
-    "link": "https://dev.to/codeanddeploy/check-if-email-address-is-already-exists-in-the-database-4jf7",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#39 - Two Sum CodeWars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/39-two-sum-codewars-kata-6-kyu-gef",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hire ReactJs Developers in 2022",
-    "link": "https://dev.to/yashexternlabs/hire-reactjs-developers-in-2022-4i0f",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The JavaScript Skills You Need For React",
-    "link": "https://dev.to/sananayab/the-javascript-skills-you-need-for-react-4can",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple Dynamic Form Validation Function Using PHP",
-    "link": "https://dev.to/codeanddeploy/simple-dynamic-form-validation-function-using-php-3fe2",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Interview Question #2 (Accidental Global Variable)",
-    "link": "https://dev.to/learndaily1/js-interview-question-2-accidental-global-variable-4fjb",
-    "date": "3/22/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "React useEffect Hook usages you must know",
@@ -462,441 +846,57 @@
     "site": "hashnode"
   },
   {
-    "title": "SEO in Angular with SSR - Part I",
-    "link": "https://elmota.com/seo-in-angular-with-ssr-part-i",
+    "title": "Bypassing Captchas like a pro using 2Captcha",
+    "link": "https://devwriteups.com/bypassing-captchas-like-a-pro-using-2captcha",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Writing unit testing using react-testing-library 🐐",
-    "link": "https://itsvishak.hashnode.dev/writing-unit-testing-using-react-testing-library",
+    "title": "How to Integrate Your Open Source Ecommerce Store with Slack",
+    "link": "https://medusajs.hashnode.dev/how-to-integrate-your-open-source-ecommerce-store-with-slack",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Angular vs React vs Vue – The Right Framework For You",
-    "link": "https://architprajapati.hashnode.dev/angular-vs-react-vs-vue-the-right-framework-for-you",
+    "title": "🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!",
+    "link": "https://blog.usman-s.me/sort-imports-using-prettier-in-a-javascript-project-inside-vs-code",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript concepts you need to know in order to get started with React 2022",
-    "link": "https://blog.braincuber.com/javascript-concepts-you-need-to-know-in-order-to-get-started-with-react",
+    "title": "How to use HarperDB custom functions to build your entire backend",
+    "link": "https://andrewbaisden.hashnode.dev/how-to-use-harperdb-custom-functions-to-build-your-entire-backend",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Compiling vs Transpiling",
-    "link": "https://rushikeshchougule.hashnode.dev/compiling-vs-transpiling",
+    "title": "Data Types and variables in Javascript",
+    "link": "https://dev.vengalath.com/data-types-and-variables-in-javascript",
     "date": "3/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best PG in Bengaluru for students or Job Seeker #top10Bengalurupg",
-    "link": "https://dev.to/code_leads/best-pg-in-bengaluru-for-students-or-job-seeker-top10bengalurupg-1k5a",
+    "title": "JavaScript Tutorial: Build a Custom Color Palette App [Part Two]",
+    "link": "https://lordsamdev.hashnode.dev/javascript-tutorial-build-a-custom-color-palette-app-part-two",
     "date": "3/22/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "SEO in Angular with SSR - Part I",
-    "link": "https://dev.to/ayyash/seo-in-angular-with-ssr-part-i-55fa",
+    "title": "Belajar Web Programming : Hari Ke - 2",
+    "link": "https://bahrulrozak.hashnode.dev/belajar-web-programming-hari-ke-2",
     "date": "3/22/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Lean Start Keto - Is It Scam Or Legit & Real Results, Ingredients",
-    "link": "https://dev.to/leanstartketoi1/lean-start-keto-is-it-scam-or-legit-real-results-ingredients-1691",
+    "title": "The Serverless Way to Modernize Applications",
+    "link": "https://catalystbyzoho.hashnode.dev/the-serverless-way-to-modernize-applications",
     "date": "3/22/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Function context in JavaScript",
-    "link": "https://dev.to/princekizhthara/function-context-in-javascript-1aok",
+    "title": "Your SSR is slow & your devtools are lying to you",
+    "link": "https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056",
     "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular vs React vs Vue – The Right Framework For You",
-    "link": "https://dev.to/architprajapati/angular-vs-react-vs-vue-the-right-framework-for-you-4e8g",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sanitize Input using PHP",
-    "link": "https://dev.to/codeanddeploy/sanitize-input-using-php-1pa6",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The First Few Lines",
-    "link": "https://dev.to/jojocoding/the-first-few-lines-193m",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check If Email Address Is Already Exists in The Database",
-    "link": "https://dev.to/codeanddeploy/check-if-email-address-is-already-exists-in-the-database-4jf7",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#39 - Two Sum CodeWars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/39-two-sum-codewars-kata-6-kyu-gef",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hire ReactJs Developers in 2022",
-    "link": "https://dev.to/yashexternlabs/hire-reactjs-developers-in-2022-4i0f",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The JavaScript Skills You Need For React",
-    "link": "https://dev.to/sananayab/the-javascript-skills-you-need-for-react-4can",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple Dynamic Form Validation Function Using PHP",
-    "link": "https://dev.to/codeanddeploy/simple-dynamic-form-validation-function-using-php-3fe2",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JS Interview Question #2 (Accidental Global Variable)",
-    "link": "https://dev.to/learndaily1/js-interview-question-2-accidental-global-variable-4fjb",
-    "date": "3/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Drawing Basic Shapes with HTML Canvas",
-    "link": "https://fjolt.hashnode.dev/drawing-basic-shapes-with-html-canvas",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reflections: My journey of learning to code",
-    "link": "https://shahxcode.hashnode.dev/reflections-my-journey-of-learning-to-code",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make Modal in React without using react-modal.",
-    "link": "https://reetah.hashnode.dev/how-to-make-modal-in-react-without-using-react-modal",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Read my README 📕",
-    "link": "https://oladetoungee.hashnode.dev/read-my-readme",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My Journey into Tech",
-    "link": "https://ajalaj.hashnode.dev/my-journey-into-tech",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Create a Filesystem Browser with React.js and Chonky",
-    "link": "https://lewisadeveloper.hashnode.dev/create-a-filesystem-browser-with-reactjs-and-chonky",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Which Javascript Framework To Learn in 2022!",
-    "link": "https://mflxu.hashnode.dev/which-javascript-framework-to-learn-in-2022",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introduction to Bulma: A Simple and Intuitive CSS Framework",
-    "link": "https://openreplay.hashnode.dev/introduction-to-bulma-a-simple-and-intuitive-css-framework",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Top Javascript Array Method You Should Know",
-    "link": "https://salscoder.hashnode.dev/top-javascript-array-method-you-should-know",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Conquering JavaScript Hydration",
-    "link": "https://dev.to/this-is-learning/conquering-javascript-hydration-a9f",
-    "date": "3/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fase \"A\" - Nubank e Alura",
-    "link": "https://dev.to/mateusspp/fase-a-nubank-e-alura-1f1d",
-    "date": "3/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Drawing Basic Shapes with HTML Canvas",
-    "link": "https://fjolt.hashnode.dev/drawing-basic-shapes-with-html-canvas",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reflections: My journey of learning to code",
-    "link": "https://shahxcode.hashnode.dev/reflections-my-journey-of-learning-to-code",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make Modal in React without using react-modal.",
-    "link": "https://reetah.hashnode.dev/how-to-make-modal-in-react-without-using-react-modal",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Read my README 📕",
-    "link": "https://oladetoungee.hashnode.dev/read-my-readme",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My Journey into Tech",
-    "link": "https://ajalaj.hashnode.dev/my-journey-into-tech",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Create a Filesystem Browser with React.js and Chonky",
-    "link": "https://lewisadeveloper.hashnode.dev/create-a-filesystem-browser-with-reactjs-and-chonky",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Which Javascript Framework To Learn in 2022!",
-    "link": "https://mflxu.hashnode.dev/which-javascript-framework-to-learn-in-2022",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introduction to Bulma: A Simple and Intuitive CSS Framework",
-    "link": "https://openreplay.hashnode.dev/introduction-to-bulma-a-simple-and-intuitive-css-framework",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Top Javascript Array Method You Should Know",
-    "link": "https://salscoder.hashnode.dev/top-javascript-array-method-you-should-know",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Conquering JavaScript Hydration",
-    "link": "https://dev.to/this-is-learning/conquering-javascript-hydration-a9f",
-    "date": "3/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fase \"A\" - Nubank e Alura",
-    "link": "https://dev.to/mateusspp/fase-a-nubank-e-alura-1f1d",
-    "date": "3/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Drawing Basic Shapes with HTML Canvas",
-    "link": "https://fjolt.hashnode.dev/drawing-basic-shapes-with-html-canvas",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reflections: My journey of learning to code",
-    "link": "https://shahxcode.hashnode.dev/reflections-my-journey-of-learning-to-code",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make Modal in React without using react-modal.",
-    "link": "https://reetah.hashnode.dev/how-to-make-modal-in-react-without-using-react-modal",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Read my README 📕",
-    "link": "https://oladetoungee.hashnode.dev/read-my-readme",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My Journey into Tech",
-    "link": "https://ajalaj.hashnode.dev/my-journey-into-tech",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Create a Filesystem Browser with React.js and Chonky",
-    "link": "https://lewisadeveloper.hashnode.dev/create-a-filesystem-browser-with-reactjs-and-chonky",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Which Javascript Framework To Learn in 2022!",
-    "link": "https://mflxu.hashnode.dev/which-javascript-framework-to-learn-in-2022",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introduction to Bulma: A Simple and Intuitive CSS Framework",
-    "link": "https://openreplay.hashnode.dev/introduction-to-bulma-a-simple-and-intuitive-css-framework",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Top Javascript Array Method You Should Know",
-    "link": "https://salscoder.hashnode.dev/top-javascript-array-method-you-should-know",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Conquering JavaScript Hydration",
-    "link": "https://dev.to/this-is-learning/conquering-javascript-hydration-a9f",
-    "date": "3/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fase \"A\" - Nubank e Alura",
-    "link": "https://dev.to/mateusspp/fase-a-nubank-e-alura-1f1d",
-    "date": "3/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Drawing Basic Shapes with HTML Canvas",
-    "link": "https://fjolt.hashnode.dev/drawing-basic-shapes-with-html-canvas",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reflections: My journey of learning to code",
-    "link": "https://shahxcode.hashnode.dev/reflections-my-journey-of-learning-to-code",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make Modal in React without using react-modal.",
-    "link": "https://reetah.hashnode.dev/how-to-make-modal-in-react-without-using-react-modal",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Read my README 📕",
-    "link": "https://oladetoungee.hashnode.dev/read-my-readme",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My Journey into Tech",
-    "link": "https://ajalaj.hashnode.dev/my-journey-into-tech",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Create a Filesystem Browser with React.js and Chonky",
-    "link": "https://lewisadeveloper.hashnode.dev/create-a-filesystem-browser-with-reactjs-and-chonky",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Which Javascript Framework To Learn in 2022!",
-    "link": "https://mflxu.hashnode.dev/which-javascript-framework-to-learn-in-2022",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introduction to Bulma: A Simple and Intuitive CSS Framework",
-    "link": "https://openreplay.hashnode.dev/introduction-to-bulma-a-simple-and-intuitive-css-framework",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Top Javascript Array Method You Should Know",
-    "link": "https://salscoder.hashnode.dev/top-javascript-array-method-you-should-know",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Conquering JavaScript Hydration",
-    "link": "https://dev.to/this-is-learning/conquering-javascript-hydration-a9f",
-    "date": "3/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fase \"A\" - Nubank e Alura",
-    "link": "https://dev.to/mateusspp/fase-a-nubank-e-alura-1f1d",
-    "date": "3/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Drawing Basic Shapes with HTML Canvas",
-    "link": "https://fjolt.hashnode.dev/drawing-basic-shapes-with-html-canvas",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Reflections: My journey of learning to code",
-    "link": "https://shahxcode.hashnode.dev/reflections-my-journey-of-learning-to-code",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make Modal in React without using react-modal.",
-    "link": "https://reetah.hashnode.dev/how-to-make-modal-in-react-without-using-react-modal",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Read my README 📕",
-    "link": "https://oladetoungee.hashnode.dev/read-my-readme",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "My Journey into Tech",
-    "link": "https://ajalaj.hashnode.dev/my-journey-into-tech",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Create a Filesystem Browser with React.js and Chonky",
-    "link": "https://lewisadeveloper.hashnode.dev/create-a-filesystem-browser-with-reactjs-and-chonky",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Which Javascript Framework To Learn in 2022!",
-    "link": "https://mflxu.hashnode.dev/which-javascript-framework-to-learn-in-2022",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introduction to Bulma: A Simple and Intuitive CSS Framework",
-    "link": "https://openreplay.hashnode.dev/introduction-to-bulma-a-simple-and-intuitive-css-framework",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Top Javascript Array Method You Should Know",
-    "link": "https://salscoder.hashnode.dev/top-javascript-array-method-you-should-know",
-    "date": "3/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Conquering JavaScript Hydration",
-    "link": "https://dev.to/this-is-learning/conquering-javascript-hydration-a9f",
-    "date": "3/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fase \"A\" - Nubank e Alura",
-    "link": "https://dev.to/mateusspp/fase-a-nubank-e-alura-1f1d",
-    "date": "3/21/2022",
     "site": "dev.to"
   },
   {
@@ -1104,7 +1104,7 @@
   {
     "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
     "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "8/11/2021",
     "site": "smashingmagazine"
   },
@@ -1245,21 +1245,21 @@
   {
     "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
     "link": "https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "6/7/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Getting Started With Webpack",
     "link": "https://www.smashingmagazine.com/2021/06/getting-started-webpack/",
-    "reading_time": "20 min read",
+    "reading_time": "19 min read",
     "date": "6/4/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Managing Shared State In Vue 3",
     "link": "https://www.smashingmagazine.com/2021/06/managing-shared-state-vue3/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "6/3/2021",
     "site": "smashingmagazine"
   },
@@ -1329,7 +1329,7 @@
   {
     "title": "The Evolution Of Jamstack",
     "link": "https://www.smashingmagazine.com/2021/05/evolution-jamstack/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/3/2021",
     "site": "smashingmagazine"
   },
