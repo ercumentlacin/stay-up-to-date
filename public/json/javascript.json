@@ -1,117 +1,609 @@
 [
   {
+    "title": "How to deploy your website through Firebase?",
+    "link": "https://ighoshsubho.hashnode.dev/how-to-deploy-your-website-through-firebase",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why Node js ?",
+    "link": "https://moracha.hashnode.dev/why-node-js",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Working with JavaScript Arrays Pt. 1",
+    "link": "https://aaron-bush.hashnode.dev/working-with-javascript-arrays-pt-1",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What's the difference between Javascript & TypeScript?",
+    "link": "https://mflxu.hashnode.dev/whats-the-difference-between-javascript-and-typescript",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build A MERN Stack App in 5 Days (Day 2: Getting started with the Frontend)",
+    "link": "https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-2-getting-started-with-the-frontend-5e3i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a carousel component with TailwindCSS and Alpine.js",
+    "link": "https://dev.to/druidmaciek/building-a-carousel-component-with-tailwindcss-and-alpinejs-19nj",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unit Testing Essentials for Express API: A Step-by-Step Guide",
+    "link": "https://dev.to/rishabh570/unit-testing-essentials-for-express-api-a-step-by-step-guide-1m7i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "learn React Lifecycle once and for all",
+    "link": "https://dev.to/samaghapour/learn-react-lifecycle-once-and-for-all-dp4",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How javaScript Asynchronous works under the hood?",
+    "link": "https://dev.to/samaghapour/how-javascript-asynchronous-works-under-the-hood-hln",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks",
+    "link": "https://dev.to/samaghapour/react-hooks-26p0",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "DevSahaaya: Resources for Javascript Developers",
+    "link": "https://dev.to/ranganathmd/devsahaaya-resources-for-javascript-developers-3pjm",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Video thumbnails generate with vanilla JS, ReactJS. Like YouTube",
+    "link": "https://dev.to/rajeshroyal/video-thumbnails-generate-with-vanilla-js-reactjs-like-youtube-3ok8",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Desktop UI alternative: Avernakis, no webview, native rendering",
+    "link": "https://dev.to/mistlog/desktop-ui-alternative-avernakis-no-webview-native-rendering-5dc9",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I REACTO to Algos: Caesar Decipher",
+    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-decipher-33a8",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Internship Interview Experience",
+    "link": "https://dev.to/ashutoshdash/frontend-internship-interview-experience-3a7i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multi-step form with Formik and yup lib",
+    "link": "https://dev.to/mdmohsinghazi1/multi-step-form-with-formik-and-yup-lib-2c4b",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to deploy your website through Firebase?",
+    "link": "https://ighoshsubho.hashnode.dev/how-to-deploy-your-website-through-firebase",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why Node js ?",
+    "link": "https://moracha.hashnode.dev/why-node-js",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Working with JavaScript Arrays Pt. 1",
+    "link": "https://aaron-bush.hashnode.dev/working-with-javascript-arrays-pt-1",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What's the difference between Javascript & TypeScript?",
+    "link": "https://mflxu.hashnode.dev/whats-the-difference-between-javascript-and-typescript",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build A MERN Stack App in 5 Days (Day 2: Getting started with the Frontend)",
+    "link": "https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-2-getting-started-with-the-frontend-5e3i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a carousel component with TailwindCSS and Alpine.js",
+    "link": "https://dev.to/druidmaciek/building-a-carousel-component-with-tailwindcss-and-alpinejs-19nj",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unit Testing Essentials for Express API: A Step-by-Step Guide",
+    "link": "https://dev.to/rishabh570/unit-testing-essentials-for-express-api-a-step-by-step-guide-1m7i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "learn React Lifecycle once and for all",
+    "link": "https://dev.to/samaghapour/learn-react-lifecycle-once-and-for-all-dp4",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How javaScript Asynchronous works under the hood?",
+    "link": "https://dev.to/samaghapour/how-javascript-asynchronous-works-under-the-hood-hln",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks",
+    "link": "https://dev.to/samaghapour/react-hooks-26p0",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "DevSahaaya: Resources for Javascript Developers",
+    "link": "https://dev.to/ranganathmd/devsahaaya-resources-for-javascript-developers-3pjm",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Video thumbnails generate with vanilla JS, ReactJS. Like YouTube",
+    "link": "https://dev.to/rajeshroyal/video-thumbnails-generate-with-vanilla-js-reactjs-like-youtube-3ok8",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Desktop UI alternative: Avernakis, no webview, native rendering",
+    "link": "https://dev.to/mistlog/desktop-ui-alternative-avernakis-no-webview-native-rendering-5dc9",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I REACTO to Algos: Caesar Decipher",
+    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-decipher-33a8",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Internship Interview Experience",
+    "link": "https://dev.to/ashutoshdash/frontend-internship-interview-experience-3a7i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multi-step form with Formik and yup lib",
+    "link": "https://dev.to/mdmohsinghazi1/multi-step-form-with-formik-and-yup-lib-2c4b",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to deploy your website through Firebase?",
+    "link": "https://ighoshsubho.hashnode.dev/how-to-deploy-your-website-through-firebase",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why Node js ?",
+    "link": "https://moracha.hashnode.dev/why-node-js",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Working with JavaScript Arrays Pt. 1",
+    "link": "https://aaron-bush.hashnode.dev/working-with-javascript-arrays-pt-1",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What's the difference between Javascript & TypeScript?",
+    "link": "https://mflxu.hashnode.dev/whats-the-difference-between-javascript-and-typescript",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build A MERN Stack App in 5 Days (Day 2: Getting started with the Frontend)",
+    "link": "https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-2-getting-started-with-the-frontend-5e3i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a carousel component with TailwindCSS and Alpine.js",
+    "link": "https://dev.to/druidmaciek/building-a-carousel-component-with-tailwindcss-and-alpinejs-19nj",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unit Testing Essentials for Express API: A Step-by-Step Guide",
+    "link": "https://dev.to/rishabh570/unit-testing-essentials-for-express-api-a-step-by-step-guide-1m7i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "learn React Lifecycle once and for all",
+    "link": "https://dev.to/samaghapour/learn-react-lifecycle-once-and-for-all-dp4",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How javaScript Asynchronous works under the hood?",
+    "link": "https://dev.to/samaghapour/how-javascript-asynchronous-works-under-the-hood-hln",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks",
+    "link": "https://dev.to/samaghapour/react-hooks-26p0",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "DevSahaaya: Resources for Javascript Developers",
+    "link": "https://dev.to/ranganathmd/devsahaaya-resources-for-javascript-developers-3pjm",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Video thumbnails generate with vanilla JS, ReactJS. Like YouTube",
+    "link": "https://dev.to/rajeshroyal/video-thumbnails-generate-with-vanilla-js-reactjs-like-youtube-3ok8",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Desktop UI alternative: Avernakis, no webview, native rendering",
+    "link": "https://dev.to/mistlog/desktop-ui-alternative-avernakis-no-webview-native-rendering-5dc9",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I REACTO to Algos: Caesar Decipher",
+    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-decipher-33a8",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Internship Interview Experience",
+    "link": "https://dev.to/ashutoshdash/frontend-internship-interview-experience-3a7i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multi-step form with Formik and yup lib",
+    "link": "https://dev.to/mdmohsinghazi1/multi-step-form-with-formik-and-yup-lib-2c4b",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to deploy your website through Firebase?",
+    "link": "https://ighoshsubho.hashnode.dev/how-to-deploy-your-website-through-firebase",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why Node js ?",
+    "link": "https://moracha.hashnode.dev/why-node-js",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Working with JavaScript Arrays Pt. 1",
+    "link": "https://aaron-bush.hashnode.dev/working-with-javascript-arrays-pt-1",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What's the difference between Javascript & TypeScript?",
+    "link": "https://mflxu.hashnode.dev/whats-the-difference-between-javascript-and-typescript",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build A MERN Stack App in 5 Days (Day 2: Getting started with the Frontend)",
+    "link": "https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-2-getting-started-with-the-frontend-5e3i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a carousel component with TailwindCSS and Alpine.js",
+    "link": "https://dev.to/druidmaciek/building-a-carousel-component-with-tailwindcss-and-alpinejs-19nj",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unit Testing Essentials for Express API: A Step-by-Step Guide",
+    "link": "https://dev.to/rishabh570/unit-testing-essentials-for-express-api-a-step-by-step-guide-1m7i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "learn React Lifecycle once and for all",
+    "link": "https://dev.to/samaghapour/learn-react-lifecycle-once-and-for-all-dp4",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How javaScript Asynchronous works under the hood?",
+    "link": "https://dev.to/samaghapour/how-javascript-asynchronous-works-under-the-hood-hln",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks",
+    "link": "https://dev.to/samaghapour/react-hooks-26p0",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "DevSahaaya: Resources for Javascript Developers",
+    "link": "https://dev.to/ranganathmd/devsahaaya-resources-for-javascript-developers-3pjm",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Video thumbnails generate with vanilla JS, ReactJS. Like YouTube",
+    "link": "https://dev.to/rajeshroyal/video-thumbnails-generate-with-vanilla-js-reactjs-like-youtube-3ok8",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Desktop UI alternative: Avernakis, no webview, native rendering",
+    "link": "https://dev.to/mistlog/desktop-ui-alternative-avernakis-no-webview-native-rendering-5dc9",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I REACTO to Algos: Caesar Decipher",
+    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-decipher-33a8",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Internship Interview Experience",
+    "link": "https://dev.to/ashutoshdash/frontend-internship-interview-experience-3a7i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multi-step form with Formik and yup lib",
+    "link": "https://dev.to/mdmohsinghazi1/multi-step-form-with-formik-and-yup-lib-2c4b",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to deploy your website through Firebase?",
+    "link": "https://ighoshsubho.hashnode.dev/how-to-deploy-your-website-through-firebase",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why Node js ?",
+    "link": "https://moracha.hashnode.dev/why-node-js",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Working with JavaScript Arrays Pt. 1",
+    "link": "https://aaron-bush.hashnode.dev/working-with-javascript-arrays-pt-1",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What's the difference between Javascript & TypeScript?",
+    "link": "https://mflxu.hashnode.dev/whats-the-difference-between-javascript-and-typescript",
+    "date": "3/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build A MERN Stack App in 5 Days (Day 2: Getting started with the Frontend)",
+    "link": "https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-2-getting-started-with-the-frontend-5e3i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a carousel component with TailwindCSS and Alpine.js",
+    "link": "https://dev.to/druidmaciek/building-a-carousel-component-with-tailwindcss-and-alpinejs-19nj",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unit Testing Essentials for Express API: A Step-by-Step Guide",
+    "link": "https://dev.to/rishabh570/unit-testing-essentials-for-express-api-a-step-by-step-guide-1m7i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "learn React Lifecycle once and for all",
+    "link": "https://dev.to/samaghapour/learn-react-lifecycle-once-and-for-all-dp4",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How javaScript Asynchronous works under the hood?",
+    "link": "https://dev.to/samaghapour/how-javascript-asynchronous-works-under-the-hood-hln",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks",
+    "link": "https://dev.to/samaghapour/react-hooks-26p0",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "DevSahaaya: Resources for Javascript Developers",
+    "link": "https://dev.to/ranganathmd/devsahaaya-resources-for-javascript-developers-3pjm",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Video thumbnails generate with vanilla JS, ReactJS. Like YouTube",
+    "link": "https://dev.to/rajeshroyal/video-thumbnails-generate-with-vanilla-js-reactjs-like-youtube-3ok8",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Desktop UI alternative: Avernakis, no webview, native rendering",
+    "link": "https://dev.to/mistlog/desktop-ui-alternative-avernakis-no-webview-native-rendering-5dc9",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I REACTO to Algos: Caesar Decipher",
+    "link": "https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-decipher-33a8",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Internship Interview Experience",
+    "link": "https://dev.to/ashutoshdash/frontend-internship-interview-experience-3a7i",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multi-step form with Formik and yup lib",
+    "link": "https://dev.to/mdmohsinghazi1/multi-step-form-with-formik-and-yup-lib-2c4b",
+    "date": "3/27/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 14 of 100 Days of Code",
+    "link": "https://nkem.hashnode.dev/day-14-of-100-days-of-code",
+    "date": "3/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Understanding tagged template literals in JavaScript",
+    "link": "https://blog.zachsnoek.com/understanding-tagged-template-literals-in-javascript",
+    "date": "3/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Scope, Scope-Chain, and Lexical Environment in JavaScript",
+    "link": "https://sobitprasad.hashnode.dev/scope-scope-chain-and-lexical-environment-in-javascript",
+    "date": "3/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Single Page Application Routing Using Hash or URL",
+    "link": "https://thedevdrawer.hashnode.dev/single-page-application-routing-using-hash-or-url",
+    "date": "3/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use modules in Node.js",
+    "link": "https://svdcse.xyz/how-to-use-modules-in-nodejs",
+    "date": "3/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JS - Interview Questions Series - 1",
+    "link": "https://chety.hashnode.dev/js-interview-1",
+    "date": "3/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Mostly adequate guide to FP - Chapter 02 一級函式",
+    "link": "https://hello-kirby.hashnode.dev/mostly-adequate-guide-to-fp-chapter-02",
+    "date": "3/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are the differences between Node.js and the browser?",
+    "link": "https://svdcse.xyz/what-are-the-differences-between-nodejs-and-the-browser",
+    "date": "3/26/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 21 to 30 - Web Development with Resources",
+    "link": "https://blog.abhishake21.com/day-21-to-30-web-development-with-resources",
+    "date": "3/26/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "Creating A Local Development Environment With WordPress And XAMPP.",
     "link": "https://programamkenya.hashnode.dev/creating-a-local-development-environment-with-wordpress-and-xampp",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Array Methods",
-    "link": "https://codewith.gyen.dev/javascript-array-methods",
+    "title": "Day 14 of 100 Days of Code",
+    "link": "https://dev.to/nkemdev/day-14-of-100-days-of-code-4lkh",
+    "date": "3/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Mixpanel via proxy with Next.js rewrites",
+    "link": "https://dev.to/rain2o/using-mixpanel-via-proxy-with-nextjs-rewrites-130e",
+    "date": "3/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 14 of 100 Days of Code",
+    "link": "https://nkem.hashnode.dev/day-14-of-100-days-of-code",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Comprehensive Guide to JavaScript Regular Expressions",
-    "link": "https://codewith.gyen.dev/javascript-regular-expressions",
+    "title": "Understanding tagged template literals in JavaScript",
+    "link": "https://blog.zachsnoek.com/understanding-tagged-template-literals-in-javascript",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best Free Resources to Learn Web3/Blockchain Development",
-    "link": "https://abdulmaajid.hashnode.dev/best-free-resources-to-learn-web3blockchain-development-1",
+    "title": "Scope, Scope-Chain, and Lexical Environment in JavaScript",
+    "link": "https://sobitprasad.hashnode.dev/scope-scope-chain-and-lexical-environment-in-javascript",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Top 5 Resources to Master Web3 in 2k22",
-    "link": "https://nomadev.hashnode.dev/top-5-resources-to-master-web3-in-2k22",
+    "title": "Single Page Application Routing Using Hash or URL",
+    "link": "https://thedevdrawer.hashnode.dev/single-page-application-routing-using-hash-or-url",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to set the HTML lang attribute in Next.js?",
-    "link": "https://codewithsnowbit.hashnode.dev/how-to-set-the-html-lang-attribute-in-nextjs",
+    "title": "How to use modules in Node.js",
+    "link": "https://svdcse.xyz/how-to-use-modules-in-nodejs",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Building Custom Authentication for Your Next.js Apps",
-    "link": "https://shahmir.me/building-custom-authentication-for-your-nextjs-apps",
+    "title": "JS - Interview Questions Series - 1",
+    "link": "https://chety.hashnode.dev/js-interview-1",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Top 5 Resources to Master Web3 in 2k22",
-    "link": "https://dev.to/thenomadevel/top-5-resources-to-master-web3-in-2k22-4bi4",
+    "title": "Mostly adequate guide to FP - Chapter 02 一級函式",
+    "link": "https://hello-kirby.hashnode.dev/mostly-adequate-guide-to-fp-chapter-02",
     "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Simple Cookies with Node.js and any frontend JavaScript framework",
-    "link": "https://dev.to/saranshabd/simple-cookies-with-nodejs-and-any-frontend-javascript-framework-42ph",
+    "title": "What are the differences between Node.js and the browser?",
+    "link": "https://svdcse.xyz/what-are-the-differences-between-nodejs-and-the-browser",
     "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "This week’s newsletter is out! (26-03-2022) - Mozilla’s vision for the evolution of the web",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-26-03-2022-mozillas-vision-for-the-evolution-of-the-web-2noc",
+    "title": "Day 21 to 30 - Web Development with Resources",
+    "link": "https://blog.abhishake21.com/day-21-to-30-web-development-with-resources",
     "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What tips will you give to a newbie JavaScript learner?",
-    "link": "https://dev.to/amolshelke2/what-tips-will-you-give-to-a-newbie-javascript-learner-3f09",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Diamond CBD Gummies: Reviews, Ingredients, Cost |Legit Or Scam|?",
-    "link": "https://dev.to/diamondcbd_/diamond-cbd-gummies-reviews-ingredients-cost-legit-or-scam-4aig",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Huuman CBD Gummies - Pain Relief Results, Price, Ingredients And Side Effects",
-    "link": "https://dev.to/huumancbdgummi1/huuman-cbd-gummies-pain-relief-results-price-ingredients-and-side-effects-ej",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Absolute import in create-react-app",
-    "link": "https://dev.to/ashirbadgudu/absolute-import-in-create-react-app-10ga",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Object Oriented JavaScript & More ! [ Part 1 ]",
-    "link": "https://dev.to/ashik155/object-oriented-javascript-more-part-1--3jie",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to set the HTML lang attribute in Next.js?",
-    "link": "https://dev.to/codewithsnowbit/how-to-set-the-html-lang-attribute-in-nextjs-271k",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build A MERN Stack App in 5 Days (Day 1: Setting up the backend)",
-    "link": "https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-1-setting-up-the-backend-44fe",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Custom Authentication for Your Next.js Apps",
-    "link": "https://dev.to/shahmir049/building-custom-authentication-for-your-nextjs-apps-212o",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Features You Need to Look At",
-    "link": "https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l",
-    "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Creating A Local Development Environment With WordPress And XAMPP.",
@@ -120,112 +612,70 @@
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Array Methods",
-    "link": "https://codewith.gyen.dev/javascript-array-methods",
+    "title": "Day 14 of 100 Days of Code",
+    "link": "https://dev.to/nkemdev/day-14-of-100-days-of-code-4lkh",
+    "date": "3/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Mixpanel via proxy with Next.js rewrites",
+    "link": "https://dev.to/rain2o/using-mixpanel-via-proxy-with-nextjs-rewrites-130e",
+    "date": "3/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 14 of 100 Days of Code",
+    "link": "https://nkem.hashnode.dev/day-14-of-100-days-of-code",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Comprehensive Guide to JavaScript Regular Expressions",
-    "link": "https://codewith.gyen.dev/javascript-regular-expressions",
+    "title": "Understanding tagged template literals in JavaScript",
+    "link": "https://blog.zachsnoek.com/understanding-tagged-template-literals-in-javascript",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best Free Resources to Learn Web3/Blockchain Development",
-    "link": "https://abdulmaajid.hashnode.dev/best-free-resources-to-learn-web3blockchain-development-1",
+    "title": "Scope, Scope-Chain, and Lexical Environment in JavaScript",
+    "link": "https://sobitprasad.hashnode.dev/scope-scope-chain-and-lexical-environment-in-javascript",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Top 5 Resources to Master Web3 in 2k22",
-    "link": "https://nomadev.hashnode.dev/top-5-resources-to-master-web3-in-2k22",
+    "title": "Single Page Application Routing Using Hash or URL",
+    "link": "https://thedevdrawer.hashnode.dev/single-page-application-routing-using-hash-or-url",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to set the HTML lang attribute in Next.js?",
-    "link": "https://codewithsnowbit.hashnode.dev/how-to-set-the-html-lang-attribute-in-nextjs",
+    "title": "How to use modules in Node.js",
+    "link": "https://svdcse.xyz/how-to-use-modules-in-nodejs",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Building Custom Authentication for Your Next.js Apps",
-    "link": "https://shahmir.me/building-custom-authentication-for-your-nextjs-apps",
+    "title": "JS - Interview Questions Series - 1",
+    "link": "https://chety.hashnode.dev/js-interview-1",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Top 5 Resources to Master Web3 in 2k22",
-    "link": "https://dev.to/thenomadevel/top-5-resources-to-master-web3-in-2k22-4bi4",
+    "title": "Mostly adequate guide to FP - Chapter 02 一級函式",
+    "link": "https://hello-kirby.hashnode.dev/mostly-adequate-guide-to-fp-chapter-02",
     "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Simple Cookies with Node.js and any frontend JavaScript framework",
-    "link": "https://dev.to/saranshabd/simple-cookies-with-nodejs-and-any-frontend-javascript-framework-42ph",
+    "title": "What are the differences between Node.js and the browser?",
+    "link": "https://svdcse.xyz/what-are-the-differences-between-nodejs-and-the-browser",
     "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "This week’s newsletter is out! (26-03-2022) - Mozilla’s vision for the evolution of the web",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-26-03-2022-mozillas-vision-for-the-evolution-of-the-web-2noc",
+    "title": "Day 21 to 30 - Web Development with Resources",
+    "link": "https://blog.abhishake21.com/day-21-to-30-web-development-with-resources",
     "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What tips will you give to a newbie JavaScript learner?",
-    "link": "https://dev.to/amolshelke2/what-tips-will-you-give-to-a-newbie-javascript-learner-3f09",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Diamond CBD Gummies: Reviews, Ingredients, Cost |Legit Or Scam|?",
-    "link": "https://dev.to/diamondcbd_/diamond-cbd-gummies-reviews-ingredients-cost-legit-or-scam-4aig",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Huuman CBD Gummies - Pain Relief Results, Price, Ingredients And Side Effects",
-    "link": "https://dev.to/huumancbdgummi1/huuman-cbd-gummies-pain-relief-results-price-ingredients-and-side-effects-ej",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Absolute import in create-react-app",
-    "link": "https://dev.to/ashirbadgudu/absolute-import-in-create-react-app-10ga",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Object Oriented JavaScript & More ! [ Part 1 ]",
-    "link": "https://dev.to/ashik155/object-oriented-javascript-more-part-1--3jie",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to set the HTML lang attribute in Next.js?",
-    "link": "https://dev.to/codewithsnowbit/how-to-set-the-html-lang-attribute-in-nextjs-271k",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build A MERN Stack App in 5 Days (Day 1: Setting up the backend)",
-    "link": "https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-1-setting-up-the-backend-44fe",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Custom Authentication for Your Next.js Apps",
-    "link": "https://dev.to/shahmir049/building-custom-authentication-for-your-nextjs-apps-212o",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Features You Need to Look At",
-    "link": "https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l",
-    "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Creating A Local Development Environment With WordPress And XAMPP.",
@@ -234,112 +684,70 @@
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Array Methods",
-    "link": "https://codewith.gyen.dev/javascript-array-methods",
+    "title": "Day 14 of 100 Days of Code",
+    "link": "https://dev.to/nkemdev/day-14-of-100-days-of-code-4lkh",
+    "date": "3/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Mixpanel via proxy with Next.js rewrites",
+    "link": "https://dev.to/rain2o/using-mixpanel-via-proxy-with-nextjs-rewrites-130e",
+    "date": "3/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 14 of 100 Days of Code",
+    "link": "https://nkem.hashnode.dev/day-14-of-100-days-of-code",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Comprehensive Guide to JavaScript Regular Expressions",
-    "link": "https://codewith.gyen.dev/javascript-regular-expressions",
+    "title": "Understanding tagged template literals in JavaScript",
+    "link": "https://blog.zachsnoek.com/understanding-tagged-template-literals-in-javascript",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best Free Resources to Learn Web3/Blockchain Development",
-    "link": "https://abdulmaajid.hashnode.dev/best-free-resources-to-learn-web3blockchain-development-1",
+    "title": "Scope, Scope-Chain, and Lexical Environment in JavaScript",
+    "link": "https://sobitprasad.hashnode.dev/scope-scope-chain-and-lexical-environment-in-javascript",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Top 5 Resources to Master Web3 in 2k22",
-    "link": "https://nomadev.hashnode.dev/top-5-resources-to-master-web3-in-2k22",
+    "title": "Single Page Application Routing Using Hash or URL",
+    "link": "https://thedevdrawer.hashnode.dev/single-page-application-routing-using-hash-or-url",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to set the HTML lang attribute in Next.js?",
-    "link": "https://codewithsnowbit.hashnode.dev/how-to-set-the-html-lang-attribute-in-nextjs",
+    "title": "How to use modules in Node.js",
+    "link": "https://svdcse.xyz/how-to-use-modules-in-nodejs",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Building Custom Authentication for Your Next.js Apps",
-    "link": "https://shahmir.me/building-custom-authentication-for-your-nextjs-apps",
+    "title": "JS - Interview Questions Series - 1",
+    "link": "https://chety.hashnode.dev/js-interview-1",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Top 5 Resources to Master Web3 in 2k22",
-    "link": "https://dev.to/thenomadevel/top-5-resources-to-master-web3-in-2k22-4bi4",
+    "title": "Mostly adequate guide to FP - Chapter 02 一級函式",
+    "link": "https://hello-kirby.hashnode.dev/mostly-adequate-guide-to-fp-chapter-02",
     "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Simple Cookies with Node.js and any frontend JavaScript framework",
-    "link": "https://dev.to/saranshabd/simple-cookies-with-nodejs-and-any-frontend-javascript-framework-42ph",
+    "title": "What are the differences between Node.js and the browser?",
+    "link": "https://svdcse.xyz/what-are-the-differences-between-nodejs-and-the-browser",
     "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "This week’s newsletter is out! (26-03-2022) - Mozilla’s vision for the evolution of the web",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-26-03-2022-mozillas-vision-for-the-evolution-of-the-web-2noc",
+    "title": "Day 21 to 30 - Web Development with Resources",
+    "link": "https://blog.abhishake21.com/day-21-to-30-web-development-with-resources",
     "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What tips will you give to a newbie JavaScript learner?",
-    "link": "https://dev.to/amolshelke2/what-tips-will-you-give-to-a-newbie-javascript-learner-3f09",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Diamond CBD Gummies: Reviews, Ingredients, Cost |Legit Or Scam|?",
-    "link": "https://dev.to/diamondcbd_/diamond-cbd-gummies-reviews-ingredients-cost-legit-or-scam-4aig",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Huuman CBD Gummies - Pain Relief Results, Price, Ingredients And Side Effects",
-    "link": "https://dev.to/huumancbdgummi1/huuman-cbd-gummies-pain-relief-results-price-ingredients-and-side-effects-ej",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Absolute import in create-react-app",
-    "link": "https://dev.to/ashirbadgudu/absolute-import-in-create-react-app-10ga",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Object Oriented JavaScript & More ! [ Part 1 ]",
-    "link": "https://dev.to/ashik155/object-oriented-javascript-more-part-1--3jie",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to set the HTML lang attribute in Next.js?",
-    "link": "https://dev.to/codewithsnowbit/how-to-set-the-html-lang-attribute-in-nextjs-271k",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build A MERN Stack App in 5 Days (Day 1: Setting up the backend)",
-    "link": "https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-1-setting-up-the-backend-44fe",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Custom Authentication for Your Next.js Apps",
-    "link": "https://dev.to/shahmir049/building-custom-authentication-for-your-nextjs-apps-212o",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Features You Need to Look At",
-    "link": "https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l",
-    "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Creating A Local Development Environment With WordPress And XAMPP.",
@@ -348,112 +756,70 @@
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Array Methods",
-    "link": "https://codewith.gyen.dev/javascript-array-methods",
+    "title": "Day 14 of 100 Days of Code",
+    "link": "https://dev.to/nkemdev/day-14-of-100-days-of-code-4lkh",
+    "date": "3/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Mixpanel via proxy with Next.js rewrites",
+    "link": "https://dev.to/rain2o/using-mixpanel-via-proxy-with-nextjs-rewrites-130e",
+    "date": "3/26/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 14 of 100 Days of Code",
+    "link": "https://nkem.hashnode.dev/day-14-of-100-days-of-code",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "A Comprehensive Guide to JavaScript Regular Expressions",
-    "link": "https://codewith.gyen.dev/javascript-regular-expressions",
+    "title": "Understanding tagged template literals in JavaScript",
+    "link": "https://blog.zachsnoek.com/understanding-tagged-template-literals-in-javascript",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best Free Resources to Learn Web3/Blockchain Development",
-    "link": "https://abdulmaajid.hashnode.dev/best-free-resources-to-learn-web3blockchain-development-1",
+    "title": "Scope, Scope-Chain, and Lexical Environment in JavaScript",
+    "link": "https://sobitprasad.hashnode.dev/scope-scope-chain-and-lexical-environment-in-javascript",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Top 5 Resources to Master Web3 in 2k22",
-    "link": "https://nomadev.hashnode.dev/top-5-resources-to-master-web3-in-2k22",
+    "title": "Single Page Application Routing Using Hash or URL",
+    "link": "https://thedevdrawer.hashnode.dev/single-page-application-routing-using-hash-or-url",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to set the HTML lang attribute in Next.js?",
-    "link": "https://codewithsnowbit.hashnode.dev/how-to-set-the-html-lang-attribute-in-nextjs",
+    "title": "How to use modules in Node.js",
+    "link": "https://svdcse.xyz/how-to-use-modules-in-nodejs",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Building Custom Authentication for Your Next.js Apps",
-    "link": "https://shahmir.me/building-custom-authentication-for-your-nextjs-apps",
+    "title": "JS - Interview Questions Series - 1",
+    "link": "https://chety.hashnode.dev/js-interview-1",
     "date": "3/26/2022",
     "site": "hashnode"
   },
   {
-    "title": "Top 5 Resources to Master Web3 in 2k22",
-    "link": "https://dev.to/thenomadevel/top-5-resources-to-master-web3-in-2k22-4bi4",
+    "title": "Mostly adequate guide to FP - Chapter 02 一級函式",
+    "link": "https://hello-kirby.hashnode.dev/mostly-adequate-guide-to-fp-chapter-02",
     "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Simple Cookies with Node.js and any frontend JavaScript framework",
-    "link": "https://dev.to/saranshabd/simple-cookies-with-nodejs-and-any-frontend-javascript-framework-42ph",
+    "title": "What are the differences between Node.js and the browser?",
+    "link": "https://svdcse.xyz/what-are-the-differences-between-nodejs-and-the-browser",
     "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "This week’s newsletter is out! (26-03-2022) - Mozilla’s vision for the evolution of the web",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-26-03-2022-mozillas-vision-for-the-evolution-of-the-web-2noc",
+    "title": "Day 21 to 30 - Web Development with Resources",
+    "link": "https://blog.abhishake21.com/day-21-to-30-web-development-with-resources",
     "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What tips will you give to a newbie JavaScript learner?",
-    "link": "https://dev.to/amolshelke2/what-tips-will-you-give-to-a-newbie-javascript-learner-3f09",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Diamond CBD Gummies: Reviews, Ingredients, Cost |Legit Or Scam|?",
-    "link": "https://dev.to/diamondcbd_/diamond-cbd-gummies-reviews-ingredients-cost-legit-or-scam-4aig",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Huuman CBD Gummies - Pain Relief Results, Price, Ingredients And Side Effects",
-    "link": "https://dev.to/huumancbdgummi1/huuman-cbd-gummies-pain-relief-results-price-ingredients-and-side-effects-ej",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Absolute import in create-react-app",
-    "link": "https://dev.to/ashirbadgudu/absolute-import-in-create-react-app-10ga",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Object Oriented JavaScript & More ! [ Part 1 ]",
-    "link": "https://dev.to/ashik155/object-oriented-javascript-more-part-1--3jie",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to set the HTML lang attribute in Next.js?",
-    "link": "https://dev.to/codewithsnowbit/how-to-set-the-html-lang-attribute-in-nextjs-271k",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build A MERN Stack App in 5 Days (Day 1: Setting up the backend)",
-    "link": "https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-1-setting-up-the-backend-44fe",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Custom Authentication for Your Next.js Apps",
-    "link": "https://dev.to/shahmir049/building-custom-authentication-for-your-nextjs-apps-212o",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Features You Need to Look At",
-    "link": "https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l",
-    "date": "3/26/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Creating A Local Development Environment With WordPress And XAMPP.",
@@ -462,110 +828,14 @@
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Array Methods",
-    "link": "https://codewith.gyen.dev/javascript-array-methods",
-    "date": "3/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Comprehensive Guide to JavaScript Regular Expressions",
-    "link": "https://codewith.gyen.dev/javascript-regular-expressions",
-    "date": "3/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Best Free Resources to Learn Web3/Blockchain Development",
-    "link": "https://abdulmaajid.hashnode.dev/best-free-resources-to-learn-web3blockchain-development-1",
-    "date": "3/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Top 5 Resources to Master Web3 in 2k22",
-    "link": "https://nomadev.hashnode.dev/top-5-resources-to-master-web3-in-2k22",
-    "date": "3/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to set the HTML lang attribute in Next.js?",
-    "link": "https://codewithsnowbit.hashnode.dev/how-to-set-the-html-lang-attribute-in-nextjs",
-    "date": "3/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building Custom Authentication for Your Next.js Apps",
-    "link": "https://shahmir.me/building-custom-authentication-for-your-nextjs-apps",
-    "date": "3/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Top 5 Resources to Master Web3 in 2k22",
-    "link": "https://dev.to/thenomadevel/top-5-resources-to-master-web3-in-2k22-4bi4",
+    "title": "Day 14 of 100 Days of Code",
+    "link": "https://dev.to/nkemdev/day-14-of-100-days-of-code-4lkh",
     "date": "3/26/2022",
     "site": "dev.to"
   },
   {
-    "title": "Simple Cookies with Node.js and any frontend JavaScript framework",
-    "link": "https://dev.to/saranshabd/simple-cookies-with-nodejs-and-any-frontend-javascript-framework-42ph",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (26-03-2022) - Mozilla’s vision for the evolution of the web",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-26-03-2022-mozillas-vision-for-the-evolution-of-the-web-2noc",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What tips will you give to a newbie JavaScript learner?",
-    "link": "https://dev.to/amolshelke2/what-tips-will-you-give-to-a-newbie-javascript-learner-3f09",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Diamond CBD Gummies: Reviews, Ingredients, Cost |Legit Or Scam|?",
-    "link": "https://dev.to/diamondcbd_/diamond-cbd-gummies-reviews-ingredients-cost-legit-or-scam-4aig",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Huuman CBD Gummies - Pain Relief Results, Price, Ingredients And Side Effects",
-    "link": "https://dev.to/huumancbdgummi1/huuman-cbd-gummies-pain-relief-results-price-ingredients-and-side-effects-ej",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Absolute import in create-react-app",
-    "link": "https://dev.to/ashirbadgudu/absolute-import-in-create-react-app-10ga",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Object Oriented JavaScript & More ! [ Part 1 ]",
-    "link": "https://dev.to/ashik155/object-oriented-javascript-more-part-1--3jie",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to set the HTML lang attribute in Next.js?",
-    "link": "https://dev.to/codewithsnowbit/how-to-set-the-html-lang-attribute-in-nextjs-271k",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build A MERN Stack App in 5 Days (Day 1: Setting up the backend)",
-    "link": "https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-1-setting-up-the-backend-44fe",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Custom Authentication for Your Next.js Apps",
-    "link": "https://dev.to/shahmir049/building-custom-authentication-for-your-nextjs-apps-212o",
-    "date": "3/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Features You Need to Look At",
-    "link": "https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l",
+    "title": "Using Mixpanel via proxy with Next.js rewrites",
+    "link": "https://dev.to/rain2o/using-mixpanel-via-proxy-with-nextjs-rewrites-130e",
     "date": "3/26/2022",
     "site": "dev.to"
   },
@@ -576,64 +846,10 @@
     "site": "hashnode"
   },
   {
-    "title": "When you should (and shouldn't) use Redux",
-    "link": "https://peanutbutterjavascript.hashnode.dev/when-you-should-and-shouldnt-use-redux",
+    "title": "02. Watch me build stuff. Exhibit A: Chrome Extensions",
+    "link": "https://jorgerl.hashnode.dev/02-watch-me-build-stuff-exhibit-a-chrome-extensions",
     "date": "3/25/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "What is CRUD?",
-    "link": "https://blog.thepatik.com/what-is-crud",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Open Source Adventures: Episode 25: Imba 2 Game of Life",
-    "link": "https://taw.hashnode.dev/open-source-adventures-episode-25-imba-2-game-of-life",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "5 Websites I Use on Every Front-End Build",
-    "link": "https://snake0.hashnode.dev/5-websites-i-use-on-every-front-end-build",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Complete Guide to Angular",
-    "link": "https://abdrzqsalihu.hashnode.dev/the-complete-guide-to-angular",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Events module in NodeJS",
-    "link": "https://dothecode.hashnode.dev/events-module-in-nodejs",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Router V6",
-    "link": "https://codingnorm.hashnode.dev/react-router-v6",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Open Source Adventures: Episode 25: Imba 2 Game of Life",
-    "link": "https://dev.to/taw/open-source-adventures-episode-25-imba-2-game-of-life-252l",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Golang perks",
-    "link": "https://dev.to/projektorius96/golang-perks-1ken",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Performance Monitoring and more updates to Sentry for Electron",
-    "link": "https://dev.to/sentry/performance-monitoring-and-more-updates-to-sentry-for-electron-17ni",
-    "date": "3/25/2022",
-    "site": "dev.to"
   },
   {
     "title": "02. Watch me build stuff. Exhibit A: Chrome Extensions",
@@ -642,262 +858,16 @@
     "site": "hashnode"
   },
   {
-    "title": "When you should (and shouldn't) use Redux",
-    "link": "https://peanutbutterjavascript.hashnode.dev/when-you-should-and-shouldnt-use-redux",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is CRUD?",
-    "link": "https://blog.thepatik.com/what-is-crud",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Open Source Adventures: Episode 25: Imba 2 Game of Life",
-    "link": "https://taw.hashnode.dev/open-source-adventures-episode-25-imba-2-game-of-life",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "5 Websites I Use on Every Front-End Build",
-    "link": "https://snake0.hashnode.dev/5-websites-i-use-on-every-front-end-build",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Complete Guide to Angular",
-    "link": "https://abdrzqsalihu.hashnode.dev/the-complete-guide-to-angular",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Events module in NodeJS",
-    "link": "https://dothecode.hashnode.dev/events-module-in-nodejs",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Router V6",
-    "link": "https://codingnorm.hashnode.dev/react-router-v6",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Open Source Adventures: Episode 25: Imba 2 Game of Life",
-    "link": "https://dev.to/taw/open-source-adventures-episode-25-imba-2-game-of-life-252l",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Golang perks",
-    "link": "https://dev.to/projektorius96/golang-perks-1ken",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Performance Monitoring and more updates to Sentry for Electron",
-    "link": "https://dev.to/sentry/performance-monitoring-and-more-updates-to-sentry-for-electron-17ni",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "02. Watch me build stuff. Exhibit A: Chrome Extensions",
     "link": "https://jorgerl.hashnode.dev/02-watch-me-build-stuff-exhibit-a-chrome-extensions",
     "date": "3/25/2022",
     "site": "hashnode"
   },
   {
-    "title": "When you should (and shouldn't) use Redux",
-    "link": "https://peanutbutterjavascript.hashnode.dev/when-you-should-and-shouldnt-use-redux",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is CRUD?",
-    "link": "https://blog.thepatik.com/what-is-crud",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Open Source Adventures: Episode 25: Imba 2 Game of Life",
-    "link": "https://taw.hashnode.dev/open-source-adventures-episode-25-imba-2-game-of-life",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "5 Websites I Use on Every Front-End Build",
-    "link": "https://snake0.hashnode.dev/5-websites-i-use-on-every-front-end-build",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Complete Guide to Angular",
-    "link": "https://abdrzqsalihu.hashnode.dev/the-complete-guide-to-angular",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Events module in NodeJS",
-    "link": "https://dothecode.hashnode.dev/events-module-in-nodejs",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Router V6",
-    "link": "https://codingnorm.hashnode.dev/react-router-v6",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Open Source Adventures: Episode 25: Imba 2 Game of Life",
-    "link": "https://dev.to/taw/open-source-adventures-episode-25-imba-2-game-of-life-252l",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Golang perks",
-    "link": "https://dev.to/projektorius96/golang-perks-1ken",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Performance Monitoring and more updates to Sentry for Electron",
-    "link": "https://dev.to/sentry/performance-monitoring-and-more-updates-to-sentry-for-electron-17ni",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "02. Watch me build stuff. Exhibit A: Chrome Extensions",
     "link": "https://jorgerl.hashnode.dev/02-watch-me-build-stuff-exhibit-a-chrome-extensions",
     "date": "3/25/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "When you should (and shouldn't) use Redux",
-    "link": "https://peanutbutterjavascript.hashnode.dev/when-you-should-and-shouldnt-use-redux",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is CRUD?",
-    "link": "https://blog.thepatik.com/what-is-crud",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Open Source Adventures: Episode 25: Imba 2 Game of Life",
-    "link": "https://taw.hashnode.dev/open-source-adventures-episode-25-imba-2-game-of-life",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "5 Websites I Use on Every Front-End Build",
-    "link": "https://snake0.hashnode.dev/5-websites-i-use-on-every-front-end-build",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Complete Guide to Angular",
-    "link": "https://abdrzqsalihu.hashnode.dev/the-complete-guide-to-angular",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Events module in NodeJS",
-    "link": "https://dothecode.hashnode.dev/events-module-in-nodejs",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Router V6",
-    "link": "https://codingnorm.hashnode.dev/react-router-v6",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Open Source Adventures: Episode 25: Imba 2 Game of Life",
-    "link": "https://dev.to/taw/open-source-adventures-episode-25-imba-2-game-of-life-252l",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Golang perks",
-    "link": "https://dev.to/projektorius96/golang-perks-1ken",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Performance Monitoring and more updates to Sentry for Electron",
-    "link": "https://dev.to/sentry/performance-monitoring-and-more-updates-to-sentry-for-electron-17ni",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "02. Watch me build stuff. Exhibit A: Chrome Extensions",
-    "link": "https://jorgerl.hashnode.dev/02-watch-me-build-stuff-exhibit-a-chrome-extensions",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When you should (and shouldn't) use Redux",
-    "link": "https://peanutbutterjavascript.hashnode.dev/when-you-should-and-shouldnt-use-redux",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is CRUD?",
-    "link": "https://blog.thepatik.com/what-is-crud",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Open Source Adventures: Episode 25: Imba 2 Game of Life",
-    "link": "https://taw.hashnode.dev/open-source-adventures-episode-25-imba-2-game-of-life",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "5 Websites I Use on Every Front-End Build",
-    "link": "https://snake0.hashnode.dev/5-websites-i-use-on-every-front-end-build",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Complete Guide to Angular",
-    "link": "https://abdrzqsalihu.hashnode.dev/the-complete-guide-to-angular",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Events module in NodeJS",
-    "link": "https://dothecode.hashnode.dev/events-module-in-nodejs",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Router V6",
-    "link": "https://codingnorm.hashnode.dev/react-router-v6",
-    "date": "3/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Open Source Adventures: Episode 25: Imba 2 Game of Life",
-    "link": "https://dev.to/taw/open-source-adventures-episode-25-imba-2-game-of-life-252l",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Golang perks",
-    "link": "https://dev.to/projektorius96/golang-perks-1ken",
-    "date": "3/25/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Performance Monitoring and more updates to Sentry for Electron",
-    "link": "https://dev.to/sentry/performance-monitoring-and-more-updates-to-sentry-for-electron-17ni",
-    "date": "3/25/2022",
-    "site": "dev.to"
   },
   {
     "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
@@ -909,7 +879,7 @@
   {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
     "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "3/9/2022",
     "site": "smashingmagazine"
   },
@@ -1016,7 +986,7 @@
   {
     "title": "How To Build A Real-Time Multi-User Game From Scratch",
     "link": "https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/",
-    "reading_time": "20 min read",
+    "reading_time": "21 min read",
     "date": "10/22/2021",
     "site": "smashingmagazine"
   },
@@ -1176,7 +1146,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
@@ -1273,7 +1243,7 @@
   {
     "title": "Adding A Commenting System To A WYSIWYG Editor",
     "link": "https://www.smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
-    "reading_time": "49 min read",
+    "reading_time": "48 min read",
     "date": "5/28/2021",
     "site": "smashingmagazine"
   },
@@ -1301,7 +1271,7 @@
   {
     "title": "Tree-Shaking: A Reference Guide",
     "link": "https://www.smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "5/14/2021",
     "site": "smashingmagazine"
   },
@@ -1518,5 +1488,35 @@
     "link": "https://css-tricks.com/model-based-testing-in-react-with-state-machines/",
     "date": "1/4/2019",
     "site": "css-tricks"
+  },
+  {
+    "title": "Using Docker & Docker Compose to Improve Your Full Stack App Development",
+    "link": "https://dev.to/paigen11/using-docker-docker-compose-to-improve-your-full-stack-app-development-3hln",
+    "date": "8/17/2018",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Docker & Docker Compose to Improve Your Full Stack App Development",
+    "link": "https://dev.to/paigen11/using-docker-docker-compose-to-improve-your-full-stack-app-development-3hln",
+    "date": "8/17/2018",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Docker & Docker Compose to Improve Your Full Stack App Development",
+    "link": "https://dev.to/paigen11/using-docker-docker-compose-to-improve-your-full-stack-app-development-3hln",
+    "date": "8/17/2018",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Docker & Docker Compose to Improve Your Full Stack App Development",
+    "link": "https://dev.to/paigen11/using-docker-docker-compose-to-improve-your-full-stack-app-development-3hln",
+    "date": "8/17/2018",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Docker & Docker Compose to Improve Your Full Stack App Development",
+    "link": "https://dev.to/paigen11/using-docker-docker-compose-to-improve-your-full-stack-app-development-3hln",
+    "date": "8/17/2018",
+    "site": "dev.to"
   }
 ]
