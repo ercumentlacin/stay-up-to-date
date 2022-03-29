@@ -1,5 +1,521 @@
 [
   {
+    "title": "ReactJS: How to Use the Spread Operator (...)",
+    "link": "https://danielyerimah.hashnode.dev/reactjs-how-to-use-the-spread-operator",
+    "date": "3/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "WTF Just Happened???",
+    "link": "https://neruda.ng/wtf-just-happened",
+    "date": "3/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Laravel 8 Eloquent firstOrCreate() Example",
+    "link": "https://dev.to/codeanddeploy/laravel-8-eloquent-firstorcreate-example-4p5h",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Laravel 8 Eloquent pluck() Example",
+    "link": "https://dev.to/codeanddeploy/laravel-8-eloquent-pluck-example-569f",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Remove First Element from Array in Javascript",
+    "link": "https://dev.to/codeanddeploy/how-to-remove-first-element-from-array-in-javascript-2e6f",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Function Currying in JavaScript",
+    "link": "https://dev.to/ashwani3011/function-currying-in-javascript-47k1",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Delete Multiple Records using Checkbox in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/how-to-delete-multiple-records-using-checkbox-in-laravel-8-4c0n",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Integrate Sweetalert 2 with Ajax in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/integrate-sweetalert-2-with-ajax-in-laravel-8-19p5",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Remove Last Element from Array in Javascript?",
+    "link": "https://dev.to/codeanddeploy/how-to-remove-last-element-from-array-in-javascript-d22",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fallback true returns error while deployment",
+    "link": "https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-53og",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create your own portfolio website (My website Demo) 🌿🌿",
+    "link": "https://dev.to/tejendrasrajawat/create-your-own-portfolio-website-my-website-demo-l12",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "BASIC AUTHENTICATION IN SWAGGER (OPEN API) .NET5",
+    "link": "https://dev.to/tarungurang/basic-authentication-in-swagger-open-api-net5-232p",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS-Rails project",
+    "link": "https://dev.to/ro_uchiha/js-rails-project-2328",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Delete Record in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/delete-record-in-laravel-8-42d3",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making web components stylable",
+    "link": "https://dev.to/horus_kol/making-web-components-stylable-3pgm",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": ".append vs .appendChild in JS",
+    "link": "https://dev.to/joe_lee90/append-vs-appendchild-in-js-50mj",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Node.js Developer Tries .NET",
+    "link": "https://dev.to/aaronblondeau/a-nodejs-developer-tries-net-87n",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS: How to Use the Spread Operator (...)",
+    "link": "https://danielyerimah.hashnode.dev/reactjs-how-to-use-the-spread-operator",
+    "date": "3/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "WTF Just Happened???",
+    "link": "https://neruda.ng/wtf-just-happened",
+    "date": "3/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Laravel 8 Eloquent firstOrCreate() Example",
+    "link": "https://dev.to/codeanddeploy/laravel-8-eloquent-firstorcreate-example-4p5h",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Laravel 8 Eloquent pluck() Example",
+    "link": "https://dev.to/codeanddeploy/laravel-8-eloquent-pluck-example-569f",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Remove First Element from Array in Javascript",
+    "link": "https://dev.to/codeanddeploy/how-to-remove-first-element-from-array-in-javascript-2e6f",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Function Currying in JavaScript",
+    "link": "https://dev.to/ashwani3011/function-currying-in-javascript-47k1",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Delete Multiple Records using Checkbox in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/how-to-delete-multiple-records-using-checkbox-in-laravel-8-4c0n",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Integrate Sweetalert 2 with Ajax in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/integrate-sweetalert-2-with-ajax-in-laravel-8-19p5",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Remove Last Element from Array in Javascript?",
+    "link": "https://dev.to/codeanddeploy/how-to-remove-last-element-from-array-in-javascript-d22",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fallback true returns error while deployment",
+    "link": "https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-53og",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create your own portfolio website (My website Demo) 🌿🌿",
+    "link": "https://dev.to/tejendrasrajawat/create-your-own-portfolio-website-my-website-demo-l12",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "BASIC AUTHENTICATION IN SWAGGER (OPEN API) .NET5",
+    "link": "https://dev.to/tarungurang/basic-authentication-in-swagger-open-api-net5-232p",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS-Rails project",
+    "link": "https://dev.to/ro_uchiha/js-rails-project-2328",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Delete Record in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/delete-record-in-laravel-8-42d3",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making web components stylable",
+    "link": "https://dev.to/horus_kol/making-web-components-stylable-3pgm",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": ".append vs .appendChild in JS",
+    "link": "https://dev.to/joe_lee90/append-vs-appendchild-in-js-50mj",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Node.js Developer Tries .NET",
+    "link": "https://dev.to/aaronblondeau/a-nodejs-developer-tries-net-87n",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS: How to Use the Spread Operator (...)",
+    "link": "https://danielyerimah.hashnode.dev/reactjs-how-to-use-the-spread-operator",
+    "date": "3/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "WTF Just Happened???",
+    "link": "https://neruda.ng/wtf-just-happened",
+    "date": "3/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Laravel 8 Eloquent firstOrCreate() Example",
+    "link": "https://dev.to/codeanddeploy/laravel-8-eloquent-firstorcreate-example-4p5h",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Laravel 8 Eloquent pluck() Example",
+    "link": "https://dev.to/codeanddeploy/laravel-8-eloquent-pluck-example-569f",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Remove First Element from Array in Javascript",
+    "link": "https://dev.to/codeanddeploy/how-to-remove-first-element-from-array-in-javascript-2e6f",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Function Currying in JavaScript",
+    "link": "https://dev.to/ashwani3011/function-currying-in-javascript-47k1",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Delete Multiple Records using Checkbox in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/how-to-delete-multiple-records-using-checkbox-in-laravel-8-4c0n",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Integrate Sweetalert 2 with Ajax in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/integrate-sweetalert-2-with-ajax-in-laravel-8-19p5",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Remove Last Element from Array in Javascript?",
+    "link": "https://dev.to/codeanddeploy/how-to-remove-last-element-from-array-in-javascript-d22",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fallback true returns error while deployment",
+    "link": "https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-53og",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create your own portfolio website (My website Demo) 🌿🌿",
+    "link": "https://dev.to/tejendrasrajawat/create-your-own-portfolio-website-my-website-demo-l12",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "BASIC AUTHENTICATION IN SWAGGER (OPEN API) .NET5",
+    "link": "https://dev.to/tarungurang/basic-authentication-in-swagger-open-api-net5-232p",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS-Rails project",
+    "link": "https://dev.to/ro_uchiha/js-rails-project-2328",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Delete Record in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/delete-record-in-laravel-8-42d3",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making web components stylable",
+    "link": "https://dev.to/horus_kol/making-web-components-stylable-3pgm",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": ".append vs .appendChild in JS",
+    "link": "https://dev.to/joe_lee90/append-vs-appendchild-in-js-50mj",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Node.js Developer Tries .NET",
+    "link": "https://dev.to/aaronblondeau/a-nodejs-developer-tries-net-87n",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS: How to Use the Spread Operator (...)",
+    "link": "https://danielyerimah.hashnode.dev/reactjs-how-to-use-the-spread-operator",
+    "date": "3/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "WTF Just Happened???",
+    "link": "https://neruda.ng/wtf-just-happened",
+    "date": "3/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Laravel 8 Eloquent firstOrCreate() Example",
+    "link": "https://dev.to/codeanddeploy/laravel-8-eloquent-firstorcreate-example-4p5h",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Laravel 8 Eloquent pluck() Example",
+    "link": "https://dev.to/codeanddeploy/laravel-8-eloquent-pluck-example-569f",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Remove First Element from Array in Javascript",
+    "link": "https://dev.to/codeanddeploy/how-to-remove-first-element-from-array-in-javascript-2e6f",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Function Currying in JavaScript",
+    "link": "https://dev.to/ashwani3011/function-currying-in-javascript-47k1",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Delete Multiple Records using Checkbox in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/how-to-delete-multiple-records-using-checkbox-in-laravel-8-4c0n",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Integrate Sweetalert 2 with Ajax in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/integrate-sweetalert-2-with-ajax-in-laravel-8-19p5",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Remove Last Element from Array in Javascript?",
+    "link": "https://dev.to/codeanddeploy/how-to-remove-last-element-from-array-in-javascript-d22",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fallback true returns error while deployment",
+    "link": "https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-53og",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create your own portfolio website (My website Demo) 🌿🌿",
+    "link": "https://dev.to/tejendrasrajawat/create-your-own-portfolio-website-my-website-demo-l12",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "BASIC AUTHENTICATION IN SWAGGER (OPEN API) .NET5",
+    "link": "https://dev.to/tarungurang/basic-authentication-in-swagger-open-api-net5-232p",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS-Rails project",
+    "link": "https://dev.to/ro_uchiha/js-rails-project-2328",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Delete Record in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/delete-record-in-laravel-8-42d3",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making web components stylable",
+    "link": "https://dev.to/horus_kol/making-web-components-stylable-3pgm",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": ".append vs .appendChild in JS",
+    "link": "https://dev.to/joe_lee90/append-vs-appendchild-in-js-50mj",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Node.js Developer Tries .NET",
+    "link": "https://dev.to/aaronblondeau/a-nodejs-developer-tries-net-87n",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS: How to Use the Spread Operator (...)",
+    "link": "https://danielyerimah.hashnode.dev/reactjs-how-to-use-the-spread-operator",
+    "date": "3/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "WTF Just Happened???",
+    "link": "https://neruda.ng/wtf-just-happened",
+    "date": "3/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Laravel 8 Eloquent firstOrCreate() Example",
+    "link": "https://dev.to/codeanddeploy/laravel-8-eloquent-firstorcreate-example-4p5h",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Laravel 8 Eloquent pluck() Example",
+    "link": "https://dev.to/codeanddeploy/laravel-8-eloquent-pluck-example-569f",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Remove First Element from Array in Javascript",
+    "link": "https://dev.to/codeanddeploy/how-to-remove-first-element-from-array-in-javascript-2e6f",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Function Currying in JavaScript",
+    "link": "https://dev.to/ashwani3011/function-currying-in-javascript-47k1",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Delete Multiple Records using Checkbox in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/how-to-delete-multiple-records-using-checkbox-in-laravel-8-4c0n",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Integrate Sweetalert 2 with Ajax in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/integrate-sweetalert-2-with-ajax-in-laravel-8-19p5",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Remove Last Element from Array in Javascript?",
+    "link": "https://dev.to/codeanddeploy/how-to-remove-last-element-from-array-in-javascript-d22",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fallback true returns error while deployment",
+    "link": "https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-53og",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create your own portfolio website (My website Demo) 🌿🌿",
+    "link": "https://dev.to/tejendrasrajawat/create-your-own-portfolio-website-my-website-demo-l12",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "BASIC AUTHENTICATION IN SWAGGER (OPEN API) .NET5",
+    "link": "https://dev.to/tarungurang/basic-authentication-in-swagger-open-api-net5-232p",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS-Rails project",
+    "link": "https://dev.to/ro_uchiha/js-rails-project-2328",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Delete Record in Laravel 8",
+    "link": "https://dev.to/codeanddeploy/delete-record-in-laravel-8-42d3",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making web components stylable",
+    "link": "https://dev.to/horus_kol/making-web-components-stylable-3pgm",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": ".append vs .appendChild in JS",
+    "link": "https://dev.to/joe_lee90/append-vs-appendchild-in-js-50mj",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Node.js Developer Tries .NET",
+    "link": "https://dev.to/aaronblondeau/a-nodejs-developer-tries-net-87n",
+    "date": "3/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making your SSR sites 42x faster with Redis Cache",
+    "link": "https://fjolt.hashnode.dev/making-your-ssr-sites-42x-faster-with-redis-cache",
+    "date": "3/28/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL",
     "link": "https://theankurtyagi.hashnode.dev/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql",
     "date": "3/28/2022",
@@ -12,112 +528,70 @@
     "site": "hashnode"
   },
   {
-    "title": "Challenge: Objects - Adding Properties",
-    "link": "https://johnbradbury.hashnode.dev/challenge-objects-adding-properties",
+    "title": "A Simple Guide to Heaps, Stacks, References and Values in Javascript",
+    "link": "https://fjolt.hashnode.dev/a-simple-guide-to-heaps-stacks-references-and-values-in-javascript",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Challenge: Objects - Iterating with for... in",
-    "link": "https://johnbradbury.hashnode.dev/challenge-objects-iterating-with-for-in",
+    "title": "100 Days of Code - Day 20 - Higher-Order Functions in Java Script",
+    "link": "https://myblog.riegercodes.com/100-days-of-code-day-20-higher-order-functions-in-java-script",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Challenge: fizzbuzz",
-    "link": "https://johnbradbury.hashnode.dev/challenge-fizzbuzz",
+    "title": "How Should you Start your Web Development journey",
+    "link": "https://rahulkwh.hashnode.dev/how-should-you-start-your-web-development-journey",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "The Difference Between var, let, and const in JavaScript",
-    "link": "https://codingbootcampguides.com/the-difference-between-var-let-and-const-in-javascript",
+    "title": "Common Errors Beginners Make While Learning Javascript",
+    "link": "https://crasonn.hashnode.dev/common-errors-beginners-make-while-learning-javascript",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL",
-    "link": "https://dev.to/tyaga001/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql-20nm",
+    "title": "MONEY )(TANK)(LOAN) (CUSTOMER)( CARE)( NUMBER)( @⑧②⑨②⑧②⑨⑧⑤⑨)fgf",
+    "link": "https://rdsv.hashnode.dev/money-tankloan-customer-care-number-fgf",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "JavaScript 3D project",
-    "link": "https://dev.to/freebeliever/javascript-3d-project-enh",
+    "title": "Pig Latin - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/pig-latin-javascript-solution-and-walkthrough",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "TypeScript syntax summary",
-    "link": "https://dev.to/andrehatlo/typescript-syntax-summary-2a4g",
+    "title": "Using a Hook in a Class Component",
+    "link": "https://nickytonline.hashnode.dev/using-a-hook-in-a-class-component",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "How to Create a Custom Dynamic Middleware for Spatie Laravel Permission",
-    "link": "https://dev.to/codeanddeploy/how-to-create-a-custom-dynamic-middleware-for-spatie-laravel-permission-2a08",
+    "title": "Why I moved to Astro from Gatsby",
+    "link": "https://rodneylab.hashnode.dev/why-i-moved-to-astro",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Jquery Table Check All Plugin",
-    "link": "https://dev.to/codeanddeploy/jquery-table-check-all-plugin-ach",
+    "title": "JavaScript Objects: The object we must have!",
+    "link": "https://hiremeakashdev.hashnode.dev/javascript-objects-the-object-we-must-have",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Advanced Appetite Fat Burner Reviews - (Pros and Cons) Is It Scam Or Legit?",
-    "link": "https://dev.to/advancedappetitefatburner/advanced-appetite-fat-burner-reviews-pros-and-cons-is-it-scam-or-legit-543c",
+    "title": "RTK, RTKQuery and Valtio",
+    "link": "https://gokhale.me/rtk-rtkquery-and-valtio",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "JavaScript .call() .apply() .bind() simplified.",
-    "link": "https://dev.to/azmy60/javascript-call-apply-bind-simplified-5d14",
+    "title": "Making your SSR sites 42x faster with Redis Cache",
+    "link": "https://fjolt.hashnode.dev/making-your-ssr-sites-42x-faster-with-redis-cache",
     "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why do I use Next.js in my projects",
-    "link": "https://dev.to/sergchr/why-do-i-use-nextjs-in-my-projects-of8",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel 8 Pagination Example using Bootstrap 5",
-    "link": "https://dev.to/codeanddeploy/laravel-8-pagination-example-using-bootstrap-5-243h",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel 8 Logout Other Devices after Login",
-    "link": "https://dev.to/codeanddeploy/laravel-8-logout-other-devices-after-login-2nne",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoisting in javascript",
-    "link": "https://dev.to/fotiecodes/hoisting-in-javascript-1pk4",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "28 Javascript Array Hacks: A Cheat Sheet for Developer",
-    "link": "https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native: Boilerplates overview",
-    "link": "https://dev.to/andrehatlo/react-native-boilerplates-overview-552g",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "90 % of Javascript Developer fail to answer these code snippets (Asked in Interview) Part-1",
-    "link": "https://dev.to/braincuber_technologies/90-of-javascript-developer-fail-to-answer-these-code-snippets-asked-in-interview-part-1-3561",
-    "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL",
@@ -132,112 +606,70 @@
     "site": "hashnode"
   },
   {
-    "title": "Challenge: Objects - Adding Properties",
-    "link": "https://johnbradbury.hashnode.dev/challenge-objects-adding-properties",
+    "title": "A Simple Guide to Heaps, Stacks, References and Values in Javascript",
+    "link": "https://fjolt.hashnode.dev/a-simple-guide-to-heaps-stacks-references-and-values-in-javascript",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Challenge: Objects - Iterating with for... in",
-    "link": "https://johnbradbury.hashnode.dev/challenge-objects-iterating-with-for-in",
+    "title": "100 Days of Code - Day 20 - Higher-Order Functions in Java Script",
+    "link": "https://myblog.riegercodes.com/100-days-of-code-day-20-higher-order-functions-in-java-script",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Challenge: fizzbuzz",
-    "link": "https://johnbradbury.hashnode.dev/challenge-fizzbuzz",
+    "title": "How Should you Start your Web Development journey",
+    "link": "https://rahulkwh.hashnode.dev/how-should-you-start-your-web-development-journey",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "The Difference Between var, let, and const in JavaScript",
-    "link": "https://codingbootcampguides.com/the-difference-between-var-let-and-const-in-javascript",
+    "title": "Common Errors Beginners Make While Learning Javascript",
+    "link": "https://crasonn.hashnode.dev/common-errors-beginners-make-while-learning-javascript",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL",
-    "link": "https://dev.to/tyaga001/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql-20nm",
+    "title": "MONEY )(TANK)(LOAN) (CUSTOMER)( CARE)( NUMBER)( @⑧②⑨②⑧②⑨⑧⑤⑨)fgf",
+    "link": "https://rdsv.hashnode.dev/money-tankloan-customer-care-number-fgf",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "JavaScript 3D project",
-    "link": "https://dev.to/freebeliever/javascript-3d-project-enh",
+    "title": "Pig Latin - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/pig-latin-javascript-solution-and-walkthrough",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "TypeScript syntax summary",
-    "link": "https://dev.to/andrehatlo/typescript-syntax-summary-2a4g",
+    "title": "Using a Hook in a Class Component",
+    "link": "https://nickytonline.hashnode.dev/using-a-hook-in-a-class-component",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "How to Create a Custom Dynamic Middleware for Spatie Laravel Permission",
-    "link": "https://dev.to/codeanddeploy/how-to-create-a-custom-dynamic-middleware-for-spatie-laravel-permission-2a08",
+    "title": "Why I moved to Astro from Gatsby",
+    "link": "https://rodneylab.hashnode.dev/why-i-moved-to-astro",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Jquery Table Check All Plugin",
-    "link": "https://dev.to/codeanddeploy/jquery-table-check-all-plugin-ach",
+    "title": "JavaScript Objects: The object we must have!",
+    "link": "https://hiremeakashdev.hashnode.dev/javascript-objects-the-object-we-must-have",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Advanced Appetite Fat Burner Reviews - (Pros and Cons) Is It Scam Or Legit?",
-    "link": "https://dev.to/advancedappetitefatburner/advanced-appetite-fat-burner-reviews-pros-and-cons-is-it-scam-or-legit-543c",
+    "title": "RTK, RTKQuery and Valtio",
+    "link": "https://gokhale.me/rtk-rtkquery-and-valtio",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "JavaScript .call() .apply() .bind() simplified.",
-    "link": "https://dev.to/azmy60/javascript-call-apply-bind-simplified-5d14",
+    "title": "Making your SSR sites 42x faster with Redis Cache",
+    "link": "https://fjolt.hashnode.dev/making-your-ssr-sites-42x-faster-with-redis-cache",
     "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why do I use Next.js in my projects",
-    "link": "https://dev.to/sergchr/why-do-i-use-nextjs-in-my-projects-of8",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel 8 Pagination Example using Bootstrap 5",
-    "link": "https://dev.to/codeanddeploy/laravel-8-pagination-example-using-bootstrap-5-243h",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel 8 Logout Other Devices after Login",
-    "link": "https://dev.to/codeanddeploy/laravel-8-logout-other-devices-after-login-2nne",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoisting in javascript",
-    "link": "https://dev.to/fotiecodes/hoisting-in-javascript-1pk4",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "28 Javascript Array Hacks: A Cheat Sheet for Developer",
-    "link": "https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native: Boilerplates overview",
-    "link": "https://dev.to/andrehatlo/react-native-boilerplates-overview-552g",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "90 % of Javascript Developer fail to answer these code snippets (Asked in Interview) Part-1",
-    "link": "https://dev.to/braincuber_technologies/90-of-javascript-developer-fail-to-answer-these-code-snippets-asked-in-interview-part-1-3561",
-    "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL",
@@ -252,112 +684,70 @@
     "site": "hashnode"
   },
   {
-    "title": "Challenge: Objects - Adding Properties",
-    "link": "https://johnbradbury.hashnode.dev/challenge-objects-adding-properties",
+    "title": "A Simple Guide to Heaps, Stacks, References and Values in Javascript",
+    "link": "https://fjolt.hashnode.dev/a-simple-guide-to-heaps-stacks-references-and-values-in-javascript",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Challenge: Objects - Iterating with for... in",
-    "link": "https://johnbradbury.hashnode.dev/challenge-objects-iterating-with-for-in",
+    "title": "100 Days of Code - Day 20 - Higher-Order Functions in Java Script",
+    "link": "https://myblog.riegercodes.com/100-days-of-code-day-20-higher-order-functions-in-java-script",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Challenge: fizzbuzz",
-    "link": "https://johnbradbury.hashnode.dev/challenge-fizzbuzz",
+    "title": "How Should you Start your Web Development journey",
+    "link": "https://rahulkwh.hashnode.dev/how-should-you-start-your-web-development-journey",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "The Difference Between var, let, and const in JavaScript",
-    "link": "https://codingbootcampguides.com/the-difference-between-var-let-and-const-in-javascript",
+    "title": "Common Errors Beginners Make While Learning Javascript",
+    "link": "https://crasonn.hashnode.dev/common-errors-beginners-make-while-learning-javascript",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL",
-    "link": "https://dev.to/tyaga001/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql-20nm",
+    "title": "MONEY )(TANK)(LOAN) (CUSTOMER)( CARE)( NUMBER)( @⑧②⑨②⑧②⑨⑧⑤⑨)fgf",
+    "link": "https://rdsv.hashnode.dev/money-tankloan-customer-care-number-fgf",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "JavaScript 3D project",
-    "link": "https://dev.to/freebeliever/javascript-3d-project-enh",
+    "title": "Pig Latin - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/pig-latin-javascript-solution-and-walkthrough",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "TypeScript syntax summary",
-    "link": "https://dev.to/andrehatlo/typescript-syntax-summary-2a4g",
+    "title": "Using a Hook in a Class Component",
+    "link": "https://nickytonline.hashnode.dev/using-a-hook-in-a-class-component",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "How to Create a Custom Dynamic Middleware for Spatie Laravel Permission",
-    "link": "https://dev.to/codeanddeploy/how-to-create-a-custom-dynamic-middleware-for-spatie-laravel-permission-2a08",
+    "title": "Why I moved to Astro from Gatsby",
+    "link": "https://rodneylab.hashnode.dev/why-i-moved-to-astro",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Jquery Table Check All Plugin",
-    "link": "https://dev.to/codeanddeploy/jquery-table-check-all-plugin-ach",
+    "title": "JavaScript Objects: The object we must have!",
+    "link": "https://hiremeakashdev.hashnode.dev/javascript-objects-the-object-we-must-have",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Advanced Appetite Fat Burner Reviews - (Pros and Cons) Is It Scam Or Legit?",
-    "link": "https://dev.to/advancedappetitefatburner/advanced-appetite-fat-burner-reviews-pros-and-cons-is-it-scam-or-legit-543c",
+    "title": "RTK, RTKQuery and Valtio",
+    "link": "https://gokhale.me/rtk-rtkquery-and-valtio",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "JavaScript .call() .apply() .bind() simplified.",
-    "link": "https://dev.to/azmy60/javascript-call-apply-bind-simplified-5d14",
+    "title": "Making your SSR sites 42x faster with Redis Cache",
+    "link": "https://fjolt.hashnode.dev/making-your-ssr-sites-42x-faster-with-redis-cache",
     "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why do I use Next.js in my projects",
-    "link": "https://dev.to/sergchr/why-do-i-use-nextjs-in-my-projects-of8",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel 8 Pagination Example using Bootstrap 5",
-    "link": "https://dev.to/codeanddeploy/laravel-8-pagination-example-using-bootstrap-5-243h",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel 8 Logout Other Devices after Login",
-    "link": "https://dev.to/codeanddeploy/laravel-8-logout-other-devices-after-login-2nne",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoisting in javascript",
-    "link": "https://dev.to/fotiecodes/hoisting-in-javascript-1pk4",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "28 Javascript Array Hacks: A Cheat Sheet for Developer",
-    "link": "https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native: Boilerplates overview",
-    "link": "https://dev.to/andrehatlo/react-native-boilerplates-overview-552g",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "90 % of Javascript Developer fail to answer these code snippets (Asked in Interview) Part-1",
-    "link": "https://dev.to/braincuber_technologies/90-of-javascript-developer-fail-to-answer-these-code-snippets-asked-in-interview-part-1-3561",
-    "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL",
@@ -372,112 +762,70 @@
     "site": "hashnode"
   },
   {
-    "title": "Challenge: Objects - Adding Properties",
-    "link": "https://johnbradbury.hashnode.dev/challenge-objects-adding-properties",
+    "title": "A Simple Guide to Heaps, Stacks, References and Values in Javascript",
+    "link": "https://fjolt.hashnode.dev/a-simple-guide-to-heaps-stacks-references-and-values-in-javascript",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Challenge: Objects - Iterating with for... in",
-    "link": "https://johnbradbury.hashnode.dev/challenge-objects-iterating-with-for-in",
+    "title": "100 Days of Code - Day 20 - Higher-Order Functions in Java Script",
+    "link": "https://myblog.riegercodes.com/100-days-of-code-day-20-higher-order-functions-in-java-script",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Challenge: fizzbuzz",
-    "link": "https://johnbradbury.hashnode.dev/challenge-fizzbuzz",
+    "title": "How Should you Start your Web Development journey",
+    "link": "https://rahulkwh.hashnode.dev/how-should-you-start-your-web-development-journey",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "The Difference Between var, let, and const in JavaScript",
-    "link": "https://codingbootcampguides.com/the-difference-between-var-let-and-const-in-javascript",
+    "title": "Common Errors Beginners Make While Learning Javascript",
+    "link": "https://crasonn.hashnode.dev/common-errors-beginners-make-while-learning-javascript",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL",
-    "link": "https://dev.to/tyaga001/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql-20nm",
+    "title": "MONEY )(TANK)(LOAN) (CUSTOMER)( CARE)( NUMBER)( @⑧②⑨②⑧②⑨⑧⑤⑨)fgf",
+    "link": "https://rdsv.hashnode.dev/money-tankloan-customer-care-number-fgf",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "JavaScript 3D project",
-    "link": "https://dev.to/freebeliever/javascript-3d-project-enh",
+    "title": "Pig Latin - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/pig-latin-javascript-solution-and-walkthrough",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "TypeScript syntax summary",
-    "link": "https://dev.to/andrehatlo/typescript-syntax-summary-2a4g",
+    "title": "Using a Hook in a Class Component",
+    "link": "https://nickytonline.hashnode.dev/using-a-hook-in-a-class-component",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "How to Create a Custom Dynamic Middleware for Spatie Laravel Permission",
-    "link": "https://dev.to/codeanddeploy/how-to-create-a-custom-dynamic-middleware-for-spatie-laravel-permission-2a08",
+    "title": "Why I moved to Astro from Gatsby",
+    "link": "https://rodneylab.hashnode.dev/why-i-moved-to-astro",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Jquery Table Check All Plugin",
-    "link": "https://dev.to/codeanddeploy/jquery-table-check-all-plugin-ach",
+    "title": "JavaScript Objects: The object we must have!",
+    "link": "https://hiremeakashdev.hashnode.dev/javascript-objects-the-object-we-must-have",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Advanced Appetite Fat Burner Reviews - (Pros and Cons) Is It Scam Or Legit?",
-    "link": "https://dev.to/advancedappetitefatburner/advanced-appetite-fat-burner-reviews-pros-and-cons-is-it-scam-or-legit-543c",
+    "title": "RTK, RTKQuery and Valtio",
+    "link": "https://gokhale.me/rtk-rtkquery-and-valtio",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "JavaScript .call() .apply() .bind() simplified.",
-    "link": "https://dev.to/azmy60/javascript-call-apply-bind-simplified-5d14",
+    "title": "Making your SSR sites 42x faster with Redis Cache",
+    "link": "https://fjolt.hashnode.dev/making-your-ssr-sites-42x-faster-with-redis-cache",
     "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why do I use Next.js in my projects",
-    "link": "https://dev.to/sergchr/why-do-i-use-nextjs-in-my-projects-of8",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel 8 Pagination Example using Bootstrap 5",
-    "link": "https://dev.to/codeanddeploy/laravel-8-pagination-example-using-bootstrap-5-243h",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel 8 Logout Other Devices after Login",
-    "link": "https://dev.to/codeanddeploy/laravel-8-logout-other-devices-after-login-2nne",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoisting in javascript",
-    "link": "https://dev.to/fotiecodes/hoisting-in-javascript-1pk4",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "28 Javascript Array Hacks: A Cheat Sheet for Developer",
-    "link": "https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native: Boilerplates overview",
-    "link": "https://dev.to/andrehatlo/react-native-boilerplates-overview-552g",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "90 % of Javascript Developer fail to answer these code snippets (Asked in Interview) Part-1",
-    "link": "https://dev.to/braincuber_technologies/90-of-javascript-developer-fail-to-answer-these-code-snippets-asked-in-interview-part-1-3561",
-    "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL",
@@ -492,412 +840,64 @@
     "site": "hashnode"
   },
   {
-    "title": "Challenge: Objects - Adding Properties",
-    "link": "https://johnbradbury.hashnode.dev/challenge-objects-adding-properties",
+    "title": "A Simple Guide to Heaps, Stacks, References and Values in Javascript",
+    "link": "https://fjolt.hashnode.dev/a-simple-guide-to-heaps-stacks-references-and-values-in-javascript",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Challenge: Objects - Iterating with for... in",
-    "link": "https://johnbradbury.hashnode.dev/challenge-objects-iterating-with-for-in",
+    "title": "100 Days of Code - Day 20 - Higher-Order Functions in Java Script",
+    "link": "https://myblog.riegercodes.com/100-days-of-code-day-20-higher-order-functions-in-java-script",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Challenge: fizzbuzz",
-    "link": "https://johnbradbury.hashnode.dev/challenge-fizzbuzz",
+    "title": "How Should you Start your Web Development journey",
+    "link": "https://rahulkwh.hashnode.dev/how-should-you-start-your-web-development-journey",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "The Difference Between var, let, and const in JavaScript",
-    "link": "https://codingbootcampguides.com/the-difference-between-var-let-and-const-in-javascript",
+    "title": "Common Errors Beginners Make While Learning Javascript",
+    "link": "https://crasonn.hashnode.dev/common-errors-beginners-make-while-learning-javascript",
     "date": "3/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL",
-    "link": "https://dev.to/tyaga001/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql-20nm",
+    "title": "MONEY )(TANK)(LOAN) (CUSTOMER)( CARE)( NUMBER)( @⑧②⑨②⑧②⑨⑧⑤⑨)fgf",
+    "link": "https://rdsv.hashnode.dev/money-tankloan-customer-care-number-fgf",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "JavaScript 3D project",
-    "link": "https://dev.to/freebeliever/javascript-3d-project-enh",
+    "title": "Pig Latin - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/pig-latin-javascript-solution-and-walkthrough",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "TypeScript syntax summary",
-    "link": "https://dev.to/andrehatlo/typescript-syntax-summary-2a4g",
+    "title": "Using a Hook in a Class Component",
+    "link": "https://nickytonline.hashnode.dev/using-a-hook-in-a-class-component",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "How to Create a Custom Dynamic Middleware for Spatie Laravel Permission",
-    "link": "https://dev.to/codeanddeploy/how-to-create-a-custom-dynamic-middleware-for-spatie-laravel-permission-2a08",
+    "title": "Why I moved to Astro from Gatsby",
+    "link": "https://rodneylab.hashnode.dev/why-i-moved-to-astro",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Jquery Table Check All Plugin",
-    "link": "https://dev.to/codeanddeploy/jquery-table-check-all-plugin-ach",
+    "title": "JavaScript Objects: The object we must have!",
+    "link": "https://hiremeakashdev.hashnode.dev/javascript-objects-the-object-we-must-have",
     "date": "3/28/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Advanced Appetite Fat Burner Reviews - (Pros and Cons) Is It Scam Or Legit?",
-    "link": "https://dev.to/advancedappetitefatburner/advanced-appetite-fat-burner-reviews-pros-and-cons-is-it-scam-or-legit-543c",
+    "title": "RTK, RTKQuery and Valtio",
+    "link": "https://gokhale.me/rtk-rtkquery-and-valtio",
     "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript .call() .apply() .bind() simplified.",
-    "link": "https://dev.to/azmy60/javascript-call-apply-bind-simplified-5d14",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why do I use Next.js in my projects",
-    "link": "https://dev.to/sergchr/why-do-i-use-nextjs-in-my-projects-of8",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel 8 Pagination Example using Bootstrap 5",
-    "link": "https://dev.to/codeanddeploy/laravel-8-pagination-example-using-bootstrap-5-243h",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel 8 Logout Other Devices after Login",
-    "link": "https://dev.to/codeanddeploy/laravel-8-logout-other-devices-after-login-2nne",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoisting in javascript",
-    "link": "https://dev.to/fotiecodes/hoisting-in-javascript-1pk4",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "28 Javascript Array Hacks: A Cheat Sheet for Developer",
-    "link": "https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native: Boilerplates overview",
-    "link": "https://dev.to/andrehatlo/react-native-boilerplates-overview-552g",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "90 % of Javascript Developer fail to answer these code snippets (Asked in Interview) Part-1",
-    "link": "https://dev.to/braincuber_technologies/90-of-javascript-developer-fail-to-answer-these-code-snippets-asked-in-interview-part-1-3561",
-    "date": "3/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Dev Journey: The First 3 Months",
-    "link": "https://realchrisevans.hashnode.dev/web-dev-journey-the-first-3-months",
-    "date": "3/27/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "TOP 10 VsCode Extensions for Web Developers",
-    "link": "https://rahulkwh.hashnode.dev/top-10-vscode-extensions-for-web-developers",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Angular Error-Handling",
-    "link": "https://waterkamp.hashnode.dev/angular-error-handling",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Bypass the CORS Error in Browser?",
-    "link": "https://blog.arnabghosh.me/bypass-cors-error",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Common User-defined or Abstract Data Structures",
-    "link": "https://narravabrion.hashnode.dev/common-user-defined-or-abstract-data-structures",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to copy markdown URL and title using JXA in Raycast (JavaScript automation for macOS)",
-    "link": "https://chodorowicz.hashnode.dev/how-to-copy-markdown-url-and-title-using-jxa-in-raycast-javascript-automation-for-macos",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Disable body scroll on a specific scrollable HTML element",
-    "link": "https://ankita-yadav.hashnode.dev/disable-body-scroll-on-a-specific-scrollable-html-element",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When to use keyExtractor prop in React Native's FlatList",
-    "link": "https://amanhimself.hashnode.dev/when-to-use-keyextractor-prop-in-react-natives-flatlist",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to build a fullstack dApp on Ethereum",
-    "link": "https://xamhans.hashnode.dev/how-to-build-a-fullstack-dapp-on-ethereum",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Neural Networks Explained in 40 Seconds",
-    "link": "https://dev.to/jsstackdevelopers/neural-networks-explained-in-40-seconds-3oj4",
-    "date": "3/27/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Dev Journey: The First 3 Months",
-    "link": "https://realchrisevans.hashnode.dev/web-dev-journey-the-first-3-months",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TOP 10 VsCode Extensions for Web Developers",
-    "link": "https://rahulkwh.hashnode.dev/top-10-vscode-extensions-for-web-developers",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Angular Error-Handling",
-    "link": "https://waterkamp.hashnode.dev/angular-error-handling",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Bypass the CORS Error in Browser?",
-    "link": "https://blog.arnabghosh.me/bypass-cors-error",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Common User-defined or Abstract Data Structures",
-    "link": "https://narravabrion.hashnode.dev/common-user-defined-or-abstract-data-structures",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to copy markdown URL and title using JXA in Raycast (JavaScript automation for macOS)",
-    "link": "https://chodorowicz.hashnode.dev/how-to-copy-markdown-url-and-title-using-jxa-in-raycast-javascript-automation-for-macos",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Disable body scroll on a specific scrollable HTML element",
-    "link": "https://ankita-yadav.hashnode.dev/disable-body-scroll-on-a-specific-scrollable-html-element",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When to use keyExtractor prop in React Native's FlatList",
-    "link": "https://amanhimself.hashnode.dev/when-to-use-keyextractor-prop-in-react-natives-flatlist",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to build a fullstack dApp on Ethereum",
-    "link": "https://xamhans.hashnode.dev/how-to-build-a-fullstack-dapp-on-ethereum",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Neural Networks Explained in 40 Seconds",
-    "link": "https://dev.to/jsstackdevelopers/neural-networks-explained-in-40-seconds-3oj4",
-    "date": "3/27/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Dev Journey: The First 3 Months",
-    "link": "https://realchrisevans.hashnode.dev/web-dev-journey-the-first-3-months",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TOP 10 VsCode Extensions for Web Developers",
-    "link": "https://rahulkwh.hashnode.dev/top-10-vscode-extensions-for-web-developers",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Angular Error-Handling",
-    "link": "https://waterkamp.hashnode.dev/angular-error-handling",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Bypass the CORS Error in Browser?",
-    "link": "https://blog.arnabghosh.me/bypass-cors-error",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Common User-defined or Abstract Data Structures",
-    "link": "https://narravabrion.hashnode.dev/common-user-defined-or-abstract-data-structures",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to copy markdown URL and title using JXA in Raycast (JavaScript automation for macOS)",
-    "link": "https://chodorowicz.hashnode.dev/how-to-copy-markdown-url-and-title-using-jxa-in-raycast-javascript-automation-for-macos",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Disable body scroll on a specific scrollable HTML element",
-    "link": "https://ankita-yadav.hashnode.dev/disable-body-scroll-on-a-specific-scrollable-html-element",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When to use keyExtractor prop in React Native's FlatList",
-    "link": "https://amanhimself.hashnode.dev/when-to-use-keyextractor-prop-in-react-natives-flatlist",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to build a fullstack dApp on Ethereum",
-    "link": "https://xamhans.hashnode.dev/how-to-build-a-fullstack-dapp-on-ethereum",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Neural Networks Explained in 40 Seconds",
-    "link": "https://dev.to/jsstackdevelopers/neural-networks-explained-in-40-seconds-3oj4",
-    "date": "3/27/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Dev Journey: The First 3 Months",
-    "link": "https://realchrisevans.hashnode.dev/web-dev-journey-the-first-3-months",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TOP 10 VsCode Extensions for Web Developers",
-    "link": "https://rahulkwh.hashnode.dev/top-10-vscode-extensions-for-web-developers",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Angular Error-Handling",
-    "link": "https://waterkamp.hashnode.dev/angular-error-handling",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Bypass the CORS Error in Browser?",
-    "link": "https://blog.arnabghosh.me/bypass-cors-error",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Common User-defined or Abstract Data Structures",
-    "link": "https://narravabrion.hashnode.dev/common-user-defined-or-abstract-data-structures",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to copy markdown URL and title using JXA in Raycast (JavaScript automation for macOS)",
-    "link": "https://chodorowicz.hashnode.dev/how-to-copy-markdown-url-and-title-using-jxa-in-raycast-javascript-automation-for-macos",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Disable body scroll on a specific scrollable HTML element",
-    "link": "https://ankita-yadav.hashnode.dev/disable-body-scroll-on-a-specific-scrollable-html-element",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When to use keyExtractor prop in React Native's FlatList",
-    "link": "https://amanhimself.hashnode.dev/when-to-use-keyextractor-prop-in-react-natives-flatlist",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to build a fullstack dApp on Ethereum",
-    "link": "https://xamhans.hashnode.dev/how-to-build-a-fullstack-dapp-on-ethereum",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Neural Networks Explained in 40 Seconds",
-    "link": "https://dev.to/jsstackdevelopers/neural-networks-explained-in-40-seconds-3oj4",
-    "date": "3/27/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Dev Journey: The First 3 Months",
-    "link": "https://realchrisevans.hashnode.dev/web-dev-journey-the-first-3-months",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "TOP 10 VsCode Extensions for Web Developers",
-    "link": "https://rahulkwh.hashnode.dev/top-10-vscode-extensions-for-web-developers",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Angular Error-Handling",
-    "link": "https://waterkamp.hashnode.dev/angular-error-handling",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Bypass the CORS Error in Browser?",
-    "link": "https://blog.arnabghosh.me/bypass-cors-error",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Common User-defined or Abstract Data Structures",
-    "link": "https://narravabrion.hashnode.dev/common-user-defined-or-abstract-data-structures",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to copy markdown URL and title using JXA in Raycast (JavaScript automation for macOS)",
-    "link": "https://chodorowicz.hashnode.dev/how-to-copy-markdown-url-and-title-using-jxa-in-raycast-javascript-automation-for-macos",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Disable body scroll on a specific scrollable HTML element",
-    "link": "https://ankita-yadav.hashnode.dev/disable-body-scroll-on-a-specific-scrollable-html-element",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When to use keyExtractor prop in React Native's FlatList",
-    "link": "https://amanhimself.hashnode.dev/when-to-use-keyextractor-prop-in-react-natives-flatlist",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to build a fullstack dApp on Ethereum",
-    "link": "https://xamhans.hashnode.dev/how-to-build-a-fullstack-dapp-on-ethereum",
-    "date": "3/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Neural Networks Explained in 40 Seconds",
-    "link": "https://dev.to/jsstackdevelopers/neural-networks-explained-in-40-seconds-3oj4",
-    "date": "3/27/2022",
-    "site": "dev.to"
   },
   {
     "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
@@ -1176,7 +1176,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
@@ -1301,7 +1301,7 @@
   {
     "title": "Tree-Shaking: A Reference Guide",
     "link": "https://www.smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "5/14/2021",
     "site": "smashingmagazine"
   },
@@ -1322,7 +1322,7 @@
   {
     "title": "A Guide To Undoing Mistakes With Git (Part 1)",
     "link": "https://www.smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "5/4/2021",
     "site": "smashingmagazine"
   },
