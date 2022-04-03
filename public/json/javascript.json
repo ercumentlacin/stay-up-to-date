@@ -1,105 +1,675 @@
 [
   {
+    "title": "Deploy NodeJS application using Nginx",
+    "link": "https://blogs.jsstackacademy.com/deploy-nodejs-application-using-nginx",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Create & Deploy One Page HTML Websites",
+    "link": "https://jranand.hashnode.dev/create-and-deploy-one-page-html-websites",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "#Week4: Learning JavaScript [My Web Dev journey]",
+    "link": "https://kunal-22.hashnode.dev/week4-learning-javascript-my-web-dev-journey",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Front End Engineer - Graduate Interview Experience at Amazon Dublin",
+    "link": "https://anshshrivastava.hashnode.dev/front-end-engineer-graduate-interview-experience-at-amazon-dublin",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Making a small travel book using react js",
+    "link": "https://shreyashbuilds.hashnode.dev/making-a-small-travel-book-using-react-js",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Top React 18 features in less than 5 mins!",
+    "link": "https://utkarsh22garg.hashnode.dev/top-react-18-features-in-less-than-5-mins",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is a Function?",
+    "link": "https://michaelrjames.hashnode.dev/what-is-a-function",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Communication Between Components In React",
+    "link": "https://blog.ahmedessamsalem.com/communication-between-components-in-react",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "sumZero with O(n) in Javascript.",
+    "link": "https://dev.to/urstrulyvishwak/sumzero-with-on-in-javascript-2126",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Using Create-React-App!",
+    "link": "https://dev.to/hardikmirg/stop-using-create-react-app-3f57",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Noocube – Brain Booster Supplement, Benefits And Fake Results?",
+    "link": "https://dev.to/noocubeinfo/noocube-brain-booster-supplement-benefits-and-fake-results-3kop",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "MongoDB Connection using Mongoose",
+    "link": "https://dev.to/thevinitgupta/mongodb-connection-using-mongoose-2430",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to start using React and Three.js in a few minutes ⏳",
+    "link": "https://dev.to/omher/how-to-start-using-react-and-threejs-in-a-few-minutes-2h6g",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Typing Speed Test Game using javascript",
+    "link": "https://dev.to/yaswanthteja/typing-speed-test-game-using-javascript-in3",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Mantis (M-Ant-is) React Dashboard Template",
+    "link": "https://dev.to/codedthemes/introducing-mantis-m-ant-is-pi6",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is a pure function?",
+    "link": "https://dev.to/chalarangelo/what-is-a-pure-function-1o38",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Thinking to make a travel book in react using props, components and some more basic stuff",
+    "link": "https://dev.to/shrey802/thinking-to-make-a-travel-book-in-react-using-props-components-and-some-more-basic-stuff-46a9",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing AutoLogout Feature in Web Applications (React-JS)",
+    "link": "https://dev.to/olumidesamuel_/implementing-autologout-feature-in-web-applications-react-js-28k5",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 18: Everything you need to know",
+    "link": "https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fixing \"Require statement not part of import statement.eslint[@typescript-eslint/no-var-requires]\"",
+    "link": "https://dev.to/msoup/fixing-require-statement-not-part-of-import-statementeslinttypescript-eslintno-var-requires-25n3",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploy NodeJS application using Nginx",
+    "link": "https://blogs.jsstackacademy.com/deploy-nodejs-application-using-nginx",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Create & Deploy One Page HTML Websites",
+    "link": "https://jranand.hashnode.dev/create-and-deploy-one-page-html-websites",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "#Week4: Learning JavaScript [My Web Dev journey]",
+    "link": "https://kunal-22.hashnode.dev/week4-learning-javascript-my-web-dev-journey",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Front End Engineer - Graduate Interview Experience at Amazon Dublin",
+    "link": "https://anshshrivastava.hashnode.dev/front-end-engineer-graduate-interview-experience-at-amazon-dublin",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Making a small travel book using react js",
+    "link": "https://shreyashbuilds.hashnode.dev/making-a-small-travel-book-using-react-js",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Top React 18 features in less than 5 mins!",
+    "link": "https://utkarsh22garg.hashnode.dev/top-react-18-features-in-less-than-5-mins",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is a Function?",
+    "link": "https://michaelrjames.hashnode.dev/what-is-a-function",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Communication Between Components In React",
+    "link": "https://blog.ahmedessamsalem.com/communication-between-components-in-react",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "sumZero with O(n) in Javascript.",
+    "link": "https://dev.to/urstrulyvishwak/sumzero-with-on-in-javascript-2126",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Using Create-React-App!",
+    "link": "https://dev.to/hardikmirg/stop-using-create-react-app-3f57",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Noocube – Brain Booster Supplement, Benefits And Fake Results?",
+    "link": "https://dev.to/noocubeinfo/noocube-brain-booster-supplement-benefits-and-fake-results-3kop",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "MongoDB Connection using Mongoose",
+    "link": "https://dev.to/thevinitgupta/mongodb-connection-using-mongoose-2430",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to start using React and Three.js in a few minutes ⏳",
+    "link": "https://dev.to/omher/how-to-start-using-react-and-threejs-in-a-few-minutes-2h6g",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Typing Speed Test Game using javascript",
+    "link": "https://dev.to/yaswanthteja/typing-speed-test-game-using-javascript-in3",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Mantis (M-Ant-is) React Dashboard Template",
+    "link": "https://dev.to/codedthemes/introducing-mantis-m-ant-is-pi6",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is a pure function?",
+    "link": "https://dev.to/chalarangelo/what-is-a-pure-function-1o38",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Thinking to make a travel book in react using props, components and some more basic stuff",
+    "link": "https://dev.to/shrey802/thinking-to-make-a-travel-book-in-react-using-props-components-and-some-more-basic-stuff-46a9",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing AutoLogout Feature in Web Applications (React-JS)",
+    "link": "https://dev.to/olumidesamuel_/implementing-autologout-feature-in-web-applications-react-js-28k5",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 18: Everything you need to know",
+    "link": "https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fixing \"Require statement not part of import statement.eslint[@typescript-eslint/no-var-requires]\"",
+    "link": "https://dev.to/msoup/fixing-require-statement-not-part-of-import-statementeslinttypescript-eslintno-var-requires-25n3",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploy NodeJS application using Nginx",
+    "link": "https://blogs.jsstackacademy.com/deploy-nodejs-application-using-nginx",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Create & Deploy One Page HTML Websites",
+    "link": "https://jranand.hashnode.dev/create-and-deploy-one-page-html-websites",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "#Week4: Learning JavaScript [My Web Dev journey]",
+    "link": "https://kunal-22.hashnode.dev/week4-learning-javascript-my-web-dev-journey",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Front End Engineer - Graduate Interview Experience at Amazon Dublin",
+    "link": "https://anshshrivastava.hashnode.dev/front-end-engineer-graduate-interview-experience-at-amazon-dublin",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Making a small travel book using react js",
+    "link": "https://shreyashbuilds.hashnode.dev/making-a-small-travel-book-using-react-js",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Top React 18 features in less than 5 mins!",
+    "link": "https://utkarsh22garg.hashnode.dev/top-react-18-features-in-less-than-5-mins",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is a Function?",
+    "link": "https://michaelrjames.hashnode.dev/what-is-a-function",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Communication Between Components In React",
+    "link": "https://blog.ahmedessamsalem.com/communication-between-components-in-react",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "sumZero with O(n) in Javascript.",
+    "link": "https://dev.to/urstrulyvishwak/sumzero-with-on-in-javascript-2126",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Using Create-React-App!",
+    "link": "https://dev.to/hardikmirg/stop-using-create-react-app-3f57",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Noocube – Brain Booster Supplement, Benefits And Fake Results?",
+    "link": "https://dev.to/noocubeinfo/noocube-brain-booster-supplement-benefits-and-fake-results-3kop",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "MongoDB Connection using Mongoose",
+    "link": "https://dev.to/thevinitgupta/mongodb-connection-using-mongoose-2430",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to start using React and Three.js in a few minutes ⏳",
+    "link": "https://dev.to/omher/how-to-start-using-react-and-threejs-in-a-few-minutes-2h6g",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Typing Speed Test Game using javascript",
+    "link": "https://dev.to/yaswanthteja/typing-speed-test-game-using-javascript-in3",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Mantis (M-Ant-is) React Dashboard Template",
+    "link": "https://dev.to/codedthemes/introducing-mantis-m-ant-is-pi6",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is a pure function?",
+    "link": "https://dev.to/chalarangelo/what-is-a-pure-function-1o38",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Thinking to make a travel book in react using props, components and some more basic stuff",
+    "link": "https://dev.to/shrey802/thinking-to-make-a-travel-book-in-react-using-props-components-and-some-more-basic-stuff-46a9",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing AutoLogout Feature in Web Applications (React-JS)",
+    "link": "https://dev.to/olumidesamuel_/implementing-autologout-feature-in-web-applications-react-js-28k5",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 18: Everything you need to know",
+    "link": "https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fixing \"Require statement not part of import statement.eslint[@typescript-eslint/no-var-requires]\"",
+    "link": "https://dev.to/msoup/fixing-require-statement-not-part-of-import-statementeslinttypescript-eslintno-var-requires-25n3",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploy NodeJS application using Nginx",
+    "link": "https://blogs.jsstackacademy.com/deploy-nodejs-application-using-nginx",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Create & Deploy One Page HTML Websites",
+    "link": "https://jranand.hashnode.dev/create-and-deploy-one-page-html-websites",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "#Week4: Learning JavaScript [My Web Dev journey]",
+    "link": "https://kunal-22.hashnode.dev/week4-learning-javascript-my-web-dev-journey",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Front End Engineer - Graduate Interview Experience at Amazon Dublin",
+    "link": "https://anshshrivastava.hashnode.dev/front-end-engineer-graduate-interview-experience-at-amazon-dublin",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Making a small travel book using react js",
+    "link": "https://shreyashbuilds.hashnode.dev/making-a-small-travel-book-using-react-js",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Top React 18 features in less than 5 mins!",
+    "link": "https://utkarsh22garg.hashnode.dev/top-react-18-features-in-less-than-5-mins",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is a Function?",
+    "link": "https://michaelrjames.hashnode.dev/what-is-a-function",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Communication Between Components In React",
+    "link": "https://blog.ahmedessamsalem.com/communication-between-components-in-react",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "sumZero with O(n) in Javascript.",
+    "link": "https://dev.to/urstrulyvishwak/sumzero-with-on-in-javascript-2126",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Using Create-React-App!",
+    "link": "https://dev.to/hardikmirg/stop-using-create-react-app-3f57",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Noocube – Brain Booster Supplement, Benefits And Fake Results?",
+    "link": "https://dev.to/noocubeinfo/noocube-brain-booster-supplement-benefits-and-fake-results-3kop",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "MongoDB Connection using Mongoose",
+    "link": "https://dev.to/thevinitgupta/mongodb-connection-using-mongoose-2430",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to start using React and Three.js in a few minutes ⏳",
+    "link": "https://dev.to/omher/how-to-start-using-react-and-threejs-in-a-few-minutes-2h6g",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Typing Speed Test Game using javascript",
+    "link": "https://dev.to/yaswanthteja/typing-speed-test-game-using-javascript-in3",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Mantis (M-Ant-is) React Dashboard Template",
+    "link": "https://dev.to/codedthemes/introducing-mantis-m-ant-is-pi6",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is a pure function?",
+    "link": "https://dev.to/chalarangelo/what-is-a-pure-function-1o38",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Thinking to make a travel book in react using props, components and some more basic stuff",
+    "link": "https://dev.to/shrey802/thinking-to-make-a-travel-book-in-react-using-props-components-and-some-more-basic-stuff-46a9",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing AutoLogout Feature in Web Applications (React-JS)",
+    "link": "https://dev.to/olumidesamuel_/implementing-autologout-feature-in-web-applications-react-js-28k5",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 18: Everything you need to know",
+    "link": "https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fixing \"Require statement not part of import statement.eslint[@typescript-eslint/no-var-requires]\"",
+    "link": "https://dev.to/msoup/fixing-require-statement-not-part-of-import-statementeslinttypescript-eslintno-var-requires-25n3",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploy NodeJS application using Nginx",
+    "link": "https://blogs.jsstackacademy.com/deploy-nodejs-application-using-nginx",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Create & Deploy One Page HTML Websites",
+    "link": "https://jranand.hashnode.dev/create-and-deploy-one-page-html-websites",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "#Week4: Learning JavaScript [My Web Dev journey]",
+    "link": "https://kunal-22.hashnode.dev/week4-learning-javascript-my-web-dev-journey",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Front End Engineer - Graduate Interview Experience at Amazon Dublin",
+    "link": "https://anshshrivastava.hashnode.dev/front-end-engineer-graduate-interview-experience-at-amazon-dublin",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Making a small travel book using react js",
+    "link": "https://shreyashbuilds.hashnode.dev/making-a-small-travel-book-using-react-js",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Top React 18 features in less than 5 mins!",
+    "link": "https://utkarsh22garg.hashnode.dev/top-react-18-features-in-less-than-5-mins",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is a Function?",
+    "link": "https://michaelrjames.hashnode.dev/what-is-a-function",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Communication Between Components In React",
+    "link": "https://blog.ahmedessamsalem.com/communication-between-components-in-react",
+    "date": "4/3/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "sumZero with O(n) in Javascript.",
+    "link": "https://dev.to/urstrulyvishwak/sumzero-with-on-in-javascript-2126",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Using Create-React-App!",
+    "link": "https://dev.to/hardikmirg/stop-using-create-react-app-3f57",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Noocube – Brain Booster Supplement, Benefits And Fake Results?",
+    "link": "https://dev.to/noocubeinfo/noocube-brain-booster-supplement-benefits-and-fake-results-3kop",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "MongoDB Connection using Mongoose",
+    "link": "https://dev.to/thevinitgupta/mongodb-connection-using-mongoose-2430",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to start using React and Three.js in a few minutes ⏳",
+    "link": "https://dev.to/omher/how-to-start-using-react-and-threejs-in-a-few-minutes-2h6g",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Typing Speed Test Game using javascript",
+    "link": "https://dev.to/yaswanthteja/typing-speed-test-game-using-javascript-in3",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Mantis (M-Ant-is) React Dashboard Template",
+    "link": "https://dev.to/codedthemes/introducing-mantis-m-ant-is-pi6",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is a pure function?",
+    "link": "https://dev.to/chalarangelo/what-is-a-pure-function-1o38",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Thinking to make a travel book in react using props, components and some more basic stuff",
+    "link": "https://dev.to/shrey802/thinking-to-make-a-travel-book-in-react-using-props-components-and-some-more-basic-stuff-46a9",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing AutoLogout Feature in Web Applications (React-JS)",
+    "link": "https://dev.to/olumidesamuel_/implementing-autologout-feature-in-web-applications-react-js-28k5",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 18: Everything you need to know",
+    "link": "https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fixing \"Require statement not part of import statement.eslint[@typescript-eslint/no-var-requires]\"",
+    "link": "https://dev.to/msoup/fixing-require-statement-not-part-of-import-statementeslinttypescript-eslintno-var-requires-25n3",
+    "date": "4/3/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to (and why) go *serverless*",
+    "link": "https://jorgerl.hashnode.dev/how-to-and-why-go-serverless",
+    "date": "4/2/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A Hired Imposter's Secrets #2 => (The 7 month hired dev??)",
+    "link": "https://rallanvila.hashnode.dev/a-hired-imposters-secrets-2-greater-the-7-month-hired-dev",
+    "date": "4/2/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "Getting started with Web 3.0 for Frontend Engineer",
     "link": "https://suprabhasupi.hashnode.dev/getting-started-with-web-30-for-frontend-engineer",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "React 18 new features",
-    "link": "https://blog.learningmoduleindia.in/react-18-new-features",
+    "title": "Tutorial: Learn Common JavaScript Array Methods By Visualizing Emojis",
+    "link": "https://lordsamdev.hashnode.dev/tutorial-learn-common-javascript-array-methods-by-visualizing-emojis",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "Learning Typescript in 324 Pages -pages (1- 36)",
-    "link": "https://oluwatunmise-olat.hashnode.dev/learning-typescript-in-324-pages-part-a",
+    "title": "JS Array Methods Guide: Array.some()",
+    "link": "https://harshpatel.info/array-some",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "TIL: JSX Styling",
-    "link": "https://matiassemelman.hashnode.dev/til-jsx-styling",
+    "title": "Reverse a String - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/reverse-a-string-javascript-solution-and-walkthrough",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "Beginner’s problem",
-    "link": "https://dev.to/aspiringdev22/beginners-problem-4ieb",
+    "title": "JavaScript Is Fun - JS Tips part #1",
+    "link": "https://octagon.hashnode.dev/javascript-is-fun-js-tips-part-1",
+    "date": "4/2/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Unpacking JavaScript 00: Introduction",
+    "link": "https://dev.to/sfundomhlungu/unpacking-javascript-00-introduction-2c33",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "Big O for Javascript.",
-    "link": "https://dev.to/urstrulyvishwak/big-o-for-javascript-28ne",
+    "title": "Unpacking JavaScript 01: Prototypes(--emulating proto runtime--)",
+    "link": "https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "MediaClasses",
-    "link": "https://dev.to/kolja/mediaclasses-2jln",
+    "title": "Loading external configurations in Angular Universal",
+    "link": "https://dev.to/ayyash/loading-external-configurations-in-angular-universal-4di1",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "Revisiting React Rendering",
-    "link": "https://dev.to/thewritingdev/revisiting-react-rendering-d98",
+    "title": "How to (and why) go *serverless*",
+    "link": "https://jorgerl.hashnode.dev/how-to-and-why-go-serverless",
     "date": "4/2/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Getting started with Web 3.0 for Frontend Engineer",
-    "link": "https://dev.to/suprabhasupi/getting-started-with-web-30-for-frontend-engineer-3iaj",
+    "title": "A Hired Imposter's Secrets #2 => (The 7 month hired dev??)",
+    "link": "https://rallanvila.hashnode.dev/a-hired-imposters-secrets-2-greater-the-7-month-hired-dev",
     "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Auth0 \"Embedded Login\" with React",
-    "link": "https://dev.to/ammarraneez/auth0-embedded-login-with-react-20pm",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Typescript Utility: A Cheat Sheet for Developer",
-    "link": "https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tab and Stack Layout in React Native",
-    "link": "https://dev.to/shubhampatilsd/tab-and-stack-layout-in-react-native-3nlf",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Validate Forms with React Hook Form in React Apps",
-    "link": "https://dev.to/arshadayvid/how-to-validate-forms-with-react-hook-form-in-react-apps-2oi3",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shizzle",
-    "link": "https://dev.to/dapatilblog/shizzle-3k4d",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The important of DRY, KISS, and YAGNI in programming.",
-    "link": "https://dev.to/alfredbis29/the-important-of-dry-kiss-and-yagni-in-programming-4akf",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Planning...",
-    "link": "https://dev.to/warmastr/planning-4lle",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updates from the 89th TC39 meeting",
-    "link": "https://dev.to/hemanth/updates-from-the-89th-tc39-meeting-5bkf",
-    "date": "4/2/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Getting started with Web 3.0 for Frontend Engineer",
@@ -108,100 +678,58 @@
     "site": "hashnode"
   },
   {
-    "title": "React 18 new features",
-    "link": "https://blog.learningmoduleindia.in/react-18-new-features",
+    "title": "Tutorial: Learn Common JavaScript Array Methods By Visualizing Emojis",
+    "link": "https://lordsamdev.hashnode.dev/tutorial-learn-common-javascript-array-methods-by-visualizing-emojis",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "Learning Typescript in 324 Pages -pages (1- 36)",
-    "link": "https://oluwatunmise-olat.hashnode.dev/learning-typescript-in-324-pages-part-a",
+    "title": "JS Array Methods Guide: Array.some()",
+    "link": "https://harshpatel.info/array-some",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "TIL: JSX Styling",
-    "link": "https://matiassemelman.hashnode.dev/til-jsx-styling",
+    "title": "Reverse a String - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/reverse-a-string-javascript-solution-and-walkthrough",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "Beginner’s problem",
-    "link": "https://dev.to/aspiringdev22/beginners-problem-4ieb",
+    "title": "JavaScript Is Fun - JS Tips part #1",
+    "link": "https://octagon.hashnode.dev/javascript-is-fun-js-tips-part-1",
+    "date": "4/2/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Unpacking JavaScript 00: Introduction",
+    "link": "https://dev.to/sfundomhlungu/unpacking-javascript-00-introduction-2c33",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "Big O for Javascript.",
-    "link": "https://dev.to/urstrulyvishwak/big-o-for-javascript-28ne",
+    "title": "Unpacking JavaScript 01: Prototypes(--emulating proto runtime--)",
+    "link": "https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "MediaClasses",
-    "link": "https://dev.to/kolja/mediaclasses-2jln",
+    "title": "Loading external configurations in Angular Universal",
+    "link": "https://dev.to/ayyash/loading-external-configurations-in-angular-universal-4di1",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "Revisiting React Rendering",
-    "link": "https://dev.to/thewritingdev/revisiting-react-rendering-d98",
+    "title": "How to (and why) go *serverless*",
+    "link": "https://jorgerl.hashnode.dev/how-to-and-why-go-serverless",
     "date": "4/2/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Getting started with Web 3.0 for Frontend Engineer",
-    "link": "https://dev.to/suprabhasupi/getting-started-with-web-30-for-frontend-engineer-3iaj",
+    "title": "A Hired Imposter's Secrets #2 => (The 7 month hired dev??)",
+    "link": "https://rallanvila.hashnode.dev/a-hired-imposters-secrets-2-greater-the-7-month-hired-dev",
     "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Auth0 \"Embedded Login\" with React",
-    "link": "https://dev.to/ammarraneez/auth0-embedded-login-with-react-20pm",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Typescript Utility: A Cheat Sheet for Developer",
-    "link": "https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tab and Stack Layout in React Native",
-    "link": "https://dev.to/shubhampatilsd/tab-and-stack-layout-in-react-native-3nlf",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Validate Forms with React Hook Form in React Apps",
-    "link": "https://dev.to/arshadayvid/how-to-validate-forms-with-react-hook-form-in-react-apps-2oi3",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shizzle",
-    "link": "https://dev.to/dapatilblog/shizzle-3k4d",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The important of DRY, KISS, and YAGNI in programming.",
-    "link": "https://dev.to/alfredbis29/the-important-of-dry-kiss-and-yagni-in-programming-4akf",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Planning...",
-    "link": "https://dev.to/warmastr/planning-4lle",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updates from the 89th TC39 meeting",
-    "link": "https://dev.to/hemanth/updates-from-the-89th-tc39-meeting-5bkf",
-    "date": "4/2/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Getting started with Web 3.0 for Frontend Engineer",
@@ -210,100 +738,58 @@
     "site": "hashnode"
   },
   {
-    "title": "React 18 new features",
-    "link": "https://blog.learningmoduleindia.in/react-18-new-features",
+    "title": "Tutorial: Learn Common JavaScript Array Methods By Visualizing Emojis",
+    "link": "https://lordsamdev.hashnode.dev/tutorial-learn-common-javascript-array-methods-by-visualizing-emojis",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "Learning Typescript in 324 Pages -pages (1- 36)",
-    "link": "https://oluwatunmise-olat.hashnode.dev/learning-typescript-in-324-pages-part-a",
+    "title": "JS Array Methods Guide: Array.some()",
+    "link": "https://harshpatel.info/array-some",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "TIL: JSX Styling",
-    "link": "https://matiassemelman.hashnode.dev/til-jsx-styling",
+    "title": "Reverse a String - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/reverse-a-string-javascript-solution-and-walkthrough",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "Beginner’s problem",
-    "link": "https://dev.to/aspiringdev22/beginners-problem-4ieb",
+    "title": "JavaScript Is Fun - JS Tips part #1",
+    "link": "https://octagon.hashnode.dev/javascript-is-fun-js-tips-part-1",
+    "date": "4/2/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Unpacking JavaScript 00: Introduction",
+    "link": "https://dev.to/sfundomhlungu/unpacking-javascript-00-introduction-2c33",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "Big O for Javascript.",
-    "link": "https://dev.to/urstrulyvishwak/big-o-for-javascript-28ne",
+    "title": "Unpacking JavaScript 01: Prototypes(--emulating proto runtime--)",
+    "link": "https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "MediaClasses",
-    "link": "https://dev.to/kolja/mediaclasses-2jln",
+    "title": "Loading external configurations in Angular Universal",
+    "link": "https://dev.to/ayyash/loading-external-configurations-in-angular-universal-4di1",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "Revisiting React Rendering",
-    "link": "https://dev.to/thewritingdev/revisiting-react-rendering-d98",
+    "title": "How to (and why) go *serverless*",
+    "link": "https://jorgerl.hashnode.dev/how-to-and-why-go-serverless",
     "date": "4/2/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Getting started with Web 3.0 for Frontend Engineer",
-    "link": "https://dev.to/suprabhasupi/getting-started-with-web-30-for-frontend-engineer-3iaj",
+    "title": "A Hired Imposter's Secrets #2 => (The 7 month hired dev??)",
+    "link": "https://rallanvila.hashnode.dev/a-hired-imposters-secrets-2-greater-the-7-month-hired-dev",
     "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Auth0 \"Embedded Login\" with React",
-    "link": "https://dev.to/ammarraneez/auth0-embedded-login-with-react-20pm",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Typescript Utility: A Cheat Sheet for Developer",
-    "link": "https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tab and Stack Layout in React Native",
-    "link": "https://dev.to/shubhampatilsd/tab-and-stack-layout-in-react-native-3nlf",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Validate Forms with React Hook Form in React Apps",
-    "link": "https://dev.to/arshadayvid/how-to-validate-forms-with-react-hook-form-in-react-apps-2oi3",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shizzle",
-    "link": "https://dev.to/dapatilblog/shizzle-3k4d",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The important of DRY, KISS, and YAGNI in programming.",
-    "link": "https://dev.to/alfredbis29/the-important-of-dry-kiss-and-yagni-in-programming-4akf",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Planning...",
-    "link": "https://dev.to/warmastr/planning-4lle",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updates from the 89th TC39 meeting",
-    "link": "https://dev.to/hemanth/updates-from-the-89th-tc39-meeting-5bkf",
-    "date": "4/2/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Getting started with Web 3.0 for Frontend Engineer",
@@ -312,100 +798,58 @@
     "site": "hashnode"
   },
   {
-    "title": "React 18 new features",
-    "link": "https://blog.learningmoduleindia.in/react-18-new-features",
+    "title": "Tutorial: Learn Common JavaScript Array Methods By Visualizing Emojis",
+    "link": "https://lordsamdev.hashnode.dev/tutorial-learn-common-javascript-array-methods-by-visualizing-emojis",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "Learning Typescript in 324 Pages -pages (1- 36)",
-    "link": "https://oluwatunmise-olat.hashnode.dev/learning-typescript-in-324-pages-part-a",
+    "title": "JS Array Methods Guide: Array.some()",
+    "link": "https://harshpatel.info/array-some",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "TIL: JSX Styling",
-    "link": "https://matiassemelman.hashnode.dev/til-jsx-styling",
+    "title": "Reverse a String - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/reverse-a-string-javascript-solution-and-walkthrough",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "Beginner’s problem",
-    "link": "https://dev.to/aspiringdev22/beginners-problem-4ieb",
+    "title": "JavaScript Is Fun - JS Tips part #1",
+    "link": "https://octagon.hashnode.dev/javascript-is-fun-js-tips-part-1",
+    "date": "4/2/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Unpacking JavaScript 00: Introduction",
+    "link": "https://dev.to/sfundomhlungu/unpacking-javascript-00-introduction-2c33",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "Big O for Javascript.",
-    "link": "https://dev.to/urstrulyvishwak/big-o-for-javascript-28ne",
+    "title": "Unpacking JavaScript 01: Prototypes(--emulating proto runtime--)",
+    "link": "https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "MediaClasses",
-    "link": "https://dev.to/kolja/mediaclasses-2jln",
+    "title": "Loading external configurations in Angular Universal",
+    "link": "https://dev.to/ayyash/loading-external-configurations-in-angular-universal-4di1",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "Revisiting React Rendering",
-    "link": "https://dev.to/thewritingdev/revisiting-react-rendering-d98",
+    "title": "How to (and why) go *serverless*",
+    "link": "https://jorgerl.hashnode.dev/how-to-and-why-go-serverless",
     "date": "4/2/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Getting started with Web 3.0 for Frontend Engineer",
-    "link": "https://dev.to/suprabhasupi/getting-started-with-web-30-for-frontend-engineer-3iaj",
+    "title": "A Hired Imposter's Secrets #2 => (The 7 month hired dev??)",
+    "link": "https://rallanvila.hashnode.dev/a-hired-imposters-secrets-2-greater-the-7-month-hired-dev",
     "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Auth0 \"Embedded Login\" with React",
-    "link": "https://dev.to/ammarraneez/auth0-embedded-login-with-react-20pm",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Typescript Utility: A Cheat Sheet for Developer",
-    "link": "https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tab and Stack Layout in React Native",
-    "link": "https://dev.to/shubhampatilsd/tab-and-stack-layout-in-react-native-3nlf",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Validate Forms with React Hook Form in React Apps",
-    "link": "https://dev.to/arshadayvid/how-to-validate-forms-with-react-hook-form-in-react-apps-2oi3",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shizzle",
-    "link": "https://dev.to/dapatilblog/shizzle-3k4d",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The important of DRY, KISS, and YAGNI in programming.",
-    "link": "https://dev.to/alfredbis29/the-important-of-dry-kiss-and-yagni-in-programming-4akf",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Planning...",
-    "link": "https://dev.to/warmastr/planning-4lle",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updates from the 89th TC39 meeting",
-    "link": "https://dev.to/hemanth/updates-from-the-89th-tc39-meeting-5bkf",
-    "date": "4/2/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Getting started with Web 3.0 for Frontend Engineer",
@@ -414,98 +858,44 @@
     "site": "hashnode"
   },
   {
-    "title": "React 18 new features",
-    "link": "https://blog.learningmoduleindia.in/react-18-new-features",
+    "title": "Tutorial: Learn Common JavaScript Array Methods By Visualizing Emojis",
+    "link": "https://lordsamdev.hashnode.dev/tutorial-learn-common-javascript-array-methods-by-visualizing-emojis",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "Learning Typescript in 324 Pages -pages (1- 36)",
-    "link": "https://oluwatunmise-olat.hashnode.dev/learning-typescript-in-324-pages-part-a",
+    "title": "JS Array Methods Guide: Array.some()",
+    "link": "https://harshpatel.info/array-some",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "TIL: JSX Styling",
-    "link": "https://matiassemelman.hashnode.dev/til-jsx-styling",
+    "title": "Reverse a String - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/reverse-a-string-javascript-solution-and-walkthrough",
     "date": "4/2/2022",
     "site": "hashnode"
   },
   {
-    "title": "Beginner’s problem",
-    "link": "https://dev.to/aspiringdev22/beginners-problem-4ieb",
+    "title": "JavaScript Is Fun - JS Tips part #1",
+    "link": "https://octagon.hashnode.dev/javascript-is-fun-js-tips-part-1",
+    "date": "4/2/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Unpacking JavaScript 00: Introduction",
+    "link": "https://dev.to/sfundomhlungu/unpacking-javascript-00-introduction-2c33",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "Big O for Javascript.",
-    "link": "https://dev.to/urstrulyvishwak/big-o-for-javascript-28ne",
+    "title": "Unpacking JavaScript 01: Prototypes(--emulating proto runtime--)",
+    "link": "https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68",
     "date": "4/2/2022",
     "site": "dev.to"
   },
   {
-    "title": "MediaClasses",
-    "link": "https://dev.to/kolja/mediaclasses-2jln",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Revisiting React Rendering",
-    "link": "https://dev.to/thewritingdev/revisiting-react-rendering-d98",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting started with Web 3.0 for Frontend Engineer",
-    "link": "https://dev.to/suprabhasupi/getting-started-with-web-30-for-frontend-engineer-3iaj",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Auth0 \"Embedded Login\" with React",
-    "link": "https://dev.to/ammarraneez/auth0-embedded-login-with-react-20pm",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Typescript Utility: A Cheat Sheet for Developer",
-    "link": "https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tab and Stack Layout in React Native",
-    "link": "https://dev.to/shubhampatilsd/tab-and-stack-layout-in-react-native-3nlf",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Validate Forms with React Hook Form in React Apps",
-    "link": "https://dev.to/arshadayvid/how-to-validate-forms-with-react-hook-form-in-react-apps-2oi3",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shizzle",
-    "link": "https://dev.to/dapatilblog/shizzle-3k4d",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The important of DRY, KISS, and YAGNI in programming.",
-    "link": "https://dev.to/alfredbis29/the-important-of-dry-kiss-and-yagni-in-programming-4akf",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Planning...",
-    "link": "https://dev.to/warmastr/planning-4lle",
-    "date": "4/2/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updates from the 89th TC39 meeting",
-    "link": "https://dev.to/hemanth/updates-from-the-89th-tc39-meeting-5bkf",
+    "title": "Loading external configurations in Angular Universal",
+    "link": "https://dev.to/ayyash/loading-external-configurations-in-angular-universal-4di1",
     "date": "4/2/2022",
     "site": "dev.to"
   },
@@ -517,396 +907,6 @@
     "site": "smashingmagazine"
   },
   {
-    "title": "This is how I would explain high-order array methods to a 5-year-old",
-    "link": "https://roshaan.hashnode.dev/this-is-how-i-would-explain-high-order-array-methods-to-a-5-year-old",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Build a Random Color Flipper with Vallina Javascript",
-    "link": "https://blog.timonwa.com/how-to-build-a-random-color-flipper-with-vallina-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Drag'n Drop Dart Game with JavaScript",
-    "link": "https://snake0.hashnode.dev/building-a-dragn-drop-dart-game-with-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Rocketmeme - A Meme Library and Editor for creating and sharing memes",
-    "link": "https://eke.hashnode.dev/rocketmeme-a-meme-library-and-editor-for-creating-and-sharing-memes",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Start Your  Programming Journey !",
-    "link": "https://souravwd.hashnode.dev/how-to-start-your-programming-journey",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Validate Forms with React Hook Form in React Apps",
-    "link": "https://beginnerfriendly.hashnode.dev/how-to-validate-forms-with-react-hook-form-in-react-apps",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Diferenças entre escopos no Javascript",
-    "link": "https://pliniorb.hashnode.dev/diferencas-entre-escopos-no-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Convert Celsius to Fahrenheit - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/convert-celsius-to-fahrenheit-javascript-solution-and-walkthrough",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Don't fear the monad! Maybe implementation in TypeScript",
-    "link": "https://kkalamarski.me/dont-fear-the-monad-maybe-implementation-in-typescript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript is too hard. So I'm pivoting... into a cooking blog!",
-    "link": "https://jorgerl.hashnode.dev/javascript-is-too-hard-so-im-pivoting-into-a-cooking-blog",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "About JavaScript's arguments object and how it works..",
-    "link": "https://jdblogs.hashnode.dev/about-javascripts-arguments-object-and-how-it-works",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Use Google Maps In A Quasar Project",
-    "link": "https://dev.to/quasar/how-to-use-google-maps-in-a-quasar-project-1c13",
-    "date": "4/1/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing Expo Support for Nx",
-    "link": "https://dev.to/nx/introducing-expo-support-for-nx-3ien",
-    "date": "4/1/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This is how I would explain high-order array methods to a 5-year-old",
-    "link": "https://roshaan.hashnode.dev/this-is-how-i-would-explain-high-order-array-methods-to-a-5-year-old",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Build a Random Color Flipper with Vallina Javascript",
-    "link": "https://blog.timonwa.com/how-to-build-a-random-color-flipper-with-vallina-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Drag'n Drop Dart Game with JavaScript",
-    "link": "https://snake0.hashnode.dev/building-a-dragn-drop-dart-game-with-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Rocketmeme - A Meme Library and Editor for creating and sharing memes",
-    "link": "https://eke.hashnode.dev/rocketmeme-a-meme-library-and-editor-for-creating-and-sharing-memes",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Start Your  Programming Journey !",
-    "link": "https://souravwd.hashnode.dev/how-to-start-your-programming-journey",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Validate Forms with React Hook Form in React Apps",
-    "link": "https://beginnerfriendly.hashnode.dev/how-to-validate-forms-with-react-hook-form-in-react-apps",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Diferenças entre escopos no Javascript",
-    "link": "https://pliniorb.hashnode.dev/diferencas-entre-escopos-no-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Convert Celsius to Fahrenheit - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/convert-celsius-to-fahrenheit-javascript-solution-and-walkthrough",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Don't fear the monad! Maybe implementation in TypeScript",
-    "link": "https://kkalamarski.me/dont-fear-the-monad-maybe-implementation-in-typescript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript is too hard. So I'm pivoting... into a cooking blog!",
-    "link": "https://jorgerl.hashnode.dev/javascript-is-too-hard-so-im-pivoting-into-a-cooking-blog",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "About JavaScript's arguments object and how it works..",
-    "link": "https://jdblogs.hashnode.dev/about-javascripts-arguments-object-and-how-it-works",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Use Google Maps In A Quasar Project",
-    "link": "https://dev.to/quasar/how-to-use-google-maps-in-a-quasar-project-1c13",
-    "date": "4/1/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing Expo Support for Nx",
-    "link": "https://dev.to/nx/introducing-expo-support-for-nx-3ien",
-    "date": "4/1/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This is how I would explain high-order array methods to a 5-year-old",
-    "link": "https://roshaan.hashnode.dev/this-is-how-i-would-explain-high-order-array-methods-to-a-5-year-old",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Build a Random Color Flipper with Vallina Javascript",
-    "link": "https://blog.timonwa.com/how-to-build-a-random-color-flipper-with-vallina-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Drag'n Drop Dart Game with JavaScript",
-    "link": "https://snake0.hashnode.dev/building-a-dragn-drop-dart-game-with-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Rocketmeme - A Meme Library and Editor for creating and sharing memes",
-    "link": "https://eke.hashnode.dev/rocketmeme-a-meme-library-and-editor-for-creating-and-sharing-memes",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Start Your  Programming Journey !",
-    "link": "https://souravwd.hashnode.dev/how-to-start-your-programming-journey",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Validate Forms with React Hook Form in React Apps",
-    "link": "https://beginnerfriendly.hashnode.dev/how-to-validate-forms-with-react-hook-form-in-react-apps",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Diferenças entre escopos no Javascript",
-    "link": "https://pliniorb.hashnode.dev/diferencas-entre-escopos-no-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Convert Celsius to Fahrenheit - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/convert-celsius-to-fahrenheit-javascript-solution-and-walkthrough",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Don't fear the monad! Maybe implementation in TypeScript",
-    "link": "https://kkalamarski.me/dont-fear-the-monad-maybe-implementation-in-typescript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript is too hard. So I'm pivoting... into a cooking blog!",
-    "link": "https://jorgerl.hashnode.dev/javascript-is-too-hard-so-im-pivoting-into-a-cooking-blog",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "About JavaScript's arguments object and how it works..",
-    "link": "https://jdblogs.hashnode.dev/about-javascripts-arguments-object-and-how-it-works",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Use Google Maps In A Quasar Project",
-    "link": "https://dev.to/quasar/how-to-use-google-maps-in-a-quasar-project-1c13",
-    "date": "4/1/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing Expo Support for Nx",
-    "link": "https://dev.to/nx/introducing-expo-support-for-nx-3ien",
-    "date": "4/1/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This is how I would explain high-order array methods to a 5-year-old",
-    "link": "https://roshaan.hashnode.dev/this-is-how-i-would-explain-high-order-array-methods-to-a-5-year-old",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Build a Random Color Flipper with Vallina Javascript",
-    "link": "https://blog.timonwa.com/how-to-build-a-random-color-flipper-with-vallina-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Drag'n Drop Dart Game with JavaScript",
-    "link": "https://snake0.hashnode.dev/building-a-dragn-drop-dart-game-with-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Rocketmeme - A Meme Library and Editor for creating and sharing memes",
-    "link": "https://eke.hashnode.dev/rocketmeme-a-meme-library-and-editor-for-creating-and-sharing-memes",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Start Your  Programming Journey !",
-    "link": "https://souravwd.hashnode.dev/how-to-start-your-programming-journey",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Validate Forms with React Hook Form in React Apps",
-    "link": "https://beginnerfriendly.hashnode.dev/how-to-validate-forms-with-react-hook-form-in-react-apps",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Diferenças entre escopos no Javascript",
-    "link": "https://pliniorb.hashnode.dev/diferencas-entre-escopos-no-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Convert Celsius to Fahrenheit - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/convert-celsius-to-fahrenheit-javascript-solution-and-walkthrough",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Don't fear the monad! Maybe implementation in TypeScript",
-    "link": "https://kkalamarski.me/dont-fear-the-monad-maybe-implementation-in-typescript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript is too hard. So I'm pivoting... into a cooking blog!",
-    "link": "https://jorgerl.hashnode.dev/javascript-is-too-hard-so-im-pivoting-into-a-cooking-blog",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "About JavaScript's arguments object and how it works..",
-    "link": "https://jdblogs.hashnode.dev/about-javascripts-arguments-object-and-how-it-works",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Use Google Maps In A Quasar Project",
-    "link": "https://dev.to/quasar/how-to-use-google-maps-in-a-quasar-project-1c13",
-    "date": "4/1/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing Expo Support for Nx",
-    "link": "https://dev.to/nx/introducing-expo-support-for-nx-3ien",
-    "date": "4/1/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This is how I would explain high-order array methods to a 5-year-old",
-    "link": "https://roshaan.hashnode.dev/this-is-how-i-would-explain-high-order-array-methods-to-a-5-year-old",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Build a Random Color Flipper with Vallina Javascript",
-    "link": "https://blog.timonwa.com/how-to-build-a-random-color-flipper-with-vallina-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Drag'n Drop Dart Game with JavaScript",
-    "link": "https://snake0.hashnode.dev/building-a-dragn-drop-dart-game-with-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Rocketmeme - A Meme Library and Editor for creating and sharing memes",
-    "link": "https://eke.hashnode.dev/rocketmeme-a-meme-library-and-editor-for-creating-and-sharing-memes",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Start Your  Programming Journey !",
-    "link": "https://souravwd.hashnode.dev/how-to-start-your-programming-journey",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Validate Forms with React Hook Form in React Apps",
-    "link": "https://beginnerfriendly.hashnode.dev/how-to-validate-forms-with-react-hook-form-in-react-apps",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Diferenças entre escopos no Javascript",
-    "link": "https://pliniorb.hashnode.dev/diferencas-entre-escopos-no-javascript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Convert Celsius to Fahrenheit - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/convert-celsius-to-fahrenheit-javascript-solution-and-walkthrough",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Don't fear the monad! Maybe implementation in TypeScript",
-    "link": "https://kkalamarski.me/dont-fear-the-monad-maybe-implementation-in-typescript",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript is too hard. So I'm pivoting... into a cooking blog!",
-    "link": "https://jorgerl.hashnode.dev/javascript-is-too-hard-so-im-pivoting-into-a-cooking-blog",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "About JavaScript's arguments object and how it works..",
-    "link": "https://jdblogs.hashnode.dev/about-javascripts-arguments-object-and-how-it-works",
-    "date": "4/1/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Use Google Maps In A Quasar Project",
-    "link": "https://dev.to/quasar/how-to-use-google-maps-in-a-quasar-project-1c13",
-    "date": "4/1/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing Expo Support for Nx",
-    "link": "https://dev.to/nx/introducing-expo-support-for-nx-3ien",
-    "date": "4/1/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
     "link": "https://www.smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
     "reading_time": "30 min read",
@@ -916,7 +916,7 @@
   {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
     "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "3/9/2022",
     "site": "smashingmagazine"
   },
@@ -1157,7 +1157,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -1259,7 +1259,7 @@
   {
     "title": "Getting Started With Webpack",
     "link": "https://www.smashingmagazine.com/2021/06/getting-started-webpack/",
-    "reading_time": "19 min read",
+    "reading_time": "20 min read",
     "date": "6/4/2021",
     "site": "smashingmagazine"
   },
