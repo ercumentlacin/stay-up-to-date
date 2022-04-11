@@ -1,111 +1,681 @@
 [
   {
+    "title": "ReactJS Virtual DOM and Reconciliation - Explain Like I'm Five",
+    "link": "https://blog.greenroots.info/reactjs-virtual-dom-and-reconciliation-explain-like-im-five",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How To Get Started With Typescript?",
+    "link": "https://iblogs.uz/how-to-get-started-with-typescript",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways to declare variables in JavaScript: var, let, and const explained",
+    "link": "https://blog.theanshuman.dev/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Step-by-step: How to Create a Vue Multi-Language App with Vue-i18n",
+    "link": "https://blog.flycode.com/step-by-step-how-to-create-a-vue-multi-language-app-with-vue-i18n",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use React Custom Hooks to persist React state in Local Storage.",
+    "link": "https://kitts.hashnode.dev/how-to-use-react-custom-hooks-to-persist-react-state-in-local-storage",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "🖥 ExText, a small and simple web editor",
+    "link": "https://lewdev.hashnode.dev/extext-a-small-and-simple-web-editor",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways to declare variables in JavaScript: var, let, and const explained",
+    "link": "https://dev.to/anshuman_bhardwaj/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained-45am",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript 1O1 series: Conditional statements. if, if else and switch",
+    "link": "https://dev.to/osam1010/javascript-1o1-series-conditional-statements-if-if-else-and-switch-jeh",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Canvas API in JavaScript",
+    "link": "https://dev.to/valenciawhite/using-canvas-api-in-javascript-5ce0",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "External SVGs that you can style",
+    "link": "https://dev.to/javar/external-svgs-that-you-can-style-2a37",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "IP Rotation with NodeJS and Heroku",
+    "link": "https://dev.to/meruzh/ip-rotation-with-nodejs-and-heroku-1oh6",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Heroku: Մեկ NodeJS ծրագրի բազմաթիվ IP հասցեներ",
+    "link": "https://dev.to/meruzh/heroku-mek-nodejs-tsragri-bazmativ-ip-hastsener-2ng7",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Review: Saleor vs Medusa Two Opensource Headless Ecommerce Platforms",
+    "link": "https://dev.to/citizengovind/review-saleor-vs-medusa-two-opensource-headless-ecommerce-platforms-2h4b",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Jetpack compose — Dependency injection with Dagger/HILT",
+    "link": "https://dev.to/canopassoftware/jetpack-compose-dependency-injection-with-daggerhilt-7h4",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dev-Log 1: OH GOD NOT PATHLIB; Gold-Language",
+    "link": "https://dev.to/colack/dev-log-1-oh-god-not-pathlib-gold-language-22c6",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Diabacore - Ingredients, Side Effects, Benefits And Price?",
+    "link": "https://dev.to/diabacorebuys/diabacore-ingredients-side-effects-benefits-and-price-598d",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Biscuit Machinery Manufacturers in India",
+    "link": "https://dev.to/mangalmachines/biscuit-machinery-manufacturers-in-india-4lon",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "SCSS series : Mixins",
+    "link": "https://dev.to/es404020/scss-series-mixins-4km3",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How cool patch-package is?",
+    "link": "https://dev.to/kedzierskidawid/how-cool-patch-package-is-4098",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "NPM Needs: snarkdown",
+    "link": "https://dev.to/andrewusher/npm-needs-snarkdown-3l9b",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Virtual DOM and Reconciliation - Explain Like I'm Five",
+    "link": "https://blog.greenroots.info/reactjs-virtual-dom-and-reconciliation-explain-like-im-five",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How To Get Started With Typescript?",
+    "link": "https://iblogs.uz/how-to-get-started-with-typescript",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways to declare variables in JavaScript: var, let, and const explained",
+    "link": "https://blog.theanshuman.dev/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Step-by-step: How to Create a Vue Multi-Language App with Vue-i18n",
+    "link": "https://blog.flycode.com/step-by-step-how-to-create-a-vue-multi-language-app-with-vue-i18n",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use React Custom Hooks to persist React state in Local Storage.",
+    "link": "https://kitts.hashnode.dev/how-to-use-react-custom-hooks-to-persist-react-state-in-local-storage",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "🖥 ExText, a small and simple web editor",
+    "link": "https://lewdev.hashnode.dev/extext-a-small-and-simple-web-editor",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways to declare variables in JavaScript: var, let, and const explained",
+    "link": "https://dev.to/anshuman_bhardwaj/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained-45am",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript 1O1 series: Conditional statements. if, if else and switch",
+    "link": "https://dev.to/osam1010/javascript-1o1-series-conditional-statements-if-if-else-and-switch-jeh",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Canvas API in JavaScript",
+    "link": "https://dev.to/valenciawhite/using-canvas-api-in-javascript-5ce0",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "External SVGs that you can style",
+    "link": "https://dev.to/javar/external-svgs-that-you-can-style-2a37",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "IP Rotation with NodeJS and Heroku",
+    "link": "https://dev.to/meruzh/ip-rotation-with-nodejs-and-heroku-1oh6",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Heroku: Մեկ NodeJS ծրագրի բազմաթիվ IP հասցեներ",
+    "link": "https://dev.to/meruzh/heroku-mek-nodejs-tsragri-bazmativ-ip-hastsener-2ng7",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Review: Saleor vs Medusa Two Opensource Headless Ecommerce Platforms",
+    "link": "https://dev.to/citizengovind/review-saleor-vs-medusa-two-opensource-headless-ecommerce-platforms-2h4b",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Jetpack compose — Dependency injection with Dagger/HILT",
+    "link": "https://dev.to/canopassoftware/jetpack-compose-dependency-injection-with-daggerhilt-7h4",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dev-Log 1: OH GOD NOT PATHLIB; Gold-Language",
+    "link": "https://dev.to/colack/dev-log-1-oh-god-not-pathlib-gold-language-22c6",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Diabacore - Ingredients, Side Effects, Benefits And Price?",
+    "link": "https://dev.to/diabacorebuys/diabacore-ingredients-side-effects-benefits-and-price-598d",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Biscuit Machinery Manufacturers in India",
+    "link": "https://dev.to/mangalmachines/biscuit-machinery-manufacturers-in-india-4lon",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "SCSS series : Mixins",
+    "link": "https://dev.to/es404020/scss-series-mixins-4km3",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How cool patch-package is?",
+    "link": "https://dev.to/kedzierskidawid/how-cool-patch-package-is-4098",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "NPM Needs: snarkdown",
+    "link": "https://dev.to/andrewusher/npm-needs-snarkdown-3l9b",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Virtual DOM and Reconciliation - Explain Like I'm Five",
+    "link": "https://blog.greenroots.info/reactjs-virtual-dom-and-reconciliation-explain-like-im-five",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How To Get Started With Typescript?",
+    "link": "https://iblogs.uz/how-to-get-started-with-typescript",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways to declare variables in JavaScript: var, let, and const explained",
+    "link": "https://blog.theanshuman.dev/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Step-by-step: How to Create a Vue Multi-Language App with Vue-i18n",
+    "link": "https://blog.flycode.com/step-by-step-how-to-create-a-vue-multi-language-app-with-vue-i18n",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use React Custom Hooks to persist React state in Local Storage.",
+    "link": "https://kitts.hashnode.dev/how-to-use-react-custom-hooks-to-persist-react-state-in-local-storage",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "🖥 ExText, a small and simple web editor",
+    "link": "https://lewdev.hashnode.dev/extext-a-small-and-simple-web-editor",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways to declare variables in JavaScript: var, let, and const explained",
+    "link": "https://dev.to/anshuman_bhardwaj/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained-45am",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript 1O1 series: Conditional statements. if, if else and switch",
+    "link": "https://dev.to/osam1010/javascript-1o1-series-conditional-statements-if-if-else-and-switch-jeh",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Canvas API in JavaScript",
+    "link": "https://dev.to/valenciawhite/using-canvas-api-in-javascript-5ce0",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "External SVGs that you can style",
+    "link": "https://dev.to/javar/external-svgs-that-you-can-style-2a37",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "IP Rotation with NodeJS and Heroku",
+    "link": "https://dev.to/meruzh/ip-rotation-with-nodejs-and-heroku-1oh6",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Heroku: Մեկ NodeJS ծրագրի բազմաթիվ IP հասցեներ",
+    "link": "https://dev.to/meruzh/heroku-mek-nodejs-tsragri-bazmativ-ip-hastsener-2ng7",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Review: Saleor vs Medusa Two Opensource Headless Ecommerce Platforms",
+    "link": "https://dev.to/citizengovind/review-saleor-vs-medusa-two-opensource-headless-ecommerce-platforms-2h4b",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Jetpack compose — Dependency injection with Dagger/HILT",
+    "link": "https://dev.to/canopassoftware/jetpack-compose-dependency-injection-with-daggerhilt-7h4",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dev-Log 1: OH GOD NOT PATHLIB; Gold-Language",
+    "link": "https://dev.to/colack/dev-log-1-oh-god-not-pathlib-gold-language-22c6",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Diabacore - Ingredients, Side Effects, Benefits And Price?",
+    "link": "https://dev.to/diabacorebuys/diabacore-ingredients-side-effects-benefits-and-price-598d",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Biscuit Machinery Manufacturers in India",
+    "link": "https://dev.to/mangalmachines/biscuit-machinery-manufacturers-in-india-4lon",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "SCSS series : Mixins",
+    "link": "https://dev.to/es404020/scss-series-mixins-4km3",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How cool patch-package is?",
+    "link": "https://dev.to/kedzierskidawid/how-cool-patch-package-is-4098",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "NPM Needs: snarkdown",
+    "link": "https://dev.to/andrewusher/npm-needs-snarkdown-3l9b",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Virtual DOM and Reconciliation - Explain Like I'm Five",
+    "link": "https://blog.greenroots.info/reactjs-virtual-dom-and-reconciliation-explain-like-im-five",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How To Get Started With Typescript?",
+    "link": "https://iblogs.uz/how-to-get-started-with-typescript",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways to declare variables in JavaScript: var, let, and const explained",
+    "link": "https://blog.theanshuman.dev/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Step-by-step: How to Create a Vue Multi-Language App with Vue-i18n",
+    "link": "https://blog.flycode.com/step-by-step-how-to-create-a-vue-multi-language-app-with-vue-i18n",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use React Custom Hooks to persist React state in Local Storage.",
+    "link": "https://kitts.hashnode.dev/how-to-use-react-custom-hooks-to-persist-react-state-in-local-storage",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "🖥 ExText, a small and simple web editor",
+    "link": "https://lewdev.hashnode.dev/extext-a-small-and-simple-web-editor",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways to declare variables in JavaScript: var, let, and const explained",
+    "link": "https://dev.to/anshuman_bhardwaj/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained-45am",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript 1O1 series: Conditional statements. if, if else and switch",
+    "link": "https://dev.to/osam1010/javascript-1o1-series-conditional-statements-if-if-else-and-switch-jeh",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Canvas API in JavaScript",
+    "link": "https://dev.to/valenciawhite/using-canvas-api-in-javascript-5ce0",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "External SVGs that you can style",
+    "link": "https://dev.to/javar/external-svgs-that-you-can-style-2a37",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "IP Rotation with NodeJS and Heroku",
+    "link": "https://dev.to/meruzh/ip-rotation-with-nodejs-and-heroku-1oh6",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Heroku: Մեկ NodeJS ծրագրի բազմաթիվ IP հասցեներ",
+    "link": "https://dev.to/meruzh/heroku-mek-nodejs-tsragri-bazmativ-ip-hastsener-2ng7",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Review: Saleor vs Medusa Two Opensource Headless Ecommerce Platforms",
+    "link": "https://dev.to/citizengovind/review-saleor-vs-medusa-two-opensource-headless-ecommerce-platforms-2h4b",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Jetpack compose — Dependency injection with Dagger/HILT",
+    "link": "https://dev.to/canopassoftware/jetpack-compose-dependency-injection-with-daggerhilt-7h4",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dev-Log 1: OH GOD NOT PATHLIB; Gold-Language",
+    "link": "https://dev.to/colack/dev-log-1-oh-god-not-pathlib-gold-language-22c6",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Diabacore - Ingredients, Side Effects, Benefits And Price?",
+    "link": "https://dev.to/diabacorebuys/diabacore-ingredients-side-effects-benefits-and-price-598d",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Biscuit Machinery Manufacturers in India",
+    "link": "https://dev.to/mangalmachines/biscuit-machinery-manufacturers-in-india-4lon",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "SCSS series : Mixins",
+    "link": "https://dev.to/es404020/scss-series-mixins-4km3",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How cool patch-package is?",
+    "link": "https://dev.to/kedzierskidawid/how-cool-patch-package-is-4098",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "NPM Needs: snarkdown",
+    "link": "https://dev.to/andrewusher/npm-needs-snarkdown-3l9b",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Virtual DOM and Reconciliation - Explain Like I'm Five",
+    "link": "https://blog.greenroots.info/reactjs-virtual-dom-and-reconciliation-explain-like-im-five",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How To Get Started With Typescript?",
+    "link": "https://iblogs.uz/how-to-get-started-with-typescript",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways to declare variables in JavaScript: var, let, and const explained",
+    "link": "https://blog.theanshuman.dev/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Step-by-step: How to Create a Vue Multi-Language App with Vue-i18n",
+    "link": "https://blog.flycode.com/step-by-step-how-to-create-a-vue-multi-language-app-with-vue-i18n",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use React Custom Hooks to persist React state in Local Storage.",
+    "link": "https://kitts.hashnode.dev/how-to-use-react-custom-hooks-to-persist-react-state-in-local-storage",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "🖥 ExText, a small and simple web editor",
+    "link": "https://lewdev.hashnode.dev/extext-a-small-and-simple-web-editor",
+    "date": "4/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "3 Ways to declare variables in JavaScript: var, let, and const explained",
+    "link": "https://dev.to/anshuman_bhardwaj/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained-45am",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript 1O1 series: Conditional statements. if, if else and switch",
+    "link": "https://dev.to/osam1010/javascript-1o1-series-conditional-statements-if-if-else-and-switch-jeh",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Canvas API in JavaScript",
+    "link": "https://dev.to/valenciawhite/using-canvas-api-in-javascript-5ce0",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "External SVGs that you can style",
+    "link": "https://dev.to/javar/external-svgs-that-you-can-style-2a37",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "IP Rotation with NodeJS and Heroku",
+    "link": "https://dev.to/meruzh/ip-rotation-with-nodejs-and-heroku-1oh6",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Heroku: Մեկ NodeJS ծրագրի բազմաթիվ IP հասցեներ",
+    "link": "https://dev.to/meruzh/heroku-mek-nodejs-tsragri-bazmativ-ip-hastsener-2ng7",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Review: Saleor vs Medusa Two Opensource Headless Ecommerce Platforms",
+    "link": "https://dev.to/citizengovind/review-saleor-vs-medusa-two-opensource-headless-ecommerce-platforms-2h4b",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Jetpack compose — Dependency injection with Dagger/HILT",
+    "link": "https://dev.to/canopassoftware/jetpack-compose-dependency-injection-with-daggerhilt-7h4",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dev-Log 1: OH GOD NOT PATHLIB; Gold-Language",
+    "link": "https://dev.to/colack/dev-log-1-oh-god-not-pathlib-gold-language-22c6",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Diabacore - Ingredients, Side Effects, Benefits And Price?",
+    "link": "https://dev.to/diabacorebuys/diabacore-ingredients-side-effects-benefits-and-price-598d",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Biscuit Machinery Manufacturers in India",
+    "link": "https://dev.to/mangalmachines/biscuit-machinery-manufacturers-in-india-4lon",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "SCSS series : Mixins",
+    "link": "https://dev.to/es404020/scss-series-mixins-4km3",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How cool patch-package is?",
+    "link": "https://dev.to/kedzierskidawid/how-cool-patch-package-is-4098",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "NPM Needs: snarkdown",
+    "link": "https://dev.to/andrewusher/npm-needs-snarkdown-3l9b",
+    "date": "4/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to add SEO Meta tags in your Next.js apps",
+    "link": "https://seven.hashnode.dev/seo-in-nextjs-apps",
+    "date": "4/10/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting Up My First Open-Source Project",
+    "link": "https://mudit.hashnode.dev/setting-up-my-first-open-source-project",
+    "date": "4/10/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "NaPoWriMo x NaPoGenMo Prompt Day 10 : RantFromBeyond",
+    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-10-rantfrombeyond",
+    "date": "4/10/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to build robust Vue 3 components",
+    "link": "https://r.bluethl.net/how-to-build-robust-vue-3-components",
+    "date": "4/10/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "I stopped using environment variables for config.",
     "link": "https://maheshchandraregmi.com.np/i-stopped-using-environment-variables-for-config",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "React smooth scroll to top of page when route changes",
-    "link": "https://narravabrion.hashnode.dev/react-smooth-scroll-to-top-of-page-when-route-changes",
+    "title": "The Best Portfolio And Blogs Websites 2022",
+    "link": "https://programming-school.hashnode.dev/the-best-portfolio-and-blogs-websites-2022",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "console.log 2 clipboard",
-    "link": "https://decker.hashnode.dev/consolelog-2-clipboard",
+    "title": "Differences Between VAR, CONST, LET In Javascript",
+    "link": "https://ridwanlahi.hashnode.dev/differences-between-var-const-let-in-javascript",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Advanced JSON-Server Tips for full fake REST API",
-    "link": "https://decker.hashnode.dev/advanced-json-server-tips-for-full-fake-rest-api",
+    "title": "CSS Houdini Jump-start",
+    "link": "https://kishoreconnect.com/css-houdini-jump-start",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Why you should always Cleanup Side Effects in React useEffect and How to Cleanup",
-    "link": "https://dillion.hashnode.dev/why-you-should-always-cleanup-side-effects-in-react-useeffect-and-how-to-cleanup",
+    "title": "Open Source Adventures: Episode 36: Using D3 to figure out when Russia will lose its last armored vehicle",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-36-using-d3-to-figure-out-when-russia-will-lose-its-last-armored-vehicle",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
-    "link": "https://davipon.hashnode.dev/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project",
+    "title": "How to add SEO Meta tags in your Next.js apps",
+    "link": "https://seven.hashnode.dev/seo-in-nextjs-apps",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "The best way to understand a Framework is to …?",
-    "link": "https://decker.hashnode.dev/the-best-way-to-understand-a-framework-is-to",
+    "title": "Setting Up My First Open-Source Project",
+    "link": "https://mudit.hashnode.dev/setting-up-my-first-open-source-project",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "React Cheat Sheet (with React 18)",
-    "link": "https://dev.to/ruppysuppy/react-cheat-sheet-with-react-18-4jl2",
+    "title": "NaPoWriMo x NaPoGenMo Prompt Day 10 : RantFromBeyond",
+    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-10-rantfrombeyond",
     "date": "4/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Finished first JavaScript project",
-    "link": "https://dev.to/datamoshing/finished-first-javascript-project-2ki9",
+    "title": "How to build robust Vue 3 components",
+    "link": "https://r.bluethl.net/how-to-build-robust-vue-3-components",
     "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JOBPkdo- a smart voice search based platform to find Intern, Jobs",
-    "link": "https://dev.to/gulshanaggarwal/jobpkdo-a-smart-voice-search-based-platform-to-find-intern-jobs-422m",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
-    "link": "https://dev.to/davipon/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project-14pc",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "LifeStyle Keto - Weight Loss Results, Uses, Benefits And Ingredients",
-    "link": "https://dev.to/lifestyleketof1/lifestyle-keto-weight-loss-results-uses-benefits-and-ingredients-3kn2",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rest parameters of JavaScript",
-    "link": "https://dev.to/ashutoshbw314/rest-parameters-of-javascript-3jk3",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Grit",
-    "link": "https://dev.to/warmastr/grit-1m34",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Opensea like NFT marketplace using Moralis.",
-    "link": "https://dev.to/pankajrathore9599/create-opensea-like-nft-marketplace-using-moralis-3m7m",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to track user activities on your website",
-    "link": "https://dev.to/freebeliever/how-to-track-user-activities-on-your-website-48l8",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How does JavaScript's prototypal inheritance differ from classical inheritance?",
-    "link": "https://dev.to/chalarangelo/how-does-javascripts-prototypal-inheritance-differ-from-classical-inheritance-oii",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Amazing New Tab Focus Page With JavaScript",
-    "link": "https://dev.to/eduardoslompo/amazing-new-tab-focus-page-with-javascript-3jkg",
-    "date": "4/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "I stopped using environment variables for config.",
@@ -114,106 +684,52 @@
     "site": "hashnode"
   },
   {
-    "title": "React smooth scroll to top of page when route changes",
-    "link": "https://narravabrion.hashnode.dev/react-smooth-scroll-to-top-of-page-when-route-changes",
+    "title": "The Best Portfolio And Blogs Websites 2022",
+    "link": "https://programming-school.hashnode.dev/the-best-portfolio-and-blogs-websites-2022",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "console.log 2 clipboard",
-    "link": "https://decker.hashnode.dev/consolelog-2-clipboard",
+    "title": "Differences Between VAR, CONST, LET In Javascript",
+    "link": "https://ridwanlahi.hashnode.dev/differences-between-var-const-let-in-javascript",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Advanced JSON-Server Tips for full fake REST API",
-    "link": "https://decker.hashnode.dev/advanced-json-server-tips-for-full-fake-rest-api",
+    "title": "CSS Houdini Jump-start",
+    "link": "https://kishoreconnect.com/css-houdini-jump-start",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Why you should always Cleanup Side Effects in React useEffect and How to Cleanup",
-    "link": "https://dillion.hashnode.dev/why-you-should-always-cleanup-side-effects-in-react-useeffect-and-how-to-cleanup",
+    "title": "Open Source Adventures: Episode 36: Using D3 to figure out when Russia will lose its last armored vehicle",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-36-using-d3-to-figure-out-when-russia-will-lose-its-last-armored-vehicle",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
-    "link": "https://davipon.hashnode.dev/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project",
+    "title": "How to add SEO Meta tags in your Next.js apps",
+    "link": "https://seven.hashnode.dev/seo-in-nextjs-apps",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "The best way to understand a Framework is to …?",
-    "link": "https://decker.hashnode.dev/the-best-way-to-understand-a-framework-is-to",
+    "title": "Setting Up My First Open-Source Project",
+    "link": "https://mudit.hashnode.dev/setting-up-my-first-open-source-project",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "React Cheat Sheet (with React 18)",
-    "link": "https://dev.to/ruppysuppy/react-cheat-sheet-with-react-18-4jl2",
+    "title": "NaPoWriMo x NaPoGenMo Prompt Day 10 : RantFromBeyond",
+    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-10-rantfrombeyond",
     "date": "4/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Finished first JavaScript project",
-    "link": "https://dev.to/datamoshing/finished-first-javascript-project-2ki9",
+    "title": "How to build robust Vue 3 components",
+    "link": "https://r.bluethl.net/how-to-build-robust-vue-3-components",
     "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JOBPkdo- a smart voice search based platform to find Intern, Jobs",
-    "link": "https://dev.to/gulshanaggarwal/jobpkdo-a-smart-voice-search-based-platform-to-find-intern-jobs-422m",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
-    "link": "https://dev.to/davipon/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project-14pc",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "LifeStyle Keto - Weight Loss Results, Uses, Benefits And Ingredients",
-    "link": "https://dev.to/lifestyleketof1/lifestyle-keto-weight-loss-results-uses-benefits-and-ingredients-3kn2",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rest parameters of JavaScript",
-    "link": "https://dev.to/ashutoshbw314/rest-parameters-of-javascript-3jk3",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Grit",
-    "link": "https://dev.to/warmastr/grit-1m34",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Opensea like NFT marketplace using Moralis.",
-    "link": "https://dev.to/pankajrathore9599/create-opensea-like-nft-marketplace-using-moralis-3m7m",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to track user activities on your website",
-    "link": "https://dev.to/freebeliever/how-to-track-user-activities-on-your-website-48l8",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How does JavaScript's prototypal inheritance differ from classical inheritance?",
-    "link": "https://dev.to/chalarangelo/how-does-javascripts-prototypal-inheritance-differ-from-classical-inheritance-oii",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Amazing New Tab Focus Page With JavaScript",
-    "link": "https://dev.to/eduardoslompo/amazing-new-tab-focus-page-with-javascript-3jkg",
-    "date": "4/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "I stopped using environment variables for config.",
@@ -222,106 +738,52 @@
     "site": "hashnode"
   },
   {
-    "title": "React smooth scroll to top of page when route changes",
-    "link": "https://narravabrion.hashnode.dev/react-smooth-scroll-to-top-of-page-when-route-changes",
+    "title": "The Best Portfolio And Blogs Websites 2022",
+    "link": "https://programming-school.hashnode.dev/the-best-portfolio-and-blogs-websites-2022",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "console.log 2 clipboard",
-    "link": "https://decker.hashnode.dev/consolelog-2-clipboard",
+    "title": "Differences Between VAR, CONST, LET In Javascript",
+    "link": "https://ridwanlahi.hashnode.dev/differences-between-var-const-let-in-javascript",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Advanced JSON-Server Tips for full fake REST API",
-    "link": "https://decker.hashnode.dev/advanced-json-server-tips-for-full-fake-rest-api",
+    "title": "CSS Houdini Jump-start",
+    "link": "https://kishoreconnect.com/css-houdini-jump-start",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Why you should always Cleanup Side Effects in React useEffect and How to Cleanup",
-    "link": "https://dillion.hashnode.dev/why-you-should-always-cleanup-side-effects-in-react-useeffect-and-how-to-cleanup",
+    "title": "Open Source Adventures: Episode 36: Using D3 to figure out when Russia will lose its last armored vehicle",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-36-using-d3-to-figure-out-when-russia-will-lose-its-last-armored-vehicle",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
-    "link": "https://davipon.hashnode.dev/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project",
+    "title": "How to add SEO Meta tags in your Next.js apps",
+    "link": "https://seven.hashnode.dev/seo-in-nextjs-apps",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "The best way to understand a Framework is to …?",
-    "link": "https://decker.hashnode.dev/the-best-way-to-understand-a-framework-is-to",
+    "title": "Setting Up My First Open-Source Project",
+    "link": "https://mudit.hashnode.dev/setting-up-my-first-open-source-project",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "React Cheat Sheet (with React 18)",
-    "link": "https://dev.to/ruppysuppy/react-cheat-sheet-with-react-18-4jl2",
+    "title": "NaPoWriMo x NaPoGenMo Prompt Day 10 : RantFromBeyond",
+    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-10-rantfrombeyond",
     "date": "4/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Finished first JavaScript project",
-    "link": "https://dev.to/datamoshing/finished-first-javascript-project-2ki9",
+    "title": "How to build robust Vue 3 components",
+    "link": "https://r.bluethl.net/how-to-build-robust-vue-3-components",
     "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JOBPkdo- a smart voice search based platform to find Intern, Jobs",
-    "link": "https://dev.to/gulshanaggarwal/jobpkdo-a-smart-voice-search-based-platform-to-find-intern-jobs-422m",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
-    "link": "https://dev.to/davipon/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project-14pc",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "LifeStyle Keto - Weight Loss Results, Uses, Benefits And Ingredients",
-    "link": "https://dev.to/lifestyleketof1/lifestyle-keto-weight-loss-results-uses-benefits-and-ingredients-3kn2",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rest parameters of JavaScript",
-    "link": "https://dev.to/ashutoshbw314/rest-parameters-of-javascript-3jk3",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Grit",
-    "link": "https://dev.to/warmastr/grit-1m34",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Opensea like NFT marketplace using Moralis.",
-    "link": "https://dev.to/pankajrathore9599/create-opensea-like-nft-marketplace-using-moralis-3m7m",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to track user activities on your website",
-    "link": "https://dev.to/freebeliever/how-to-track-user-activities-on-your-website-48l8",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How does JavaScript's prototypal inheritance differ from classical inheritance?",
-    "link": "https://dev.to/chalarangelo/how-does-javascripts-prototypal-inheritance-differ-from-classical-inheritance-oii",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Amazing New Tab Focus Page With JavaScript",
-    "link": "https://dev.to/eduardoslompo/amazing-new-tab-focus-page-with-javascript-3jkg",
-    "date": "4/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "I stopped using environment variables for config.",
@@ -330,106 +792,52 @@
     "site": "hashnode"
   },
   {
-    "title": "React smooth scroll to top of page when route changes",
-    "link": "https://narravabrion.hashnode.dev/react-smooth-scroll-to-top-of-page-when-route-changes",
+    "title": "The Best Portfolio And Blogs Websites 2022",
+    "link": "https://programming-school.hashnode.dev/the-best-portfolio-and-blogs-websites-2022",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "console.log 2 clipboard",
-    "link": "https://decker.hashnode.dev/consolelog-2-clipboard",
+    "title": "Differences Between VAR, CONST, LET In Javascript",
+    "link": "https://ridwanlahi.hashnode.dev/differences-between-var-const-let-in-javascript",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Advanced JSON-Server Tips for full fake REST API",
-    "link": "https://decker.hashnode.dev/advanced-json-server-tips-for-full-fake-rest-api",
+    "title": "CSS Houdini Jump-start",
+    "link": "https://kishoreconnect.com/css-houdini-jump-start",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Why you should always Cleanup Side Effects in React useEffect and How to Cleanup",
-    "link": "https://dillion.hashnode.dev/why-you-should-always-cleanup-side-effects-in-react-useeffect-and-how-to-cleanup",
+    "title": "Open Source Adventures: Episode 36: Using D3 to figure out when Russia will lose its last armored vehicle",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-36-using-d3-to-figure-out-when-russia-will-lose-its-last-armored-vehicle",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
-    "link": "https://davipon.hashnode.dev/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project",
+    "title": "How to add SEO Meta tags in your Next.js apps",
+    "link": "https://seven.hashnode.dev/seo-in-nextjs-apps",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "The best way to understand a Framework is to …?",
-    "link": "https://decker.hashnode.dev/the-best-way-to-understand-a-framework-is-to",
+    "title": "Setting Up My First Open-Source Project",
+    "link": "https://mudit.hashnode.dev/setting-up-my-first-open-source-project",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "React Cheat Sheet (with React 18)",
-    "link": "https://dev.to/ruppysuppy/react-cheat-sheet-with-react-18-4jl2",
+    "title": "NaPoWriMo x NaPoGenMo Prompt Day 10 : RantFromBeyond",
+    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-10-rantfrombeyond",
     "date": "4/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Finished first JavaScript project",
-    "link": "https://dev.to/datamoshing/finished-first-javascript-project-2ki9",
+    "title": "How to build robust Vue 3 components",
+    "link": "https://r.bluethl.net/how-to-build-robust-vue-3-components",
     "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JOBPkdo- a smart voice search based platform to find Intern, Jobs",
-    "link": "https://dev.to/gulshanaggarwal/jobpkdo-a-smart-voice-search-based-platform-to-find-intern-jobs-422m",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
-    "link": "https://dev.to/davipon/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project-14pc",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "LifeStyle Keto - Weight Loss Results, Uses, Benefits And Ingredients",
-    "link": "https://dev.to/lifestyleketof1/lifestyle-keto-weight-loss-results-uses-benefits-and-ingredients-3kn2",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rest parameters of JavaScript",
-    "link": "https://dev.to/ashutoshbw314/rest-parameters-of-javascript-3jk3",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Grit",
-    "link": "https://dev.to/warmastr/grit-1m34",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Opensea like NFT marketplace using Moralis.",
-    "link": "https://dev.to/pankajrathore9599/create-opensea-like-nft-marketplace-using-moralis-3m7m",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to track user activities on your website",
-    "link": "https://dev.to/freebeliever/how-to-track-user-activities-on-your-website-48l8",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How does JavaScript's prototypal inheritance differ from classical inheritance?",
-    "link": "https://dev.to/chalarangelo/how-does-javascripts-prototypal-inheritance-differ-from-classical-inheritance-oii",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Amazing New Tab Focus Page With JavaScript",
-    "link": "https://dev.to/eduardoslompo/amazing-new-tab-focus-page-with-javascript-3jkg",
-    "date": "4/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "I stopped using environment variables for config.",
@@ -438,158 +846,32 @@
     "site": "hashnode"
   },
   {
-    "title": "React smooth scroll to top of page when route changes",
-    "link": "https://narravabrion.hashnode.dev/react-smooth-scroll-to-top-of-page-when-route-changes",
+    "title": "The Best Portfolio And Blogs Websites 2022",
+    "link": "https://programming-school.hashnode.dev/the-best-portfolio-and-blogs-websites-2022",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "console.log 2 clipboard",
-    "link": "https://decker.hashnode.dev/consolelog-2-clipboard",
+    "title": "Differences Between VAR, CONST, LET In Javascript",
+    "link": "https://ridwanlahi.hashnode.dev/differences-between-var-const-let-in-javascript",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Advanced JSON-Server Tips for full fake REST API",
-    "link": "https://decker.hashnode.dev/advanced-json-server-tips-for-full-fake-rest-api",
+    "title": "CSS Houdini Jump-start",
+    "link": "https://kishoreconnect.com/css-houdini-jump-start",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Why you should always Cleanup Side Effects in React useEffect and How to Cleanup",
-    "link": "https://dillion.hashnode.dev/why-you-should-always-cleanup-side-effects-in-react-useeffect-and-how-to-cleanup",
+    "title": "Open Source Adventures: Episode 36: Using D3 to figure out when Russia will lose its last armored vehicle",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-36-using-d3-to-figure-out-when-russia-will-lose-its-last-armored-vehicle",
     "date": "4/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
-    "link": "https://davipon.hashnode.dev/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project",
-    "date": "4/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The best way to understand a Framework is to …?",
-    "link": "https://decker.hashnode.dev/the-best-way-to-understand-a-framework-is-to",
-    "date": "4/10/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React Cheat Sheet (with React 18)",
-    "link": "https://dev.to/ruppysuppy/react-cheat-sheet-with-react-18-4jl2",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Finished first JavaScript project",
-    "link": "https://dev.to/datamoshing/finished-first-javascript-project-2ki9",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JOBPkdo- a smart voice search based platform to find Intern, Jobs",
-    "link": "https://dev.to/gulshanaggarwal/jobpkdo-a-smart-voice-search-based-platform-to-find-intern-jobs-422m",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project",
-    "link": "https://dev.to/davipon/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project-14pc",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "LifeStyle Keto - Weight Loss Results, Uses, Benefits And Ingredients",
-    "link": "https://dev.to/lifestyleketof1/lifestyle-keto-weight-loss-results-uses-benefits-and-ingredients-3kn2",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rest parameters of JavaScript",
-    "link": "https://dev.to/ashutoshbw314/rest-parameters-of-javascript-3jk3",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Grit",
-    "link": "https://dev.to/warmastr/grit-1m34",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Opensea like NFT marketplace using Moralis.",
-    "link": "https://dev.to/pankajrathore9599/create-opensea-like-nft-marketplace-using-moralis-3m7m",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to track user activities on your website",
-    "link": "https://dev.to/freebeliever/how-to-track-user-activities-on-your-website-48l8",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How does JavaScript's prototypal inheritance differ from classical inheritance?",
-    "link": "https://dev.to/chalarangelo/how-does-javascripts-prototypal-inheritance-differ-from-classical-inheritance-oii",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Amazing New Tab Focus Page With JavaScript",
-    "link": "https://dev.to/eduardoslompo/amazing-new-tab-focus-page-with-javascript-3jkg",
-    "date": "4/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Use React-Admin with Firebase",
-    "link": "https://sunkanmi.hashnode.dev/how-to-use-react-admin-with-firebase",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Beginner's introduction to redux toolkit",
-    "link": "https://bukss.hashnode.dev/a-beginners-introduction-to-redux-toolkit",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Solve Coding Problems Like A Pro",
-    "link": "https://therevealer.hashnode.dev/how-to-solve-coding-problems-like-a-pro",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "13 Interesting Placeholder tools",
-    "link": "https://muthuannamalai.tech/13-interesting-placeholder-tools",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When to use logical OR vs. nullish coalescing in JavaScript",
-    "link": "https://blog.zachsnoek.com/when-to-use-logical-or-vs-nullish-coalescing-in-javascript",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Javascript Array Methods Like I am 5",
-    "link": "https://isahibrahim.hashnode.dev/javascript-array-methods-like-i-am-5",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I create my portfolio today, I want your reviews.",
-    "link": "https://abhayprajapati.hashnode.dev/i-create-my-portfolio-today-i-want-your-reviews",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 JavaScript concepts for React beginners - With Code Samples",
-    "link": "https://app-generator.hashnode.dev/10-javascript-concepts-for-react-beginners-with-code-samples",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 JavaScript concepts for React beginners",
-    "link": "https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n",
+    "title": "Bad Habits of Mid-Level React Developers",
+    "link": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
     "date": "4/9/2022",
     "site": "dev.to"
   },
@@ -600,68 +882,8 @@
     "site": "dev.to"
   },
   {
-    "title": "33 JavaScript Concepts Every Developer Should Know 🤓️💯️",
-    "link": "https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NPM Needs: pretty-bytes",
-    "link": "https://dev.to/andrewusher/npm-needs-pretty-bytes-4h56",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Use React-Admin with Firebase",
-    "link": "https://sunkanmi.hashnode.dev/how-to-use-react-admin-with-firebase",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Beginner's introduction to redux toolkit",
-    "link": "https://bukss.hashnode.dev/a-beginners-introduction-to-redux-toolkit",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Solve Coding Problems Like A Pro",
-    "link": "https://therevealer.hashnode.dev/how-to-solve-coding-problems-like-a-pro",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "13 Interesting Placeholder tools",
-    "link": "https://muthuannamalai.tech/13-interesting-placeholder-tools",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When to use logical OR vs. nullish coalescing in JavaScript",
-    "link": "https://blog.zachsnoek.com/when-to-use-logical-or-vs-nullish-coalescing-in-javascript",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Javascript Array Methods Like I am 5",
-    "link": "https://isahibrahim.hashnode.dev/javascript-array-methods-like-i-am-5",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I create my portfolio today, I want your reviews.",
-    "link": "https://abhayprajapati.hashnode.dev/i-create-my-portfolio-today-i-want-your-reviews",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 JavaScript concepts for React beginners - With Code Samples",
-    "link": "https://app-generator.hashnode.dev/10-javascript-concepts-for-react-beginners-with-code-samples",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 JavaScript concepts for React beginners",
-    "link": "https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n",
+    "title": "Bad Habits of Mid-Level React Developers",
+    "link": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
     "date": "4/9/2022",
     "site": "dev.to"
   },
@@ -672,230 +894,8 @@
     "site": "dev.to"
   },
   {
-    "title": "33 JavaScript Concepts Every Developer Should Know 🤓️💯️",
-    "link": "https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NPM Needs: pretty-bytes",
-    "link": "https://dev.to/andrewusher/npm-needs-pretty-bytes-4h56",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Use React-Admin with Firebase",
-    "link": "https://sunkanmi.hashnode.dev/how-to-use-react-admin-with-firebase",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Beginner's introduction to redux toolkit",
-    "link": "https://bukss.hashnode.dev/a-beginners-introduction-to-redux-toolkit",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Solve Coding Problems Like A Pro",
-    "link": "https://therevealer.hashnode.dev/how-to-solve-coding-problems-like-a-pro",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "13 Interesting Placeholder tools",
-    "link": "https://muthuannamalai.tech/13-interesting-placeholder-tools",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When to use logical OR vs. nullish coalescing in JavaScript",
-    "link": "https://blog.zachsnoek.com/when-to-use-logical-or-vs-nullish-coalescing-in-javascript",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Javascript Array Methods Like I am 5",
-    "link": "https://isahibrahim.hashnode.dev/javascript-array-methods-like-i-am-5",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I create my portfolio today, I want your reviews.",
-    "link": "https://abhayprajapati.hashnode.dev/i-create-my-portfolio-today-i-want-your-reviews",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 JavaScript concepts for React beginners - With Code Samples",
-    "link": "https://app-generator.hashnode.dev/10-javascript-concepts-for-react-beginners-with-code-samples",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 JavaScript concepts for React beginners",
-    "link": "https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Bad Habits of Mid-Level React Developers",
     "link": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "33 JavaScript Concepts Every Developer Should Know 🤓️💯️",
-    "link": "https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NPM Needs: pretty-bytes",
-    "link": "https://dev.to/andrewusher/npm-needs-pretty-bytes-4h56",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Use React-Admin with Firebase",
-    "link": "https://sunkanmi.hashnode.dev/how-to-use-react-admin-with-firebase",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Beginner's introduction to redux toolkit",
-    "link": "https://bukss.hashnode.dev/a-beginners-introduction-to-redux-toolkit",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Solve Coding Problems Like A Pro",
-    "link": "https://therevealer.hashnode.dev/how-to-solve-coding-problems-like-a-pro",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "13 Interesting Placeholder tools",
-    "link": "https://muthuannamalai.tech/13-interesting-placeholder-tools",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When to use logical OR vs. nullish coalescing in JavaScript",
-    "link": "https://blog.zachsnoek.com/when-to-use-logical-or-vs-nullish-coalescing-in-javascript",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Javascript Array Methods Like I am 5",
-    "link": "https://isahibrahim.hashnode.dev/javascript-array-methods-like-i-am-5",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I create my portfolio today, I want your reviews.",
-    "link": "https://abhayprajapati.hashnode.dev/i-create-my-portfolio-today-i-want-your-reviews",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 JavaScript concepts for React beginners - With Code Samples",
-    "link": "https://app-generator.hashnode.dev/10-javascript-concepts-for-react-beginners-with-code-samples",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 JavaScript concepts for React beginners",
-    "link": "https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bad Habits of Mid-Level React Developers",
-    "link": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "33 JavaScript Concepts Every Developer Should Know 🤓️💯️",
-    "link": "https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NPM Needs: pretty-bytes",
-    "link": "https://dev.to/andrewusher/npm-needs-pretty-bytes-4h56",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Use React-Admin with Firebase",
-    "link": "https://sunkanmi.hashnode.dev/how-to-use-react-admin-with-firebase",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Beginner's introduction to redux toolkit",
-    "link": "https://bukss.hashnode.dev/a-beginners-introduction-to-redux-toolkit",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How To Solve Coding Problems Like A Pro",
-    "link": "https://therevealer.hashnode.dev/how-to-solve-coding-problems-like-a-pro",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "13 Interesting Placeholder tools",
-    "link": "https://muthuannamalai.tech/13-interesting-placeholder-tools",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "When to use logical OR vs. nullish coalescing in JavaScript",
-    "link": "https://blog.zachsnoek.com/when-to-use-logical-or-vs-nullish-coalescing-in-javascript",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Javascript Array Methods Like I am 5",
-    "link": "https://isahibrahim.hashnode.dev/javascript-array-methods-like-i-am-5",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I create my portfolio today, I want your reviews.",
-    "link": "https://abhayprajapati.hashnode.dev/i-create-my-portfolio-today-i-want-your-reviews",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 JavaScript concepts for React beginners - With Code Samples",
-    "link": "https://app-generator.hashnode.dev/10-javascript-concepts-for-react-beginners-with-code-samples",
-    "date": "4/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 JavaScript concepts for React beginners",
-    "link": "https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bad Habits of Mid-Level React Developers",
-    "link": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "33 JavaScript Concepts Every Developer Should Know 🤓️💯️",
-    "link": "https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NPM Needs: pretty-bytes",
-    "link": "https://dev.to/andrewusher/npm-needs-pretty-bytes-4h56",
     "date": "4/9/2022",
     "site": "dev.to"
   },
@@ -1125,7 +1125,7 @@
   {
     "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
     "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "8/11/2021",
     "site": "smashingmagazine"
   },
@@ -1197,7 +1197,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
@@ -1218,7 +1218,7 @@
   {
     "title": "Tools And Practices To Speed Up The Vue.js Development Process",
     "link": "https://www.smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "7/8/2021",
     "site": "smashingmagazine"
   },
@@ -1252,7 +1252,7 @@
   {
     "title": "Client-Side Routing In Next.js",
     "link": "https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "6/18/2021",
     "site": "smashingmagazine"
   },
@@ -1280,7 +1280,7 @@
   {
     "title": "Managing Shared State In Vue 3",
     "link": "https://www.smashingmagazine.com/2021/06/managing-shared-state-vue3/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "6/3/2021",
     "site": "smashingmagazine"
   },
