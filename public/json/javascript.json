@@ -1,7 +1,547 @@
 [
   {
-    "title": "I'm Building a Twitter Clone",
-    "link": "https://bingehtheblogger.hashnode.dev/im-building-a-twitter-clone",
+    "title": "Common Terms In Javascript",
+    "link": "https://howtolovejs.hashnode.dev/common-terms-in-javascript",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are GitHub's actions and how to use them?",
+    "link": "https://vinayak27.hashnode.dev/what-are-githubs-actions-and-how-to-use-them",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Struggles - Part 2",
+    "link": "https://abdelrahmandwedar.hashnode.dev/javascript-struggles-part-2",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Creating My Portfolio",
+    "link": "https://blog.alexelfuerte.com/creating-my-portfolio",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to modify the URL without reloading the page",
+    "link": "https://softbue.hashnode.dev/how-to-modify-the-url-without-reloading-the-page",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why and how to use the the Node.js Event Emitter in real projects?",
+    "link": "https://dev.to/amrelmohamady/why-and-how-to-use-the-the-nodejs-event-emitter-in-real-projects-32kd",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JIT was introduced?",
+    "link": "https://dev.to/asharali95/why-jit-was-introduced-37g5",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a full page transition in React?",
+    "link": "https://dev.to/matthieuclay/how-to-make-a-full-page-transition-in-react-2h74",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Update Tomorrow; an Sneak peak!",
+    "link": "https://dev.to/colack/update-tomorrow-an-sneak-peak-ac2",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Know About Javascript Features Both General And Modern",
+    "link": "https://dev.to/calltutors/know-about-javascript-features-both-general-and-modern-54o3",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance: Choosing The Right Tools...",
+    "link": "https://dev.to/this-is-learning/performance-choosing-the-right-tools-4lii",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easily and safely escape HTML in one line",
+    "link": "https://dev.to/lionelrowe/easily-and-safely-escape-html-in-one-line-4lak",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ForkJoin RxJS Operator",
+    "link": "https://dev.to/pawankkumawat/forkjoin-rxjs-operator-4h5a",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript web development",
+    "link": "https://dev.to/tongseshivani/javascript-web-development-16dd",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular Routing #3",
+    "link": "https://dev.to/seshubabubatchu/angular-routing-3-360c",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is hoisting in the javascript.",
+    "link": "https://dev.to/rahulmandyal/what-is-hoisting-in-the-javascript-2fbn",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Test react-hook-form with react-native-testing-library",
+    "link": "https://dev.to/joseprest/test-react-hook-form-with-react-native-testing-library-4a5o",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Sheets setValues anomaly?",
+    "link": "https://dev.to/bugmagnet/google-sheets-setvalues-anomaly-46df",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Common Terms In Javascript",
+    "link": "https://howtolovejs.hashnode.dev/common-terms-in-javascript",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are GitHub's actions and how to use them?",
+    "link": "https://vinayak27.hashnode.dev/what-are-githubs-actions-and-how-to-use-them",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Struggles - Part 2",
+    "link": "https://abdelrahmandwedar.hashnode.dev/javascript-struggles-part-2",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Creating My Portfolio",
+    "link": "https://blog.alexelfuerte.com/creating-my-portfolio",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to modify the URL without reloading the page",
+    "link": "https://softbue.hashnode.dev/how-to-modify-the-url-without-reloading-the-page",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why and how to use the the Node.js Event Emitter in real projects?",
+    "link": "https://dev.to/amrelmohamady/why-and-how-to-use-the-the-nodejs-event-emitter-in-real-projects-32kd",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JIT was introduced?",
+    "link": "https://dev.to/asharali95/why-jit-was-introduced-37g5",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a full page transition in React?",
+    "link": "https://dev.to/matthieuclay/how-to-make-a-full-page-transition-in-react-2h74",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Update Tomorrow; an Sneak peak!",
+    "link": "https://dev.to/colack/update-tomorrow-an-sneak-peak-ac2",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Know About Javascript Features Both General And Modern",
+    "link": "https://dev.to/calltutors/know-about-javascript-features-both-general-and-modern-54o3",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance: Choosing The Right Tools...",
+    "link": "https://dev.to/this-is-learning/performance-choosing-the-right-tools-4lii",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easily and safely escape HTML in one line",
+    "link": "https://dev.to/lionelrowe/easily-and-safely-escape-html-in-one-line-4lak",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ForkJoin RxJS Operator",
+    "link": "https://dev.to/pawankkumawat/forkjoin-rxjs-operator-4h5a",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript web development",
+    "link": "https://dev.to/tongseshivani/javascript-web-development-16dd",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular Routing #3",
+    "link": "https://dev.to/seshubabubatchu/angular-routing-3-360c",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is hoisting in the javascript.",
+    "link": "https://dev.to/rahulmandyal/what-is-hoisting-in-the-javascript-2fbn",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Test react-hook-form with react-native-testing-library",
+    "link": "https://dev.to/joseprest/test-react-hook-form-with-react-native-testing-library-4a5o",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Sheets setValues anomaly?",
+    "link": "https://dev.to/bugmagnet/google-sheets-setvalues-anomaly-46df",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Common Terms In Javascript",
+    "link": "https://howtolovejs.hashnode.dev/common-terms-in-javascript",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are GitHub's actions and how to use them?",
+    "link": "https://vinayak27.hashnode.dev/what-are-githubs-actions-and-how-to-use-them",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Struggles - Part 2",
+    "link": "https://abdelrahmandwedar.hashnode.dev/javascript-struggles-part-2",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Creating My Portfolio",
+    "link": "https://blog.alexelfuerte.com/creating-my-portfolio",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to modify the URL without reloading the page",
+    "link": "https://softbue.hashnode.dev/how-to-modify-the-url-without-reloading-the-page",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why and how to use the the Node.js Event Emitter in real projects?",
+    "link": "https://dev.to/amrelmohamady/why-and-how-to-use-the-the-nodejs-event-emitter-in-real-projects-32kd",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JIT was introduced?",
+    "link": "https://dev.to/asharali95/why-jit-was-introduced-37g5",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a full page transition in React?",
+    "link": "https://dev.to/matthieuclay/how-to-make-a-full-page-transition-in-react-2h74",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Update Tomorrow; an Sneak peak!",
+    "link": "https://dev.to/colack/update-tomorrow-an-sneak-peak-ac2",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Know About Javascript Features Both General And Modern",
+    "link": "https://dev.to/calltutors/know-about-javascript-features-both-general-and-modern-54o3",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance: Choosing The Right Tools...",
+    "link": "https://dev.to/this-is-learning/performance-choosing-the-right-tools-4lii",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easily and safely escape HTML in one line",
+    "link": "https://dev.to/lionelrowe/easily-and-safely-escape-html-in-one-line-4lak",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ForkJoin RxJS Operator",
+    "link": "https://dev.to/pawankkumawat/forkjoin-rxjs-operator-4h5a",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript web development",
+    "link": "https://dev.to/tongseshivani/javascript-web-development-16dd",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular Routing #3",
+    "link": "https://dev.to/seshubabubatchu/angular-routing-3-360c",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is hoisting in the javascript.",
+    "link": "https://dev.to/rahulmandyal/what-is-hoisting-in-the-javascript-2fbn",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Test react-hook-form with react-native-testing-library",
+    "link": "https://dev.to/joseprest/test-react-hook-form-with-react-native-testing-library-4a5o",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Sheets setValues anomaly?",
+    "link": "https://dev.to/bugmagnet/google-sheets-setvalues-anomaly-46df",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Common Terms In Javascript",
+    "link": "https://howtolovejs.hashnode.dev/common-terms-in-javascript",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are GitHub's actions and how to use them?",
+    "link": "https://vinayak27.hashnode.dev/what-are-githubs-actions-and-how-to-use-them",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Struggles - Part 2",
+    "link": "https://abdelrahmandwedar.hashnode.dev/javascript-struggles-part-2",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Creating My Portfolio",
+    "link": "https://blog.alexelfuerte.com/creating-my-portfolio",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to modify the URL without reloading the page",
+    "link": "https://softbue.hashnode.dev/how-to-modify-the-url-without-reloading-the-page",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why and how to use the the Node.js Event Emitter in real projects?",
+    "link": "https://dev.to/amrelmohamady/why-and-how-to-use-the-the-nodejs-event-emitter-in-real-projects-32kd",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JIT was introduced?",
+    "link": "https://dev.to/asharali95/why-jit-was-introduced-37g5",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a full page transition in React?",
+    "link": "https://dev.to/matthieuclay/how-to-make-a-full-page-transition-in-react-2h74",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Update Tomorrow; an Sneak peak!",
+    "link": "https://dev.to/colack/update-tomorrow-an-sneak-peak-ac2",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Know About Javascript Features Both General And Modern",
+    "link": "https://dev.to/calltutors/know-about-javascript-features-both-general-and-modern-54o3",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance: Choosing The Right Tools...",
+    "link": "https://dev.to/this-is-learning/performance-choosing-the-right-tools-4lii",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easily and safely escape HTML in one line",
+    "link": "https://dev.to/lionelrowe/easily-and-safely-escape-html-in-one-line-4lak",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ForkJoin RxJS Operator",
+    "link": "https://dev.to/pawankkumawat/forkjoin-rxjs-operator-4h5a",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript web development",
+    "link": "https://dev.to/tongseshivani/javascript-web-development-16dd",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular Routing #3",
+    "link": "https://dev.to/seshubabubatchu/angular-routing-3-360c",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is hoisting in the javascript.",
+    "link": "https://dev.to/rahulmandyal/what-is-hoisting-in-the-javascript-2fbn",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Test react-hook-form with react-native-testing-library",
+    "link": "https://dev.to/joseprest/test-react-hook-form-with-react-native-testing-library-4a5o",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Sheets setValues anomaly?",
+    "link": "https://dev.to/bugmagnet/google-sheets-setvalues-anomaly-46df",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Common Terms In Javascript",
+    "link": "https://howtolovejs.hashnode.dev/common-terms-in-javascript",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What are GitHub's actions and how to use them?",
+    "link": "https://vinayak27.hashnode.dev/what-are-githubs-actions-and-how-to-use-them",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Struggles - Part 2",
+    "link": "https://abdelrahmandwedar.hashnode.dev/javascript-struggles-part-2",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Creating My Portfolio",
+    "link": "https://blog.alexelfuerte.com/creating-my-portfolio",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to modify the URL without reloading the page",
+    "link": "https://softbue.hashnode.dev/how-to-modify-the-url-without-reloading-the-page",
+    "date": "4/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why and how to use the the Node.js Event Emitter in real projects?",
+    "link": "https://dev.to/amrelmohamady/why-and-how-to-use-the-the-nodejs-event-emitter-in-real-projects-32kd",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JIT was introduced?",
+    "link": "https://dev.to/asharali95/why-jit-was-introduced-37g5",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a full page transition in React?",
+    "link": "https://dev.to/matthieuclay/how-to-make-a-full-page-transition-in-react-2h74",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Update Tomorrow; an Sneak peak!",
+    "link": "https://dev.to/colack/update-tomorrow-an-sneak-peak-ac2",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Know About Javascript Features Both General And Modern",
+    "link": "https://dev.to/calltutors/know-about-javascript-features-both-general-and-modern-54o3",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance: Choosing The Right Tools...",
+    "link": "https://dev.to/this-is-learning/performance-choosing-the-right-tools-4lii",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easily and safely escape HTML in one line",
+    "link": "https://dev.to/lionelrowe/easily-and-safely-escape-html-in-one-line-4lak",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ForkJoin RxJS Operator",
+    "link": "https://dev.to/pawankkumawat/forkjoin-rxjs-operator-4h5a",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript web development",
+    "link": "https://dev.to/tongseshivani/javascript-web-development-16dd",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular Routing #3",
+    "link": "https://dev.to/seshubabubatchu/angular-routing-3-360c",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is hoisting in the javascript.",
+    "link": "https://dev.to/rahulmandyal/what-is-hoisting-in-the-javascript-2fbn",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Test react-hook-form with react-native-testing-library",
+    "link": "https://dev.to/joseprest/test-react-hook-form-with-react-native-testing-library-4a5o",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Sheets setValues anomaly?",
+    "link": "https://dev.to/bugmagnet/google-sheets-setvalues-anomaly-46df",
+    "date": "4/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prototypal Inheritance in Javascript -  Easy and Practical Way",
+    "link": "https://tsgoswami.hashnode.dev/prototypal-inheritance-in-javascript-easy-and-practical-way",
     "date": "4/13/2022",
     "site": "hashnode"
   },
@@ -12,170 +552,68 @@
     "site": "hashnode"
   },
   {
-    "title": "How to read the documentation",
-    "link": "https://how-to.dev/how-to-read-the-documentation",
+    "title": "NaPoWriMo x NaPoGenMo Prompt Day 13 : UnseenMagicWIthInterWoven",
+    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-13-unseenmagicwithinterwoven",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Basic#6 Finding odd numbers from array",
-    "link": "https://reyjang.hashnode.dev/basic6-finding-odd-numbers-from-array",
+    "title": "Using JS Functions Properties in Real Life",
+    "link": "https://clickpesa.hashnode.dev/using-js-functions-properties-in-real-life",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with the React TreeView Component",
-    "link": "https://newtechupdate.hashnode.dev/getting-started-with-the-react-treeview-component",
+    "title": "JavaScript Basic",
+    "link": "https://alhasib.hashnode.dev/javascript-basic",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "var, let and const in javascript",
-    "link": "https://deekshithmd.hashnode.dev/var-let-and-const-in-javascript",
+    "title": "Making Amazon's card component with Angular",
+    "link": "https://arjit.hashnode.dev/making-amazons-card-component-with-angular",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Cómo trabajar con tu mentor de programación",
-    "link": "https://conoce.dev/como-trabajar-con-tu-mentor-de-programacion",
+    "title": "Welcome here",
+    "link": "https://danielayeni.hashnode.dev/welcome-here",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Jak współpracować z mentorem programowania",
-    "link": "https://poznaj.dev/jak-wspolpracowac-z-mentorem-programowania",
+    "title": "Astro Blog",
+    "link": "https://rodneylab.hashnode.dev/astro-blog",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "モダン JavaScript まとめ",
-    "link": "https://mikotostudio.hashnode.dev/javascript",
+    "title": "While Loops in JavaScript",
+    "link": "https://ehoversten.hashnode.dev/while-loops-in-javascript",
     "date": "4/13/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Getting Started with Index Signatures",
-    "link": "https://imkarthikeyans.hashnode.dev/getting-started-with-index-signatures",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Demystifying useRef hook.",
-    "link": "https://blog.exploreraadi.com/demystifying-useref-hook",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to disable right-click on your website?",
-    "link": "https://codewithsnowbit.hashnode.dev/how-to-disable-right-click-on-your-website",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node-RED Settings Got You Down?",
-    "link": "https://nomad.hashnode.dev/node-red-settings-got-you-down",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Looping in Ruby",
-    "link": "https://kadeesterline.hashnode.dev/looping-in-ruby",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Get Wise On Bitwise",
-    "link": "https://kadeesterline.hashnode.dev/get-wise-on-bitwise",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "This Week In React #101: Astro, Redwood, Next.js, Remix, React-Admin, Rust reducers, WebComponents, Gatsby, TypeScript, Rome...",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-101-astro-redwood-nextjs-remix-react-admin-rust-reducers-webcomponents-gatsby-typescript-rome-3k0j",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Array.forEach() - for looping through items in an array",
-    "link": "https://dev.to/dillionmegida/arrayforeach-for-looping-through-items-in-an-array-1kmo",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Green Ape CBD Gummies Reviews 2022 – Help for your Pain Relief?",
-    "link": "https://dev.to/greenapecbdget/green-ape-cbd-gummies-reviews-2022-help-for-your-pain-relief-4ojk",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Finished!",
-    "link": "https://dev.to/warmastr/finished-42kh",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React, Vue and Svelte : Comparing Multi Checkbox Binding",
-    "link": "https://dev.to/ccreusat/react-vue-and-svelte-comparing-multi-checkbox-binding-1g6f",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a REST API with pre-written Serverless Components",
-    "link": "https://dev.to/serverless_inc/how-to-create-a-rest-api-with-pre-written-serverless-components-2g5",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power of Strategy Design Pattern in JavaScript",
-    "link": "https://dev.to/jsmanifest/the-power-of-strategy-design-pattern-in-javascript-kn8",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "(Launch!) Building a business from scratch - day 18 🚀",
-    "link": "https://dev.to/twankrui/launch-building-a-business-from-scratch-day-18-bpc",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Design Pattern in TypeScript: Strategy Pattern",
-    "link": "https://dev.to/bhargavmantha/design-pattern-in-typescript-strategy-pattern-4i5d",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Story-time: Tackling No Double Favorite Cat",
-    "link": "https://dev.to/bperez3237/story-time-tackling-no-double-favorite-cat-56ha",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Best Practices - Ways To Write Better Code in 2022",
-    "link": "https://dev.to/nourdinedev/react-best-practices-ways-to-write-better-code-in-2022-37gk",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Webix Gantt Chart. Handy web tool for efficient project management",
-    "link": "https://dev.to/serhiipylypchuk1991/webix-gantt-chart-handy-web-tool-for-efficient-project-management-14no",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Bypass Captcha Automatic Login with Nodejs Playwright 2Captcha",
-    "link": "https://dev.to/openhacking/how-to-bypass-captcha-automatic-login-with-nodejs-playwright-2captcha-42dp",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best car transport services in Noida",
-    "link": "https://dev.to/securemove1/best-car-transport-services-in-noida-1fbk",
-    "date": "4/13/2022",
-    "site": "dev.to"
   },
   {
     "title": "I'm Building a Twitter Clone",
     "link": "https://bingehtheblogger.hashnode.dev/im-building-a-twitter-clone",
+    "date": "4/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js and Tumblr as a CMS",
+    "link": "https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-5fki",
+    "date": "4/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Linked List in JavaScript: implementation, operations (basics)",
+    "link": "https://dev.to/nikaffa/the-linked-list-in-javascript-implementation-operations-basics-447o",
+    "date": "4/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prototypal Inheritance in Javascript -  Easy and Practical Way",
+    "link": "https://tsgoswami.hashnode.dev/prototypal-inheritance-in-javascript-easy-and-practical-way",
     "date": "4/13/2022",
     "site": "hashnode"
   },
@@ -186,170 +624,68 @@
     "site": "hashnode"
   },
   {
-    "title": "How to read the documentation",
-    "link": "https://how-to.dev/how-to-read-the-documentation",
+    "title": "NaPoWriMo x NaPoGenMo Prompt Day 13 : UnseenMagicWIthInterWoven",
+    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-13-unseenmagicwithinterwoven",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Basic#6 Finding odd numbers from array",
-    "link": "https://reyjang.hashnode.dev/basic6-finding-odd-numbers-from-array",
+    "title": "Using JS Functions Properties in Real Life",
+    "link": "https://clickpesa.hashnode.dev/using-js-functions-properties-in-real-life",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with the React TreeView Component",
-    "link": "https://newtechupdate.hashnode.dev/getting-started-with-the-react-treeview-component",
+    "title": "JavaScript Basic",
+    "link": "https://alhasib.hashnode.dev/javascript-basic",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "var, let and const in javascript",
-    "link": "https://deekshithmd.hashnode.dev/var-let-and-const-in-javascript",
+    "title": "Making Amazon's card component with Angular",
+    "link": "https://arjit.hashnode.dev/making-amazons-card-component-with-angular",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Cómo trabajar con tu mentor de programación",
-    "link": "https://conoce.dev/como-trabajar-con-tu-mentor-de-programacion",
+    "title": "Welcome here",
+    "link": "https://danielayeni.hashnode.dev/welcome-here",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Jak współpracować z mentorem programowania",
-    "link": "https://poznaj.dev/jak-wspolpracowac-z-mentorem-programowania",
+    "title": "Astro Blog",
+    "link": "https://rodneylab.hashnode.dev/astro-blog",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "モダン JavaScript まとめ",
-    "link": "https://mikotostudio.hashnode.dev/javascript",
+    "title": "While Loops in JavaScript",
+    "link": "https://ehoversten.hashnode.dev/while-loops-in-javascript",
     "date": "4/13/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Getting Started with Index Signatures",
-    "link": "https://imkarthikeyans.hashnode.dev/getting-started-with-index-signatures",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Demystifying useRef hook.",
-    "link": "https://blog.exploreraadi.com/demystifying-useref-hook",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to disable right-click on your website?",
-    "link": "https://codewithsnowbit.hashnode.dev/how-to-disable-right-click-on-your-website",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node-RED Settings Got You Down?",
-    "link": "https://nomad.hashnode.dev/node-red-settings-got-you-down",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Looping in Ruby",
-    "link": "https://kadeesterline.hashnode.dev/looping-in-ruby",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Get Wise On Bitwise",
-    "link": "https://kadeesterline.hashnode.dev/get-wise-on-bitwise",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "This Week In React #101: Astro, Redwood, Next.js, Remix, React-Admin, Rust reducers, WebComponents, Gatsby, TypeScript, Rome...",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-101-astro-redwood-nextjs-remix-react-admin-rust-reducers-webcomponents-gatsby-typescript-rome-3k0j",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Array.forEach() - for looping through items in an array",
-    "link": "https://dev.to/dillionmegida/arrayforeach-for-looping-through-items-in-an-array-1kmo",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Green Ape CBD Gummies Reviews 2022 – Help for your Pain Relief?",
-    "link": "https://dev.to/greenapecbdget/green-ape-cbd-gummies-reviews-2022-help-for-your-pain-relief-4ojk",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Finished!",
-    "link": "https://dev.to/warmastr/finished-42kh",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React, Vue and Svelte : Comparing Multi Checkbox Binding",
-    "link": "https://dev.to/ccreusat/react-vue-and-svelte-comparing-multi-checkbox-binding-1g6f",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a REST API with pre-written Serverless Components",
-    "link": "https://dev.to/serverless_inc/how-to-create-a-rest-api-with-pre-written-serverless-components-2g5",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power of Strategy Design Pattern in JavaScript",
-    "link": "https://dev.to/jsmanifest/the-power-of-strategy-design-pattern-in-javascript-kn8",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "(Launch!) Building a business from scratch - day 18 🚀",
-    "link": "https://dev.to/twankrui/launch-building-a-business-from-scratch-day-18-bpc",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Design Pattern in TypeScript: Strategy Pattern",
-    "link": "https://dev.to/bhargavmantha/design-pattern-in-typescript-strategy-pattern-4i5d",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Story-time: Tackling No Double Favorite Cat",
-    "link": "https://dev.to/bperez3237/story-time-tackling-no-double-favorite-cat-56ha",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Best Practices - Ways To Write Better Code in 2022",
-    "link": "https://dev.to/nourdinedev/react-best-practices-ways-to-write-better-code-in-2022-37gk",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Webix Gantt Chart. Handy web tool for efficient project management",
-    "link": "https://dev.to/serhiipylypchuk1991/webix-gantt-chart-handy-web-tool-for-efficient-project-management-14no",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Bypass Captcha Automatic Login with Nodejs Playwright 2Captcha",
-    "link": "https://dev.to/openhacking/how-to-bypass-captcha-automatic-login-with-nodejs-playwright-2captcha-42dp",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best car transport services in Noida",
-    "link": "https://dev.to/securemove1/best-car-transport-services-in-noida-1fbk",
-    "date": "4/13/2022",
-    "site": "dev.to"
   },
   {
     "title": "I'm Building a Twitter Clone",
     "link": "https://bingehtheblogger.hashnode.dev/im-building-a-twitter-clone",
+    "date": "4/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js and Tumblr as a CMS",
+    "link": "https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-5fki",
+    "date": "4/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Linked List in JavaScript: implementation, operations (basics)",
+    "link": "https://dev.to/nikaffa/the-linked-list-in-javascript-implementation-operations-basics-447o",
+    "date": "4/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prototypal Inheritance in Javascript -  Easy and Practical Way",
+    "link": "https://tsgoswami.hashnode.dev/prototypal-inheritance-in-javascript-easy-and-practical-way",
     "date": "4/13/2022",
     "site": "hashnode"
   },
@@ -360,170 +696,68 @@
     "site": "hashnode"
   },
   {
-    "title": "How to read the documentation",
-    "link": "https://how-to.dev/how-to-read-the-documentation",
+    "title": "NaPoWriMo x NaPoGenMo Prompt Day 13 : UnseenMagicWIthInterWoven",
+    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-13-unseenmagicwithinterwoven",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Basic#6 Finding odd numbers from array",
-    "link": "https://reyjang.hashnode.dev/basic6-finding-odd-numbers-from-array",
+    "title": "Using JS Functions Properties in Real Life",
+    "link": "https://clickpesa.hashnode.dev/using-js-functions-properties-in-real-life",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with the React TreeView Component",
-    "link": "https://newtechupdate.hashnode.dev/getting-started-with-the-react-treeview-component",
+    "title": "JavaScript Basic",
+    "link": "https://alhasib.hashnode.dev/javascript-basic",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "var, let and const in javascript",
-    "link": "https://deekshithmd.hashnode.dev/var-let-and-const-in-javascript",
+    "title": "Making Amazon's card component with Angular",
+    "link": "https://arjit.hashnode.dev/making-amazons-card-component-with-angular",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Cómo trabajar con tu mentor de programación",
-    "link": "https://conoce.dev/como-trabajar-con-tu-mentor-de-programacion",
+    "title": "Welcome here",
+    "link": "https://danielayeni.hashnode.dev/welcome-here",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Jak współpracować z mentorem programowania",
-    "link": "https://poznaj.dev/jak-wspolpracowac-z-mentorem-programowania",
+    "title": "Astro Blog",
+    "link": "https://rodneylab.hashnode.dev/astro-blog",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "モダン JavaScript まとめ",
-    "link": "https://mikotostudio.hashnode.dev/javascript",
+    "title": "While Loops in JavaScript",
+    "link": "https://ehoversten.hashnode.dev/while-loops-in-javascript",
     "date": "4/13/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Getting Started with Index Signatures",
-    "link": "https://imkarthikeyans.hashnode.dev/getting-started-with-index-signatures",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Demystifying useRef hook.",
-    "link": "https://blog.exploreraadi.com/demystifying-useref-hook",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to disable right-click on your website?",
-    "link": "https://codewithsnowbit.hashnode.dev/how-to-disable-right-click-on-your-website",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node-RED Settings Got You Down?",
-    "link": "https://nomad.hashnode.dev/node-red-settings-got-you-down",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Looping in Ruby",
-    "link": "https://kadeesterline.hashnode.dev/looping-in-ruby",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Get Wise On Bitwise",
-    "link": "https://kadeesterline.hashnode.dev/get-wise-on-bitwise",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "This Week In React #101: Astro, Redwood, Next.js, Remix, React-Admin, Rust reducers, WebComponents, Gatsby, TypeScript, Rome...",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-101-astro-redwood-nextjs-remix-react-admin-rust-reducers-webcomponents-gatsby-typescript-rome-3k0j",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Array.forEach() - for looping through items in an array",
-    "link": "https://dev.to/dillionmegida/arrayforeach-for-looping-through-items-in-an-array-1kmo",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Green Ape CBD Gummies Reviews 2022 – Help for your Pain Relief?",
-    "link": "https://dev.to/greenapecbdget/green-ape-cbd-gummies-reviews-2022-help-for-your-pain-relief-4ojk",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Finished!",
-    "link": "https://dev.to/warmastr/finished-42kh",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React, Vue and Svelte : Comparing Multi Checkbox Binding",
-    "link": "https://dev.to/ccreusat/react-vue-and-svelte-comparing-multi-checkbox-binding-1g6f",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a REST API with pre-written Serverless Components",
-    "link": "https://dev.to/serverless_inc/how-to-create-a-rest-api-with-pre-written-serverless-components-2g5",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power of Strategy Design Pattern in JavaScript",
-    "link": "https://dev.to/jsmanifest/the-power-of-strategy-design-pattern-in-javascript-kn8",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "(Launch!) Building a business from scratch - day 18 🚀",
-    "link": "https://dev.to/twankrui/launch-building-a-business-from-scratch-day-18-bpc",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Design Pattern in TypeScript: Strategy Pattern",
-    "link": "https://dev.to/bhargavmantha/design-pattern-in-typescript-strategy-pattern-4i5d",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Story-time: Tackling No Double Favorite Cat",
-    "link": "https://dev.to/bperez3237/story-time-tackling-no-double-favorite-cat-56ha",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Best Practices - Ways To Write Better Code in 2022",
-    "link": "https://dev.to/nourdinedev/react-best-practices-ways-to-write-better-code-in-2022-37gk",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Webix Gantt Chart. Handy web tool for efficient project management",
-    "link": "https://dev.to/serhiipylypchuk1991/webix-gantt-chart-handy-web-tool-for-efficient-project-management-14no",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Bypass Captcha Automatic Login with Nodejs Playwright 2Captcha",
-    "link": "https://dev.to/openhacking/how-to-bypass-captcha-automatic-login-with-nodejs-playwright-2captcha-42dp",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best car transport services in Noida",
-    "link": "https://dev.to/securemove1/best-car-transport-services-in-noida-1fbk",
-    "date": "4/13/2022",
-    "site": "dev.to"
   },
   {
     "title": "I'm Building a Twitter Clone",
     "link": "https://bingehtheblogger.hashnode.dev/im-building-a-twitter-clone",
+    "date": "4/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js and Tumblr as a CMS",
+    "link": "https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-5fki",
+    "date": "4/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Linked List in JavaScript: implementation, operations (basics)",
+    "link": "https://dev.to/nikaffa/the-linked-list-in-javascript-implementation-operations-basics-447o",
+    "date": "4/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prototypal Inheritance in Javascript -  Easy and Practical Way",
+    "link": "https://tsgoswami.hashnode.dev/prototypal-inheritance-in-javascript-easy-and-practical-way",
     "date": "4/13/2022",
     "site": "hashnode"
   },
@@ -534,170 +768,68 @@
     "site": "hashnode"
   },
   {
-    "title": "How to read the documentation",
-    "link": "https://how-to.dev/how-to-read-the-documentation",
+    "title": "NaPoWriMo x NaPoGenMo Prompt Day 13 : UnseenMagicWIthInterWoven",
+    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-13-unseenmagicwithinterwoven",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Basic#6 Finding odd numbers from array",
-    "link": "https://reyjang.hashnode.dev/basic6-finding-odd-numbers-from-array",
+    "title": "Using JS Functions Properties in Real Life",
+    "link": "https://clickpesa.hashnode.dev/using-js-functions-properties-in-real-life",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with the React TreeView Component",
-    "link": "https://newtechupdate.hashnode.dev/getting-started-with-the-react-treeview-component",
+    "title": "JavaScript Basic",
+    "link": "https://alhasib.hashnode.dev/javascript-basic",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "var, let and const in javascript",
-    "link": "https://deekshithmd.hashnode.dev/var-let-and-const-in-javascript",
+    "title": "Making Amazon's card component with Angular",
+    "link": "https://arjit.hashnode.dev/making-amazons-card-component-with-angular",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Cómo trabajar con tu mentor de programación",
-    "link": "https://conoce.dev/como-trabajar-con-tu-mentor-de-programacion",
+    "title": "Welcome here",
+    "link": "https://danielayeni.hashnode.dev/welcome-here",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Jak współpracować z mentorem programowania",
-    "link": "https://poznaj.dev/jak-wspolpracowac-z-mentorem-programowania",
+    "title": "Astro Blog",
+    "link": "https://rodneylab.hashnode.dev/astro-blog",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "モダン JavaScript まとめ",
-    "link": "https://mikotostudio.hashnode.dev/javascript",
+    "title": "While Loops in JavaScript",
+    "link": "https://ehoversten.hashnode.dev/while-loops-in-javascript",
     "date": "4/13/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Getting Started with Index Signatures",
-    "link": "https://imkarthikeyans.hashnode.dev/getting-started-with-index-signatures",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Demystifying useRef hook.",
-    "link": "https://blog.exploreraadi.com/demystifying-useref-hook",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to disable right-click on your website?",
-    "link": "https://codewithsnowbit.hashnode.dev/how-to-disable-right-click-on-your-website",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node-RED Settings Got You Down?",
-    "link": "https://nomad.hashnode.dev/node-red-settings-got-you-down",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Looping in Ruby",
-    "link": "https://kadeesterline.hashnode.dev/looping-in-ruby",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Get Wise On Bitwise",
-    "link": "https://kadeesterline.hashnode.dev/get-wise-on-bitwise",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "This Week In React #101: Astro, Redwood, Next.js, Remix, React-Admin, Rust reducers, WebComponents, Gatsby, TypeScript, Rome...",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-101-astro-redwood-nextjs-remix-react-admin-rust-reducers-webcomponents-gatsby-typescript-rome-3k0j",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Array.forEach() - for looping through items in an array",
-    "link": "https://dev.to/dillionmegida/arrayforeach-for-looping-through-items-in-an-array-1kmo",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Green Ape CBD Gummies Reviews 2022 – Help for your Pain Relief?",
-    "link": "https://dev.to/greenapecbdget/green-ape-cbd-gummies-reviews-2022-help-for-your-pain-relief-4ojk",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Finished!",
-    "link": "https://dev.to/warmastr/finished-42kh",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React, Vue and Svelte : Comparing Multi Checkbox Binding",
-    "link": "https://dev.to/ccreusat/react-vue-and-svelte-comparing-multi-checkbox-binding-1g6f",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a REST API with pre-written Serverless Components",
-    "link": "https://dev.to/serverless_inc/how-to-create-a-rest-api-with-pre-written-serverless-components-2g5",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power of Strategy Design Pattern in JavaScript",
-    "link": "https://dev.to/jsmanifest/the-power-of-strategy-design-pattern-in-javascript-kn8",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "(Launch!) Building a business from scratch - day 18 🚀",
-    "link": "https://dev.to/twankrui/launch-building-a-business-from-scratch-day-18-bpc",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Design Pattern in TypeScript: Strategy Pattern",
-    "link": "https://dev.to/bhargavmantha/design-pattern-in-typescript-strategy-pattern-4i5d",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Story-time: Tackling No Double Favorite Cat",
-    "link": "https://dev.to/bperez3237/story-time-tackling-no-double-favorite-cat-56ha",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Best Practices - Ways To Write Better Code in 2022",
-    "link": "https://dev.to/nourdinedev/react-best-practices-ways-to-write-better-code-in-2022-37gk",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Webix Gantt Chart. Handy web tool for efficient project management",
-    "link": "https://dev.to/serhiipylypchuk1991/webix-gantt-chart-handy-web-tool-for-efficient-project-management-14no",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Bypass Captcha Automatic Login with Nodejs Playwright 2Captcha",
-    "link": "https://dev.to/openhacking/how-to-bypass-captcha-automatic-login-with-nodejs-playwright-2captcha-42dp",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best car transport services in Noida",
-    "link": "https://dev.to/securemove1/best-car-transport-services-in-noida-1fbk",
-    "date": "4/13/2022",
-    "site": "dev.to"
   },
   {
     "title": "I'm Building a Twitter Clone",
     "link": "https://bingehtheblogger.hashnode.dev/im-building-a-twitter-clone",
+    "date": "4/13/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js and Tumblr as a CMS",
+    "link": "https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-5fki",
+    "date": "4/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Linked List in JavaScript: implementation, operations (basics)",
+    "link": "https://dev.to/nikaffa/the-linked-list-in-javascript-implementation-operations-basics-447o",
+    "date": "4/13/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prototypal Inheritance in Javascript -  Easy and Practical Way",
+    "link": "https://tsgoswami.hashnode.dev/prototypal-inheritance-in-javascript-easy-and-practical-way",
     "date": "4/13/2022",
     "site": "hashnode"
   },
@@ -708,164 +840,62 @@
     "site": "hashnode"
   },
   {
-    "title": "How to read the documentation",
-    "link": "https://how-to.dev/how-to-read-the-documentation",
+    "title": "NaPoWriMo x NaPoGenMo Prompt Day 13 : UnseenMagicWIthInterWoven",
+    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-13-unseenmagicwithinterwoven",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Basic#6 Finding odd numbers from array",
-    "link": "https://reyjang.hashnode.dev/basic6-finding-odd-numbers-from-array",
+    "title": "Using JS Functions Properties in Real Life",
+    "link": "https://clickpesa.hashnode.dev/using-js-functions-properties-in-real-life",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with the React TreeView Component",
-    "link": "https://newtechupdate.hashnode.dev/getting-started-with-the-react-treeview-component",
+    "title": "JavaScript Basic",
+    "link": "https://alhasib.hashnode.dev/javascript-basic",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "var, let and const in javascript",
-    "link": "https://deekshithmd.hashnode.dev/var-let-and-const-in-javascript",
+    "title": "Making Amazon's card component with Angular",
+    "link": "https://arjit.hashnode.dev/making-amazons-card-component-with-angular",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Cómo trabajar con tu mentor de programación",
-    "link": "https://conoce.dev/como-trabajar-con-tu-mentor-de-programacion",
+    "title": "Welcome here",
+    "link": "https://danielayeni.hashnode.dev/welcome-here",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Jak współpracować z mentorem programowania",
-    "link": "https://poznaj.dev/jak-wspolpracowac-z-mentorem-programowania",
+    "title": "Astro Blog",
+    "link": "https://rodneylab.hashnode.dev/astro-blog",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "モダン JavaScript まとめ",
-    "link": "https://mikotostudio.hashnode.dev/javascript",
+    "title": "While Loops in JavaScript",
+    "link": "https://ehoversten.hashnode.dev/while-loops-in-javascript",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with Index Signatures",
-    "link": "https://imkarthikeyans.hashnode.dev/getting-started-with-index-signatures",
+    "title": "I'm Building a Twitter Clone",
+    "link": "https://bingehtheblogger.hashnode.dev/im-building-a-twitter-clone",
     "date": "4/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Demystifying useRef hook.",
-    "link": "https://blog.exploreraadi.com/demystifying-useref-hook",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to disable right-click on your website?",
-    "link": "https://codewithsnowbit.hashnode.dev/how-to-disable-right-click-on-your-website",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node-RED Settings Got You Down?",
-    "link": "https://nomad.hashnode.dev/node-red-settings-got-you-down",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Looping in Ruby",
-    "link": "https://kadeesterline.hashnode.dev/looping-in-ruby",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Get Wise On Bitwise",
-    "link": "https://kadeesterline.hashnode.dev/get-wise-on-bitwise",
-    "date": "4/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "This Week In React #101: Astro, Redwood, Next.js, Remix, React-Admin, Rust reducers, WebComponents, Gatsby, TypeScript, Rome...",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-101-astro-redwood-nextjs-remix-react-admin-rust-reducers-webcomponents-gatsby-typescript-rome-3k0j",
+    "title": "Next.js and Tumblr as a CMS",
+    "link": "https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-5fki",
     "date": "4/13/2022",
     "site": "dev.to"
   },
   {
-    "title": "Array.forEach() - for looping through items in an array",
-    "link": "https://dev.to/dillionmegida/arrayforeach-for-looping-through-items-in-an-array-1kmo",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Green Ape CBD Gummies Reviews 2022 – Help for your Pain Relief?",
-    "link": "https://dev.to/greenapecbdget/green-ape-cbd-gummies-reviews-2022-help-for-your-pain-relief-4ojk",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Finished!",
-    "link": "https://dev.to/warmastr/finished-42kh",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React, Vue and Svelte : Comparing Multi Checkbox Binding",
-    "link": "https://dev.to/ccreusat/react-vue-and-svelte-comparing-multi-checkbox-binding-1g6f",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a REST API with pre-written Serverless Components",
-    "link": "https://dev.to/serverless_inc/how-to-create-a-rest-api-with-pre-written-serverless-components-2g5",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power of Strategy Design Pattern in JavaScript",
-    "link": "https://dev.to/jsmanifest/the-power-of-strategy-design-pattern-in-javascript-kn8",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "(Launch!) Building a business from scratch - day 18 🚀",
-    "link": "https://dev.to/twankrui/launch-building-a-business-from-scratch-day-18-bpc",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Design Pattern in TypeScript: Strategy Pattern",
-    "link": "https://dev.to/bhargavmantha/design-pattern-in-typescript-strategy-pattern-4i5d",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Story-time: Tackling No Double Favorite Cat",
-    "link": "https://dev.to/bperez3237/story-time-tackling-no-double-favorite-cat-56ha",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Best Practices - Ways To Write Better Code in 2022",
-    "link": "https://dev.to/nourdinedev/react-best-practices-ways-to-write-better-code-in-2022-37gk",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Webix Gantt Chart. Handy web tool for efficient project management",
-    "link": "https://dev.to/serhiipylypchuk1991/webix-gantt-chart-handy-web-tool-for-efficient-project-management-14no",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Bypass Captcha Automatic Login with Nodejs Playwright 2Captcha",
-    "link": "https://dev.to/openhacking/how-to-bypass-captcha-automatic-login-with-nodejs-playwright-2captcha-42dp",
-    "date": "4/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best car transport services in Noida",
-    "link": "https://dev.to/securemove1/best-car-transport-services-in-noida-1fbk",
+    "title": "The Linked List in JavaScript: implementation, operations (basics)",
+    "link": "https://dev.to/nikaffa/the-linked-list-in-javascript-implementation-operations-basics-447o",
     "date": "4/13/2022",
     "site": "dev.to"
   },
@@ -875,36 +905,6 @@
     "reading_time": "11 min read",
     "date": "4/11/2022",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "Bad Habits of Mid-Level React Developers",
-    "link": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bad Habits of Mid-Level React Developers",
-    "link": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bad Habits of Mid-Level React Developers",
-    "link": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bad Habits of Mid-Level React Developers",
-    "link": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
-    "date": "4/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bad Habits of Mid-Level React Developers",
-    "link": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
-    "date": "4/9/2022",
-    "site": "dev.to"
   },
   {
     "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
@@ -1185,7 +1185,7 @@
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
@@ -1225,7 +1225,7 @@
   {
     "title": "Tools And Practices To Speed Up The Vue.js Development Process",
     "link": "https://www.smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/8/2021",
     "site": "smashingmagazine"
   },
@@ -1287,7 +1287,7 @@
   {
     "title": "Managing Shared State In Vue 3",
     "link": "https://www.smashingmagazine.com/2021/06/managing-shared-state-vue3/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "6/3/2021",
     "site": "smashingmagazine"
   },
