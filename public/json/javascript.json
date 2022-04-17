@@ -1,5 +1,461 @@
 [
   {
+    "title": "Event Bubbling and Capturing in Javascript",
+    "link": "https://deekshithmd.hashnode.dev/event-bubbling-and-capturing-in-javascript",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "async & defer attributes in Script Tag",
+    "link": "https://subm.hashnode.dev/async-and-defer-attributes-in-script-tag",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Turning MPA to SPA with Virtual DOM",
+    "link": "https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Analyzing Chrome Extensions Part 1",
+    "link": "https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build And Design a Click Speed Test Game Using HTMl & CSS",
+    "link": "https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why should we use Tailwind?",
+    "link": "https://dev.to/pramodk73/why-should-we-use-tailwind-1630",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comprehensive guide to GraphQL clients, part 3",
+    "link": "https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why you cannot pass location.reload as an argument",
+    "link": "https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript 1O1 series : Writing loops with For, While and Do while.",
+    "link": "https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are JavaScript strings immutable?",
+    "link": "https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create CRUD routes in Nodejs in two lines only.",
+    "link": "https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Blazing fast comment system with Sveltejs and Supabase",
+    "link": "https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Don't use window.event",
+    "link": "https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Event Bubbling and Capturing in Javascript",
+    "link": "https://deekshithmd.hashnode.dev/event-bubbling-and-capturing-in-javascript",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "async & defer attributes in Script Tag",
+    "link": "https://subm.hashnode.dev/async-and-defer-attributes-in-script-tag",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Turning MPA to SPA with Virtual DOM",
+    "link": "https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Analyzing Chrome Extensions Part 1",
+    "link": "https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build And Design a Click Speed Test Game Using HTMl & CSS",
+    "link": "https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why should we use Tailwind?",
+    "link": "https://dev.to/pramodk73/why-should-we-use-tailwind-1630",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comprehensive guide to GraphQL clients, part 3",
+    "link": "https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why you cannot pass location.reload as an argument",
+    "link": "https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript 1O1 series : Writing loops with For, While and Do while.",
+    "link": "https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are JavaScript strings immutable?",
+    "link": "https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create CRUD routes in Nodejs in two lines only.",
+    "link": "https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Blazing fast comment system with Sveltejs and Supabase",
+    "link": "https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Don't use window.event",
+    "link": "https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Event Bubbling and Capturing in Javascript",
+    "link": "https://deekshithmd.hashnode.dev/event-bubbling-and-capturing-in-javascript",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "async & defer attributes in Script Tag",
+    "link": "https://subm.hashnode.dev/async-and-defer-attributes-in-script-tag",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Turning MPA to SPA with Virtual DOM",
+    "link": "https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Analyzing Chrome Extensions Part 1",
+    "link": "https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build And Design a Click Speed Test Game Using HTMl & CSS",
+    "link": "https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why should we use Tailwind?",
+    "link": "https://dev.to/pramodk73/why-should-we-use-tailwind-1630",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comprehensive guide to GraphQL clients, part 3",
+    "link": "https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why you cannot pass location.reload as an argument",
+    "link": "https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript 1O1 series : Writing loops with For, While and Do while.",
+    "link": "https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are JavaScript strings immutable?",
+    "link": "https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create CRUD routes in Nodejs in two lines only.",
+    "link": "https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Blazing fast comment system with Sveltejs and Supabase",
+    "link": "https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Don't use window.event",
+    "link": "https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Event Bubbling and Capturing in Javascript",
+    "link": "https://deekshithmd.hashnode.dev/event-bubbling-and-capturing-in-javascript",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "async & defer attributes in Script Tag",
+    "link": "https://subm.hashnode.dev/async-and-defer-attributes-in-script-tag",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Turning MPA to SPA with Virtual DOM",
+    "link": "https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Analyzing Chrome Extensions Part 1",
+    "link": "https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build And Design a Click Speed Test Game Using HTMl & CSS",
+    "link": "https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why should we use Tailwind?",
+    "link": "https://dev.to/pramodk73/why-should-we-use-tailwind-1630",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comprehensive guide to GraphQL clients, part 3",
+    "link": "https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why you cannot pass location.reload as an argument",
+    "link": "https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript 1O1 series : Writing loops with For, While and Do while.",
+    "link": "https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are JavaScript strings immutable?",
+    "link": "https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create CRUD routes in Nodejs in two lines only.",
+    "link": "https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Blazing fast comment system with Sveltejs and Supabase",
+    "link": "https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Don't use window.event",
+    "link": "https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Event Bubbling and Capturing in Javascript",
+    "link": "https://deekshithmd.hashnode.dev/event-bubbling-and-capturing-in-javascript",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "async & defer attributes in Script Tag",
+    "link": "https://subm.hashnode.dev/async-and-defer-attributes-in-script-tag",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Turning MPA to SPA with Virtual DOM",
+    "link": "https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Analyzing Chrome Extensions Part 1",
+    "link": "https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build And Design a Click Speed Test Game Using HTMl & CSS",
+    "link": "https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why should we use Tailwind?",
+    "link": "https://dev.to/pramodk73/why-should-we-use-tailwind-1630",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comprehensive guide to GraphQL clients, part 3",
+    "link": "https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why you cannot pass location.reload as an argument",
+    "link": "https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript 1O1 series : Writing loops with For, While and Do while.",
+    "link": "https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are JavaScript strings immutable?",
+    "link": "https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create CRUD routes in Nodejs in two lines only.",
+    "link": "https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Blazing fast comment system with Sveltejs and Supabase",
+    "link": "https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Don't use window.event",
+    "link": "https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f",
+    "date": "4/17/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A love letter to React function components",
+    "link": "https://blog.simonjaeger.ch/a-love-letter-to-react-function-components",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "CSS - Flexbox 101",
+    "link": "https://rhg.hashnode.dev/css-flexbox-101",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Multi-Step Form with React & Formik",
+    "link": "https://piyushsinha.tech/multi-step-form-with-react-and-formik",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Let's create your first user interface together",
+    "link": "https://roshaan.hashnode.dev/lets-create-your-first-user-interface-together",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Destructive and Non Destructive methods in JavaScript",
+    "link": "https://vasukihebbar.hashnode.dev/destructive-and-non-destructive-methods-in-javascript",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Node.js MySQL Insert Into",
+    "link": "https://svdcse.xyz/nodejs-mysql-insert-into",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Chunky Monkey - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/chunky-monkey-javascript-solution-and-walkthrough",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Higher-Order Component Vs Hooks In React",
+    "link": "https://sammychris.hashnode.dev/higher-order-component-vs-hooks-in-react",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Introduction to Functional Programming in JavaScript.",
+    "link": "https://blog.shahbazkhan.in/introduction-to-functional-programming-in-javascript",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is Object.create() in Javascript?",
+    "link": "https://subm.hashnode.dev/what-is-objectcreate-in-javascript",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Post Processing in ThreeJs | Make your Scene Pop",
+    "link": "https://heaust.hashnode.dev/threejs-chapter-5",
+    "date": "4/16/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "Frontend development intro in 2022",
     "link": "https://rogeliotg.hashnode.dev/frontend-development-intro-in-2022",
     "date": "4/16/2022",
@@ -12,100 +468,94 @@
     "site": "hashnode"
   },
   {
-    "title": "Getting Started With React Js.",
-    "link": "https://faran.hashnode.dev/getting-started-with-react-js",
+    "title": "tsParticles 2.0.6 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-206-released-36fn",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript: When should I use forEach and map?",
+    "link": "https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Katie's VSCode Cheatsheet",
+    "link": "https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to resolve a Cross-Origin Resource Sharing (CORS) error?",
+    "link": "https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A love letter to React function components",
+    "link": "https://blog.simonjaeger.ch/a-love-letter-to-react-function-components",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "NaPoWriMo x NaPoGenMo Prompt Day 16: Promptless Words",
-    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-16-promptless-words",
+    "title": "CSS - Flexbox 101",
+    "link": "https://rhg.hashnode.dev/css-flexbox-101",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "what is an object in javascript?",
-    "link": "https://digomic.hashnode.dev/what-is-an-object-in-javascript",
+    "title": "Multi-Step Form with React & Formik",
+    "link": "https://piyushsinha.tech/multi-step-form-with-react-and-formik",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "Implementing OpenTelemetry in Angular application",
-    "link": "https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45",
+    "title": "Let's create your first user interface together",
+    "link": "https://roshaan.hashnode.dev/lets-create-your-first-user-interface-together",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Building a Realtime Chat App with React, Laravel, and WebSockets",
-    "link": "https://dev.to/ravgeetdhillon/building-a-realtime-chat-app-with-react-laravel-and-websockets-4clh",
+    "title": "Destructive and Non Destructive methods in JavaScript",
+    "link": "https://vasukihebbar.hashnode.dev/destructive-and-non-destructive-methods-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "ACV Keto Gummies Reviews (Canada 2022) – Does It Scam Or Fat Burn?",
-    "link": "https://dev.to/acvgummiesweb/acv-keto-gummies-reviews-canada-2022-does-it-scam-or-fat-burn-26cd",
+    "title": "Node.js MySQL Insert Into",
+    "link": "https://svdcse.xyz/nodejs-mysql-insert-into",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "This week’s newsletter is out! (16-04-2022) - Git push brain",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-16-04-2022-git-push-brain-j97",
+    "title": "Chunky Monkey - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/chunky-monkey-javascript-solution-and-walkthrough",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Lifestyle Keto - Reviews (Scam Exposed 2022) Complaints And Results?",
-    "link": "https://dev.to/lifestyleketof2/lifestyle-keto-reviews-scam-exposed-2022-complaints-and-results-5d11",
+    "title": "Higher-Order Component Vs Hooks In React",
+    "link": "https://sammychris.hashnode.dev/higher-order-component-vs-hooks-in-react",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Writing your own module bundler",
-    "link": "https://dev.to/akshay9677/writing-your-own-module-bundler-125b",
+    "title": "Introduction to Functional Programming in JavaScript.",
+    "link": "https://blog.shahbazkhan.in/introduction-to-functional-programming-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "yarn berryで依存パッケージのバージョンを指定する",
-    "link": "https://dev.to/yutagoto/yarn-berrydeyi-cun-patukezinobaziyonwozhi-ding-suru-3bph",
+    "title": "What is Object.create() in Javascript?",
+    "link": "https://subm.hashnode.dev/what-is-objectcreate-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Javascript beautifier online | 2022 | All-time-dev",
-    "link": "https://dev.to/alltimedevlopment/javascript-beautifier-online-2022-all-time-dev-2291",
+    "title": "Post Processing in ThreeJs | Make your Scene Pop",
+    "link": "https://heaust.hashnode.dev/threejs-chapter-5",
     "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Excel-like javascript spreadsheet in less than 10 lines of code",
-    "link": "https://dev.to/zyc9012/create-excel-like-javascript-spreadsheet-in-less-than-10-lines-of-code-4a5o",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Design, You Build! - Frontend Challenge #4 (Supabase version)",
-    "link": "https://dev.to/zernonia/i-design-you-build-frontend-challenge-4-supabase-version-2afm",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use async/await with .map in js",
-    "link": "https://dev.to/jordandev/how-to-use-asyncawait-with-map-in-js-2ena",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nuevo Proyecto",
-    "link": "https://dev.to/skrindo/nuevo-proyecto-4n90",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Stack Data Structure.",
-    "link": "https://dev.to/bvnkumar/javascript-stack-data-structure-2b30",
-    "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Frontend development intro in 2022",
@@ -120,100 +570,94 @@
     "site": "hashnode"
   },
   {
-    "title": "Getting Started With React Js.",
-    "link": "https://faran.hashnode.dev/getting-started-with-react-js",
+    "title": "tsParticles 2.0.6 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-206-released-36fn",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript: When should I use forEach and map?",
+    "link": "https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Katie's VSCode Cheatsheet",
+    "link": "https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to resolve a Cross-Origin Resource Sharing (CORS) error?",
+    "link": "https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A love letter to React function components",
+    "link": "https://blog.simonjaeger.ch/a-love-letter-to-react-function-components",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "NaPoWriMo x NaPoGenMo Prompt Day 16: Promptless Words",
-    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-16-promptless-words",
+    "title": "CSS - Flexbox 101",
+    "link": "https://rhg.hashnode.dev/css-flexbox-101",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "what is an object in javascript?",
-    "link": "https://digomic.hashnode.dev/what-is-an-object-in-javascript",
+    "title": "Multi-Step Form with React & Formik",
+    "link": "https://piyushsinha.tech/multi-step-form-with-react-and-formik",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "Implementing OpenTelemetry in Angular application",
-    "link": "https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45",
+    "title": "Let's create your first user interface together",
+    "link": "https://roshaan.hashnode.dev/lets-create-your-first-user-interface-together",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Building a Realtime Chat App with React, Laravel, and WebSockets",
-    "link": "https://dev.to/ravgeetdhillon/building-a-realtime-chat-app-with-react-laravel-and-websockets-4clh",
+    "title": "Destructive and Non Destructive methods in JavaScript",
+    "link": "https://vasukihebbar.hashnode.dev/destructive-and-non-destructive-methods-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "ACV Keto Gummies Reviews (Canada 2022) – Does It Scam Or Fat Burn?",
-    "link": "https://dev.to/acvgummiesweb/acv-keto-gummies-reviews-canada-2022-does-it-scam-or-fat-burn-26cd",
+    "title": "Node.js MySQL Insert Into",
+    "link": "https://svdcse.xyz/nodejs-mysql-insert-into",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "This week’s newsletter is out! (16-04-2022) - Git push brain",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-16-04-2022-git-push-brain-j97",
+    "title": "Chunky Monkey - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/chunky-monkey-javascript-solution-and-walkthrough",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Lifestyle Keto - Reviews (Scam Exposed 2022) Complaints And Results?",
-    "link": "https://dev.to/lifestyleketof2/lifestyle-keto-reviews-scam-exposed-2022-complaints-and-results-5d11",
+    "title": "Higher-Order Component Vs Hooks In React",
+    "link": "https://sammychris.hashnode.dev/higher-order-component-vs-hooks-in-react",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Writing your own module bundler",
-    "link": "https://dev.to/akshay9677/writing-your-own-module-bundler-125b",
+    "title": "Introduction to Functional Programming in JavaScript.",
+    "link": "https://blog.shahbazkhan.in/introduction-to-functional-programming-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "yarn berryで依存パッケージのバージョンを指定する",
-    "link": "https://dev.to/yutagoto/yarn-berrydeyi-cun-patukezinobaziyonwozhi-ding-suru-3bph",
+    "title": "What is Object.create() in Javascript?",
+    "link": "https://subm.hashnode.dev/what-is-objectcreate-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Javascript beautifier online | 2022 | All-time-dev",
-    "link": "https://dev.to/alltimedevlopment/javascript-beautifier-online-2022-all-time-dev-2291",
+    "title": "Post Processing in ThreeJs | Make your Scene Pop",
+    "link": "https://heaust.hashnode.dev/threejs-chapter-5",
     "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Excel-like javascript spreadsheet in less than 10 lines of code",
-    "link": "https://dev.to/zyc9012/create-excel-like-javascript-spreadsheet-in-less-than-10-lines-of-code-4a5o",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Design, You Build! - Frontend Challenge #4 (Supabase version)",
-    "link": "https://dev.to/zernonia/i-design-you-build-frontend-challenge-4-supabase-version-2afm",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use async/await with .map in js",
-    "link": "https://dev.to/jordandev/how-to-use-asyncawait-with-map-in-js-2ena",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nuevo Proyecto",
-    "link": "https://dev.to/skrindo/nuevo-proyecto-4n90",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Stack Data Structure.",
-    "link": "https://dev.to/bvnkumar/javascript-stack-data-structure-2b30",
-    "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Frontend development intro in 2022",
@@ -228,100 +672,94 @@
     "site": "hashnode"
   },
   {
-    "title": "Getting Started With React Js.",
-    "link": "https://faran.hashnode.dev/getting-started-with-react-js",
+    "title": "tsParticles 2.0.6 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-206-released-36fn",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript: When should I use forEach and map?",
+    "link": "https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Katie's VSCode Cheatsheet",
+    "link": "https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to resolve a Cross-Origin Resource Sharing (CORS) error?",
+    "link": "https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A love letter to React function components",
+    "link": "https://blog.simonjaeger.ch/a-love-letter-to-react-function-components",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "NaPoWriMo x NaPoGenMo Prompt Day 16: Promptless Words",
-    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-16-promptless-words",
+    "title": "CSS - Flexbox 101",
+    "link": "https://rhg.hashnode.dev/css-flexbox-101",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "what is an object in javascript?",
-    "link": "https://digomic.hashnode.dev/what-is-an-object-in-javascript",
+    "title": "Multi-Step Form with React & Formik",
+    "link": "https://piyushsinha.tech/multi-step-form-with-react-and-formik",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "Implementing OpenTelemetry in Angular application",
-    "link": "https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45",
+    "title": "Let's create your first user interface together",
+    "link": "https://roshaan.hashnode.dev/lets-create-your-first-user-interface-together",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Building a Realtime Chat App with React, Laravel, and WebSockets",
-    "link": "https://dev.to/ravgeetdhillon/building-a-realtime-chat-app-with-react-laravel-and-websockets-4clh",
+    "title": "Destructive and Non Destructive methods in JavaScript",
+    "link": "https://vasukihebbar.hashnode.dev/destructive-and-non-destructive-methods-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "ACV Keto Gummies Reviews (Canada 2022) – Does It Scam Or Fat Burn?",
-    "link": "https://dev.to/acvgummiesweb/acv-keto-gummies-reviews-canada-2022-does-it-scam-or-fat-burn-26cd",
+    "title": "Node.js MySQL Insert Into",
+    "link": "https://svdcse.xyz/nodejs-mysql-insert-into",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "This week’s newsletter is out! (16-04-2022) - Git push brain",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-16-04-2022-git-push-brain-j97",
+    "title": "Chunky Monkey - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/chunky-monkey-javascript-solution-and-walkthrough",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Lifestyle Keto - Reviews (Scam Exposed 2022) Complaints And Results?",
-    "link": "https://dev.to/lifestyleketof2/lifestyle-keto-reviews-scam-exposed-2022-complaints-and-results-5d11",
+    "title": "Higher-Order Component Vs Hooks In React",
+    "link": "https://sammychris.hashnode.dev/higher-order-component-vs-hooks-in-react",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Writing your own module bundler",
-    "link": "https://dev.to/akshay9677/writing-your-own-module-bundler-125b",
+    "title": "Introduction to Functional Programming in JavaScript.",
+    "link": "https://blog.shahbazkhan.in/introduction-to-functional-programming-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "yarn berryで依存パッケージのバージョンを指定する",
-    "link": "https://dev.to/yutagoto/yarn-berrydeyi-cun-patukezinobaziyonwozhi-ding-suru-3bph",
+    "title": "What is Object.create() in Javascript?",
+    "link": "https://subm.hashnode.dev/what-is-objectcreate-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Javascript beautifier online | 2022 | All-time-dev",
-    "link": "https://dev.to/alltimedevlopment/javascript-beautifier-online-2022-all-time-dev-2291",
+    "title": "Post Processing in ThreeJs | Make your Scene Pop",
+    "link": "https://heaust.hashnode.dev/threejs-chapter-5",
     "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Excel-like javascript spreadsheet in less than 10 lines of code",
-    "link": "https://dev.to/zyc9012/create-excel-like-javascript-spreadsheet-in-less-than-10-lines-of-code-4a5o",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Design, You Build! - Frontend Challenge #4 (Supabase version)",
-    "link": "https://dev.to/zernonia/i-design-you-build-frontend-challenge-4-supabase-version-2afm",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use async/await with .map in js",
-    "link": "https://dev.to/jordandev/how-to-use-asyncawait-with-map-in-js-2ena",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nuevo Proyecto",
-    "link": "https://dev.to/skrindo/nuevo-proyecto-4n90",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Stack Data Structure.",
-    "link": "https://dev.to/bvnkumar/javascript-stack-data-structure-2b30",
-    "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Frontend development intro in 2022",
@@ -336,100 +774,94 @@
     "site": "hashnode"
   },
   {
-    "title": "Getting Started With React Js.",
-    "link": "https://faran.hashnode.dev/getting-started-with-react-js",
+    "title": "tsParticles 2.0.6 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-206-released-36fn",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript: When should I use forEach and map?",
+    "link": "https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Katie's VSCode Cheatsheet",
+    "link": "https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to resolve a Cross-Origin Resource Sharing (CORS) error?",
+    "link": "https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he",
+    "date": "4/16/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A love letter to React function components",
+    "link": "https://blog.simonjaeger.ch/a-love-letter-to-react-function-components",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "NaPoWriMo x NaPoGenMo Prompt Day 16: Promptless Words",
-    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-16-promptless-words",
+    "title": "CSS - Flexbox 101",
+    "link": "https://rhg.hashnode.dev/css-flexbox-101",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "what is an object in javascript?",
-    "link": "https://digomic.hashnode.dev/what-is-an-object-in-javascript",
+    "title": "Multi-Step Form with React & Formik",
+    "link": "https://piyushsinha.tech/multi-step-form-with-react-and-formik",
     "date": "4/16/2022",
     "site": "hashnode"
   },
   {
-    "title": "Implementing OpenTelemetry in Angular application",
-    "link": "https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45",
+    "title": "Let's create your first user interface together",
+    "link": "https://roshaan.hashnode.dev/lets-create-your-first-user-interface-together",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Building a Realtime Chat App with React, Laravel, and WebSockets",
-    "link": "https://dev.to/ravgeetdhillon/building-a-realtime-chat-app-with-react-laravel-and-websockets-4clh",
+    "title": "Destructive and Non Destructive methods in JavaScript",
+    "link": "https://vasukihebbar.hashnode.dev/destructive-and-non-destructive-methods-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "ACV Keto Gummies Reviews (Canada 2022) – Does It Scam Or Fat Burn?",
-    "link": "https://dev.to/acvgummiesweb/acv-keto-gummies-reviews-canada-2022-does-it-scam-or-fat-burn-26cd",
+    "title": "Node.js MySQL Insert Into",
+    "link": "https://svdcse.xyz/nodejs-mysql-insert-into",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "This week’s newsletter is out! (16-04-2022) - Git push brain",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-16-04-2022-git-push-brain-j97",
+    "title": "Chunky Monkey - JavaScript Solution & Walkthrough",
+    "link": "https://benjaminsemah.hashnode.dev/chunky-monkey-javascript-solution-and-walkthrough",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Lifestyle Keto - Reviews (Scam Exposed 2022) Complaints And Results?",
-    "link": "https://dev.to/lifestyleketof2/lifestyle-keto-reviews-scam-exposed-2022-complaints-and-results-5d11",
+    "title": "Higher-Order Component Vs Hooks In React",
+    "link": "https://sammychris.hashnode.dev/higher-order-component-vs-hooks-in-react",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Writing your own module bundler",
-    "link": "https://dev.to/akshay9677/writing-your-own-module-bundler-125b",
+    "title": "Introduction to Functional Programming in JavaScript.",
+    "link": "https://blog.shahbazkhan.in/introduction-to-functional-programming-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "yarn berryで依存パッケージのバージョンを指定する",
-    "link": "https://dev.to/yutagoto/yarn-berrydeyi-cun-patukezinobaziyonwozhi-ding-suru-3bph",
+    "title": "What is Object.create() in Javascript?",
+    "link": "https://subm.hashnode.dev/what-is-objectcreate-in-javascript",
     "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Javascript beautifier online | 2022 | All-time-dev",
-    "link": "https://dev.to/alltimedevlopment/javascript-beautifier-online-2022-all-time-dev-2291",
+    "title": "Post Processing in ThreeJs | Make your Scene Pop",
+    "link": "https://heaust.hashnode.dev/threejs-chapter-5",
     "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Excel-like javascript spreadsheet in less than 10 lines of code",
-    "link": "https://dev.to/zyc9012/create-excel-like-javascript-spreadsheet-in-less-than-10-lines-of-code-4a5o",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Design, You Build! - Frontend Challenge #4 (Supabase version)",
-    "link": "https://dev.to/zernonia/i-design-you-build-frontend-challenge-4-supabase-version-2afm",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use async/await with .map in js",
-    "link": "https://dev.to/jordandev/how-to-use-asyncawait-with-map-in-js-2ena",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nuevo Proyecto",
-    "link": "https://dev.to/skrindo/nuevo-proyecto-4n90",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Stack Data Structure.",
-    "link": "https://dev.to/bvnkumar/javascript-stack-data-structure-2b30",
-    "date": "4/16/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Frontend development intro in 2022",
@@ -444,459 +876,27 @@
     "site": "hashnode"
   },
   {
-    "title": "Getting Started With React Js.",
-    "link": "https://faran.hashnode.dev/getting-started-with-react-js",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NaPoWriMo x NaPoGenMo Prompt Day 16: Promptless Words",
-    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-16-promptless-words",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "what is an object in javascript?",
-    "link": "https://digomic.hashnode.dev/what-is-an-object-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Implementing OpenTelemetry in Angular application",
-    "link": "https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45",
+    "title": "tsParticles 2.0.6 Released",
+    "link": "https://dev.to/matteobruni/tsparticles-206-released-36fn",
     "date": "4/16/2022",
     "site": "dev.to"
   },
   {
-    "title": "Building a Realtime Chat App with React, Laravel, and WebSockets",
-    "link": "https://dev.to/ravgeetdhillon/building-a-realtime-chat-app-with-react-laravel-and-websockets-4clh",
+    "title": "JavaScript: When should I use forEach and map?",
+    "link": "https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao",
     "date": "4/16/2022",
     "site": "dev.to"
   },
   {
-    "title": "ACV Keto Gummies Reviews (Canada 2022) – Does It Scam Or Fat Burn?",
-    "link": "https://dev.to/acvgummiesweb/acv-keto-gummies-reviews-canada-2022-does-it-scam-or-fat-burn-26cd",
+    "title": "Katie's VSCode Cheatsheet",
+    "link": "https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp",
     "date": "4/16/2022",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (16-04-2022) - Git push brain",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-16-04-2022-git-push-brain-j97",
+    "title": "How to resolve a Cross-Origin Resource Sharing (CORS) error?",
+    "link": "https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he",
     "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lifestyle Keto - Reviews (Scam Exposed 2022) Complaints And Results?",
-    "link": "https://dev.to/lifestyleketof2/lifestyle-keto-reviews-scam-exposed-2022-complaints-and-results-5d11",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Writing your own module bundler",
-    "link": "https://dev.to/akshay9677/writing-your-own-module-bundler-125b",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "yarn berryで依存パッケージのバージョンを指定する",
-    "link": "https://dev.to/yutagoto/yarn-berrydeyi-cun-patukezinobaziyonwozhi-ding-suru-3bph",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript beautifier online | 2022 | All-time-dev",
-    "link": "https://dev.to/alltimedevlopment/javascript-beautifier-online-2022-all-time-dev-2291",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create Excel-like javascript spreadsheet in less than 10 lines of code",
-    "link": "https://dev.to/zyc9012/create-excel-like-javascript-spreadsheet-in-less-than-10-lines-of-code-4a5o",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Design, You Build! - Frontend Challenge #4 (Supabase version)",
-    "link": "https://dev.to/zernonia/i-design-you-build-frontend-challenge-4-supabase-version-2afm",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use async/await with .map in js",
-    "link": "https://dev.to/jordandev/how-to-use-asyncawait-with-map-in-js-2ena",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nuevo Proyecto",
-    "link": "https://dev.to/skrindo/nuevo-proyecto-4n90",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Stack Data Structure.",
-    "link": "https://dev.to/bvnkumar/javascript-stack-data-structure-2b30",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "prototype and __proto__ in Javascript",
-    "link": "https://subm.hashnode.dev/prototype-and-proto-in-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "An easier way to manage HTML DOM using Javascript",
-    "link": "https://blog.freshbits.in/an-easier-way-to-manage-html-dom-using-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How Inheritance is achieved using Prototype in Javascript?",
-    "link": "https://subm.hashnode.dev/how-inheritance-is-achieved-using-prototype-in-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I Left PUGJS For EJS",
-    "link": "https://mukhtar.hashnode.dev/i-left-pugjs-for-ejs",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NaPoWriMo x NaPoGenMo Prompt Day 15 : WhileOnTheTrain",
-    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-15-whileonthetrain",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Vercel Functions to GCP Cloud Logging",
-    "link": "https://binary.praveent.com/vercel-functions-to-gcp-cloud-logging",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to download and install Node.js and NPM on windows 10",
-    "link": "https://webcodespace.com/how-to-download-and-install-nodejs-and-npm-on-windows-10",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to create a table in MySQL using NodeJS",
-    "link": "https://svdcse.xyz/how-to-create-a-table-in-mysql-using-nodejs",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Mutations - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/mutations-javascript-solution-and-walkthrough",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Getting started with generative art and Hydra",
-    "link": "https://zachkrall.hashnode.dev/getting-started-with-generative-art-and-hydra",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Cheerio Vs Puppeteer for Web Scraping: Picking the Best Tool for Your Project",
-    "link": "https://dev.to/zoltan/cheerio-vs-puppeteer-for-web-scraping-picking-the-best-tool-for-your-project-4dkl",
-    "date": "4/15/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Code execution: explain like I'm five",
-    "link": "https://dev.to/arikaturika/code-execution-explain-like-im-five-305b",
-    "date": "4/15/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "prototype and __proto__ in Javascript",
-    "link": "https://subm.hashnode.dev/prototype-and-proto-in-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "An easier way to manage HTML DOM using Javascript",
-    "link": "https://blog.freshbits.in/an-easier-way-to-manage-html-dom-using-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How Inheritance is achieved using Prototype in Javascript?",
-    "link": "https://subm.hashnode.dev/how-inheritance-is-achieved-using-prototype-in-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I Left PUGJS For EJS",
-    "link": "https://mukhtar.hashnode.dev/i-left-pugjs-for-ejs",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NaPoWriMo x NaPoGenMo Prompt Day 15 : WhileOnTheTrain",
-    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-15-whileonthetrain",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Vercel Functions to GCP Cloud Logging",
-    "link": "https://binary.praveent.com/vercel-functions-to-gcp-cloud-logging",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to download and install Node.js and NPM on windows 10",
-    "link": "https://webcodespace.com/how-to-download-and-install-nodejs-and-npm-on-windows-10",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to create a table in MySQL using NodeJS",
-    "link": "https://svdcse.xyz/how-to-create-a-table-in-mysql-using-nodejs",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Mutations - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/mutations-javascript-solution-and-walkthrough",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Getting started with generative art and Hydra",
-    "link": "https://zachkrall.hashnode.dev/getting-started-with-generative-art-and-hydra",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Cheerio Vs Puppeteer for Web Scraping: Picking the Best Tool for Your Project",
-    "link": "https://dev.to/zoltan/cheerio-vs-puppeteer-for-web-scraping-picking-the-best-tool-for-your-project-4dkl",
-    "date": "4/15/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Code execution: explain like I'm five",
-    "link": "https://dev.to/arikaturika/code-execution-explain-like-im-five-305b",
-    "date": "4/15/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "prototype and __proto__ in Javascript",
-    "link": "https://subm.hashnode.dev/prototype-and-proto-in-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "An easier way to manage HTML DOM using Javascript",
-    "link": "https://blog.freshbits.in/an-easier-way-to-manage-html-dom-using-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How Inheritance is achieved using Prototype in Javascript?",
-    "link": "https://subm.hashnode.dev/how-inheritance-is-achieved-using-prototype-in-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I Left PUGJS For EJS",
-    "link": "https://mukhtar.hashnode.dev/i-left-pugjs-for-ejs",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NaPoWriMo x NaPoGenMo Prompt Day 15 : WhileOnTheTrain",
-    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-15-whileonthetrain",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Vercel Functions to GCP Cloud Logging",
-    "link": "https://binary.praveent.com/vercel-functions-to-gcp-cloud-logging",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to download and install Node.js and NPM on windows 10",
-    "link": "https://webcodespace.com/how-to-download-and-install-nodejs-and-npm-on-windows-10",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to create a table in MySQL using NodeJS",
-    "link": "https://svdcse.xyz/how-to-create-a-table-in-mysql-using-nodejs",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Mutations - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/mutations-javascript-solution-and-walkthrough",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Getting started with generative art and Hydra",
-    "link": "https://zachkrall.hashnode.dev/getting-started-with-generative-art-and-hydra",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Cheerio Vs Puppeteer for Web Scraping: Picking the Best Tool for Your Project",
-    "link": "https://dev.to/zoltan/cheerio-vs-puppeteer-for-web-scraping-picking-the-best-tool-for-your-project-4dkl",
-    "date": "4/15/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Code execution: explain like I'm five",
-    "link": "https://dev.to/arikaturika/code-execution-explain-like-im-five-305b",
-    "date": "4/15/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "prototype and __proto__ in Javascript",
-    "link": "https://subm.hashnode.dev/prototype-and-proto-in-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "An easier way to manage HTML DOM using Javascript",
-    "link": "https://blog.freshbits.in/an-easier-way-to-manage-html-dom-using-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How Inheritance is achieved using Prototype in Javascript?",
-    "link": "https://subm.hashnode.dev/how-inheritance-is-achieved-using-prototype-in-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I Left PUGJS For EJS",
-    "link": "https://mukhtar.hashnode.dev/i-left-pugjs-for-ejs",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NaPoWriMo x NaPoGenMo Prompt Day 15 : WhileOnTheTrain",
-    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-15-whileonthetrain",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Vercel Functions to GCP Cloud Logging",
-    "link": "https://binary.praveent.com/vercel-functions-to-gcp-cloud-logging",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to download and install Node.js and NPM on windows 10",
-    "link": "https://webcodespace.com/how-to-download-and-install-nodejs-and-npm-on-windows-10",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to create a table in MySQL using NodeJS",
-    "link": "https://svdcse.xyz/how-to-create-a-table-in-mysql-using-nodejs",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Mutations - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/mutations-javascript-solution-and-walkthrough",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Getting started with generative art and Hydra",
-    "link": "https://zachkrall.hashnode.dev/getting-started-with-generative-art-and-hydra",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Cheerio Vs Puppeteer for Web Scraping: Picking the Best Tool for Your Project",
-    "link": "https://dev.to/zoltan/cheerio-vs-puppeteer-for-web-scraping-picking-the-best-tool-for-your-project-4dkl",
-    "date": "4/15/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Code execution: explain like I'm five",
-    "link": "https://dev.to/arikaturika/code-execution-explain-like-im-five-305b",
-    "date": "4/15/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "prototype and __proto__ in Javascript",
-    "link": "https://subm.hashnode.dev/prototype-and-proto-in-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "An easier way to manage HTML DOM using Javascript",
-    "link": "https://blog.freshbits.in/an-easier-way-to-manage-html-dom-using-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How Inheritance is achieved using Prototype in Javascript?",
-    "link": "https://subm.hashnode.dev/how-inheritance-is-achieved-using-prototype-in-javascript",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I Left PUGJS For EJS",
-    "link": "https://mukhtar.hashnode.dev/i-left-pugjs-for-ejs",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NaPoWriMo x NaPoGenMo Prompt Day 15 : WhileOnTheTrain",
-    "link": "https://blog.illestpreacha.com/napowrimo-x-napogenmo-prompt-day-15-whileonthetrain",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Vercel Functions to GCP Cloud Logging",
-    "link": "https://binary.praveent.com/vercel-functions-to-gcp-cloud-logging",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to download and install Node.js and NPM on windows 10",
-    "link": "https://webcodespace.com/how-to-download-and-install-nodejs-and-npm-on-windows-10",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to create a table in MySQL using NodeJS",
-    "link": "https://svdcse.xyz/how-to-create-a-table-in-mysql-using-nodejs",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Mutations - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/mutations-javascript-solution-and-walkthrough",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Getting started with generative art and Hydra",
-    "link": "https://zachkrall.hashnode.dev/getting-started-with-generative-art-and-hydra",
-    "date": "4/15/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Cheerio Vs Puppeteer for Web Scraping: Picking the Best Tool for Your Project",
-    "link": "https://dev.to/zoltan/cheerio-vs-puppeteer-for-web-scraping-picking-the-best-tool-for-your-project-4dkl",
-    "date": "4/15/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Code execution: explain like I'm five",
-    "link": "https://dev.to/arikaturika/code-execution-explain-like-im-five-305b",
-    "date": "4/15/2022",
     "site": "dev.to"
   },
   {
@@ -997,7 +997,7 @@
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -1023,7 +1023,7 @@
   {
     "title": "How To Build An Amazon Product Scraper With Node.js",
     "link": "https://www.smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "10/28/2021",
     "site": "smashingmagazine"
   },
@@ -1185,7 +1185,7 @@
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
@@ -1225,7 +1225,7 @@
   {
     "title": "Tools And Practices To Speed Up The Vue.js Development Process",
     "link": "https://www.smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "7/8/2021",
     "site": "smashingmagazine"
   },
@@ -1280,7 +1280,7 @@
   {
     "title": "Getting Started With Webpack",
     "link": "https://www.smashingmagazine.com/2021/06/getting-started-webpack/",
-    "reading_time": "20 min read",
+    "reading_time": "19 min read",
     "date": "6/4/2021",
     "site": "smashingmagazine"
   },
