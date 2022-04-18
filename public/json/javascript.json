@@ -1,81 +1,759 @@
 [
   {
+    "title": "JavaScript Functions",
+    "link": "https://nmesoma.hashnode.dev/javascript-functions",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://tomkanabay.hashnode.dev/binary-search",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Advanced JavaScript Course Notes pt.2",
+    "link": "https://achhoubiplus.hashnode.dev/js-notes-2",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javascript Variables",
+    "link": "https://blog.quasarcommunity.org/javascript-variables",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functional Components VS. Class Components",
+    "link": "https://blog.markgmz.com/functional-components-vs-class-components",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Variable Scopes in JavaScript",
+    "link": "https://vikasrajput.in/variable-scopes-in-javascript",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Styling the SelectControl from Formik with Chakra UI",
+    "link": "https://kristenkinnearohlmann.hashnode.dev/styling-the-selectcontrol-from-formik-with-chakra-ui",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Fetch, Networking and Async Functions",
+    "link": "https://blog.alexanderkaran.com/fetch-networking-and-async-functions",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js for beginners",
+    "link": "https://dev.to/anshuman_bhardwaj/nextjs-explained-for-beginners-c2g",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Start up Idea: Make robots serve in a restaurant",
+    "link": "https://dev.to/lianhussey/start-up-idea-make-robots-serve-in-a-restaurant-ja8",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ng-News: Episode 22/15",
+    "link": "https://dev.to/rainerhahnekamp/ng-news-episode-2215-bii",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Desktop 3d Apps to Web 3d Apps using Blender and React",
+    "link": "https://dev.to/omher/from-desktop-3d-apps-to-web-3d-apps-using-blender-and-react-4m9o",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding Gray Scale Filter - Pigshell",
+    "link": "https://dev.to/thevinitgupta/adding-gray-scale-filter-pigshell-fhk",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Handle `Error: EACCES: permission denied`",
+    "link": "https://dev.to/psypher1/how-to-handle-error-eacces-permission-denied-43fn",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://dev.to/tomkanabay/binary-search-233c",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Qué son Discriminated Unions y Exhaustiveness Checking en TypeScript?",
+    "link": "https://dev.to/gbumanzordev/que-son-discriminated-unions-y-exhaustiveness-checking-en-typescript-34d9",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Redis Cloud in your NextJS application",
+    "link": "https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Styling the SelectControl from Formik with Chakra UI",
+    "link": "https://dev.to/kristenkinnearohlmann/styling-the-selectcontrol-from-formik-with-chakra-ui-2345",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Commission Calculator",
+    "link": "https://dev.to/tmchuynh/commission-calculator-o33",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Right Click Context Menu in JavaScript",
+    "link": "https://dev.to/shantanu_jana/custom-right-click-context-menu-in-javascript-4112",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Interactive Cards",
+    "link": "https://dev.to/tmchuynh/interactive-cards-3ba0",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bullet Impact Simulation Using Phaser and Matter",
+    "link": "https://dev.to/zaky_abdur/bullet-impact-simulation-using-phaser-and-matter-3a70",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Chrome Extension in Next.js and Notion API",
+    "link": "https://dev.to/ravgeetdhillon/build-a-chrome-extension-in-nextjs-and-notion-api-ln5",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Functions",
+    "link": "https://nmesoma.hashnode.dev/javascript-functions",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://tomkanabay.hashnode.dev/binary-search",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Advanced JavaScript Course Notes pt.2",
+    "link": "https://achhoubiplus.hashnode.dev/js-notes-2",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javascript Variables",
+    "link": "https://blog.quasarcommunity.org/javascript-variables",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functional Components VS. Class Components",
+    "link": "https://blog.markgmz.com/functional-components-vs-class-components",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Variable Scopes in JavaScript",
+    "link": "https://vikasrajput.in/variable-scopes-in-javascript",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Styling the SelectControl from Formik with Chakra UI",
+    "link": "https://kristenkinnearohlmann.hashnode.dev/styling-the-selectcontrol-from-formik-with-chakra-ui",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Fetch, Networking and Async Functions",
+    "link": "https://blog.alexanderkaran.com/fetch-networking-and-async-functions",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js for beginners",
+    "link": "https://dev.to/anshuman_bhardwaj/nextjs-explained-for-beginners-c2g",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Start up Idea: Make robots serve in a restaurant",
+    "link": "https://dev.to/lianhussey/start-up-idea-make-robots-serve-in-a-restaurant-ja8",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ng-News: Episode 22/15",
+    "link": "https://dev.to/rainerhahnekamp/ng-news-episode-2215-bii",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Desktop 3d Apps to Web 3d Apps using Blender and React",
+    "link": "https://dev.to/omher/from-desktop-3d-apps-to-web-3d-apps-using-blender-and-react-4m9o",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding Gray Scale Filter - Pigshell",
+    "link": "https://dev.to/thevinitgupta/adding-gray-scale-filter-pigshell-fhk",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Handle `Error: EACCES: permission denied`",
+    "link": "https://dev.to/psypher1/how-to-handle-error-eacces-permission-denied-43fn",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://dev.to/tomkanabay/binary-search-233c",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Qué son Discriminated Unions y Exhaustiveness Checking en TypeScript?",
+    "link": "https://dev.to/gbumanzordev/que-son-discriminated-unions-y-exhaustiveness-checking-en-typescript-34d9",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Redis Cloud in your NextJS application",
+    "link": "https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Styling the SelectControl from Formik with Chakra UI",
+    "link": "https://dev.to/kristenkinnearohlmann/styling-the-selectcontrol-from-formik-with-chakra-ui-2345",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Commission Calculator",
+    "link": "https://dev.to/tmchuynh/commission-calculator-o33",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Right Click Context Menu in JavaScript",
+    "link": "https://dev.to/shantanu_jana/custom-right-click-context-menu-in-javascript-4112",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Interactive Cards",
+    "link": "https://dev.to/tmchuynh/interactive-cards-3ba0",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bullet Impact Simulation Using Phaser and Matter",
+    "link": "https://dev.to/zaky_abdur/bullet-impact-simulation-using-phaser-and-matter-3a70",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Chrome Extension in Next.js and Notion API",
+    "link": "https://dev.to/ravgeetdhillon/build-a-chrome-extension-in-nextjs-and-notion-api-ln5",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Functions",
+    "link": "https://nmesoma.hashnode.dev/javascript-functions",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://tomkanabay.hashnode.dev/binary-search",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Advanced JavaScript Course Notes pt.2",
+    "link": "https://achhoubiplus.hashnode.dev/js-notes-2",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javascript Variables",
+    "link": "https://blog.quasarcommunity.org/javascript-variables",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functional Components VS. Class Components",
+    "link": "https://blog.markgmz.com/functional-components-vs-class-components",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Variable Scopes in JavaScript",
+    "link": "https://vikasrajput.in/variable-scopes-in-javascript",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Styling the SelectControl from Formik with Chakra UI",
+    "link": "https://kristenkinnearohlmann.hashnode.dev/styling-the-selectcontrol-from-formik-with-chakra-ui",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Fetch, Networking and Async Functions",
+    "link": "https://blog.alexanderkaran.com/fetch-networking-and-async-functions",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js for beginners",
+    "link": "https://dev.to/anshuman_bhardwaj/nextjs-explained-for-beginners-c2g",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Start up Idea: Make robots serve in a restaurant",
+    "link": "https://dev.to/lianhussey/start-up-idea-make-robots-serve-in-a-restaurant-ja8",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ng-News: Episode 22/15",
+    "link": "https://dev.to/rainerhahnekamp/ng-news-episode-2215-bii",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Desktop 3d Apps to Web 3d Apps using Blender and React",
+    "link": "https://dev.to/omher/from-desktop-3d-apps-to-web-3d-apps-using-blender-and-react-4m9o",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding Gray Scale Filter - Pigshell",
+    "link": "https://dev.to/thevinitgupta/adding-gray-scale-filter-pigshell-fhk",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Handle `Error: EACCES: permission denied`",
+    "link": "https://dev.to/psypher1/how-to-handle-error-eacces-permission-denied-43fn",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://dev.to/tomkanabay/binary-search-233c",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Qué son Discriminated Unions y Exhaustiveness Checking en TypeScript?",
+    "link": "https://dev.to/gbumanzordev/que-son-discriminated-unions-y-exhaustiveness-checking-en-typescript-34d9",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Redis Cloud in your NextJS application",
+    "link": "https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Styling the SelectControl from Formik with Chakra UI",
+    "link": "https://dev.to/kristenkinnearohlmann/styling-the-selectcontrol-from-formik-with-chakra-ui-2345",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Commission Calculator",
+    "link": "https://dev.to/tmchuynh/commission-calculator-o33",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Right Click Context Menu in JavaScript",
+    "link": "https://dev.to/shantanu_jana/custom-right-click-context-menu-in-javascript-4112",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Interactive Cards",
+    "link": "https://dev.to/tmchuynh/interactive-cards-3ba0",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bullet Impact Simulation Using Phaser and Matter",
+    "link": "https://dev.to/zaky_abdur/bullet-impact-simulation-using-phaser-and-matter-3a70",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Chrome Extension in Next.js and Notion API",
+    "link": "https://dev.to/ravgeetdhillon/build-a-chrome-extension-in-nextjs-and-notion-api-ln5",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Functions",
+    "link": "https://nmesoma.hashnode.dev/javascript-functions",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://tomkanabay.hashnode.dev/binary-search",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Advanced JavaScript Course Notes pt.2",
+    "link": "https://achhoubiplus.hashnode.dev/js-notes-2",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javascript Variables",
+    "link": "https://blog.quasarcommunity.org/javascript-variables",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functional Components VS. Class Components",
+    "link": "https://blog.markgmz.com/functional-components-vs-class-components",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Variable Scopes in JavaScript",
+    "link": "https://vikasrajput.in/variable-scopes-in-javascript",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Styling the SelectControl from Formik with Chakra UI",
+    "link": "https://kristenkinnearohlmann.hashnode.dev/styling-the-selectcontrol-from-formik-with-chakra-ui",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Fetch, Networking and Async Functions",
+    "link": "https://blog.alexanderkaran.com/fetch-networking-and-async-functions",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js for beginners",
+    "link": "https://dev.to/anshuman_bhardwaj/nextjs-explained-for-beginners-c2g",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Start up Idea: Make robots serve in a restaurant",
+    "link": "https://dev.to/lianhussey/start-up-idea-make-robots-serve-in-a-restaurant-ja8",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ng-News: Episode 22/15",
+    "link": "https://dev.to/rainerhahnekamp/ng-news-episode-2215-bii",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Desktop 3d Apps to Web 3d Apps using Blender and React",
+    "link": "https://dev.to/omher/from-desktop-3d-apps-to-web-3d-apps-using-blender-and-react-4m9o",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding Gray Scale Filter - Pigshell",
+    "link": "https://dev.to/thevinitgupta/adding-gray-scale-filter-pigshell-fhk",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Handle `Error: EACCES: permission denied`",
+    "link": "https://dev.to/psypher1/how-to-handle-error-eacces-permission-denied-43fn",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://dev.to/tomkanabay/binary-search-233c",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Qué son Discriminated Unions y Exhaustiveness Checking en TypeScript?",
+    "link": "https://dev.to/gbumanzordev/que-son-discriminated-unions-y-exhaustiveness-checking-en-typescript-34d9",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Redis Cloud in your NextJS application",
+    "link": "https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Styling the SelectControl from Formik with Chakra UI",
+    "link": "https://dev.to/kristenkinnearohlmann/styling-the-selectcontrol-from-formik-with-chakra-ui-2345",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Commission Calculator",
+    "link": "https://dev.to/tmchuynh/commission-calculator-o33",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Right Click Context Menu in JavaScript",
+    "link": "https://dev.to/shantanu_jana/custom-right-click-context-menu-in-javascript-4112",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Interactive Cards",
+    "link": "https://dev.to/tmchuynh/interactive-cards-3ba0",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bullet Impact Simulation Using Phaser and Matter",
+    "link": "https://dev.to/zaky_abdur/bullet-impact-simulation-using-phaser-and-matter-3a70",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Chrome Extension in Next.js and Notion API",
+    "link": "https://dev.to/ravgeetdhillon/build-a-chrome-extension-in-nextjs-and-notion-api-ln5",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Functions",
+    "link": "https://nmesoma.hashnode.dev/javascript-functions",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://tomkanabay.hashnode.dev/binary-search",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Advanced JavaScript Course Notes pt.2",
+    "link": "https://achhoubiplus.hashnode.dev/js-notes-2",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javascript Variables",
+    "link": "https://blog.quasarcommunity.org/javascript-variables",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Functional Components VS. Class Components",
+    "link": "https://blog.markgmz.com/functional-components-vs-class-components",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Variable Scopes in JavaScript",
+    "link": "https://vikasrajput.in/variable-scopes-in-javascript",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Styling the SelectControl from Formik with Chakra UI",
+    "link": "https://kristenkinnearohlmann.hashnode.dev/styling-the-selectcontrol-from-formik-with-chakra-ui",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Fetch, Networking and Async Functions",
+    "link": "https://blog.alexanderkaran.com/fetch-networking-and-async-functions",
+    "date": "4/18/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js for beginners",
+    "link": "https://dev.to/anshuman_bhardwaj/nextjs-explained-for-beginners-c2g",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Start up Idea: Make robots serve in a restaurant",
+    "link": "https://dev.to/lianhussey/start-up-idea-make-robots-serve-in-a-restaurant-ja8",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ng-News: Episode 22/15",
+    "link": "https://dev.to/rainerhahnekamp/ng-news-episode-2215-bii",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Desktop 3d Apps to Web 3d Apps using Blender and React",
+    "link": "https://dev.to/omher/from-desktop-3d-apps-to-web-3d-apps-using-blender-and-react-4m9o",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding Gray Scale Filter - Pigshell",
+    "link": "https://dev.to/thevinitgupta/adding-gray-scale-filter-pigshell-fhk",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Handle `Error: EACCES: permission denied`",
+    "link": "https://dev.to/psypher1/how-to-handle-error-eacces-permission-denied-43fn",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Binary Search",
+    "link": "https://dev.to/tomkanabay/binary-search-233c",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Qué son Discriminated Unions y Exhaustiveness Checking en TypeScript?",
+    "link": "https://dev.to/gbumanzordev/que-son-discriminated-unions-y-exhaustiveness-checking-en-typescript-34d9",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Redis Cloud in your NextJS application",
+    "link": "https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Styling the SelectControl from Formik with Chakra UI",
+    "link": "https://dev.to/kristenkinnearohlmann/styling-the-selectcontrol-from-formik-with-chakra-ui-2345",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Commission Calculator",
+    "link": "https://dev.to/tmchuynh/commission-calculator-o33",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Right Click Context Menu in JavaScript",
+    "link": "https://dev.to/shantanu_jana/custom-right-click-context-menu-in-javascript-4112",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Interactive Cards",
+    "link": "https://dev.to/tmchuynh/interactive-cards-3ba0",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bullet Impact Simulation Using Phaser and Matter",
+    "link": "https://dev.to/zaky_abdur/bullet-impact-simulation-using-phaser-and-matter-3a70",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Chrome Extension in Next.js and Notion API",
+    "link": "https://dev.to/ravgeetdhillon/build-a-chrome-extension-in-nextjs-and-notion-api-ln5",
+    "date": "4/18/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep Copy and Shallow Copy in JavaScript",
+    "link": "https://vasukihebbar.hashnode.dev/deep-copy-and-shallow-copy-in-javascript",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Scripting CSS transforms with DOMMatrix",
+    "link": "https://incodethismeans.hashnode.dev/scripting-css-transforms-with-dommatrix",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What to Check during JavaScript Code Review",
+    "link": "https://blog.nemotivity.dev/what-to-check-during-javascript-code-review",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Advanced JavaScript Course Notes pt.1",
+    "link": "https://achhoubiplus.hashnode.dev/js-notes-1",
+    "date": "4/17/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "Event Bubbling and Capturing in Javascript",
     "link": "https://deekshithmd.hashnode.dev/event-bubbling-and-capturing-in-javascript",
     "date": "4/17/2022",
     "site": "hashnode"
   },
   {
-    "title": "async & defer attributes in Script Tag",
-    "link": "https://subm.hashnode.dev/async-and-defer-attributes-in-script-tag",
+    "title": "An introduction to arrays in javascript",
+    "link": "https://digomic.hashnode.dev/an-introduction-to-arrays-in-javascript",
     "date": "4/17/2022",
     "site": "hashnode"
   },
   {
-    "title": "Turning MPA to SPA with Virtual DOM",
-    "link": "https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd",
+    "title": "Sorting An array of objects",
+    "link": "https://mukhtar.hashnode.dev/sorting-an-array-of-objects",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Analyzing Chrome Extensions Part 1",
-    "link": "https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna",
+    "title": "Deep Copy and Shallow Copy in JavaScript",
+    "link": "https://vasukihebbar.hashnode.dev/deep-copy-and-shallow-copy-in-javascript",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Build And Design a Click Speed Test Game Using HTMl & CSS",
-    "link": "https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo",
+    "title": "Scripting CSS transforms with DOMMatrix",
+    "link": "https://incodethismeans.hashnode.dev/scripting-css-transforms-with-dommatrix",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Why should we use Tailwind?",
-    "link": "https://dev.to/pramodk73/why-should-we-use-tailwind-1630",
+    "title": "What to Check during JavaScript Code Review",
+    "link": "https://blog.nemotivity.dev/what-to-check-during-javascript-code-review",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Comprehensive guide to GraphQL clients, part 3",
-    "link": "https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0",
+    "title": "Advanced JavaScript Course Notes pt.1",
+    "link": "https://achhoubiplus.hashnode.dev/js-notes-1",
     "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why you cannot pass location.reload as an argument",
-    "link": "https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript 1O1 series : Writing loops with For, While and Do while.",
-    "link": "https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Are JavaScript strings immutable?",
-    "link": "https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create CRUD routes in Nodejs in two lines only.",
-    "link": "https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blazing fast comment system with Sveltejs and Supabase",
-    "link": "https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Don't use window.event",
-    "link": "https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f",
-    "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Event Bubbling and Capturing in Javascript",
@@ -84,76 +762,40 @@
     "site": "hashnode"
   },
   {
-    "title": "async & defer attributes in Script Tag",
-    "link": "https://subm.hashnode.dev/async-and-defer-attributes-in-script-tag",
+    "title": "An introduction to arrays in javascript",
+    "link": "https://digomic.hashnode.dev/an-introduction-to-arrays-in-javascript",
     "date": "4/17/2022",
     "site": "hashnode"
   },
   {
-    "title": "Turning MPA to SPA with Virtual DOM",
-    "link": "https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd",
+    "title": "Sorting An array of objects",
+    "link": "https://mukhtar.hashnode.dev/sorting-an-array-of-objects",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Analyzing Chrome Extensions Part 1",
-    "link": "https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna",
+    "title": "Deep Copy and Shallow Copy in JavaScript",
+    "link": "https://vasukihebbar.hashnode.dev/deep-copy-and-shallow-copy-in-javascript",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Build And Design a Click Speed Test Game Using HTMl & CSS",
-    "link": "https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo",
+    "title": "Scripting CSS transforms with DOMMatrix",
+    "link": "https://incodethismeans.hashnode.dev/scripting-css-transforms-with-dommatrix",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Why should we use Tailwind?",
-    "link": "https://dev.to/pramodk73/why-should-we-use-tailwind-1630",
+    "title": "What to Check during JavaScript Code Review",
+    "link": "https://blog.nemotivity.dev/what-to-check-during-javascript-code-review",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Comprehensive guide to GraphQL clients, part 3",
-    "link": "https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0",
+    "title": "Advanced JavaScript Course Notes pt.1",
+    "link": "https://achhoubiplus.hashnode.dev/js-notes-1",
     "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why you cannot pass location.reload as an argument",
-    "link": "https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript 1O1 series : Writing loops with For, While and Do while.",
-    "link": "https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Are JavaScript strings immutable?",
-    "link": "https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create CRUD routes in Nodejs in two lines only.",
-    "link": "https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blazing fast comment system with Sveltejs and Supabase",
-    "link": "https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Don't use window.event",
-    "link": "https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f",
-    "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Event Bubbling and Capturing in Javascript",
@@ -162,76 +804,40 @@
     "site": "hashnode"
   },
   {
-    "title": "async & defer attributes in Script Tag",
-    "link": "https://subm.hashnode.dev/async-and-defer-attributes-in-script-tag",
+    "title": "An introduction to arrays in javascript",
+    "link": "https://digomic.hashnode.dev/an-introduction-to-arrays-in-javascript",
     "date": "4/17/2022",
     "site": "hashnode"
   },
   {
-    "title": "Turning MPA to SPA with Virtual DOM",
-    "link": "https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd",
+    "title": "Sorting An array of objects",
+    "link": "https://mukhtar.hashnode.dev/sorting-an-array-of-objects",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Analyzing Chrome Extensions Part 1",
-    "link": "https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna",
+    "title": "Deep Copy and Shallow Copy in JavaScript",
+    "link": "https://vasukihebbar.hashnode.dev/deep-copy-and-shallow-copy-in-javascript",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Build And Design a Click Speed Test Game Using HTMl & CSS",
-    "link": "https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo",
+    "title": "Scripting CSS transforms with DOMMatrix",
+    "link": "https://incodethismeans.hashnode.dev/scripting-css-transforms-with-dommatrix",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Why should we use Tailwind?",
-    "link": "https://dev.to/pramodk73/why-should-we-use-tailwind-1630",
+    "title": "What to Check during JavaScript Code Review",
+    "link": "https://blog.nemotivity.dev/what-to-check-during-javascript-code-review",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Comprehensive guide to GraphQL clients, part 3",
-    "link": "https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0",
+    "title": "Advanced JavaScript Course Notes pt.1",
+    "link": "https://achhoubiplus.hashnode.dev/js-notes-1",
     "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why you cannot pass location.reload as an argument",
-    "link": "https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript 1O1 series : Writing loops with For, While and Do while.",
-    "link": "https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Are JavaScript strings immutable?",
-    "link": "https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create CRUD routes in Nodejs in two lines only.",
-    "link": "https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blazing fast comment system with Sveltejs and Supabase",
-    "link": "https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Don't use window.event",
-    "link": "https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f",
-    "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Event Bubbling and Capturing in Javascript",
@@ -240,76 +846,40 @@
     "site": "hashnode"
   },
   {
-    "title": "async & defer attributes in Script Tag",
-    "link": "https://subm.hashnode.dev/async-and-defer-attributes-in-script-tag",
+    "title": "An introduction to arrays in javascript",
+    "link": "https://digomic.hashnode.dev/an-introduction-to-arrays-in-javascript",
     "date": "4/17/2022",
     "site": "hashnode"
   },
   {
-    "title": "Turning MPA to SPA with Virtual DOM",
-    "link": "https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd",
+    "title": "Sorting An array of objects",
+    "link": "https://mukhtar.hashnode.dev/sorting-an-array-of-objects",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Analyzing Chrome Extensions Part 1",
-    "link": "https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna",
+    "title": "Deep Copy and Shallow Copy in JavaScript",
+    "link": "https://vasukihebbar.hashnode.dev/deep-copy-and-shallow-copy-in-javascript",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Build And Design a Click Speed Test Game Using HTMl & CSS",
-    "link": "https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo",
+    "title": "Scripting CSS transforms with DOMMatrix",
+    "link": "https://incodethismeans.hashnode.dev/scripting-css-transforms-with-dommatrix",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Why should we use Tailwind?",
-    "link": "https://dev.to/pramodk73/why-should-we-use-tailwind-1630",
+    "title": "What to Check during JavaScript Code Review",
+    "link": "https://blog.nemotivity.dev/what-to-check-during-javascript-code-review",
     "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Comprehensive guide to GraphQL clients, part 3",
-    "link": "https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0",
+    "title": "Advanced JavaScript Course Notes pt.1",
+    "link": "https://achhoubiplus.hashnode.dev/js-notes-1",
     "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why you cannot pass location.reload as an argument",
-    "link": "https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript 1O1 series : Writing loops with For, While and Do while.",
-    "link": "https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Are JavaScript strings immutable?",
-    "link": "https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create CRUD routes in Nodejs in two lines only.",
-    "link": "https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blazing fast comment system with Sveltejs and Supabase",
-    "link": "https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Don't use window.event",
-    "link": "https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f",
-    "date": "4/17/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Event Bubbling and Capturing in Javascript",
@@ -318,586 +888,16 @@
     "site": "hashnode"
   },
   {
-    "title": "async & defer attributes in Script Tag",
-    "link": "https://subm.hashnode.dev/async-and-defer-attributes-in-script-tag",
+    "title": "An introduction to arrays in javascript",
+    "link": "https://digomic.hashnode.dev/an-introduction-to-arrays-in-javascript",
     "date": "4/17/2022",
     "site": "hashnode"
   },
   {
-    "title": "Turning MPA to SPA with Virtual DOM",
-    "link": "https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd",
+    "title": "Sorting An array of objects",
+    "link": "https://mukhtar.hashnode.dev/sorting-an-array-of-objects",
     "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Analyzing Chrome Extensions Part 1",
-    "link": "https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build And Design a Click Speed Test Game Using HTMl & CSS",
-    "link": "https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why should we use Tailwind?",
-    "link": "https://dev.to/pramodk73/why-should-we-use-tailwind-1630",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Comprehensive guide to GraphQL clients, part 3",
-    "link": "https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why you cannot pass location.reload as an argument",
-    "link": "https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript 1O1 series : Writing loops with For, While and Do while.",
-    "link": "https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Are JavaScript strings immutable?",
-    "link": "https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create CRUD routes in Nodejs in two lines only.",
-    "link": "https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blazing fast comment system with Sveltejs and Supabase",
-    "link": "https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Don't use window.event",
-    "link": "https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f",
-    "date": "4/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A love letter to React function components",
-    "link": "https://blog.simonjaeger.ch/a-love-letter-to-react-function-components",
-    "date": "4/16/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "CSS - Flexbox 101",
-    "link": "https://rhg.hashnode.dev/css-flexbox-101",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Multi-Step Form with React & Formik",
-    "link": "https://piyushsinha.tech/multi-step-form-with-react-and-formik",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Let's create your first user interface together",
-    "link": "https://roshaan.hashnode.dev/lets-create-your-first-user-interface-together",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Destructive and Non Destructive methods in JavaScript",
-    "link": "https://vasukihebbar.hashnode.dev/destructive-and-non-destructive-methods-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node.js MySQL Insert Into",
-    "link": "https://svdcse.xyz/nodejs-mysql-insert-into",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Chunky Monkey - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/chunky-monkey-javascript-solution-and-walkthrough",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Higher-Order Component Vs Hooks In React",
-    "link": "https://sammychris.hashnode.dev/higher-order-component-vs-hooks-in-react",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introduction to Functional Programming in JavaScript.",
-    "link": "https://blog.shahbazkhan.in/introduction-to-functional-programming-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is Object.create() in Javascript?",
-    "link": "https://subm.hashnode.dev/what-is-objectcreate-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Post Processing in ThreeJs | Make your Scene Pop",
-    "link": "https://heaust.hashnode.dev/threejs-chapter-5",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Frontend development intro in 2022",
-    "link": "https://rogeliotg.hashnode.dev/frontend-development-intro-in-2022",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Career lessons I’ve learned in 8 years as a Software Developer",
-    "link": "https://minghann.hashnode.dev/career-lessons-ive-learned-in-8-years-as-a-software-developer",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "tsParticles 2.0.6 Released",
-    "link": "https://dev.to/matteobruni/tsparticles-206-released-36fn",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: When should I use forEach and map?",
-    "link": "https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Katie's VSCode Cheatsheet",
-    "link": "https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to resolve a Cross-Origin Resource Sharing (CORS) error?",
-    "link": "https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A love letter to React function components",
-    "link": "https://blog.simonjaeger.ch/a-love-letter-to-react-function-components",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "CSS - Flexbox 101",
-    "link": "https://rhg.hashnode.dev/css-flexbox-101",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Multi-Step Form with React & Formik",
-    "link": "https://piyushsinha.tech/multi-step-form-with-react-and-formik",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Let's create your first user interface together",
-    "link": "https://roshaan.hashnode.dev/lets-create-your-first-user-interface-together",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Destructive and Non Destructive methods in JavaScript",
-    "link": "https://vasukihebbar.hashnode.dev/destructive-and-non-destructive-methods-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node.js MySQL Insert Into",
-    "link": "https://svdcse.xyz/nodejs-mysql-insert-into",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Chunky Monkey - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/chunky-monkey-javascript-solution-and-walkthrough",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Higher-Order Component Vs Hooks In React",
-    "link": "https://sammychris.hashnode.dev/higher-order-component-vs-hooks-in-react",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introduction to Functional Programming in JavaScript.",
-    "link": "https://blog.shahbazkhan.in/introduction-to-functional-programming-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is Object.create() in Javascript?",
-    "link": "https://subm.hashnode.dev/what-is-objectcreate-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Post Processing in ThreeJs | Make your Scene Pop",
-    "link": "https://heaust.hashnode.dev/threejs-chapter-5",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Frontend development intro in 2022",
-    "link": "https://rogeliotg.hashnode.dev/frontend-development-intro-in-2022",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Career lessons I’ve learned in 8 years as a Software Developer",
-    "link": "https://minghann.hashnode.dev/career-lessons-ive-learned-in-8-years-as-a-software-developer",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "tsParticles 2.0.6 Released",
-    "link": "https://dev.to/matteobruni/tsparticles-206-released-36fn",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: When should I use forEach and map?",
-    "link": "https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Katie's VSCode Cheatsheet",
-    "link": "https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to resolve a Cross-Origin Resource Sharing (CORS) error?",
-    "link": "https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A love letter to React function components",
-    "link": "https://blog.simonjaeger.ch/a-love-letter-to-react-function-components",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "CSS - Flexbox 101",
-    "link": "https://rhg.hashnode.dev/css-flexbox-101",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Multi-Step Form with React & Formik",
-    "link": "https://piyushsinha.tech/multi-step-form-with-react-and-formik",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Let's create your first user interface together",
-    "link": "https://roshaan.hashnode.dev/lets-create-your-first-user-interface-together",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Destructive and Non Destructive methods in JavaScript",
-    "link": "https://vasukihebbar.hashnode.dev/destructive-and-non-destructive-methods-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node.js MySQL Insert Into",
-    "link": "https://svdcse.xyz/nodejs-mysql-insert-into",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Chunky Monkey - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/chunky-monkey-javascript-solution-and-walkthrough",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Higher-Order Component Vs Hooks In React",
-    "link": "https://sammychris.hashnode.dev/higher-order-component-vs-hooks-in-react",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introduction to Functional Programming in JavaScript.",
-    "link": "https://blog.shahbazkhan.in/introduction-to-functional-programming-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is Object.create() in Javascript?",
-    "link": "https://subm.hashnode.dev/what-is-objectcreate-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Post Processing in ThreeJs | Make your Scene Pop",
-    "link": "https://heaust.hashnode.dev/threejs-chapter-5",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Frontend development intro in 2022",
-    "link": "https://rogeliotg.hashnode.dev/frontend-development-intro-in-2022",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Career lessons I’ve learned in 8 years as a Software Developer",
-    "link": "https://minghann.hashnode.dev/career-lessons-ive-learned-in-8-years-as-a-software-developer",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "tsParticles 2.0.6 Released",
-    "link": "https://dev.to/matteobruni/tsparticles-206-released-36fn",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: When should I use forEach and map?",
-    "link": "https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Katie's VSCode Cheatsheet",
-    "link": "https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to resolve a Cross-Origin Resource Sharing (CORS) error?",
-    "link": "https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A love letter to React function components",
-    "link": "https://blog.simonjaeger.ch/a-love-letter-to-react-function-components",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "CSS - Flexbox 101",
-    "link": "https://rhg.hashnode.dev/css-flexbox-101",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Multi-Step Form with React & Formik",
-    "link": "https://piyushsinha.tech/multi-step-form-with-react-and-formik",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Let's create your first user interface together",
-    "link": "https://roshaan.hashnode.dev/lets-create-your-first-user-interface-together",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Destructive and Non Destructive methods in JavaScript",
-    "link": "https://vasukihebbar.hashnode.dev/destructive-and-non-destructive-methods-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node.js MySQL Insert Into",
-    "link": "https://svdcse.xyz/nodejs-mysql-insert-into",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Chunky Monkey - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/chunky-monkey-javascript-solution-and-walkthrough",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Higher-Order Component Vs Hooks In React",
-    "link": "https://sammychris.hashnode.dev/higher-order-component-vs-hooks-in-react",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introduction to Functional Programming in JavaScript.",
-    "link": "https://blog.shahbazkhan.in/introduction-to-functional-programming-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is Object.create() in Javascript?",
-    "link": "https://subm.hashnode.dev/what-is-objectcreate-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Post Processing in ThreeJs | Make your Scene Pop",
-    "link": "https://heaust.hashnode.dev/threejs-chapter-5",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Frontend development intro in 2022",
-    "link": "https://rogeliotg.hashnode.dev/frontend-development-intro-in-2022",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Career lessons I’ve learned in 8 years as a Software Developer",
-    "link": "https://minghann.hashnode.dev/career-lessons-ive-learned-in-8-years-as-a-software-developer",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "tsParticles 2.0.6 Released",
-    "link": "https://dev.to/matteobruni/tsparticles-206-released-36fn",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: When should I use forEach and map?",
-    "link": "https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Katie's VSCode Cheatsheet",
-    "link": "https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to resolve a Cross-Origin Resource Sharing (CORS) error?",
-    "link": "https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A love letter to React function components",
-    "link": "https://blog.simonjaeger.ch/a-love-letter-to-react-function-components",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "CSS - Flexbox 101",
-    "link": "https://rhg.hashnode.dev/css-flexbox-101",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Multi-Step Form with React & Formik",
-    "link": "https://piyushsinha.tech/multi-step-form-with-react-and-formik",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Let's create your first user interface together",
-    "link": "https://roshaan.hashnode.dev/lets-create-your-first-user-interface-together",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Destructive and Non Destructive methods in JavaScript",
-    "link": "https://vasukihebbar.hashnode.dev/destructive-and-non-destructive-methods-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Node.js MySQL Insert Into",
-    "link": "https://svdcse.xyz/nodejs-mysql-insert-into",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Chunky Monkey - JavaScript Solution & Walkthrough",
-    "link": "https://benjaminsemah.hashnode.dev/chunky-monkey-javascript-solution-and-walkthrough",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Higher-Order Component Vs Hooks In React",
-    "link": "https://sammychris.hashnode.dev/higher-order-component-vs-hooks-in-react",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Introduction to Functional Programming in JavaScript.",
-    "link": "https://blog.shahbazkhan.in/introduction-to-functional-programming-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is Object.create() in Javascript?",
-    "link": "https://subm.hashnode.dev/what-is-objectcreate-in-javascript",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Post Processing in ThreeJs | Make your Scene Pop",
-    "link": "https://heaust.hashnode.dev/threejs-chapter-5",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Frontend development intro in 2022",
-    "link": "https://rogeliotg.hashnode.dev/frontend-development-intro-in-2022",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Career lessons I’ve learned in 8 years as a Software Developer",
-    "link": "https://minghann.hashnode.dev/career-lessons-ive-learned-in-8-years-as-a-software-developer",
-    "date": "4/16/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "tsParticles 2.0.6 Released",
-    "link": "https://dev.to/matteobruni/tsparticles-206-released-36fn",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: When should I use forEach and map?",
-    "link": "https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Katie's VSCode Cheatsheet",
-    "link": "https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp",
-    "date": "4/16/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to resolve a Cross-Origin Resource Sharing (CORS) error?",
-    "link": "https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he",
-    "date": "4/16/2022",
-    "site": "dev.to"
   },
   {
     "title": "Boost Resource Loading With fetchpriority, a New Priority Hint",
@@ -1023,7 +1023,7 @@
   {
     "title": "How To Build An Amazon Product Scraper With Node.js",
     "link": "https://www.smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "10/28/2021",
     "site": "smashingmagazine"
   },
@@ -1225,7 +1225,7 @@
   {
     "title": "Tools And Practices To Speed Up The Vue.js Development Process",
     "link": "https://www.smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/8/2021",
     "site": "smashingmagazine"
   },
@@ -1273,7 +1273,7 @@
   {
     "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
     "link": "https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "6/7/2021",
     "site": "smashingmagazine"
   },
