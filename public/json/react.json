@@ -1,93 +1,477 @@
 [
   {
-    "title": "What's new in React 18",
-    "link": "https://dev.to/dailydevtips1/whats-new-in-react-18-1agi",
+    "title": "Multiline Text Truncation With CSS line-clamp",
+    "link": "https://dev.to/keraito/multiline-text-truncation-with-css-line-clamp-22k",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Create More Intuitive Styling Using CSS border-box Box Model",
+    "link": "https://dev.to/keraito/how-to-create-more-intuitive-styling-using-css-border-box-box-model-dn6",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript roadmap to crack FAANG interviews in 2022",
+    "link": "https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Going serverless with custom portal for D365 environments",
+    "link": "https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Native App Development Services: Top Reasons to Opt",
+    "link": "https://dev.to/jamesnicholasjr/react-native-app-development-services-top-reasons-to-opt-3ba2",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a Custom Hook in React",
+    "link": "https://dev.to/ateevduggal/how-to-make-a-custom-hook-in-react-5f4e",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "WordPress Plugin Development with React JS easily",
+    "link": "https://dev.to/maniruzzamanakash/wordpress-plugin-development-with-react-js-easily-4kj1",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Upgrading to React 18",
+    "link": "https://dev.to/dailydevtips1/upgrading-to-react-18-317o",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Custom Hook example",
+    "link": "https://dev.to/tienbku/react-custom-hook-example-3da6",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Past, Present, and Future of Virtual DOM",
+    "link": "https://dev.to/aidenybai/the-past-present-and-future-of-virtual-dom-5e1k",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multiline Text Truncation With CSS line-clamp",
+    "link": "https://dev.to/keraito/multiline-text-truncation-with-css-line-clamp-22k",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Create More Intuitive Styling Using CSS border-box Box Model",
+    "link": "https://dev.to/keraito/how-to-create-more-intuitive-styling-using-css-border-box-box-model-dn6",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript roadmap to crack FAANG interviews in 2022",
+    "link": "https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Going serverless with custom portal for D365 environments",
+    "link": "https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Native App Development Services: Top Reasons to Opt",
+    "link": "https://dev.to/jamesnicholasjr/react-native-app-development-services-top-reasons-to-opt-3ba2",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a Custom Hook in React",
+    "link": "https://dev.to/ateevduggal/how-to-make-a-custom-hook-in-react-5f4e",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "WordPress Plugin Development with React JS easily",
+    "link": "https://dev.to/maniruzzamanakash/wordpress-plugin-development-with-react-js-easily-4kj1",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Upgrading to React 18",
+    "link": "https://dev.to/dailydevtips1/upgrading-to-react-18-317o",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Custom Hook example",
+    "link": "https://dev.to/tienbku/react-custom-hook-example-3da6",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Past, Present, and Future of Virtual DOM",
+    "link": "https://dev.to/aidenybai/the-past-present-and-future-of-virtual-dom-5e1k",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multiline Text Truncation With CSS line-clamp",
+    "link": "https://dev.to/keraito/multiline-text-truncation-with-css-line-clamp-22k",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Create More Intuitive Styling Using CSS border-box Box Model",
+    "link": "https://dev.to/keraito/how-to-create-more-intuitive-styling-using-css-border-box-box-model-dn6",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript roadmap to crack FAANG interviews in 2022",
+    "link": "https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Going serverless with custom portal for D365 environments",
+    "link": "https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Native App Development Services: Top Reasons to Opt",
+    "link": "https://dev.to/jamesnicholasjr/react-native-app-development-services-top-reasons-to-opt-3ba2",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a Custom Hook in React",
+    "link": "https://dev.to/ateevduggal/how-to-make-a-custom-hook-in-react-5f4e",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "WordPress Plugin Development with React JS easily",
+    "link": "https://dev.to/maniruzzamanakash/wordpress-plugin-development-with-react-js-easily-4kj1",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Upgrading to React 18",
+    "link": "https://dev.to/dailydevtips1/upgrading-to-react-18-317o",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Custom Hook example",
+    "link": "https://dev.to/tienbku/react-custom-hook-example-3da6",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Past, Present, and Future of Virtual DOM",
+    "link": "https://dev.to/aidenybai/the-past-present-and-future-of-virtual-dom-5e1k",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multiline Text Truncation With CSS line-clamp",
+    "link": "https://dev.to/keraito/multiline-text-truncation-with-css-line-clamp-22k",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Create More Intuitive Styling Using CSS border-box Box Model",
+    "link": "https://dev.to/keraito/how-to-create-more-intuitive-styling-using-css-border-box-box-model-dn6",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript roadmap to crack FAANG interviews in 2022",
+    "link": "https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Going serverless with custom portal for D365 environments",
+    "link": "https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Native App Development Services: Top Reasons to Opt",
+    "link": "https://dev.to/jamesnicholasjr/react-native-app-development-services-top-reasons-to-opt-3ba2",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a Custom Hook in React",
+    "link": "https://dev.to/ateevduggal/how-to-make-a-custom-hook-in-react-5f4e",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "WordPress Plugin Development with React JS easily",
+    "link": "https://dev.to/maniruzzamanakash/wordpress-plugin-development-with-react-js-easily-4kj1",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Upgrading to React 18",
+    "link": "https://dev.to/dailydevtips1/upgrading-to-react-18-317o",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Custom Hook example",
+    "link": "https://dev.to/tienbku/react-custom-hook-example-3da6",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Past, Present, and Future of Virtual DOM",
+    "link": "https://dev.to/aidenybai/the-past-present-and-future-of-virtual-dom-5e1k",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multiline Text Truncation With CSS line-clamp",
+    "link": "https://dev.to/keraito/multiline-text-truncation-with-css-line-clamp-22k",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How To Create More Intuitive Styling Using CSS border-box Box Model",
+    "link": "https://dev.to/keraito/how-to-create-more-intuitive-styling-using-css-border-box-box-model-dn6",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript roadmap to crack FAANG interviews in 2022",
+    "link": "https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Going serverless with custom portal for D365 environments",
+    "link": "https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Native App Development Services: Top Reasons to Opt",
+    "link": "https://dev.to/jamesnicholasjr/react-native-app-development-services-top-reasons-to-opt-3ba2",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make a Custom Hook in React",
+    "link": "https://dev.to/ateevduggal/how-to-make-a-custom-hook-in-react-5f4e",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "WordPress Plugin Development with React JS easily",
+    "link": "https://dev.to/maniruzzamanakash/wordpress-plugin-development-with-react-js-easily-4kj1",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Upgrading to React 18",
+    "link": "https://dev.to/dailydevtips1/upgrading-to-react-18-317o",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Custom Hook example",
+    "link": "https://dev.to/tienbku/react-custom-hook-example-3da6",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Past, Present, and Future of Virtual DOM",
+    "link": "https://dev.to/aidenybai/the-past-present-and-future-of-virtual-dom-5e1k",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Your First Mobile App Using React Native and Expo",
+    "link": "https://dev.to/adelinealmanzar/build-your-first-mobile-app-using-react-native-and-expo-3a18",
     "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "Tech Hacks discovered dailly",
-    "link": "https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf",
+    "title": "React components",
+    "link": "https://dev.to/fernand197/react-components-5fi",
     "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to Upgrade to React 18",
-    "link": "https://dev.to/coderpad/how-to-upgrade-to-react-18-424h",
-    "date": "4/20/2022",
+    "title": "Quarterly Design System and Frontend Podcast Roundup - Q1/22",
+    "link": "https://dev.to/kickstartds/quarterly-design-system-and-frontend-podcast-roundup-q122-7f6",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "TemplatesKart | Free Chakra UI Components and Projects",
-    "link": "https://dev.to/m_ahmad/templateskart-free-chakra-ui-components-and-projects-1l0j",
-    "date": "4/20/2022",
+    "title": "Do i need to learn react?",
+    "link": "https://dev.to/zoreankit/do-i-need-to-learn-react-2hfj",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "All about React flushSync",
-    "link": "https://dev.to/codingshower/all-about-react-flushsync-3k4c",
-    "date": "4/20/2022",
+    "title": "Optionally control state from parent component in React",
+    "link": "https://dev.to/subbiahc/optionally-control-state-from-parent-component-in-react-25l3",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Virtual DOM",
-    "link": "https://dev.to/pujakundu/react-virtual-dom-4f54",
-    "date": "4/20/2022",
+    "title": "Build Your First Mobile App Using React Native and Expo",
+    "link": "https://dev.to/adelinealmanzar/build-your-first-mobile-app-using-react-native-and-expo-3a18",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "Getting started with React Router!",
-    "link": "https://dev.to/emmanuelthecoder/getting-started-with-react-router-19de",
-    "date": "4/20/2022",
+    "title": "React components",
+    "link": "https://dev.to/fernand197/react-components-5fi",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "Day 15: Completing the site basics",
-    "link": "https://dev.to/kemystra/day-15-completing-the-site-basics-4jam",
-    "date": "4/20/2022",
+    "title": "Quarterly Design System and Frontend Podcast Roundup - Q1/22",
+    "link": "https://dev.to/kickstartds/quarterly-design-system-and-frontend-podcast-roundup-q122-7f6",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "VideoCall App With WebRTC and Socket.IO",
-    "link": "https://dev.to/hr21don/videocall-app-with-webrtc-and-socketio-477",
-    "date": "4/20/2022",
+    "title": "Do i need to learn react?",
+    "link": "https://dev.to/zoreankit/do-i-need-to-learn-react-2hfj",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "What's new with React 18",
-    "link": "https://dev.to/appsignal/whats-new-with-react-18-3pnm",
-    "date": "4/20/2022",
+    "title": "Optionally control state from parent component in React",
+    "link": "https://dev.to/subbiahc/optionally-control-state-from-parent-component-in-react-25l3",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "React 18, Next 12.1 and other Releases - Frontend News #24",
-    "link": "https://dev.to/frontend_house/react-18-next-121-and-other-releases-frontend-news-24-4c86",
-    "date": "4/20/2022",
+    "title": "Build Your First Mobile App Using React Native and Expo",
+    "link": "https://dev.to/adelinealmanzar/build-your-first-mobile-app-using-react-native-and-expo-3a18",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "This Week In React #102: Lexical, Mitosis, Remix, Next.js, Redux, Storybook, TurboModules, Node 18, HTTP 103, CSS :has()...",
-    "link": "dev.to/sebastienlorber/this-week-in-react-102-lexical-mitosis-remix-nextjs-redux-storybook-turbomodules-node-18-http-103-css-has-108j",
-    "date": "4/20/2022",
+    "title": "React components",
+    "link": "https://dev.to/fernand197/react-components-5fi",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "Configure Pre-commit Hook Prettier in your React Application in 1 Minute",
-    "link": "https://dev.to/koladev/configure-pre-commit-hook-prettier-in-your-react-application-in-1-minute-2lc9",
-    "date": "4/20/2022",
+    "title": "Quarterly Design System and Frontend Podcast Roundup - Q1/22",
+    "link": "https://dev.to/kickstartds/quarterly-design-system-and-frontend-podcast-roundup-q122-7f6",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "Introduction to SolidJS for React developers",
-    "link": "https://dev.to/phongnn/introduction-to-solidjs-for-react-developers-5ab0",
-    "date": "4/20/2022",
+    "title": "Do i need to learn react?",
+    "link": "https://dev.to/zoreankit/do-i-need-to-learn-react-2hfj",
+    "date": "4/21/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to migrate Create-React-App to React version 18",
-    "link": "https://dev.to/diballesteros/how-to-migrate-create-react-app-to-react-version-18-12pk",
-    "date": "4/18/2022",
+    "title": "Optionally control state from parent component in React",
+    "link": "https://dev.to/subbiahc/optionally-control-state-from-parent-component-in-react-25l3",
+    "date": "4/21/2022",
     "site": "dev.to"
+  },
+  {
+    "title": "Build Your First Mobile App Using React Native and Expo",
+    "link": "https://dev.to/adelinealmanzar/build-your-first-mobile-app-using-react-native-and-expo-3a18",
+    "date": "4/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React components",
+    "link": "https://dev.to/fernand197/react-components-5fi",
+    "date": "4/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quarterly Design System and Frontend Podcast Roundup - Q1/22",
+    "link": "https://dev.to/kickstartds/quarterly-design-system-and-frontend-podcast-roundup-q122-7f6",
+    "date": "4/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do i need to learn react?",
+    "link": "https://dev.to/zoreankit/do-i-need-to-learn-react-2hfj",
+    "date": "4/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Optionally control state from parent component in React",
+    "link": "https://dev.to/subbiahc/optionally-control-state-from-parent-component-in-react-25l3",
+    "date": "4/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Your First Mobile App Using React Native and Expo",
+    "link": "https://dev.to/adelinealmanzar/build-your-first-mobile-app-using-react-native-and-expo-3a18",
+    "date": "4/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React components",
+    "link": "https://dev.to/fernand197/react-components-5fi",
+    "date": "4/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quarterly Design System and Frontend Podcast Roundup - Q1/22",
+    "link": "https://dev.to/kickstartds/quarterly-design-system-and-frontend-podcast-roundup-q122-7f6",
+    "date": "4/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do i need to learn react?",
+    "link": "https://dev.to/zoreankit/do-i-need-to-learn-react-2hfj",
+    "date": "4/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Optionally control state from parent component in React",
+    "link": "https://dev.to/subbiahc/optionally-control-state-from-parent-component-in-react-25l3",
+    "date": "4/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Basic Authentication with AWS Cognito & NextJS",
+    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
+    "date": "4/4/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Authentication with AWS Cognito & NextJS",
+    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
+    "date": "4/4/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Authentication with AWS Cognito & NextJS",
+    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
+    "date": "4/4/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Authentication with AWS Cognito & NextJS",
+    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
+    "date": "4/4/2022",
+    "site": "hashnode"
   },
   {
     "title": "Basic Authentication with AWS Cognito & NextJS",
@@ -116,6 +500,30 @@
     "site": "hashnode"
   },
   {
+    "title": "Wikacy Reels App",
+    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
+    "date": "3/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wikacy Reels App",
+    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
+    "date": "3/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wikacy Reels App",
+    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
+    "date": "3/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wikacy Reels App",
+    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
+    "date": "3/8/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
     "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
     "reading_time": "24 min read",
@@ -127,6 +535,30 @@
     "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
     "date": "2/11/2022",
     "site": "css-tricks"
+  },
+  {
+    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
+    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
+    "date": "2/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
+    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
+    "date": "2/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
+    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
+    "date": "2/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
+    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
+    "date": "2/8/2022",
+    "site": "hashnode"
   },
   {
     "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
@@ -157,14 +589,14 @@
   {
     "title": "Building The Real App With React Query",
     "link": "https://www.smashingmagazine.com/2022/01/building-real-app-react-query/",
-    "reading_time": "24 min read",
+    "reading_time": "23 min read",
     "date": "1/20/2022",
     "site": "smashingmagazine"
   },
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -208,9 +640,81 @@
     "site": "hashnode"
   },
   {
+    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
+    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
+    "date": "11/7/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
+    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
+    "date": "11/7/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
+    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
+    "date": "11/7/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
+    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
+    "date": "11/7/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "How to make a Jest Test for Error Boundaries",
     "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
     "date": "11/2/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a Jest Test for Error Boundaries",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
+    "date": "11/2/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a Jest Test for Error Boundaries",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
+    "date": "11/2/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a Jest Test for Error Boundaries",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
+    "date": "11/2/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a Jest Test for Error Boundaries",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
+    "date": "11/2/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to quickly add error tracking with Sentry — Relatable Code",
+    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry-relatable-code",
+    "date": "10/24/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to quickly add error tracking with Sentry — Relatable Code",
+    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry-relatable-code",
+    "date": "10/24/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to quickly add error tracking with Sentry — Relatable Code",
+    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry-relatable-code",
+    "date": "10/24/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to quickly add error tracking with Sentry — Relatable Code",
+    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry-relatable-code",
+    "date": "10/24/2021",
     "site": "hashnode"
   },
   {
@@ -226,10 +730,58 @@
     "site": "css-tricks"
   },
   {
+    "title": "How to make a simple slider component in React",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
+    "date": "10/17/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a simple slider component in React",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
+    "date": "10/17/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a simple slider component in React",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
+    "date": "10/17/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a simple slider component in React",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
+    "date": "10/17/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Links on React and JavaScript II",
     "link": "https://css-tricks.com/links-on-react-and-javascript-ii/",
     "date": "10/1/2021",
     "site": "css-tricks"
+  },
+  {
+    "title": "How to add Cypress & Codecov in Github Actions in React App",
+    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
+    "date": "9/19/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add Cypress & Codecov in Github Actions in React App",
+    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
+    "date": "9/19/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add Cypress & Codecov in Github Actions in React App",
+    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
+    "date": "9/19/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add Cypress & Codecov in Github Actions in React App",
+    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
+    "date": "9/19/2021",
+    "site": "hashnode"
   },
   {
     "title": "Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme",
@@ -244,144 +796,6 @@
     "site": "css-tricks"
   },
   {
-    "title": "What's new in React 18",
-    "link": "https://dev.to/dailydevtips1/whats-new-in-react-18-1agi",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tech Hacks discovered dailly",
-    "link": "https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Upgrade to React 18",
-    "link": "https://dev.to/coderpad/how-to-upgrade-to-react-18-424h",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "TemplatesKart | Free Chakra UI Components and Projects",
-    "link": "https://dev.to/m_ahmad/templateskart-free-chakra-ui-components-and-projects-1l0j",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "All about React flushSync",
-    "link": "https://dev.to/codingshower/all-about-react-flushsync-3k4c",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Virtual DOM",
-    "link": "https://dev.to/pujakundu/react-virtual-dom-4f54",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting started with React Router!",
-    "link": "https://dev.to/emmanuelthecoder/getting-started-with-react-router-19de",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 15: Completing the site basics",
-    "link": "https://dev.to/kemystra/day-15-completing-the-site-basics-4jam",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "VideoCall App With WebRTC and Socket.IO",
-    "link": "https://dev.to/hr21don/videocall-app-with-webrtc-and-socketio-477",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What's new with React 18",
-    "link": "https://dev.to/appsignal/whats-new-with-react-18-3pnm",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 18, Next 12.1 and other Releases - Frontend News #24",
-    "link": "https://dev.to/frontend_house/react-18-next-121-and-other-releases-frontend-news-24-4c86",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This Week In React #102: Lexical, Mitosis, Remix, Next.js, Redux, Storybook, TurboModules, Node 18, HTTP 103, CSS :has()...",
-    "link": "dev.to/sebastienlorber/this-week-in-react-102-lexical-mitosis-remix-nextjs-redux-storybook-turbomodules-node-18-http-103-css-has-108j",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configure Pre-commit Hook Prettier in your React Application in 1 Minute",
-    "link": "https://dev.to/koladev/configure-pre-commit-hook-prettier-in-your-react-application-in-1-minute-2lc9",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction to SolidJS for React developers",
-    "link": "https://dev.to/phongnn/introduction-to-solidjs-for-react-developers-5ab0",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to migrate Create-React-App to React version 18",
-    "link": "https://dev.to/diballesteros/how-to-migrate-create-react-app-to-react-version-18-12pk",
-    "date": "4/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Authentication with AWS Cognito & NextJS",
-    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
-    "date": "4/4/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Basic Authentication with AWS Cognito & NextJS",
-    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
-    "date": "4/4/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Wikacy Reels App",
-    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
-    "date": "3/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Wikacy Reels App",
-    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
-    "date": "3/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
-    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
-    "date": "2/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
-    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
-    "date": "2/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
-    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
-    "date": "11/7/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
-    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
-    "date": "11/7/2021",
-    "site": "hashnode"
-  },
-  {
     "title": "GraphQL On The Front-End (React And Apollo)",
     "link": "https://www.smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
     "reading_time": "15 min read",
@@ -389,29 +803,11 @@
     "site": "smashingmagazine"
   },
   {
-    "title": "How to make a Jest Test for Error Boundaries",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
-    "date": "11/2/2021",
-    "site": "hashnode"
-  },
-  {
     "title": "Optimizing Next.js Applications With Nx",
     "link": "https://www.smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
     "reading_time": "13 min read",
     "date": "10/26/2021",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "How to quickly add error tracking with Sentry — Relatable Code",
-    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry-relatable-code",
-    "date": "10/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a simple slider component in React",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
-    "date": "10/17/2021",
-    "site": "hashnode"
   },
   {
     "title": "How to make a simple slider component in React",
@@ -425,12 +821,6 @@
     "reading_time": "10 min read",
     "date": "10/12/2021",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "How to add Cypress & Codecov in Github Actions in React App",
-    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
-    "date": "9/19/2021",
-    "site": "hashnode"
   },
   {
     "title": "How to add Cypress & Codecov in Github Actions in React App",
@@ -471,9 +861,27 @@
     "site": "hashnode"
   },
   {
+    "title": "How to close a React Native modal with a button",
+    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
+    "date": "8/16/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to close a React Native modal with a button",
+    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
+    "date": "8/16/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to close a React Native modal with a button",
+    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
+    "date": "8/16/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
     "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "8/11/2021",
     "site": "smashingmagazine"
   },
@@ -586,7 +994,7 @@
   {
     "title": "Using Grommet In React Applications",
     "link": "https://www.smashingmagazine.com/2021/01/grommet-react-applications/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "1/18/2021",
     "site": "smashingmagazine"
   },
@@ -622,418 +1030,40 @@
     "site": "css-tricks"
   },
   {
+    "title": "Some Important concepts while using React \n#Learnings-1",
+    "link": "https://dubesar.hashnode.dev/some-important-concepts-while-using-react-learnings-1",
+    "date": "11/19/2020",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Handy Libraries Every React Developer Should Know",
+    "link": "https://blog.udaya.dev/5-handy-libraries-every-react-developer-should-know",
+    "date": "11/5/2020",
+    "site": "hashnode"
+  },
+  {
+    "title": "Optimise React with useMemo and React.memo",
+    "link": "https://kelvinmwinuka.com/optimise-react-with-usememo-and-reactmemo",
+    "date": "10/7/2020",
+    "site": "hashnode"
+  },
+  {
+    "title": "Manage React State with useReducer",
+    "link": "https://kelvinmwinuka.com/manage-react-state-with-usereducer",
+    "date": "8/21/2020",
+    "site": "hashnode"
+  },
+  {
+    "title": "Easy Workbox Integration with create-react-app",
+    "link": "https://kelvinmwinuka.com/easy-workbox-integration-with-create-react-app",
+    "date": "8/5/2020",
+    "site": "hashnode"
+  },
+  {
     "title": "Using Your Own Design System with KendoReact Components",
     "link": "https://css-tricks.com/using-your-own-design-system-with-kendoreact-components/",
     "date": "",
     "site": "css-tricks"
-  },
-  {
-    "title": "What's new in React 18",
-    "link": "https://dev.to/dailydevtips1/whats-new-in-react-18-1agi",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tech Hacks discovered dailly",
-    "link": "https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What's new in React 18",
-    "link": "https://dev.to/dailydevtips1/whats-new-in-react-18-1agi",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tech Hacks discovered dailly",
-    "link": "https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What's new in React 18",
-    "link": "https://dev.to/dailydevtips1/whats-new-in-react-18-1agi",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tech Hacks discovered dailly",
-    "link": "https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Upgrade to React 18",
-    "link": "https://dev.to/coderpad/how-to-upgrade-to-react-18-424h",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "TemplatesKart | Free Chakra UI Components and Projects",
-    "link": "https://dev.to/m_ahmad/templateskart-free-chakra-ui-components-and-projects-1l0j",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "All about React flushSync",
-    "link": "https://dev.to/codingshower/all-about-react-flushsync-3k4c",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Virtual DOM",
-    "link": "https://dev.to/pujakundu/react-virtual-dom-4f54",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting started with React Router!",
-    "link": "https://dev.to/emmanuelthecoder/getting-started-with-react-router-19de",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 15: Completing the site basics",
-    "link": "https://dev.to/kemystra/day-15-completing-the-site-basics-4jam",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "VideoCall App With WebRTC and Socket.IO",
-    "link": "https://dev.to/hr21don/videocall-app-with-webrtc-and-socketio-477",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What's new with React 18",
-    "link": "https://dev.to/appsignal/whats-new-with-react-18-3pnm",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 18, Next 12.1 and other Releases - Frontend News #24",
-    "link": "https://dev.to/frontend_house/react-18-next-121-and-other-releases-frontend-news-24-4c86",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This Week In React #102: Lexical, Mitosis, Remix, Next.js, Redux, Storybook, TurboModules, Node 18, HTTP 103, CSS :has()...",
-    "link": "dev.to/sebastienlorber/this-week-in-react-102-lexical-mitosis-remix-nextjs-redux-storybook-turbomodules-node-18-http-103-css-has-108j",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configure Pre-commit Hook Prettier in your React Application in 1 Minute",
-    "link": "https://dev.to/koladev/configure-pre-commit-hook-prettier-in-your-react-application-in-1-minute-2lc9",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction to SolidJS for React developers",
-    "link": "https://dev.to/phongnn/introduction-to-solidjs-for-react-developers-5ab0",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Upgrade to React 18",
-    "link": "https://dev.to/coderpad/how-to-upgrade-to-react-18-424h",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "TemplatesKart | Free Chakra UI Components and Projects",
-    "link": "https://dev.to/m_ahmad/templateskart-free-chakra-ui-components-and-projects-1l0j",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "All about React flushSync",
-    "link": "https://dev.to/codingshower/all-about-react-flushsync-3k4c",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Virtual DOM",
-    "link": "https://dev.to/pujakundu/react-virtual-dom-4f54",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting started with React Router!",
-    "link": "https://dev.to/emmanuelthecoder/getting-started-with-react-router-19de",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 15: Completing the site basics",
-    "link": "https://dev.to/kemystra/day-15-completing-the-site-basics-4jam",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "VideoCall App With WebRTC and Socket.IO",
-    "link": "https://dev.to/hr21don/videocall-app-with-webrtc-and-socketio-477",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What's new with React 18",
-    "link": "https://dev.to/appsignal/whats-new-with-react-18-3pnm",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 18, Next 12.1 and other Releases - Frontend News #24",
-    "link": "https://dev.to/frontend_house/react-18-next-121-and-other-releases-frontend-news-24-4c86",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This Week In React #102: Lexical, Mitosis, Remix, Next.js, Redux, Storybook, TurboModules, Node 18, HTTP 103, CSS :has()...",
-    "link": "dev.to/sebastienlorber/this-week-in-react-102-lexical-mitosis-remix-nextjs-redux-storybook-turbomodules-node-18-http-103-css-has-108j",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configure Pre-commit Hook Prettier in your React Application in 1 Minute",
-    "link": "https://dev.to/koladev/configure-pre-commit-hook-prettier-in-your-react-application-in-1-minute-2lc9",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction to SolidJS for React developers",
-    "link": "https://dev.to/phongnn/introduction-to-solidjs-for-react-developers-5ab0",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Upgrade to React 18",
-    "link": "https://dev.to/coderpad/how-to-upgrade-to-react-18-424h",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "TemplatesKart | Free Chakra UI Components and Projects",
-    "link": "https://dev.to/m_ahmad/templateskart-free-chakra-ui-components-and-projects-1l0j",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "All about React flushSync",
-    "link": "https://dev.to/codingshower/all-about-react-flushsync-3k4c",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Virtual DOM",
-    "link": "https://dev.to/pujakundu/react-virtual-dom-4f54",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting started with React Router!",
-    "link": "https://dev.to/emmanuelthecoder/getting-started-with-react-router-19de",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 15: Completing the site basics",
-    "link": "https://dev.to/kemystra/day-15-completing-the-site-basics-4jam",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "VideoCall App With WebRTC and Socket.IO",
-    "link": "https://dev.to/hr21don/videocall-app-with-webrtc-and-socketio-477",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What's new with React 18",
-    "link": "https://dev.to/appsignal/whats-new-with-react-18-3pnm",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 18, Next 12.1 and other Releases - Frontend News #24",
-    "link": "https://dev.to/frontend_house/react-18-next-121-and-other-releases-frontend-news-24-4c86",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This Week In React #102: Lexical, Mitosis, Remix, Next.js, Redux, Storybook, TurboModules, Node 18, HTTP 103, CSS :has()...",
-    "link": "dev.to/sebastienlorber/this-week-in-react-102-lexical-mitosis-remix-nextjs-redux-storybook-turbomodules-node-18-http-103-css-has-108j",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configure Pre-commit Hook Prettier in your React Application in 1 Minute",
-    "link": "https://dev.to/koladev/configure-pre-commit-hook-prettier-in-your-react-application-in-1-minute-2lc9",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction to SolidJS for React developers",
-    "link": "https://dev.to/phongnn/introduction-to-solidjs-for-react-developers-5ab0",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to migrate Create-React-App to React version 18",
-    "link": "https://dev.to/diballesteros/how-to-migrate-create-react-app-to-react-version-18-12pk",
-    "date": "4/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to migrate Create-React-App to React version 18",
-    "link": "https://dev.to/diballesteros/how-to-migrate-create-react-app-to-react-version-18-12pk",
-    "date": "4/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to migrate Create-React-App to React version 18",
-    "link": "https://dev.to/diballesteros/how-to-migrate-create-react-app-to-react-version-18-12pk",
-    "date": "4/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Authentication with AWS Cognito & NextJS",
-    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
-    "date": "4/4/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Basic Authentication with AWS Cognito & NextJS",
-    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
-    "date": "4/4/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Wikacy Reels App",
-    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
-    "date": "3/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Wikacy Reels App",
-    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
-    "date": "3/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
-    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
-    "date": "2/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
-    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
-    "date": "2/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
-    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
-    "date": "11/7/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
-    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
-    "date": "11/7/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a Jest Test for Error Boundaries",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
-    "date": "11/2/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a Jest Test for Error Boundaries",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
-    "date": "11/2/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a Jest Test for Error Boundaries",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
-    "date": "11/2/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to quickly add error tracking with Sentry — Relatable Code",
-    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry-relatable-code",
-    "date": "10/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to quickly add error tracking with Sentry — Relatable Code",
-    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry-relatable-code",
-    "date": "10/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to quickly add error tracking with Sentry — Relatable Code",
-    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry-relatable-code",
-    "date": "10/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a simple slider component in React",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
-    "date": "10/17/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a simple slider component in React",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
-    "date": "10/17/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a simple slider component in React",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
-    "date": "10/17/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add Cypress & Codecov in Github Actions in React App",
-    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
-    "date": "9/19/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add Cypress & Codecov in Github Actions in React App",
-    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
-    "date": "9/19/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add Cypress & Codecov in Github Actions in React App",
-    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
-    "date": "9/19/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to close a React Native modal with a button",
-    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
-    "date": "8/16/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to close a React Native modal with a button",
-    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
-    "date": "8/16/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to close a React Native modal with a button",
-    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
-    "date": "8/16/2021",
-    "site": "hashnode"
   },
   {
     "title": "Building A Stocks Price Notifier App Using React, Apollo GraphQL And Hasura",
@@ -1068,12 +1098,6 @@
     "link": "https://css-tricks.com/pre-caching-image-with-react-suspense/",
     "date": "11/21/2020",
     "site": "css-tricks"
-  },
-  {
-    "title": "Some Important concepts while using React \n#Learnings-1",
-    "link": "https://dubesar.hashnode.dev/some-important-concepts-while-using-react-learnings-1",
-    "date": "11/19/2020",
-    "site": "hashnode"
   },
   {
     "title": "Some Important concepts while using React \n#Learnings-1",
@@ -1140,12 +1164,6 @@
     "site": "hashnode"
   },
   {
-    "title": "5 Handy Libraries Every React Developer Should Know",
-    "link": "https://blog.udaya.dev/5-handy-libraries-every-react-developer-should-know",
-    "date": "11/5/2020",
-    "site": "hashnode"
-  },
-  {
     "title": "Data Visualization With ApexCharts",
     "link": "https://www.smashingmagazine.com/2020/11/data-visualization-apexcharts/",
     "reading_time": "15 min read",
@@ -1174,7 +1192,7 @@
   {
     "title": "Introducing Framer Motion",
     "link": "https://www.smashingmagazine.com/2020/10/introduction-to-framer-motion/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "10/26/2020",
     "site": "smashingmagazine"
   },
@@ -1238,12 +1256,6 @@
     "site": "hashnode"
   },
   {
-    "title": "Optimise React with useMemo and React.memo",
-    "link": "https://kelvinmwinuka.com/optimise-react-with-usememo-and-reactmemo",
-    "date": "10/7/2020",
-    "site": "hashnode"
-  },
-  {
     "title": "Unit Testing In React Native Applications",
     "link": "https://www.smashingmagazine.com/2020/09/unit-testing-react-native-applications/",
     "reading_time": "12 min read",
@@ -1253,14 +1265,14 @@
   {
     "title": "Comparing Styling Methods In Next.js",
     "link": "https://www.smashingmagazine.com/2020/09/comparison-styling-methods-next-js/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "9/17/2020",
     "site": "smashingmagazine"
   },
   {
     "title": "Animating React Components With GreenSock",
     "link": "https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "9/14/2020",
     "site": "smashingmagazine"
   },
@@ -1316,22 +1328,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Manage React State with useReducer",
-    "link": "https://kelvinmwinuka.com/manage-react-state-with-usereducer",
-    "date": "8/21/2020",
-    "site": "hashnode"
-  },
-  {
     "title": "radEventListener: a Tale of Client-side Framework Performance",
     "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/",
     "date": "8/18/2020",
     "site": "css-tricks"
-  },
-  {
-    "title": "Easy Workbox Integration with create-react-app",
-    "link": "https://kelvinmwinuka.com/easy-workbox-integration-with-create-react-app",
-    "date": "8/5/2020",
-    "site": "hashnode"
   },
   {
     "title": "Easy Workbox Integration with create-react-app",

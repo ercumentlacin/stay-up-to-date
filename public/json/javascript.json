@@ -1,25 +1,745 @@
 [
   {
+    "title": "How Does Shallow Comparison Work In React?",
+    "link": "https://chakshunyu.hashnode.dev/how-does-shallow-comparison-work-in-react",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Polyfilling the Intersection Observer API the right way",
+    "link": "https://wilsotobianco.hashnode.dev/polyfilling-the-intersection-observer-api-the-right-way",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React Readability Analysis Of Implementing Custom Hooks",
+    "link": "https://chakshunyu.hashnode.dev/react-readability-analysis-of-implementing-custom-hooks",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Typescript Today: How I create function in Elixir using Typescript?",
+    "link": "https://paugramming.com/typescript-today-how-i-create-function-in-elixir-using-typescript",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Ultimate Guide 01: The fundamentals.",
+    "link": "https://coderamrin.hashnode.dev/javascript-ultimate-guide-01-the-fundamentals",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Crear y compilar una aplicación Javascript con Vite.js",
+    "link": "https://gabrielsule.hashnode.dev/crear-y-compilar-una-aplicacion-javascript-con-vitejs",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is Front End and Back End Development ?!",
+    "link": "https://ajtech.hashnode.dev/what-is-front-end-and-back-end-development",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Problems I Don't Want You to Have While Using APIs",
+    "link": "https://snake0.hashnode.dev/5-problems-i-dont-want-you-to-have-while-using-apis",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to Create a React Server",
+    "link": "https://lukewellman.hashnode.dev/how-to-create-a-react-server",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic JavaScript slider ready source",
+    "link": "https://dev.to/amirrezaheydari/basic-javascript-slider-ready-source-1f2o",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript roadmap to crack FAANG interviews in 2022",
+    "link": "https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Serenity CBD Gummies Review - Pain Relief Reviews, Benefits, Results and Warnings?",
+    "link": "https://dev.to/serenitycbdfact/serenity-cbd-gummies-review-pain-relief-reviews-benefits-results-and-warnings-2cbb",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Menyelesaikan soal \"Staircase\" di HackerRank",
+    "link": "https://dev.to/arisca_abdullah/menyelesaikan-soal-staircase-di-hackerrank-10ol",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Conditionally lazy load modules in Angular",
+    "link": "https://dev.to/madhust/conditionally-lazy-load-modules-in-angular-4l5l",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make your D3.js projects responsive",
+    "link": "https://dev.to/annemariedufour/how-to-make-your-d3js-projects-responsive-4l07",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "New Features in Node JS 18",
+    "link": "https://dev.to/adiii_3181/new-features-in-node-js-18-20n5",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A simple browser extension to select a custom background for a new tab in your browser.",
+    "link": "https://dev.to/cmd05/a-simple-browser-extension-to-select-a-custom-background-for-a-new-tab-in-your-browser-97",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Ultimate Guide 01: The fundamentals.",
+    "link": "https://dev.to/coderamrin/javascript-ultimate-guide-01-the-fundamentals-315j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ecommerce site devlopment",
+    "link": "https://dev.to/suryadev/ecommerce-site-devlopment-5a4m",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a PHP Blog Platform from Scratch without a Framework",
+    "link": "https://dev.to/cmd05/building-a-php-blog-platform-from-scratch-without-a-framework-3b18",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to resolve \"multi-word vue/multi-word-component-names\" issue in VueJs 3 default option.",
+    "link": "https://dev.to/gayathri_r/how-to-resolve-multi-word-vuemulti-word-component-names-issue-in-vuejs-3-default-option-1eoh",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Going serverless with custom portal for D365 environments",
+    "link": "https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to parse JSON in JavaScript",
+    "link": "https://dev.to/atapas/how-to-parse-json-in-javascript-519l",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add authentication to your Express app with Asgardeo",
+    "link": "https://dev.to/suvink/add-authentication-to-your-express-app-with-asgardeo-13bh",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Does Shallow Comparison Work In React?",
+    "link": "https://chakshunyu.hashnode.dev/how-does-shallow-comparison-work-in-react",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Polyfilling the Intersection Observer API the right way",
+    "link": "https://wilsotobianco.hashnode.dev/polyfilling-the-intersection-observer-api-the-right-way",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React Readability Analysis Of Implementing Custom Hooks",
+    "link": "https://chakshunyu.hashnode.dev/react-readability-analysis-of-implementing-custom-hooks",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Typescript Today: How I create function in Elixir using Typescript?",
+    "link": "https://paugramming.com/typescript-today-how-i-create-function-in-elixir-using-typescript",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Ultimate Guide 01: The fundamentals.",
+    "link": "https://coderamrin.hashnode.dev/javascript-ultimate-guide-01-the-fundamentals",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Crear y compilar una aplicación Javascript con Vite.js",
+    "link": "https://gabrielsule.hashnode.dev/crear-y-compilar-una-aplicacion-javascript-con-vitejs",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is Front End and Back End Development ?!",
+    "link": "https://ajtech.hashnode.dev/what-is-front-end-and-back-end-development",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Problems I Don't Want You to Have While Using APIs",
+    "link": "https://snake0.hashnode.dev/5-problems-i-dont-want-you-to-have-while-using-apis",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to Create a React Server",
+    "link": "https://lukewellman.hashnode.dev/how-to-create-a-react-server",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic JavaScript slider ready source",
+    "link": "https://dev.to/amirrezaheydari/basic-javascript-slider-ready-source-1f2o",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript roadmap to crack FAANG interviews in 2022",
+    "link": "https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Serenity CBD Gummies Review - Pain Relief Reviews, Benefits, Results and Warnings?",
+    "link": "https://dev.to/serenitycbdfact/serenity-cbd-gummies-review-pain-relief-reviews-benefits-results-and-warnings-2cbb",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Menyelesaikan soal \"Staircase\" di HackerRank",
+    "link": "https://dev.to/arisca_abdullah/menyelesaikan-soal-staircase-di-hackerrank-10ol",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Conditionally lazy load modules in Angular",
+    "link": "https://dev.to/madhust/conditionally-lazy-load-modules-in-angular-4l5l",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "New Features in Node JS 18",
+    "link": "https://dev.to/adiii_3181/new-features-in-node-js-18-20n5",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make your D3.js projects responsive",
+    "link": "https://dev.to/annemariedufour/how-to-make-your-d3js-projects-responsive-4l07",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A simple browser extension to select a custom background for a new tab in your browser.",
+    "link": "https://dev.to/cmd05/a-simple-browser-extension-to-select-a-custom-background-for-a-new-tab-in-your-browser-97",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Ultimate Guide 01: The fundamentals.",
+    "link": "https://dev.to/coderamrin/javascript-ultimate-guide-01-the-fundamentals-315j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ecommerce site devlopment",
+    "link": "https://dev.to/suryadev/ecommerce-site-devlopment-5a4m",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a PHP Blog Platform from Scratch without a Framework",
+    "link": "https://dev.to/cmd05/building-a-php-blog-platform-from-scratch-without-a-framework-3b18",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to resolve \"multi-word vue/multi-word-component-names\" issue in VueJs 3 default option.",
+    "link": "https://dev.to/gayathri_r/how-to-resolve-multi-word-vuemulti-word-component-names-issue-in-vuejs-3-default-option-1eoh",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Going serverless with custom portal for D365 environments",
+    "link": "https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to parse JSON in JavaScript",
+    "link": "https://dev.to/atapas/how-to-parse-json-in-javascript-519l",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add authentication to your Express app with Asgardeo",
+    "link": "https://dev.to/suvink/add-authentication-to-your-express-app-with-asgardeo-13bh",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Does Shallow Comparison Work In React?",
+    "link": "https://chakshunyu.hashnode.dev/how-does-shallow-comparison-work-in-react",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Polyfilling the Intersection Observer API the right way",
+    "link": "https://wilsotobianco.hashnode.dev/polyfilling-the-intersection-observer-api-the-right-way",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React Readability Analysis Of Implementing Custom Hooks",
+    "link": "https://chakshunyu.hashnode.dev/react-readability-analysis-of-implementing-custom-hooks",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Typescript Today: How I create function in Elixir using Typescript?",
+    "link": "https://paugramming.com/typescript-today-how-i-create-function-in-elixir-using-typescript",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Ultimate Guide 01: The fundamentals.",
+    "link": "https://coderamrin.hashnode.dev/javascript-ultimate-guide-01-the-fundamentals",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Crear y compilar una aplicación Javascript con Vite.js",
+    "link": "https://gabrielsule.hashnode.dev/crear-y-compilar-una-aplicacion-javascript-con-vitejs",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is Front End and Back End Development ?!",
+    "link": "https://ajtech.hashnode.dev/what-is-front-end-and-back-end-development",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Problems I Don't Want You to Have While Using APIs",
+    "link": "https://snake0.hashnode.dev/5-problems-i-dont-want-you-to-have-while-using-apis",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to Create a React Server",
+    "link": "https://lukewellman.hashnode.dev/how-to-create-a-react-server",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic JavaScript slider ready source",
+    "link": "https://dev.to/amirrezaheydari/basic-javascript-slider-ready-source-1f2o",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript roadmap to crack FAANG interviews in 2022",
+    "link": "https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Serenity CBD Gummies Review - Pain Relief Reviews, Benefits, Results and Warnings?",
+    "link": "https://dev.to/serenitycbdfact/serenity-cbd-gummies-review-pain-relief-reviews-benefits-results-and-warnings-2cbb",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Menyelesaikan soal \"Staircase\" di HackerRank",
+    "link": "https://dev.to/arisca_abdullah/menyelesaikan-soal-staircase-di-hackerrank-10ol",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Conditionally lazy load modules in Angular",
+    "link": "https://dev.to/madhust/conditionally-lazy-load-modules-in-angular-4l5l",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "New Features in Node JS 18",
+    "link": "https://dev.to/adiii_3181/new-features-in-node-js-18-20n5",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make your D3.js projects responsive",
+    "link": "https://dev.to/annemariedufour/how-to-make-your-d3js-projects-responsive-4l07",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A simple browser extension to select a custom background for a new tab in your browser.",
+    "link": "https://dev.to/cmd05/a-simple-browser-extension-to-select-a-custom-background-for-a-new-tab-in-your-browser-97",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Ultimate Guide 01: The fundamentals.",
+    "link": "https://dev.to/coderamrin/javascript-ultimate-guide-01-the-fundamentals-315j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ecommerce site devlopment",
+    "link": "https://dev.to/suryadev/ecommerce-site-devlopment-5a4m",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a PHP Blog Platform from Scratch without a Framework",
+    "link": "https://dev.to/cmd05/building-a-php-blog-platform-from-scratch-without-a-framework-3b18",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to resolve \"multi-word vue/multi-word-component-names\" issue in VueJs 3 default option.",
+    "link": "https://dev.to/gayathri_r/how-to-resolve-multi-word-vuemulti-word-component-names-issue-in-vuejs-3-default-option-1eoh",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Going serverless with custom portal for D365 environments",
+    "link": "https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to parse JSON in JavaScript",
+    "link": "https://dev.to/atapas/how-to-parse-json-in-javascript-519l",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add authentication to your Express app with Asgardeo",
+    "link": "https://dev.to/suvink/add-authentication-to-your-express-app-with-asgardeo-13bh",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Does Shallow Comparison Work In React?",
+    "link": "https://chakshunyu.hashnode.dev/how-does-shallow-comparison-work-in-react",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Polyfilling the Intersection Observer API the right way",
+    "link": "https://wilsotobianco.hashnode.dev/polyfilling-the-intersection-observer-api-the-right-way",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React Readability Analysis Of Implementing Custom Hooks",
+    "link": "https://chakshunyu.hashnode.dev/react-readability-analysis-of-implementing-custom-hooks",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Typescript Today: How I create function in Elixir using Typescript?",
+    "link": "https://paugramming.com/typescript-today-how-i-create-function-in-elixir-using-typescript",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Ultimate Guide 01: The fundamentals.",
+    "link": "https://coderamrin.hashnode.dev/javascript-ultimate-guide-01-the-fundamentals",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Crear y compilar una aplicación Javascript con Vite.js",
+    "link": "https://gabrielsule.hashnode.dev/crear-y-compilar-una-aplicacion-javascript-con-vitejs",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is Front End and Back End Development ?!",
+    "link": "https://ajtech.hashnode.dev/what-is-front-end-and-back-end-development",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Problems I Don't Want You to Have While Using APIs",
+    "link": "https://snake0.hashnode.dev/5-problems-i-dont-want-you-to-have-while-using-apis",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to Create a React Server",
+    "link": "https://lukewellman.hashnode.dev/how-to-create-a-react-server",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic JavaScript slider ready source",
+    "link": "https://dev.to/amirrezaheydari/basic-javascript-slider-ready-source-1f2o",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript roadmap to crack FAANG interviews in 2022",
+    "link": "https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Serenity CBD Gummies Review - Pain Relief Reviews, Benefits, Results and Warnings?",
+    "link": "https://dev.to/serenitycbdfact/serenity-cbd-gummies-review-pain-relief-reviews-benefits-results-and-warnings-2cbb",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Menyelesaikan soal \"Staircase\" di HackerRank",
+    "link": "https://dev.to/arisca_abdullah/menyelesaikan-soal-staircase-di-hackerrank-10ol",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Conditionally lazy load modules in Angular",
+    "link": "https://dev.to/madhust/conditionally-lazy-load-modules-in-angular-4l5l",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "New Features in Node JS 18",
+    "link": "https://dev.to/adiii_3181/new-features-in-node-js-18-20n5",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make your D3.js projects responsive",
+    "link": "https://dev.to/annemariedufour/how-to-make-your-d3js-projects-responsive-4l07",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A simple browser extension to select a custom background for a new tab in your browser.",
+    "link": "https://dev.to/cmd05/a-simple-browser-extension-to-select-a-custom-background-for-a-new-tab-in-your-browser-97",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Ultimate Guide 01: The fundamentals.",
+    "link": "https://dev.to/coderamrin/javascript-ultimate-guide-01-the-fundamentals-315j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ecommerce site devlopment",
+    "link": "https://dev.to/suryadev/ecommerce-site-devlopment-5a4m",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a PHP Blog Platform from Scratch without a Framework",
+    "link": "https://dev.to/cmd05/building-a-php-blog-platform-from-scratch-without-a-framework-3b18",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to resolve \"multi-word vue/multi-word-component-names\" issue in VueJs 3 default option.",
+    "link": "https://dev.to/gayathri_r/how-to-resolve-multi-word-vuemulti-word-component-names-issue-in-vuejs-3-default-option-1eoh",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Going serverless with custom portal for D365 environments",
+    "link": "https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to parse JSON in JavaScript",
+    "link": "https://dev.to/atapas/how-to-parse-json-in-javascript-519l",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add authentication to your Express app with Asgardeo",
+    "link": "https://dev.to/suvink/add-authentication-to-your-express-app-with-asgardeo-13bh",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Does Shallow Comparison Work In React?",
+    "link": "https://chakshunyu.hashnode.dev/how-does-shallow-comparison-work-in-react",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Polyfilling the Intersection Observer API the right way",
+    "link": "https://wilsotobianco.hashnode.dev/polyfilling-the-intersection-observer-api-the-right-way",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "React Readability Analysis Of Implementing Custom Hooks",
+    "link": "https://chakshunyu.hashnode.dev/react-readability-analysis-of-implementing-custom-hooks",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Typescript Today: How I create function in Elixir using Typescript?",
+    "link": "https://paugramming.com/typescript-today-how-i-create-function-in-elixir-using-typescript",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Ultimate Guide 01: The fundamentals.",
+    "link": "https://coderamrin.hashnode.dev/javascript-ultimate-guide-01-the-fundamentals",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Crear y compilar una aplicación Javascript con Vite.js",
+    "link": "https://gabrielsule.hashnode.dev/crear-y-compilar-una-aplicacion-javascript-con-vitejs",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "What is Front End and Back End Development ?!",
+    "link": "https://ajtech.hashnode.dev/what-is-front-end-and-back-end-development",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Problems I Don't Want You to Have While Using APIs",
+    "link": "https://snake0.hashnode.dev/5-problems-i-dont-want-you-to-have-while-using-apis",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to Create a React Server",
+    "link": "https://lukewellman.hashnode.dev/how-to-create-a-react-server",
+    "date": "4/22/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic JavaScript slider ready source",
+    "link": "https://dev.to/amirrezaheydari/basic-javascript-slider-ready-source-1f2o",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript roadmap to crack FAANG interviews in 2022",
+    "link": "https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Serenity CBD Gummies Review - Pain Relief Reviews, Benefits, Results and Warnings?",
+    "link": "https://dev.to/serenitycbdfact/serenity-cbd-gummies-review-pain-relief-reviews-benefits-results-and-warnings-2cbb",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Menyelesaikan soal \"Staircase\" di HackerRank",
+    "link": "https://dev.to/arisca_abdullah/menyelesaikan-soal-staircase-di-hackerrank-10ol",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Conditionally lazy load modules in Angular",
+    "link": "https://dev.to/madhust/conditionally-lazy-load-modules-in-angular-4l5l",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "New Features in Node JS 18",
+    "link": "https://dev.to/adiii_3181/new-features-in-node-js-18-20n5",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make your D3.js projects responsive",
+    "link": "https://dev.to/annemariedufour/how-to-make-your-d3js-projects-responsive-4l07",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A simple browser extension to select a custom background for a new tab in your browser.",
+    "link": "https://dev.to/cmd05/a-simple-browser-extension-to-select-a-custom-background-for-a-new-tab-in-your-browser-97",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Ultimate Guide 01: The fundamentals.",
+    "link": "https://dev.to/coderamrin/javascript-ultimate-guide-01-the-fundamentals-315j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ecommerce site devlopment",
+    "link": "https://dev.to/suryadev/ecommerce-site-devlopment-5a4m",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a PHP Blog Platform from Scratch without a Framework",
+    "link": "https://dev.to/cmd05/building-a-php-blog-platform-from-scratch-without-a-framework-3b18",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to resolve \"multi-word vue/multi-word-component-names\" issue in VueJs 3 default option.",
+    "link": "https://dev.to/gayathri_r/how-to-resolve-multi-word-vuemulti-word-component-names-issue-in-vuejs-3-default-option-1eoh",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Going serverless with custom portal for D365 environments",
+    "link": "https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to parse JSON in JavaScript",
+    "link": "https://dev.to/atapas/how-to-parse-json-in-javascript-519l",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add authentication to your Express app with Asgardeo",
+    "link": "https://dev.to/suvink/add-authentication-to-your-express-app-with-asgardeo-13bh",
+    "date": "4/22/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "6 Useful Checklists Every Developer Should Know 📃💯",
+    "link": "https://madza.hashnode.dev/6-useful-checklists-every-developer-should-know",
+    "date": "4/21/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "How to parse JSON in JavaScript",
     "link": "https://blog.greenroots.info/how-to-parse-json-in-javascript",
     "date": "4/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "Usage of  filter() method in javascript.",
-    "link": "https://deekshithmd.hashnode.dev/usage-of-filter-method-in-javascript",
+    "title": "Creating your first Svelte App with SvelteKit",
+    "link": "https://fjolt.hashnode.dev/creating-your-first-svelte-app-with-sveltekit",
     "date": "4/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best Ways to Become a Better Javascript Developer",
-    "link": "https://codeblogger.hashnode.dev/best-ways-to-become-a-better-javascript-developer",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Why you should choose Node.js for developing server-side applications",
-    "link": "https://ra1nbow1.hashnode.dev/why-you-should-choose-nodejs-for-developing-server-side-applications",
+    "title": "5 cool JavaScript features that most developers don't know about",
+    "link": "https://ra1nbow1.hashnode.dev/5-cool-javascript-features-that-most-developers-dont-know-about",
     "date": "4/21/2022",
     "site": "hashnode"
   },
@@ -30,124 +750,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Time Complexity for JavaScript Developers: What Big O is really about",
-    "link": "https://princecodes.hashnode.dev/timecomplexity-made-easy",
+    "title": "6 Useful Checklists Every Developer Should Know 📃💯",
+    "link": "https://madza.hashnode.dev/6-useful-checklists-every-developer-should-know",
     "date": "4/21/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Exercises Basic#13 - Lowercase to Uppercase, Uppercase to Lowercase",
-    "link": "https://reyjang.hashnode.dev/javascript-exercises-basic13-lowercase-to-uppercase-uppercase-to-lowercase",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Exercises Basic#12 - String to Uppercase",
-    "link": "https://reyjang.hashnode.dev/javascript-exercises-basic12-string-to-uppercase",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NODE JS Programming",
-    "link": "https://fshinfotech.hashnode.dev/node-js-programming",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Array Reduce Method Explained in JavaScript",
-    "link": "https://codingbootcampguides.com/array-reduce-method-explained-in-javascript",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Remove a Property from a JavaScript Object",
-    "link": "https://wisdomgeek.hashnode.dev/how-to-remove-a-property-from-a-javascript-object",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Functions",
-    "link": "https://jayandcode.hashnode.dev/javascript-functions",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Tour Through JavaScript Arrays With Ten Methods Beginners Should Know",
-    "link": "https://dev.to/codecupdev/a-tour-through-javascript-arrays-with-ten-methods-beginners-should-know-3k9a",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Scrapping with Python",
-    "link": "https://dev.to/code_with_ali/web-scrapping-with-python-2p9n",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journey of becoming Full Stack Web Developer",
-    "link": "https://dev.to/ac3kill3r/journey-of-becoming-full-stack-web-developer-20ij",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoisting with var",
-    "link": "https://dev.to/sujit510/hoisting-with-var-1o5e",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "24 Things You Might Be Doing Wrong In Website Testing!",
-    "link": "https://dev.to/lambdatest/24-things-you-might-be-doing-wrong-in-website-testing-4bad",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trim Clinical Keto (U.S Updated) Reviews: Read All Secret Facts?",
-    "link": "https://dev.to/trimclinicalget/trim-clinical-keto-us-updated-reviews-read-all-secret-facts-4l39",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NodeJS with ExpressJS and TypeScript part 2.",
-    "link": "https://dev.to/jordandev/nodejs-with-expressjs-and-typescript-part-2-40lk",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "E2E Testing an App with Clerk Authentication in Cypress",
-    "link": "https://dev.to/lynnntropy/e2e-testing-an-app-with-clerk-authentication-in-cypress-3ae7",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tech Hacks discovered dailly",
-    "link": "https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Importance of Time Management You Should Know",
-    "link": "https://dev.to/calltutors/importance-of-time-management-you-should-know-3lfo",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My Path to Front End Development - 5 Years Later",
-    "link": "https://dev.to/davidmorais/how-i-became-a-software-developer-5-years-later-40pj",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Remove a Property from a JavaScript Object",
-    "link": "https://dev.to/saranshk/how-to-remove-a-property-from-a-javascript-object-4gg",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#42 - How many pages in a book? - Codewars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/42-how-many-pages-in-a-book-codewars-kata-6-kyu-4m9i",
-    "date": "4/21/2022",
-    "site": "dev.to"
   },
   {
     "title": "How to parse JSON in JavaScript",
@@ -156,20 +762,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Usage of  filter() method in javascript.",
-    "link": "https://deekshithmd.hashnode.dev/usage-of-filter-method-in-javascript",
+    "title": "Creating your first Svelte App with SvelteKit",
+    "link": "https://fjolt.hashnode.dev/creating-your-first-svelte-app-with-sveltekit",
     "date": "4/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best Ways to Become a Better Javascript Developer",
-    "link": "https://codeblogger.hashnode.dev/best-ways-to-become-a-better-javascript-developer",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Why you should choose Node.js for developing server-side applications",
-    "link": "https://ra1nbow1.hashnode.dev/why-you-should-choose-nodejs-for-developing-server-side-applications",
+    "title": "5 cool JavaScript features that most developers don't know about",
+    "link": "https://ra1nbow1.hashnode.dev/5-cool-javascript-features-that-most-developers-dont-know-about",
     "date": "4/21/2022",
     "site": "hashnode"
   },
@@ -180,124 +780,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Time Complexity for JavaScript Developers: What Big O is really about",
-    "link": "https://princecodes.hashnode.dev/timecomplexity-made-easy",
+    "title": "6 Useful Checklists Every Developer Should Know 📃💯",
+    "link": "https://madza.hashnode.dev/6-useful-checklists-every-developer-should-know",
     "date": "4/21/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Exercises Basic#13 - Lowercase to Uppercase, Uppercase to Lowercase",
-    "link": "https://reyjang.hashnode.dev/javascript-exercises-basic13-lowercase-to-uppercase-uppercase-to-lowercase",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Exercises Basic#12 - String to Uppercase",
-    "link": "https://reyjang.hashnode.dev/javascript-exercises-basic12-string-to-uppercase",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NODE JS Programming",
-    "link": "https://fshinfotech.hashnode.dev/node-js-programming",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Array Reduce Method Explained in JavaScript",
-    "link": "https://codingbootcampguides.com/array-reduce-method-explained-in-javascript",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Remove a Property from a JavaScript Object",
-    "link": "https://wisdomgeek.hashnode.dev/how-to-remove-a-property-from-a-javascript-object",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Functions",
-    "link": "https://jayandcode.hashnode.dev/javascript-functions",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Tour Through JavaScript Arrays With Ten Methods Beginners Should Know",
-    "link": "https://dev.to/codecupdev/a-tour-through-javascript-arrays-with-ten-methods-beginners-should-know-3k9a",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Scrapping with Python",
-    "link": "https://dev.to/code_with_ali/web-scrapping-with-python-2p9n",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journey of becoming Full Stack Web Developer",
-    "link": "https://dev.to/ac3kill3r/journey-of-becoming-full-stack-web-developer-20ij",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoisting with var",
-    "link": "https://dev.to/sujit510/hoisting-with-var-1o5e",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "24 Things You Might Be Doing Wrong In Website Testing!",
-    "link": "https://dev.to/lambdatest/24-things-you-might-be-doing-wrong-in-website-testing-4bad",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trim Clinical Keto (U.S Updated) Reviews: Read All Secret Facts?",
-    "link": "https://dev.to/trimclinicalget/trim-clinical-keto-us-updated-reviews-read-all-secret-facts-4l39",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NodeJS with ExpressJS and TypeScript part 2.",
-    "link": "https://dev.to/jordandev/nodejs-with-expressjs-and-typescript-part-2-40lk",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "E2E Testing an App with Clerk Authentication in Cypress",
-    "link": "https://dev.to/lynnntropy/e2e-testing-an-app-with-clerk-authentication-in-cypress-3ae7",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tech Hacks discovered dailly",
-    "link": "https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Importance of Time Management You Should Know",
-    "link": "https://dev.to/calltutors/importance-of-time-management-you-should-know-3lfo",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My Path to Front End Development - 5 Years Later",
-    "link": "https://dev.to/davidmorais/how-i-became-a-software-developer-5-years-later-40pj",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Remove a Property from a JavaScript Object",
-    "link": "https://dev.to/saranshk/how-to-remove-a-property-from-a-javascript-object-4gg",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#42 - How many pages in a book? - Codewars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/42-how-many-pages-in-a-book-codewars-kata-6-kyu-4m9i",
-    "date": "4/21/2022",
-    "site": "dev.to"
   },
   {
     "title": "How to parse JSON in JavaScript",
@@ -306,20 +792,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Usage of  filter() method in javascript.",
-    "link": "https://deekshithmd.hashnode.dev/usage-of-filter-method-in-javascript",
+    "title": "Creating your first Svelte App with SvelteKit",
+    "link": "https://fjolt.hashnode.dev/creating-your-first-svelte-app-with-sveltekit",
     "date": "4/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best Ways to Become a Better Javascript Developer",
-    "link": "https://codeblogger.hashnode.dev/best-ways-to-become-a-better-javascript-developer",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Why you should choose Node.js for developing server-side applications",
-    "link": "https://ra1nbow1.hashnode.dev/why-you-should-choose-nodejs-for-developing-server-side-applications",
+    "title": "5 cool JavaScript features that most developers don't know about",
+    "link": "https://ra1nbow1.hashnode.dev/5-cool-javascript-features-that-most-developers-dont-know-about",
     "date": "4/21/2022",
     "site": "hashnode"
   },
@@ -330,124 +810,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Time Complexity for JavaScript Developers: What Big O is really about",
-    "link": "https://princecodes.hashnode.dev/timecomplexity-made-easy",
+    "title": "6 Useful Checklists Every Developer Should Know 📃💯",
+    "link": "https://madza.hashnode.dev/6-useful-checklists-every-developer-should-know",
     "date": "4/21/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Exercises Basic#13 - Lowercase to Uppercase, Uppercase to Lowercase",
-    "link": "https://reyjang.hashnode.dev/javascript-exercises-basic13-lowercase-to-uppercase-uppercase-to-lowercase",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Exercises Basic#12 - String to Uppercase",
-    "link": "https://reyjang.hashnode.dev/javascript-exercises-basic12-string-to-uppercase",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NODE JS Programming",
-    "link": "https://fshinfotech.hashnode.dev/node-js-programming",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Array Reduce Method Explained in JavaScript",
-    "link": "https://codingbootcampguides.com/array-reduce-method-explained-in-javascript",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Remove a Property from a JavaScript Object",
-    "link": "https://wisdomgeek.hashnode.dev/how-to-remove-a-property-from-a-javascript-object",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Functions",
-    "link": "https://jayandcode.hashnode.dev/javascript-functions",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Tour Through JavaScript Arrays With Ten Methods Beginners Should Know",
-    "link": "https://dev.to/codecupdev/a-tour-through-javascript-arrays-with-ten-methods-beginners-should-know-3k9a",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Scrapping with Python",
-    "link": "https://dev.to/code_with_ali/web-scrapping-with-python-2p9n",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journey of becoming Full Stack Web Developer",
-    "link": "https://dev.to/ac3kill3r/journey-of-becoming-full-stack-web-developer-20ij",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoisting with var",
-    "link": "https://dev.to/sujit510/hoisting-with-var-1o5e",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "24 Things You Might Be Doing Wrong In Website Testing!",
-    "link": "https://dev.to/lambdatest/24-things-you-might-be-doing-wrong-in-website-testing-4bad",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trim Clinical Keto (U.S Updated) Reviews: Read All Secret Facts?",
-    "link": "https://dev.to/trimclinicalget/trim-clinical-keto-us-updated-reviews-read-all-secret-facts-4l39",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NodeJS with ExpressJS and TypeScript part 2.",
-    "link": "https://dev.to/jordandev/nodejs-with-expressjs-and-typescript-part-2-40lk",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "E2E Testing an App with Clerk Authentication in Cypress",
-    "link": "https://dev.to/lynnntropy/e2e-testing-an-app-with-clerk-authentication-in-cypress-3ae7",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tech Hacks discovered dailly",
-    "link": "https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Importance of Time Management You Should Know",
-    "link": "https://dev.to/calltutors/importance-of-time-management-you-should-know-3lfo",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My Path to Front End Development - 5 Years Later",
-    "link": "https://dev.to/davidmorais/how-i-became-a-software-developer-5-years-later-40pj",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Remove a Property from a JavaScript Object",
-    "link": "https://dev.to/saranshk/how-to-remove-a-property-from-a-javascript-object-4gg",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#42 - How many pages in a book? - Codewars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/42-how-many-pages-in-a-book-codewars-kata-6-kyu-4m9i",
-    "date": "4/21/2022",
-    "site": "dev.to"
   },
   {
     "title": "How to parse JSON in JavaScript",
@@ -456,20 +822,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Usage of  filter() method in javascript.",
-    "link": "https://deekshithmd.hashnode.dev/usage-of-filter-method-in-javascript",
+    "title": "Creating your first Svelte App with SvelteKit",
+    "link": "https://fjolt.hashnode.dev/creating-your-first-svelte-app-with-sveltekit",
     "date": "4/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best Ways to Become a Better Javascript Developer",
-    "link": "https://codeblogger.hashnode.dev/best-ways-to-become-a-better-javascript-developer",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Why you should choose Node.js for developing server-side applications",
-    "link": "https://ra1nbow1.hashnode.dev/why-you-should-choose-nodejs-for-developing-server-side-applications",
+    "title": "5 cool JavaScript features that most developers don't know about",
+    "link": "https://ra1nbow1.hashnode.dev/5-cool-javascript-features-that-most-developers-dont-know-about",
     "date": "4/21/2022",
     "site": "hashnode"
   },
@@ -480,124 +840,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Time Complexity for JavaScript Developers: What Big O is really about",
-    "link": "https://princecodes.hashnode.dev/timecomplexity-made-easy",
+    "title": "6 Useful Checklists Every Developer Should Know 📃💯",
+    "link": "https://madza.hashnode.dev/6-useful-checklists-every-developer-should-know",
     "date": "4/21/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Exercises Basic#13 - Lowercase to Uppercase, Uppercase to Lowercase",
-    "link": "https://reyjang.hashnode.dev/javascript-exercises-basic13-lowercase-to-uppercase-uppercase-to-lowercase",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Exercises Basic#12 - String to Uppercase",
-    "link": "https://reyjang.hashnode.dev/javascript-exercises-basic12-string-to-uppercase",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NODE JS Programming",
-    "link": "https://fshinfotech.hashnode.dev/node-js-programming",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Array Reduce Method Explained in JavaScript",
-    "link": "https://codingbootcampguides.com/array-reduce-method-explained-in-javascript",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Remove a Property from a JavaScript Object",
-    "link": "https://wisdomgeek.hashnode.dev/how-to-remove-a-property-from-a-javascript-object",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Functions",
-    "link": "https://jayandcode.hashnode.dev/javascript-functions",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Web Scrapping with Python",
-    "link": "https://dev.to/code_with_ali/web-scrapping-with-python-2p9n",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journey of becoming Full Stack Web Developer",
-    "link": "https://dev.to/ac3kill3r/journey-of-becoming-full-stack-web-developer-20ij",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoisting with var",
-    "link": "https://dev.to/sujit510/hoisting-with-var-1o5e",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "24 Things You Might Be Doing Wrong In Website Testing!",
-    "link": "https://dev.to/lambdatest/24-things-you-might-be-doing-wrong-in-website-testing-4bad",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trim Clinical Keto (U.S Updated) Reviews: Read All Secret Facts?",
-    "link": "https://dev.to/trimclinicalget/trim-clinical-keto-us-updated-reviews-read-all-secret-facts-4l39",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Tour Through JavaScript Arrays With Ten Methods Beginners Should Know",
-    "link": "https://dev.to/codecupdev/a-tour-through-javascript-arrays-with-ten-methods-beginners-should-know-3k9a",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NodeJS with ExpressJS and TypeScript part 2.",
-    "link": "https://dev.to/jordandev/nodejs-with-expressjs-and-typescript-part-2-40lk",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "E2E Testing an App with Clerk Authentication in Cypress",
-    "link": "https://dev.to/lynnntropy/e2e-testing-an-app-with-clerk-authentication-in-cypress-3ae7",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tech Hacks discovered dailly",
-    "link": "https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Importance of Time Management You Should Know",
-    "link": "https://dev.to/calltutors/importance-of-time-management-you-should-know-3lfo",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My Path to Front End Development - 5 Years Later",
-    "link": "https://dev.to/davidmorais/how-i-became-a-software-developer-5-years-later-40pj",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Remove a Property from a JavaScript Object",
-    "link": "https://dev.to/saranshk/how-to-remove-a-property-from-a-javascript-object-4gg",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#42 - How many pages in a book? - Codewars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/42-how-many-pages-in-a-book-codewars-kata-6-kyu-4m9i",
-    "date": "4/21/2022",
-    "site": "dev.to"
   },
   {
     "title": "How to parse JSON in JavaScript",
@@ -606,20 +852,14 @@
     "site": "hashnode"
   },
   {
-    "title": "Usage of  filter() method in javascript.",
-    "link": "https://deekshithmd.hashnode.dev/usage-of-filter-method-in-javascript",
+    "title": "Creating your first Svelte App with SvelteKit",
+    "link": "https://fjolt.hashnode.dev/creating-your-first-svelte-app-with-sveltekit",
     "date": "4/21/2022",
     "site": "hashnode"
   },
   {
-    "title": "Best Ways to Become a Better Javascript Developer",
-    "link": "https://codeblogger.hashnode.dev/best-ways-to-become-a-better-javascript-developer",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Why you should choose Node.js for developing server-side applications",
-    "link": "https://ra1nbow1.hashnode.dev/why-you-should-choose-nodejs-for-developing-server-side-applications",
+    "title": "5 cool JavaScript features that most developers don't know about",
+    "link": "https://ra1nbow1.hashnode.dev/5-cool-javascript-features-that-most-developers-dont-know-about",
     "date": "4/21/2022",
     "site": "hashnode"
   },
@@ -630,124 +870,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Time Complexity for JavaScript Developers: What Big O is really about",
-    "link": "https://princecodes.hashnode.dev/timecomplexity-made-easy",
-    "date": "4/21/2022",
+    "title": "Learn Svelte by Writing Svelte – Using Side Projects To Learn a New Tech",
+    "link": "https://deleteman.hashnode.dev/learn-svelte-by-writing-svelte-using-side-projects-to-learn-a-new-tech",
+    "date": "4/20/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Exercises Basic#13 - Lowercase to Uppercase, Uppercase to Lowercase",
-    "link": "https://reyjang.hashnode.dev/javascript-exercises-basic13-lowercase-to-uppercase-uppercase-to-lowercase",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Exercises Basic#12 - String to Uppercase",
-    "link": "https://reyjang.hashnode.dev/javascript-exercises-basic12-string-to-uppercase",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "NODE JS Programming",
-    "link": "https://fshinfotech.hashnode.dev/node-js-programming",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Array Reduce Method Explained in JavaScript",
-    "link": "https://codingbootcampguides.com/array-reduce-method-explained-in-javascript",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Remove a Property from a JavaScript Object",
-    "link": "https://wisdomgeek.hashnode.dev/how-to-remove-a-property-from-a-javascript-object",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Functions",
-    "link": "https://jayandcode.hashnode.dev/javascript-functions",
-    "date": "4/21/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Web Scrapping with Python",
-    "link": "https://dev.to/code_with_ali/web-scrapping-with-python-2p9n",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Journey of becoming Full Stack Web Developer",
-    "link": "https://dev.to/ac3kill3r/journey-of-becoming-full-stack-web-developer-20ij",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoisting with var",
-    "link": "https://dev.to/sujit510/hoisting-with-var-1o5e",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "24 Things You Might Be Doing Wrong In Website Testing!",
-    "link": "https://dev.to/lambdatest/24-things-you-might-be-doing-wrong-in-website-testing-4bad",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trim Clinical Keto (U.S Updated) Reviews: Read All Secret Facts?",
-    "link": "https://dev.to/trimclinicalget/trim-clinical-keto-us-updated-reviews-read-all-secret-facts-4l39",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Tour Through JavaScript Arrays With Ten Methods Beginners Should Know",
-    "link": "https://dev.to/codecupdev/a-tour-through-javascript-arrays-with-ten-methods-beginners-should-know-3k9a",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NodeJS with ExpressJS and TypeScript part 2.",
-    "link": "https://dev.to/jordandev/nodejs-with-expressjs-and-typescript-part-2-40lk",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "E2E Testing an App with Clerk Authentication in Cypress",
-    "link": "https://dev.to/lynnntropy/e2e-testing-an-app-with-clerk-authentication-in-cypress-3ae7",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tech Hacks discovered dailly",
-    "link": "https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Importance of Time Management You Should Know",
-    "link": "https://dev.to/calltutors/importance-of-time-management-you-should-know-3lfo",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My Path to Front End Development - 5 Years Later",
-    "link": "https://dev.to/davidmorais/how-i-became-a-software-developer-5-years-later-40pj",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Remove a Property from a JavaScript Object",
-    "link": "https://dev.to/saranshk/how-to-remove-a-property-from-a-javascript-object-4gg",
-    "date": "4/21/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#42 - How many pages in a book? - Codewars Kata (6 kyu)",
-    "link": "https://dev.to/cesar__dlr/42-how-many-pages-in-a-book-codewars-kata-6-kyu-4m9i",
-    "date": "4/21/2022",
-    "site": "dev.to"
   },
   {
     "title": "Learn Svelte by Writing Svelte – Using Side Projects To Learn a New Tech",
@@ -756,28 +882,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Future Javascript: New Array Methods Coming soon",
-    "link": "https://fjolt.hashnode.dev/future-javascript-new-array-methods-coming-soon",
+    "title": "Learn Svelte by Writing Svelte – Using Side Projects To Learn a New Tech",
+    "link": "https://deleteman.hashnode.dev/learn-svelte-by-writing-svelte-using-side-projects-to-learn-a-new-tech",
     "date": "4/20/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "New in Node.js v18",
-    "link": "https://blog.siddu.tech/new-in-nodejs-v18",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Age concerning: the cliff",
-    "link": "https://dev.to/adam_cyclones/age-concerning-the-cliff-2nhp",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hydration is Pure Overhead",
-    "link": "https://dev.to/builderio/hydration-is-pure-overhead-33g7",
-    "date": "4/20/2022",
-    "site": "dev.to"
   },
   {
     "title": "Learn Svelte by Writing Svelte – Using Side Projects To Learn a New Tech",
@@ -786,118 +894,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Future Javascript: New Array Methods Coming soon",
-    "link": "https://fjolt.hashnode.dev/future-javascript-new-array-methods-coming-soon",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "New in Node.js v18",
-    "link": "https://blog.siddu.tech/new-in-nodejs-v18",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Age concerning: the cliff",
-    "link": "https://dev.to/adam_cyclones/age-concerning-the-cliff-2nhp",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hydration is Pure Overhead",
-    "link": "https://dev.to/builderio/hydration-is-pure-overhead-33g7",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Learn Svelte by Writing Svelte – Using Side Projects To Learn a New Tech",
     "link": "https://deleteman.hashnode.dev/learn-svelte-by-writing-svelte-using-side-projects-to-learn-a-new-tech",
     "date": "4/20/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Future Javascript: New Array Methods Coming soon",
-    "link": "https://fjolt.hashnode.dev/future-javascript-new-array-methods-coming-soon",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "New in Node.js v18",
-    "link": "https://blog.siddu.tech/new-in-nodejs-v18",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Age concerning: the cliff",
-    "link": "https://dev.to/adam_cyclones/age-concerning-the-cliff-2nhp",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hydration is Pure Overhead",
-    "link": "https://dev.to/builderio/hydration-is-pure-overhead-33g7",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learn Svelte by Writing Svelte – Using Side Projects To Learn a New Tech",
-    "link": "https://deleteman.hashnode.dev/learn-svelte-by-writing-svelte-using-side-projects-to-learn-a-new-tech",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Future Javascript: New Array Methods Coming soon",
-    "link": "https://fjolt.hashnode.dev/future-javascript-new-array-methods-coming-soon",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "New in Node.js v18",
-    "link": "https://blog.siddu.tech/new-in-nodejs-v18",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Age concerning: the cliff",
-    "link": "https://dev.to/adam_cyclones/age-concerning-the-cliff-2nhp",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hydration is Pure Overhead",
-    "link": "https://dev.to/builderio/hydration-is-pure-overhead-33g7",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learn Svelte by Writing Svelte – Using Side Projects To Learn a New Tech",
-    "link": "https://deleteman.hashnode.dev/learn-svelte-by-writing-svelte-using-side-projects-to-learn-a-new-tech",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Future Javascript: New Array Methods Coming soon",
-    "link": "https://fjolt.hashnode.dev/future-javascript-new-array-methods-coming-soon",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "New in Node.js v18",
-    "link": "https://blog.siddu.tech/new-in-nodejs-v18",
-    "date": "4/20/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Age concerning: the cliff",
-    "link": "https://dev.to/adam_cyclones/age-concerning-the-cliff-2nhp",
-    "date": "4/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hydration is Pure Overhead",
-    "link": "https://dev.to/builderio/hydration-is-pure-overhead-33g7",
-    "date": "4/20/2022",
-    "site": "dev.to"
   },
   {
     "title": "Jamstack Rendering Patterns: The Evolution",
@@ -1004,7 +1004,7 @@
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -1139,7 +1139,7 @@
   {
     "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
     "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "8/11/2021",
     "site": "smashingmagazine"
   },
@@ -1294,7 +1294,7 @@
   {
     "title": "Managing Shared State In Vue 3",
     "link": "https://www.smashingmagazine.com/2021/06/managing-shared-state-vue3/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "6/3/2021",
     "site": "smashingmagazine"
   },
