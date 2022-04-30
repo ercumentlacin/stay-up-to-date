@@ -1,93 +1,477 @@
 [
   {
-    "title": "How to Customize the React TreeView Component",
-    "link": "https://dev.to/syncfusion/how-to-customize-the-react-treeview-component-2n7g",
+    "title": "Advik Clothing V2",
+    "link": "https://dev.to/advikguptadev/advik-clothing-v2-2loj",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 18 unable to install react-table and react-bootstrap",
+    "link": "https://dev.to/sujithmohan/react-18-unable-to-install-react-table-and-react-bootstrap-1kkb",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setup path aliases w/ React + Vite + TS",
+    "link": "https://dev.to/avxkim/setup-path-aliases-w-react-vite-ts-poa",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Remix pathless layout routes",
+    "link": "https://dev.to/dailydevtips1/remix-pathless-layout-routes-5i2",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reactjs email validation || Reactjs tutorial for beginners",
+    "link": "https://dev.to/hardeepcoder/reactjs-email-validation-reactjs-tutorial-for-beginners-153p",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Naming files and directories in JavaScript projects",
+    "link": "https://dev.to/kevanstannard/naming-files-and-directories-in-javascript-projects-35e4",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Highlight potential problems in React application?",
+    "link": "https://dev.to/sagargnawali/how-to-highlight-potential-problems-in-react-application-2fg",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to send emails from a React application without a backend server",
+    "link": "https://dev.to/jareichert/how-to-send-emails-from-a-react-application-without-a-backend-server-4pdl",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Case for useContext",
+    "link": "https://dev.to/kevinhaube/the-case-for-usecontext-15mo",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advik Clothing V2",
+    "link": "https://dev.to/advikguptadev/advik-clothing-v2-2loj",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 18 unable to install react-table and react-bootstrap",
+    "link": "https://dev.to/sujithmohan/react-18-unable-to-install-react-table-and-react-bootstrap-1kkb",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setup path aliases w/ React + Vite + TS",
+    "link": "https://dev.to/avxkim/setup-path-aliases-w-react-vite-ts-poa",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Remix pathless layout routes",
+    "link": "https://dev.to/dailydevtips1/remix-pathless-layout-routes-5i2",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reactjs email validation || Reactjs tutorial for beginners",
+    "link": "https://dev.to/hardeepcoder/reactjs-email-validation-reactjs-tutorial-for-beginners-153p",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Naming files and directories in JavaScript projects",
+    "link": "https://dev.to/kevanstannard/naming-files-and-directories-in-javascript-projects-35e4",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Highlight potential problems in React application?",
+    "link": "https://dev.to/sagargnawali/how-to-highlight-potential-problems-in-react-application-2fg",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to send emails from a React application without a backend server",
+    "link": "https://dev.to/jareichert/how-to-send-emails-from-a-react-application-without-a-backend-server-4pdl",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Case for useContext",
+    "link": "https://dev.to/kevinhaube/the-case-for-usecontext-15mo",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advik Clothing V2",
+    "link": "https://dev.to/advikguptadev/advik-clothing-v2-2loj",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 18 unable to install react-table and react-bootstrap",
+    "link": "https://dev.to/sujithmohan/react-18-unable-to-install-react-table-and-react-bootstrap-1kkb",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setup path aliases w/ React + Vite + TS",
+    "link": "https://dev.to/avxkim/setup-path-aliases-w-react-vite-ts-poa",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Remix pathless layout routes",
+    "link": "https://dev.to/dailydevtips1/remix-pathless-layout-routes-5i2",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reactjs email validation || Reactjs tutorial for beginners",
+    "link": "https://dev.to/hardeepcoder/reactjs-email-validation-reactjs-tutorial-for-beginners-153p",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Naming files and directories in JavaScript projects",
+    "link": "https://dev.to/kevanstannard/naming-files-and-directories-in-javascript-projects-35e4",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Highlight potential problems in React application?",
+    "link": "https://dev.to/sagargnawali/how-to-highlight-potential-problems-in-react-application-2fg",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to send emails from a React application without a backend server",
+    "link": "https://dev.to/jareichert/how-to-send-emails-from-a-react-application-without-a-backend-server-4pdl",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Case for useContext",
+    "link": "https://dev.to/kevinhaube/the-case-for-usecontext-15mo",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advik Clothing V2",
+    "link": "https://dev.to/advikguptadev/advik-clothing-v2-2loj",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 18 unable to install react-table and react-bootstrap",
+    "link": "https://dev.to/sujithmohan/react-18-unable-to-install-react-table-and-react-bootstrap-1kkb",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setup path aliases w/ React + Vite + TS",
+    "link": "https://dev.to/avxkim/setup-path-aliases-w-react-vite-ts-poa",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Remix pathless layout routes",
+    "link": "https://dev.to/dailydevtips1/remix-pathless-layout-routes-5i2",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reactjs email validation || Reactjs tutorial for beginners",
+    "link": "https://dev.to/hardeepcoder/reactjs-email-validation-reactjs-tutorial-for-beginners-153p",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Naming files and directories in JavaScript projects",
+    "link": "https://dev.to/kevanstannard/naming-files-and-directories-in-javascript-projects-35e4",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Highlight potential problems in React application?",
+    "link": "https://dev.to/sagargnawali/how-to-highlight-potential-problems-in-react-application-2fg",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to send emails from a React application without a backend server",
+    "link": "https://dev.to/jareichert/how-to-send-emails-from-a-react-application-without-a-backend-server-4pdl",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Case for useContext",
+    "link": "https://dev.to/kevinhaube/the-case-for-usecontext-15mo",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Advik Clothing V2",
+    "link": "https://dev.to/advikguptadev/advik-clothing-v2-2loj",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 18 unable to install react-table and react-bootstrap",
+    "link": "https://dev.to/sujithmohan/react-18-unable-to-install-react-table-and-react-bootstrap-1kkb",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setup path aliases w/ React + Vite + TS",
+    "link": "https://dev.to/avxkim/setup-path-aliases-w-react-vite-ts-poa",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Remix pathless layout routes",
+    "link": "https://dev.to/dailydevtips1/remix-pathless-layout-routes-5i2",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reactjs email validation || Reactjs tutorial for beginners",
+    "link": "https://dev.to/hardeepcoder/reactjs-email-validation-reactjs-tutorial-for-beginners-153p",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Naming files and directories in JavaScript projects",
+    "link": "https://dev.to/kevanstannard/naming-files-and-directories-in-javascript-projects-35e4",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Highlight potential problems in React application?",
+    "link": "https://dev.to/sagargnawali/how-to-highlight-potential-problems-in-react-application-2fg",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to send emails from a React application without a backend server",
+    "link": "https://dev.to/jareichert/how-to-send-emails-from-a-react-application-without-a-backend-server-4pdl",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Case for useContext",
+    "link": "https://dev.to/kevinhaube/the-case-for-usecontext-15mo",
+    "date": "4/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to dynamically change collection in from client side ?",
+    "link": "https://dev.to/ivkemilioner/how-to-dynamically-change-collection-in-from-client-side--5oa",
     "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Desing Pattern: Control Props",
-    "link": "https://dev.to/wheel0ck/react-desing-pattern-control-props-4m8b",
+    "title": "Quest - Convert Figma to React",
+    "link": "https://dev.to/andrew_jasper/quest-convert-figma-to-react-3ff2",
     "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Open-sourced 4 SaaS kits - Vue, Svelte, React, and NET",
-    "link": "https://dev.to/alexandromtzg/open-sourced-4-saas-kits-vue-svelte-react-and-net-4486",
+    "title": "How to build faster animation transitions in React",
+    "link": "https://dev.to/logrocket/how-to-build-faster-animation-transitions-in-react-1a4m",
     "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Rethinking our Remix admin routes",
-    "link": "https://dev.to/dailydevtips1/rethinking-our-remix-admin-routes-3dhh",
+    "title": "Made online code compiler",
+    "link": "https://dev.to/nisabmohd/made-online-code-compiler-1d2",
     "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Frontend Internship Interview Experience",
-    "link": "https://dev.to/ashutoshdash/frontend-internship-interview-experience-54al",
+    "title": "Your first Turborepo",
+    "link": "https://dev.to/siddharthvenkatesh/your-first-turborepo-1lo",
     "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript - Hoisting (2)",
-    "link": "https://dev.to/mykyta0723/javascript-hoisting-2-4676",
+    "title": "How to dynamically change collection in from client side ?",
+    "link": "https://dev.to/ivkemilioner/how-to-dynamically-change-collection-in-from-client-side--5oa",
     "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Hot Reload Fails, DOM adds an additional iframe",
-    "link": "https://dev.to/atulbhattsystem32/hot-reload-fails-dom-adds-an-additional-iframe-45e7",
-    "date": "4/28/2022",
+    "title": "Quest - Convert Figma to React",
+    "link": "https://dev.to/andrew_jasper/quest-convert-figma-to-react-3ff2",
+    "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Portals for ArcGIS JSAPI Popups",
-    "link": "https://dev.to/odoenet/react-portals-for-arcgis-jsapi-popups-bnf",
-    "date": "4/28/2022",
+    "title": "How to build faster animation transitions in React",
+    "link": "https://dev.to/logrocket/how-to-build-faster-animation-transitions-in-react-1a4m",
+    "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Why useNavigate hook in react-router v6 triggers waste re-renders and how to solve it",
-    "link": "https://dev.to/shallowdepth/why-usenavigate-hook-in-react-router-v6-triggers-waste-re-renders-and-how-to-solve-it-5566",
-    "date": "4/28/2022",
+    "title": "Made online code compiler",
+    "link": "https://dev.to/nisabmohd/made-online-code-compiler-1d2",
+    "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Tricks Miniseries 3: How to setup Routes",
-    "link": "https://dev.to/urielbitton/react-tricks-miniseries-3-how-to-setup-routes-1je6",
-    "date": "4/28/2022",
+    "title": "Your first Turborepo",
+    "link": "https://dev.to/siddharthvenkatesh/your-first-turborepo-1lo",
+    "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to configure ESLint, Prettier, Husky, Lint-staged into a React project with TypeScript and Tailwind CSS",
-    "link": "https://dev.to/ixartz/how-to-configure-eslint-prettier-husky-lint-staged-into-a-react-project-with-typescript-and-tailwind-css-4jp8",
-    "date": "4/28/2022",
+    "title": "How to dynamically change collection in from client side ?",
+    "link": "https://dev.to/ivkemilioner/how-to-dynamically-change-collection-in-from-client-side--5oa",
+    "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Remix SaaS kit Changelog #4 - Blogging",
-    "link": "https://dev.to/alexandromtzg/remix-saas-kit-changelog-4-blogging-4n70",
-    "date": "4/28/2022",
+    "title": "Quest - Convert Figma to React",
+    "link": "https://dev.to/andrew_jasper/quest-convert-figma-to-react-3ff2",
+    "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "What is the difference between Functional and Class Based Component and How to convert one another?",
-    "link": "https://dev.to/akinkarayun/what-is-the-difference-between-functional-and-class-based-component-and-how-to-convert-one-another-4j0k",
-    "date": "4/28/2022",
+    "title": "How to build faster animation transitions in React",
+    "link": "https://dev.to/logrocket/how-to-build-faster-animation-transitions-in-react-1a4m",
+    "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Making your datepicker easier to work with",
-    "link": "https://dev.to/dgreene1/making-your-datepicker-easier-to-work-with-21n4",
-    "date": "4/28/2022",
+    "title": "Made online code compiler",
+    "link": "https://dev.to/nisabmohd/made-online-code-compiler-1d2",
+    "date": "4/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "What`s new in React v18",
-    "link": "https://dev.to/bitlogix/whats-new-in-react-v18-27c8",
-    "date": "4/7/2022",
+    "title": "Your first Turborepo",
+    "link": "https://dev.to/siddharthvenkatesh/your-first-turborepo-1lo",
+    "date": "4/29/2022",
     "site": "dev.to"
+  },
+  {
+    "title": "How to dynamically change collection in from client side ?",
+    "link": "https://dev.to/ivkemilioner/how-to-dynamically-change-collection-in-from-client-side--5oa",
+    "date": "4/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quest - Convert Figma to React",
+    "link": "https://dev.to/andrew_jasper/quest-convert-figma-to-react-3ff2",
+    "date": "4/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to build faster animation transitions in React",
+    "link": "https://dev.to/logrocket/how-to-build-faster-animation-transitions-in-react-1a4m",
+    "date": "4/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Made online code compiler",
+    "link": "https://dev.to/nisabmohd/made-online-code-compiler-1d2",
+    "date": "4/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your first Turborepo",
+    "link": "https://dev.to/siddharthvenkatesh/your-first-turborepo-1lo",
+    "date": "4/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to dynamically change collection in from client side ?",
+    "link": "https://dev.to/ivkemilioner/how-to-dynamically-change-collection-in-from-client-side--5oa",
+    "date": "4/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quest - Convert Figma to React",
+    "link": "https://dev.to/andrew_jasper/quest-convert-figma-to-react-3ff2",
+    "date": "4/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to build faster animation transitions in React",
+    "link": "https://dev.to/logrocket/how-to-build-faster-animation-transitions-in-react-1a4m",
+    "date": "4/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Made online code compiler",
+    "link": "https://dev.to/nisabmohd/made-online-code-compiler-1d2",
+    "date": "4/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your first Turborepo",
+    "link": "https://dev.to/siddharthvenkatesh/your-first-turborepo-1lo",
+    "date": "4/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Moving From React to React Native",
+    "link": "https://dev.to/bionicjulia/moving-from-react-to-react-native-3bbf",
+    "date": "4/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Moving From React to React Native",
+    "link": "https://dev.to/bionicjulia/moving-from-react-to-react-native-3bbf",
+    "date": "4/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Moving From React to React Native",
+    "link": "https://dev.to/bionicjulia/moving-from-react-to-react-native-3bbf",
+    "date": "4/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Moving From React to React Native",
+    "link": "https://dev.to/bionicjulia/moving-from-react-to-react-native-3bbf",
+    "date": "4/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Moving From React to React Native",
+    "link": "https://dev.to/bionicjulia/moving-from-react-to-react-native-3bbf",
+    "date": "4/23/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Basic Authentication with AWS Cognito & NextJS",
+    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
+    "date": "4/4/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Authentication with AWS Cognito & NextJS",
+    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
+    "date": "4/4/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Authentication with AWS Cognito & NextJS",
+    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
+    "date": "4/4/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Basic Authentication with AWS Cognito & NextJS",
+    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
+    "date": "4/4/2022",
+    "site": "hashnode"
   },
   {
     "title": "Basic Authentication with AWS Cognito & NextJS",
@@ -116,6 +500,30 @@
     "site": "hashnode"
   },
   {
+    "title": "Wikacy Reels App",
+    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
+    "date": "3/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wikacy Reels App",
+    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
+    "date": "3/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wikacy Reels App",
+    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
+    "date": "3/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wikacy Reels App",
+    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
+    "date": "3/8/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
     "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
     "reading_time": "24 min read",
@@ -127,6 +535,30 @@
     "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
     "date": "2/11/2022",
     "site": "css-tricks"
+  },
+  {
+    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
+    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
+    "date": "2/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
+    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
+    "date": "2/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
+    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
+    "date": "2/8/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
+    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
+    "date": "2/8/2022",
+    "site": "hashnode"
   },
   {
     "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
@@ -171,7 +603,7 @@
   {
     "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
     "link": "https://www.smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
-    "reading_time": "24 min read",
+    "reading_time": "25 min read",
     "date": "12/17/2021",
     "site": "smashingmagazine"
   },
@@ -208,9 +640,81 @@
     "site": "hashnode"
   },
   {
+    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
+    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
+    "date": "11/7/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
+    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
+    "date": "11/7/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
+    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
+    "date": "11/7/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
+    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
+    "date": "11/7/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "How to make a Jest Test for Error Boundaries",
     "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
     "date": "11/2/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a Jest Test for Error Boundaries",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
+    "date": "11/2/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a Jest Test for Error Boundaries",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
+    "date": "11/2/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a Jest Test for Error Boundaries",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
+    "date": "11/2/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a Jest Test for Error Boundaries",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
+    "date": "11/2/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to quickly add error tracking with Sentry",
+    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry",
+    "date": "10/24/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to quickly add error tracking with Sentry",
+    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry",
+    "date": "10/24/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to quickly add error tracking with Sentry",
+    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry",
+    "date": "10/24/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to quickly add error tracking with Sentry",
+    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry",
+    "date": "10/24/2021",
     "site": "hashnode"
   },
   {
@@ -226,10 +730,58 @@
     "site": "css-tricks"
   },
   {
+    "title": "How to make a simple slider component in React",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
+    "date": "10/17/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a simple slider component in React",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
+    "date": "10/17/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a simple slider component in React",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
+    "date": "10/17/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to make a simple slider component in React",
+    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
+    "date": "10/17/2021",
+    "site": "hashnode"
+  },
+  {
     "title": "Links on React and JavaScript II",
     "link": "https://css-tricks.com/links-on-react-and-javascript-ii/",
     "date": "10/1/2021",
     "site": "css-tricks"
+  },
+  {
+    "title": "How to add Cypress & Codecov in Github Actions in React App",
+    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
+    "date": "9/19/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add Cypress & Codecov in Github Actions in React App",
+    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
+    "date": "9/19/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add Cypress & Codecov in Github Actions in React App",
+    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
+    "date": "9/19/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add Cypress & Codecov in Github Actions in React App",
+    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
+    "date": "9/19/2021",
+    "site": "hashnode"
   },
   {
     "title": "Mars Theme: A Deep Look at Frontity’s Headless WordPress Theme",
@@ -244,144 +796,6 @@
     "site": "css-tricks"
   },
   {
-    "title": "How to Customize the React TreeView Component",
-    "link": "https://dev.to/syncfusion/how-to-customize-the-react-treeview-component-2n7g",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Desing Pattern: Control Props",
-    "link": "https://dev.to/wheel0ck/react-desing-pattern-control-props-4m8b",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Open-sourced 4 SaaS kits - Vue, Svelte, React, and NET",
-    "link": "https://dev.to/alexandromtzg/open-sourced-4-saas-kits-vue-svelte-react-and-net-4486",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rethinking our Remix admin routes",
-    "link": "https://dev.to/dailydevtips1/rethinking-our-remix-admin-routes-3dhh",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Frontend Internship Interview Experience",
-    "link": "https://dev.to/ashutoshdash/frontend-internship-interview-experience-54al",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript - Hoisting (2)",
-    "link": "https://dev.to/mykyta0723/javascript-hoisting-2-4676",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hot Reload Fails, DOM adds an additional iframe",
-    "link": "https://dev.to/atulbhattsystem32/hot-reload-fails-dom-adds-an-additional-iframe-45e7",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Portals for ArcGIS JSAPI Popups",
-    "link": "https://dev.to/odoenet/react-portals-for-arcgis-jsapi-popups-bnf",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why useNavigate hook in react-router v6 triggers waste re-renders and how to solve it",
-    "link": "https://dev.to/shallowdepth/why-usenavigate-hook-in-react-router-v6-triggers-waste-re-renders-and-how-to-solve-it-5566",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Tricks Miniseries 3: How to setup Routes",
-    "link": "https://dev.to/urielbitton/react-tricks-miniseries-3-how-to-setup-routes-1je6",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to configure ESLint, Prettier, Husky, Lint-staged into a React project with TypeScript and Tailwind CSS",
-    "link": "https://dev.to/ixartz/how-to-configure-eslint-prettier-husky-lint-staged-into-a-react-project-with-typescript-and-tailwind-css-4jp8",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Remix SaaS kit Changelog #4 - Blogging",
-    "link": "https://dev.to/alexandromtzg/remix-saas-kit-changelog-4-blogging-4n70",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is the difference between Functional and Class Based Component and How to convert one another?",
-    "link": "https://dev.to/akinkarayun/what-is-the-difference-between-functional-and-class-based-component-and-how-to-convert-one-another-4j0k",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making your datepicker easier to work with",
-    "link": "https://dev.to/dgreene1/making-your-datepicker-easier-to-work-with-21n4",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What`s new in React v18",
-    "link": "https://dev.to/bitlogix/whats-new-in-react-v18-27c8",
-    "date": "4/7/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Authentication with AWS Cognito & NextJS",
-    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
-    "date": "4/4/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Basic Authentication with AWS Cognito & NextJS",
-    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
-    "date": "4/4/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Wikacy Reels App",
-    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
-    "date": "3/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Wikacy Reels App",
-    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
-    "date": "3/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
-    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
-    "date": "2/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
-    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
-    "date": "2/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
-    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
-    "date": "11/7/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
-    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
-    "date": "11/7/2021",
-    "site": "hashnode"
-  },
-  {
     "title": "GraphQL On The Front-End (React And Apollo)",
     "link": "https://www.smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
     "reading_time": "15 min read",
@@ -389,29 +803,11 @@
     "site": "smashingmagazine"
   },
   {
-    "title": "How to make a Jest Test for Error Boundaries",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
-    "date": "11/2/2021",
-    "site": "hashnode"
-  },
-  {
     "title": "Optimizing Next.js Applications With Nx",
     "link": "https://www.smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
     "reading_time": "13 min read",
     "date": "10/26/2021",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "How to quickly add error tracking with Sentry",
-    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry",
-    "date": "10/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a simple slider component in React",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
-    "date": "10/17/2021",
-    "site": "hashnode"
   },
   {
     "title": "How to make a simple slider component in React",
@@ -425,12 +821,6 @@
     "reading_time": "10 min read",
     "date": "10/12/2021",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "How to add Cypress & Codecov in Github Actions in React App",
-    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
-    "date": "9/19/2021",
-    "site": "hashnode"
   },
   {
     "title": "How to add Cypress & Codecov in Github Actions in React App",
@@ -457,6 +847,24 @@
     "reading_time": "13 min read",
     "date": "8/27/2021",
     "site": "smashingmagazine"
+  },
+  {
+    "title": "How to close a React Native modal with a button",
+    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
+    "date": "8/16/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to close a React Native modal with a button",
+    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
+    "date": "8/16/2021",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to close a React Native modal with a button",
+    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
+    "date": "8/16/2021",
+    "site": "hashnode"
   },
   {
     "title": "How to close a React Native modal with a button",
@@ -500,7 +908,7 @@
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
@@ -520,7 +928,7 @@
   {
     "title": "Client-Side Routing In Next.js",
     "link": "https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "6/18/2021",
     "site": "smashingmagazine"
   },
@@ -540,7 +948,7 @@
   {
     "title": "Get Started With React By Building A Whac-A-Mole Game",
     "link": "https://www.smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-    "reading_time": "31 min read",
+    "reading_time": "30 min read",
     "date": "5/10/2021",
     "site": "smashingmagazine"
   },
@@ -622,418 +1030,40 @@
     "site": "css-tricks"
   },
   {
+    "title": "Some Important concepts while using React \n#Learnings-1",
+    "link": "https://dubesar.hashnode.dev/some-important-concepts-while-using-react-learnings-1",
+    "date": "11/19/2020",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Handy Libraries Every React Developer Should Know",
+    "link": "https://blog.udaya.dev/5-handy-libraries-every-react-developer-should-know",
+    "date": "11/5/2020",
+    "site": "hashnode"
+  },
+  {
+    "title": "Optimise React with useMemo and React.memo",
+    "link": "https://kelvinmwinuka.com/optimise-react-with-usememo-and-reactmemo",
+    "date": "10/7/2020",
+    "site": "hashnode"
+  },
+  {
+    "title": "Manage React State with useReducer",
+    "link": "https://kelvinmwinuka.com/manage-react-state-with-usereducer",
+    "date": "8/21/2020",
+    "site": "hashnode"
+  },
+  {
+    "title": "Easy Workbox Integration with create-react-app",
+    "link": "https://kelvinmwinuka.com/easy-workbox-integration-with-create-react-app",
+    "date": "8/5/2020",
+    "site": "hashnode"
+  },
+  {
     "title": "Using Your Own Design System with KendoReact Components",
     "link": "https://css-tricks.com/using-your-own-design-system-with-kendoreact-components/",
     "date": "",
     "site": "css-tricks"
-  },
-  {
-    "title": "How to Customize the React TreeView Component",
-    "link": "https://dev.to/syncfusion/how-to-customize-the-react-treeview-component-2n7g",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Desing Pattern: Control Props",
-    "link": "https://dev.to/wheel0ck/react-desing-pattern-control-props-4m8b",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Open-sourced 4 SaaS kits - Vue, Svelte, React, and NET",
-    "link": "https://dev.to/alexandromtzg/open-sourced-4-saas-kits-vue-svelte-react-and-net-4486",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rethinking our Remix admin routes",
-    "link": "https://dev.to/dailydevtips1/rethinking-our-remix-admin-routes-3dhh",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Frontend Internship Interview Experience",
-    "link": "https://dev.to/ashutoshdash/frontend-internship-interview-experience-54al",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript - Hoisting (2)",
-    "link": "https://dev.to/mykyta0723/javascript-hoisting-2-4676",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Customize the React TreeView Component",
-    "link": "https://dev.to/syncfusion/how-to-customize-the-react-treeview-component-2n7g",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Desing Pattern: Control Props",
-    "link": "https://dev.to/wheel0ck/react-desing-pattern-control-props-4m8b",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Open-sourced 4 SaaS kits - Vue, Svelte, React, and NET",
-    "link": "https://dev.to/alexandromtzg/open-sourced-4-saas-kits-vue-svelte-react-and-net-4486",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rethinking our Remix admin routes",
-    "link": "https://dev.to/dailydevtips1/rethinking-our-remix-admin-routes-3dhh",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Frontend Internship Interview Experience",
-    "link": "https://dev.to/ashutoshdash/frontend-internship-interview-experience-54al",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript - Hoisting (2)",
-    "link": "https://dev.to/mykyta0723/javascript-hoisting-2-4676",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Customize the React TreeView Component",
-    "link": "https://dev.to/syncfusion/how-to-customize-the-react-treeview-component-2n7g",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Desing Pattern: Control Props",
-    "link": "https://dev.to/wheel0ck/react-desing-pattern-control-props-4m8b",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Open-sourced 4 SaaS kits - Vue, Svelte, React, and NET",
-    "link": "https://dev.to/alexandromtzg/open-sourced-4-saas-kits-vue-svelte-react-and-net-4486",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rethinking our Remix admin routes",
-    "link": "https://dev.to/dailydevtips1/rethinking-our-remix-admin-routes-3dhh",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Frontend Internship Interview Experience",
-    "link": "https://dev.to/ashutoshdash/frontend-internship-interview-experience-54al",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript - Hoisting (2)",
-    "link": "https://dev.to/mykyta0723/javascript-hoisting-2-4676",
-    "date": "4/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hot Reload Fails, DOM adds an additional iframe",
-    "link": "https://dev.to/atulbhattsystem32/hot-reload-fails-dom-adds-an-additional-iframe-45e7",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Portals for ArcGIS JSAPI Popups",
-    "link": "https://dev.to/odoenet/react-portals-for-arcgis-jsapi-popups-bnf",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why useNavigate hook in react-router v6 triggers waste re-renders and how to solve it",
-    "link": "https://dev.to/shallowdepth/why-usenavigate-hook-in-react-router-v6-triggers-waste-re-renders-and-how-to-solve-it-5566",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Tricks Miniseries 3: How to setup Routes",
-    "link": "https://dev.to/urielbitton/react-tricks-miniseries-3-how-to-setup-routes-1je6",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to configure ESLint, Prettier, Husky, Lint-staged into a React project with TypeScript and Tailwind CSS",
-    "link": "https://dev.to/ixartz/how-to-configure-eslint-prettier-husky-lint-staged-into-a-react-project-with-typescript-and-tailwind-css-4jp8",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Remix SaaS kit Changelog #4 - Blogging",
-    "link": "https://dev.to/alexandromtzg/remix-saas-kit-changelog-4-blogging-4n70",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is the difference between Functional and Class Based Component and How to convert one another?",
-    "link": "https://dev.to/akinkarayun/what-is-the-difference-between-functional-and-class-based-component-and-how-to-convert-one-another-4j0k",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making your datepicker easier to work with",
-    "link": "https://dev.to/dgreene1/making-your-datepicker-easier-to-work-with-21n4",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hot Reload Fails, DOM adds an additional iframe",
-    "link": "https://dev.to/atulbhattsystem32/hot-reload-fails-dom-adds-an-additional-iframe-45e7",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Portals for ArcGIS JSAPI Popups",
-    "link": "https://dev.to/odoenet/react-portals-for-arcgis-jsapi-popups-bnf",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why useNavigate hook in react-router v6 triggers waste re-renders and how to solve it",
-    "link": "https://dev.to/shallowdepth/why-usenavigate-hook-in-react-router-v6-triggers-waste-re-renders-and-how-to-solve-it-5566",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Tricks Miniseries 3: How to setup Routes",
-    "link": "https://dev.to/urielbitton/react-tricks-miniseries-3-how-to-setup-routes-1je6",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to configure ESLint, Prettier, Husky, Lint-staged into a React project with TypeScript and Tailwind CSS",
-    "link": "https://dev.to/ixartz/how-to-configure-eslint-prettier-husky-lint-staged-into-a-react-project-with-typescript-and-tailwind-css-4jp8",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Remix SaaS kit Changelog #4 - Blogging",
-    "link": "https://dev.to/alexandromtzg/remix-saas-kit-changelog-4-blogging-4n70",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is the difference between Functional and Class Based Component and How to convert one another?",
-    "link": "https://dev.to/akinkarayun/what-is-the-difference-between-functional-and-class-based-component-and-how-to-convert-one-another-4j0k",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making your datepicker easier to work with",
-    "link": "https://dev.to/dgreene1/making-your-datepicker-easier-to-work-with-21n4",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hot Reload Fails, DOM adds an additional iframe",
-    "link": "https://dev.to/atulbhattsystem32/hot-reload-fails-dom-adds-an-additional-iframe-45e7",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Portals for ArcGIS JSAPI Popups",
-    "link": "https://dev.to/odoenet/react-portals-for-arcgis-jsapi-popups-bnf",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why useNavigate hook in react-router v6 triggers waste re-renders and how to solve it",
-    "link": "https://dev.to/shallowdepth/why-usenavigate-hook-in-react-router-v6-triggers-waste-re-renders-and-how-to-solve-it-5566",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Tricks Miniseries 3: How to setup Routes",
-    "link": "https://dev.to/urielbitton/react-tricks-miniseries-3-how-to-setup-routes-1je6",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to configure ESLint, Prettier, Husky, Lint-staged into a React project with TypeScript and Tailwind CSS",
-    "link": "https://dev.to/ixartz/how-to-configure-eslint-prettier-husky-lint-staged-into-a-react-project-with-typescript-and-tailwind-css-4jp8",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Remix SaaS kit Changelog #4 - Blogging",
-    "link": "https://dev.to/alexandromtzg/remix-saas-kit-changelog-4-blogging-4n70",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is the difference between Functional and Class Based Component and How to convert one another?",
-    "link": "https://dev.to/akinkarayun/what-is-the-difference-between-functional-and-class-based-component-and-how-to-convert-one-another-4j0k",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making your datepicker easier to work with",
-    "link": "https://dev.to/dgreene1/making-your-datepicker-easier-to-work-with-21n4",
-    "date": "4/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What`s new in React v18",
-    "link": "https://dev.to/bitlogix/whats-new-in-react-v18-27c8",
-    "date": "4/7/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What`s new in React v18",
-    "link": "https://dev.to/bitlogix/whats-new-in-react-v18-27c8",
-    "date": "4/7/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What`s new in React v18",
-    "link": "https://dev.to/bitlogix/whats-new-in-react-v18-27c8",
-    "date": "4/7/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Authentication with AWS Cognito & NextJS",
-    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
-    "date": "4/4/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Basic Authentication with AWS Cognito & NextJS",
-    "link": "https://kelvinmwinuka.com/basic-authentication-with-aws-cognito-and-nextjs",
-    "date": "4/4/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Wikacy Reels App",
-    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
-    "date": "3/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Wikacy Reels App",
-    "link": "https://wikacy.hashnode.dev/wikacy-reels-app",
-    "date": "3/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
-    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
-    "date": "2/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Building a Full Stack NFT Minting DApp Using Hardhat, Ethers.js, Next.js, and TailwindCSS",
-    "link": "https://e84655f9-cdee-4a12-9cfb-8fa1adb4bc9b.hashnode.dev/building-a-full-stack-nft-minting-dapp-using-hardhat-ethersjs-nextjs-and-tailwindcss",
-    "date": "2/8/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
-    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
-    "date": "11/7/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to use global mixins and variables with CSS Modules in React with SASS",
-    "link": "https://relatablecode.hashnode.dev/how-to-use-global-mixins-and-variables-with-css-modules-in-react-with-sass",
-    "date": "11/7/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a Jest Test for Error Boundaries",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
-    "date": "11/2/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a Jest Test for Error Boundaries",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
-    "date": "11/2/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a Jest Test for Error Boundaries",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-jest-test-for-error-boundaries",
-    "date": "11/2/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to quickly add error tracking with Sentry",
-    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry",
-    "date": "10/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to quickly add error tracking with Sentry",
-    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry",
-    "date": "10/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to quickly add error tracking with Sentry",
-    "link": "https://relatablecode.hashnode.dev/how-to-quickly-add-error-tracking-with-sentry",
-    "date": "10/24/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a simple slider component in React",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
-    "date": "10/17/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a simple slider component in React",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
-    "date": "10/17/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to make a simple slider component in React",
-    "link": "https://relatablecode.hashnode.dev/how-to-make-a-simple-slider-component-in-react",
-    "date": "10/17/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add Cypress & Codecov in Github Actions in React App",
-    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
-    "date": "9/19/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add Cypress & Codecov in Github Actions in React App",
-    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
-    "date": "9/19/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to add Cypress & Codecov in Github Actions in React App",
-    "link": "https://relatablecode.hashnode.dev/how-to-add-cypress-and-codecov-in-github-actions-in-react-app",
-    "date": "9/19/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to close a React Native modal with a button",
-    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
-    "date": "8/16/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to close a React Native modal with a button",
-    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
-    "date": "8/16/2021",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to close a React Native modal with a button",
-    "link": "https://cindyptn.hashnode.dev/how-to-close-a-react-native-modal-with-a-button",
-    "date": "8/16/2021",
-    "site": "hashnode"
   },
   {
     "title": "Building A Stocks Price Notifier App Using React, Apollo GraphQL And Hasura",
@@ -1068,12 +1098,6 @@
     "link": "https://css-tricks.com/pre-caching-image-with-react-suspense/",
     "date": "11/21/2020",
     "site": "css-tricks"
-  },
-  {
-    "title": "Some Important concepts while using React \n#Learnings-1",
-    "link": "https://dubesar.hashnode.dev/some-important-concepts-while-using-react-learnings-1",
-    "date": "11/19/2020",
-    "site": "hashnode"
   },
   {
     "title": "Some Important concepts while using React \n#Learnings-1",
@@ -1140,12 +1164,6 @@
     "site": "hashnode"
   },
   {
-    "title": "5 Handy Libraries Every React Developer Should Know",
-    "link": "https://blog.udaya.dev/5-handy-libraries-every-react-developer-should-know",
-    "date": "11/5/2020",
-    "site": "hashnode"
-  },
-  {
     "title": "Data Visualization With ApexCharts",
     "link": "https://www.smashingmagazine.com/2020/11/data-visualization-apexcharts/",
     "reading_time": "15 min read",
@@ -1167,14 +1185,14 @@
   {
     "title": "How To Build A GraphQL Server Using Next.js API Routes",
     "link": "https://www.smashingmagazine.com/2020/10/graphql-server-next-javascript-api-routes/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "10/29/2020",
     "site": "smashingmagazine"
   },
   {
     "title": "Introducing Framer Motion",
     "link": "https://www.smashingmagazine.com/2020/10/introduction-to-framer-motion/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "10/26/2020",
     "site": "smashingmagazine"
   },
@@ -1238,12 +1256,6 @@
     "site": "hashnode"
   },
   {
-    "title": "Optimise React with useMemo and React.memo",
-    "link": "https://kelvinmwinuka.com/optimise-react-with-usememo-and-reactmemo",
-    "date": "10/7/2020",
-    "site": "hashnode"
-  },
-  {
     "title": "Unit Testing In React Native Applications",
     "link": "https://www.smashingmagazine.com/2020/09/unit-testing-react-native-applications/",
     "reading_time": "12 min read",
@@ -1260,7 +1272,7 @@
   {
     "title": "Animating React Components With GreenSock",
     "link": "https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "9/14/2020",
     "site": "smashingmagazine"
   },
@@ -1316,22 +1328,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Manage React State with useReducer",
-    "link": "https://kelvinmwinuka.com/manage-react-state-with-usereducer",
-    "date": "8/21/2020",
-    "site": "hashnode"
-  },
-  {
     "title": "radEventListener: a Tale of Client-side Framework Performance",
     "link": "https://css-tricks.com/radeventlistener-a-tale-of-client-side-framework-performance/",
     "date": "8/18/2020",
     "site": "css-tricks"
-  },
-  {
-    "title": "Easy Workbox Integration with create-react-app",
-    "link": "https://kelvinmwinuka.com/easy-workbox-integration-with-create-react-app",
-    "date": "8/5/2020",
-    "site": "hashnode"
   },
   {
     "title": "Easy Workbox Integration with create-react-app",
