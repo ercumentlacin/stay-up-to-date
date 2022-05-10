@@ -1,55 +1,433 @@
 [
   {
+    "title": "Tell me a stupid app idea and I'll make it",
+    "link": "https://dev.to/virejdasani/tell-me-a-stupid-app-idea-and-ill-make-it-1a9f",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Khi nào dùng useMemo và useCallback - Phần 3",
+    "link": "https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-3-475o",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Khi nào dùng useMemo và useCallback - Phần 2",
+    "link": "https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-2-79k",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using modal dialogs in React via useModal hook. As simple as possible.",
+    "link": "https://dev.to/devterminal/using-modal-dialogs-in-react-via-usemodal-hook-as-simple-as-possible-29nh",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Oddly Conventional",
+    "link": "https://dev.to/benlimpic/oddly-conventional-5e41",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Some of the React.",
+    "link": "https://dev.to/foolhardy21/some-of-the-react-4iam",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Self-invoking function as React children",
+    "link": "https://dev.to/devterminal/self-invoking-function-as-react-children-f3d",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Get Whitelisted",
+    "link": "https://dev.to/cemkaanguru/get-whitelisted-1c33",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Thoughts on our first production hasura deployment",
+    "link": "https://dev.to/simonhorlick/thoughts-on-our-first-production-hasura-deployment-4i2g",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Node.js Booking App Full Tutorial | MERN Stack Reservation App (JWT, Cookies, Context API)",
+    "link": "https://dev.to/wenura/react-nodejs-booking-app-full-tutorial-mern-stack-reservation-app-jwt-cookies-context-api-314e",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding an animated state to our Remix form",
+    "link": "https://dev.to/dailydevtips1/adding-an-animated-state-to-our-remix-form-3fmj",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A way to simplify reducer",
+    "link": "https://dev.to/dev9x/a-way-to-simplify-reducer-bkc",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create the fastest search for your website in minutes, without any dependencies ⚡🔎",
+    "link": "https://dev.to/dhravya/create-the-fastest-search-for-your-website-in-minutes-without-any-dependencies-56me",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Hook Series - useState()",
+    "link": "https://dev.to/mertcannkocerr/reactjs-hook-series-usestate-4acc",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tell me a stupid app idea and I'll make it",
+    "link": "https://dev.to/virejdasani/tell-me-a-stupid-app-idea-and-ill-make-it-1a9f",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Khi nào dùng useMemo và useCallback - Phần 3",
+    "link": "https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-3-475o",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Khi nào dùng useMemo và useCallback - Phần 2",
+    "link": "https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-2-79k",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using modal dialogs in React via useModal hook. As simple as possible.",
+    "link": "https://dev.to/devterminal/using-modal-dialogs-in-react-via-usemodal-hook-as-simple-as-possible-29nh",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Oddly Conventional",
+    "link": "https://dev.to/benlimpic/oddly-conventional-5e41",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Some of the React.",
+    "link": "https://dev.to/foolhardy21/some-of-the-react-4iam",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Self-invoking function as React children",
+    "link": "https://dev.to/devterminal/self-invoking-function-as-react-children-f3d",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Get Whitelisted",
+    "link": "https://dev.to/cemkaanguru/get-whitelisted-1c33",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Thoughts on our first production hasura deployment",
+    "link": "https://dev.to/simonhorlick/thoughts-on-our-first-production-hasura-deployment-4i2g",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Node.js Booking App Full Tutorial | MERN Stack Reservation App (JWT, Cookies, Context API)",
+    "link": "https://dev.to/wenura/react-nodejs-booking-app-full-tutorial-mern-stack-reservation-app-jwt-cookies-context-api-314e",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding an animated state to our Remix form",
+    "link": "https://dev.to/dailydevtips1/adding-an-animated-state-to-our-remix-form-3fmj",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A way to simplify reducer",
+    "link": "https://dev.to/dev9x/a-way-to-simplify-reducer-bkc",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create the fastest search for your website in minutes, without any dependencies ⚡🔎",
+    "link": "https://dev.to/dhravya/create-the-fastest-search-for-your-website-in-minutes-without-any-dependencies-56me",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Hook Series - useState()",
+    "link": "https://dev.to/mertcannkocerr/reactjs-hook-series-usestate-4acc",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tell me a stupid app idea and I'll make it",
+    "link": "https://dev.to/virejdasani/tell-me-a-stupid-app-idea-and-ill-make-it-1a9f",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Khi nào dùng useMemo và useCallback - Phần 3",
+    "link": "https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-3-475o",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Khi nào dùng useMemo và useCallback - Phần 2",
+    "link": "https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-2-79k",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using modal dialogs in React via useModal hook. As simple as possible.",
+    "link": "https://dev.to/devterminal/using-modal-dialogs-in-react-via-usemodal-hook-as-simple-as-possible-29nh",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Oddly Conventional",
+    "link": "https://dev.to/benlimpic/oddly-conventional-5e41",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Some of the React.",
+    "link": "https://dev.to/foolhardy21/some-of-the-react-4iam",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Self-invoking function as React children",
+    "link": "https://dev.to/devterminal/self-invoking-function-as-react-children-f3d",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Get Whitelisted",
+    "link": "https://dev.to/cemkaanguru/get-whitelisted-1c33",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Thoughts on our first production hasura deployment",
+    "link": "https://dev.to/simonhorlick/thoughts-on-our-first-production-hasura-deployment-4i2g",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Node.js Booking App Full Tutorial | MERN Stack Reservation App (JWT, Cookies, Context API)",
+    "link": "https://dev.to/wenura/react-nodejs-booking-app-full-tutorial-mern-stack-reservation-app-jwt-cookies-context-api-314e",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding an animated state to our Remix form",
+    "link": "https://dev.to/dailydevtips1/adding-an-animated-state-to-our-remix-form-3fmj",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A way to simplify reducer",
+    "link": "https://dev.to/dev9x/a-way-to-simplify-reducer-bkc",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create the fastest search for your website in minutes, without any dependencies ⚡🔎",
+    "link": "https://dev.to/dhravya/create-the-fastest-search-for-your-website-in-minutes-without-any-dependencies-56me",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Hook Series - useState()",
+    "link": "https://dev.to/mertcannkocerr/reactjs-hook-series-usestate-4acc",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tell me a stupid app idea and I'll make it",
+    "link": "https://dev.to/virejdasani/tell-me-a-stupid-app-idea-and-ill-make-it-1a9f",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Khi nào dùng useMemo và useCallback - Phần 3",
+    "link": "https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-3-475o",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Khi nào dùng useMemo và useCallback - Phần 2",
+    "link": "https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-2-79k",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using modal dialogs in React via useModal hook. As simple as possible.",
+    "link": "https://dev.to/devterminal/using-modal-dialogs-in-react-via-usemodal-hook-as-simple-as-possible-29nh",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Oddly Conventional",
+    "link": "https://dev.to/benlimpic/oddly-conventional-5e41",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Some of the React.",
+    "link": "https://dev.to/foolhardy21/some-of-the-react-4iam",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Self-invoking function as React children",
+    "link": "https://dev.to/devterminal/self-invoking-function-as-react-children-f3d",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Get Whitelisted",
+    "link": "https://dev.to/cemkaanguru/get-whitelisted-1c33",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Thoughts on our first production hasura deployment",
+    "link": "https://dev.to/simonhorlick/thoughts-on-our-first-production-hasura-deployment-4i2g",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Node.js Booking App Full Tutorial | MERN Stack Reservation App (JWT, Cookies, Context API)",
+    "link": "https://dev.to/wenura/react-nodejs-booking-app-full-tutorial-mern-stack-reservation-app-jwt-cookies-context-api-314e",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding an animated state to our Remix form",
+    "link": "https://dev.to/dailydevtips1/adding-an-animated-state-to-our-remix-form-3fmj",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A way to simplify reducer",
+    "link": "https://dev.to/dev9x/a-way-to-simplify-reducer-bkc",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create the fastest search for your website in minutes, without any dependencies ⚡🔎",
+    "link": "https://dev.to/dhravya/create-the-fastest-search-for-your-website-in-minutes-without-any-dependencies-56me",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Hook Series - useState()",
+    "link": "https://dev.to/mertcannkocerr/reactjs-hook-series-usestate-4acc",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tell me a stupid app idea and I'll make it",
+    "link": "https://dev.to/virejdasani/tell-me-a-stupid-app-idea-and-ill-make-it-1a9f",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Khi nào dùng useMemo và useCallback - Phần 3",
+    "link": "https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-3-475o",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Khi nào dùng useMemo và useCallback - Phần 2",
+    "link": "https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-2-79k",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using modal dialogs in React via useModal hook. As simple as possible.",
+    "link": "https://dev.to/devterminal/using-modal-dialogs-in-react-via-usemodal-hook-as-simple-as-possible-29nh",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Oddly Conventional",
+    "link": "https://dev.to/benlimpic/oddly-conventional-5e41",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Some of the React.",
+    "link": "https://dev.to/foolhardy21/some-of-the-react-4iam",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Self-invoking function as React children",
+    "link": "https://dev.to/devterminal/self-invoking-function-as-react-children-f3d",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Get Whitelisted",
+    "link": "https://dev.to/cemkaanguru/get-whitelisted-1c33",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Thoughts on our first production hasura deployment",
+    "link": "https://dev.to/simonhorlick/thoughts-on-our-first-production-hasura-deployment-4i2g",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Node.js Booking App Full Tutorial | MERN Stack Reservation App (JWT, Cookies, Context API)",
+    "link": "https://dev.to/wenura/react-nodejs-booking-app-full-tutorial-mern-stack-reservation-app-jwt-cookies-context-api-314e",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding an animated state to our Remix form",
+    "link": "https://dev.to/dailydevtips1/adding-an-animated-state-to-our-remix-form-3fmj",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A way to simplify reducer",
+    "link": "https://dev.to/dev9x/a-way-to-simplify-reducer-bkc",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create the fastest search for your website in minutes, without any dependencies ⚡🔎",
+    "link": "https://dev.to/dhravya/create-the-fastest-search-for-your-website-in-minutes-without-any-dependencies-56me",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Hook Series - useState()",
+    "link": "https://dev.to/mertcannkocerr/reactjs-hook-series-usestate-4acc",
+    "date": "5/10/2022",
+    "site": "dev.to"
+  },
+  {
     "title": "Which functions/methods do you...",
     "link": "https://dev.to/joelbonetr/which-functionsmethods-do-you-484m",
     "date": "5/9/2022",
     "site": "dev.to"
   },
   {
-    "title": "React Alternatives Frameworks",
-    "link": "https://dev.to/stevend2212/react-alternatives-frameworks-36hi",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best & trendiest Free Chakra UI Components! ⚡",
-    "link": "https://dev.to/fredy/best-trendiest-free-chakra-ui-components-41dk",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Handling errors in Remix forms",
-    "link": "https://dev.to/dailydevtips1/handling-errors-in-remix-forms-j7o",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Membuat Compound Components di Reactjs",
-    "link": "https://dev.to/alfianandinugraha/membuat-compound-components-di-reactjs-2hcc",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Main Advantages of React JS Development",
-    "link": "https://dev.to/whotarusharora/10-main-advantages-of-react-js-development-5447",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Authentication using Appwrite in React - Part 2",
-    "link": "https://dev.to/thevinitgupta/authentication-using-appwrite-in-react-part-2-4bfa",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How do I get started to work as web3 developer?",
-    "link": "https://dev.to/shubham2270/how-do-i-get-started-to-work-as-web3-developer-3jk7",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React + Eslint + Prettier + Tailwind Configuration",
-    "link": "https://dev.to/raview69/react-eslint-prettier-tailwind-configuration-ek8",
+    "title": "Which functions/methods do you...",
+    "link": "https://dev.to/joelbonetr/which-functionsmethods-do-you-484m",
     "date": "5/9/2022",
     "site": "dev.to"
   },
@@ -60,50 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "React Alternatives Frameworks",
-    "link": "https://dev.to/stevend2212/react-alternatives-frameworks-36hi",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best & trendiest Free Chakra UI Components! ⚡",
-    "link": "https://dev.to/fredy/best-trendiest-free-chakra-ui-components-41dk",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Handling errors in Remix forms",
-    "link": "https://dev.to/dailydevtips1/handling-errors-in-remix-forms-j7o",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Membuat Compound Components di Reactjs",
-    "link": "https://dev.to/alfianandinugraha/membuat-compound-components-di-reactjs-2hcc",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Main Advantages of React JS Development",
-    "link": "https://dev.to/whotarusharora/10-main-advantages-of-react-js-development-5447",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Authentication using Appwrite in React - Part 2",
-    "link": "https://dev.to/thevinitgupta/authentication-using-appwrite-in-react-part-2-4bfa",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How do I get started to work as web3 developer?",
-    "link": "https://dev.to/shubham2270/how-do-i-get-started-to-work-as-web3-developer-3jk7",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React + Eslint + Prettier + Tailwind Configuration",
-    "link": "https://dev.to/raview69/react-eslint-prettier-tailwind-configuration-ek8",
+    "title": "Which functions/methods do you...",
+    "link": "https://dev.to/joelbonetr/which-functionsmethods-do-you-484m",
     "date": "5/9/2022",
     "site": "dev.to"
   },
@@ -111,342 +447,6 @@
     "title": "Which functions/methods do you...",
     "link": "https://dev.to/joelbonetr/which-functionsmethods-do-you-484m",
     "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Alternatives Frameworks",
-    "link": "https://dev.to/stevend2212/react-alternatives-frameworks-36hi",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best & trendiest Free Chakra UI Components! ⚡",
-    "link": "https://dev.to/fredy/best-trendiest-free-chakra-ui-components-41dk",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Handling errors in Remix forms",
-    "link": "https://dev.to/dailydevtips1/handling-errors-in-remix-forms-j7o",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Membuat Compound Components di Reactjs",
-    "link": "https://dev.to/alfianandinugraha/membuat-compound-components-di-reactjs-2hcc",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Main Advantages of React JS Development",
-    "link": "https://dev.to/whotarusharora/10-main-advantages-of-react-js-development-5447",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Authentication using Appwrite in React - Part 2",
-    "link": "https://dev.to/thevinitgupta/authentication-using-appwrite-in-react-part-2-4bfa",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How do I get started to work as web3 developer?",
-    "link": "https://dev.to/shubham2270/how-do-i-get-started-to-work-as-web3-developer-3jk7",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React + Eslint + Prettier + Tailwind Configuration",
-    "link": "https://dev.to/raview69/react-eslint-prettier-tailwind-configuration-ek8",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Which functions/methods do you...",
-    "link": "https://dev.to/joelbonetr/which-functionsmethods-do-you-484m",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Alternatives Frameworks",
-    "link": "https://dev.to/stevend2212/react-alternatives-frameworks-36hi",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best & trendiest Free Chakra UI Components! ⚡",
-    "link": "https://dev.to/fredy/best-trendiest-free-chakra-ui-components-41dk",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Handling errors in Remix forms",
-    "link": "https://dev.to/dailydevtips1/handling-errors-in-remix-forms-j7o",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Membuat Compound Components di Reactjs",
-    "link": "https://dev.to/alfianandinugraha/membuat-compound-components-di-reactjs-2hcc",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Main Advantages of React JS Development",
-    "link": "https://dev.to/whotarusharora/10-main-advantages-of-react-js-development-5447",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Authentication using Appwrite in React - Part 2",
-    "link": "https://dev.to/thevinitgupta/authentication-using-appwrite-in-react-part-2-4bfa",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How do I get started to work as web3 developer?",
-    "link": "https://dev.to/shubham2270/how-do-i-get-started-to-work-as-web3-developer-3jk7",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React + Eslint + Prettier + Tailwind Configuration",
-    "link": "https://dev.to/raview69/react-eslint-prettier-tailwind-configuration-ek8",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Which functions/methods do you...",
-    "link": "https://dev.to/joelbonetr/which-functionsmethods-do-you-484m",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Alternatives Frameworks",
-    "link": "https://dev.to/stevend2212/react-alternatives-frameworks-36hi",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best & trendiest Free Chakra UI Components! ⚡",
-    "link": "https://dev.to/fredy/best-trendiest-free-chakra-ui-components-41dk",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Handling errors in Remix forms",
-    "link": "https://dev.to/dailydevtips1/handling-errors-in-remix-forms-j7o",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Membuat Compound Components di Reactjs",
-    "link": "https://dev.to/alfianandinugraha/membuat-compound-components-di-reactjs-2hcc",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Main Advantages of React JS Development",
-    "link": "https://dev.to/whotarusharora/10-main-advantages-of-react-js-development-5447",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Authentication using Appwrite in React - Part 2",
-    "link": "https://dev.to/thevinitgupta/authentication-using-appwrite-in-react-part-2-4bfa",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How do I get started to work as web3 developer?",
-    "link": "https://dev.to/shubham2270/how-do-i-get-started-to-work-as-web3-developer-3jk7",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React + Eslint + Prettier + Tailwind Configuration",
-    "link": "https://dev.to/raview69/react-eslint-prettier-tailwind-configuration-ek8",
-    "date": "5/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Uploading files to Firebase Storage using React",
-    "link": "https://dev.to/ashusharmatech/uploading-files-to-firebase-storage-using-react-517p",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Upgrading React Router From V5 to V6",
-    "link": "https://dev.to/jumbo02/upgrading-react-router-from-v5-to-v6-4286",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React debugging in VSCode",
-    "link": "https://dev.to/dealwith/react-debugging-in-vscode-1c0f",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ArJd-Live",
-    "link": "https://dev.to/archan9/arjd-live-3jpj",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Uploading files to Firebase Storage using React",
-    "link": "https://dev.to/ashusharmatech/uploading-files-to-firebase-storage-using-react-517p",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Upgrading React Router From V5 to V6",
-    "link": "https://dev.to/jumbo02/upgrading-react-router-from-v5-to-v6-4286",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React debugging in VSCode",
-    "link": "https://dev.to/dealwith/react-debugging-in-vscode-1c0f",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ArJd-Live",
-    "link": "https://dev.to/archan9/arjd-live-3jpj",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Uploading files to Firebase Storage using React",
-    "link": "https://dev.to/ashusharmatech/uploading-files-to-firebase-storage-using-react-517p",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Upgrading React Router From V5 to V6",
-    "link": "https://dev.to/jumbo02/upgrading-react-router-from-v5-to-v6-4286",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React debugging in VSCode",
-    "link": "https://dev.to/dealwith/react-debugging-in-vscode-1c0f",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ArJd-Live",
-    "link": "https://dev.to/archan9/arjd-live-3jpj",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Uploading files to Firebase Storage using React",
-    "link": "https://dev.to/ashusharmatech/uploading-files-to-firebase-storage-using-react-517p",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Upgrading React Router From V5 to V6",
-    "link": "https://dev.to/jumbo02/upgrading-react-router-from-v5-to-v6-4286",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React debugging in VSCode",
-    "link": "https://dev.to/dealwith/react-debugging-in-vscode-1c0f",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ArJd-Live",
-    "link": "https://dev.to/archan9/arjd-live-3jpj",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Uploading files to Firebase Storage using React",
-    "link": "https://dev.to/ashusharmatech/uploading-files-to-firebase-storage-using-react-517p",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Upgrading React Router From V5 to V6",
-    "link": "https://dev.to/jumbo02/upgrading-react-router-from-v5-to-v6-4286",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React debugging in VSCode",
-    "link": "https://dev.to/dealwith/react-debugging-in-vscode-1c0f",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ArJd-Live",
-    "link": "https://dev.to/archan9/arjd-live-3jpj",
-    "date": "5/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Dynamic Dependent Dropdown using React JS",
-    "link": "https://dev.to/jps27cse/build-dynamic-dependent-dropdown-using-react-js-3d9c",
-    "date": "5/7/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Dynamic Dependent Dropdown using React JS",
-    "link": "https://dev.to/jps27cse/build-dynamic-dependent-dropdown-using-react-js-3d9c",
-    "date": "5/7/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Dynamic Dependent Dropdown using React JS",
-    "link": "https://dev.to/jps27cse/build-dynamic-dependent-dropdown-using-react-js-3d9c",
-    "date": "5/7/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Dynamic Dependent Dropdown using React JS",
-    "link": "https://dev.to/jps27cse/build-dynamic-dependent-dropdown-using-react-js-3d9c",
-    "date": "5/7/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build Dynamic Dependent Dropdown using React JS",
-    "link": "https://dev.to/jps27cse/build-dynamic-dependent-dropdown-using-react-js-3d9c",
-    "date": "5/7/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using AMP Images in NextJS",
-    "link": "https://dev.to/bionicjulia/using-amp-images-in-nextjs-2k8",
-    "date": "4/30/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using AMP Images in NextJS",
-    "link": "https://dev.to/bionicjulia/using-amp-images-in-nextjs-2k8",
-    "date": "4/30/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using AMP Images in NextJS",
-    "link": "https://dev.to/bionicjulia/using-amp-images-in-nextjs-2k8",
-    "date": "4/30/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using AMP Images in NextJS",
-    "link": "https://dev.to/bionicjulia/using-amp-images-in-nextjs-2k8",
-    "date": "4/30/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using AMP Images in NextJS",
-    "link": "https://dev.to/bionicjulia/using-amp-images-in-nextjs-2k8",
-    "date": "4/30/2022",
     "site": "dev.to"
   },
   {
@@ -596,7 +596,7 @@
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -837,7 +837,7 @@
   {
     "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
     "link": "https://www.smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "9/9/2021",
     "site": "smashingmagazine"
   },
@@ -948,7 +948,7 @@
   {
     "title": "Get Started With React By Building A Whac-A-Mole Game",
     "link": "https://www.smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-    "reading_time": "31 min read",
+    "reading_time": "30 min read",
     "date": "5/10/2021",
     "site": "smashingmagazine"
   },
@@ -1185,14 +1185,14 @@
   {
     "title": "How To Build A GraphQL Server Using Next.js API Routes",
     "link": "https://www.smashingmagazine.com/2020/10/graphql-server-next-javascript-api-routes/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "10/29/2020",
     "site": "smashingmagazine"
   },
   {
     "title": "Introducing Framer Motion",
     "link": "https://www.smashingmagazine.com/2020/10/introduction-to-framer-motion/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "10/26/2020",
     "site": "smashingmagazine"
   },
@@ -1265,14 +1265,14 @@
   {
     "title": "Comparing Styling Methods In Next.js",
     "link": "https://www.smashingmagazine.com/2020/09/comparison-styling-methods-next-js/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "9/17/2020",
     "site": "smashingmagazine"
   },
   {
     "title": "Animating React Components With GreenSock",
     "link": "https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "9/14/2020",
     "site": "smashingmagazine"
   },
