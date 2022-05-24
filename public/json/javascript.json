@@ -1,127 +1,631 @@
 [
   {
+    "title": "JavaScript promises explained",
+    "link": "https://blog.thecode.xyz/javascript-promises-explained",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A brief history of JavaScript!!!",
+    "link": "https://kmdshojib.hashnode.dev/a-brief-history-of-javascript",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javacript promises",
+    "link": "https://ravindrapv.hashnode.dev/javacript-promises",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Running JavaScript in \"Background\"",
+    "link": "https://blog.yaox023.com/running-javascript-in-background",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js On Demand Revalidation with WordPress as a headless CMS",
+    "link": "https://ramonmetzker.dev/nextjs-on-demand-revalidation-with-wordpress",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "One-on-one Video Call Example in One HTML Page",
+    "link": "https://blog.yaox023.com/one-on-one-video-call-example-in-one-html-page",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "I made an AI that knows absolutely EVERYTHING",
+    "link": "https://dev.to/virejdasani/i-made-an-ai-that-knows-absolutely-everything-4p0d",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What Is JavaScript Doing On Your Page",
+    "link": "https://dev.to/lambdatest/what-is-javascript-doing-on-your-page-1oej",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Webhooks and How to Use Them in Strapi",
+    "link": "https://dev.to/strapi/webhooks-and-how-to-use-them-in-strapi-34ni",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Solutions for CodeWars Katas: Part 2",
+    "link": "https://dev.to/kimanikevin254/js-solutions-for-codewars-katas-part-2-30bm",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fit Form Keto [U.S] Reviews: A Healing Up Supplement For Fat Burn In 2022!",
+    "link": "https://dev.to/fitformketoget/fit-form-keto-us-reviews-a-healing-up-supplement-for-fat-burn-in-2022-2n4n",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What level of React are you in?",
+    "link": "https://dev.to/thremulant/what-level-of-react-are-you-in-46g",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "0. CSS - Fundamentals",
+    "link": "https://dev.to/maole/0-css-fundamentals-i06",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create contract in solidity - iFour Technolab",
+    "link": "https://dev.to/harshalsuthar/how-to-create-contract-in-solidity-ifour-technolab-4gko",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resist the Mist: Bouncing From Topic to Topic",
+    "link": "https://dev.to/lostoneway/resist-the-mist-bouncing-from-topic-to-topic-4",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build forms using React-Hook-Form and ChakraUi",
+    "link": "https://dev.to/wonder2210/build-forms-using-react-hook-form-and-chakraui-4087",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Practices - Day1.Expanding cards",
+    "link": "https://dev.to/lachellezhang/practices-day1expanding-cards-56od",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Print left view of binary tree",
+    "link": "https://dev.to/bvnkumar/print-left-view-of-binary-tree-554g",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "¿Qué es JavaScript?",
+    "link": "https://dev.to/kprieto/que-es-javascript-3i00",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript promises explained",
+    "link": "https://blog.thecode.xyz/javascript-promises-explained",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A brief history of JavaScript!!!",
+    "link": "https://kmdshojib.hashnode.dev/a-brief-history-of-javascript",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javacript promises",
+    "link": "https://ravindrapv.hashnode.dev/javacript-promises",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Running JavaScript in \"Background\"",
+    "link": "https://blog.yaox023.com/running-javascript-in-background",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js On Demand Revalidation with WordPress as a headless CMS",
+    "link": "https://ramonmetzker.dev/nextjs-on-demand-revalidation-with-wordpress",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "One-on-one Video Call Example in One HTML Page",
+    "link": "https://blog.yaox023.com/one-on-one-video-call-example-in-one-html-page",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "I made an AI that knows absolutely EVERYTHING",
+    "link": "https://dev.to/virejdasani/i-made-an-ai-that-knows-absolutely-everything-4p0d",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What Is JavaScript Doing On Your Page",
+    "link": "https://dev.to/lambdatest/what-is-javascript-doing-on-your-page-1oej",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Webhooks and How to Use Them in Strapi",
+    "link": "https://dev.to/strapi/webhooks-and-how-to-use-them-in-strapi-34ni",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Solutions for CodeWars Katas: Part 2",
+    "link": "https://dev.to/kimanikevin254/js-solutions-for-codewars-katas-part-2-30bm",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fit Form Keto [U.S] Reviews: A Healing Up Supplement For Fat Burn In 2022!",
+    "link": "https://dev.to/fitformketoget/fit-form-keto-us-reviews-a-healing-up-supplement-for-fat-burn-in-2022-2n4n",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What level of React are you in?",
+    "link": "https://dev.to/thremulant/what-level-of-react-are-you-in-46g",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "0. CSS - Fundamentals",
+    "link": "https://dev.to/maole/0-css-fundamentals-i06",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create contract in solidity - iFour Technolab",
+    "link": "https://dev.to/harshalsuthar/how-to-create-contract-in-solidity-ifour-technolab-4gko",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resist the Mist: Bouncing From Topic to Topic",
+    "link": "https://dev.to/lostoneway/resist-the-mist-bouncing-from-topic-to-topic-4",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build forms using React-Hook-Form and ChakraUi",
+    "link": "https://dev.to/wonder2210/build-forms-using-react-hook-form-and-chakraui-4087",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Practices - Day1.Expanding cards",
+    "link": "https://dev.to/lachellezhang/practices-day1expanding-cards-56od",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Print left view of binary tree",
+    "link": "https://dev.to/bvnkumar/print-left-view-of-binary-tree-554g",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "¿Qué es JavaScript?",
+    "link": "https://dev.to/kprieto/que-es-javascript-3i00",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript promises explained",
+    "link": "https://blog.thecode.xyz/javascript-promises-explained",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A brief history of JavaScript!!!",
+    "link": "https://kmdshojib.hashnode.dev/a-brief-history-of-javascript",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javacript promises",
+    "link": "https://ravindrapv.hashnode.dev/javacript-promises",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Running JavaScript in \"Background\"",
+    "link": "https://blog.yaox023.com/running-javascript-in-background",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js On Demand Revalidation with WordPress as a headless CMS",
+    "link": "https://ramonmetzker.dev/nextjs-on-demand-revalidation-with-wordpress",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "One-on-one Video Call Example in One HTML Page",
+    "link": "https://blog.yaox023.com/one-on-one-video-call-example-in-one-html-page",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "I made an AI that knows absolutely EVERYTHING",
+    "link": "https://dev.to/virejdasani/i-made-an-ai-that-knows-absolutely-everything-4p0d",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What Is JavaScript Doing On Your Page",
+    "link": "https://dev.to/lambdatest/what-is-javascript-doing-on-your-page-1oej",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Webhooks and How to Use Them in Strapi",
+    "link": "https://dev.to/strapi/webhooks-and-how-to-use-them-in-strapi-34ni",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Solutions for CodeWars Katas: Part 2",
+    "link": "https://dev.to/kimanikevin254/js-solutions-for-codewars-katas-part-2-30bm",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fit Form Keto [U.S] Reviews: A Healing Up Supplement For Fat Burn In 2022!",
+    "link": "https://dev.to/fitformketoget/fit-form-keto-us-reviews-a-healing-up-supplement-for-fat-burn-in-2022-2n4n",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What level of React are you in?",
+    "link": "https://dev.to/thremulant/what-level-of-react-are-you-in-46g",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "0. CSS - Fundamentals",
+    "link": "https://dev.to/maole/0-css-fundamentals-i06",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create contract in solidity - iFour Technolab",
+    "link": "https://dev.to/harshalsuthar/how-to-create-contract-in-solidity-ifour-technolab-4gko",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resist the Mist: Bouncing From Topic to Topic",
+    "link": "https://dev.to/lostoneway/resist-the-mist-bouncing-from-topic-to-topic-4",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build forms using React-Hook-Form and ChakraUi",
+    "link": "https://dev.to/wonder2210/build-forms-using-react-hook-form-and-chakraui-4087",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Practices - Day1.Expanding cards",
+    "link": "https://dev.to/lachellezhang/practices-day1expanding-cards-56od",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Print left view of binary tree",
+    "link": "https://dev.to/bvnkumar/print-left-view-of-binary-tree-554g",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "¿Qué es JavaScript?",
+    "link": "https://dev.to/kprieto/que-es-javascript-3i00",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript promises explained",
+    "link": "https://blog.thecode.xyz/javascript-promises-explained",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A brief history of JavaScript!!!",
+    "link": "https://kmdshojib.hashnode.dev/a-brief-history-of-javascript",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javacript promises",
+    "link": "https://ravindrapv.hashnode.dev/javacript-promises",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Running JavaScript in \"Background\"",
+    "link": "https://blog.yaox023.com/running-javascript-in-background",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js On Demand Revalidation with WordPress as a headless CMS",
+    "link": "https://ramonmetzker.dev/nextjs-on-demand-revalidation-with-wordpress",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "One-on-one Video Call Example in One HTML Page",
+    "link": "https://blog.yaox023.com/one-on-one-video-call-example-in-one-html-page",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "I made an AI that knows absolutely EVERYTHING",
+    "link": "https://dev.to/virejdasani/i-made-an-ai-that-knows-absolutely-everything-4p0d",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What Is JavaScript Doing On Your Page",
+    "link": "https://dev.to/lambdatest/what-is-javascript-doing-on-your-page-1oej",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Webhooks and How to Use Them in Strapi",
+    "link": "https://dev.to/strapi/webhooks-and-how-to-use-them-in-strapi-34ni",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Solutions for CodeWars Katas: Part 2",
+    "link": "https://dev.to/kimanikevin254/js-solutions-for-codewars-katas-part-2-30bm",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fit Form Keto [U.S] Reviews: A Healing Up Supplement For Fat Burn In 2022!",
+    "link": "https://dev.to/fitformketoget/fit-form-keto-us-reviews-a-healing-up-supplement-for-fat-burn-in-2022-2n4n",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What level of React are you in?",
+    "link": "https://dev.to/thremulant/what-level-of-react-are-you-in-46g",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "0. CSS - Fundamentals",
+    "link": "https://dev.to/maole/0-css-fundamentals-i06",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create contract in solidity - iFour Technolab",
+    "link": "https://dev.to/harshalsuthar/how-to-create-contract-in-solidity-ifour-technolab-4gko",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resist the Mist: Bouncing From Topic to Topic",
+    "link": "https://dev.to/lostoneway/resist-the-mist-bouncing-from-topic-to-topic-4",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build forms using React-Hook-Form and ChakraUi",
+    "link": "https://dev.to/wonder2210/build-forms-using-react-hook-form-and-chakraui-4087",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Practices - Day1.Expanding cards",
+    "link": "https://dev.to/lachellezhang/practices-day1expanding-cards-56od",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Print left view of binary tree",
+    "link": "https://dev.to/bvnkumar/print-left-view-of-binary-tree-554g",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "¿Qué es JavaScript?",
+    "link": "https://dev.to/kprieto/que-es-javascript-3i00",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript promises explained",
+    "link": "https://blog.thecode.xyz/javascript-promises-explained",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A brief history of JavaScript!!!",
+    "link": "https://kmdshojib.hashnode.dev/a-brief-history-of-javascript",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Javacript promises",
+    "link": "https://ravindrapv.hashnode.dev/javacript-promises",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Running JavaScript in \"Background\"",
+    "link": "https://blog.yaox023.com/running-javascript-in-background",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Next.js On Demand Revalidation with WordPress as a headless CMS",
+    "link": "https://ramonmetzker.dev/nextjs-on-demand-revalidation-with-wordpress",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "One-on-one Video Call Example in One HTML Page",
+    "link": "https://blog.yaox023.com/one-on-one-video-call-example-in-one-html-page",
+    "date": "5/24/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "I made an AI that knows absolutely EVERYTHING",
+    "link": "https://dev.to/virejdasani/i-made-an-ai-that-knows-absolutely-everything-4p0d",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What Is JavaScript Doing On Your Page",
+    "link": "https://dev.to/lambdatest/what-is-javascript-doing-on-your-page-1oej",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Webhooks and How to Use Them in Strapi",
+    "link": "https://dev.to/strapi/webhooks-and-how-to-use-them-in-strapi-34ni",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JS Solutions for CodeWars Katas: Part 2",
+    "link": "https://dev.to/kimanikevin254/js-solutions-for-codewars-katas-part-2-30bm",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fit Form Keto [U.S] Reviews: A Healing Up Supplement For Fat Burn In 2022!",
+    "link": "https://dev.to/fitformketoget/fit-form-keto-us-reviews-a-healing-up-supplement-for-fat-burn-in-2022-2n4n",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What level of React are you in?",
+    "link": "https://dev.to/thremulant/what-level-of-react-are-you-in-46g",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "0. CSS - Fundamentals",
+    "link": "https://dev.to/maole/0-css-fundamentals-i06",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create contract in solidity - iFour Technolab",
+    "link": "https://dev.to/harshalsuthar/how-to-create-contract-in-solidity-ifour-technolab-4gko",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resist the Mist: Bouncing From Topic to Topic",
+    "link": "https://dev.to/lostoneway/resist-the-mist-bouncing-from-topic-to-topic-4",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build forms using React-Hook-Form and ChakraUi",
+    "link": "https://dev.to/wonder2210/build-forms-using-react-hook-form-and-chakraui-4087",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Practices - Day1.Expanding cards",
+    "link": "https://dev.to/lachellezhang/practices-day1expanding-cards-56od",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Print left view of binary tree",
+    "link": "https://dev.to/bvnkumar/print-left-view-of-binary-tree-554g",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "¿Qué es JavaScript?",
+    "link": "https://dev.to/kprieto/que-es-javascript-3i00",
+    "date": "5/24/2022",
+    "site": "dev.to"
+  },
+  {
     "title": "6 months as Software Developer and Advices for beginners",
     "link": "https://codecryrepeat.hashnode.dev/6-months-as-software-developer-and-advices-for-beginners",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Fetch IP Address with JS using Fetch Function",
-    "link": "https://anthonysmith.hashnode.dev/fetch-ip-address-with-js-using-fetch-function",
+    "title": "Create Chrome Extension With HTML, CSS, and JavaScript",
+    "link": "https://surajondev.hashnode.dev/create-chrome-extension-with-html-css-and-javascript",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Destructuring Assignment In Javascript - Part1",
-    "link": "https://activuscode.hashnode.dev/destructuring-assignment-in-javascript-part1-1",
+    "title": "Open Source Adventures: Episode 62: Ruby2JS",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-62-ruby2js",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with the Angular DatePicker Component",
-    "link": "https://newtechupdate.hashnode.dev/getting-started-with-the-angular-datepicker-component",
+    "title": "Open Source Adventures: Episode 60: How Opal Ruby represents basic data types",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-60-how-opal-ruby-represents-basic-data-types",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to use Array? And Array Functions in JavaScript",
-    "link": "https://blog.surya-l.com/how-to-use-array-and-array-functions-in-javascript",
+    "title": "Unravel the mystery behind ‘this’ keyword in JavaScript.",
+    "link": "https://jovialcoder.hashnode.dev/unravel-the-mystery-behind-this-keyword-in-javascript",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Completed #100daysofcode",
-    "link": "https://jayesh-eleven.hashnode.dev/completed-100daysofcode",
+    "title": "Emoji inside an element id...works.",
+    "link": "https://grown-up-apprentice.hashnode.dev/emoji-inside-an-element-idworks",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "5 JavaScript Libraries that makes working with JS magical",
-    "link": "https://ramustar.hashnode.dev/5-javascript-libraries-that-makes-working-with-js-magical",
+    "title": "Flexbox & Properties - Explained",
+    "link": "https://codewithsnowbit.hashnode.dev/flexbox-and-properties-explained",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Typical Usage about useRef",
-    "link": "https://blog.yaox023.com/typical-usage-about-useref",
+    "title": "Express.js Server",
+    "link": "https://joselive.hashnode.dev/expressjs-server",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Find Sum",
-    "link": "https://bnrosa.dev/find-sum",
-    "date": "5/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Generators in javascript",
-    "link": "https://digomic.hashnode.dev/generators-in-javascript",
-    "date": "5/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to simply use Font Awesome 6 in React",
-    "link": "https://dev.to/sobhandash/how-to-simply-use-font-awesome-6-in-react-1bm8",
+    "title": "Which Frontend Framework Would You Use For an Ecommerce Storefront?",
+    "link": "https://dev.to/medusajs/which-frontend-framework-would-you-use-for-an-ecommerce-storefront-3apg",
     "date": "5/23/2022",
     "site": "dev.to"
   },
   {
-    "title": "NPM packages to generate Unique IDs for your next project 😎",
-    "link": "https://dev.to/gulshanaggarwal/npm-packages-to-generate-unique-ids-for-your-next-project-1p3b",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Callback Functions: Do we Need Them?",
-    "link": "https://dev.to/smohiudd1688/callback-functions-whats-the-tea-1j8i",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native Haptic Feedbacks",
-    "link": "https://dev.to/santhoshumapathi/react-native-haptic-feedbacks-ieh",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Redux Walk-through",
-    "link": "https://dev.to/aydotvin/react-redux-walk-through-4il1",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Micro Frontends 101 👨🏻‍🏫",
-    "link": "https://dev.to/rdforte/micro-frontends-101-han",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Change Detection without Change Detection",
-    "link": "https://dev.to/this-is-angular/change-detection-without-change-detection-5pa",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Transpiler vs Polyfills",
-    "link": "https://dev.to/hshoja/transpiler-vs-polyfills-2j8a",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building React App with Module Federation and NextJS/React",
-    "link": "https://dev.to/omher/building-react-app-with-module-federation-and-nextjsreact-1pkh",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Upload to S3 without losing you sanity",
-    "link": "https://dev.to/datner/upload-to-s3-without-losing-you-sanity-291n",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First Phase Reflection",
-    "link": "https://dev.to/adriculous/first-phase-reflection-3652",
+    "title": "Open Source Adventures: Episode 62: Ruby2JS",
+    "link": "https://dev.to/taw/open-source-adventures-episode-62-ruby2js-119i",
     "date": "5/23/2022",
     "site": "dev.to"
   },
@@ -132,122 +636,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Fetch IP Address with JS using Fetch Function",
-    "link": "https://anthonysmith.hashnode.dev/fetch-ip-address-with-js-using-fetch-function",
+    "title": "Create Chrome Extension With HTML, CSS, and JavaScript",
+    "link": "https://surajondev.hashnode.dev/create-chrome-extension-with-html-css-and-javascript",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Destructuring Assignment In Javascript - Part1",
-    "link": "https://activuscode.hashnode.dev/destructuring-assignment-in-javascript-part1-1",
+    "title": "Open Source Adventures: Episode 62: Ruby2JS",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-62-ruby2js",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with the Angular DatePicker Component",
-    "link": "https://newtechupdate.hashnode.dev/getting-started-with-the-angular-datepicker-component",
+    "title": "Open Source Adventures: Episode 60: How Opal Ruby represents basic data types",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-60-how-opal-ruby-represents-basic-data-types",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to use Array? And Array Functions in JavaScript",
-    "link": "https://blog.surya-l.com/how-to-use-array-and-array-functions-in-javascript",
+    "title": "Unravel the mystery behind ‘this’ keyword in JavaScript.",
+    "link": "https://jovialcoder.hashnode.dev/unravel-the-mystery-behind-this-keyword-in-javascript",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Completed #100daysofcode",
-    "link": "https://jayesh-eleven.hashnode.dev/completed-100daysofcode",
+    "title": "Emoji inside an element id...works.",
+    "link": "https://grown-up-apprentice.hashnode.dev/emoji-inside-an-element-idworks",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "5 JavaScript Libraries that makes working with JS magical",
-    "link": "https://ramustar.hashnode.dev/5-javascript-libraries-that-makes-working-with-js-magical",
+    "title": "Flexbox & Properties - Explained",
+    "link": "https://codewithsnowbit.hashnode.dev/flexbox-and-properties-explained",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Typical Usage about useRef",
-    "link": "https://blog.yaox023.com/typical-usage-about-useref",
+    "title": "Express.js Server",
+    "link": "https://joselive.hashnode.dev/expressjs-server",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Find Sum",
-    "link": "https://bnrosa.dev/find-sum",
-    "date": "5/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Generators in javascript",
-    "link": "https://digomic.hashnode.dev/generators-in-javascript",
-    "date": "5/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to simply use Font Awesome 6 in React",
-    "link": "https://dev.to/sobhandash/how-to-simply-use-font-awesome-6-in-react-1bm8",
+    "title": "Which Frontend Framework Would You Use For an Ecommerce Storefront?",
+    "link": "https://dev.to/medusajs/which-frontend-framework-would-you-use-for-an-ecommerce-storefront-3apg",
     "date": "5/23/2022",
     "site": "dev.to"
   },
   {
-    "title": "NPM packages to generate Unique IDs for your next project 😎",
-    "link": "https://dev.to/gulshanaggarwal/npm-packages-to-generate-unique-ids-for-your-next-project-1p3b",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Callback Functions: Do we Need Them?",
-    "link": "https://dev.to/smohiudd1688/callback-functions-whats-the-tea-1j8i",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native Haptic Feedbacks",
-    "link": "https://dev.to/santhoshumapathi/react-native-haptic-feedbacks-ieh",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Redux Walk-through",
-    "link": "https://dev.to/aydotvin/react-redux-walk-through-4il1",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Micro Frontends 101 👨🏻‍🏫",
-    "link": "https://dev.to/rdforte/micro-frontends-101-han",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Change Detection without Change Detection",
-    "link": "https://dev.to/this-is-angular/change-detection-without-change-detection-5pa",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Transpiler vs Polyfills",
-    "link": "https://dev.to/hshoja/transpiler-vs-polyfills-2j8a",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building React App with Module Federation and NextJS/React",
-    "link": "https://dev.to/omher/building-react-app-with-module-federation-and-nextjsreact-1pkh",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Upload to S3 without losing you sanity",
-    "link": "https://dev.to/datner/upload-to-s3-without-losing-you-sanity-291n",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First Phase Reflection",
-    "link": "https://dev.to/adriculous/first-phase-reflection-3652",
+    "title": "Open Source Adventures: Episode 62: Ruby2JS",
+    "link": "https://dev.to/taw/open-source-adventures-episode-62-ruby2js-119i",
     "date": "5/23/2022",
     "site": "dev.to"
   },
@@ -258,122 +696,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Fetch IP Address with JS using Fetch Function",
-    "link": "https://anthonysmith.hashnode.dev/fetch-ip-address-with-js-using-fetch-function",
+    "title": "Create Chrome Extension With HTML, CSS, and JavaScript",
+    "link": "https://surajondev.hashnode.dev/create-chrome-extension-with-html-css-and-javascript",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Destructuring Assignment In Javascript - Part1",
-    "link": "https://activuscode.hashnode.dev/destructuring-assignment-in-javascript-part1-1",
+    "title": "Open Source Adventures: Episode 62: Ruby2JS",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-62-ruby2js",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with the Angular DatePicker Component",
-    "link": "https://newtechupdate.hashnode.dev/getting-started-with-the-angular-datepicker-component",
+    "title": "Open Source Adventures: Episode 60: How Opal Ruby represents basic data types",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-60-how-opal-ruby-represents-basic-data-types",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to use Array? And Array Functions in JavaScript",
-    "link": "https://blog.surya-l.com/how-to-use-array-and-array-functions-in-javascript",
+    "title": "Unravel the mystery behind ‘this’ keyword in JavaScript.",
+    "link": "https://jovialcoder.hashnode.dev/unravel-the-mystery-behind-this-keyword-in-javascript",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Completed #100daysofcode",
-    "link": "https://jayesh-eleven.hashnode.dev/completed-100daysofcode",
+    "title": "Emoji inside an element id...works.",
+    "link": "https://grown-up-apprentice.hashnode.dev/emoji-inside-an-element-idworks",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "5 JavaScript Libraries that makes working with JS magical",
-    "link": "https://ramustar.hashnode.dev/5-javascript-libraries-that-makes-working-with-js-magical",
+    "title": "Flexbox & Properties - Explained",
+    "link": "https://codewithsnowbit.hashnode.dev/flexbox-and-properties-explained",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Typical Usage about useRef",
-    "link": "https://blog.yaox023.com/typical-usage-about-useref",
+    "title": "Express.js Server",
+    "link": "https://joselive.hashnode.dev/expressjs-server",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Find Sum",
-    "link": "https://bnrosa.dev/find-sum",
-    "date": "5/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Generators in javascript",
-    "link": "https://digomic.hashnode.dev/generators-in-javascript",
-    "date": "5/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to simply use Font Awesome 6 in React",
-    "link": "https://dev.to/sobhandash/how-to-simply-use-font-awesome-6-in-react-1bm8",
+    "title": "Which Frontend Framework Would You Use For an Ecommerce Storefront?",
+    "link": "https://dev.to/medusajs/which-frontend-framework-would-you-use-for-an-ecommerce-storefront-3apg",
     "date": "5/23/2022",
     "site": "dev.to"
   },
   {
-    "title": "NPM packages to generate Unique IDs for your next project 😎",
-    "link": "https://dev.to/gulshanaggarwal/npm-packages-to-generate-unique-ids-for-your-next-project-1p3b",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Callback Functions: Do we Need Them?",
-    "link": "https://dev.to/smohiudd1688/callback-functions-whats-the-tea-1j8i",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native Haptic Feedbacks",
-    "link": "https://dev.to/santhoshumapathi/react-native-haptic-feedbacks-ieh",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Redux Walk-through",
-    "link": "https://dev.to/aydotvin/react-redux-walk-through-4il1",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Micro Frontends 101 👨🏻‍🏫",
-    "link": "https://dev.to/rdforte/micro-frontends-101-han",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Change Detection without Change Detection",
-    "link": "https://dev.to/this-is-angular/change-detection-without-change-detection-5pa",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Transpiler vs Polyfills",
-    "link": "https://dev.to/hshoja/transpiler-vs-polyfills-2j8a",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building React App with Module Federation and NextJS/React",
-    "link": "https://dev.to/omher/building-react-app-with-module-federation-and-nextjsreact-1pkh",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Upload to S3 without losing you sanity",
-    "link": "https://dev.to/datner/upload-to-s3-without-losing-you-sanity-291n",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First Phase Reflection",
-    "link": "https://dev.to/adriculous/first-phase-reflection-3652",
+    "title": "Open Source Adventures: Episode 62: Ruby2JS",
+    "link": "https://dev.to/taw/open-source-adventures-episode-62-ruby2js-119i",
     "date": "5/23/2022",
     "site": "dev.to"
   },
@@ -384,122 +756,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Fetch IP Address with JS using Fetch Function",
-    "link": "https://anthonysmith.hashnode.dev/fetch-ip-address-with-js-using-fetch-function",
+    "title": "Create Chrome Extension With HTML, CSS, and JavaScript",
+    "link": "https://surajondev.hashnode.dev/create-chrome-extension-with-html-css-and-javascript",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Destructuring Assignment In Javascript - Part1",
-    "link": "https://activuscode.hashnode.dev/destructuring-assignment-in-javascript-part1-1",
+    "title": "Open Source Adventures: Episode 62: Ruby2JS",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-62-ruby2js",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with the Angular DatePicker Component",
-    "link": "https://newtechupdate.hashnode.dev/getting-started-with-the-angular-datepicker-component",
+    "title": "Open Source Adventures: Episode 60: How Opal Ruby represents basic data types",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-60-how-opal-ruby-represents-basic-data-types",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to use Array? And Array Functions in JavaScript",
-    "link": "https://blog.surya-l.com/how-to-use-array-and-array-functions-in-javascript",
+    "title": "Unravel the mystery behind ‘this’ keyword in JavaScript.",
+    "link": "https://jovialcoder.hashnode.dev/unravel-the-mystery-behind-this-keyword-in-javascript",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Completed #100daysofcode",
-    "link": "https://jayesh-eleven.hashnode.dev/completed-100daysofcode",
+    "title": "Emoji inside an element id...works.",
+    "link": "https://grown-up-apprentice.hashnode.dev/emoji-inside-an-element-idworks",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "5 JavaScript Libraries that makes working with JS magical",
-    "link": "https://ramustar.hashnode.dev/5-javascript-libraries-that-makes-working-with-js-magical",
+    "title": "Flexbox & Properties - Explained",
+    "link": "https://codewithsnowbit.hashnode.dev/flexbox-and-properties-explained",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Typical Usage about useRef",
-    "link": "https://blog.yaox023.com/typical-usage-about-useref",
+    "title": "Express.js Server",
+    "link": "https://joselive.hashnode.dev/expressjs-server",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Find Sum",
-    "link": "https://bnrosa.dev/find-sum",
-    "date": "5/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Generators in javascript",
-    "link": "https://digomic.hashnode.dev/generators-in-javascript",
-    "date": "5/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to simply use Font Awesome 6 in React",
-    "link": "https://dev.to/sobhandash/how-to-simply-use-font-awesome-6-in-react-1bm8",
+    "title": "Which Frontend Framework Would You Use For an Ecommerce Storefront?",
+    "link": "https://dev.to/medusajs/which-frontend-framework-would-you-use-for-an-ecommerce-storefront-3apg",
     "date": "5/23/2022",
     "site": "dev.to"
   },
   {
-    "title": "NPM packages to generate Unique IDs for your next project 😎",
-    "link": "https://dev.to/gulshanaggarwal/npm-packages-to-generate-unique-ids-for-your-next-project-1p3b",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Callback Functions: Do we Need Them?",
-    "link": "https://dev.to/smohiudd1688/callback-functions-whats-the-tea-1j8i",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native Haptic Feedbacks",
-    "link": "https://dev.to/santhoshumapathi/react-native-haptic-feedbacks-ieh",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Redux Walk-through",
-    "link": "https://dev.to/aydotvin/react-redux-walk-through-4il1",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Micro Frontends 101 👨🏻‍🏫",
-    "link": "https://dev.to/rdforte/micro-frontends-101-han",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Change Detection without Change Detection",
-    "link": "https://dev.to/this-is-angular/change-detection-without-change-detection-5pa",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Transpiler vs Polyfills",
-    "link": "https://dev.to/hshoja/transpiler-vs-polyfills-2j8a",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building React App with Module Federation and NextJS/React",
-    "link": "https://dev.to/omher/building-react-app-with-module-federation-and-nextjsreact-1pkh",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Upload to S3 without losing you sanity",
-    "link": "https://dev.to/datner/upload-to-s3-without-losing-you-sanity-291n",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First Phase Reflection",
-    "link": "https://dev.to/adriculous/first-phase-reflection-3652",
+    "title": "Open Source Adventures: Episode 62: Ruby2JS",
+    "link": "https://dev.to/taw/open-source-adventures-episode-62-ruby2js-119i",
     "date": "5/23/2022",
     "site": "dev.to"
   },
@@ -510,122 +816,56 @@
     "site": "hashnode"
   },
   {
-    "title": "Fetch IP Address with JS using Fetch Function",
-    "link": "https://anthonysmith.hashnode.dev/fetch-ip-address-with-js-using-fetch-function",
+    "title": "Create Chrome Extension With HTML, CSS, and JavaScript",
+    "link": "https://surajondev.hashnode.dev/create-chrome-extension-with-html-css-and-javascript",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Destructuring Assignment In Javascript - Part1",
-    "link": "https://activuscode.hashnode.dev/destructuring-assignment-in-javascript-part1-1",
+    "title": "Open Source Adventures: Episode 62: Ruby2JS",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-62-ruby2js",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with the Angular DatePicker Component",
-    "link": "https://newtechupdate.hashnode.dev/getting-started-with-the-angular-datepicker-component",
+    "title": "Open Source Adventures: Episode 60: How Opal Ruby represents basic data types",
+    "link": "https://taw.hashnode.dev/open-source-adventures-episode-60-how-opal-ruby-represents-basic-data-types",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to use Array? And Array Functions in JavaScript",
-    "link": "https://blog.surya-l.com/how-to-use-array-and-array-functions-in-javascript",
+    "title": "Unravel the mystery behind ‘this’ keyword in JavaScript.",
+    "link": "https://jovialcoder.hashnode.dev/unravel-the-mystery-behind-this-keyword-in-javascript",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Completed #100daysofcode",
-    "link": "https://jayesh-eleven.hashnode.dev/completed-100daysofcode",
+    "title": "Emoji inside an element id...works.",
+    "link": "https://grown-up-apprentice.hashnode.dev/emoji-inside-an-element-idworks",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "5 JavaScript Libraries that makes working with JS magical",
-    "link": "https://ramustar.hashnode.dev/5-javascript-libraries-that-makes-working-with-js-magical",
+    "title": "Flexbox & Properties - Explained",
+    "link": "https://codewithsnowbit.hashnode.dev/flexbox-and-properties-explained",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Typical Usage about useRef",
-    "link": "https://blog.yaox023.com/typical-usage-about-useref",
+    "title": "Express.js Server",
+    "link": "https://joselive.hashnode.dev/expressjs-server",
     "date": "5/23/2022",
     "site": "hashnode"
   },
   {
-    "title": "Find Sum",
-    "link": "https://bnrosa.dev/find-sum",
-    "date": "5/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Generators in javascript",
-    "link": "https://digomic.hashnode.dev/generators-in-javascript",
-    "date": "5/23/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to simply use Font Awesome 6 in React",
-    "link": "https://dev.to/sobhandash/how-to-simply-use-font-awesome-6-in-react-1bm8",
+    "title": "Which Frontend Framework Would You Use For an Ecommerce Storefront?",
+    "link": "https://dev.to/medusajs/which-frontend-framework-would-you-use-for-an-ecommerce-storefront-3apg",
     "date": "5/23/2022",
     "site": "dev.to"
   },
   {
-    "title": "NPM packages to generate Unique IDs for your next project 😎",
-    "link": "https://dev.to/gulshanaggarwal/npm-packages-to-generate-unique-ids-for-your-next-project-1p3b",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Callback Functions: Do we Need Them?",
-    "link": "https://dev.to/smohiudd1688/callback-functions-whats-the-tea-1j8i",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native Haptic Feedbacks",
-    "link": "https://dev.to/santhoshumapathi/react-native-haptic-feedbacks-ieh",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Redux Walk-through",
-    "link": "https://dev.to/aydotvin/react-redux-walk-through-4il1",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Micro Frontends 101 👨🏻‍🏫",
-    "link": "https://dev.to/rdforte/micro-frontends-101-han",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Change Detection without Change Detection",
-    "link": "https://dev.to/this-is-angular/change-detection-without-change-detection-5pa",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Transpiler vs Polyfills",
-    "link": "https://dev.to/hshoja/transpiler-vs-polyfills-2j8a",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building React App with Module Federation and NextJS/React",
-    "link": "https://dev.to/omher/building-react-app-with-module-federation-and-nextjsreact-1pkh",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Upload to S3 without losing you sanity",
-    "link": "https://dev.to/datner/upload-to-s3-without-losing-you-sanity-291n",
-    "date": "5/23/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "First Phase Reflection",
-    "link": "https://dev.to/adriculous/first-phase-reflection-3652",
+    "title": "Open Source Adventures: Episode 62: Ruby2JS",
+    "link": "https://dev.to/taw/open-source-adventures-episode-62-ruby2js-119i",
     "date": "5/23/2022",
     "site": "dev.to"
   },
@@ -636,40 +876,10 @@
     "site": "hashnode"
   },
   {
-    "title": "10 Newsletters for Developers",
-    "link": "https://surajondev.hashnode.dev/10-newsletters-for-developers",
+    "title": "Creating a cool 3D landing page using React and Three.js",
+    "link": "https://birkeidsvik.com/creating-a-cool-3d-landing-page-using-react-and-threejs",
     "date": "5/22/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Front-End Web Development: A Quick Guide.",
-    "link": "https://www.frontendtech.xyz/front-end-web-development-a-quick-guide",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Dreyfus Model of Skill Acquisition: From Novice to Expert",
-    "link": "https://blog.kononenko.tech/dreyfus-model-of-skill-acquisition-from-novice-to-expert",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Bundling a Non-Modular Codebase: Lessons Learned",
-    "link": "https://incodethismeans.hashnode.dev/bundling-a-non-modular-codebase-lessons-learned",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Quick guide to FaceApi Machine learning model for web - ML5.js",
-    "link": "https://dev.to/seek4samurai/quick-guide-to-faceapi-machine-learning-model-for-web-ml5js-9mo",
-    "date": "5/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Week 4 - Class is in session",
-    "link": "https://dev.to/jwhitt3r/week-4-class-is-in-session-4m78",
-    "date": "5/22/2022",
-    "site": "dev.to"
   },
   {
     "title": "Creating a cool 3D landing page using React and Three.js",
@@ -678,203 +888,23 @@
     "site": "hashnode"
   },
   {
-    "title": "10 Newsletters for Developers",
-    "link": "https://surajondev.hashnode.dev/10-newsletters-for-developers",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Front-End Web Development: A Quick Guide.",
-    "link": "https://www.frontendtech.xyz/front-end-web-development-a-quick-guide",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Dreyfus Model of Skill Acquisition: From Novice to Expert",
-    "link": "https://blog.kononenko.tech/dreyfus-model-of-skill-acquisition-from-novice-to-expert",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Bundling a Non-Modular Codebase: Lessons Learned",
-    "link": "https://incodethismeans.hashnode.dev/bundling-a-non-modular-codebase-lessons-learned",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Quick guide to FaceApi Machine learning model for web - ML5.js",
-    "link": "https://dev.to/seek4samurai/quick-guide-to-faceapi-machine-learning-model-for-web-ml5js-9mo",
-    "date": "5/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Week 4 - Class is in session",
-    "link": "https://dev.to/jwhitt3r/week-4-class-is-in-session-4m78",
-    "date": "5/22/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Creating a cool 3D landing page using React and Three.js",
     "link": "https://birkeidsvik.com/creating-a-cool-3d-landing-page-using-react-and-threejs",
     "date": "5/22/2022",
     "site": "hashnode"
   },
   {
-    "title": "10 Newsletters for Developers",
-    "link": "https://surajondev.hashnode.dev/10-newsletters-for-developers",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Front-End Web Development: A Quick Guide.",
-    "link": "https://www.frontendtech.xyz/front-end-web-development-a-quick-guide",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Dreyfus Model of Skill Acquisition: From Novice to Expert",
-    "link": "https://blog.kononenko.tech/dreyfus-model-of-skill-acquisition-from-novice-to-expert",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Bundling a Non-Modular Codebase: Lessons Learned",
-    "link": "https://incodethismeans.hashnode.dev/bundling-a-non-modular-codebase-lessons-learned",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Quick guide to FaceApi Machine learning model for web - ML5.js",
-    "link": "https://dev.to/seek4samurai/quick-guide-to-faceapi-machine-learning-model-for-web-ml5js-9mo",
-    "date": "5/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Week 4 - Class is in session",
-    "link": "https://dev.to/jwhitt3r/week-4-class-is-in-session-4m78",
-    "date": "5/22/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Creating a cool 3D landing page using React and Three.js",
     "link": "https://birkeidsvik.com/creating-a-cool-3d-landing-page-using-react-and-threejs",
     "date": "5/22/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "10 Newsletters for Developers",
-    "link": "https://surajondev.hashnode.dev/10-newsletters-for-developers",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Front-End Web Development: A Quick Guide.",
-    "link": "https://www.frontendtech.xyz/front-end-web-development-a-quick-guide",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Dreyfus Model of Skill Acquisition: From Novice to Expert",
-    "link": "https://blog.kononenko.tech/dreyfus-model-of-skill-acquisition-from-novice-to-expert",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Bundling a Non-Modular Codebase: Lessons Learned",
-    "link": "https://incodethismeans.hashnode.dev/bundling-a-non-modular-codebase-lessons-learned",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Quick guide to FaceApi Machine learning model for web - ML5.js",
-    "link": "https://dev.to/seek4samurai/quick-guide-to-faceapi-machine-learning-model-for-web-ml5js-9mo",
-    "date": "5/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Week 4 - Class is in session",
-    "link": "https://dev.to/jwhitt3r/week-4-class-is-in-session-4m78",
-    "date": "5/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a cool 3D landing page using React and Three.js",
-    "link": "https://birkeidsvik.com/creating-a-cool-3d-landing-page-using-react-and-threejs",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "10 Newsletters for Developers",
-    "link": "https://surajondev.hashnode.dev/10-newsletters-for-developers",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Front-End Web Development: A Quick Guide.",
-    "link": "https://www.frontendtech.xyz/front-end-web-development-a-quick-guide",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Dreyfus Model of Skill Acquisition: From Novice to Expert",
-    "link": "https://blog.kononenko.tech/dreyfus-model-of-skill-acquisition-from-novice-to-expert",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Bundling a Non-Modular Codebase: Lessons Learned",
-    "link": "https://incodethismeans.hashnode.dev/bundling-a-non-modular-codebase-lessons-learned",
-    "date": "5/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Quick guide to FaceApi Machine learning model for web - ML5.js",
-    "link": "https://dev.to/seek4samurai/quick-guide-to-faceapi-machine-learning-model-for-web-ml5js-9mo",
-    "date": "5/22/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Week 4 - Class is in session",
-    "link": "https://dev.to/jwhitt3r/week-4-class-is-in-session-4m78",
-    "date": "5/22/2022",
-    "site": "dev.to"
   },
   {
     "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
     "link": "https://www.smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
-    "reading_time": "21 min read",
+    "reading_time": "20 min read",
     "date": "5/20/2022",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "Making a subset of Font Awesome",
-    "link": "https://dev.to/arafel/making-a-subset-of-font-awesome-30jo",
-    "date": "5/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making a subset of Font Awesome",
-    "link": "https://dev.to/arafel/making-a-subset-of-font-awesome-30jo",
-    "date": "5/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making a subset of Font Awesome",
-    "link": "https://dev.to/arafel/making-a-subset-of-font-awesome-30jo",
-    "date": "5/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making a subset of Font Awesome",
-    "link": "https://dev.to/arafel/making-a-subset-of-font-awesome-30jo",
-    "date": "5/17/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making a subset of Font Awesome",
-    "link": "https://dev.to/arafel/making-a-subset-of-font-awesome-30jo",
-    "date": "5/17/2022",
-    "site": "dev.to"
   },
   {
     "title": "Rethinking Server-Timing As A Critical Monitoring Tool",
@@ -949,7 +979,7 @@
   {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
     "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "3/9/2022",
     "site": "smashingmagazine"
   },
@@ -1009,7 +1039,7 @@
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -1027,36 +1057,6 @@
     "site": "smashingmagazine"
   },
   {
-    "title": "Things I wish I’d known sooner about… JavaScript modules",
-    "link": "https://dev.to/arafel/things-i-wish-id-known-sooner-about-javascript-modules-24gd",
-    "date": "11/10/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Things I wish I’d known sooner about… JavaScript modules",
-    "link": "https://dev.to/arafel/things-i-wish-id-known-sooner-about-javascript-modules-24gd",
-    "date": "11/10/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Things I wish I’d known sooner about… JavaScript modules",
-    "link": "https://dev.to/arafel/things-i-wish-id-known-sooner-about-javascript-modules-24gd",
-    "date": "11/10/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Things I wish I’d known sooner about… JavaScript modules",
-    "link": "https://dev.to/arafel/things-i-wish-id-known-sooner-about-javascript-modules-24gd",
-    "date": "11/10/2021",
-    "site": "dev.to"
-  },
-  {
-    "title": "Things I wish I’d known sooner about… JavaScript modules",
-    "link": "https://dev.to/arafel/things-i-wish-id-known-sooner-about-javascript-modules-24gd",
-    "date": "11/10/2021",
-    "site": "dev.to"
-  },
-  {
     "title": "Responsible JavaScript",
     "link": "https://css-tricks.com/responsible-javascript-2/",
     "date": "11/2/2021",
@@ -1065,7 +1065,7 @@
   {
     "title": "How To Build An Amazon Product Scraper With Node.js",
     "link": "https://www.smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "10/28/2021",
     "site": "smashingmagazine"
   },
@@ -1220,7 +1220,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -1246,7 +1246,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
@@ -1267,7 +1267,7 @@
   {
     "title": "Tools And Practices To Speed Up The Vue.js Development Process",
     "link": "https://www.smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/8/2021",
     "site": "smashingmagazine"
   },
