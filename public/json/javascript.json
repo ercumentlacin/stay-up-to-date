@@ -1,57 +1,495 @@
 [
   {
+    "title": "Use Effect hook for beginners",
+    "link": "https://balaji567.hashnode.dev/use-effect-hook-for-beginners",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Things I Learned Trying To Publish A Simple NPM Package",
+    "link": "https://blog.clickwithclark.com/5-things-i-learned-trying-to-publish-a-simple-npm-package",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Promise.all() Vs Promise.allSettled() in JS",
+    "link": "https://chanchal16.hashnode.dev/promiseall-vs-promiseallsettled-in-js",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Learn If Else If Statements in JavaScript with example",
+    "link": "https://blog.surya-l.com/learn-if-else-if-statements-in-javascript-with-example",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Kkn Desa Penari",
+    "link": "https://lintangcatur80.hashnode.dev/kkn-desa-penari",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Check how many potato",
+    "link": "https://krzszk.hashnode.dev/check-how-many-potato",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Vibrating your phone with JavaScript 📱",
+    "link": "https://codewithsnowbit.hashnode.dev/vibrating-your-phone-with-javascript",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Asynchronous Programming in javascript(Callbacks)",
+    "link": "https://digomic.hashnode.dev/asynchronous-programming-in-javascriptcallbacks",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting up your first ReactJS & Firebase Auth project",
+    "link": "https://dev.to/catevee/setting-up-your-first-reactjs-firebase-auth-project-4i0j",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark Mattr: A New VS Code Theme",
+    "link": "https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Don't lose your Github contributions when you leave an organization",
+    "link": "https://dev.to/bhatvikrant/dont-lose-your-github-contributions-when-you-leave-an-organization-10pf",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing a Recursive Utility Type in TypeScript",
+    "link": "https://dev.to/knyzorg/writing-a-nested-omit-utility-type-in-typescript-20me",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 things you need to know about <Input> tag",
+    "link": "https://dev.to/fidalmathew/5-things-you-need-to-know-about-tag-3a40",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Summer Vacation and Coding",
+    "link": "https://dev.to/sanjaysinghrajpoot/summer-vacation-and-coding-107h",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create a shared context between asynchronous calls in nodejs",
+    "link": "https://dev.to/pahanperera/how-to-create-a-shared-context-between-asynchronous-calls-in-nodejs-4kim",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Effect hook for beginners",
+    "link": "https://balaji567.hashnode.dev/use-effect-hook-for-beginners",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Things I Learned Trying To Publish A Simple NPM Package",
+    "link": "https://blog.clickwithclark.com/5-things-i-learned-trying-to-publish-a-simple-npm-package",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Promise.all() Vs Promise.allSettled() in JS",
+    "link": "https://chanchal16.hashnode.dev/promiseall-vs-promiseallsettled-in-js",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Learn If Else If Statements in JavaScript with example",
+    "link": "https://blog.surya-l.com/learn-if-else-if-statements-in-javascript-with-example",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Kkn Desa Penari",
+    "link": "https://lintangcatur80.hashnode.dev/kkn-desa-penari",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Check how many potato",
+    "link": "https://krzszk.hashnode.dev/check-how-many-potato",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Vibrating your phone with JavaScript 📱",
+    "link": "https://codewithsnowbit.hashnode.dev/vibrating-your-phone-with-javascript",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Asynchronous Programming in javascript(Callbacks)",
+    "link": "https://digomic.hashnode.dev/asynchronous-programming-in-javascriptcallbacks",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting up your first ReactJS & Firebase Auth project",
+    "link": "https://dev.to/catevee/setting-up-your-first-reactjs-firebase-auth-project-4i0j",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark Mattr: A New VS Code Theme",
+    "link": "https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Don't lose your Github contributions when you leave an organization",
+    "link": "https://dev.to/bhatvikrant/dont-lose-your-github-contributions-when-you-leave-an-organization-10pf",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing a Recursive Utility Type in TypeScript",
+    "link": "https://dev.to/knyzorg/writing-a-nested-omit-utility-type-in-typescript-20me",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 things you need to know about <Input> tag",
+    "link": "https://dev.to/fidalmathew/5-things-you-need-to-know-about-tag-3a40",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Summer Vacation and Coding",
+    "link": "https://dev.to/sanjaysinghrajpoot/summer-vacation-and-coding-107h",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create a shared context between asynchronous calls in nodejs",
+    "link": "https://dev.to/pahanperera/how-to-create-a-shared-context-between-asynchronous-calls-in-nodejs-4kim",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Effect hook for beginners",
+    "link": "https://balaji567.hashnode.dev/use-effect-hook-for-beginners",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Things I Learned Trying To Publish A Simple NPM Package",
+    "link": "https://blog.clickwithclark.com/5-things-i-learned-trying-to-publish-a-simple-npm-package",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Promise.all() Vs Promise.allSettled() in JS",
+    "link": "https://chanchal16.hashnode.dev/promiseall-vs-promiseallsettled-in-js",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Learn If Else If Statements in JavaScript with example",
+    "link": "https://blog.surya-l.com/learn-if-else-if-statements-in-javascript-with-example",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Kkn Desa Penari",
+    "link": "https://lintangcatur80.hashnode.dev/kkn-desa-penari",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Check how many potato",
+    "link": "https://krzszk.hashnode.dev/check-how-many-potato",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Vibrating your phone with JavaScript 📱",
+    "link": "https://codewithsnowbit.hashnode.dev/vibrating-your-phone-with-javascript",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Asynchronous Programming in javascript(Callbacks)",
+    "link": "https://digomic.hashnode.dev/asynchronous-programming-in-javascriptcallbacks",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting up your first ReactJS & Firebase Auth project",
+    "link": "https://dev.to/catevee/setting-up-your-first-reactjs-firebase-auth-project-4i0j",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark Mattr: A New VS Code Theme",
+    "link": "https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Don't lose your Github contributions when you leave an organization",
+    "link": "https://dev.to/bhatvikrant/dont-lose-your-github-contributions-when-you-leave-an-organization-10pf",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing a Recursive Utility Type in TypeScript",
+    "link": "https://dev.to/knyzorg/writing-a-nested-omit-utility-type-in-typescript-20me",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 things you need to know about <Input> tag",
+    "link": "https://dev.to/fidalmathew/5-things-you-need-to-know-about-tag-3a40",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Summer Vacation and Coding",
+    "link": "https://dev.to/sanjaysinghrajpoot/summer-vacation-and-coding-107h",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create a shared context between asynchronous calls in nodejs",
+    "link": "https://dev.to/pahanperera/how-to-create-a-shared-context-between-asynchronous-calls-in-nodejs-4kim",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Effect hook for beginners",
+    "link": "https://balaji567.hashnode.dev/use-effect-hook-for-beginners",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Things I Learned Trying To Publish A Simple NPM Package",
+    "link": "https://blog.clickwithclark.com/5-things-i-learned-trying-to-publish-a-simple-npm-package",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Promise.all() Vs Promise.allSettled() in JS",
+    "link": "https://chanchal16.hashnode.dev/promiseall-vs-promiseallsettled-in-js",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Learn If Else If Statements in JavaScript with example",
+    "link": "https://blog.surya-l.com/learn-if-else-if-statements-in-javascript-with-example",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Kkn Desa Penari",
+    "link": "https://lintangcatur80.hashnode.dev/kkn-desa-penari",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Check how many potato",
+    "link": "https://krzszk.hashnode.dev/check-how-many-potato",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Vibrating your phone with JavaScript 📱",
+    "link": "https://codewithsnowbit.hashnode.dev/vibrating-your-phone-with-javascript",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Asynchronous Programming in javascript(Callbacks)",
+    "link": "https://digomic.hashnode.dev/asynchronous-programming-in-javascriptcallbacks",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting up your first ReactJS & Firebase Auth project",
+    "link": "https://dev.to/catevee/setting-up-your-first-reactjs-firebase-auth-project-4i0j",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark Mattr: A New VS Code Theme",
+    "link": "https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Don't lose your Github contributions when you leave an organization",
+    "link": "https://dev.to/bhatvikrant/dont-lose-your-github-contributions-when-you-leave-an-organization-10pf",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing a Recursive Utility Type in TypeScript",
+    "link": "https://dev.to/knyzorg/writing-a-nested-omit-utility-type-in-typescript-20me",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 things you need to know about <Input> tag",
+    "link": "https://dev.to/fidalmathew/5-things-you-need-to-know-about-tag-3a40",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Summer Vacation and Coding",
+    "link": "https://dev.to/sanjaysinghrajpoot/summer-vacation-and-coding-107h",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create a shared context between asynchronous calls in nodejs",
+    "link": "https://dev.to/pahanperera/how-to-create-a-shared-context-between-asynchronous-calls-in-nodejs-4kim",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Effect hook for beginners",
+    "link": "https://balaji567.hashnode.dev/use-effect-hook-for-beginners",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "5 Things I Learned Trying To Publish A Simple NPM Package",
+    "link": "https://blog.clickwithclark.com/5-things-i-learned-trying-to-publish-a-simple-npm-package",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Promise.all() Vs Promise.allSettled() in JS",
+    "link": "https://chanchal16.hashnode.dev/promiseall-vs-promiseallsettled-in-js",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Learn If Else If Statements in JavaScript with example",
+    "link": "https://blog.surya-l.com/learn-if-else-if-statements-in-javascript-with-example",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Kkn Desa Penari",
+    "link": "https://lintangcatur80.hashnode.dev/kkn-desa-penari",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Check how many potato",
+    "link": "https://krzszk.hashnode.dev/check-how-many-potato",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Vibrating your phone with JavaScript 📱",
+    "link": "https://codewithsnowbit.hashnode.dev/vibrating-your-phone-with-javascript",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Asynchronous Programming in javascript(Callbacks)",
+    "link": "https://digomic.hashnode.dev/asynchronous-programming-in-javascriptcallbacks",
+    "date": "5/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Setting up your first ReactJS & Firebase Auth project",
+    "link": "https://dev.to/catevee/setting-up-your-first-reactjs-firebase-auth-project-4i0j",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark Mattr: A New VS Code Theme",
+    "link": "https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Don't lose your Github contributions when you leave an organization",
+    "link": "https://dev.to/bhatvikrant/dont-lose-your-github-contributions-when-you-leave-an-organization-10pf",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing a Recursive Utility Type in TypeScript",
+    "link": "https://dev.to/knyzorg/writing-a-nested-omit-utility-type-in-typescript-20me",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 things you need to know about <Input> tag",
+    "link": "https://dev.to/fidalmathew/5-things-you-need-to-know-about-tag-3a40",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Summer Vacation and Coding",
+    "link": "https://dev.to/sanjaysinghrajpoot/summer-vacation-and-coding-107h",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create a shared context between asynchronous calls in nodejs",
+    "link": "https://dev.to/pahanperera/how-to-create-a-shared-context-between-asynchronous-calls-in-nodejs-4kim",
+    "date": "5/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn How to Click a Button when Angular Unit Testing",
+    "link": "https://blog.braydoncoyer.dev/learn-how-to-click-a-button-when-angular-unit-testing",
+    "date": "5/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Tipo de objeto anônimo",
+    "link": "https://squash.hashnode.dev/tipo-de-objeto-anonimo",
+    "date": "5/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Day 5 : I'm still here",
+    "link": "https://oussamamoutafatin.hashnode.dev/day-5-im-still-here",
+    "date": "5/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "function in JavaScript",
+    "link": "https://alliwebtheory.hashnode.dev/function-in-javascript",
+    "date": "5/27/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Real Madrid Knows Soccer's Balance Of Power Is Shifting",
+    "link": "https://lastchild.hashnode.dev/real-madrid-knows-soccers-balance-of-power-is-shifting",
+    "date": "5/27/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "How to Improve Coding skills by doing 100 Days Of Code? Here are the 16 benefits that I got from it.",
     "link": "https://tejindersharma.hashnode.dev/how-to-improve-coding-skills-by-doing-100-days-of-code-here-are-the-16-benefits-that-i-got-from-it",
     "date": "5/27/2022",
     "site": "hashnode"
   },
   {
-    "title": "Why do we use React?",
-    "link": "https://abhishekranjan.hashnode.dev/why-do-we-use-react",
+    "title": "Call, Apply and Bind in javascript",
+    "link": "https://mahendrachauhan.hashnode.dev/call-apply-and-bind-in-javascript",
     "date": "5/27/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "If Else Statement In JavaScript With Examples",
-    "link": "https://blog.surya-l.com/if-else-statement-in-javascript-with-examples",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Simple sparklines charts",
-    "link": "https://railsjazz.hashnode.dev/simple-sparklines-charts",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Complete Object Oriented Programming (OOP) in Javascript",
-    "link": "https://aryaan.hashnode.dev/complete-object-oriented-programming-oop-in-javascript",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "REST- In Layman's Term",
-    "link": "https://sujeet-agrahari.hashnode.dev/rest-in-laymans-term",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Update Firefox products now to fix critical vulnerabilities",
-    "link": "https://hungvu.tech/update-firefox-products-now-to-fix-critical-vulnerabilities",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tools of the Trade: Declarative DNS with dnscontrol",
-    "link": "https://sphericalkat.hashnode.dev/tools-of-the-trade-declarative-dns-with-dnscontrol",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pantangan Setelah Filler",
-    "link": "https://dev.to/beautynewsindo/pantangan-setelah-filler-183a",
-    "date": "5/27/2022",
-    "site": "dev.to"
   },
   {
     "title": "5 VSCode Extensions You Must Use",
@@ -60,64 +498,64 @@
     "site": "dev.to"
   },
   {
-    "title": "Get SCS-C01 Dumps PDF To Prepare Exam Inside a Less Time_",
-    "link": "https://dev.to/davidjerry4311/get-scs-c01-dumps-pdf-to-prepare-exam-inside-a-less-time-4pjp",
+    "title": "Learn How to Click a Button when Angular Unit Testing",
+    "link": "https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Common JavaScript Errors and How To Handle Them",
-    "link": "https://dev.to/lambdatest/common-javascript-errors-and-how-to-handle-them-5em9",
+    "title": "Floating Action Button for Vue",
+    "link": "https://dev.to/gil_finkelstein/floating-action-button-for-vue-37e",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "What s the best javascript 3D libarie to learn right now?",
-    "link": "https://dev.to/felicio2310/whats-the-best-javascript-3d-libarie-to-learn-right-now-4ib0",
+    "title": "Becoming a JavaScript Code Warrior",
+    "link": "https://dev.to/nats_tech_notes/becoming-a-javascript-code-warrior-f96",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Matching faces to Twitter DPs #ngIndia",
-    "link": "https://dev.to/epilot/matching-faces-to-twitter-dps-ngindia-1j9j",
+    "title": "Node: cd myjourney03",
+    "link": "https://dev.to/adebiyiitunuayo/node-cd-myjourney03-327",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript library for client-side non-blocking notifications",
-    "link": "https://dev.to/gil_finkelstein/javascript-library-for-client-side-non-blocking-notifications-16d5",
+    "title": "Resources to Learn react better way!!",
+    "link": "https://dev.to/thisisyogeshkp/resources-to-learn-react-better-way-13m",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Dear Web Devs, Please Use Anchors Instead of Divs for Buttons",
-    "link": "https://dev.to/cppshane/dear-web-devs-please-use-anchors-instead-of-divs-for-buttons-4koi",
+    "title": "Learn How to Click a Button when Angular Unit Testing",
+    "link": "https://blog.braydoncoyer.dev/learn-how-to-click-a-button-when-angular-unit-testing",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Clean Architecture: implementando meu primeiro Use Case",
-    "link": "https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7",
+    "title": "Tipo de objeto anônimo",
+    "link": "https://squash.hashnode.dev/tipo-de-objeto-anonimo",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "**Some of the things you need to learn before getting started on Node**",
-    "link": "https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi",
+    "title": "Day 5 : I'm still here",
+    "link": "https://oussamamoutafatin.hashnode.dev/day-5-im-still-here",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Tools of the Trade: Declarative DNS with dnscontrol",
-    "link": "https://dev.to/sphericalkat/tools-of-the-trade-declarative-dns-with-dnscontrol-21n",
+    "title": "function in JavaScript",
+    "link": "https://alliwebtheory.hashnode.dev/function-in-javascript",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Tricks to Debug JavaScript Faster",
-    "link": "https://dev.to/tulusibrahim/tricks-to-debug-javascript-faster-23h6",
+    "title": "Real Madrid Knows Soccer's Balance Of Power Is Shifting",
+    "link": "https://lastchild.hashnode.dev/real-madrid-knows-soccers-balance-of-power-is-shifting",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "How to Improve Coding skills by doing 100 Days Of Code? Here are the 16 benefits that I got from it.",
@@ -126,52 +564,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Why do we use React?",
-    "link": "https://abhishekranjan.hashnode.dev/why-do-we-use-react",
+    "title": "Call, Apply and Bind in javascript",
+    "link": "https://mahendrachauhan.hashnode.dev/call-apply-and-bind-in-javascript",
     "date": "5/27/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "If Else Statement In JavaScript With Examples",
-    "link": "https://blog.surya-l.com/if-else-statement-in-javascript-with-examples",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Simple sparklines charts",
-    "link": "https://railsjazz.hashnode.dev/simple-sparklines-charts",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Complete Object Oriented Programming (OOP) in Javascript",
-    "link": "https://aryaan.hashnode.dev/complete-object-oriented-programming-oop-in-javascript",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "REST- In Layman's Term",
-    "link": "https://sujeet-agrahari.hashnode.dev/rest-in-laymans-term",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Update Firefox products now to fix critical vulnerabilities",
-    "link": "https://hungvu.tech/update-firefox-products-now-to-fix-critical-vulnerabilities",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tools of the Trade: Declarative DNS with dnscontrol",
-    "link": "https://sphericalkat.hashnode.dev/tools-of-the-trade-declarative-dns-with-dnscontrol",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pantangan Setelah Filler",
-    "link": "https://dev.to/beautynewsindo/pantangan-setelah-filler-183a",
-    "date": "5/27/2022",
-    "site": "dev.to"
   },
   {
     "title": "5 VSCode Extensions You Must Use",
@@ -180,64 +576,64 @@
     "site": "dev.to"
   },
   {
-    "title": "Get SCS-C01 Dumps PDF To Prepare Exam Inside a Less Time_",
-    "link": "https://dev.to/davidjerry4311/get-scs-c01-dumps-pdf-to-prepare-exam-inside-a-less-time-4pjp",
+    "title": "Learn How to Click a Button when Angular Unit Testing",
+    "link": "https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Common JavaScript Errors and How To Handle Them",
-    "link": "https://dev.to/lambdatest/common-javascript-errors-and-how-to-handle-them-5em9",
+    "title": "Floating Action Button for Vue",
+    "link": "https://dev.to/gil_finkelstein/floating-action-button-for-vue-37e",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "What s the best javascript 3D libarie to learn right now?",
-    "link": "https://dev.to/felicio2310/whats-the-best-javascript-3d-libarie-to-learn-right-now-4ib0",
+    "title": "Becoming a JavaScript Code Warrior",
+    "link": "https://dev.to/nats_tech_notes/becoming-a-javascript-code-warrior-f96",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Matching faces to Twitter DPs #ngIndia",
-    "link": "https://dev.to/epilot/matching-faces-to-twitter-dps-ngindia-1j9j",
+    "title": "Node: cd myjourney03",
+    "link": "https://dev.to/adebiyiitunuayo/node-cd-myjourney03-327",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript library for client-side non-blocking notifications",
-    "link": "https://dev.to/gil_finkelstein/javascript-library-for-client-side-non-blocking-notifications-16d5",
+    "title": "Resources to Learn react better way!!",
+    "link": "https://dev.to/thisisyogeshkp/resources-to-learn-react-better-way-13m",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Dear Web Devs, Please Use Anchors Instead of Divs for Buttons",
-    "link": "https://dev.to/cppshane/dear-web-devs-please-use-anchors-instead-of-divs-for-buttons-4koi",
+    "title": "Learn How to Click a Button when Angular Unit Testing",
+    "link": "https://blog.braydoncoyer.dev/learn-how-to-click-a-button-when-angular-unit-testing",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Clean Architecture: implementando meu primeiro Use Case",
-    "link": "https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7",
+    "title": "Tipo de objeto anônimo",
+    "link": "https://squash.hashnode.dev/tipo-de-objeto-anonimo",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "**Some of the things you need to learn before getting started on Node**",
-    "link": "https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi",
+    "title": "Day 5 : I'm still here",
+    "link": "https://oussamamoutafatin.hashnode.dev/day-5-im-still-here",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Tools of the Trade: Declarative DNS with dnscontrol",
-    "link": "https://dev.to/sphericalkat/tools-of-the-trade-declarative-dns-with-dnscontrol-21n",
+    "title": "function in JavaScript",
+    "link": "https://alliwebtheory.hashnode.dev/function-in-javascript",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Tricks to Debug JavaScript Faster",
-    "link": "https://dev.to/tulusibrahim/tricks-to-debug-javascript-faster-23h6",
+    "title": "Real Madrid Knows Soccer's Balance Of Power Is Shifting",
+    "link": "https://lastchild.hashnode.dev/real-madrid-knows-soccers-balance-of-power-is-shifting",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "How to Improve Coding skills by doing 100 Days Of Code? Here are the 16 benefits that I got from it.",
@@ -246,52 +642,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Why do we use React?",
-    "link": "https://abhishekranjan.hashnode.dev/why-do-we-use-react",
+    "title": "Call, Apply and Bind in javascript",
+    "link": "https://mahendrachauhan.hashnode.dev/call-apply-and-bind-in-javascript",
     "date": "5/27/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "If Else Statement In JavaScript With Examples",
-    "link": "https://blog.surya-l.com/if-else-statement-in-javascript-with-examples",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Simple sparklines charts",
-    "link": "https://railsjazz.hashnode.dev/simple-sparklines-charts",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Complete Object Oriented Programming (OOP) in Javascript",
-    "link": "https://aryaan.hashnode.dev/complete-object-oriented-programming-oop-in-javascript",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "REST- In Layman's Term",
-    "link": "https://sujeet-agrahari.hashnode.dev/rest-in-laymans-term",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Update Firefox products now to fix critical vulnerabilities",
-    "link": "https://hungvu.tech/update-firefox-products-now-to-fix-critical-vulnerabilities",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tools of the Trade: Declarative DNS with dnscontrol",
-    "link": "https://sphericalkat.hashnode.dev/tools-of-the-trade-declarative-dns-with-dnscontrol",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pantangan Setelah Filler",
-    "link": "https://dev.to/beautynewsindo/pantangan-setelah-filler-183a",
-    "date": "5/27/2022",
-    "site": "dev.to"
   },
   {
     "title": "5 VSCode Extensions You Must Use",
@@ -300,64 +654,64 @@
     "site": "dev.to"
   },
   {
-    "title": "Get SCS-C01 Dumps PDF To Prepare Exam Inside a Less Time_",
-    "link": "https://dev.to/davidjerry4311/get-scs-c01-dumps-pdf-to-prepare-exam-inside-a-less-time-4pjp",
+    "title": "Learn How to Click a Button when Angular Unit Testing",
+    "link": "https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Common JavaScript Errors and How To Handle Them",
-    "link": "https://dev.to/lambdatest/common-javascript-errors-and-how-to-handle-them-5em9",
+    "title": "Floating Action Button for Vue",
+    "link": "https://dev.to/gil_finkelstein/floating-action-button-for-vue-37e",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "What s the best javascript 3D libarie to learn right now?",
-    "link": "https://dev.to/felicio2310/whats-the-best-javascript-3d-libarie-to-learn-right-now-4ib0",
+    "title": "Becoming a JavaScript Code Warrior",
+    "link": "https://dev.to/nats_tech_notes/becoming-a-javascript-code-warrior-f96",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Matching faces to Twitter DPs #ngIndia",
-    "link": "https://dev.to/epilot/matching-faces-to-twitter-dps-ngindia-1j9j",
+    "title": "Node: cd myjourney03",
+    "link": "https://dev.to/adebiyiitunuayo/node-cd-myjourney03-327",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript library for client-side non-blocking notifications",
-    "link": "https://dev.to/gil_finkelstein/javascript-library-for-client-side-non-blocking-notifications-16d5",
+    "title": "Resources to Learn react better way!!",
+    "link": "https://dev.to/thisisyogeshkp/resources-to-learn-react-better-way-13m",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Dear Web Devs, Please Use Anchors Instead of Divs for Buttons",
-    "link": "https://dev.to/cppshane/dear-web-devs-please-use-anchors-instead-of-divs-for-buttons-4koi",
+    "title": "Learn How to Click a Button when Angular Unit Testing",
+    "link": "https://blog.braydoncoyer.dev/learn-how-to-click-a-button-when-angular-unit-testing",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Clean Architecture: implementando meu primeiro Use Case",
-    "link": "https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7",
+    "title": "Tipo de objeto anônimo",
+    "link": "https://squash.hashnode.dev/tipo-de-objeto-anonimo",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "**Some of the things you need to learn before getting started on Node**",
-    "link": "https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi",
+    "title": "Day 5 : I'm still here",
+    "link": "https://oussamamoutafatin.hashnode.dev/day-5-im-still-here",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Tools of the Trade: Declarative DNS with dnscontrol",
-    "link": "https://dev.to/sphericalkat/tools-of-the-trade-declarative-dns-with-dnscontrol-21n",
+    "title": "function in JavaScript",
+    "link": "https://alliwebtheory.hashnode.dev/function-in-javascript",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Tricks to Debug JavaScript Faster",
-    "link": "https://dev.to/tulusibrahim/tricks-to-debug-javascript-faster-23h6",
+    "title": "Real Madrid Knows Soccer's Balance Of Power Is Shifting",
+    "link": "https://lastchild.hashnode.dev/real-madrid-knows-soccers-balance-of-power-is-shifting",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "How to Improve Coding skills by doing 100 Days Of Code? Here are the 16 benefits that I got from it.",
@@ -366,52 +720,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Why do we use React?",
-    "link": "https://abhishekranjan.hashnode.dev/why-do-we-use-react",
+    "title": "Call, Apply and Bind in javascript",
+    "link": "https://mahendrachauhan.hashnode.dev/call-apply-and-bind-in-javascript",
     "date": "5/27/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "If Else Statement In JavaScript With Examples",
-    "link": "https://blog.surya-l.com/if-else-statement-in-javascript-with-examples",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Simple sparklines charts",
-    "link": "https://railsjazz.hashnode.dev/simple-sparklines-charts",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Complete Object Oriented Programming (OOP) in Javascript",
-    "link": "https://aryaan.hashnode.dev/complete-object-oriented-programming-oop-in-javascript",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "REST- In Layman's Term",
-    "link": "https://sujeet-agrahari.hashnode.dev/rest-in-laymans-term",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Update Firefox products now to fix critical vulnerabilities",
-    "link": "https://hungvu.tech/update-firefox-products-now-to-fix-critical-vulnerabilities",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tools of the Trade: Declarative DNS with dnscontrol",
-    "link": "https://sphericalkat.hashnode.dev/tools-of-the-trade-declarative-dns-with-dnscontrol",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pantangan Setelah Filler",
-    "link": "https://dev.to/beautynewsindo/pantangan-setelah-filler-183a",
-    "date": "5/27/2022",
-    "site": "dev.to"
   },
   {
     "title": "5 VSCode Extensions You Must Use",
@@ -420,64 +732,64 @@
     "site": "dev.to"
   },
   {
-    "title": "Get SCS-C01 Dumps PDF To Prepare Exam Inside a Less Time_",
-    "link": "https://dev.to/davidjerry4311/get-scs-c01-dumps-pdf-to-prepare-exam-inside-a-less-time-4pjp",
+    "title": "Learn How to Click a Button when Angular Unit Testing",
+    "link": "https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Common JavaScript Errors and How To Handle Them",
-    "link": "https://dev.to/lambdatest/common-javascript-errors-and-how-to-handle-them-5em9",
+    "title": "Floating Action Button for Vue",
+    "link": "https://dev.to/gil_finkelstein/floating-action-button-for-vue-37e",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "What s the best javascript 3D libarie to learn right now?",
-    "link": "https://dev.to/felicio2310/whats-the-best-javascript-3d-libarie-to-learn-right-now-4ib0",
+    "title": "Becoming a JavaScript Code Warrior",
+    "link": "https://dev.to/nats_tech_notes/becoming-a-javascript-code-warrior-f96",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Matching faces to Twitter DPs #ngIndia",
-    "link": "https://dev.to/epilot/matching-faces-to-twitter-dps-ngindia-1j9j",
+    "title": "Node: cd myjourney03",
+    "link": "https://dev.to/adebiyiitunuayo/node-cd-myjourney03-327",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript library for client-side non-blocking notifications",
-    "link": "https://dev.to/gil_finkelstein/javascript-library-for-client-side-non-blocking-notifications-16d5",
+    "title": "Resources to Learn react better way!!",
+    "link": "https://dev.to/thisisyogeshkp/resources-to-learn-react-better-way-13m",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Dear Web Devs, Please Use Anchors Instead of Divs for Buttons",
-    "link": "https://dev.to/cppshane/dear-web-devs-please-use-anchors-instead-of-divs-for-buttons-4koi",
+    "title": "Learn How to Click a Button when Angular Unit Testing",
+    "link": "https://blog.braydoncoyer.dev/learn-how-to-click-a-button-when-angular-unit-testing",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Clean Architecture: implementando meu primeiro Use Case",
-    "link": "https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7",
+    "title": "Tipo de objeto anônimo",
+    "link": "https://squash.hashnode.dev/tipo-de-objeto-anonimo",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "**Some of the things you need to learn before getting started on Node**",
-    "link": "https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi",
+    "title": "Day 5 : I'm still here",
+    "link": "https://oussamamoutafatin.hashnode.dev/day-5-im-still-here",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Tools of the Trade: Declarative DNS with dnscontrol",
-    "link": "https://dev.to/sphericalkat/tools-of-the-trade-declarative-dns-with-dnscontrol-21n",
+    "title": "function in JavaScript",
+    "link": "https://alliwebtheory.hashnode.dev/function-in-javascript",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "Tricks to Debug JavaScript Faster",
-    "link": "https://dev.to/tulusibrahim/tricks-to-debug-javascript-faster-23h6",
+    "title": "Real Madrid Knows Soccer's Balance Of Power Is Shifting",
+    "link": "https://lastchild.hashnode.dev/real-madrid-knows-soccers-balance-of-power-is-shifting",
     "date": "5/27/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "How to Improve Coding skills by doing 100 Days Of Code? Here are the 16 benefits that I got from it.",
@@ -486,52 +798,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Why do we use React?",
-    "link": "https://abhishekranjan.hashnode.dev/why-do-we-use-react",
+    "title": "Call, Apply and Bind in javascript",
+    "link": "https://mahendrachauhan.hashnode.dev/call-apply-and-bind-in-javascript",
     "date": "5/27/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "If Else Statement In JavaScript With Examples",
-    "link": "https://blog.surya-l.com/if-else-statement-in-javascript-with-examples",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Simple sparklines charts",
-    "link": "https://railsjazz.hashnode.dev/simple-sparklines-charts",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Complete Object Oriented Programming (OOP) in Javascript",
-    "link": "https://aryaan.hashnode.dev/complete-object-oriented-programming-oop-in-javascript",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "REST- In Layman's Term",
-    "link": "https://sujeet-agrahari.hashnode.dev/rest-in-laymans-term",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Update Firefox products now to fix critical vulnerabilities",
-    "link": "https://hungvu.tech/update-firefox-products-now-to-fix-critical-vulnerabilities",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Tools of the Trade: Declarative DNS with dnscontrol",
-    "link": "https://sphericalkat.hashnode.dev/tools-of-the-trade-declarative-dns-with-dnscontrol",
-    "date": "5/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Pantangan Setelah Filler",
-    "link": "https://dev.to/beautynewsindo/pantangan-setelah-filler-183a",
-    "date": "5/27/2022",
-    "site": "dev.to"
   },
   {
     "title": "5 VSCode Extensions You Must Use",
@@ -540,363 +810,33 @@
     "site": "dev.to"
   },
   {
-    "title": "Get SCS-C01 Dumps PDF To Prepare Exam Inside a Less Time_",
-    "link": "https://dev.to/davidjerry4311/get-scs-c01-dumps-pdf-to-prepare-exam-inside-a-less-time-4pjp",
+    "title": "Learn How to Click a Button when Angular Unit Testing",
+    "link": "https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Common JavaScript Errors and How To Handle Them",
-    "link": "https://dev.to/lambdatest/common-javascript-errors-and-how-to-handle-them-5em9",
+    "title": "Floating Action Button for Vue",
+    "link": "https://dev.to/gil_finkelstein/floating-action-button-for-vue-37e",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "What s the best javascript 3D libarie to learn right now?",
-    "link": "https://dev.to/felicio2310/whats-the-best-javascript-3d-libarie-to-learn-right-now-4ib0",
+    "title": "Becoming a JavaScript Code Warrior",
+    "link": "https://dev.to/nats_tech_notes/becoming-a-javascript-code-warrior-f96",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Matching faces to Twitter DPs #ngIndia",
-    "link": "https://dev.to/epilot/matching-faces-to-twitter-dps-ngindia-1j9j",
+    "title": "Node: cd myjourney03",
+    "link": "https://dev.to/adebiyiitunuayo/node-cd-myjourney03-327",
     "date": "5/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript library for client-side non-blocking notifications",
-    "link": "https://dev.to/gil_finkelstein/javascript-library-for-client-side-non-blocking-notifications-16d5",
+    "title": "Resources to Learn react better way!!",
+    "link": "https://dev.to/thisisyogeshkp/resources-to-learn-react-better-way-13m",
     "date": "5/27/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dear Web Devs, Please Use Anchors Instead of Divs for Buttons",
-    "link": "https://dev.to/cppshane/dear-web-devs-please-use-anchors-instead-of-divs-for-buttons-4koi",
-    "date": "5/27/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Clean Architecture: implementando meu primeiro Use Case",
-    "link": "https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7",
-    "date": "5/27/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "**Some of the things you need to learn before getting started on Node**",
-    "link": "https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi",
-    "date": "5/27/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tools of the Trade: Declarative DNS with dnscontrol",
-    "link": "https://dev.to/sphericalkat/tools-of-the-trade-declarative-dns-with-dnscontrol-21n",
-    "date": "5/27/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tricks to Debug JavaScript Faster",
-    "link": "https://dev.to/tulusibrahim/tricks-to-debug-javascript-faster-23h6",
-    "date": "5/27/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue.js Global Summit '22 - Senior Track Event Summary #1",
-    "link": "https://mgodev.hashnode.dev/vuejs-global-summit-22-senior-track-event-summary-1",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Throttling and Debouncing -> A look into performance",
-    "link": "https://dhruvinmehta.hashnode.dev/throttling-and-debouncing-greater-a-look-into-performance",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The useEffect hook in React 18 has a peculiar behavior.",
-    "link": "https://khansa.hashnode.dev/the-useeffect-hook-in-react-18-has-a-peculiar-behavior",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I'm helping to build a Figma to React code tool that generates high-quality, responsive, component-based code along with a live prototype!",
-    "link": "https://isaacgideon.hashnode.dev/im-helping-to-build-a-figma-to-react-code-tool-that-generates-high-quality-responsive-component-based-code-along-with-a-live-prototype",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Make Your Own Livestreaming Service with API. video",
-    "link": "https://realpythonproject.hashnode.dev/how-to-make-your-own-livestreaming-service-with-api-video",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What exactly is UX/UI? Beyond the buzz buzz figma design",
-    "link": "https://arafatsalam.hashnode.dev/what-exactly-is-uxui-beyond-the-buzz-buzz-figma-design",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Must know JavaScript Array  Methods",
-    "link": "https://ajay-mandaviya.hashnode.dev/must-know-javascript-array-methods",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Visualizing a Globally Distributed Team Using Multiple APIs",
-    "link": "https://dev.to/postman/visualizing-a-globally-distributed-team-using-multiple-apis-d38",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Chatbot",
-    "link": "https://dev.to/diogovski/ai-chatbot-1maf",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Make Your Own Livestreaming Service with api.video",
-    "link": "https://dev.to/rahulbanerjee99/how-to-make-your-own-livestreaming-service-with-apivideo-23fo",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue.js Global Summit '22 - Senior Track Event Summary #1",
-    "link": "https://mgodev.hashnode.dev/vuejs-global-summit-22-senior-track-event-summary-1",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Throttling and Debouncing -> A look into performance",
-    "link": "https://dhruvinmehta.hashnode.dev/throttling-and-debouncing-greater-a-look-into-performance",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The useEffect hook in React 18 has a peculiar behavior.",
-    "link": "https://khansa.hashnode.dev/the-useeffect-hook-in-react-18-has-a-peculiar-behavior",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I'm helping to build a Figma to React code tool that generates high-quality, responsive, component-based code along with a live prototype!",
-    "link": "https://isaacgideon.hashnode.dev/im-helping-to-build-a-figma-to-react-code-tool-that-generates-high-quality-responsive-component-based-code-along-with-a-live-prototype",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Make Your Own Livestreaming Service with API. video",
-    "link": "https://realpythonproject.hashnode.dev/how-to-make-your-own-livestreaming-service-with-api-video",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What exactly is UX/UI? Beyond the buzz buzz figma design",
-    "link": "https://arafatsalam.hashnode.dev/what-exactly-is-uxui-beyond-the-buzz-buzz-figma-design",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Must know JavaScript Array  Methods",
-    "link": "https://ajay-mandaviya.hashnode.dev/must-know-javascript-array-methods",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Visualizing a Globally Distributed Team Using Multiple APIs",
-    "link": "https://dev.to/postman/visualizing-a-globally-distributed-team-using-multiple-apis-d38",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Chatbot",
-    "link": "https://dev.to/diogovski/ai-chatbot-1maf",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Make Your Own Livestreaming Service with api.video",
-    "link": "https://dev.to/rahulbanerjee99/how-to-make-your-own-livestreaming-service-with-apivideo-23fo",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue.js Global Summit '22 - Senior Track Event Summary #1",
-    "link": "https://mgodev.hashnode.dev/vuejs-global-summit-22-senior-track-event-summary-1",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Throttling and Debouncing -> A look into performance",
-    "link": "https://dhruvinmehta.hashnode.dev/throttling-and-debouncing-greater-a-look-into-performance",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The useEffect hook in React 18 has a peculiar behavior.",
-    "link": "https://khansa.hashnode.dev/the-useeffect-hook-in-react-18-has-a-peculiar-behavior",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I'm helping to build a Figma to React code tool that generates high-quality, responsive, component-based code along with a live prototype!",
-    "link": "https://isaacgideon.hashnode.dev/im-helping-to-build-a-figma-to-react-code-tool-that-generates-high-quality-responsive-component-based-code-along-with-a-live-prototype",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Make Your Own Livestreaming Service with API. video",
-    "link": "https://realpythonproject.hashnode.dev/how-to-make-your-own-livestreaming-service-with-api-video",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What exactly is UX/UI? Beyond the buzz buzz figma design",
-    "link": "https://arafatsalam.hashnode.dev/what-exactly-is-uxui-beyond-the-buzz-buzz-figma-design",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Must know JavaScript Array  Methods",
-    "link": "https://ajay-mandaviya.hashnode.dev/must-know-javascript-array-methods",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Visualizing a Globally Distributed Team Using Multiple APIs",
-    "link": "https://dev.to/postman/visualizing-a-globally-distributed-team-using-multiple-apis-d38",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Chatbot",
-    "link": "https://dev.to/diogovski/ai-chatbot-1maf",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Make Your Own Livestreaming Service with api.video",
-    "link": "https://dev.to/rahulbanerjee99/how-to-make-your-own-livestreaming-service-with-apivideo-23fo",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue.js Global Summit '22 - Senior Track Event Summary #1",
-    "link": "https://mgodev.hashnode.dev/vuejs-global-summit-22-senior-track-event-summary-1",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Throttling and Debouncing -> A look into performance",
-    "link": "https://dhruvinmehta.hashnode.dev/throttling-and-debouncing-greater-a-look-into-performance",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The useEffect hook in React 18 has a peculiar behavior.",
-    "link": "https://khansa.hashnode.dev/the-useeffect-hook-in-react-18-has-a-peculiar-behavior",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I'm helping to build a Figma to React code tool that generates high-quality, responsive, component-based code along with a live prototype!",
-    "link": "https://isaacgideon.hashnode.dev/im-helping-to-build-a-figma-to-react-code-tool-that-generates-high-quality-responsive-component-based-code-along-with-a-live-prototype",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Make Your Own Livestreaming Service with API. video",
-    "link": "https://realpythonproject.hashnode.dev/how-to-make-your-own-livestreaming-service-with-api-video",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What exactly is UX/UI? Beyond the buzz buzz figma design",
-    "link": "https://arafatsalam.hashnode.dev/what-exactly-is-uxui-beyond-the-buzz-buzz-figma-design",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Must know JavaScript Array  Methods",
-    "link": "https://ajay-mandaviya.hashnode.dev/must-know-javascript-array-methods",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Visualizing a Globally Distributed Team Using Multiple APIs",
-    "link": "https://dev.to/postman/visualizing-a-globally-distributed-team-using-multiple-apis-d38",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Chatbot",
-    "link": "https://dev.to/diogovski/ai-chatbot-1maf",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Make Your Own Livestreaming Service with api.video",
-    "link": "https://dev.to/rahulbanerjee99/how-to-make-your-own-livestreaming-service-with-apivideo-23fo",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue.js Global Summit '22 - Senior Track Event Summary #1",
-    "link": "https://mgodev.hashnode.dev/vuejs-global-summit-22-senior-track-event-summary-1",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Throttling and Debouncing -> A look into performance",
-    "link": "https://dhruvinmehta.hashnode.dev/throttling-and-debouncing-greater-a-look-into-performance",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The useEffect hook in React 18 has a peculiar behavior.",
-    "link": "https://khansa.hashnode.dev/the-useeffect-hook-in-react-18-has-a-peculiar-behavior",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "I'm helping to build a Figma to React code tool that generates high-quality, responsive, component-based code along with a live prototype!",
-    "link": "https://isaacgideon.hashnode.dev/im-helping-to-build-a-figma-to-react-code-tool-that-generates-high-quality-responsive-component-based-code-along-with-a-live-prototype",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Make Your Own Livestreaming Service with API. video",
-    "link": "https://realpythonproject.hashnode.dev/how-to-make-your-own-livestreaming-service-with-api-video",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What exactly is UX/UI? Beyond the buzz buzz figma design",
-    "link": "https://arafatsalam.hashnode.dev/what-exactly-is-uxui-beyond-the-buzz-buzz-figma-design",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Must know JavaScript Array  Methods",
-    "link": "https://ajay-mandaviya.hashnode.dev/must-know-javascript-array-methods",
-    "date": "5/26/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Visualizing a Globally Distributed Team Using Multiple APIs",
-    "link": "https://dev.to/postman/visualizing-a-globally-distributed-team-using-multiple-apis-d38",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Chatbot",
-    "link": "https://dev.to/diogovski/ai-chatbot-1maf",
-    "date": "5/26/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Make Your Own Livestreaming Service with api.video",
-    "link": "https://dev.to/rahulbanerjee99/how-to-make-your-own-livestreaming-service-with-apivideo-23fo",
-    "date": "5/26/2022",
     "site": "dev.to"
   },
   {
@@ -958,7 +898,7 @@
   {
     "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
     "link": "https://www.smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "4/8/2022",
     "site": "smashingmagazine"
   },
@@ -991,6 +931,36 @@
     "site": "smashingmagazine"
   },
   {
+    "title": "stdout: Localhost HTTP Proxy with Node.js",
+    "link": "dev.to/nabeelvalley/stdout-localhost-http-proxy-with-nodejs-1hlf",
+    "date": "3/8/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "stdout: Localhost HTTP Proxy with Node.js",
+    "link": "dev.to/nabeelvalley/stdout-localhost-http-proxy-with-nodejs-1hlf",
+    "date": "3/8/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "stdout: Localhost HTTP Proxy with Node.js",
+    "link": "dev.to/nabeelvalley/stdout-localhost-http-proxy-with-nodejs-1hlf",
+    "date": "3/8/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "stdout: Localhost HTTP Proxy with Node.js",
+    "link": "dev.to/nabeelvalley/stdout-localhost-http-proxy-with-nodejs-1hlf",
+    "date": "3/8/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "stdout: Localhost HTTP Proxy with Node.js",
+    "link": "dev.to/nabeelvalley/stdout-localhost-http-proxy-with-nodejs-1hlf",
+    "date": "3/8/2022",
+    "site": "dev.to"
+  },
+  {
     "title": "Performance Signals For Customizing Website UX",
     "link": "https://www.smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
     "reading_time": "21 min read",
@@ -998,11 +968,41 @@
     "site": "smashingmagazine"
   },
   {
+    "title": "Mastering the functions' return statement",
+    "link": "https://dev.to/mindsers/mastering-the-functions-return-statement-36m",
+    "date": "3/2/2022",
+    "site": "dev.to"
+  },
+  {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
     "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
     "reading_time": "24 min read",
     "date": "3/2/2022",
     "site": "smashingmagazine"
+  },
+  {
+    "title": "Mastering the functions' return statement",
+    "link": "https://dev.to/mindsers/mastering-the-functions-return-statement-36m",
+    "date": "3/2/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering the functions' return statement",
+    "link": "https://dev.to/mindsers/mastering-the-functions-return-statement-36m",
+    "date": "3/2/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering the functions' return statement",
+    "link": "https://dev.to/mindsers/mastering-the-functions-return-statement-36m",
+    "date": "3/2/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering the functions' return statement",
+    "link": "https://dev.to/mindsers/mastering-the-functions-return-statement-36m",
+    "date": "3/2/2022",
+    "site": "dev.to"
   },
   {
     "title": "Comparing Node JavaScript to JavaScript in the Browser",
@@ -1253,7 +1253,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
@@ -1322,7 +1322,7 @@
   {
     "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
     "link": "https://www.smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "6/7/2021",
     "site": "smashingmagazine"
   },
