@@ -1,63 +1,603 @@
 [
   {
-    "title": "Reconciliation and Diffing in React",
-    "link": "https://bhushan-naik.hashnode.dev/reconciliation-and-diffing-in-react",
+    "title": "Introduction to programming",
+    "link": "https://shahimafiroz.hashnode.dev/introduction-to-programming",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Destructuring Assignment",
+    "link": "https://thedivyareddyy.hashnode.dev/destructuring-assignment",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Spread Operator in Javascript.",
+    "link": "https://varun19.hashnode.dev/the-spread-operator-in-javascript",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Getting started with useContext",
+    "link": "https://nikhiljugale007.hashnode.dev/getting-started-with-usecontext",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Recursion - A must-know algorithm.",
+    "link": "https://shravaniroy.hashnode.dev/recursion-a-must-know-algorithm",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Disjoint-set Data Structure",
+    "link": "https://blog.yaox023.com/disjoint-set-data-structure",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wonderful designed french sites",
+    "link": "https://dev.to/deotyma/wonderful-designed-french-sites-1d05",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I made a classless CSS framework",
+    "link": "https://dev.to/501a/i-made-a-classless-css-framework-h7m",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create a scroll to top button with vanilla JS & CSS",
+    "link": "https://dev.to/amirlotfi/how-to-create-a-scroll-to-top-button-with-vanilla-js-css-ji8",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (11-06-2022) - Due diligence",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-11-06-2022-due-diligence-4dmp",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I updated my portfolio site!",
+    "link": "https://dev.to/radocode/i-updated-my-portfolio-site-h6l",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This is why everyone is using Reactjs",
+    "link": "https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tailwindcss is beautiful 👌",
+    "link": "https://dev.to/ikausik/tailwindcss-is-beautiful-53f0",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vanilla Dark Mode",
+    "link": "https://dev.to/ashalfarhan/vanilla-dark-mode-3a0l",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fantastic New way for deep copy of JavaScript Object",
+    "link": "https://dev.to/satel/fantastic-new-way-for-deep-copy-of-javascript-object-19ja",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using NodeJS library `dotenv` to Handle Environmental Variables and Secret Keys — Tutorial",
+    "link": "https://dev.to/cireneirbo/using-nodejs-library-dotenv-to-handle-environmental-variables-and-secret-keys-tutorial-173j",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Free APIs List",
+    "link": "https://dev.to/theplugjumbo/free-apis-list-h3d",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Manipulación de Arrays en JavaScript 😎Part 2",
+    "link": "https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to programming",
+    "link": "https://shahimafiroz.hashnode.dev/introduction-to-programming",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Destructuring Assignment",
+    "link": "https://thedivyareddyy.hashnode.dev/destructuring-assignment",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Spread Operator in Javascript.",
+    "link": "https://varun19.hashnode.dev/the-spread-operator-in-javascript",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Getting started with useContext",
+    "link": "https://nikhiljugale007.hashnode.dev/getting-started-with-usecontext",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Recursion - A must-know algorithm.",
+    "link": "https://shravaniroy.hashnode.dev/recursion-a-must-know-algorithm",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Disjoint-set Data Structure",
+    "link": "https://blog.yaox023.com/disjoint-set-data-structure",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wonderful designed french sites",
+    "link": "https://dev.to/deotyma/wonderful-designed-french-sites-1d05",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I made a classless CSS framework",
+    "link": "https://dev.to/501a/i-made-a-classless-css-framework-h7m",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create a scroll to top button with vanilla JS & CSS",
+    "link": "https://dev.to/amirlotfi/how-to-create-a-scroll-to-top-button-with-vanilla-js-css-ji8",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (11-06-2022) - Due diligence",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-11-06-2022-due-diligence-4dmp",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I updated my portfolio site!",
+    "link": "https://dev.to/radocode/i-updated-my-portfolio-site-h6l",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This is why everyone is using Reactjs",
+    "link": "https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tailwindcss is beautiful 👌",
+    "link": "https://dev.to/ikausik/tailwindcss-is-beautiful-53f0",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vanilla Dark Mode",
+    "link": "https://dev.to/ashalfarhan/vanilla-dark-mode-3a0l",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fantastic New way for deep copy of JavaScript Object",
+    "link": "https://dev.to/satel/fantastic-new-way-for-deep-copy-of-javascript-object-19ja",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using NodeJS library `dotenv` to Handle Environmental Variables and Secret Keys — Tutorial",
+    "link": "https://dev.to/cireneirbo/using-nodejs-library-dotenv-to-handle-environmental-variables-and-secret-keys-tutorial-173j",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Free APIs List",
+    "link": "https://dev.to/theplugjumbo/free-apis-list-h3d",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Manipulación de Arrays en JavaScript 😎Part 2",
+    "link": "https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to programming",
+    "link": "https://shahimafiroz.hashnode.dev/introduction-to-programming",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Destructuring Assignment",
+    "link": "https://thedivyareddyy.hashnode.dev/destructuring-assignment",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Spread Operator in Javascript.",
+    "link": "https://varun19.hashnode.dev/the-spread-operator-in-javascript",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Getting started with useContext",
+    "link": "https://nikhiljugale007.hashnode.dev/getting-started-with-usecontext",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Recursion - A must-know algorithm.",
+    "link": "https://shravaniroy.hashnode.dev/recursion-a-must-know-algorithm",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Disjoint-set Data Structure",
+    "link": "https://blog.yaox023.com/disjoint-set-data-structure",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wonderful designed french sites",
+    "link": "https://dev.to/deotyma/wonderful-designed-french-sites-1d05",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I made a classless CSS framework",
+    "link": "https://dev.to/501a/i-made-a-classless-css-framework-h7m",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create a scroll to top button with vanilla JS & CSS",
+    "link": "https://dev.to/amirlotfi/how-to-create-a-scroll-to-top-button-with-vanilla-js-css-ji8",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (11-06-2022) - Due diligence",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-11-06-2022-due-diligence-4dmp",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I updated my portfolio site!",
+    "link": "https://dev.to/radocode/i-updated-my-portfolio-site-h6l",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This is why everyone is using Reactjs",
+    "link": "https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tailwindcss is beautiful 👌",
+    "link": "https://dev.to/ikausik/tailwindcss-is-beautiful-53f0",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vanilla Dark Mode",
+    "link": "https://dev.to/ashalfarhan/vanilla-dark-mode-3a0l",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fantastic New way for deep copy of JavaScript Object",
+    "link": "https://dev.to/satel/fantastic-new-way-for-deep-copy-of-javascript-object-19ja",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using NodeJS library `dotenv` to Handle Environmental Variables and Secret Keys — Tutorial",
+    "link": "https://dev.to/cireneirbo/using-nodejs-library-dotenv-to-handle-environmental-variables-and-secret-keys-tutorial-173j",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Free APIs List",
+    "link": "https://dev.to/theplugjumbo/free-apis-list-h3d",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Manipulación de Arrays en JavaScript 😎Part 2",
+    "link": "https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to programming",
+    "link": "https://shahimafiroz.hashnode.dev/introduction-to-programming",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Destructuring Assignment",
+    "link": "https://thedivyareddyy.hashnode.dev/destructuring-assignment",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Spread Operator in Javascript.",
+    "link": "https://varun19.hashnode.dev/the-spread-operator-in-javascript",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Getting started with useContext",
+    "link": "https://nikhiljugale007.hashnode.dev/getting-started-with-usecontext",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Recursion - A must-know algorithm.",
+    "link": "https://shravaniroy.hashnode.dev/recursion-a-must-know-algorithm",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Disjoint-set Data Structure",
+    "link": "https://blog.yaox023.com/disjoint-set-data-structure",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wonderful designed french sites",
+    "link": "https://dev.to/deotyma/wonderful-designed-french-sites-1d05",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I made a classless CSS framework",
+    "link": "https://dev.to/501a/i-made-a-classless-css-framework-h7m",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create a scroll to top button with vanilla JS & CSS",
+    "link": "https://dev.to/amirlotfi/how-to-create-a-scroll-to-top-button-with-vanilla-js-css-ji8",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (11-06-2022) - Due diligence",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-11-06-2022-due-diligence-4dmp",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I updated my portfolio site!",
+    "link": "https://dev.to/radocode/i-updated-my-portfolio-site-h6l",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This is why everyone is using Reactjs",
+    "link": "https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tailwindcss is beautiful 👌",
+    "link": "https://dev.to/ikausik/tailwindcss-is-beautiful-53f0",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vanilla Dark Mode",
+    "link": "https://dev.to/ashalfarhan/vanilla-dark-mode-3a0l",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fantastic New way for deep copy of JavaScript Object",
+    "link": "https://dev.to/satel/fantastic-new-way-for-deep-copy-of-javascript-object-19ja",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using NodeJS library `dotenv` to Handle Environmental Variables and Secret Keys — Tutorial",
+    "link": "https://dev.to/cireneirbo/using-nodejs-library-dotenv-to-handle-environmental-variables-and-secret-keys-tutorial-173j",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Free APIs List",
+    "link": "https://dev.to/theplugjumbo/free-apis-list-h3d",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Manipulación de Arrays en JavaScript 😎Part 2",
+    "link": "https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to programming",
+    "link": "https://shahimafiroz.hashnode.dev/introduction-to-programming",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Destructuring Assignment",
+    "link": "https://thedivyareddyy.hashnode.dev/destructuring-assignment",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Spread Operator in Javascript.",
+    "link": "https://varun19.hashnode.dev/the-spread-operator-in-javascript",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Getting started with useContext",
+    "link": "https://nikhiljugale007.hashnode.dev/getting-started-with-usecontext",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Recursion - A must-know algorithm.",
+    "link": "https://shravaniroy.hashnode.dev/recursion-a-must-know-algorithm",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Disjoint-set Data Structure",
+    "link": "https://blog.yaox023.com/disjoint-set-data-structure",
+    "date": "6/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Wonderful designed french sites",
+    "link": "https://dev.to/deotyma/wonderful-designed-french-sites-1d05",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I made a classless CSS framework",
+    "link": "https://dev.to/501a/i-made-a-classless-css-framework-h7m",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create a scroll to top button with vanilla JS & CSS",
+    "link": "https://dev.to/amirlotfi/how-to-create-a-scroll-to-top-button-with-vanilla-js-css-ji8",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (11-06-2022) - Due diligence",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-11-06-2022-due-diligence-4dmp",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I updated my portfolio site!",
+    "link": "https://dev.to/radocode/i-updated-my-portfolio-site-h6l",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "This is why everyone is using Reactjs",
+    "link": "https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tailwindcss is beautiful 👌",
+    "link": "https://dev.to/ikausik/tailwindcss-is-beautiful-53f0",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vanilla Dark Mode",
+    "link": "https://dev.to/ashalfarhan/vanilla-dark-mode-3a0l",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fantastic New way for deep copy of JavaScript Object",
+    "link": "https://dev.to/satel/fantastic-new-way-for-deep-copy-of-javascript-object-19ja",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using NodeJS library `dotenv` to Handle Environmental Variables and Secret Keys — Tutorial",
+    "link": "https://dev.to/cireneirbo/using-nodejs-library-dotenv-to-handle-environmental-variables-and-secret-keys-tutorial-173j",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Free APIs List",
+    "link": "https://dev.to/theplugjumbo/free-apis-list-h3d",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Manipulación de Arrays en JavaScript 😎Part 2",
+    "link": "https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do",
+    "date": "6/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Array Methods",
+    "link": "https://tanjum.hashnode.dev/array-methods",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "ダッチワイフについての驚くべき事実",
-    "link": "https://bijindoll.hashnode.dev/44oa44od44ob44ov44kk44ov44gr44gk44ge44gm44gu6ama44gp44g544gn5lql5a6f",
+    "title": "5 tips for web programmers",
+    "link": "https://aryaan.hashnode.dev/5-tips-for-web-programmers",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "var vs let vs const in JS",
-    "link": "https://abhijeetsinha.hashnode.dev/var-vs-let-vs-const-in-js",
+    "title": "Shuttle  Loan Customer Care Number☎️❾❶❷❷❹❼❽❽❹❶",
+    "link": "https://ddgxeed.hashnode.dev/shuttle-loan-customer-care-number-1",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Refactoring Combo: Extract Array Constant From String Comparison Chain",
-    "link": "https://p42.hashnode.dev/js-refactoring-combo-extract-array-constant-from-string-comparison-chain",
+    "title": "The Chess Game",
+    "link": "https://ndumisotdev.hashnode.dev/the-chess-game",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Array Methods",
-    "link": "https://blog.abhishake21.com/javascript-array-methods",
+    "title": "Creating an API resource file using axios",
+    "link": "https://akinolu52.hashnode.dev/creating-an-api-resource-file-using-axios",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "How Memoization works in React?",
-    "link": "https://t007rushi.hashnode.dev/how-memoization-works-in-react",
+    "title": "Sorting  JavaScript Array: JS Array sort() Method",
+    "link": "https://bibhas.hashnode.dev/js-array-sort",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "ALEXANDRIA LOAN CUSTOMER CARE NUMBER@8541845833vb",
-    "link": "https://bhaju.hashnode.dev/alexandria-loan-customer-care-number8541845833vb",
+    "title": "Custom-movie-App",
+    "link": "https://gagandeep28.hashnode.dev/custom-movie-app",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to setup jest for ES6 syntax",
-    "link": "https://jsbisht.in/how-to-setup-jest-for-es6-syntax",
+    "title": "The journey to Fjalëz (Albanian Wordle)",
+    "link": "https://blog.metinferati.com/the-journey-to-fjalez-albanian-wordle",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Domini Loan customer care Number 8420808856",
-    "link": "https://zvb.hashnode.dev/domini-loan-customer-care-number-8420808856-1",
+    "title": "Go through arrays in JavaScript (Part III)",
+    "link": "https://omkarchaskar.hashnode.dev/go-through-arrays-in-javascript-part-iii",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Domini loan customer care number 8942030099 Toll Free 180011001100",
-    "link": "https://ghuhh.hashnode.dev/domini-loan-customer-care-number-8942030099-toll-free-180011001100-1",
+    "title": "The experience of creating my own JavaScript runtime - #1",
+    "link": "https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-1-4h9j",
     "date": "6/10/2022",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "Trendiest Admin Template for React & Chakra UI!",
@@ -66,136 +606,70 @@
     "site": "dev.to"
   },
   {
-    "title": "A Complete Detailed Guide On The Uses Of SQL",
-    "link": "https://dev.to/calltutors/a-complete-detailed-guide-on-the-uses-of-sql-2j02",
+    "title": "Jest parametrized test that throws errors",
+    "link": "https://dev.to/eomiso/jest-parametrized-test-that-throws-errors-3p7o",
     "date": "6/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "Developer Path #2 - Choosing the tech-stack",
-    "link": "https://dev.to/bilalelhaj/developer-path-2-choosing-the-tech-stack-cnk",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "User re-authentication in your web app.",
-    "link": "https://dev.to/chani24/user-re-authentication-in-your-web-app-16bj",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to mock function that called inside module",
-    "link": "https://dev.to/edwinwong90/how-to-mock-function-that-called-inside-module-7f7",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Crate a simple React movie database app with The OMDB api",
-    "link": "https://dev.to/rtagliavia/crate-a-simple-react-movie-database-app-with-the-omdb-api-16kd",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ES6 Handbook",
-    "link": "https://dev.to/vedanthb/es6-handbook-12bd",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "One liner - remove html tags from a string",
-    "link": "https://dev.to/suri66/one-liner-remove-html-tags-from-a-string-55e2",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "iOS 上使用 getUserMedia() 取用相機但畫面鎖死、黑屏",
-    "link": "https://dev.to/codemee/ios-shang-shi-yong-getusermedia-qu-yong-xiang-ji-dan-hua-mian-suo-si-hei-ping-57fa",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Foundations of Asynchronous programming",
-    "link": "https://dev.to/vedanthb/foundations-of-asynchronous-programming-4flc",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quando não utilizar o spread operator",
-    "link": "https://dev.to/yanpiing/quando-nao-utilizar-o-spread-operator-3j33",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "You need to know about req and res objects to build an API in Node.js using Express.js",
-    "link": "https://dev.to/luizcalaca/you-need-to-know-about-req-and-res-objects-to-build-an-api-in-nodejs-using-expressjs-4f3i",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Variables and scoping",
-    "link": "https://dev.to/vedanthb/variables-and-scoping-2ige",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reconciliation and Diffing in React",
-    "link": "https://bhushan-naik.hashnode.dev/reconciliation-and-diffing-in-react",
+    "title": "Array Methods",
+    "link": "https://tanjum.hashnode.dev/array-methods",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "ダッチワイフについての驚くべき事実",
-    "link": "https://bijindoll.hashnode.dev/44oa44od44ob44ov44kk44ov44gr44gk44ge44gm44gu6ama44gp44g544gn5lql5a6f",
+    "title": "5 tips for web programmers",
+    "link": "https://aryaan.hashnode.dev/5-tips-for-web-programmers",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "var vs let vs const in JS",
-    "link": "https://abhijeetsinha.hashnode.dev/var-vs-let-vs-const-in-js",
+    "title": "Shuttle  Loan Customer Care Number☎️❾❶❷❷❹❼❽❽❹❶",
+    "link": "https://ddgxeed.hashnode.dev/shuttle-loan-customer-care-number-1",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Refactoring Combo: Extract Array Constant From String Comparison Chain",
-    "link": "https://p42.hashnode.dev/js-refactoring-combo-extract-array-constant-from-string-comparison-chain",
+    "title": "The Chess Game",
+    "link": "https://ndumisotdev.hashnode.dev/the-chess-game",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Array Methods",
-    "link": "https://blog.abhishake21.com/javascript-array-methods",
+    "title": "Creating an API resource file using axios",
+    "link": "https://akinolu52.hashnode.dev/creating-an-api-resource-file-using-axios",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "How Memoization works in React?",
-    "link": "https://t007rushi.hashnode.dev/how-memoization-works-in-react",
+    "title": "Sorting  JavaScript Array: JS Array sort() Method",
+    "link": "https://bibhas.hashnode.dev/js-array-sort",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "ALEXANDRIA LOAN CUSTOMER CARE NUMBER@8541845833vb",
-    "link": "https://bhaju.hashnode.dev/alexandria-loan-customer-care-number8541845833vb",
+    "title": "Custom-movie-App",
+    "link": "https://gagandeep28.hashnode.dev/custom-movie-app",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to setup jest for ES6 syntax",
-    "link": "https://jsbisht.in/how-to-setup-jest-for-es6-syntax",
+    "title": "The journey to Fjalëz (Albanian Wordle)",
+    "link": "https://blog.metinferati.com/the-journey-to-fjalez-albanian-wordle",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Domini Loan customer care Number 8420808856",
-    "link": "https://zvb.hashnode.dev/domini-loan-customer-care-number-8420808856-1",
+    "title": "Go through arrays in JavaScript (Part III)",
+    "link": "https://omkarchaskar.hashnode.dev/go-through-arrays-in-javascript-part-iii",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Domini loan customer care number 8942030099 Toll Free 180011001100",
-    "link": "https://ghuhh.hashnode.dev/domini-loan-customer-care-number-8942030099-toll-free-180011001100-1",
+    "title": "The experience of creating my own JavaScript runtime - #1",
+    "link": "https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-1-4h9j",
     "date": "6/10/2022",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "Trendiest Admin Template for React & Chakra UI!",
@@ -204,136 +678,70 @@
     "site": "dev.to"
   },
   {
-    "title": "A Complete Detailed Guide On The Uses Of SQL",
-    "link": "https://dev.to/calltutors/a-complete-detailed-guide-on-the-uses-of-sql-2j02",
+    "title": "Jest parametrized test that throws errors",
+    "link": "https://dev.to/eomiso/jest-parametrized-test-that-throws-errors-3p7o",
     "date": "6/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "Developer Path #2 - Choosing the tech-stack",
-    "link": "https://dev.to/bilalelhaj/developer-path-2-choosing-the-tech-stack-cnk",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "User re-authentication in your web app.",
-    "link": "https://dev.to/chani24/user-re-authentication-in-your-web-app-16bj",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to mock function that called inside module",
-    "link": "https://dev.to/edwinwong90/how-to-mock-function-that-called-inside-module-7f7",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Crate a simple React movie database app with The OMDB api",
-    "link": "https://dev.to/rtagliavia/crate-a-simple-react-movie-database-app-with-the-omdb-api-16kd",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ES6 Handbook",
-    "link": "https://dev.to/vedanthb/es6-handbook-12bd",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "One liner - remove html tags from a string",
-    "link": "https://dev.to/suri66/one-liner-remove-html-tags-from-a-string-55e2",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "iOS 上使用 getUserMedia() 取用相機但畫面鎖死、黑屏",
-    "link": "https://dev.to/codemee/ios-shang-shi-yong-getusermedia-qu-yong-xiang-ji-dan-hua-mian-suo-si-hei-ping-57fa",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Foundations of Asynchronous programming",
-    "link": "https://dev.to/vedanthb/foundations-of-asynchronous-programming-4flc",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quando não utilizar o spread operator",
-    "link": "https://dev.to/yanpiing/quando-nao-utilizar-o-spread-operator-3j33",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "You need to know about req and res objects to build an API in Node.js using Express.js",
-    "link": "https://dev.to/luizcalaca/you-need-to-know-about-req-and-res-objects-to-build-an-api-in-nodejs-using-expressjs-4f3i",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Variables and scoping",
-    "link": "https://dev.to/vedanthb/variables-and-scoping-2ige",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reconciliation and Diffing in React",
-    "link": "https://bhushan-naik.hashnode.dev/reconciliation-and-diffing-in-react",
+    "title": "Array Methods",
+    "link": "https://tanjum.hashnode.dev/array-methods",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "ダッチワイフについての驚くべき事実",
-    "link": "https://bijindoll.hashnode.dev/44oa44od44ob44ov44kk44ov44gr44gk44ge44gm44gu6ama44gp44g544gn5lql5a6f",
+    "title": "5 tips for web programmers",
+    "link": "https://aryaan.hashnode.dev/5-tips-for-web-programmers",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "var vs let vs const in JS",
-    "link": "https://abhijeetsinha.hashnode.dev/var-vs-let-vs-const-in-js",
+    "title": "Shuttle  Loan Customer Care Number☎️❾❶❷❷❹❼❽❽❹❶",
+    "link": "https://ddgxeed.hashnode.dev/shuttle-loan-customer-care-number-1",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Refactoring Combo: Extract Array Constant From String Comparison Chain",
-    "link": "https://p42.hashnode.dev/js-refactoring-combo-extract-array-constant-from-string-comparison-chain",
+    "title": "The Chess Game",
+    "link": "https://ndumisotdev.hashnode.dev/the-chess-game",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Array Methods",
-    "link": "https://blog.abhishake21.com/javascript-array-methods",
+    "title": "Creating an API resource file using axios",
+    "link": "https://akinolu52.hashnode.dev/creating-an-api-resource-file-using-axios",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "How Memoization works in React?",
-    "link": "https://t007rushi.hashnode.dev/how-memoization-works-in-react",
+    "title": "Sorting  JavaScript Array: JS Array sort() Method",
+    "link": "https://bibhas.hashnode.dev/js-array-sort",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "ALEXANDRIA LOAN CUSTOMER CARE NUMBER@8541845833vb",
-    "link": "https://bhaju.hashnode.dev/alexandria-loan-customer-care-number8541845833vb",
+    "title": "Custom-movie-App",
+    "link": "https://gagandeep28.hashnode.dev/custom-movie-app",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to setup jest for ES6 syntax",
-    "link": "https://jsbisht.in/how-to-setup-jest-for-es6-syntax",
+    "title": "The journey to Fjalëz (Albanian Wordle)",
+    "link": "https://blog.metinferati.com/the-journey-to-fjalez-albanian-wordle",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Domini Loan customer care Number 8420808856",
-    "link": "https://zvb.hashnode.dev/domini-loan-customer-care-number-8420808856-1",
+    "title": "Go through arrays in JavaScript (Part III)",
+    "link": "https://omkarchaskar.hashnode.dev/go-through-arrays-in-javascript-part-iii",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Domini loan customer care number 8942030099 Toll Free 180011001100",
-    "link": "https://ghuhh.hashnode.dev/domini-loan-customer-care-number-8942030099-toll-free-180011001100-1",
+    "title": "The experience of creating my own JavaScript runtime - #1",
+    "link": "https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-1-4h9j",
     "date": "6/10/2022",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "Trendiest Admin Template for React & Chakra UI!",
@@ -342,136 +750,70 @@
     "site": "dev.to"
   },
   {
-    "title": "A Complete Detailed Guide On The Uses Of SQL",
-    "link": "https://dev.to/calltutors/a-complete-detailed-guide-on-the-uses-of-sql-2j02",
+    "title": "Jest parametrized test that throws errors",
+    "link": "https://dev.to/eomiso/jest-parametrized-test-that-throws-errors-3p7o",
     "date": "6/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "Developer Path #2 - Choosing the tech-stack",
-    "link": "https://dev.to/bilalelhaj/developer-path-2-choosing-the-tech-stack-cnk",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "User re-authentication in your web app.",
-    "link": "https://dev.to/chani24/user-re-authentication-in-your-web-app-16bj",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to mock function that called inside module",
-    "link": "https://dev.to/edwinwong90/how-to-mock-function-that-called-inside-module-7f7",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Crate a simple React movie database app with The OMDB api",
-    "link": "https://dev.to/rtagliavia/crate-a-simple-react-movie-database-app-with-the-omdb-api-16kd",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ES6 Handbook",
-    "link": "https://dev.to/vedanthb/es6-handbook-12bd",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "One liner - remove html tags from a string",
-    "link": "https://dev.to/suri66/one-liner-remove-html-tags-from-a-string-55e2",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "iOS 上使用 getUserMedia() 取用相機但畫面鎖死、黑屏",
-    "link": "https://dev.to/codemee/ios-shang-shi-yong-getusermedia-qu-yong-xiang-ji-dan-hua-mian-suo-si-hei-ping-57fa",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Foundations of Asynchronous programming",
-    "link": "https://dev.to/vedanthb/foundations-of-asynchronous-programming-4flc",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quando não utilizar o spread operator",
-    "link": "https://dev.to/yanpiing/quando-nao-utilizar-o-spread-operator-3j33",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "You need to know about req and res objects to build an API in Node.js using Express.js",
-    "link": "https://dev.to/luizcalaca/you-need-to-know-about-req-and-res-objects-to-build-an-api-in-nodejs-using-expressjs-4f3i",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Variables and scoping",
-    "link": "https://dev.to/vedanthb/variables-and-scoping-2ige",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reconciliation and Diffing in React",
-    "link": "https://bhushan-naik.hashnode.dev/reconciliation-and-diffing-in-react",
+    "title": "Array Methods",
+    "link": "https://tanjum.hashnode.dev/array-methods",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "ダッチワイフについての驚くべき事実",
-    "link": "https://bijindoll.hashnode.dev/44oa44od44ob44ov44kk44ov44gr44gk44ge44gm44gu6ama44gp44g544gn5lql5a6f",
+    "title": "5 tips for web programmers",
+    "link": "https://aryaan.hashnode.dev/5-tips-for-web-programmers",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "var vs let vs const in JS",
-    "link": "https://abhijeetsinha.hashnode.dev/var-vs-let-vs-const-in-js",
+    "title": "Shuttle  Loan Customer Care Number☎️❾❶❷❷❹❼❽❽❹❶",
+    "link": "https://ddgxeed.hashnode.dev/shuttle-loan-customer-care-number-1",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Refactoring Combo: Extract Array Constant From String Comparison Chain",
-    "link": "https://p42.hashnode.dev/js-refactoring-combo-extract-array-constant-from-string-comparison-chain",
+    "title": "The Chess Game",
+    "link": "https://ndumisotdev.hashnode.dev/the-chess-game",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Array Methods",
-    "link": "https://blog.abhishake21.com/javascript-array-methods",
+    "title": "Creating an API resource file using axios",
+    "link": "https://akinolu52.hashnode.dev/creating-an-api-resource-file-using-axios",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "How Memoization works in React?",
-    "link": "https://t007rushi.hashnode.dev/how-memoization-works-in-react",
+    "title": "Sorting  JavaScript Array: JS Array sort() Method",
+    "link": "https://bibhas.hashnode.dev/js-array-sort",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "ALEXANDRIA LOAN CUSTOMER CARE NUMBER@8541845833vb",
-    "link": "https://bhaju.hashnode.dev/alexandria-loan-customer-care-number8541845833vb",
+    "title": "Custom-movie-App",
+    "link": "https://gagandeep28.hashnode.dev/custom-movie-app",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to setup jest for ES6 syntax",
-    "link": "https://jsbisht.in/how-to-setup-jest-for-es6-syntax",
+    "title": "The journey to Fjalëz (Albanian Wordle)",
+    "link": "https://blog.metinferati.com/the-journey-to-fjalez-albanian-wordle",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Domini Loan customer care Number 8420808856",
-    "link": "https://zvb.hashnode.dev/domini-loan-customer-care-number-8420808856-1",
+    "title": "Go through arrays in JavaScript (Part III)",
+    "link": "https://omkarchaskar.hashnode.dev/go-through-arrays-in-javascript-part-iii",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Domini loan customer care number 8942030099 Toll Free 180011001100",
-    "link": "https://ghuhh.hashnode.dev/domini-loan-customer-care-number-8942030099-toll-free-180011001100-1",
+    "title": "The experience of creating my own JavaScript runtime - #1",
+    "link": "https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-1-4h9j",
     "date": "6/10/2022",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "Trendiest Admin Template for React & Chakra UI!",
@@ -480,136 +822,70 @@
     "site": "dev.to"
   },
   {
-    "title": "A Complete Detailed Guide On The Uses Of SQL",
-    "link": "https://dev.to/calltutors/a-complete-detailed-guide-on-the-uses-of-sql-2j02",
+    "title": "Jest parametrized test that throws errors",
+    "link": "https://dev.to/eomiso/jest-parametrized-test-that-throws-errors-3p7o",
     "date": "6/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "Developer Path #2 - Choosing the tech-stack",
-    "link": "https://dev.to/bilalelhaj/developer-path-2-choosing-the-tech-stack-cnk",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "User re-authentication in your web app.",
-    "link": "https://dev.to/chani24/user-re-authentication-in-your-web-app-16bj",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to mock function that called inside module",
-    "link": "https://dev.to/edwinwong90/how-to-mock-function-that-called-inside-module-7f7",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Crate a simple React movie database app with The OMDB api",
-    "link": "https://dev.to/rtagliavia/crate-a-simple-react-movie-database-app-with-the-omdb-api-16kd",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ES6 Handbook",
-    "link": "https://dev.to/vedanthb/es6-handbook-12bd",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "One liner - remove html tags from a string",
-    "link": "https://dev.to/suri66/one-liner-remove-html-tags-from-a-string-55e2",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "iOS 上使用 getUserMedia() 取用相機但畫面鎖死、黑屏",
-    "link": "https://dev.to/codemee/ios-shang-shi-yong-getusermedia-qu-yong-xiang-ji-dan-hua-mian-suo-si-hei-ping-57fa",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Foundations of Asynchronous programming",
-    "link": "https://dev.to/vedanthb/foundations-of-asynchronous-programming-4flc",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quando não utilizar o spread operator",
-    "link": "https://dev.to/yanpiing/quando-nao-utilizar-o-spread-operator-3j33",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "You need to know about req and res objects to build an API in Node.js using Express.js",
-    "link": "https://dev.to/luizcalaca/you-need-to-know-about-req-and-res-objects-to-build-an-api-in-nodejs-using-expressjs-4f3i",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Variables and scoping",
-    "link": "https://dev.to/vedanthb/variables-and-scoping-2ige",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reconciliation and Diffing in React",
-    "link": "https://bhushan-naik.hashnode.dev/reconciliation-and-diffing-in-react",
+    "title": "Array Methods",
+    "link": "https://tanjum.hashnode.dev/array-methods",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "ダッチワイフについての驚くべき事実",
-    "link": "https://bijindoll.hashnode.dev/44oa44od44ob44ov44kk44ov44gr44gk44ge44gm44gu6ama44gp44g544gn5lql5a6f",
+    "title": "5 tips for web programmers",
+    "link": "https://aryaan.hashnode.dev/5-tips-for-web-programmers",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "var vs let vs const in JS",
-    "link": "https://abhijeetsinha.hashnode.dev/var-vs-let-vs-const-in-js",
+    "title": "Shuttle  Loan Customer Care Number☎️❾❶❷❷❹❼❽❽❹❶",
+    "link": "https://ddgxeed.hashnode.dev/shuttle-loan-customer-care-number-1",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "JS Refactoring Combo: Extract Array Constant From String Comparison Chain",
-    "link": "https://p42.hashnode.dev/js-refactoring-combo-extract-array-constant-from-string-comparison-chain",
+    "title": "The Chess Game",
+    "link": "https://ndumisotdev.hashnode.dev/the-chess-game",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "JavaScript Array Methods",
-    "link": "https://blog.abhishake21.com/javascript-array-methods",
+    "title": "Creating an API resource file using axios",
+    "link": "https://akinolu52.hashnode.dev/creating-an-api-resource-file-using-axios",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "How Memoization works in React?",
-    "link": "https://t007rushi.hashnode.dev/how-memoization-works-in-react",
+    "title": "Sorting  JavaScript Array: JS Array sort() Method",
+    "link": "https://bibhas.hashnode.dev/js-array-sort",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "ALEXANDRIA LOAN CUSTOMER CARE NUMBER@8541845833vb",
-    "link": "https://bhaju.hashnode.dev/alexandria-loan-customer-care-number8541845833vb",
+    "title": "Custom-movie-App",
+    "link": "https://gagandeep28.hashnode.dev/custom-movie-app",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to setup jest for ES6 syntax",
-    "link": "https://jsbisht.in/how-to-setup-jest-for-es6-syntax",
+    "title": "The journey to Fjalëz (Albanian Wordle)",
+    "link": "https://blog.metinferati.com/the-journey-to-fjalez-albanian-wordle",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Domini Loan customer care Number 8420808856",
-    "link": "https://zvb.hashnode.dev/domini-loan-customer-care-number-8420808856-1",
+    "title": "Go through arrays in JavaScript (Part III)",
+    "link": "https://omkarchaskar.hashnode.dev/go-through-arrays-in-javascript-part-iii",
     "date": "6/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Domini loan customer care number 8942030099 Toll Free 180011001100",
-    "link": "https://ghuhh.hashnode.dev/domini-loan-customer-care-number-8942030099-toll-free-180011001100-1",
+    "title": "The experience of creating my own JavaScript runtime - #1",
+    "link": "https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-1-4h9j",
     "date": "6/10/2022",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "Trendiest Admin Template for React & Chakra UI!",
@@ -618,293 +894,17 @@
     "site": "dev.to"
   },
   {
-    "title": "A Complete Detailed Guide On The Uses Of SQL",
-    "link": "https://dev.to/calltutors/a-complete-detailed-guide-on-the-uses-of-sql-2j02",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Developer Path #2 - Choosing the tech-stack",
-    "link": "https://dev.to/bilalelhaj/developer-path-2-choosing-the-tech-stack-cnk",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "User re-authentication in your web app.",
-    "link": "https://dev.to/chani24/user-re-authentication-in-your-web-app-16bj",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to mock function that called inside module",
-    "link": "https://dev.to/edwinwong90/how-to-mock-function-that-called-inside-module-7f7",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Crate a simple React movie database app with The OMDB api",
-    "link": "https://dev.to/rtagliavia/crate-a-simple-react-movie-database-app-with-the-omdb-api-16kd",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ES6 Handbook",
-    "link": "https://dev.to/vedanthb/es6-handbook-12bd",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "One liner - remove html tags from a string",
-    "link": "https://dev.to/suri66/one-liner-remove-html-tags-from-a-string-55e2",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "iOS 上使用 getUserMedia() 取用相機但畫面鎖死、黑屏",
-    "link": "https://dev.to/codemee/ios-shang-shi-yong-getusermedia-qu-yong-xiang-ji-dan-hua-mian-suo-si-hei-ping-57fa",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Foundations of Asynchronous programming",
-    "link": "https://dev.to/vedanthb/foundations-of-asynchronous-programming-4flc",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quando não utilizar o spread operator",
-    "link": "https://dev.to/yanpiing/quando-nao-utilizar-o-spread-operator-3j33",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "You need to know about req and res objects to build an API in Node.js using Express.js",
-    "link": "https://dev.to/luizcalaca/you-need-to-know-about-req-and-res-objects-to-build-an-api-in-nodejs-using-expressjs-4f3i",
-    "date": "6/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Variables and scoping",
-    "link": "https://dev.to/vedanthb/variables-and-scoping-2ige",
+    "title": "Jest parametrized test that throws errors",
+    "link": "https://dev.to/eomiso/jest-parametrized-test-that-throws-errors-3p7o",
     "date": "6/10/2022",
     "site": "dev.to"
   },
   {
     "title": "The Future Of Frontend Build Tools",
     "link": "https://www.smashingmagazine.com/2022/06/future-frontend-build-tools/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/9/2022",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "20+ Best HarperDB Tutorials",
-    "link": "https://margomccabe.hashnode.dev/20-best-harperdb-tutorials",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React 18 : Must to know Features",
-    "link": "https://debuggerakshat.hashnode.dev/react-18-must-to-know-features",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a React Native Ecommerce app with Medusa",
-    "link": "https://medusajs.hashnode.dev/creating-a-react-native-ecommerce-app-with-medusa",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Using Sequelize ORM & Sequelize - CLI with Node.JS",
-    "link": "https://commclassroom.hashnode.dev/using-sequelize-orm-and-sequelize-cli-with-nodejs",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What's New in React 18",
-    "link": "https://annysah.hashnode.dev/whats-new-in-react-18",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Convert your website into an android app using capacitor 😱.",
-    "link": "https://dev.to/narottam04/convert-your-website-into-an-android-app-using-capacitor--5bh2",
-    "date": "6/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "20+ Best HarperDB Tutorials",
-    "link": "https://margomccabe.hashnode.dev/20-best-harperdb-tutorials",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React 18 : Must to know Features",
-    "link": "https://debuggerakshat.hashnode.dev/react-18-must-to-know-features",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a React Native Ecommerce app with Medusa",
-    "link": "https://medusajs.hashnode.dev/creating-a-react-native-ecommerce-app-with-medusa",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Using Sequelize ORM & Sequelize - CLI with Node.JS",
-    "link": "https://commclassroom.hashnode.dev/using-sequelize-orm-and-sequelize-cli-with-nodejs",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What's New in React 18",
-    "link": "https://annysah.hashnode.dev/whats-new-in-react-18",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Convert your website into an android app using capacitor 😱.",
-    "link": "https://dev.to/narottam04/convert-your-website-into-an-android-app-using-capacitor--5bh2",
-    "date": "6/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "20+ Best HarperDB Tutorials",
-    "link": "https://margomccabe.hashnode.dev/20-best-harperdb-tutorials",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React 18 : Must to know Features",
-    "link": "https://debuggerakshat.hashnode.dev/react-18-must-to-know-features",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a React Native Ecommerce app with Medusa",
-    "link": "https://medusajs.hashnode.dev/creating-a-react-native-ecommerce-app-with-medusa",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Using Sequelize ORM & Sequelize - CLI with Node.JS",
-    "link": "https://commclassroom.hashnode.dev/using-sequelize-orm-and-sequelize-cli-with-nodejs",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What's New in React 18",
-    "link": "https://annysah.hashnode.dev/whats-new-in-react-18",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Convert your website into an android app using capacitor 😱.",
-    "link": "https://dev.to/narottam04/convert-your-website-into-an-android-app-using-capacitor--5bh2",
-    "date": "6/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "20+ Best HarperDB Tutorials",
-    "link": "https://margomccabe.hashnode.dev/20-best-harperdb-tutorials",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React 18 : Must to know Features",
-    "link": "https://debuggerakshat.hashnode.dev/react-18-must-to-know-features",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a React Native Ecommerce app with Medusa",
-    "link": "https://medusajs.hashnode.dev/creating-a-react-native-ecommerce-app-with-medusa",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Using Sequelize ORM & Sequelize - CLI with Node.JS",
-    "link": "https://commclassroom.hashnode.dev/using-sequelize-orm-and-sequelize-cli-with-nodejs",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What's New in React 18",
-    "link": "https://annysah.hashnode.dev/whats-new-in-react-18",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Convert your website into an android app using capacitor 😱.",
-    "link": "https://dev.to/narottam04/convert-your-website-into-an-android-app-using-capacitor--5bh2",
-    "date": "6/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "20+ Best HarperDB Tutorials",
-    "link": "https://margomccabe.hashnode.dev/20-best-harperdb-tutorials",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React 18 : Must to know Features",
-    "link": "https://debuggerakshat.hashnode.dev/react-18-must-to-know-features",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Creating a React Native Ecommerce app with Medusa",
-    "link": "https://medusajs.hashnode.dev/creating-a-react-native-ecommerce-app-with-medusa",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Using Sequelize ORM & Sequelize - CLI with Node.JS",
-    "link": "https://commclassroom.hashnode.dev/using-sequelize-orm-and-sequelize-cli-with-nodejs",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What's New in React 18",
-    "link": "https://annysah.hashnode.dev/whats-new-in-react-18",
-    "date": "6/9/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Convert your website into an android app using capacitor 😱.",
-    "link": "https://dev.to/narottam04/convert-your-website-into-an-android-app-using-capacitor--5bh2",
-    "date": "6/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Patterns for Building JavaScript Websites in 2022",
-    "link": "https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93",
-    "date": "6/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Patterns for Building JavaScript Websites in 2022",
-    "link": "https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93",
-    "date": "6/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Patterns for Building JavaScript Websites in 2022",
-    "link": "https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93",
-    "date": "6/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Patterns for Building JavaScript Websites in 2022",
-    "link": "https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93",
-    "date": "6/8/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Patterns for Building JavaScript Websites in 2022",
-    "link": "https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93",
-    "date": "6/8/2022",
-    "site": "dev.to"
   },
   {
     "title": "The Case For Prisma In The Jamstack",
@@ -916,7 +916,7 @@
   {
     "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
     "link": "https://www.smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "6/2/2022",
     "site": "smashingmagazine"
   },
@@ -1067,7 +1067,7 @@
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -1241,7 +1241,7 @@
   {
     "title": "Creating An Accessible Dialog From Scratch",
     "link": "https://www.smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "7/28/2021",
     "site": "smashingmagazine"
   },
@@ -1255,7 +1255,7 @@
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
@@ -1274,7 +1274,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
@@ -1295,7 +1295,7 @@
   {
     "title": "Tools And Practices To Speed Up The Vue.js Development Process",
     "link": "https://www.smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/8/2021",
     "site": "smashingmagazine"
   },
@@ -1329,7 +1329,7 @@
   {
     "title": "Client-Side Routing In Next.js",
     "link": "https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "6/18/2021",
     "site": "smashingmagazine"
   },
