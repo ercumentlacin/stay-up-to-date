@@ -1,531 +1,435 @@
 [
   {
-    "title": "10 beginner mistakes React Developers do",
-    "link": "https://gokhale.me/10-beginner-mistakes-react-developers-do",
+    "title": "防抖与节流的认识",
+    "link": "https://zmblog.hashnode.dev/6ziy5oqw5lio6iqc5rwb55qe6k6k6kg",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build a Svelte App With Minimal UI!",
+    "link": "https://globalpress.hashnode.dev/build-a-svelte-app-with-minimal-ui",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "'this' in JavaScript",
+    "link": "https://keshavsharma.hashnode.dev/this-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why NextJs should not be ignored.",
+    "link": "https://adityatyagi.hashnode.dev/why-nextjs-should-not-be-ignored",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Shallow and Deep Copy in JavaScript",
+    "link": "https://arush.hashnode.dev/shallow-and-deep-copy-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why do we need JavaScript libraries (or Framework)",
+    "link": "https://rahulk.hashnode.dev/why-do-we-need-javascript-libraries-or-framework",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add dark mode using javascript",
+    "link": "https://webcodespace.com/how-to-add-dark-mode-using-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "人々がセックスを楽しむことを妨げるべきではありません。",
+    "link": "https://bijindoll.hashnode.dev/5lq644cf44gm44k744od44kv44k544ks5qw944gx44ka44gt44go44ks5aao44gs44kl44g544gn44gn44gv44gc44kk44g44gb44kt44cc",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A quick guide on handling custom events in JavaScript",
+    "link": "https://trammellwebdev.hashnode.dev/a-quick-guide-on-handling-custom-events-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Monotonic Stack",
+    "link": "https://blog.yaox023.com/monotonic-stack",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Getting started with MEAN stack development",
+    "link": "https://dev.to/harshalsuthar/getting-started-with-mean-stack-development-1djd",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scraping Google Shopping using Puppeteer and Browserless",
+    "link": "https://dev.to/tyry327/scraping-google-shopping-using-puppeteer-and-browserless-46ae",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why NextJs should not be ignored.",
+    "link": "https://dev.to/adityatyagi/why-nextjs-should-not-be-ignored-28gk",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Array Iteration for Beginners",
+    "link": "https://dev.to/albam476/array-iteration-for-beginners-2i46",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "防抖与节流的认识",
+    "link": "https://zmblog.hashnode.dev/6ziy5oqw5lio6iqc5rwb55qe6k6k6kg",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build a Svelte App With Minimal UI!",
+    "link": "https://globalpress.hashnode.dev/build-a-svelte-app-with-minimal-ui",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "'this' in JavaScript",
+    "link": "https://keshavsharma.hashnode.dev/this-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why NextJs should not be ignored.",
+    "link": "https://adityatyagi.hashnode.dev/why-nextjs-should-not-be-ignored",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Shallow and Deep Copy in JavaScript",
+    "link": "https://arush.hashnode.dev/shallow-and-deep-copy-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why do we need JavaScript libraries (or Framework)",
+    "link": "https://rahulk.hashnode.dev/why-do-we-need-javascript-libraries-or-framework",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add dark mode using javascript",
+    "link": "https://webcodespace.com/how-to-add-dark-mode-using-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "人々がセックスを楽しむことを妨げるべきではありません。",
+    "link": "https://bijindoll.hashnode.dev/5lq644cf44gm44k744od44kv44k544ks5qw944gx44ka44gt44go44ks5aao44gs44kl44g544gn44gn44gv44gc44kk44g44gb44kt44cc",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A quick guide on handling custom events in JavaScript",
+    "link": "https://trammellwebdev.hashnode.dev/a-quick-guide-on-handling-custom-events-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Monotonic Stack",
+    "link": "https://blog.yaox023.com/monotonic-stack",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Getting started with MEAN stack development",
+    "link": "https://dev.to/harshalsuthar/getting-started-with-mean-stack-development-1djd",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scraping Google Shopping using Puppeteer and Browserless",
+    "link": "https://dev.to/tyry327/scraping-google-shopping-using-puppeteer-and-browserless-46ae",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why NextJs should not be ignored.",
+    "link": "https://dev.to/adityatyagi/why-nextjs-should-not-be-ignored-28gk",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Array Iteration for Beginners",
+    "link": "https://dev.to/albam476/array-iteration-for-beginners-2i46",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "防抖与节流的认识",
+    "link": "https://zmblog.hashnode.dev/6ziy5oqw5lio6iqc5rwb55qe6k6k6kg",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build a Svelte App With Minimal UI!",
+    "link": "https://globalpress.hashnode.dev/build-a-svelte-app-with-minimal-ui",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "'this' in JavaScript",
+    "link": "https://keshavsharma.hashnode.dev/this-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why NextJs should not be ignored.",
+    "link": "https://adityatyagi.hashnode.dev/why-nextjs-should-not-be-ignored",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Shallow and Deep Copy in JavaScript",
+    "link": "https://arush.hashnode.dev/shallow-and-deep-copy-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why do we need JavaScript libraries (or Framework)",
+    "link": "https://rahulk.hashnode.dev/why-do-we-need-javascript-libraries-or-framework",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add dark mode using javascript",
+    "link": "https://webcodespace.com/how-to-add-dark-mode-using-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "人々がセックスを楽しむことを妨げるべきではありません。",
+    "link": "https://bijindoll.hashnode.dev/5lq644cf44gm44k744od44kv44k544ks5qw944gx44ka44gt44go44ks5aao44gs44kl44g544gn44gn44gv44gc44kk44g44gb44kt44cc",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A quick guide on handling custom events in JavaScript",
+    "link": "https://trammellwebdev.hashnode.dev/a-quick-guide-on-handling-custom-events-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Monotonic Stack",
+    "link": "https://blog.yaox023.com/monotonic-stack",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Getting started with MEAN stack development",
+    "link": "https://dev.to/harshalsuthar/getting-started-with-mean-stack-development-1djd",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scraping Google Shopping using Puppeteer and Browserless",
+    "link": "https://dev.to/tyry327/scraping-google-shopping-using-puppeteer-and-browserless-46ae",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why NextJs should not be ignored.",
+    "link": "https://dev.to/adityatyagi/why-nextjs-should-not-be-ignored-28gk",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Array Iteration for Beginners",
+    "link": "https://dev.to/albam476/array-iteration-for-beginners-2i46",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "防抖与节流的认识",
+    "link": "https://zmblog.hashnode.dev/6ziy5oqw5lio6iqc5rwb55qe6k6k6kg",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build a Svelte App With Minimal UI!",
+    "link": "https://globalpress.hashnode.dev/build-a-svelte-app-with-minimal-ui",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "'this' in JavaScript",
+    "link": "https://keshavsharma.hashnode.dev/this-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why NextJs should not be ignored.",
+    "link": "https://adityatyagi.hashnode.dev/why-nextjs-should-not-be-ignored",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Shallow and Deep Copy in JavaScript",
+    "link": "https://arush.hashnode.dev/shallow-and-deep-copy-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why do we need JavaScript libraries (or Framework)",
+    "link": "https://rahulk.hashnode.dev/why-do-we-need-javascript-libraries-or-framework",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add dark mode using javascript",
+    "link": "https://webcodespace.com/how-to-add-dark-mode-using-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "人々がセックスを楽しむことを妨げるべきではありません。",
+    "link": "https://bijindoll.hashnode.dev/5lq644cf44gm44k744od44kv44k544ks5qw944gx44ka44gt44go44ks5aao44gs44kl44g544gn44gn44gv44gc44kk44g44gb44kt44cc",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A quick guide on handling custom events in JavaScript",
+    "link": "https://trammellwebdev.hashnode.dev/a-quick-guide-on-handling-custom-events-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Monotonic Stack",
+    "link": "https://blog.yaox023.com/monotonic-stack",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Getting started with MEAN stack development",
+    "link": "https://dev.to/harshalsuthar/getting-started-with-mean-stack-development-1djd",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scraping Google Shopping using Puppeteer and Browserless",
+    "link": "https://dev.to/tyry327/scraping-google-shopping-using-puppeteer-and-browserless-46ae",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why NextJs should not be ignored.",
+    "link": "https://dev.to/adityatyagi/why-nextjs-should-not-be-ignored-28gk",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Array Iteration for Beginners",
+    "link": "https://dev.to/albam476/array-iteration-for-beginners-2i46",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "防抖与节流的认识",
+    "link": "https://zmblog.hashnode.dev/6ziy5oqw5lio6iqc5rwb55qe6k6k6kg",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build a Svelte App With Minimal UI!",
+    "link": "https://globalpress.hashnode.dev/build-a-svelte-app-with-minimal-ui",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "'this' in JavaScript",
+    "link": "https://keshavsharma.hashnode.dev/this-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why NextJs should not be ignored.",
+    "link": "https://adityatyagi.hashnode.dev/why-nextjs-should-not-be-ignored",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Shallow and Deep Copy in JavaScript",
+    "link": "https://arush.hashnode.dev/shallow-and-deep-copy-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Why do we need JavaScript libraries (or Framework)",
+    "link": "https://rahulk.hashnode.dev/why-do-we-need-javascript-libraries-or-framework",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to add dark mode using javascript",
+    "link": "https://webcodespace.com/how-to-add-dark-mode-using-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "人々がセックスを楽しむことを妨げるべきではありません。",
+    "link": "https://bijindoll.hashnode.dev/5lq644cf44gm44k744od44kv44k544ks5qw944gx44ka44gt44go44ks5aao44gs44kl44g544gn44gn44gv44gc44kk44g44gb44kt44cc",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A quick guide on handling custom events in JavaScript",
+    "link": "https://trammellwebdev.hashnode.dev/a-quick-guide-on-handling-custom-events-in-javascript",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Monotonic Stack",
+    "link": "https://blog.yaox023.com/monotonic-stack",
+    "date": "6/29/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Getting started with MEAN stack development",
+    "link": "https://dev.to/harshalsuthar/getting-started-with-mean-stack-development-1djd",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scraping Google Shopping using Puppeteer and Browserless",
+    "link": "https://dev.to/tyry327/scraping-google-shopping-using-puppeteer-and-browserless-46ae",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why NextJs should not be ignored.",
+    "link": "https://dev.to/adityatyagi/why-nextjs-should-not-be-ignored-28gk",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Array Iteration for Beginners",
+    "link": "https://dev.to/albam476/array-iteration-for-beginners-2i46",
+    "date": "6/29/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Created a Nuxt.js Ecommerce Store from Scratch Using Medusa Part 3: Checkout Flow with Stripe",
+    "link": "https://medusajs.hashnode.dev/how-i-created-a-nuxtjs-ecommerce-store-from-scratch-using-medusa-part-3-checkout-flow-with-stripe",
     "date": "6/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "How to Add Script Tags in React",
-    "link": "https://clumsycoder.hashnode.dev/how-to-add-script-tags-in-react",
+    "title": "Tutorial: How To Build A Spotlight Like Search And Navigation Experience",
+    "link": "https://blog.reactivesearch.io/saas-search-with-searchbox",
     "date": "6/28/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "What is debouncing in JavaScript?",
-    "link": "https://aamchora.hashnode.dev/what-is-debouncing-in-javascript",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React: Renders and Re-Renders",
-    "link": "https://debuggerakshat.hashnode.dev/react-renders-and-re-renders",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Recursion (JavaScript) Day 1",
-    "link": "https://alfa.hashnode.dev/recursion-javascript-day-1",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Sets and Maps Javascript",
-    "link": "https://digomic.hashnode.dev/sets-and-maps-javascript",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Bucket Sort",
-    "link": "https://blog.yaox023.com/bucket-sort",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Great GatsbyJS Bootcamp",
-    "link": "https://globalpress.hashnode.dev/the-great-gatsbyjs-bootcamp",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Power of Variable Names",
-    "link": "https://dev.to/adillaumam/the-power-of-variable-names-2cm4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Generate 1,000 Personalized Videos With Node.js In Minutes",
-    "link": "https://dev.to/kushal_70/generate-1000-personalized-videos-with-nodejs-in-minutes-3d7a",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Smarter Next.js API routes with custom createApiRoute function",
-    "link": "https://dev.to/jussinevavuori/smarter-nextjs-api-routes-with-custom-createapiroute-function-29l5",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Jest and RTL for beginners (2/3)",
-    "link": "https://dev.to/jarethtan/implementing-jest-and-rtl-for-beginners-23-ao0",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Script Tags in React",
-    "link": "https://dev.to/clumsycoder/how-to-add-script-tags-in-react-mpe",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why javascript is a badass?",
-    "link": "https://dev.to/arorachakit/why-javascript-is-a-badass-3p5a",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Update all the Node.js dependencies to their latest version",
-    "link": "https://dev.to/mrbotdeveloper/update-all-the-nodejs-dependencies-to-their-latest-version-5607",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "INSTALL DOCKER",
-    "link": "https://dev.to/reynaldoz/install-docker-2oa4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Companies that sponsor work visa for Dublin - Part 2",
-    "link": "https://dev.to/upskillie/10-companies-that-sponsor-work-visa-for-dublin-part-2-277l",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Send Notifications Through Node.js App! 🔥",
-    "link": "https://dev.to/sujeetgund/send-notifications-through-nodejs-app-58fc",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is debouncing in JavaScript?",
-    "link": "https://dev.to/aamchora/what-is-debouncing-in-javascript-21om",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ECOMMERCE Website Using MERN Part-5.4 ( Api Features {pagination} )",
-    "link": "https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-54-api-features-pagination--3jko",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cutting wage bills while hiring remote tech teams in Covid",
-    "link": "https://dev.to/upskillie/cutting-wage-bills-while-hiring-remote-tech-teams-in-covid-2pi4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ace Data Structures and Algorithm in 9 steps",
-    "link": "https://dev.to/upskillie/ace-data-structures-and-algorithm-in-9-steps-4930",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 beginner mistakes React Developers do",
-    "link": "https://gokhale.me/10-beginner-mistakes-react-developers-do",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Add Script Tags in React",
-    "link": "https://clumsycoder.hashnode.dev/how-to-add-script-tags-in-react",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is debouncing in JavaScript?",
-    "link": "https://aamchora.hashnode.dev/what-is-debouncing-in-javascript",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React: Renders and Re-Renders",
-    "link": "https://debuggerakshat.hashnode.dev/react-renders-and-re-renders",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Recursion (JavaScript) Day 1",
-    "link": "https://alfa.hashnode.dev/recursion-javascript-day-1",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Sets and Maps Javascript",
-    "link": "https://digomic.hashnode.dev/sets-and-maps-javascript",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Bucket Sort",
-    "link": "https://blog.yaox023.com/bucket-sort",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Great GatsbyJS Bootcamp",
-    "link": "https://globalpress.hashnode.dev/the-great-gatsbyjs-bootcamp",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Power of Variable Names",
-    "link": "https://dev.to/adillaumam/the-power-of-variable-names-2cm4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Generate 1,000 Personalized Videos With Node.js In Minutes",
-    "link": "https://dev.to/kushal_70/generate-1000-personalized-videos-with-nodejs-in-minutes-3d7a",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Smarter Next.js API routes with custom createApiRoute function",
-    "link": "https://dev.to/jussinevavuori/smarter-nextjs-api-routes-with-custom-createapiroute-function-29l5",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Jest and RTL for beginners (2/3)",
-    "link": "https://dev.to/jarethtan/implementing-jest-and-rtl-for-beginners-23-ao0",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Script Tags in React",
-    "link": "https://dev.to/clumsycoder/how-to-add-script-tags-in-react-mpe",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why javascript is a badass?",
-    "link": "https://dev.to/arorachakit/why-javascript-is-a-badass-3p5a",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Update all the Node.js dependencies to their latest version",
-    "link": "https://dev.to/mrbotdeveloper/update-all-the-nodejs-dependencies-to-their-latest-version-5607",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "INSTALL DOCKER",
-    "link": "https://dev.to/reynaldoz/install-docker-2oa4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Companies that sponsor work visa for Dublin - Part 2",
-    "link": "https://dev.to/upskillie/10-companies-that-sponsor-work-visa-for-dublin-part-2-277l",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Send Notifications Through Node.js App! 🔥",
-    "link": "https://dev.to/sujeetgund/send-notifications-through-nodejs-app-58fc",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is debouncing in JavaScript?",
-    "link": "https://dev.to/aamchora/what-is-debouncing-in-javascript-21om",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ECOMMERCE Website Using MERN Part-5.4 ( Api Features {pagination} )",
-    "link": "https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-54-api-features-pagination--3jko",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cutting wage bills while hiring remote tech teams in Covid",
-    "link": "https://dev.to/upskillie/cutting-wage-bills-while-hiring-remote-tech-teams-in-covid-2pi4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ace Data Structures and Algorithm in 9 steps",
-    "link": "https://dev.to/upskillie/ace-data-structures-and-algorithm-in-9-steps-4930",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 beginner mistakes React Developers do",
-    "link": "https://gokhale.me/10-beginner-mistakes-react-developers-do",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Add Script Tags in React",
-    "link": "https://clumsycoder.hashnode.dev/how-to-add-script-tags-in-react",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is debouncing in JavaScript?",
-    "link": "https://aamchora.hashnode.dev/what-is-debouncing-in-javascript",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React: Renders and Re-Renders",
-    "link": "https://debuggerakshat.hashnode.dev/react-renders-and-re-renders",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Recursion (JavaScript) Day 1",
-    "link": "https://alfa.hashnode.dev/recursion-javascript-day-1",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Sets and Maps Javascript",
-    "link": "https://digomic.hashnode.dev/sets-and-maps-javascript",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Bucket Sort",
-    "link": "https://blog.yaox023.com/bucket-sort",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Great GatsbyJS Bootcamp",
-    "link": "https://globalpress.hashnode.dev/the-great-gatsbyjs-bootcamp",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Power of Variable Names",
-    "link": "https://dev.to/adillaumam/the-power-of-variable-names-2cm4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Generate 1,000 Personalized Videos With Node.js In Minutes",
-    "link": "https://dev.to/kushal_70/generate-1000-personalized-videos-with-nodejs-in-minutes-3d7a",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Smarter Next.js API routes with custom createApiRoute function",
-    "link": "https://dev.to/jussinevavuori/smarter-nextjs-api-routes-with-custom-createapiroute-function-29l5",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Jest and RTL for beginners (2/3)",
-    "link": "https://dev.to/jarethtan/implementing-jest-and-rtl-for-beginners-23-ao0",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Script Tags in React",
-    "link": "https://dev.to/clumsycoder/how-to-add-script-tags-in-react-mpe",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why javascript is a badass?",
-    "link": "https://dev.to/arorachakit/why-javascript-is-a-badass-3p5a",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Update all the Node.js dependencies to their latest version",
-    "link": "https://dev.to/mrbotdeveloper/update-all-the-nodejs-dependencies-to-their-latest-version-5607",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "INSTALL DOCKER",
-    "link": "https://dev.to/reynaldoz/install-docker-2oa4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Companies that sponsor work visa for Dublin - Part 2",
-    "link": "https://dev.to/upskillie/10-companies-that-sponsor-work-visa-for-dublin-part-2-277l",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Send Notifications Through Node.js App! 🔥",
-    "link": "https://dev.to/sujeetgund/send-notifications-through-nodejs-app-58fc",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is debouncing in JavaScript?",
-    "link": "https://dev.to/aamchora/what-is-debouncing-in-javascript-21om",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ECOMMERCE Website Using MERN Part-5.4 ( Api Features {pagination} )",
-    "link": "https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-54-api-features-pagination--3jko",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cutting wage bills while hiring remote tech teams in Covid",
-    "link": "https://dev.to/upskillie/cutting-wage-bills-while-hiring-remote-tech-teams-in-covid-2pi4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ace Data Structures and Algorithm in 9 steps",
-    "link": "https://dev.to/upskillie/ace-data-structures-and-algorithm-in-9-steps-4930",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 beginner mistakes React Developers do",
-    "link": "https://gokhale.me/10-beginner-mistakes-react-developers-do",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to Add Script Tags in React",
-    "link": "https://clumsycoder.hashnode.dev/how-to-add-script-tags-in-react",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "What is debouncing in JavaScript?",
-    "link": "https://aamchora.hashnode.dev/what-is-debouncing-in-javascript",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React: Renders and Re-Renders",
-    "link": "https://debuggerakshat.hashnode.dev/react-renders-and-re-renders",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Recursion (JavaScript) Day 1",
-    "link": "https://alfa.hashnode.dev/recursion-javascript-day-1",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Sets and Maps Javascript",
-    "link": "https://digomic.hashnode.dev/sets-and-maps-javascript",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Bucket Sort",
-    "link": "https://blog.yaox023.com/bucket-sort",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Great GatsbyJS Bootcamp",
-    "link": "https://globalpress.hashnode.dev/the-great-gatsbyjs-bootcamp",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Power of Variable Names",
-    "link": "https://dev.to/adillaumam/the-power-of-variable-names-2cm4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Generate 1,000 Personalized Videos With Node.js In Minutes",
-    "link": "https://dev.to/kushal_70/generate-1000-personalized-videos-with-nodejs-in-minutes-3d7a",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Smarter Next.js API routes with custom createApiRoute function",
-    "link": "https://dev.to/jussinevavuori/smarter-nextjs-api-routes-with-custom-createapiroute-function-29l5",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Jest and RTL for beginners (2/3)",
-    "link": "https://dev.to/jarethtan/implementing-jest-and-rtl-for-beginners-23-ao0",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Script Tags in React",
-    "link": "https://dev.to/clumsycoder/how-to-add-script-tags-in-react-mpe",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why javascript is a badass?",
-    "link": "https://dev.to/arorachakit/why-javascript-is-a-badass-3p5a",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Update all the Node.js dependencies to their latest version",
-    "link": "https://dev.to/mrbotdeveloper/update-all-the-nodejs-dependencies-to-their-latest-version-5607",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "INSTALL DOCKER",
-    "link": "https://dev.to/reynaldoz/install-docker-2oa4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Companies that sponsor work visa for Dublin - Part 2",
-    "link": "https://dev.to/upskillie/10-companies-that-sponsor-work-visa-for-dublin-part-2-277l",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Send Notifications Through Node.js App! 🔥",
-    "link": "https://dev.to/sujeetgund/send-notifications-through-nodejs-app-58fc",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is debouncing in JavaScript?",
-    "link": "https://dev.to/aamchora/what-is-debouncing-in-javascript-21om",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "ECOMMERCE Website Using MERN Part-5.4 ( Api Features {pagination} )",
-    "link": "https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-54-api-features-pagination--3jko",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cutting wage bills while hiring remote tech teams in Covid",
-    "link": "https://dev.to/upskillie/cutting-wage-bills-while-hiring-remote-tech-teams-in-covid-2pi4",
-    "date": "6/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ace Data Structures and Algorithm in 9 steps",
-    "link": "https://dev.to/upskillie/ace-data-structures-and-algorithm-in-9-steps-4930",
-    "date": "6/28/2022",
-    "site": "dev.to"
   },
   {
     "title": "10 beginner mistakes React Developers do",
@@ -534,368 +438,464 @@
     "site": "hashnode"
   },
   {
-    "title": "How to Add Script Tags in React",
-    "link": "https://clumsycoder.hashnode.dev/how-to-add-script-tags-in-react",
+    "title": "Make your React Apps more performant using Debouncing & Throttling! 🔥🚀",
+    "link": "https://thecodingcookbook.hashnode.dev/make-your-react-apps-more-performant-using-debouncing-and-throttling",
     "date": "6/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "What is debouncing in JavaScript?",
-    "link": "https://aamchora.hashnode.dev/what-is-debouncing-in-javascript",
+    "title": "Build a simple e-commerce site with  react",
+    "link": "https://kelvinsekx.hashnode.dev/build-a-simple-e-commerce-site-with-react",
     "date": "6/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "React: Renders and Re-Renders",
-    "link": "https://debuggerakshat.hashnode.dev/react-renders-and-re-renders",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Recursion (JavaScript) Day 1",
-    "link": "https://alfa.hashnode.dev/recursion-javascript-day-1",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Sets and Maps Javascript",
-    "link": "https://digomic.hashnode.dev/sets-and-maps-javascript",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Bucket Sort",
-    "link": "https://blog.yaox023.com/bucket-sort",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Great GatsbyJS Bootcamp",
-    "link": "https://globalpress.hashnode.dev/the-great-gatsbyjs-bootcamp",
-    "date": "6/28/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Power of Variable Names",
-    "link": "https://dev.to/adillaumam/the-power-of-variable-names-2cm4",
+    "title": "Ember.js: Installing Tailwind CSS",
+    "link": "https://dev.to/robert96/emberjs-installing-tailwind-css-386i",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "Generate 1,000 Personalized Videos With Node.js In Minutes",
-    "link": "https://dev.to/kushal_70/generate-1000-personalized-videos-with-nodejs-in-minutes-3d7a",
+    "title": "Build on Flow | Learn FCL - 12. How to Create a New Account with Flow CLI and Testnet Faucet",
+    "link": "https://dev.to/onflow/build-on-flow-learn-fcl-12-how-to-create-a-new-account-with-flow-cli-and-testnet-faucet-4hki",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "Smarter Next.js API routes with custom createApiRoute function",
-    "link": "https://dev.to/jussinevavuori/smarter-nextjs-api-routes-with-custom-createapiroute-function-29l5",
+    "title": "Managing Markdown content doesn't have to be hard!",
+    "link": "https://dev.to/ekqt/managing-markdown-content-doesnt-have-to-be-hard-6ja",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "Implementing Jest and RTL for beginners (2/3)",
-    "link": "https://dev.to/jarethtan/implementing-jest-and-rtl-for-beginners-23-ao0",
+    "title": "Build on Flow | Learn FCL - 11. How to Install and Create a New Testnet Account with Lillico",
+    "link": "https://dev.to/onflow/build-on-flow-learn-fcl-11-how-to-install-and-create-a-new-testnet-account-with-lillico-18i",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to Add Script Tags in React",
-    "link": "https://dev.to/clumsycoder/how-to-add-script-tags-in-react-mpe",
+    "title": "Build on Flow | Learn FCL - 10. How to Create a New Testnet Account with Blocto Wallet",
+    "link": "https://dev.to/maxstalker/build-on-flow-learn-fcl-10-how-to-create-a-new-testnet-account-with-blocto-wallet-4lda",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "Why javascript is a badass?",
-    "link": "https://dev.to/arorachakit/why-javascript-is-a-badass-3p5a",
+    "title": "Javascript E𝗺𝗽𝘁𝘆 𝗼𝗯𝗷𝗲𝗰𝘁 𝗮𝘀 𝗮 𝗳𝗮𝗹𝗹𝗯𝗮𝗰𝗸 𝘄𝗵𝗶𝗹𝗲 𝗱𝗲𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗶𝗻𝗴",
+    "link": "https://dev.to/talenttinaapi/javascript-e-13h4",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "Update all the Node.js dependencies to their latest version",
-    "link": "https://dev.to/mrbotdeveloper/update-all-the-nodejs-dependencies-to-their-latest-version-5607",
+    "title": "Paracetamol.js💊| #156: Explica este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoljs-156-explica-este-codigo-javascript-3le5",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "INSTALL DOCKER",
-    "link": "https://dev.to/reynaldoz/install-docker-2oa4",
+    "title": "File Sharing Site",
+    "link": "https://dev.to/lassev/file-sharing-site-1a6i",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "10 Companies that sponsor work visa for Dublin - Part 2",
-    "link": "https://dev.to/upskillie/10-companies-that-sponsor-work-visa-for-dublin-part-2-277l",
+    "title": "Amp up your React workflow with these \"Gen Z\" toolings",
+    "link": "https://dev.to/h3mandev/amp-up-your-react-workflow-with-these-gen-z-toolings-5m3",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "Send Notifications Through Node.js App! 🔥",
-    "link": "https://dev.to/sujeetgund/send-notifications-through-nodejs-app-58fc",
+    "title": "Buenas Prácticas con NgRx: Parte 3 Modularidad",
+    "link": "https://dev.to/danyparedes/buenas-practicas-con-ngrx-parte-3-modularidad-ki5",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "What is debouncing in JavaScript?",
-    "link": "https://dev.to/aamchora/what-is-debouncing-in-javascript-21om",
+    "title": "How I Created a Nuxt.js Ecommerce Store from Scratch Using Medusa Part 3: Checkout Flow with Stripe",
+    "link": "https://medusajs.hashnode.dev/how-i-created-a-nuxtjs-ecommerce-store-from-scratch-using-medusa-part-3-checkout-flow-with-stripe",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Tutorial: How To Build A Spotlight Like Search And Navigation Experience",
+    "link": "https://blog.reactivesearch.io/saas-search-with-searchbox",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "10 beginner mistakes React Developers do",
+    "link": "https://gokhale.me/10-beginner-mistakes-react-developers-do",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Make your React Apps more performant using Debouncing & Throttling! 🔥🚀",
+    "link": "https://thecodingcookbook.hashnode.dev/make-your-react-apps-more-performant-using-debouncing-and-throttling",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build a simple e-commerce site with  react",
+    "link": "https://kelvinsekx.hashnode.dev/build-a-simple-e-commerce-site-with-react",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Ember.js: Installing Tailwind CSS",
+    "link": "https://dev.to/robert96/emberjs-installing-tailwind-css-386i",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "ECOMMERCE Website Using MERN Part-5.4 ( Api Features {pagination} )",
-    "link": "https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-54-api-features-pagination--3jko",
+    "title": "Build on Flow | Learn FCL - 12. How to Create a New Account with Flow CLI and Testnet Faucet",
+    "link": "https://dev.to/onflow/build-on-flow-learn-fcl-12-how-to-create-a-new-account-with-flow-cli-and-testnet-faucet-4hki",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "Cutting wage bills while hiring remote tech teams in Covid",
-    "link": "https://dev.to/upskillie/cutting-wage-bills-while-hiring-remote-tech-teams-in-covid-2pi4",
+    "title": "Managing Markdown content doesn't have to be hard!",
+    "link": "https://dev.to/ekqt/managing-markdown-content-doesnt-have-to-be-hard-6ja",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "Ace Data Structures and Algorithm in 9 steps",
-    "link": "https://dev.to/upskillie/ace-data-structures-and-algorithm-in-9-steps-4930",
+    "title": "Build on Flow | Learn FCL - 11. How to Install and Create a New Testnet Account with Lillico",
+    "link": "https://dev.to/onflow/build-on-flow-learn-fcl-11-how-to-install-and-create-a-new-testnet-account-with-lillico-18i",
     "date": "6/28/2022",
     "site": "dev.to"
   },
   {
-    "title": "Some Unseen Object Attributes in Javascript",
-    "link": "https://blog.karthik.bio/some-unseen-object-attributes-in-javascript",
-    "date": "6/27/2022",
+    "title": "Build on Flow | Learn FCL - 10. How to Create a New Testnet Account with Blocto Wallet",
+    "link": "https://dev.to/maxstalker/build-on-flow-learn-fcl-10-how-to-create-a-new-testnet-account-with-blocto-wallet-4lda",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript E𝗺𝗽𝘁𝘆 𝗼𝗯𝗷𝗲𝗰𝘁 𝗮𝘀 𝗮 𝗳𝗮𝗹𝗹𝗯𝗮𝗰𝗸 𝘄𝗵𝗶𝗹𝗲 𝗱𝗲𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗶𝗻𝗴",
+    "link": "https://dev.to/talenttinaapi/javascript-e-13h4",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Paracetamol.js💊| #156: Explica este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoljs-156-explica-este-codigo-javascript-3le5",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "File Sharing Site",
+    "link": "https://dev.to/lassev/file-sharing-site-1a6i",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Amp up your React workflow with these \"Gen Z\" toolings",
+    "link": "https://dev.to/h3mandev/amp-up-your-react-workflow-with-these-gen-z-toolings-5m3",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Buenas Prácticas con NgRx: Parte 3 Modularidad",
+    "link": "https://dev.to/danyparedes/buenas-practicas-con-ngrx-parte-3-modularidad-ki5",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Created a Nuxt.js Ecommerce Store from Scratch Using Medusa Part 3: Checkout Flow with Stripe",
+    "link": "https://medusajs.hashnode.dev/how-i-created-a-nuxtjs-ecommerce-store-from-scratch-using-medusa-part-3-checkout-flow-with-stripe",
+    "date": "6/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "The Basics of JavaScript Functions",
-    "link": "https://c-akunne.hashnode.dev/the-basics-of-javascript-functions",
-    "date": "6/27/2022",
+    "title": "Tutorial: How To Build A Spotlight Like Search And Navigation Experience",
+    "link": "https://blog.reactivesearch.io/saas-search-with-searchbox",
+    "date": "6/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "The Third week of the Bootcamp.",
-    "link": "https://foodaviz.hashnode.dev/the-third-week-of-the-bootcamp",
-    "date": "6/27/2022",
+    "title": "10 beginner mistakes React Developers do",
+    "link": "https://gokhale.me/10-beginner-mistakes-react-developers-do",
+    "date": "6/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Using MySQL with Node.js",
-    "link": "https://spiffgreen.hashnode.dev/using-mysql-with-nodejs",
-    "date": "6/27/2022",
+    "title": "Make your React Apps more performant using Debouncing & Throttling! 🔥🚀",
+    "link": "https://thecodingcookbook.hashnode.dev/make-your-react-apps-more-performant-using-debouncing-and-throttling",
+    "date": "6/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Git: ¿Cómo eliminar un archivo de la historia?",
-    "link": "https://h.matiashernandez.dev/git-como-eliminar-un-archivo-de-la-historia",
-    "date": "6/27/2022",
+    "title": "Build a simple e-commerce site with  react",
+    "link": "https://kelvinsekx.hashnode.dev/build-a-simple-e-commerce-site-with-react",
+    "date": "6/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Parameters and Arguments: What's the Difference?",
-    "link": "https://codechunks.hashnode.dev/parameters-and-arguments-whats-the-difference",
-    "date": "6/27/2022",
+    "title": "Ember.js: Installing Tailwind CSS",
+    "link": "https://dev.to/robert96/emberjs-installing-tailwind-css-386i",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build on Flow | Learn FCL - 12. How to Create a New Account with Flow CLI and Testnet Faucet",
+    "link": "https://dev.to/onflow/build-on-flow-learn-fcl-12-how-to-create-a-new-account-with-flow-cli-and-testnet-faucet-4hki",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Managing Markdown content doesn't have to be hard!",
+    "link": "https://dev.to/ekqt/managing-markdown-content-doesnt-have-to-be-hard-6ja",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build on Flow | Learn FCL - 11. How to Install and Create a New Testnet Account with Lillico",
+    "link": "https://dev.to/onflow/build-on-flow-learn-fcl-11-how-to-install-and-create-a-new-testnet-account-with-lillico-18i",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build on Flow | Learn FCL - 10. How to Create a New Testnet Account with Blocto Wallet",
+    "link": "https://dev.to/maxstalker/build-on-flow-learn-fcl-10-how-to-create-a-new-testnet-account-with-blocto-wallet-4lda",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript E𝗺𝗽𝘁𝘆 𝗼𝗯𝗷𝗲𝗰𝘁 𝗮𝘀 𝗮 𝗳𝗮𝗹𝗹𝗯𝗮𝗰𝗸 𝘄𝗵𝗶𝗹𝗲 𝗱𝗲𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗶𝗻𝗴",
+    "link": "https://dev.to/talenttinaapi/javascript-e-13h4",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Paracetamol.js💊| #156: Explica este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoljs-156-explica-este-codigo-javascript-3le5",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "File Sharing Site",
+    "link": "https://dev.to/lassev/file-sharing-site-1a6i",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Amp up your React workflow with these \"Gen Z\" toolings",
+    "link": "https://dev.to/h3mandev/amp-up-your-react-workflow-with-these-gen-z-toolings-5m3",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Buenas Prácticas con NgRx: Parte 3 Modularidad",
+    "link": "https://dev.to/danyparedes/buenas-practicas-con-ngrx-parte-3-modularidad-ki5",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Created a Nuxt.js Ecommerce Store from Scratch Using Medusa Part 3: Checkout Flow with Stripe",
+    "link": "https://medusajs.hashnode.dev/how-i-created-a-nuxtjs-ecommerce-store-from-scratch-using-medusa-part-3-checkout-flow-with-stripe",
+    "date": "6/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "Iteration through Arrays In JavaScript",
-    "link": "https://amrmahmoud.hashnode.dev/iteration-through-arrays-in-javascript",
-    "date": "6/27/2022",
+    "title": "Tutorial: How To Build A Spotlight Like Search And Navigation Experience",
+    "link": "https://blog.reactivesearch.io/saas-search-with-searchbox",
+    "date": "6/28/2022",
     "site": "hashnode"
   },
   {
-    "title": "2 steps to display cache tables data on the web by using jquery datatable and embedded python",
-    "link": "https://dev.to/intersystems/2-steps-to-display-cache-tables-data-on-the-web-by-using-jquery-datatable-and-embedded-python-3idm",
+    "title": "10 beginner mistakes React Developers do",
+    "link": "https://gokhale.me/10-beginner-mistakes-react-developers-do",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Make your React Apps more performant using Debouncing & Throttling! 🔥🚀",
+    "link": "https://thecodingcookbook.hashnode.dev/make-your-react-apps-more-performant-using-debouncing-and-throttling",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build a simple e-commerce site with  react",
+    "link": "https://kelvinsekx.hashnode.dev/build-a-simple-e-commerce-site-with-react",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Ember.js: Installing Tailwind CSS",
+    "link": "https://dev.to/robert96/emberjs-installing-tailwind-css-386i",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build on Flow | Learn FCL - 12. How to Create a New Account with Flow CLI and Testnet Faucet",
+    "link": "https://dev.to/onflow/build-on-flow-learn-fcl-12-how-to-create-a-new-account-with-flow-cli-and-testnet-faucet-4hki",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Managing Markdown content doesn't have to be hard!",
+    "link": "https://dev.to/ekqt/managing-markdown-content-doesnt-have-to-be-hard-6ja",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build on Flow | Learn FCL - 11. How to Install and Create a New Testnet Account with Lillico",
+    "link": "https://dev.to/onflow/build-on-flow-learn-fcl-11-how-to-install-and-create-a-new-testnet-account-with-lillico-18i",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build on Flow | Learn FCL - 10. How to Create a New Testnet Account with Blocto Wallet",
+    "link": "https://dev.to/maxstalker/build-on-flow-learn-fcl-10-how-to-create-a-new-testnet-account-with-blocto-wallet-4lda",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript E𝗺𝗽𝘁𝘆 𝗼𝗯𝗷𝗲𝗰𝘁 𝗮𝘀 𝗮 𝗳𝗮𝗹𝗹𝗯𝗮𝗰𝗸 𝘄𝗵𝗶𝗹𝗲 𝗱𝗲𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗶𝗻𝗴",
+    "link": "https://dev.to/talenttinaapi/javascript-e-13h4",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Paracetamol.js💊| #156: Explica este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoljs-156-explica-este-codigo-javascript-3le5",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "File Sharing Site",
+    "link": "https://dev.to/lassev/file-sharing-site-1a6i",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Amp up your React workflow with these \"Gen Z\" toolings",
+    "link": "https://dev.to/h3mandev/amp-up-your-react-workflow-with-these-gen-z-toolings-5m3",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Buenas Prácticas con NgRx: Parte 3 Modularidad",
+    "link": "https://dev.to/danyparedes/buenas-practicas-con-ngrx-parte-3-modularidad-ki5",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Created a Nuxt.js Ecommerce Store from Scratch Using Medusa Part 3: Checkout Flow with Stripe",
+    "link": "https://medusajs.hashnode.dev/how-i-created-a-nuxtjs-ecommerce-store-from-scratch-using-medusa-part-3-checkout-flow-with-stripe",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Tutorial: How To Build A Spotlight Like Search And Navigation Experience",
+    "link": "https://blog.reactivesearch.io/saas-search-with-searchbox",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "10 beginner mistakes React Developers do",
+    "link": "https://gokhale.me/10-beginner-mistakes-react-developers-do",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Make your React Apps more performant using Debouncing & Throttling! 🔥🚀",
+    "link": "https://thecodingcookbook.hashnode.dev/make-your-react-apps-more-performant-using-debouncing-and-throttling",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Build a simple e-commerce site with  react",
+    "link": "https://kelvinsekx.hashnode.dev/build-a-simple-e-commerce-site-with-react",
+    "date": "6/28/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Ember.js: Installing Tailwind CSS",
+    "link": "https://dev.to/robert96/emberjs-installing-tailwind-css-386i",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build on Flow | Learn FCL - 12. How to Create a New Account with Flow CLI and Testnet Faucet",
+    "link": "https://dev.to/onflow/build-on-flow-learn-fcl-12-how-to-create-a-new-account-with-flow-cli-and-testnet-faucet-4hki",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Managing Markdown content doesn't have to be hard!",
+    "link": "https://dev.to/ekqt/managing-markdown-content-doesnt-have-to-be-hard-6ja",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build on Flow | Learn FCL - 11. How to Install and Create a New Testnet Account with Lillico",
+    "link": "https://dev.to/onflow/build-on-flow-learn-fcl-11-how-to-install-and-create-a-new-testnet-account-with-lillico-18i",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build on Flow | Learn FCL - 10. How to Create a New Testnet Account with Blocto Wallet",
+    "link": "https://dev.to/maxstalker/build-on-flow-learn-fcl-10-how-to-create-a-new-testnet-account-with-blocto-wallet-4lda",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript E𝗺𝗽𝘁𝘆 𝗼𝗯𝗷𝗲𝗰𝘁 𝗮𝘀 𝗮 𝗳𝗮𝗹𝗹𝗯𝗮𝗰𝗸 𝘄𝗵𝗶𝗹𝗲 𝗱𝗲𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗶𝗻𝗴",
+    "link": "https://dev.to/talenttinaapi/javascript-e-13h4",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Paracetamol.js💊| #156: Explica este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoljs-156-explica-este-codigo-javascript-3le5",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "File Sharing Site",
+    "link": "https://dev.to/lassev/file-sharing-site-1a6i",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Amp up your React workflow with these \"Gen Z\" toolings",
+    "link": "https://dev.to/h3mandev/amp-up-your-react-workflow-with-these-gen-z-toolings-5m3",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Buenas Prácticas con NgRx: Parte 3 Modularidad",
+    "link": "https://dev.to/danyparedes/buenas-practicas-con-ngrx-parte-3-modularidad-ki5",
+    "date": "6/28/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue’s watch vs watchEffect, which should I use?",
+    "link": "https://dev.to/vuemastery/vues-watch-vs-watcheffect-which-should-i-use-1i8m",
     "date": "6/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Some Unseen Object Attributes in Javascript",
-    "link": "https://blog.karthik.bio/some-unseen-object-attributes-in-javascript",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Basics of JavaScript Functions",
-    "link": "https://c-akunne.hashnode.dev/the-basics-of-javascript-functions",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Third week of the Bootcamp.",
-    "link": "https://foodaviz.hashnode.dev/the-third-week-of-the-bootcamp",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Using MySQL with Node.js",
-    "link": "https://spiffgreen.hashnode.dev/using-mysql-with-nodejs",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Git: ¿Cómo eliminar un archivo de la historia?",
-    "link": "https://h.matiashernandez.dev/git-como-eliminar-un-archivo-de-la-historia",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Parameters and Arguments: What's the Difference?",
-    "link": "https://codechunks.hashnode.dev/parameters-and-arguments-whats-the-difference",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Iteration through Arrays In JavaScript",
-    "link": "https://amrmahmoud.hashnode.dev/iteration-through-arrays-in-javascript",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "2 steps to display cache tables data on the web by using jquery datatable and embedded python",
-    "link": "https://dev.to/intersystems/2-steps-to-display-cache-tables-data-on-the-web-by-using-jquery-datatable-and-embedded-python-3idm",
+    "title": "Vue’s watch vs watchEffect, which should I use?",
+    "link": "https://dev.to/vuemastery/vues-watch-vs-watcheffect-which-should-i-use-1i8m",
     "date": "6/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Some Unseen Object Attributes in Javascript",
-    "link": "https://blog.karthik.bio/some-unseen-object-attributes-in-javascript",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Basics of JavaScript Functions",
-    "link": "https://c-akunne.hashnode.dev/the-basics-of-javascript-functions",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Third week of the Bootcamp.",
-    "link": "https://foodaviz.hashnode.dev/the-third-week-of-the-bootcamp",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Using MySQL with Node.js",
-    "link": "https://spiffgreen.hashnode.dev/using-mysql-with-nodejs",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Git: ¿Cómo eliminar un archivo de la historia?",
-    "link": "https://h.matiashernandez.dev/git-como-eliminar-un-archivo-de-la-historia",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Parameters and Arguments: What's the Difference?",
-    "link": "https://codechunks.hashnode.dev/parameters-and-arguments-whats-the-difference",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Iteration through Arrays In JavaScript",
-    "link": "https://amrmahmoud.hashnode.dev/iteration-through-arrays-in-javascript",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "2 steps to display cache tables data on the web by using jquery datatable and embedded python",
-    "link": "https://dev.to/intersystems/2-steps-to-display-cache-tables-data-on-the-web-by-using-jquery-datatable-and-embedded-python-3idm",
+    "title": "Vue’s watch vs watchEffect, which should I use?",
+    "link": "https://dev.to/vuemastery/vues-watch-vs-watcheffect-which-should-i-use-1i8m",
     "date": "6/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Some Unseen Object Attributes in Javascript",
-    "link": "https://blog.karthik.bio/some-unseen-object-attributes-in-javascript",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Basics of JavaScript Functions",
-    "link": "https://c-akunne.hashnode.dev/the-basics-of-javascript-functions",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Third week of the Bootcamp.",
-    "link": "https://foodaviz.hashnode.dev/the-third-week-of-the-bootcamp",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Using MySQL with Node.js",
-    "link": "https://spiffgreen.hashnode.dev/using-mysql-with-nodejs",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Git: ¿Cómo eliminar un archivo de la historia?",
-    "link": "https://h.matiashernandez.dev/git-como-eliminar-un-archivo-de-la-historia",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Parameters and Arguments: What's the Difference?",
-    "link": "https://codechunks.hashnode.dev/parameters-and-arguments-whats-the-difference",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Iteration through Arrays In JavaScript",
-    "link": "https://amrmahmoud.hashnode.dev/iteration-through-arrays-in-javascript",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "2 steps to display cache tables data on the web by using jquery datatable and embedded python",
-    "link": "https://dev.to/intersystems/2-steps-to-display-cache-tables-data-on-the-web-by-using-jquery-datatable-and-embedded-python-3idm",
+    "title": "Vue’s watch vs watchEffect, which should I use?",
+    "link": "https://dev.to/vuemastery/vues-watch-vs-watcheffect-which-should-i-use-1i8m",
     "date": "6/27/2022",
     "site": "dev.to"
   },
   {
-    "title": "Some Unseen Object Attributes in Javascript",
-    "link": "https://blog.karthik.bio/some-unseen-object-attributes-in-javascript",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Basics of JavaScript Functions",
-    "link": "https://c-akunne.hashnode.dev/the-basics-of-javascript-functions",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Third week of the Bootcamp.",
-    "link": "https://foodaviz.hashnode.dev/the-third-week-of-the-bootcamp",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Using MySQL with Node.js",
-    "link": "https://spiffgreen.hashnode.dev/using-mysql-with-nodejs",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Git: ¿Cómo eliminar un archivo de la historia?",
-    "link": "https://h.matiashernandez.dev/git-como-eliminar-un-archivo-de-la-historia",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Parameters and Arguments: What's the Difference?",
-    "link": "https://codechunks.hashnode.dev/parameters-and-arguments-whats-the-difference",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Iteration through Arrays In JavaScript",
-    "link": "https://amrmahmoud.hashnode.dev/iteration-through-arrays-in-javascript",
-    "date": "6/27/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "2 steps to display cache tables data on the web by using jquery datatable and embedded python",
-    "link": "https://dev.to/intersystems/2-steps-to-display-cache-tables-data-on-the-web-by-using-jquery-datatable-and-embedded-python-3idm",
+    "title": "Vue’s watch vs watchEffect, which should I use?",
+    "link": "https://dev.to/vuemastery/vues-watch-vs-watcheffect-which-should-i-use-1i8m",
     "date": "6/27/2022",
     "site": "dev.to"
   },
@@ -1262,7 +1262,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
