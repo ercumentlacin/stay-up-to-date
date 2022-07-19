@@ -1,99 +1,448 @@
 [
   {
+    "title": "The Reducer Pattern",
+    "link": "https://geegang.hashnode.dev/the-reducer-pattern",
+    "date": "7/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Simple Protected Routes Middleware in NextJS 12",
+    "link": "https://dev.to/mhx/simple-protected-routes-middleware-in-nextjs-12-3ec7",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Memoization In JavaScript",
+    "link": "https://dev.to/vedanthb/memoization-in-javascript-11ci",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn Python as a Javascript developer",
+    "link": "https://dev.to/kachiic/learn-python-as-a-javascript-developer-422j",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "custom Mouse with javascript",
+    "link": "https://dev.to/sababg/custom-mouse-with-javascript-1h7d",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to check Palindrome String in java?",
+    "link": "https://dev.to/akshays81992169/how-to-check-palindrome-string-in-java-222e",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What’s new in Handsontable Data Grid: July 2022",
+    "link": "https://dev.to/chrisspilka/whats-new-in-handsontable-data-grid-july-2022-1o4",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JSX for beginners (and how it differs from HTML)",
+    "link": "https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Podcast App with Next.js and Strapi",
+    "link": "https://dev.to/strapi/building-a-podcast-app-with-nextjs-and-strapi-kkd",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "publlish a private npm package by using github packages",
+    "link": "https://dev.to/zilinrrr/publlish-a-private-npm-package-by-using-github-packages-1gf5",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Chrome extension in 20 min",
+    "link": "https://dev.to/r7kamura/chrome-extension-in-20-minutes-47ej",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Gradient Borders",
+    "link": "https://dev.to/sababg/gradient-borders-1gfi",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to read CSV files in the typescript react app?",
+    "link": "https://dev.to/mahdi_falamarzi/how-to-read-csv-file-in-typescript-react-app-106h",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Important Topics for Frontend Development Interview",
+    "link": "https://dev.to/vamsitupakula_/important-topics-for-frontend-development-interview-48m4",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Reducer Pattern",
+    "link": "https://geegang.hashnode.dev/the-reducer-pattern",
+    "date": "7/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Simple Protected Routes Middleware in NextJS 12",
+    "link": "https://dev.to/mhx/simple-protected-routes-middleware-in-nextjs-12-3ec7",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Memoization In JavaScript",
+    "link": "https://dev.to/vedanthb/memoization-in-javascript-11ci",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn Python as a Javascript developer",
+    "link": "https://dev.to/kachiic/learn-python-as-a-javascript-developer-422j",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "custom Mouse with javascript",
+    "link": "https://dev.to/sababg/custom-mouse-with-javascript-1h7d",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to check Palindrome String in java?",
+    "link": "https://dev.to/akshays81992169/how-to-check-palindrome-string-in-java-222e",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What’s new in Handsontable Data Grid: July 2022",
+    "link": "https://dev.to/chrisspilka/whats-new-in-handsontable-data-grid-july-2022-1o4",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JSX for beginners (and how it differs from HTML)",
+    "link": "https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Podcast App with Next.js and Strapi",
+    "link": "https://dev.to/strapi/building-a-podcast-app-with-nextjs-and-strapi-kkd",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "publlish a private npm package by using github packages",
+    "link": "https://dev.to/zilinrrr/publlish-a-private-npm-package-by-using-github-packages-1gf5",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Chrome extension in 20 min",
+    "link": "https://dev.to/r7kamura/chrome-extension-in-20-minutes-47ej",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Gradient Borders",
+    "link": "https://dev.to/sababg/gradient-borders-1gfi",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to read CSV files in the typescript react app?",
+    "link": "https://dev.to/mahdi_falamarzi/how-to-read-csv-file-in-typescript-react-app-106h",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Important Topics for Frontend Development Interview",
+    "link": "https://dev.to/vamsitupakula_/important-topics-for-frontend-development-interview-48m4",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Reducer Pattern",
+    "link": "https://geegang.hashnode.dev/the-reducer-pattern",
+    "date": "7/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Simple Protected Routes Middleware in NextJS 12",
+    "link": "https://dev.to/mhx/simple-protected-routes-middleware-in-nextjs-12-3ec7",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Memoization In JavaScript",
+    "link": "https://dev.to/vedanthb/memoization-in-javascript-11ci",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn Python as a Javascript developer",
+    "link": "https://dev.to/kachiic/learn-python-as-a-javascript-developer-422j",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "custom Mouse with javascript",
+    "link": "https://dev.to/sababg/custom-mouse-with-javascript-1h7d",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to check Palindrome String in java?",
+    "link": "https://dev.to/akshays81992169/how-to-check-palindrome-string-in-java-222e",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What’s new in Handsontable Data Grid: July 2022",
+    "link": "https://dev.to/chrisspilka/whats-new-in-handsontable-data-grid-july-2022-1o4",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JSX for beginners (and how it differs from HTML)",
+    "link": "https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Podcast App with Next.js and Strapi",
+    "link": "https://dev.to/strapi/building-a-podcast-app-with-nextjs-and-strapi-kkd",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "publlish a private npm package by using github packages",
+    "link": "https://dev.to/zilinrrr/publlish-a-private-npm-package-by-using-github-packages-1gf5",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Chrome extension in 20 min",
+    "link": "https://dev.to/r7kamura/chrome-extension-in-20-minutes-47ej",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Gradient Borders",
+    "link": "https://dev.to/sababg/gradient-borders-1gfi",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to read CSV files in the typescript react app?",
+    "link": "https://dev.to/mahdi_falamarzi/how-to-read-csv-file-in-typescript-react-app-106h",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Important Topics for Frontend Development Interview",
+    "link": "https://dev.to/vamsitupakula_/important-topics-for-frontend-development-interview-48m4",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Reducer Pattern",
+    "link": "https://geegang.hashnode.dev/the-reducer-pattern",
+    "date": "7/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Simple Protected Routes Middleware in NextJS 12",
+    "link": "https://dev.to/mhx/simple-protected-routes-middleware-in-nextjs-12-3ec7",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Memoization In JavaScript",
+    "link": "https://dev.to/vedanthb/memoization-in-javascript-11ci",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn Python as a Javascript developer",
+    "link": "https://dev.to/kachiic/learn-python-as-a-javascript-developer-422j",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "custom Mouse with javascript",
+    "link": "https://dev.to/sababg/custom-mouse-with-javascript-1h7d",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to check Palindrome String in java?",
+    "link": "https://dev.to/akshays81992169/how-to-check-palindrome-string-in-java-222e",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What’s new in Handsontable Data Grid: July 2022",
+    "link": "https://dev.to/chrisspilka/whats-new-in-handsontable-data-grid-july-2022-1o4",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JSX for beginners (and how it differs from HTML)",
+    "link": "https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Podcast App with Next.js and Strapi",
+    "link": "https://dev.to/strapi/building-a-podcast-app-with-nextjs-and-strapi-kkd",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "publlish a private npm package by using github packages",
+    "link": "https://dev.to/zilinrrr/publlish-a-private-npm-package-by-using-github-packages-1gf5",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Chrome extension in 20 min",
+    "link": "https://dev.to/r7kamura/chrome-extension-in-20-minutes-47ej",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Gradient Borders",
+    "link": "https://dev.to/sababg/gradient-borders-1gfi",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to read CSV files in the typescript react app?",
+    "link": "https://dev.to/mahdi_falamarzi/how-to-read-csv-file-in-typescript-react-app-106h",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Important Topics for Frontend Development Interview",
+    "link": "https://dev.to/vamsitupakula_/important-topics-for-frontend-development-interview-48m4",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Reducer Pattern",
+    "link": "https://geegang.hashnode.dev/the-reducer-pattern",
+    "date": "7/19/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Simple Protected Routes Middleware in NextJS 12",
+    "link": "https://dev.to/mhx/simple-protected-routes-middleware-in-nextjs-12-3ec7",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Memoization In JavaScript",
+    "link": "https://dev.to/vedanthb/memoization-in-javascript-11ci",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn Python as a Javascript developer",
+    "link": "https://dev.to/kachiic/learn-python-as-a-javascript-developer-422j",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "custom Mouse with javascript",
+    "link": "https://dev.to/sababg/custom-mouse-with-javascript-1h7d",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to check Palindrome String in java?",
+    "link": "https://dev.to/akshays81992169/how-to-check-palindrome-string-in-java-222e",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What’s new in Handsontable Data Grid: July 2022",
+    "link": "https://dev.to/chrisspilka/whats-new-in-handsontable-data-grid-july-2022-1o4",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JSX for beginners (and how it differs from HTML)",
+    "link": "https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Podcast App with Next.js and Strapi",
+    "link": "https://dev.to/strapi/building-a-podcast-app-with-nextjs-and-strapi-kkd",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "publlish a private npm package by using github packages",
+    "link": "https://dev.to/zilinrrr/publlish-a-private-npm-package-by-using-github-packages-1gf5",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Chrome extension in 20 min",
+    "link": "https://dev.to/r7kamura/chrome-extension-in-20-minutes-47ej",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Gradient Borders",
+    "link": "https://dev.to/sababg/gradient-borders-1gfi",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to read CSV files in the typescript react app?",
+    "link": "https://dev.to/mahdi_falamarzi/how-to-read-csv-file-in-typescript-react-app-106h",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Important Topics for Frontend Development Interview",
+    "link": "https://dev.to/vamsitupakula_/important-topics-for-frontend-development-interview-48m4",
+    "date": "7/19/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "A New Pattern For The Jamstack: Segmented Rendering",
+    "link": "https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
+    "reading_time": "13 min read",
+    "date": "7/18/2022",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Custom React Charts",
+    "link": "https://friilancer.hashnode.dev/custom-react-charts",
+    "date": "7/18/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "One of the coolest features of Go. Embed ReactJS into a binary with Go",
     "link": "https://pacholoamit.hashnode.dev/one-of-the-coolest-features-of-go-embed-reactjs-into-a-binary-with-go",
     "date": "7/18/2022",
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with Micro Frontends",
-    "link": "https://dev.to/smapiot/getting-started-with-micro-frontends-ge9",
+    "title": "Custom React Charts",
+    "link": "https://friilancer.hashnode.dev/custom-react-charts",
     "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "End-to-end Typesafe APIs with TypeScript and shared Zod schemas",
-    "link": "https://dev.to/jussinevavuori/end-to-end-typesafe-apis-with-typescript-and-shared-zod-schemas-4jmo",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript in's & outs 1",
-    "link": "https://dev.to/nash4253/javascript-ins-outs-1-2h43",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing XGPlayer in Ruby on Rails",
-    "link": "https://dev.to/timnans/implementing-xgplayer-in-ruby-on-rails-4404",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Yarn upgrade version numbers in package.json",
-    "link": "https://dev.to/olaj/yarn-upgrade-version-numbers-in-packagejson-2laf",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "One of the coolest features of Go. Embed ReactJS into a binary with Go",
-    "link": "https://dev.to/pacholoamit/one-of-the-coolest-features-of-go-embed-reactjs-into-a-go-binary-41e9",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Amazing Pure CSS Scrolling Indicator Effect",
-    "link": "https://dev.to/chokcoco/amazing-pure-css-scrolling-indicator-effect-5eja",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Test horizontal scroll overflow on mobile devices with Cypress",
-    "link": "https://dev.to/olaj/test-horizontal-scroll-overflow-on-mobile-devices-with-cypress-1ikc",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript concepts to remember",
-    "link": "https://dev.to/brunoelo/javascript-concepts-to-remember-52eh",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "mercedes service history",
-    "link": "https://dev.to/nicholasknight12/mercedes-service-history-15hm",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Useful Tips & Tricks In JavaScript",
-    "link": "https://dev.to/devsimc/useful-tips-tricks-in-javascript-2m1n",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Test in Multiple Environments in Cypress 10",
-    "link": "https://dev.to/samelawrence/how-to-test-in-multiple-environments-in-cypress-10-1i9h",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering word games with cheat codes",
-    "link": "https://dev.to/ahamsammich/mastering-word-games-with-cheat-codes-3303",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Some valuable lessons as a Developer",
-    "link": "https://dev.to/shshank/some-valuable-lessons-as-a-developer-152p",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Being a Web Developer - Programming Languages",
-    "link": "https://dev.to/mrpaulishaili/being-a-web-developer-programming-languages-1mfj",
-    "date": "7/18/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "One of the coolest features of Go. Embed ReactJS into a binary with Go",
@@ -102,94 +451,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with Micro Frontends",
-    "link": "https://dev.to/smapiot/getting-started-with-micro-frontends-ge9",
+    "title": "Custom React Charts",
+    "link": "https://friilancer.hashnode.dev/custom-react-charts",
     "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "End-to-end Typesafe APIs with TypeScript and shared Zod schemas",
-    "link": "https://dev.to/jussinevavuori/end-to-end-typesafe-apis-with-typescript-and-shared-zod-schemas-4jmo",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript in's & outs 1",
-    "link": "https://dev.to/nash4253/javascript-ins-outs-1-2h43",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing XGPlayer in Ruby on Rails",
-    "link": "https://dev.to/timnans/implementing-xgplayer-in-ruby-on-rails-4404",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Yarn upgrade version numbers in package.json",
-    "link": "https://dev.to/olaj/yarn-upgrade-version-numbers-in-packagejson-2laf",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "One of the coolest features of Go. Embed ReactJS into a binary with Go",
-    "link": "https://dev.to/pacholoamit/one-of-the-coolest-features-of-go-embed-reactjs-into-a-go-binary-41e9",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Amazing Pure CSS Scrolling Indicator Effect",
-    "link": "https://dev.to/chokcoco/amazing-pure-css-scrolling-indicator-effect-5eja",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Test horizontal scroll overflow on mobile devices with Cypress",
-    "link": "https://dev.to/olaj/test-horizontal-scroll-overflow-on-mobile-devices-with-cypress-1ikc",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript concepts to remember",
-    "link": "https://dev.to/brunoelo/javascript-concepts-to-remember-52eh",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "mercedes service history",
-    "link": "https://dev.to/nicholasknight12/mercedes-service-history-15hm",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Useful Tips & Tricks In JavaScript",
-    "link": "https://dev.to/devsimc/useful-tips-tricks-in-javascript-2m1n",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Test in Multiple Environments in Cypress 10",
-    "link": "https://dev.to/samelawrence/how-to-test-in-multiple-environments-in-cypress-10-1i9h",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering word games with cheat codes",
-    "link": "https://dev.to/ahamsammich/mastering-word-games-with-cheat-codes-3303",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Some valuable lessons as a Developer",
-    "link": "https://dev.to/shshank/some-valuable-lessons-as-a-developer-152p",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Being a Web Developer - Programming Languages",
-    "link": "https://dev.to/mrpaulishaili/being-a-web-developer-programming-languages-1mfj",
-    "date": "7/18/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "One of the coolest features of Go. Embed ReactJS into a binary with Go",
@@ -198,94 +463,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with Micro Frontends",
-    "link": "https://dev.to/smapiot/getting-started-with-micro-frontends-ge9",
+    "title": "Custom React Charts",
+    "link": "https://friilancer.hashnode.dev/custom-react-charts",
     "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "End-to-end Typesafe APIs with TypeScript and shared Zod schemas",
-    "link": "https://dev.to/jussinevavuori/end-to-end-typesafe-apis-with-typescript-and-shared-zod-schemas-4jmo",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript in's & outs 1",
-    "link": "https://dev.to/nash4253/javascript-ins-outs-1-2h43",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing XGPlayer in Ruby on Rails",
-    "link": "https://dev.to/timnans/implementing-xgplayer-in-ruby-on-rails-4404",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Yarn upgrade version numbers in package.json",
-    "link": "https://dev.to/olaj/yarn-upgrade-version-numbers-in-packagejson-2laf",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "One of the coolest features of Go. Embed ReactJS into a binary with Go",
-    "link": "https://dev.to/pacholoamit/one-of-the-coolest-features-of-go-embed-reactjs-into-a-go-binary-41e9",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Amazing Pure CSS Scrolling Indicator Effect",
-    "link": "https://dev.to/chokcoco/amazing-pure-css-scrolling-indicator-effect-5eja",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Test horizontal scroll overflow on mobile devices with Cypress",
-    "link": "https://dev.to/olaj/test-horizontal-scroll-overflow-on-mobile-devices-with-cypress-1ikc",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript concepts to remember",
-    "link": "https://dev.to/brunoelo/javascript-concepts-to-remember-52eh",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "mercedes service history",
-    "link": "https://dev.to/nicholasknight12/mercedes-service-history-15hm",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Useful Tips & Tricks In JavaScript",
-    "link": "https://dev.to/devsimc/useful-tips-tricks-in-javascript-2m1n",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Test in Multiple Environments in Cypress 10",
-    "link": "https://dev.to/samelawrence/how-to-test-in-multiple-environments-in-cypress-10-1i9h",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering word games with cheat codes",
-    "link": "https://dev.to/ahamsammich/mastering-word-games-with-cheat-codes-3303",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Some valuable lessons as a Developer",
-    "link": "https://dev.to/shshank/some-valuable-lessons-as-a-developer-152p",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Being a Web Developer - Programming Languages",
-    "link": "https://dev.to/mrpaulishaili/being-a-web-developer-programming-languages-1mfj",
-    "date": "7/18/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "One of the coolest features of Go. Embed ReactJS into a binary with Go",
@@ -294,94 +475,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with Micro Frontends",
-    "link": "https://dev.to/smapiot/getting-started-with-micro-frontends-ge9",
+    "title": "Custom React Charts",
+    "link": "https://friilancer.hashnode.dev/custom-react-charts",
     "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "End-to-end Typesafe APIs with TypeScript and shared Zod schemas",
-    "link": "https://dev.to/jussinevavuori/end-to-end-typesafe-apis-with-typescript-and-shared-zod-schemas-4jmo",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript in's & outs 1",
-    "link": "https://dev.to/nash4253/javascript-ins-outs-1-2h43",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing XGPlayer in Ruby on Rails",
-    "link": "https://dev.to/timnans/implementing-xgplayer-in-ruby-on-rails-4404",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Yarn upgrade version numbers in package.json",
-    "link": "https://dev.to/olaj/yarn-upgrade-version-numbers-in-packagejson-2laf",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "One of the coolest features of Go. Embed ReactJS into a binary with Go",
-    "link": "https://dev.to/pacholoamit/one-of-the-coolest-features-of-go-embed-reactjs-into-a-go-binary-41e9",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Amazing Pure CSS Scrolling Indicator Effect",
-    "link": "https://dev.to/chokcoco/amazing-pure-css-scrolling-indicator-effect-5eja",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Test horizontal scroll overflow on mobile devices with Cypress",
-    "link": "https://dev.to/olaj/test-horizontal-scroll-overflow-on-mobile-devices-with-cypress-1ikc",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript concepts to remember",
-    "link": "https://dev.to/brunoelo/javascript-concepts-to-remember-52eh",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "mercedes service history",
-    "link": "https://dev.to/nicholasknight12/mercedes-service-history-15hm",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Useful Tips & Tricks In JavaScript",
-    "link": "https://dev.to/devsimc/useful-tips-tricks-in-javascript-2m1n",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Test in Multiple Environments in Cypress 10",
-    "link": "https://dev.to/samelawrence/how-to-test-in-multiple-environments-in-cypress-10-1i9h",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering word games with cheat codes",
-    "link": "https://dev.to/ahamsammich/mastering-word-games-with-cheat-codes-3303",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Some valuable lessons as a Developer",
-    "link": "https://dev.to/shshank/some-valuable-lessons-as-a-developer-152p",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Being a Web Developer - Programming Languages",
-    "link": "https://dev.to/mrpaulishaili/being-a-web-developer-programming-languages-1mfj",
-    "date": "7/18/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "One of the coolest features of Go. Embed ReactJS into a binary with Go",
@@ -390,93 +487,63 @@
     "site": "hashnode"
   },
   {
-    "title": "Getting Started with Micro Frontends",
-    "link": "https://dev.to/smapiot/getting-started-with-micro-frontends-ge9",
-    "date": "7/18/2022",
+    "title": "Javascript Interview Questions ( Call, Bind and Apply ) - Polyfills, Output Based, Explicit Binding",
+    "link": "https://roadsidecoder.hashnode.dev/javascript-interview-questions-call-bind-and-apply-polyfills-output-based-explicit-binding",
+    "date": "7/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A guide to frontend migrations",
+    "link": "https://dev.to/remrem/a-guide-to-frontend-migrations-4a0h",
+    "date": "7/17/2022",
     "site": "dev.to"
   },
   {
-    "title": "End-to-end Typesafe APIs with TypeScript and shared Zod schemas",
-    "link": "https://dev.to/jussinevavuori/end-to-end-typesafe-apis-with-typescript-and-shared-zod-schemas-4jmo",
-    "date": "7/18/2022",
+    "title": "Javascript Interview Questions ( Call, Bind and Apply ) - Polyfills, Output Based, Explicit Binding",
+    "link": "https://roadsidecoder.hashnode.dev/javascript-interview-questions-call-bind-and-apply-polyfills-output-based-explicit-binding",
+    "date": "7/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A guide to frontend migrations",
+    "link": "https://dev.to/remrem/a-guide-to-frontend-migrations-4a0h",
+    "date": "7/17/2022",
     "site": "dev.to"
   },
   {
-    "title": "Javascript in's & outs 1",
-    "link": "https://dev.to/nash4253/javascript-ins-outs-1-2h43",
-    "date": "7/18/2022",
+    "title": "Javascript Interview Questions ( Call, Bind and Apply ) - Polyfills, Output Based, Explicit Binding",
+    "link": "https://roadsidecoder.hashnode.dev/javascript-interview-questions-call-bind-and-apply-polyfills-output-based-explicit-binding",
+    "date": "7/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A guide to frontend migrations",
+    "link": "https://dev.to/remrem/a-guide-to-frontend-migrations-4a0h",
+    "date": "7/17/2022",
     "site": "dev.to"
   },
   {
-    "title": "Implementing XGPlayer in Ruby on Rails",
-    "link": "https://dev.to/timnans/implementing-xgplayer-in-ruby-on-rails-4404",
-    "date": "7/18/2022",
+    "title": "Javascript Interview Questions ( Call, Bind and Apply ) - Polyfills, Output Based, Explicit Binding",
+    "link": "https://roadsidecoder.hashnode.dev/javascript-interview-questions-call-bind-and-apply-polyfills-output-based-explicit-binding",
+    "date": "7/17/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "A guide to frontend migrations",
+    "link": "https://dev.to/remrem/a-guide-to-frontend-migrations-4a0h",
+    "date": "7/17/2022",
     "site": "dev.to"
   },
   {
-    "title": "Yarn upgrade version numbers in package.json",
-    "link": "https://dev.to/olaj/yarn-upgrade-version-numbers-in-packagejson-2laf",
-    "date": "7/18/2022",
-    "site": "dev.to"
+    "title": "Javascript Interview Questions ( Call, Bind and Apply ) - Polyfills, Output Based, Explicit Binding",
+    "link": "https://roadsidecoder.hashnode.dev/javascript-interview-questions-call-bind-and-apply-polyfills-output-based-explicit-binding",
+    "date": "7/17/2022",
+    "site": "hashnode"
   },
   {
-    "title": "One of the coolest features of Go. Embed ReactJS into a binary with Go",
-    "link": "https://dev.to/pacholoamit/one-of-the-coolest-features-of-go-embed-reactjs-into-a-go-binary-41e9",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Amazing Pure CSS Scrolling Indicator Effect",
-    "link": "https://dev.to/chokcoco/amazing-pure-css-scrolling-indicator-effect-5eja",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Test horizontal scroll overflow on mobile devices with Cypress",
-    "link": "https://dev.to/olaj/test-horizontal-scroll-overflow-on-mobile-devices-with-cypress-1ikc",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript concepts to remember",
-    "link": "https://dev.to/brunoelo/javascript-concepts-to-remember-52eh",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "mercedes service history",
-    "link": "https://dev.to/nicholasknight12/mercedes-service-history-15hm",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Useful Tips & Tricks In JavaScript",
-    "link": "https://dev.to/devsimc/useful-tips-tricks-in-javascript-2m1n",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Test in Multiple Environments in Cypress 10",
-    "link": "https://dev.to/samelawrence/how-to-test-in-multiple-environments-in-cypress-10-1i9h",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering word games with cheat codes",
-    "link": "https://dev.to/ahamsammich/mastering-word-games-with-cheat-codes-3303",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Some valuable lessons as a Developer",
-    "link": "https://dev.to/shshank/some-valuable-lessons-as-a-developer-152p",
-    "date": "7/18/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Being a Web Developer - Programming Languages",
-    "link": "https://dev.to/mrpaulishaili/being-a-web-developer-programming-languages-1mfj",
-    "date": "7/18/2022",
+    "title": "A guide to frontend migrations",
+    "link": "https://dev.to/remrem/a-guide-to-frontend-migrations-4a0h",
+    "date": "7/17/2022",
     "site": "dev.to"
   },
   {
@@ -486,10 +553,10 @@
     "site": "hashnode"
   },
   {
-    "title": "The Reducer Pattern",
-    "link": "https://geegang.hashnode.dev/the-reducer-pattern",
+    "title": "Understanding micro frontends",
+    "link": "https://dev.to/remrem/understanding-micro-frontends-3ago",
     "date": "7/16/2022",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "Rest vs Spread operator",
@@ -498,10 +565,10 @@
     "site": "hashnode"
   },
   {
-    "title": "The Reducer Pattern",
-    "link": "https://geegang.hashnode.dev/the-reducer-pattern",
+    "title": "Understanding micro frontends",
+    "link": "https://dev.to/remrem/understanding-micro-frontends-3ago",
     "date": "7/16/2022",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "Rest vs Spread operator",
@@ -510,10 +577,10 @@
     "site": "hashnode"
   },
   {
-    "title": "The Reducer Pattern",
-    "link": "https://geegang.hashnode.dev/the-reducer-pattern",
+    "title": "Understanding micro frontends",
+    "link": "https://dev.to/remrem/understanding-micro-frontends-3ago",
     "date": "7/16/2022",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "Rest vs Spread operator",
@@ -522,10 +589,10 @@
     "site": "hashnode"
   },
   {
-    "title": "The Reducer Pattern",
-    "link": "https://geegang.hashnode.dev/the-reducer-pattern",
+    "title": "Understanding micro frontends",
+    "link": "https://dev.to/remrem/understanding-micro-frontends-3ago",
     "date": "7/16/2022",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "Rest vs Spread operator",
@@ -534,10 +601,10 @@
     "site": "hashnode"
   },
   {
-    "title": "The Reducer Pattern",
-    "link": "https://geegang.hashnode.dev/the-reducer-pattern",
+    "title": "Understanding micro frontends",
+    "link": "https://dev.to/remrem/understanding-micro-frontends-3ago",
     "date": "7/16/2022",
-    "site": "hashnode"
+    "site": "dev.to"
   },
   {
     "title": "Easy to handle JS strategy mode!",
@@ -679,14 +746,44 @@
     "site": "hashnode"
   },
   {
-    "title": "A Better Map Function",
-    "link": "https://amrmahmoud.hashnode.dev/a-better-map-function",
+    "title": "How to create a dynamic alert component in React",
+    "link": "https://trammellwebdev.hashnode.dev/how-to-create-a-dynamic-alert-component-in-react",
     "date": "7/11/2022",
     "site": "hashnode"
   },
   {
-    "title": "Learn indexof( ) and hasOwnProperty( ) Operations in JavaScript",
-    "link": "https://blog.surya-l.com/learn-indexof-and-hasownproperty-operations-in-javascript",
+    "title": "JavaScript Loops #1",
+    "link": "https://okiezy.hashnode.dev/javascript-loops-1",
+    "date": "7/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "JavaScript Proxy the Fetch API",
+    "link": "https://h.daily-dev-tips.com/javascript-proxy-the-fetch-api",
+    "date": "7/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Is Bun.js Yet Another JavaScript Runtime?",
+    "link": "https://hzerrad.hashnode.dev/is-bunjs-yet-another-javascript-runtime",
+    "date": "7/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to use Intersection Observer",
+    "link": "https://anumide.hashnode.dev/how-to-use-intersection-observer-1",
+    "date": "7/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "Alternative way to localize in Angular",
+    "link": "https://sekrab.hashnode.dev/alternative-way-to-localize-in-angular",
+    "date": "7/11/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "How to create a custom radio button with react and styled components",
+    "link": "https://reuben09.hashnode.dev/how-to-create-a-custom-radio-button-with-react-and-styled-components",
     "date": "7/11/2022",
     "site": "hashnode"
   },
@@ -733,18 +830,6 @@
     "site": "hashnode"
   },
   {
-    "title": "A Better Map Function",
-    "link": "https://amrmahmoud.hashnode.dev/a-better-map-function",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn indexof( ) and hasOwnProperty( ) Operations in JavaScript",
-    "link": "https://blog.surya-l.com/learn-indexof-and-hasownproperty-operations-in-javascript",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
     "title": "How to create a dynamic alert component in React",
     "link": "https://trammellwebdev.hashnode.dev/how-to-create-a-dynamic-alert-component-in-react",
     "date": "7/11/2022",
@@ -787,18 +872,6 @@
     "site": "hashnode"
   },
   {
-    "title": "A Better Map Function",
-    "link": "https://amrmahmoud.hashnode.dev/a-better-map-function",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn indexof( ) and hasOwnProperty( ) Operations in JavaScript",
-    "link": "https://blog.surya-l.com/learn-indexof-and-hasownproperty-operations-in-javascript",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
     "title": "How to create a dynamic alert component in React",
     "link": "https://trammellwebdev.hashnode.dev/how-to-create-a-dynamic-alert-component-in-react",
     "date": "7/11/2022",
@@ -837,72 +910,6 @@
   {
     "title": "How to create a custom radio button with react and styled components",
     "link": "https://reuben09.hashnode.dev/how-to-create-a-custom-radio-button-with-react-and-styled-components",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Better Map Function",
-    "link": "https://amrmahmoud.hashnode.dev/a-better-map-function",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn indexof( ) and hasOwnProperty( ) Operations in JavaScript",
-    "link": "https://blog.surya-l.com/learn-indexof-and-hasownproperty-operations-in-javascript",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to create a dynamic alert component in React",
-    "link": "https://trammellwebdev.hashnode.dev/how-to-create-a-dynamic-alert-component-in-react",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Loops #1",
-    "link": "https://okiezy.hashnode.dev/javascript-loops-1",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "JavaScript Proxy the Fetch API",
-    "link": "https://h.daily-dev-tips.com/javascript-proxy-the-fetch-api",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Is Bun.js Yet Another JavaScript Runtime?",
-    "link": "https://hzerrad.hashnode.dev/is-bunjs-yet-another-javascript-runtime",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to use Intersection Observer",
-    "link": "https://anumide.hashnode.dev/how-to-use-intersection-observer-1",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Alternative way to localize in Angular",
-    "link": "https://sekrab.hashnode.dev/alternative-way-to-localize-in-angular",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "How to create a custom radio button with react and styled components",
-    "link": "https://reuben09.hashnode.dev/how-to-create-a-custom-radio-button-with-react-and-styled-components",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "A Better Map Function",
-    "link": "https://amrmahmoud.hashnode.dev/a-better-map-function",
-    "date": "7/11/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Learn indexof( ) and hasOwnProperty( ) Operations in JavaScript",
-    "link": "https://blog.surya-l.com/learn-indexof-and-hasownproperty-operations-in-javascript",
     "date": "7/11/2022",
     "site": "hashnode"
   },
@@ -930,7 +937,7 @@
   {
     "title": "The Case For Prisma In The Jamstack",
     "link": "https://www.smashingmagazine.com/2022/06/case-prisma-jamstack/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/6/2022",
     "site": "smashingmagazine"
   },
@@ -1000,7 +1007,7 @@
   {
     "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
     "link": "https://www.smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "4/8/2022",
     "site": "smashingmagazine"
   },
@@ -1028,7 +1035,7 @@
   {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
     "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "3/9/2022",
     "site": "smashingmagazine"
   },
@@ -1316,7 +1323,7 @@
   {
     "title": "Tools And Practices To Speed Up The Vue.js Development Process",
     "link": "https://www.smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/8/2021",
     "site": "smashingmagazine"
   },
@@ -1325,13 +1332,6 @@
     "link": "https://css-tricks.com/body-toggle/",
     "date": "7/6/2021",
     "site": "css-tricks"
-  },
-  {
-    "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
-    "link": "https://www.smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
-    "reading_time": "21 min read",
-    "date": "7/1/2021",
-    "site": "smashingmagazine"
   },
   {
     "title": "You Can Label a JavaScript `if` Statement",
