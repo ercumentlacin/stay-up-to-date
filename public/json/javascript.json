@@ -1,81 +1,435 @@
 [
   {
+    "title": "Browser extensions - our first extension",
+    "link": "https://dev.to/dailydevtips1/browser-extensions-our-first-extension-66m",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's Talk About Framework-Specific UI Component Libraries",
+    "link": "https://dev.to/endigo9740/lets-talk-about-framework-specific-ui-component-libraries-non",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are you a Javascript Developer if you don't have these VS Code Extensions?",
+    "link": "https://dev.to/glowreeyah/are-you-a-javascript-developer-if-you-dont-have-these-vs-code-extensions-2fbh",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Frameworks to Make Less Mistakes",
+    "link": "https://dev.to/calvin087/using-frameworks-to-make-less-mistakes-2mon",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Environment Variable & Database",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-environment-variable-database-2jg1",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using the Web Share API in React",
+    "link": "https://dev.to/brannendev/using-the-web-share-api-in-react-5gha",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Improve on choosing the better data structures",
+    "link": "https://dev.to/montai/improve-on-choosing-the-better-data-structures-imk",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Elm: a good frontend language?",
+    "link": "https://dev.to/olus2000/elm-a-good-frontend-language-19bk",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ERROR: System limit for number of file watchers reached in Nuxt",
+    "link": "https://dev.to/siumhossain/error-system-limit-for-number-of-file-watchers-reached-in-nuxt-5g2d",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Radon Linked With Cancer: How to Ensure Your Home is Radon-Free",
+    "link": "https://dev.to/onlineservices/radon-linked-with-cancer-how-to-ensure-your-home-is-radon-free-458n",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "-CSS-JS-formValidate",
+    "link": "https://dev.to/soyhipst/-css-js-formvalidate-2laa",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multiples mode using same as dark mode class by Tailwindcss",
+    "link": "https://dev.to/yensubldg/multiples-mode-using-same-as-dark-mode-class-by-tailwindcss-56p4",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "flat() vs flatMap()",
+    "link": "https://dev.to/shshank/flat-vs-flatmap-3p73",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser extensions - our first extension",
+    "link": "https://dev.to/dailydevtips1/browser-extensions-our-first-extension-66m",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's Talk About Framework-Specific UI Component Libraries",
+    "link": "https://dev.to/endigo9740/lets-talk-about-framework-specific-ui-component-libraries-non",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are you a Javascript Developer if you don't have these VS Code Extensions?",
+    "link": "https://dev.to/glowreeyah/are-you-a-javascript-developer-if-you-dont-have-these-vs-code-extensions-2fbh",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Frameworks to Make Less Mistakes",
+    "link": "https://dev.to/calvin087/using-frameworks-to-make-less-mistakes-2mon",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Environment Variable & Database",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-environment-variable-database-2jg1",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using the Web Share API in React",
+    "link": "https://dev.to/brannendev/using-the-web-share-api-in-react-5gha",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Improve on choosing the better data structures",
+    "link": "https://dev.to/montai/improve-on-choosing-the-better-data-structures-imk",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Elm: a good frontend language?",
+    "link": "https://dev.to/olus2000/elm-a-good-frontend-language-19bk",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ERROR: System limit for number of file watchers reached in Nuxt",
+    "link": "https://dev.to/siumhossain/error-system-limit-for-number-of-file-watchers-reached-in-nuxt-5g2d",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Radon Linked With Cancer: How to Ensure Your Home is Radon-Free",
+    "link": "https://dev.to/onlineservices/radon-linked-with-cancer-how-to-ensure-your-home-is-radon-free-458n",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "-CSS-JS-formValidate",
+    "link": "https://dev.to/soyhipst/-css-js-formvalidate-2laa",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multiples mode using same as dark mode class by Tailwindcss",
+    "link": "https://dev.to/yensubldg/multiples-mode-using-same-as-dark-mode-class-by-tailwindcss-56p4",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "flat() vs flatMap()",
+    "link": "https://dev.to/shshank/flat-vs-flatmap-3p73",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser extensions - our first extension",
+    "link": "https://dev.to/dailydevtips1/browser-extensions-our-first-extension-66m",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's Talk About Framework-Specific UI Component Libraries",
+    "link": "https://dev.to/endigo9740/lets-talk-about-framework-specific-ui-component-libraries-non",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are you a Javascript Developer if you don't have these VS Code Extensions?",
+    "link": "https://dev.to/glowreeyah/are-you-a-javascript-developer-if-you-dont-have-these-vs-code-extensions-2fbh",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Frameworks to Make Less Mistakes",
+    "link": "https://dev.to/calvin087/using-frameworks-to-make-less-mistakes-2mon",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Environment Variable & Database",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-environment-variable-database-2jg1",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using the Web Share API in React",
+    "link": "https://dev.to/brannendev/using-the-web-share-api-in-react-5gha",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Improve on choosing the better data structures",
+    "link": "https://dev.to/montai/improve-on-choosing-the-better-data-structures-imk",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Elm: a good frontend language?",
+    "link": "https://dev.to/olus2000/elm-a-good-frontend-language-19bk",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ERROR: System limit for number of file watchers reached in Nuxt",
+    "link": "https://dev.to/siumhossain/error-system-limit-for-number-of-file-watchers-reached-in-nuxt-5g2d",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Radon Linked With Cancer: How to Ensure Your Home is Radon-Free",
+    "link": "https://dev.to/onlineservices/radon-linked-with-cancer-how-to-ensure-your-home-is-radon-free-458n",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "-CSS-JS-formValidate",
+    "link": "https://dev.to/soyhipst/-css-js-formvalidate-2laa",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multiples mode using same as dark mode class by Tailwindcss",
+    "link": "https://dev.to/yensubldg/multiples-mode-using-same-as-dark-mode-class-by-tailwindcss-56p4",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "flat() vs flatMap()",
+    "link": "https://dev.to/shshank/flat-vs-flatmap-3p73",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser extensions - our first extension",
+    "link": "https://dev.to/dailydevtips1/browser-extensions-our-first-extension-66m",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's Talk About Framework-Specific UI Component Libraries",
+    "link": "https://dev.to/endigo9740/lets-talk-about-framework-specific-ui-component-libraries-non",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are you a Javascript Developer if you don't have these VS Code Extensions?",
+    "link": "https://dev.to/glowreeyah/are-you-a-javascript-developer-if-you-dont-have-these-vs-code-extensions-2fbh",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Frameworks to Make Less Mistakes",
+    "link": "https://dev.to/calvin087/using-frameworks-to-make-less-mistakes-2mon",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Environment Variable & Database",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-environment-variable-database-2jg1",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using the Web Share API in React",
+    "link": "https://dev.to/brannendev/using-the-web-share-api-in-react-5gha",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Improve on choosing the better data structures",
+    "link": "https://dev.to/montai/improve-on-choosing-the-better-data-structures-imk",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Elm: a good frontend language?",
+    "link": "https://dev.to/olus2000/elm-a-good-frontend-language-19bk",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ERROR: System limit for number of file watchers reached in Nuxt",
+    "link": "https://dev.to/siumhossain/error-system-limit-for-number-of-file-watchers-reached-in-nuxt-5g2d",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Radon Linked With Cancer: How to Ensure Your Home is Radon-Free",
+    "link": "https://dev.to/onlineservices/radon-linked-with-cancer-how-to-ensure-your-home-is-radon-free-458n",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "-CSS-JS-formValidate",
+    "link": "https://dev.to/soyhipst/-css-js-formvalidate-2laa",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multiples mode using same as dark mode class by Tailwindcss",
+    "link": "https://dev.to/yensubldg/multiples-mode-using-same-as-dark-mode-class-by-tailwindcss-56p4",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "flat() vs flatMap()",
+    "link": "https://dev.to/shshank/flat-vs-flatmap-3p73",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser extensions - our first extension",
+    "link": "https://dev.to/dailydevtips1/browser-extensions-our-first-extension-66m",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's Talk About Framework-Specific UI Component Libraries",
+    "link": "https://dev.to/endigo9740/lets-talk-about-framework-specific-ui-component-libraries-non",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are you a Javascript Developer if you don't have these VS Code Extensions?",
+    "link": "https://dev.to/glowreeyah/are-you-a-javascript-developer-if-you-dont-have-these-vs-code-extensions-2fbh",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Frameworks to Make Less Mistakes",
+    "link": "https://dev.to/calvin087/using-frameworks-to-make-less-mistakes-2mon",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Environment Variable & Database",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-environment-variable-database-2jg1",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using the Web Share API in React",
+    "link": "https://dev.to/brannendev/using-the-web-share-api-in-react-5gha",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Improve on choosing the better data structures",
+    "link": "https://dev.to/montai/improve-on-choosing-the-better-data-structures-imk",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Elm: a good frontend language?",
+    "link": "https://dev.to/olus2000/elm-a-good-frontend-language-19bk",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "ERROR: System limit for number of file watchers reached in Nuxt",
+    "link": "https://dev.to/siumhossain/error-system-limit-for-number-of-file-watchers-reached-in-nuxt-5g2d",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Radon Linked With Cancer: How to Ensure Your Home is Radon-Free",
+    "link": "https://dev.to/onlineservices/radon-linked-with-cancer-how-to-ensure-your-home-is-radon-free-458n",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "-CSS-JS-formValidate",
+    "link": "https://dev.to/soyhipst/-css-js-formvalidate-2laa",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Multiples mode using same as dark mode class by Tailwindcss",
+    "link": "https://dev.to/yensubldg/multiples-mode-using-same-as-dark-mode-class-by-tailwindcss-56p4",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "flat() vs flatMap()",
+    "link": "https://dev.to/shshank/flat-vs-flatmap-3p73",
+    "date": "8/11/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "What are Events in JavaScript and How to Handle Them?",
+    "link": "https://shahednasser.hashnode.dev/what-are-events-in-javascript-and-how-to-handle-them",
+    "date": "8/10/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "1-Dars. Bazaviy tushunchalar",
+    "link": "https://ezcode.uz/1-dars-bazaviy-tushunchalar",
+    "date": "8/10/2022",
+    "site": "hashnode"
+  },
+  {
     "title": "How To Check Types In Typescript",
     "link": "https://www.danywalls.com/how-to-check-types-in-typescript",
     "date": "8/10/2022",
     "site": "hashnode"
   },
   {
-    "title": "Chat app",
-    "link": "https://dev.to/talenttinaapi/chat-app-5abe",
+    "title": "How to upload files to ardrive manually and with ardrive CLI?",
+    "link": "https://dev.to/rtagliavia/how-to-upload-files-to-ardrive-manually-and-with-ardrive-cli-1ggc",
     "date": "8/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Migrate From Strapi v3 to v4 Walkthrough",
-    "link": "https://dev.to/strapi/how-to-migrate-from-strapi-v3-to-v4-walkthrough-4dh5",
+    "title": "How to properly handle UTF-8 BOM files in Nodejs?",
+    "link": "https://dev.to/omardulaimi/how-to-properly-handle-utf-8-bom-files-in-nodejs-1nmj",
     "date": "8/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Check Types In Typescript",
-    "link": "https://dev.to/danywalls/how-to-check-types-in-typescript-o5n",
+    "title": "What are Events in JavaScript and How to Handle Them?",
+    "link": "https://shahednasser.hashnode.dev/what-are-events-in-javascript-and-how-to-handle-them",
     "date": "8/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "NestJS: Work with configuration",
-    "link": "https://dev.to/ilyary/nestjs-work-with-configuration-5fd6",
+    "title": "1-Dars. Bazaviy tushunchalar",
+    "link": "https://ezcode.uz/1-dars-bazaviy-tushunchalar",
     "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript in React",
-    "link": "https://dev.to/jarethtan/typescript-in-react-j8h",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue JS",
-    "link": "https://dev.to/isaachatilima/vue-js-1lcd",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple input autocomplete with React and CSS",
-    "link": "https://dev.to/zhizhan/simple-input-autocomplete-with-react-and-css-1j44",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to improve your technical interview? Start livestreaming!",
-    "link": "https://dev.to/elpol/how-to-improve-your-technical-interview-start-livestreaming-6ed",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 javascript/typescript playground",
-    "link": "https://dev.to/0xkoji/7-javascripttypescript-playground-446l",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "برمجة موقع ملاحظات كانوا نحضر اكل",
-    "link": "https://dev.to/omar_dev/brmj-mwq-mlhzt-knw-nhdr-kl-2afh",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: Objects",
-    "link": "https://dev.to/rosiequ/javascript-objects-3lop",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js Introduction",
-    "link": "https://dev.to/willp11/nextjs-introduction-21l5",
-    "date": "8/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "How To Check Types In Typescript",
@@ -84,76 +438,28 @@
     "site": "hashnode"
   },
   {
-    "title": "Chat app",
-    "link": "https://dev.to/talenttinaapi/chat-app-5abe",
+    "title": "How to upload files to ardrive manually and with ardrive CLI?",
+    "link": "https://dev.to/rtagliavia/how-to-upload-files-to-ardrive-manually-and-with-ardrive-cli-1ggc",
     "date": "8/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Migrate From Strapi v3 to v4 Walkthrough",
-    "link": "https://dev.to/strapi/how-to-migrate-from-strapi-v3-to-v4-walkthrough-4dh5",
+    "title": "How to properly handle UTF-8 BOM files in Nodejs?",
+    "link": "https://dev.to/omardulaimi/how-to-properly-handle-utf-8-bom-files-in-nodejs-1nmj",
     "date": "8/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Check Types In Typescript",
-    "link": "https://dev.to/danywalls/how-to-check-types-in-typescript-o5n",
+    "title": "What are Events in JavaScript and How to Handle Them?",
+    "link": "https://shahednasser.hashnode.dev/what-are-events-in-javascript-and-how-to-handle-them",
     "date": "8/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "NestJS: Work with configuration",
-    "link": "https://dev.to/ilyary/nestjs-work-with-configuration-5fd6",
+    "title": "1-Dars. Bazaviy tushunchalar",
+    "link": "https://ezcode.uz/1-dars-bazaviy-tushunchalar",
     "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript in React",
-    "link": "https://dev.to/jarethtan/typescript-in-react-j8h",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue JS",
-    "link": "https://dev.to/isaachatilima/vue-js-1lcd",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple input autocomplete with React and CSS",
-    "link": "https://dev.to/zhizhan/simple-input-autocomplete-with-react-and-css-1j44",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to improve your technical interview? Start livestreaming!",
-    "link": "https://dev.to/elpol/how-to-improve-your-technical-interview-start-livestreaming-6ed",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 javascript/typescript playground",
-    "link": "https://dev.to/0xkoji/7-javascripttypescript-playground-446l",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "برمجة موقع ملاحظات كانوا نحضر اكل",
-    "link": "https://dev.to/omar_dev/brmj-mwq-mlhzt-knw-nhdr-kl-2afh",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: Objects",
-    "link": "https://dev.to/rosiequ/javascript-objects-3lop",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js Introduction",
-    "link": "https://dev.to/willp11/nextjs-introduction-21l5",
-    "date": "8/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "How To Check Types In Typescript",
@@ -162,76 +468,28 @@
     "site": "hashnode"
   },
   {
-    "title": "Chat app",
-    "link": "https://dev.to/talenttinaapi/chat-app-5abe",
+    "title": "How to upload files to ardrive manually and with ardrive CLI?",
+    "link": "https://dev.to/rtagliavia/how-to-upload-files-to-ardrive-manually-and-with-ardrive-cli-1ggc",
     "date": "8/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Migrate From Strapi v3 to v4 Walkthrough",
-    "link": "https://dev.to/strapi/how-to-migrate-from-strapi-v3-to-v4-walkthrough-4dh5",
+    "title": "How to properly handle UTF-8 BOM files in Nodejs?",
+    "link": "https://dev.to/omardulaimi/how-to-properly-handle-utf-8-bom-files-in-nodejs-1nmj",
     "date": "8/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Check Types In Typescript",
-    "link": "https://dev.to/danywalls/how-to-check-types-in-typescript-o5n",
+    "title": "What are Events in JavaScript and How to Handle Them?",
+    "link": "https://shahednasser.hashnode.dev/what-are-events-in-javascript-and-how-to-handle-them",
     "date": "8/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "NestJS: Work with configuration",
-    "link": "https://dev.to/ilyary/nestjs-work-with-configuration-5fd6",
+    "title": "1-Dars. Bazaviy tushunchalar",
+    "link": "https://ezcode.uz/1-dars-bazaviy-tushunchalar",
     "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript in React",
-    "link": "https://dev.to/jarethtan/typescript-in-react-j8h",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue JS",
-    "link": "https://dev.to/isaachatilima/vue-js-1lcd",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple input autocomplete with React and CSS",
-    "link": "https://dev.to/zhizhan/simple-input-autocomplete-with-react-and-css-1j44",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to improve your technical interview? Start livestreaming!",
-    "link": "https://dev.to/elpol/how-to-improve-your-technical-interview-start-livestreaming-6ed",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 javascript/typescript playground",
-    "link": "https://dev.to/0xkoji/7-javascripttypescript-playground-446l",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "برمجة موقع ملاحظات كانوا نحضر اكل",
-    "link": "https://dev.to/omar_dev/brmj-mwq-mlhzt-knw-nhdr-kl-2afh",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: Objects",
-    "link": "https://dev.to/rosiequ/javascript-objects-3lop",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js Introduction",
-    "link": "https://dev.to/willp11/nextjs-introduction-21l5",
-    "date": "8/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "How To Check Types In Typescript",
@@ -240,76 +498,28 @@
     "site": "hashnode"
   },
   {
-    "title": "Chat app",
-    "link": "https://dev.to/talenttinaapi/chat-app-5abe",
+    "title": "How to upload files to ardrive manually and with ardrive CLI?",
+    "link": "https://dev.to/rtagliavia/how-to-upload-files-to-ardrive-manually-and-with-ardrive-cli-1ggc",
     "date": "8/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Migrate From Strapi v3 to v4 Walkthrough",
-    "link": "https://dev.to/strapi/how-to-migrate-from-strapi-v3-to-v4-walkthrough-4dh5",
+    "title": "How to properly handle UTF-8 BOM files in Nodejs?",
+    "link": "https://dev.to/omardulaimi/how-to-properly-handle-utf-8-bom-files-in-nodejs-1nmj",
     "date": "8/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Check Types In Typescript",
-    "link": "https://dev.to/danywalls/how-to-check-types-in-typescript-o5n",
+    "title": "What are Events in JavaScript and How to Handle Them?",
+    "link": "https://shahednasser.hashnode.dev/what-are-events-in-javascript-and-how-to-handle-them",
     "date": "8/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
-    "title": "NestJS: Work with configuration",
-    "link": "https://dev.to/ilyary/nestjs-work-with-configuration-5fd6",
+    "title": "1-Dars. Bazaviy tushunchalar",
+    "link": "https://ezcode.uz/1-dars-bazaviy-tushunchalar",
     "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript in React",
-    "link": "https://dev.to/jarethtan/typescript-in-react-j8h",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue JS",
-    "link": "https://dev.to/isaachatilima/vue-js-1lcd",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple input autocomplete with React and CSS",
-    "link": "https://dev.to/zhizhan/simple-input-autocomplete-with-react-and-css-1j44",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to improve your technical interview? Start livestreaming!",
-    "link": "https://dev.to/elpol/how-to-improve-your-technical-interview-start-livestreaming-6ed",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 javascript/typescript playground",
-    "link": "https://dev.to/0xkoji/7-javascripttypescript-playground-446l",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "برمجة موقع ملاحظات كانوا نحضر اكل",
-    "link": "https://dev.to/omar_dev/brmj-mwq-mlhzt-knw-nhdr-kl-2afh",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: Objects",
-    "link": "https://dev.to/rosiequ/javascript-objects-3lop",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js Introduction",
-    "link": "https://dev.to/willp11/nextjs-introduction-21l5",
-    "date": "8/10/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "How To Check Types In Typescript",
@@ -318,165 +528,15 @@
     "site": "hashnode"
   },
   {
-    "title": "Chat app",
-    "link": "https://dev.to/talenttinaapi/chat-app-5abe",
+    "title": "How to upload files to ardrive manually and with ardrive CLI?",
+    "link": "https://dev.to/rtagliavia/how-to-upload-files-to-ardrive-manually-and-with-ardrive-cli-1ggc",
     "date": "8/10/2022",
     "site": "dev.to"
   },
   {
-    "title": "How To Migrate From Strapi v3 to v4 Walkthrough",
-    "link": "https://dev.to/strapi/how-to-migrate-from-strapi-v3-to-v4-walkthrough-4dh5",
+    "title": "How to properly handle UTF-8 BOM files in Nodejs?",
+    "link": "https://dev.to/omardulaimi/how-to-properly-handle-utf-8-bom-files-in-nodejs-1nmj",
     "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Check Types In Typescript",
-    "link": "https://dev.to/danywalls/how-to-check-types-in-typescript-o5n",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "NestJS: Work with configuration",
-    "link": "https://dev.to/ilyary/nestjs-work-with-configuration-5fd6",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript in React",
-    "link": "https://dev.to/jarethtan/typescript-in-react-j8h",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue JS",
-    "link": "https://dev.to/isaachatilima/vue-js-1lcd",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple input autocomplete with React and CSS",
-    "link": "https://dev.to/zhizhan/simple-input-autocomplete-with-react-and-css-1j44",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to improve your technical interview? Start livestreaming!",
-    "link": "https://dev.to/elpol/how-to-improve-your-technical-interview-start-livestreaming-6ed",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 javascript/typescript playground",
-    "link": "https://dev.to/0xkoji/7-javascripttypescript-playground-446l",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "برمجة موقع ملاحظات كانوا نحضر اكل",
-    "link": "https://dev.to/omar_dev/brmj-mwq-mlhzt-knw-nhdr-kl-2afh",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: Objects",
-    "link": "https://dev.to/rosiequ/javascript-objects-3lop",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js Introduction",
-    "link": "https://dev.to/willp11/nextjs-introduction-21l5",
-    "date": "8/10/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a real-time Auction system - Connecting Socket.io With React 🔥 (Part 2)",
-    "link": "https://dev.to/novu/how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check user's permissions on file/dir in Nodejs",
-    "link": "https://dev.to/omardulaimi/check-users-permissions-on-filedir-in-nodejs-4b28",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting ready for my first website: Choosing the right platform",
-    "link": "https://dev.to/annabaker/getting-ready-for-my-first-website-choosing-the-right-platform-779",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a real-time Auction system - Connecting Socket.io With React 🔥 (Part 2)",
-    "link": "https://dev.to/novu/how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check user's permissions on file/dir in Nodejs",
-    "link": "https://dev.to/omardulaimi/check-users-permissions-on-filedir-in-nodejs-4b28",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting ready for my first website: Choosing the right platform",
-    "link": "https://dev.to/annabaker/getting-ready-for-my-first-website-choosing-the-right-platform-779",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a real-time Auction system - Connecting Socket.io With React 🔥 (Part 2)",
-    "link": "https://dev.to/novu/how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check user's permissions on file/dir in Nodejs",
-    "link": "https://dev.to/omardulaimi/check-users-permissions-on-filedir-in-nodejs-4b28",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting ready for my first website: Choosing the right platform",
-    "link": "https://dev.to/annabaker/getting-ready-for-my-first-website-choosing-the-right-platform-779",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a real-time Auction system - Connecting Socket.io With React 🔥 (Part 2)",
-    "link": "https://dev.to/novu/how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check user's permissions on file/dir in Nodejs",
-    "link": "https://dev.to/omardulaimi/check-users-permissions-on-filedir-in-nodejs-4b28",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting ready for my first website: Choosing the right platform",
-    "link": "https://dev.to/annabaker/getting-ready-for-my-first-website-choosing-the-right-platform-779",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a real-time Auction system - Connecting Socket.io With React 🔥 (Part 2)",
-    "link": "https://dev.to/novu/how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check user's permissions on file/dir in Nodejs",
-    "link": "https://dev.to/omardulaimi/check-users-permissions-on-filedir-in-nodejs-4b28",
-    "date": "8/9/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting ready for my first website: Choosing the right platform",
-    "link": "https://dev.to/annabaker/getting-ready-for-my-first-website-choosing-the-right-platform-779",
-    "date": "8/9/2022",
     "site": "dev.to"
   },
   {
@@ -823,8 +883,8 @@
     "site": "hashnode"
   },
   {
-    "title": "Masai 2.0",
-    "link": "https://learnwithmasai.hashnode.dev/masai-20",
+    "title": "React (TanStack) Query Tutorial for Beginners",
+    "link": "https://shahednasser.hashnode.dev/react-tanstack-query-tutorial-for-beginners",
     "date": "7/24/2022",
     "site": "hashnode"
   },
@@ -835,8 +895,8 @@
     "site": "hashnode"
   },
   {
-    "title": "Masai 2.0",
-    "link": "https://learnwithmasai.hashnode.dev/masai-20",
+    "title": "React (TanStack) Query Tutorial for Beginners",
+    "link": "https://shahednasser.hashnode.dev/react-tanstack-query-tutorial-for-beginners",
     "date": "7/24/2022",
     "site": "hashnode"
   },
@@ -844,66 +904,6 @@
     "title": "React (TanStack) Query Tutorial for Beginners",
     "link": "https://shahednasser.hashnode.dev/react-tanstack-query-tutorial-for-beginners",
     "date": "7/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Masai 2.0",
-    "link": "https://learnwithmasai.hashnode.dev/masai-20",
-    "date": "7/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React (TanStack) Query Tutorial for Beginners",
-    "link": "https://shahednasser.hashnode.dev/react-tanstack-query-tutorial-for-beginners",
-    "date": "7/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Masai 2.0",
-    "link": "https://learnwithmasai.hashnode.dev/masai-20",
-    "date": "7/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "React (TanStack) Query Tutorial for Beginners",
-    "link": "https://shahednasser.hashnode.dev/react-tanstack-query-tutorial-for-beginners",
-    "date": "7/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Masai 2.0",
-    "link": "https://learnwithmasai.hashnode.dev/masai-20",
-    "date": "7/24/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nullish Coalescing Operator",
-    "link": "https://prajapati-priyanka.hashnode.dev/nullish-coalescing-operator",
-    "date": "7/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nullish Coalescing Operator",
-    "link": "https://prajapati-priyanka.hashnode.dev/nullish-coalescing-operator",
-    "date": "7/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nullish Coalescing Operator",
-    "link": "https://prajapati-priyanka.hashnode.dev/nullish-coalescing-operator",
-    "date": "7/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nullish Coalescing Operator",
-    "link": "https://prajapati-priyanka.hashnode.dev/nullish-coalescing-operator",
-    "date": "7/22/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Nullish Coalescing Operator",
-    "link": "https://prajapati-priyanka.hashnode.dev/nullish-coalescing-operator",
-    "date": "7/22/2022",
     "site": "hashnode"
   },
   {
@@ -916,7 +916,7 @@
   {
     "title": "A Look At Remix And The Differences With Next.js",
     "link": "https://www.smashingmagazine.com/2022/07/look-remix-differences-next/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "7/11/2022",
     "site": "smashingmagazine"
   },
@@ -951,7 +951,7 @@
   {
     "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
     "link": "https://www.smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "6/2/2022",
     "site": "smashingmagazine"
   },
@@ -1000,7 +1000,7 @@
   {
     "title": "Jamstack Rendering Patterns: The Evolution",
     "link": "https://www.smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
-    "reading_time": "8 min read",
+    "reading_time": "7 min read",
     "date": "4/19/2022",
     "site": "smashingmagazine"
   },
@@ -1102,7 +1102,7 @@
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -1237,7 +1237,7 @@
   {
     "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
     "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "8/11/2021",
     "site": "smashingmagazine"
   },
@@ -1276,7 +1276,7 @@
   {
     "title": "Creating An Accessible Dialog From Scratch",
     "link": "https://www.smashingmagazine.com/2021/07/accessible-dialog-from-scratch/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "7/28/2021",
     "site": "smashingmagazine"
   },
@@ -1309,7 +1309,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
