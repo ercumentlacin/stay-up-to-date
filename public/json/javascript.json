@@ -1,99 +1,495 @@
 [
   {
+    "title": "Day 4: Randomization and Python Lists",
+    "link": "https://blacknerd.dev/day-4-randomization-and-python-lists",
+    "date": "8/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
+    "link": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "External JavaScript",
+    "link": "https://dev.to/kavyagreatrgb/external-javascript-53ad",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?",
+    "link": "https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Left Most Repeating Character",
+    "link": "https://dev.to/zeeshanali0704/left-most-repeating-character-3mm",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Check - isSubsequence",
+    "link": "https://dev.to/zeeshanali0704/check-issubsequence-13b6",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Tailwind CSS in React Native",
+    "link": "https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easiest Way to get Browser and Device Info Using JavaScript",
+    "link": "https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 3: Conditional Statements, Logical Operators, Code Block and Scope",
+    "link": "https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Building Post Page",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Multi-Language Countdown Component",
+    "link": "https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - Strings",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can't set state React",
+    "link": "https://dev.to/lemenio/cant-set-state-react-mnp",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue 3 Tip / Detect outside click",
+    "link": "https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark and Light Theme Toggler + YT Channel",
+    "link": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#46 - Sum of a sequence - Codewars Kata (7 kyu)",
+    "link": "https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 4: Randomization and Python Lists",
+    "link": "https://blacknerd.dev/day-4-randomization-and-python-lists",
+    "date": "8/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
+    "link": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "External JavaScript",
+    "link": "https://dev.to/kavyagreatrgb/external-javascript-53ad",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?",
+    "link": "https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Left Most Repeating Character",
+    "link": "https://dev.to/zeeshanali0704/left-most-repeating-character-3mm",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Check - isSubsequence",
+    "link": "https://dev.to/zeeshanali0704/check-issubsequence-13b6",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Tailwind CSS in React Native",
+    "link": "https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easiest Way to get Browser and Device Info Using JavaScript",
+    "link": "https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 3: Conditional Statements, Logical Operators, Code Block and Scope",
+    "link": "https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Building Post Page",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Multi-Language Countdown Component",
+    "link": "https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - Strings",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can't set state React",
+    "link": "https://dev.to/lemenio/cant-set-state-react-mnp",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue 3 Tip / Detect outside click",
+    "link": "https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark and Light Theme Toggler + YT Channel",
+    "link": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#46 - Sum of a sequence - Codewars Kata (7 kyu)",
+    "link": "https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 4: Randomization and Python Lists",
+    "link": "https://blacknerd.dev/day-4-randomization-and-python-lists",
+    "date": "8/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
+    "link": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "External JavaScript",
+    "link": "https://dev.to/kavyagreatrgb/external-javascript-53ad",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?",
+    "link": "https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Left Most Repeating Character",
+    "link": "https://dev.to/zeeshanali0704/left-most-repeating-character-3mm",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Check - isSubsequence",
+    "link": "https://dev.to/zeeshanali0704/check-issubsequence-13b6",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Tailwind CSS in React Native",
+    "link": "https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easiest Way to get Browser and Device Info Using JavaScript",
+    "link": "https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 3: Conditional Statements, Logical Operators, Code Block and Scope",
+    "link": "https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Building Post Page",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Multi-Language Countdown Component",
+    "link": "https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - Strings",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can't set state React",
+    "link": "https://dev.to/lemenio/cant-set-state-react-mnp",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue 3 Tip / Detect outside click",
+    "link": "https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark and Light Theme Toggler + YT Channel",
+    "link": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#46 - Sum of a sequence - Codewars Kata (7 kyu)",
+    "link": "https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 4: Randomization and Python Lists",
+    "link": "https://blacknerd.dev/day-4-randomization-and-python-lists",
+    "date": "8/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
+    "link": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "External JavaScript",
+    "link": "https://dev.to/kavyagreatrgb/external-javascript-53ad",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?",
+    "link": "https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Left Most Repeating Character",
+    "link": "https://dev.to/zeeshanali0704/left-most-repeating-character-3mm",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Check - isSubsequence",
+    "link": "https://dev.to/zeeshanali0704/check-issubsequence-13b6",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Tailwind CSS in React Native",
+    "link": "https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easiest Way to get Browser and Device Info Using JavaScript",
+    "link": "https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 3: Conditional Statements, Logical Operators, Code Block and Scope",
+    "link": "https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Building Post Page",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Multi-Language Countdown Component",
+    "link": "https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - Strings",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can't set state React",
+    "link": "https://dev.to/lemenio/cant-set-state-react-mnp",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue 3 Tip / Detect outside click",
+    "link": "https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark and Light Theme Toggler + YT Channel",
+    "link": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#46 - Sum of a sequence - Codewars Kata (7 kyu)",
+    "link": "https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 4: Randomization and Python Lists",
+    "link": "https://blacknerd.dev/day-4-randomization-and-python-lists",
+    "date": "8/14/2022",
+    "site": "hashnode"
+  },
+  {
+    "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
+    "link": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "External JavaScript",
+    "link": "https://dev.to/kavyagreatrgb/external-javascript-53ad",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?",
+    "link": "https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Left Most Repeating Character",
+    "link": "https://dev.to/zeeshanali0704/left-most-repeating-character-3mm",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Check - isSubsequence",
+    "link": "https://dev.to/zeeshanali0704/check-issubsequence-13b6",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Tailwind CSS in React Native",
+    "link": "https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easiest Way to get Browser and Device Info Using JavaScript",
+    "link": "https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 3: Conditional Statements, Logical Operators, Code Block and Scope",
+    "link": "https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Building Post Page",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Multi-Language Countdown Component",
+    "link": "https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - Strings",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can't set state React",
+    "link": "https://dev.to/lemenio/cant-set-state-react-mnp",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue 3 Tip / Detect outside click",
+    "link": "https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dark and Light Theme Toggler + YT Channel",
+    "link": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "#46 - Sum of a sequence - Codewars Kata (7 kyu)",
+    "link": "https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c",
+    "date": "8/14/2022",
+    "site": "dev.to"
+  },
+  {
     "title": "Javascript Functions",
     "link": "https://cleveroscar.hashnode.dev/javascript-functions",
     "date": "8/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Full ES2022 Cheatsheet!",
-    "link": "https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l",
+    "title": "Javascript Functions",
+    "link": "https://cleveroscar.hashnode.dev/javascript-functions",
     "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Example",
-    "link": "https://dev.to/kavyagreatrgb/javascript-example-185e",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction To JavaScript",
-    "link": "https://dev.to/kavyagreatrgb/introduction-to-javascript-5f4",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Made a Web App to Showcase all your Profiles 🔮✨",
-    "link": "https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-internet-profiles-4m3e",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Choice: Python or JavaScript",
-    "link": "https://dev.to/rohitmore07/the-choice-python-or-javascript-4oa6",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "طراحی لوگو چیست ؟",
-    "link": "https://dev.to/arsesweb/trhy-lwgw-chyst--47ip",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vip Facebook Account 2023",
-    "link": "https://dev.to/health0410/vip-facebook-account-2023-1ajn",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser extensions - new tab extension",
-    "link": "https://dev.to/dailydevtips1/browser-extensions-new-tab-extension-3i6a",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Java? Definition, Meaning & Features",
-    "link": "https://dev.to/techknowmug/what-is-java-definition-meaning-features-mhf",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single Number - Unique one",
-    "link": "https://dev.to/zeeshanali0704/single-number-unique-one-5bg7",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trip Collaborator #1: Finalising Location Made Easy (Problem Statement).",
-    "link": "https://dev.to/apoorvtomar/trip-collaborator-1-finalising-location-made-easy-problem-statement-143h",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte - Making front-end better",
-    "link": "https://dev.to/coldn00dles/svelte-the-fan-favorite-framework-1dph",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sparse Arrays - HackerRank",
-    "link": "https://dev.to/zeeshanali0704/sparse-arrays-hackerrank-1e6p",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Array Manipulation - HackerRank",
-    "link": "https://dev.to/zeeshanali0704/array-manipulation-hackerrank-31p5",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (13-08-2022) - De-escalating Infiniti",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-13-08-2022-de-escalating-infiniti-4gc9",
-    "date": "8/13/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Javascript Functions",
@@ -102,382 +498,16 @@
     "site": "hashnode"
   },
   {
-    "title": "Full ES2022 Cheatsheet!",
-    "link": "https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Example",
-    "link": "https://dev.to/kavyagreatrgb/javascript-example-185e",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction To JavaScript",
-    "link": "https://dev.to/kavyagreatrgb/introduction-to-javascript-5f4",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Made a Web App to Showcase all your Profiles 🔮✨",
-    "link": "https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-internet-profiles-4m3e",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Choice: Python or JavaScript",
-    "link": "https://dev.to/rohitmore07/the-choice-python-or-javascript-4oa6",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "طراحی لوگو چیست ؟",
-    "link": "https://dev.to/arsesweb/trhy-lwgw-chyst--47ip",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vip Facebook Account 2023",
-    "link": "https://dev.to/health0410/vip-facebook-account-2023-1ajn",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser extensions - new tab extension",
-    "link": "https://dev.to/dailydevtips1/browser-extensions-new-tab-extension-3i6a",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Java? Definition, Meaning & Features",
-    "link": "https://dev.to/techknowmug/what-is-java-definition-meaning-features-mhf",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single Number - Unique one",
-    "link": "https://dev.to/zeeshanali0704/single-number-unique-one-5bg7",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trip Collaborator #1: Finalising Location Made Easy (Problem Statement).",
-    "link": "https://dev.to/apoorvtomar/trip-collaborator-1-finalising-location-made-easy-problem-statement-143h",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte - Making front-end better",
-    "link": "https://dev.to/coldn00dles/svelte-the-fan-favorite-framework-1dph",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sparse Arrays - HackerRank",
-    "link": "https://dev.to/zeeshanali0704/sparse-arrays-hackerrank-1e6p",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Array Manipulation - HackerRank",
-    "link": "https://dev.to/zeeshanali0704/array-manipulation-hackerrank-31p5",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (13-08-2022) - De-escalating Infiniti",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-13-08-2022-de-escalating-infiniti-4gc9",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Javascript Functions",
     "link": "https://cleveroscar.hashnode.dev/javascript-functions",
     "date": "8/13/2022",
     "site": "hashnode"
   },
   {
-    "title": "Full ES2022 Cheatsheet!",
-    "link": "https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Example",
-    "link": "https://dev.to/kavyagreatrgb/javascript-example-185e",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction To JavaScript",
-    "link": "https://dev.to/kavyagreatrgb/introduction-to-javascript-5f4",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Made a Web App to Showcase all your Profiles 🔮✨",
-    "link": "https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-internet-profiles-4m3e",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Choice: Python or JavaScript",
-    "link": "https://dev.to/rohitmore07/the-choice-python-or-javascript-4oa6",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "طراحی لوگو چیست ؟",
-    "link": "https://dev.to/arsesweb/trhy-lwgw-chyst--47ip",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vip Facebook Account 2023",
-    "link": "https://dev.to/health0410/vip-facebook-account-2023-1ajn",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser extensions - new tab extension",
-    "link": "https://dev.to/dailydevtips1/browser-extensions-new-tab-extension-3i6a",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Java? Definition, Meaning & Features",
-    "link": "https://dev.to/techknowmug/what-is-java-definition-meaning-features-mhf",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single Number - Unique one",
-    "link": "https://dev.to/zeeshanali0704/single-number-unique-one-5bg7",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trip Collaborator #1: Finalising Location Made Easy (Problem Statement).",
-    "link": "https://dev.to/apoorvtomar/trip-collaborator-1-finalising-location-made-easy-problem-statement-143h",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte - Making front-end better",
-    "link": "https://dev.to/coldn00dles/svelte-the-fan-favorite-framework-1dph",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sparse Arrays - HackerRank",
-    "link": "https://dev.to/zeeshanali0704/sparse-arrays-hackerrank-1e6p",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Array Manipulation - HackerRank",
-    "link": "https://dev.to/zeeshanali0704/array-manipulation-hackerrank-31p5",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (13-08-2022) - De-escalating Infiniti",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-13-08-2022-de-escalating-infiniti-4gc9",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Javascript Functions",
     "link": "https://cleveroscar.hashnode.dev/javascript-functions",
     "date": "8/13/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "Full ES2022 Cheatsheet!",
-    "link": "https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Example",
-    "link": "https://dev.to/kavyagreatrgb/javascript-example-185e",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction To JavaScript",
-    "link": "https://dev.to/kavyagreatrgb/introduction-to-javascript-5f4",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Made a Web App to Showcase all your Profiles 🔮✨",
-    "link": "https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-internet-profiles-4m3e",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Choice: Python or JavaScript",
-    "link": "https://dev.to/rohitmore07/the-choice-python-or-javascript-4oa6",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "طراحی لوگو چیست ؟",
-    "link": "https://dev.to/arsesweb/trhy-lwgw-chyst--47ip",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vip Facebook Account 2023",
-    "link": "https://dev.to/health0410/vip-facebook-account-2023-1ajn",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser extensions - new tab extension",
-    "link": "https://dev.to/dailydevtips1/browser-extensions-new-tab-extension-3i6a",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Java? Definition, Meaning & Features",
-    "link": "https://dev.to/techknowmug/what-is-java-definition-meaning-features-mhf",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single Number - Unique one",
-    "link": "https://dev.to/zeeshanali0704/single-number-unique-one-5bg7",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trip Collaborator #1: Finalising Location Made Easy (Problem Statement).",
-    "link": "https://dev.to/apoorvtomar/trip-collaborator-1-finalising-location-made-easy-problem-statement-143h",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte - Making front-end better",
-    "link": "https://dev.to/coldn00dles/svelte-the-fan-favorite-framework-1dph",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sparse Arrays - HackerRank",
-    "link": "https://dev.to/zeeshanali0704/sparse-arrays-hackerrank-1e6p",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Array Manipulation - HackerRank",
-    "link": "https://dev.to/zeeshanali0704/array-manipulation-hackerrank-31p5",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (13-08-2022) - De-escalating Infiniti",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-13-08-2022-de-escalating-infiniti-4gc9",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Functions",
-    "link": "https://cleveroscar.hashnode.dev/javascript-functions",
-    "date": "8/13/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Full ES2022 Cheatsheet!",
-    "link": "https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Example",
-    "link": "https://dev.to/kavyagreatrgb/javascript-example-185e",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction To JavaScript",
-    "link": "https://dev.to/kavyagreatrgb/introduction-to-javascript-5f4",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Made a Web App to Showcase all your Profiles 🔮✨",
-    "link": "https://dev.to/2kabhishek/i-made-a-web-app-to-showcase-all-your-internet-profiles-4m3e",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Choice: Python or JavaScript",
-    "link": "https://dev.to/rohitmore07/the-choice-python-or-javascript-4oa6",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "طراحی لوگو چیست ؟",
-    "link": "https://dev.to/arsesweb/trhy-lwgw-chyst--47ip",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vip Facebook Account 2023",
-    "link": "https://dev.to/health0410/vip-facebook-account-2023-1ajn",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser extensions - new tab extension",
-    "link": "https://dev.to/dailydevtips1/browser-extensions-new-tab-extension-3i6a",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Java? Definition, Meaning & Features",
-    "link": "https://dev.to/techknowmug/what-is-java-definition-meaning-features-mhf",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single Number - Unique one",
-    "link": "https://dev.to/zeeshanali0704/single-number-unique-one-5bg7",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trip Collaborator #1: Finalising Location Made Easy (Problem Statement).",
-    "link": "https://dev.to/apoorvtomar/trip-collaborator-1-finalising-location-made-easy-problem-statement-143h",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte - Making front-end better",
-    "link": "https://dev.to/coldn00dles/svelte-the-fan-favorite-framework-1dph",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sparse Arrays - HackerRank",
-    "link": "https://dev.to/zeeshanali0704/sparse-arrays-hackerrank-1e6p",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Array Manipulation - HackerRank",
-    "link": "https://dev.to/zeeshanali0704/array-manipulation-hackerrank-31p5",
-    "date": "8/13/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (13-08-2022) - De-escalating Infiniti",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-13-08-2022-de-escalating-infiniti-4gc9",
-    "date": "8/13/2022",
-    "site": "dev.to"
   },
   {
     "title": "What are Events in JavaScript and How to Handle Them?",
@@ -877,36 +907,6 @@
     "site": "hashnode"
   },
   {
-    "title": "Clean Architecture in Frontend",
-    "link": "https://blog.alexeykarpov.com/clean-architecture-in-frontend",
-    "date": "7/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Clean Architecture in Frontend",
-    "link": "https://blog.alexeykarpov.com/clean-architecture-in-frontend",
-    "date": "7/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Clean Architecture in Frontend",
-    "link": "https://blog.alexeykarpov.com/clean-architecture-in-frontend",
-    "date": "7/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Clean Architecture in Frontend",
-    "link": "https://blog.alexeykarpov.com/clean-architecture-in-frontend",
-    "date": "7/25/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "Clean Architecture in Frontend",
-    "link": "https://blog.alexeykarpov.com/clean-architecture-in-frontend",
-    "date": "7/25/2022",
-    "site": "hashnode"
-  },
-  {
     "title": "A New Pattern For The Jamstack: Segmented Rendering",
     "link": "https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
     "reading_time": "13 min read",
@@ -944,14 +944,14 @@
   {
     "title": "The Case For Prisma In The Jamstack",
     "link": "https://www.smashingmagazine.com/2022/06/case-prisma-jamstack/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "6/6/2022",
     "site": "smashingmagazine"
   },
   {
     "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
     "link": "https://www.smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "6/2/2022",
     "site": "smashingmagazine"
   },
@@ -1042,7 +1042,7 @@
   {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
     "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "3/9/2022",
     "site": "smashingmagazine"
   },
@@ -1102,7 +1102,7 @@
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -1128,7 +1128,7 @@
   {
     "title": "How To Build An Amazon Product Scraper With Node.js",
     "link": "https://www.smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "10/28/2021",
     "site": "smashingmagazine"
   },
@@ -1149,7 +1149,7 @@
   {
     "title": "How To Build A Real-Time Multi-User Game From Scratch",
     "link": "https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/",
-    "reading_time": "20 min read",
+    "reading_time": "21 min read",
     "date": "10/22/2021",
     "site": "smashingmagazine"
   },
@@ -1237,7 +1237,7 @@
   {
     "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
     "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "8/11/2021",
     "site": "smashingmagazine"
   },
