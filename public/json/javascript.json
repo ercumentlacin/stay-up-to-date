@@ -1,99 +1,465 @@
 [
   {
+    "title": "React: Smoothly move the seconds hand of the analog clock",
+    "link": "https://dev.to/syeo66/react-smoothly-move-the-seconds-hand-of-the-analog-click-hji",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reflections: Take care when adding dependencies",
+    "link": "https://dev.to/jwwnz/reflections-take-care-when-adding-dependencies-3c0b",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing integration tests for Next.js, next-auth, Prisma using Playwright and msw",
+    "link": "https://dev.to/kuroski/writing-integration-tests-for-nextjs-next-auth-prisma-using-playwright-and-msw-388m",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Reading Post Items",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-reading-post-items-1iko",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dynamic remotes with ModuleFederation",
+    "link": "https://dev.to/w3nda/dynamic-remotes-with-modulefederation-67f",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Typescript Series - Pick Utility Type",
+    "link": "https://dev.to/sarmunbustillo/typescript-series-pick-utility-type-46c0",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Lexicographical Rank of String- Efficient Approach",
+    "link": "https://dev.to/zeeshanali0704/lexicographical-rank-of-string-efficient-approach-305i",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript - How to create beautiful fireworks effects with tsParticles",
+    "link": "https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to respond to input changes reactively in the child component",
+    "link": "https://dev.to/devminibhati/how-to-respond-to-input-changes-reactively-in-the-child-component-28n7",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Eliminate Circular Dependencies With Layered Modular Architecture",
+    "link": "https://dev.to/ashkanmohammadi/eliminate-circular-dependencies-with-layered-modular-architecture-32gn",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Holding values into memory.!",
+    "link": "https://dev.to/sedrickparker1/holding-values-into-memory-3i60",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why we CODE?",
+    "link": "https://dev.to/devvsakib/why-we-code-522h",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Sort array of JSON object by key value easily with JavaScript",
+    "link": "https://dev.to/slimpython/sort-array-of-json-object-by-key-value-easily-with-javascript-3hke",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Button Component in React-js (All in one)",
+    "link": "https://dev.to/uidesign09/button-component-in-react-js-all-in-one-2odd",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "llaala",
+    "link": "https://dev.to/diwinters/llaala-4omn",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React: Smoothly move the seconds hand of the analog clock",
+    "link": "https://dev.to/syeo66/react-smoothly-move-the-seconds-hand-of-the-analog-click-hji",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reflections: Take care when adding dependencies",
+    "link": "https://dev.to/jwwnz/reflections-take-care-when-adding-dependencies-3c0b",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing integration tests for Next.js, next-auth, Prisma using Playwright and msw",
+    "link": "https://dev.to/kuroski/writing-integration-tests-for-nextjs-next-auth-prisma-using-playwright-and-msw-388m",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Reading Post Items",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-reading-post-items-1iko",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dynamic remotes with ModuleFederation",
+    "link": "https://dev.to/w3nda/dynamic-remotes-with-modulefederation-67f",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Typescript Series - Pick Utility Type",
+    "link": "https://dev.to/sarmunbustillo/typescript-series-pick-utility-type-46c0",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Lexicographical Rank of String- Efficient Approach",
+    "link": "https://dev.to/zeeshanali0704/lexicographical-rank-of-string-efficient-approach-305i",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript - How to create beautiful fireworks effects with tsParticles",
+    "link": "https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to respond to input changes reactively in the child component",
+    "link": "https://dev.to/devminibhati/how-to-respond-to-input-changes-reactively-in-the-child-component-28n7",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Eliminate Circular Dependencies With Layered Modular Architecture",
+    "link": "https://dev.to/ashkanmohammadi/eliminate-circular-dependencies-with-layered-modular-architecture-32gn",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Holding values into memory.!",
+    "link": "https://dev.to/sedrickparker1/holding-values-into-memory-3i60",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why we CODE?",
+    "link": "https://dev.to/devvsakib/why-we-code-522h",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Sort array of JSON object by key value easily with JavaScript",
+    "link": "https://dev.to/slimpython/sort-array-of-json-object-by-key-value-easily-with-javascript-3hke",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Button Component in React-js (All in one)",
+    "link": "https://dev.to/uidesign09/button-component-in-react-js-all-in-one-2odd",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "llaala",
+    "link": "https://dev.to/diwinters/llaala-4omn",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React: Smoothly move the seconds hand of the analog clock",
+    "link": "https://dev.to/syeo66/react-smoothly-move-the-seconds-hand-of-the-analog-click-hji",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reflections: Take care when adding dependencies",
+    "link": "https://dev.to/jwwnz/reflections-take-care-when-adding-dependencies-3c0b",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing integration tests for Next.js, next-auth, Prisma using Playwright and msw",
+    "link": "https://dev.to/kuroski/writing-integration-tests-for-nextjs-next-auth-prisma-using-playwright-and-msw-388m",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Reading Post Items",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-reading-post-items-1iko",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dynamic remotes with ModuleFederation",
+    "link": "https://dev.to/w3nda/dynamic-remotes-with-modulefederation-67f",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Typescript Series - Pick Utility Type",
+    "link": "https://dev.to/sarmunbustillo/typescript-series-pick-utility-type-46c0",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Lexicographical Rank of String- Efficient Approach",
+    "link": "https://dev.to/zeeshanali0704/lexicographical-rank-of-string-efficient-approach-305i",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript - How to create beautiful fireworks effects with tsParticles",
+    "link": "https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to respond to input changes reactively in the child component",
+    "link": "https://dev.to/devminibhati/how-to-respond-to-input-changes-reactively-in-the-child-component-28n7",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Eliminate Circular Dependencies With Layered Modular Architecture",
+    "link": "https://dev.to/ashkanmohammadi/eliminate-circular-dependencies-with-layered-modular-architecture-32gn",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Holding values into memory.!",
+    "link": "https://dev.to/sedrickparker1/holding-values-into-memory-3i60",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why we CODE?",
+    "link": "https://dev.to/devvsakib/why-we-code-522h",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Sort array of JSON object by key value easily with JavaScript",
+    "link": "https://dev.to/slimpython/sort-array-of-json-object-by-key-value-easily-with-javascript-3hke",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Button Component in React-js (All in one)",
+    "link": "https://dev.to/uidesign09/button-component-in-react-js-all-in-one-2odd",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "llaala",
+    "link": "https://dev.to/diwinters/llaala-4omn",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React: Smoothly move the seconds hand of the analog clock",
+    "link": "https://dev.to/syeo66/react-smoothly-move-the-seconds-hand-of-the-analog-click-hji",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reflections: Take care when adding dependencies",
+    "link": "https://dev.to/jwwnz/reflections-take-care-when-adding-dependencies-3c0b",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing integration tests for Next.js, next-auth, Prisma using Playwright and msw",
+    "link": "https://dev.to/kuroski/writing-integration-tests-for-nextjs-next-auth-prisma-using-playwright-and-msw-388m",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Reading Post Items",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-reading-post-items-1iko",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dynamic remotes with ModuleFederation",
+    "link": "https://dev.to/w3nda/dynamic-remotes-with-modulefederation-67f",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Typescript Series - Pick Utility Type",
+    "link": "https://dev.to/sarmunbustillo/typescript-series-pick-utility-type-46c0",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Lexicographical Rank of String- Efficient Approach",
+    "link": "https://dev.to/zeeshanali0704/lexicographical-rank-of-string-efficient-approach-305i",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript - How to create beautiful fireworks effects with tsParticles",
+    "link": "https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to respond to input changes reactively in the child component",
+    "link": "https://dev.to/devminibhati/how-to-respond-to-input-changes-reactively-in-the-child-component-28n7",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Eliminate Circular Dependencies With Layered Modular Architecture",
+    "link": "https://dev.to/ashkanmohammadi/eliminate-circular-dependencies-with-layered-modular-architecture-32gn",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Holding values into memory.!",
+    "link": "https://dev.to/sedrickparker1/holding-values-into-memory-3i60",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why we CODE?",
+    "link": "https://dev.to/devvsakib/why-we-code-522h",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Sort array of JSON object by key value easily with JavaScript",
+    "link": "https://dev.to/slimpython/sort-array-of-json-object-by-key-value-easily-with-javascript-3hke",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Button Component in React-js (All in one)",
+    "link": "https://dev.to/uidesign09/button-component-in-react-js-all-in-one-2odd",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "llaala",
+    "link": "https://dev.to/diwinters/llaala-4omn",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "React: Smoothly move the seconds hand of the analog clock",
+    "link": "https://dev.to/syeo66/react-smoothly-move-the-seconds-hand-of-the-analog-click-hji",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reflections: Take care when adding dependencies",
+    "link": "https://dev.to/jwwnz/reflections-take-care-when-adding-dependencies-3c0b",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing integration tests for Next.js, next-auth, Prisma using Playwright and msw",
+    "link": "https://dev.to/kuroski/writing-integration-tests-for-nextjs-next-auth-prisma-using-playwright-and-msw-388m",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Job Announcement Website: Reading Post Items",
+    "link": "https://dev.to/sokhavuth/job-announcement-website-reading-post-items-1iko",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dynamic remotes with ModuleFederation",
+    "link": "https://dev.to/w3nda/dynamic-remotes-with-modulefederation-67f",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Typescript Series - Pick Utility Type",
+    "link": "https://dev.to/sarmunbustillo/typescript-series-pick-utility-type-46c0",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Lexicographical Rank of String- Efficient Approach",
+    "link": "https://dev.to/zeeshanali0704/lexicographical-rank-of-string-efficient-approach-305i",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript - How to create beautiful fireworks effects with tsParticles",
+    "link": "https://dev.to/tsparticles/javascript-create-beautiful-fireworks-effects-with-tsparticles-1ali",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to respond to input changes reactively in the child component",
+    "link": "https://dev.to/devminibhati/how-to-respond-to-input-changes-reactively-in-the-child-component-28n7",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Eliminate Circular Dependencies With Layered Modular Architecture",
+    "link": "https://dev.to/ashkanmohammadi/eliminate-circular-dependencies-with-layered-modular-architecture-32gn",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Holding values into memory.!",
+    "link": "https://dev.to/sedrickparker1/holding-values-into-memory-3i60",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why we CODE?",
+    "link": "https://dev.to/devvsakib/why-we-code-522h",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Sort array of JSON object by key value easily with JavaScript",
+    "link": "https://dev.to/slimpython/sort-array-of-json-object-by-key-value-easily-with-javascript-3hke",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Button Component in React-js (All in one)",
+    "link": "https://dev.to/uidesign09/button-component-in-react-js-all-in-one-2odd",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "llaala",
+    "link": "https://dev.to/diwinters/llaala-4omn",
+    "date": "8/15/2022",
+    "site": "dev.to"
+  },
+  {
     "title": "Day 4: Randomization and Python Lists",
     "link": "https://blacknerd.dev/day-4-randomization-and-python-lists",
     "date": "8/14/2022",
     "site": "hashnode"
   },
   {
-    "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
-    "link": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
+    "title": "Day 4: Randomization and Python Lists",
+    "link": "https://blacknerd.dev/day-4-randomization-and-python-lists",
     "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "External JavaScript",
-    "link": "https://dev.to/kavyagreatrgb/external-javascript-53ad",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?",
-    "link": "https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Left Most Repeating Character",
-    "link": "https://dev.to/zeeshanali0704/left-most-repeating-character-3mm",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check - isSubsequence",
-    "link": "https://dev.to/zeeshanali0704/check-issubsequence-13b6",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Tailwind CSS in React Native",
-    "link": "https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Easiest Way to get Browser and Device Info Using JavaScript",
-    "link": "https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3: Conditional Statements, Logical Operators, Code Block and Scope",
-    "link": "https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Job Announcement Website: Building Post Page",
-    "link": "https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Multi-Language Countdown Component",
-    "link": "https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Tagalog - Strings",
-    "link": "https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Can't set state React",
-    "link": "https://dev.to/lemenio/cant-set-state-react-mnp",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 Tip / Detect outside click",
-    "link": "https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dark and Light Theme Toggler + YT Channel",
-    "link": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#46 - Sum of a sequence - Codewars Kata (7 kyu)",
-    "link": "https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c",
-    "date": "8/14/2022",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Day 4: Randomization and Python Lists",
@@ -102,382 +468,16 @@
     "site": "hashnode"
   },
   {
-    "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
-    "link": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "External JavaScript",
-    "link": "https://dev.to/kavyagreatrgb/external-javascript-53ad",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?",
-    "link": "https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Left Most Repeating Character",
-    "link": "https://dev.to/zeeshanali0704/left-most-repeating-character-3mm",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check - isSubsequence",
-    "link": "https://dev.to/zeeshanali0704/check-issubsequence-13b6",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Tailwind CSS in React Native",
-    "link": "https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Easiest Way to get Browser and Device Info Using JavaScript",
-    "link": "https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3: Conditional Statements, Logical Operators, Code Block and Scope",
-    "link": "https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Job Announcement Website: Building Post Page",
-    "link": "https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Multi-Language Countdown Component",
-    "link": "https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Tagalog - Strings",
-    "link": "https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Can't set state React",
-    "link": "https://dev.to/lemenio/cant-set-state-react-mnp",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 Tip / Detect outside click",
-    "link": "https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dark and Light Theme Toggler + YT Channel",
-    "link": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#46 - Sum of a sequence - Codewars Kata (7 kyu)",
-    "link": "https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Day 4: Randomization and Python Lists",
     "link": "https://blacknerd.dev/day-4-randomization-and-python-lists",
     "date": "8/14/2022",
     "site": "hashnode"
   },
   {
-    "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
-    "link": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "External JavaScript",
-    "link": "https://dev.to/kavyagreatrgb/external-javascript-53ad",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?",
-    "link": "https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Left Most Repeating Character",
-    "link": "https://dev.to/zeeshanali0704/left-most-repeating-character-3mm",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check - isSubsequence",
-    "link": "https://dev.to/zeeshanali0704/check-issubsequence-13b6",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Tailwind CSS in React Native",
-    "link": "https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Easiest Way to get Browser and Device Info Using JavaScript",
-    "link": "https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3: Conditional Statements, Logical Operators, Code Block and Scope",
-    "link": "https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Job Announcement Website: Building Post Page",
-    "link": "https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Multi-Language Countdown Component",
-    "link": "https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Tagalog - Strings",
-    "link": "https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Can't set state React",
-    "link": "https://dev.to/lemenio/cant-set-state-react-mnp",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 Tip / Detect outside click",
-    "link": "https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dark and Light Theme Toggler + YT Channel",
-    "link": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#46 - Sum of a sequence - Codewars Kata (7 kyu)",
-    "link": "https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
     "title": "Day 4: Randomization and Python Lists",
     "link": "https://blacknerd.dev/day-4-randomization-and-python-lists",
     "date": "8/14/2022",
     "site": "hashnode"
-  },
-  {
-    "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
-    "link": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "External JavaScript",
-    "link": "https://dev.to/kavyagreatrgb/external-javascript-53ad",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?",
-    "link": "https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Left Most Repeating Character",
-    "link": "https://dev.to/zeeshanali0704/left-most-repeating-character-3mm",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check - isSubsequence",
-    "link": "https://dev.to/zeeshanali0704/check-issubsequence-13b6",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Tailwind CSS in React Native",
-    "link": "https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Easiest Way to get Browser and Device Info Using JavaScript",
-    "link": "https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3: Conditional Statements, Logical Operators, Code Block and Scope",
-    "link": "https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Job Announcement Website: Building Post Page",
-    "link": "https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Multi-Language Countdown Component",
-    "link": "https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Tagalog - Strings",
-    "link": "https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Can't set state React",
-    "link": "https://dev.to/lemenio/cant-set-state-react-mnp",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 Tip / Detect outside click",
-    "link": "https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dark and Light Theme Toggler + YT Channel",
-    "link": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#46 - Sum of a sequence - Codewars Kata (7 kyu)",
-    "link": "https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 4: Randomization and Python Lists",
-    "link": "https://blacknerd.dev/day-4-randomization-and-python-lists",
-    "date": "8/14/2022",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
-    "link": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "External JavaScript",
-    "link": "https://dev.to/kavyagreatrgb/external-javascript-53ad",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fluxactive Complete - Price, Reviews, Results, Uses And Benefits?",
-    "link": "https://dev.to/fluxactiveinfo/fluxactive-complete-price-reviews-results-uses-and-benefits-4g90",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Left Most Repeating Character",
-    "link": "https://dev.to/zeeshanali0704/left-most-repeating-character-3mm",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Check - isSubsequence",
-    "link": "https://dev.to/zeeshanali0704/check-issubsequence-13b6",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using Tailwind CSS in React Native",
-    "link": "https://dev.to/santhoshumapathi/using-tailwind-css-in-react-native-88k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Easiest Way to get Browser and Device Info Using JavaScript",
-    "link": "https://dev.to/uidesign09/easiest-way-to-get-browser-and-device-info-using-javascript-472",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3: Conditional Statements, Logical Operators, Code Block and Scope",
-    "link": "https://dev.to/kdleonard93/day-3-conditional-statements-logical-operators-code-block-and-scope-4obh",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Job Announcement Website: Building Post Page",
-    "link": "https://dev.to/sokhavuth/job-announcement-website-building-post-page-303k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Multi-Language Countdown Component",
-    "link": "https://dev.to/madsstoumann/build-a-multi-language-countdown-component-260j",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript Tagalog - Strings",
-    "link": "https://dev.to/mmvergara/javascript-tagalog-strings-2ee0",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Can't set state React",
-    "link": "https://dev.to/lemenio/cant-set-state-react-mnp",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 Tip / Detect outside click",
-    "link": "https://dev.to/erefor/vue-3-tip-detect-click-outside-4e4k",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dark and Light Theme Toggler + YT Channel",
-    "link": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
-    "date": "8/14/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "#46 - Sum of a sequence - Codewars Kata (7 kyu)",
-    "link": "https://dev.to/cesar__dlr/46-sum-of-a-sequence-codewars-kata-7-kyu-485c",
-    "date": "8/14/2022",
-    "site": "dev.to"
   },
   {
     "title": "Javascript Functions",
@@ -944,7 +944,7 @@
   {
     "title": "The Case For Prisma In The Jamstack",
     "link": "https://www.smashingmagazine.com/2022/06/case-prisma-jamstack/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/6/2022",
     "site": "smashingmagazine"
   },
@@ -1102,7 +1102,7 @@
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -1149,7 +1149,7 @@
   {
     "title": "How To Build A Real-Time Multi-User Game From Scratch",
     "link": "https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/",
-    "reading_time": "21 min read",
+    "reading_time": "20 min read",
     "date": "10/22/2021",
     "site": "smashingmagazine"
   },
@@ -1237,7 +1237,7 @@
   {
     "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
     "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "8/11/2021",
     "site": "smashingmagazine"
   },
@@ -1309,7 +1309,7 @@
   {
     "title": "Three Insights I Gained While Researching Vue.js Accessibility",
     "link": "https://www.smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "7/16/2021",
     "site": "smashingmagazine"
   },
