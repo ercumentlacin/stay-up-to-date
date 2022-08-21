@@ -1,295 +1,451 @@
 [
   {
-    "title": "Test post",
-    "link": "https://dev.to/liebner12/test-post-51i7",
+    "title": "Dependency Inversion Principle in TypeScript",
+    "link": "https://dev.to/jmalvarez/dependency-inversion-principle-in-typescript-4nm0",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Optimizing React Apps with React.memo, useMemo and useCallback",
+    "link": "https://dev.to/willp11/optimizing-react-apps-with-reactmemo-usememo-and-usecallback-12ig",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Todo App",
+    "link": "https://dev.to/amanp30/the-todo-app-43jf",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread",
+    "link": "https://dev.to/mehdi1/wwc22-qwik-partytown-how-to-remove-99-of-javascript-from-main-thread-2k3b",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "N-Queen - All Possible Placements",
+    "link": "https://dev.to/zeeshanali0704/n-queen-all-possible-placements-3bji",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - String indexOf Method",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-string-indexof-method-5elp",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript counter | HTML, CSS, JS",
+    "link": "https://dev.to/danish0929x/javascript-counter-html-css-js-18eg",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Protetox - Is it a Scam or Legit Benefits And Uses?",
+    "link": "https://dev.to/prodentim17/protetox-is-it-a-scam-or-legit-benefits-and-uses-4nnp",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - String includes Method",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-string-includes-method-4lb6",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My understanding of learning vanilla JS",
+    "link": "https://dev.to/dilshad0404/my-understanding-of-learning-vanilla-js-19cm",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Chat App with WebSocket: Deleting User",
+    "link": "https://dev.to/sokhavuth/chat-app-with-websocket-deleting-user-3ndj",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let’s Understand Chrome V8 — Chapter 9: Builtin",
+    "link": "https://dev.to/v8blink/lets-understand-chrome-v8-chapter-9-builtin-3opl",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dealing with CORS in ReactJS",
+    "link": "https://dev.to/naveenkolambage/dealing-with-cors-in-reactjs-3m6d",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser extensions - Repeating notifications",
+    "link": "https://dev.to/dailydevtips1/browser-extensions-repeating-notifications-2161",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dependency Inversion Principle in TypeScript",
+    "link": "https://dev.to/jmalvarez/dependency-inversion-principle-in-typescript-4nm0",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Optimizing React Apps with React.memo, useMemo and useCallback",
+    "link": "https://dev.to/willp11/optimizing-react-apps-with-reactmemo-usememo-and-usecallback-12ig",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Todo App",
+    "link": "https://dev.to/amanp30/the-todo-app-43jf",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread",
+    "link": "https://dev.to/mehdi1/wwc22-qwik-partytown-how-to-remove-99-of-javascript-from-main-thread-2k3b",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "N-Queen - All Possible Placements",
+    "link": "https://dev.to/zeeshanali0704/n-queen-all-possible-placements-3bji",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - String indexOf Method",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-string-indexof-method-5elp",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript counter | HTML, CSS, JS",
+    "link": "https://dev.to/danish0929x/javascript-counter-html-css-js-18eg",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Protetox - Is it a Scam or Legit Benefits And Uses?",
+    "link": "https://dev.to/prodentim17/protetox-is-it-a-scam-or-legit-benefits-and-uses-4nnp",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - String includes Method",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-string-includes-method-4lb6",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My understanding of learning vanilla JS",
+    "link": "https://dev.to/dilshad0404/my-understanding-of-learning-vanilla-js-19cm",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Chat App with WebSocket: Deleting User",
+    "link": "https://dev.to/sokhavuth/chat-app-with-websocket-deleting-user-3ndj",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let’s Understand Chrome V8 — Chapter 9: Builtin",
+    "link": "https://dev.to/v8blink/lets-understand-chrome-v8-chapter-9-builtin-3opl",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dealing with CORS in ReactJS",
+    "link": "https://dev.to/naveenkolambage/dealing-with-cors-in-reactjs-3m6d",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser extensions - Repeating notifications",
+    "link": "https://dev.to/dailydevtips1/browser-extensions-repeating-notifications-2161",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dependency Inversion Principle in TypeScript",
+    "link": "https://dev.to/jmalvarez/dependency-inversion-principle-in-typescript-4nm0",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Optimizing React Apps with React.memo, useMemo and useCallback",
+    "link": "https://dev.to/willp11/optimizing-react-apps-with-reactmemo-usememo-and-usecallback-12ig",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Todo App",
+    "link": "https://dev.to/amanp30/the-todo-app-43jf",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread",
+    "link": "https://dev.to/mehdi1/wwc22-qwik-partytown-how-to-remove-99-of-javascript-from-main-thread-2k3b",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "N-Queen - All Possible Placements",
+    "link": "https://dev.to/zeeshanali0704/n-queen-all-possible-placements-3bji",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - String indexOf Method",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-string-indexof-method-5elp",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript counter | HTML, CSS, JS",
+    "link": "https://dev.to/danish0929x/javascript-counter-html-css-js-18eg",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Protetox - Is it a Scam or Legit Benefits And Uses?",
+    "link": "https://dev.to/prodentim17/protetox-is-it-a-scam-or-legit-benefits-and-uses-4nnp",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - String includes Method",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-string-includes-method-4lb6",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My understanding of learning vanilla JS",
+    "link": "https://dev.to/dilshad0404/my-understanding-of-learning-vanilla-js-19cm",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Chat App with WebSocket: Deleting User",
+    "link": "https://dev.to/sokhavuth/chat-app-with-websocket-deleting-user-3ndj",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let’s Understand Chrome V8 — Chapter 9: Builtin",
+    "link": "https://dev.to/v8blink/lets-understand-chrome-v8-chapter-9-builtin-3opl",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dealing with CORS in ReactJS",
+    "link": "https://dev.to/naveenkolambage/dealing-with-cors-in-reactjs-3m6d",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser extensions - Repeating notifications",
+    "link": "https://dev.to/dailydevtips1/browser-extensions-repeating-notifications-2161",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dependency Inversion Principle in TypeScript",
+    "link": "https://dev.to/jmalvarez/dependency-inversion-principle-in-typescript-4nm0",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Optimizing React Apps with React.memo, useMemo and useCallback",
+    "link": "https://dev.to/willp11/optimizing-react-apps-with-reactmemo-usememo-and-usecallback-12ig",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Todo App",
+    "link": "https://dev.to/amanp30/the-todo-app-43jf",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread",
+    "link": "https://dev.to/mehdi1/wwc22-qwik-partytown-how-to-remove-99-of-javascript-from-main-thread-2k3b",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "N-Queen - All Possible Placements",
+    "link": "https://dev.to/zeeshanali0704/n-queen-all-possible-placements-3bji",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - String indexOf Method",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-string-indexof-method-5elp",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript counter | HTML, CSS, JS",
+    "link": "https://dev.to/danish0929x/javascript-counter-html-css-js-18eg",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Protetox - Is it a Scam or Legit Benefits And Uses?",
+    "link": "https://dev.to/prodentim17/protetox-is-it-a-scam-or-legit-benefits-and-uses-4nnp",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - String includes Method",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-string-includes-method-4lb6",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My understanding of learning vanilla JS",
+    "link": "https://dev.to/dilshad0404/my-understanding-of-learning-vanilla-js-19cm",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Chat App with WebSocket: Deleting User",
+    "link": "https://dev.to/sokhavuth/chat-app-with-websocket-deleting-user-3ndj",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let’s Understand Chrome V8 — Chapter 9: Builtin",
+    "link": "https://dev.to/v8blink/lets-understand-chrome-v8-chapter-9-builtin-3opl",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dealing with CORS in ReactJS",
+    "link": "https://dev.to/naveenkolambage/dealing-with-cors-in-reactjs-3m6d",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser extensions - Repeating notifications",
+    "link": "https://dev.to/dailydevtips1/browser-extensions-repeating-notifications-2161",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dependency Inversion Principle in TypeScript",
+    "link": "https://dev.to/jmalvarez/dependency-inversion-principle-in-typescript-4nm0",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Optimizing React Apps with React.memo, useMemo and useCallback",
+    "link": "https://dev.to/willp11/optimizing-react-apps-with-reactmemo-usememo-and-usecallback-12ig",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Todo App",
+    "link": "https://dev.to/amanp30/the-todo-app-43jf",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "WWC22 - Qwik + Partytown: How to remove 99% of JavaScript from main thread",
+    "link": "https://dev.to/mehdi1/wwc22-qwik-partytown-how-to-remove-99-of-javascript-from-main-thread-2k3b",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "N-Queen - All Possible Placements",
+    "link": "https://dev.to/zeeshanali0704/n-queen-all-possible-placements-3bji",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - String indexOf Method",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-string-indexof-method-5elp",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript counter | HTML, CSS, JS",
+    "link": "https://dev.to/danish0929x/javascript-counter-html-css-js-18eg",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Protetox - Is it a Scam or Legit Benefits And Uses?",
+    "link": "https://dev.to/prodentim17/protetox-is-it-a-scam-or-legit-benefits-and-uses-4nnp",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript Tagalog - String includes Method",
+    "link": "https://dev.to/mmvergara/javascript-tagalog-string-includes-method-4lb6",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "My understanding of learning vanilla JS",
+    "link": "https://dev.to/dilshad0404/my-understanding-of-learning-vanilla-js-19cm",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Chat App with WebSocket: Deleting User",
+    "link": "https://dev.to/sokhavuth/chat-app-with-websocket-deleting-user-3ndj",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let’s Understand Chrome V8 — Chapter 9: Builtin",
+    "link": "https://dev.to/v8blink/lets-understand-chrome-v8-chapter-9-builtin-3opl",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dealing with CORS in ReactJS",
+    "link": "https://dev.to/naveenkolambage/dealing-with-cors-in-reactjs-3m6d",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser extensions - Repeating notifications",
+    "link": "https://dev.to/dailydevtips1/browser-extensions-repeating-notifications-2161",
+    "date": "8/21/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reduct Storage Web Console v0.4.0 has been released",
+    "link": "https://dev.to/reduct-storage/reduct-storage-web-console-v040-has-been-released-53mk",
     "date": "8/20/2022",
     "site": "dev.to"
   },
   {
-    "title": "Browser extensions - Adding browser notifications",
-    "link": "https://dev.to/dailydevtips1/browser-extensions-adding-browser-notifications-57dk",
+    "title": "Reduct Storage Web Console v0.4.0 has been released",
+    "link": "https://dev.to/reduct-storage/reduct-storage-web-console-v040-has-been-released-53mk",
     "date": "8/20/2022",
     "site": "dev.to"
   },
   {
-    "title": "How to translate HTML for free using google translate.",
-    "link": "https://dev.to/jakovglavac/how-to-translate-html-for-free-using-google-translate-2nf",
+    "title": "Reduct Storage Web Console v0.4.0 has been released",
+    "link": "https://dev.to/reduct-storage/reduct-storage-web-console-v040-has-been-released-53mk",
     "date": "8/20/2022",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (20-08-2022) - Actual empty list",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-20-08-2022-actual-empty-list-11n1",
+    "title": "Reduct Storage Web Console v0.4.0 has been released",
+    "link": "https://dev.to/reduct-storage/reduct-storage-web-console-v040-has-been-released-53mk",
     "date": "8/20/2022",
     "site": "dev.to"
   },
   {
-    "title": "Day 1 - Web Dev Journey",
-    "link": "https://dev.to/reason2020/day-1-web-dev-journey-90f",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build library using JavaScript, Webpack and Workspaces",
-    "link": "https://dev.to/srele96/build-library-using-javascript-webpack-and-workspaces-mb9",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rat in a Maze",
-    "link": "https://dev.to/zeeshanali0704/rat-in-a-maze-4e78",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to integrate Feature Flags in NestJS",
-    "link": "https://dev.to/codedbychavez/how-to-integrate-feature-flags-in-nestjs-39j3",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm here to tell you that I'm developing something that car geeks will love!",
-    "link": "https://dev.to/sandilemoremedi/im-here-to-tell-you-that-im-developing-something-that-car-geeks-will-love-3160",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three Ways to Remove Console Statements From Production Build",
-    "link": "https://dev.to/clumsycoder/three-ways-to-remove-console-statements-from-production-build-2949",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Test post",
-    "link": "https://dev.to/liebner12/test-post-51i7",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser extensions - Adding browser notifications",
-    "link": "https://dev.to/dailydevtips1/browser-extensions-adding-browser-notifications-57dk",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to translate HTML for free using google translate.",
-    "link": "https://dev.to/jakovglavac/how-to-translate-html-for-free-using-google-translate-2nf",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (20-08-2022) - Actual empty list",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-20-08-2022-actual-empty-list-11n1",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1 - Web Dev Journey",
-    "link": "https://dev.to/reason2020/day-1-web-dev-journey-90f",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build library using JavaScript, Webpack and Workspaces",
-    "link": "https://dev.to/srele96/build-library-using-javascript-webpack-and-workspaces-mb9",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rat in a Maze",
-    "link": "https://dev.to/zeeshanali0704/rat-in-a-maze-4e78",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to integrate Feature Flags in NestJS",
-    "link": "https://dev.to/codedbychavez/how-to-integrate-feature-flags-in-nestjs-39j3",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm here to tell you that I'm developing something that car geeks will love!",
-    "link": "https://dev.to/sandilemoremedi/im-here-to-tell-you-that-im-developing-something-that-car-geeks-will-love-3160",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three Ways to Remove Console Statements From Production Build",
-    "link": "https://dev.to/clumsycoder/three-ways-to-remove-console-statements-from-production-build-2949",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Test post",
-    "link": "https://dev.to/liebner12/test-post-51i7",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser extensions - Adding browser notifications",
-    "link": "https://dev.to/dailydevtips1/browser-extensions-adding-browser-notifications-57dk",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to translate HTML for free using google translate.",
-    "link": "https://dev.to/jakovglavac/how-to-translate-html-for-free-using-google-translate-2nf",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (20-08-2022) - Actual empty list",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-20-08-2022-actual-empty-list-11n1",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1 - Web Dev Journey",
-    "link": "https://dev.to/reason2020/day-1-web-dev-journey-90f",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build library using JavaScript, Webpack and Workspaces",
-    "link": "https://dev.to/srele96/build-library-using-javascript-webpack-and-workspaces-mb9",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rat in a Maze",
-    "link": "https://dev.to/zeeshanali0704/rat-in-a-maze-4e78",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to integrate Feature Flags in NestJS",
-    "link": "https://dev.to/codedbychavez/how-to-integrate-feature-flags-in-nestjs-39j3",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm here to tell you that I'm developing something that car geeks will love!",
-    "link": "https://dev.to/sandilemoremedi/im-here-to-tell-you-that-im-developing-something-that-car-geeks-will-love-3160",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three Ways to Remove Console Statements From Production Build",
-    "link": "https://dev.to/clumsycoder/three-ways-to-remove-console-statements-from-production-build-2949",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Test post",
-    "link": "https://dev.to/liebner12/test-post-51i7",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser extensions - Adding browser notifications",
-    "link": "https://dev.to/dailydevtips1/browser-extensions-adding-browser-notifications-57dk",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to translate HTML for free using google translate.",
-    "link": "https://dev.to/jakovglavac/how-to-translate-html-for-free-using-google-translate-2nf",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (20-08-2022) - Actual empty list",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-20-08-2022-actual-empty-list-11n1",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1 - Web Dev Journey",
-    "link": "https://dev.to/reason2020/day-1-web-dev-journey-90f",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build library using JavaScript, Webpack and Workspaces",
-    "link": "https://dev.to/srele96/build-library-using-javascript-webpack-and-workspaces-mb9",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rat in a Maze",
-    "link": "https://dev.to/zeeshanali0704/rat-in-a-maze-4e78",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to integrate Feature Flags in NestJS",
-    "link": "https://dev.to/codedbychavez/how-to-integrate-feature-flags-in-nestjs-39j3",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm here to tell you that I'm developing something that car geeks will love!",
-    "link": "https://dev.to/sandilemoremedi/im-here-to-tell-you-that-im-developing-something-that-car-geeks-will-love-3160",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three Ways to Remove Console Statements From Production Build",
-    "link": "https://dev.to/clumsycoder/three-ways-to-remove-console-statements-from-production-build-2949",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser extensions - Adding browser notifications",
-    "link": "https://dev.to/dailydevtips1/browser-extensions-adding-browser-notifications-57dk",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to translate HTML for free using google translate.",
-    "link": "https://dev.to/jakovglavac/how-to-translate-html-for-free-using-google-translate-2nf",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (20-08-2022) - Actual empty list",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-20-08-2022-actual-empty-list-11n1",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1 - Web Dev Journey",
-    "link": "https://dev.to/reason2020/day-1-web-dev-journey-90f",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build library using JavaScript, Webpack and Workspaces",
-    "link": "https://dev.to/srele96/build-library-using-javascript-webpack-and-workspaces-mb9",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rat in a Maze",
-    "link": "https://dev.to/zeeshanali0704/rat-in-a-maze-4e78",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to integrate Feature Flags in NestJS",
-    "link": "https://dev.to/codedbychavez/how-to-integrate-feature-flags-in-nestjs-39j3",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm here to tell you that I'm developing something that car geeks will love!",
-    "link": "https://dev.to/sandilemoremedi/im-here-to-tell-you-that-im-developing-something-that-car-geeks-will-love-3160",
-    "date": "8/20/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three Ways to Remove Console Statements From Production Build",
-    "link": "https://dev.to/clumsycoder/three-ways-to-remove-console-statements-from-production-build-2949",
+    "title": "Reduct Storage Web Console v0.4.0 has been released",
+    "link": "https://dev.to/reduct-storage/reduct-storage-web-console-v040-has-been-released-53mk",
     "date": "8/20/2022",
     "site": "dev.to"
   },
@@ -299,162 +455,6 @@
     "reading_time": "15 min read",
     "date": "8/19/2022",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "SaasRock v0.5.0 - Cookie consent and built-in Analytics",
-    "link": "https://dev.to/alexandromtzg/saasrock-v050-cookie-consent-and-built-in-analytics-45d9",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Absolute Beginner's Guide to learn JavaScript, Part-2",
-    "link": "https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-2-1cam",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Essential Benefits That Tell How Important A Singapore Custom web design Is",
-    "link": "https://dev.to/shaunmike/5-essential-benefits-that-tell-how-important-a-singapore-custom-web-design-is-chg",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The JS Promise Errand",
-    "link": "https://dev.to/jhhornn/the-js-promise-errand-m73",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Firebase Firestore Queries with firestore-db for web and react-native-firebase",
-    "link": "https://dev.to/ranjan/fixing-firebase-firestore-queries-with-firestore-db-for-web-and-react-native-firebase-1m5a",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "SaasRock v0.5.0 - Cookie consent and built-in Analytics",
-    "link": "https://dev.to/alexandromtzg/saasrock-v050-cookie-consent-and-built-in-analytics-45d9",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Absolute Beginner's Guide to learn JavaScript, Part-2",
-    "link": "https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-2-1cam",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Essential Benefits That Tell How Important A Singapore Custom web design Is",
-    "link": "https://dev.to/shaunmike/5-essential-benefits-that-tell-how-important-a-singapore-custom-web-design-is-chg",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The JS Promise Errand",
-    "link": "https://dev.to/jhhornn/the-js-promise-errand-m73",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Firebase Firestore Queries with firestore-db for web and react-native-firebase",
-    "link": "https://dev.to/ranjan/fixing-firebase-firestore-queries-with-firestore-db-for-web-and-react-native-firebase-1m5a",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "SaasRock v0.5.0 - Cookie consent and built-in Analytics",
-    "link": "https://dev.to/alexandromtzg/saasrock-v050-cookie-consent-and-built-in-analytics-45d9",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Absolute Beginner's Guide to learn JavaScript, Part-2",
-    "link": "https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-2-1cam",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Essential Benefits That Tell How Important A Singapore Custom web design Is",
-    "link": "https://dev.to/shaunmike/5-essential-benefits-that-tell-how-important-a-singapore-custom-web-design-is-chg",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The JS Promise Errand",
-    "link": "https://dev.to/jhhornn/the-js-promise-errand-m73",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Firebase Firestore Queries with firestore-db for web and react-native-firebase",
-    "link": "https://dev.to/ranjan/fixing-firebase-firestore-queries-with-firestore-db-for-web-and-react-native-firebase-1m5a",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "SaasRock v0.5.0 - Cookie consent and built-in Analytics",
-    "link": "https://dev.to/alexandromtzg/saasrock-v050-cookie-consent-and-built-in-analytics-45d9",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Absolute Beginner's Guide to learn JavaScript, Part-2",
-    "link": "https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-2-1cam",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Essential Benefits That Tell How Important A Singapore Custom web design Is",
-    "link": "https://dev.to/shaunmike/5-essential-benefits-that-tell-how-important-a-singapore-custom-web-design-is-chg",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The JS Promise Errand",
-    "link": "https://dev.to/jhhornn/the-js-promise-errand-m73",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Firebase Firestore Queries with firestore-db for web and react-native-firebase",
-    "link": "https://dev.to/ranjan/fixing-firebase-firestore-queries-with-firestore-db-for-web-and-react-native-firebase-1m5a",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "SaasRock v0.5.0 - Cookie consent and built-in Analytics",
-    "link": "https://dev.to/alexandromtzg/saasrock-v050-cookie-consent-and-built-in-analytics-45d9",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Absolute Beginner's Guide to learn JavaScript, Part-2",
-    "link": "https://dev.to/afrozansenjuti/absolute-beginners-guide-to-learn-javascript-part-2-1cam",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Essential Benefits That Tell How Important A Singapore Custom web design Is",
-    "link": "https://dev.to/shaunmike/5-essential-benefits-that-tell-how-important-a-singapore-custom-web-design-is-chg",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The JS Promise Errand",
-    "link": "https://dev.to/jhhornn/the-js-promise-errand-m73",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Firebase Firestore Queries with firestore-db for web and react-native-firebase",
-    "link": "https://dev.to/ranjan/fixing-firebase-firestore-queries-with-firestore-db-for-web-and-react-native-firebase-1m5a",
-    "date": "8/19/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where do I start",
-    "link": "https://dev.to/otumianempire/where-do-i-start-370m",
-    "date": "8/19/2022",
-    "site": "dev.to"
   },
   {
     "title": "An Introduction To Context Propagation In JavaScript",
@@ -1163,7 +1163,7 @@
   {
     "title": "How To Build A Real-Time Multi-User Game From Scratch",
     "link": "https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/",
-    "reading_time": "21 min read",
+    "reading_time": "20 min read",
     "date": "10/22/2021",
     "site": "smashingmagazine"
   },
@@ -1216,7 +1216,7 @@
   {
     "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
     "link": "https://www.smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "9/9/2021",
     "site": "smashingmagazine"
   },
@@ -1297,7 +1297,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
