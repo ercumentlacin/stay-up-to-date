@@ -1,241 +1,451 @@
 [
   {
-    "title": "Selectable bar chart - amCharts4",
-    "link": "https://dev.to/dima000/selectable-bar-chart-amcharts4-2ilo",
+    "title": "7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎",
+    "link": "https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue.js on CDN",
+    "link": "https://dev.to/yukikmt/vuejs-on-cdn-5839",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to send Email with NodeJS in 2022",
+    "link": "https://dev.to/vkassingh/how-to-send-email-with-nodejs-in-2022-1dd0",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to load React from CDN",
+    "link": "https://dev.to/yukikmt/how-to-load-react-from-cdn-lnm",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a Next.js project with Chakra-UI integration",
+    "link": "https://dev.to/ethand91/creating-a-nextjs-project-with-chakra-ui-integration-469l",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Gilded Rose Kata: Javascript/Jest",
+    "link": "https://dev.to/rachelg/gilded-rose-kata-javascriptjest-3b2h",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Remade a Javascript App in Java Because Yes",
+    "link": "https://dev.to/artenes/i-remade-a-javascript-app-in-java-because-yes-2dp0",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "14 techniques to write Cleaner JavaScript code",
+    "link": "https://dev.to/elias_15/14-techniques-to-write-cleaner-javascript-code-56a5",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎",
+    "link": "https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue.js on CDN",
+    "link": "https://dev.to/yukikmt/vuejs-on-cdn-5839",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to send Email with NodeJS in 2022",
+    "link": "https://dev.to/vkassingh/how-to-send-email-with-nodejs-in-2022-1dd0",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to load React from CDN",
+    "link": "https://dev.to/yukikmt/how-to-load-react-from-cdn-lnm",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a Next.js project with Chakra-UI integration",
+    "link": "https://dev.to/ethand91/creating-a-nextjs-project-with-chakra-ui-integration-469l",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Gilded Rose Kata: Javascript/Jest",
+    "link": "https://dev.to/rachelg/gilded-rose-kata-javascriptjest-3b2h",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Remade a Javascript App in Java Because Yes",
+    "link": "https://dev.to/artenes/i-remade-a-javascript-app-in-java-because-yes-2dp0",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "14 techniques to write Cleaner JavaScript code",
+    "link": "https://dev.to/elias_15/14-techniques-to-write-cleaner-javascript-code-56a5",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎",
+    "link": "https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue.js on CDN",
+    "link": "https://dev.to/yukikmt/vuejs-on-cdn-5839",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to send Email with NodeJS in 2022",
+    "link": "https://dev.to/vkassingh/how-to-send-email-with-nodejs-in-2022-1dd0",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to load React from CDN",
+    "link": "https://dev.to/yukikmt/how-to-load-react-from-cdn-lnm",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a Next.js project with Chakra-UI integration",
+    "link": "https://dev.to/ethand91/creating-a-nextjs-project-with-chakra-ui-integration-469l",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Gilded Rose Kata: Javascript/Jest",
+    "link": "https://dev.to/rachelg/gilded-rose-kata-javascriptjest-3b2h",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Remade a Javascript App in Java Because Yes",
+    "link": "https://dev.to/artenes/i-remade-a-javascript-app-in-java-because-yes-2dp0",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "14 techniques to write Cleaner JavaScript code",
+    "link": "https://dev.to/elias_15/14-techniques-to-write-cleaner-javascript-code-56a5",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎",
+    "link": "https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue.js on CDN",
+    "link": "https://dev.to/yukikmt/vuejs-on-cdn-5839",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to send Email with NodeJS in 2022",
+    "link": "https://dev.to/vkassingh/how-to-send-email-with-nodejs-in-2022-1dd0",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to load React from CDN",
+    "link": "https://dev.to/yukikmt/how-to-load-react-from-cdn-lnm",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a Next.js project with Chakra-UI integration",
+    "link": "https://dev.to/ethand91/creating-a-nextjs-project-with-chakra-ui-integration-469l",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Gilded Rose Kata: Javascript/Jest",
+    "link": "https://dev.to/rachelg/gilded-rose-kata-javascriptjest-3b2h",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Remade a Javascript App in Java Because Yes",
+    "link": "https://dev.to/artenes/i-remade-a-javascript-app-in-java-because-yes-2dp0",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "14 techniques to write Cleaner JavaScript code",
+    "link": "https://dev.to/elias_15/14-techniques-to-write-cleaner-javascript-code-56a5",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎",
+    "link": "https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vue.js on CDN",
+    "link": "https://dev.to/yukikmt/vuejs-on-cdn-5839",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to send Email with NodeJS in 2022",
+    "link": "https://dev.to/vkassingh/how-to-send-email-with-nodejs-in-2022-1dd0",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to load React from CDN",
+    "link": "https://dev.to/yukikmt/how-to-load-react-from-cdn-lnm",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a Next.js project with Chakra-UI integration",
+    "link": "https://dev.to/ethand91/creating-a-nextjs-project-with-chakra-ui-integration-469l",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Gilded Rose Kata: Javascript/Jest",
+    "link": "https://dev.to/rachelg/gilded-rose-kata-javascriptjest-3b2h",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Remade a Javascript App in Java Because Yes",
+    "link": "https://dev.to/artenes/i-remade-a-javascript-app-in-java-because-yes-2dp0",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "14 techniques to write Cleaner JavaScript code",
+    "link": "https://dev.to/elias_15/14-techniques-to-write-cleaner-javascript-code-56a5",
+    "date": "10/30/2022",
+    "site": "dev.to"
+  },
+  {
+    "title": "Little About Node.js",
+    "link": "https://dev.to/chamberezigbo/little-about-nodejs-1c66",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "10 Reasons why your website is slow and it's takeaway.",
-    "link": "https://dev.to/tazim404/10-reasons-why-your-website-is-slow-and-its-takeaway-heb",
+    "title": "OSD600 Lab10",
+    "link": "https://dev.to/dadolhay/osd600-lab10-4pe",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (29-10-2022) - Captain Elon",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-29-10-2022-captain-elon-36fc",
+    "title": "Initial konva-svelte public pre-release",
+    "link": "https://dev.to/projektorius96/initial-konva-svelte-public-pre-release-3mfa",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "My first decent open-source project! 🎉 Isomera, the headless CMS for business representative websites",
-    "link": "https://dev.to/vygandas/my-first-decent-open-source-project-isomera-the-headless-cms-for-business-representative-websites-1c80",
+    "title": "Paracetamol.test.js🧪| #8: Testea este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoltestjs-8-testea-este-codigo-javascript-221a",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "瀏覽器上的儲存空間：Cookie",
-    "link": "https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-cookie-2kn3",
+    "title": "Logto x Hasura: How to use open-source auth + GraphQL solution to boost your project",
+    "link": "https://dev.to/gaosun/logto-x-hasura-how-to-use-open-source-auth-graphql-solution-to-boost-your-project-4pgm",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Refactoring my SSG",
-    "link": "https://dev.to/aparris21/refactoring-my-ssg-41il",
+    "title": "Clone Objects",
+    "link": "https://dev.to/mattiarollo/clone-objects-2l5a",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Best Implementation for Form Fields in ReactJS",
-    "link": "https://dev.to/catur/best-implementation-for-form-fields-in-reactjs-3mhf",
+    "title": "How can I use Error Boundaries in React router?",
+    "link": "https://dev.to/wonuola_w/how-can-i-use-error-boundaries-in-react-router-54lg",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "I built my own Tweet scheduler which costs less than 1$ per month",
-    "link": "https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd",
+    "title": "Little About Node.js",
+    "link": "https://dev.to/chamberezigbo/little-about-nodejs-1c66",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Selectable bar chart - amCharts4",
-    "link": "https://dev.to/dima000/selectable-bar-chart-amcharts4-2ilo",
+    "title": "OSD600 Lab10",
+    "link": "https://dev.to/dadolhay/osd600-lab10-4pe",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "10 Reasons why your website is slow and it's takeaway.",
-    "link": "https://dev.to/tazim404/10-reasons-why-your-website-is-slow-and-its-takeaway-heb",
+    "title": "Initial konva-svelte public pre-release",
+    "link": "https://dev.to/projektorius96/initial-konva-svelte-public-pre-release-3mfa",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (29-10-2022) - Captain Elon",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-29-10-2022-captain-elon-36fc",
+    "title": "Paracetamol.test.js🧪| #8: Testea este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoltestjs-8-testea-este-codigo-javascript-221a",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "My first decent open-source project! 🎉 Isomera, the headless CMS for business representative websites",
-    "link": "https://dev.to/vygandas/my-first-decent-open-source-project-isomera-the-headless-cms-for-business-representative-websites-1c80",
+    "title": "Logto x Hasura: How to use open-source auth + GraphQL solution to boost your project",
+    "link": "https://dev.to/gaosun/logto-x-hasura-how-to-use-open-source-auth-graphql-solution-to-boost-your-project-4pgm",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "瀏覽器上的儲存空間：Cookie",
-    "link": "https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-cookie-2kn3",
+    "title": "Clone Objects",
+    "link": "https://dev.to/mattiarollo/clone-objects-2l5a",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Refactoring my SSG",
-    "link": "https://dev.to/aparris21/refactoring-my-ssg-41il",
+    "title": "How can I use Error Boundaries in React router?",
+    "link": "https://dev.to/wonuola_w/how-can-i-use-error-boundaries-in-react-router-54lg",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Best Implementation for Form Fields in ReactJS",
-    "link": "https://dev.to/catur/best-implementation-for-form-fields-in-reactjs-3mhf",
+    "title": "Little About Node.js",
+    "link": "https://dev.to/chamberezigbo/little-about-nodejs-1c66",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "I built my own Tweet scheduler which costs less than 1$ per month",
-    "link": "https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd",
+    "title": "OSD600 Lab10",
+    "link": "https://dev.to/dadolhay/osd600-lab10-4pe",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Selectable bar chart - amCharts4",
-    "link": "https://dev.to/dima000/selectable-bar-chart-amcharts4-2ilo",
+    "title": "Initial konva-svelte public pre-release",
+    "link": "https://dev.to/projektorius96/initial-konva-svelte-public-pre-release-3mfa",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "10 Reasons why your website is slow and it's takeaway.",
-    "link": "https://dev.to/tazim404/10-reasons-why-your-website-is-slow-and-its-takeaway-heb",
+    "title": "Paracetamol.test.js🧪| #8: Testea este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoltestjs-8-testea-este-codigo-javascript-221a",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (29-10-2022) - Captain Elon",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-29-10-2022-captain-elon-36fc",
+    "title": "Logto x Hasura: How to use open-source auth + GraphQL solution to boost your project",
+    "link": "https://dev.to/gaosun/logto-x-hasura-how-to-use-open-source-auth-graphql-solution-to-boost-your-project-4pgm",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "My first decent open-source project! 🎉 Isomera, the headless CMS for business representative websites",
-    "link": "https://dev.to/vygandas/my-first-decent-open-source-project-isomera-the-headless-cms-for-business-representative-websites-1c80",
+    "title": "Clone Objects",
+    "link": "https://dev.to/mattiarollo/clone-objects-2l5a",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "瀏覽器上的儲存空間：Cookie",
-    "link": "https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-cookie-2kn3",
+    "title": "How can I use Error Boundaries in React router?",
+    "link": "https://dev.to/wonuola_w/how-can-i-use-error-boundaries-in-react-router-54lg",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Refactoring my SSG",
-    "link": "https://dev.to/aparris21/refactoring-my-ssg-41il",
+    "title": "Little About Node.js",
+    "link": "https://dev.to/chamberezigbo/little-about-nodejs-1c66",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Best Implementation for Form Fields in ReactJS",
-    "link": "https://dev.to/catur/best-implementation-for-form-fields-in-reactjs-3mhf",
+    "title": "OSD600 Lab10",
+    "link": "https://dev.to/dadolhay/osd600-lab10-4pe",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "I built my own Tweet scheduler which costs less than 1$ per month",
-    "link": "https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd",
+    "title": "Initial konva-svelte public pre-release",
+    "link": "https://dev.to/projektorius96/initial-konva-svelte-public-pre-release-3mfa",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Selectable bar chart - amCharts4",
-    "link": "https://dev.to/dima000/selectable-bar-chart-amcharts4-2ilo",
+    "title": "Paracetamol.test.js🧪| #8: Testea este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoltestjs-8-testea-este-codigo-javascript-221a",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "10 Reasons why your website is slow and it's takeaway.",
-    "link": "https://dev.to/tazim404/10-reasons-why-your-website-is-slow-and-its-takeaway-heb",
+    "title": "Logto x Hasura: How to use open-source auth + GraphQL solution to boost your project",
+    "link": "https://dev.to/gaosun/logto-x-hasura-how-to-use-open-source-auth-graphql-solution-to-boost-your-project-4pgm",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (29-10-2022) - Captain Elon",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-29-10-2022-captain-elon-36fc",
+    "title": "Clone Objects",
+    "link": "https://dev.to/mattiarollo/clone-objects-2l5a",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "My first decent open-source project! 🎉 Isomera, the headless CMS for business representative websites",
-    "link": "https://dev.to/vygandas/my-first-decent-open-source-project-isomera-the-headless-cms-for-business-representative-websites-1c80",
+    "title": "How can I use Error Boundaries in React router?",
+    "link": "https://dev.to/wonuola_w/how-can-i-use-error-boundaries-in-react-router-54lg",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "瀏覽器上的儲存空間：Cookie",
-    "link": "https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-cookie-2kn3",
+    "title": "Little About Node.js",
+    "link": "https://dev.to/chamberezigbo/little-about-nodejs-1c66",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Refactoring my SSG",
-    "link": "https://dev.to/aparris21/refactoring-my-ssg-41il",
+    "title": "OSD600 Lab10",
+    "link": "https://dev.to/dadolhay/osd600-lab10-4pe",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Best Implementation for Form Fields in ReactJS",
-    "link": "https://dev.to/catur/best-implementation-for-form-fields-in-reactjs-3mhf",
+    "title": "Initial konva-svelte public pre-release",
+    "link": "https://dev.to/projektorius96/initial-konva-svelte-public-pre-release-3mfa",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "I built my own Tweet scheduler which costs less than 1$ per month",
-    "link": "https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd",
+    "title": "Paracetamol.test.js🧪| #8: Testea este código JavaScript",
+    "link": "https://dev.to/duxtech/paracetamoltestjs-8-testea-este-codigo-javascript-221a",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "Selectable bar chart - amCharts4",
-    "link": "https://dev.to/dima000/selectable-bar-chart-amcharts4-2ilo",
+    "title": "Logto x Hasura: How to use open-source auth + GraphQL solution to boost your project",
+    "link": "https://dev.to/gaosun/logto-x-hasura-how-to-use-open-source-auth-graphql-solution-to-boost-your-project-4pgm",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "10 Reasons why your website is slow and it's takeaway.",
-    "link": "https://dev.to/tazim404/10-reasons-why-your-website-is-slow-and-its-takeaway-heb",
+    "title": "Clone Objects",
+    "link": "https://dev.to/mattiarollo/clone-objects-2l5a",
     "date": "10/29/2022",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (29-10-2022) - Captain Elon",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-29-10-2022-captain-elon-36fc",
-    "date": "10/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "My first decent open-source project! 🎉 Isomera, the headless CMS for business representative websites",
-    "link": "https://dev.to/vygandas/my-first-decent-open-source-project-isomera-the-headless-cms-for-business-representative-websites-1c80",
-    "date": "10/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "瀏覽器上的儲存空間：Cookie",
-    "link": "https://dev.to/letswrite/liu-lan-qi-shang-de-chu-cun-kong-jian-cookie-2kn3",
-    "date": "10/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Refactoring my SSG",
-    "link": "https://dev.to/aparris21/refactoring-my-ssg-41il",
-    "date": "10/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Implementation for Form Fields in ReactJS",
-    "link": "https://dev.to/catur/best-implementation-for-form-fields-in-reactjs-3mhf",
-    "date": "10/29/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built my own Tweet scheduler which costs less than 1$ per month",
-    "link": "https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd",
+    "title": "How can I use Error Boundaries in React router?",
+    "link": "https://dev.to/wonuola_w/how-can-i-use-error-boundaries-in-react-router-54lg",
     "date": "10/29/2022",
     "site": "dev.to"
   },
@@ -245,216 +455,6 @@
     "reading_time": "12 min read",
     "date": "10/28/2022",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "Django and React Chat App: part-1",
-    "link": "https://dev.to/mousaaboubaker/django-and-react-chat-app-part-1-4k05",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React FlatifyCSS: the flat design React component library is finally stable",
-    "link": "https://dev.to/amir2mi/react-flatifycss-the-flat-design-react-component-library-is-finally-stable-pe4",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Titanium News #12",
-    "link": "https://dev.to/miga/titanium-news-12-1i3c",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Permission Error - Discord.js",
-    "link": "https://dev.to/enderbombz/permission-error-discordjs-5n2",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Astro Build like an Astronauts!",
-    "link": "https://dev.to/coderyeasin/asto-build-liken-an-astronauts-284a",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Rising Coder - Week 9/13 (Frontend Week 2/3)",
-    "link": "https://dev.to/clam119/the-rising-coder-week-913-frontend-week-23-4k63",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setbacks that push you forward. Learning Testing!",
-    "link": "https://dev.to/fepaiva/setbacks-that-push-you-forward-learning-testing-2na3",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Django and React Chat App: part-1",
-    "link": "https://dev.to/mousaaboubaker/django-and-react-chat-app-part-1-4k05",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React FlatifyCSS: the flat design React component library is finally stable",
-    "link": "https://dev.to/amir2mi/react-flatifycss-the-flat-design-react-component-library-is-finally-stable-pe4",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Titanium News #12",
-    "link": "https://dev.to/miga/titanium-news-12-1i3c",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Permission Error - Discord.js",
-    "link": "https://dev.to/enderbombz/permission-error-discordjs-5n2",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Astro Build like an Astronauts!",
-    "link": "https://dev.to/coderyeasin/asto-build-liken-an-astronauts-284a",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Rising Coder - Week 9/13 (Frontend Week 2/3)",
-    "link": "https://dev.to/clam119/the-rising-coder-week-913-frontend-week-23-4k63",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setbacks that push you forward. Learning Testing!",
-    "link": "https://dev.to/fepaiva/setbacks-that-push-you-forward-learning-testing-2na3",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Django and React Chat App: part-1",
-    "link": "https://dev.to/mousaaboubaker/django-and-react-chat-app-part-1-4k05",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React FlatifyCSS: the flat design React component library is finally stable",
-    "link": "https://dev.to/amir2mi/react-flatifycss-the-flat-design-react-component-library-is-finally-stable-pe4",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Titanium News #12",
-    "link": "https://dev.to/miga/titanium-news-12-1i3c",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Permission Error - Discord.js",
-    "link": "https://dev.to/enderbombz/permission-error-discordjs-5n2",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Astro Build like an Astronauts!",
-    "link": "https://dev.to/coderyeasin/asto-build-liken-an-astronauts-284a",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Rising Coder - Week 9/13 (Frontend Week 2/3)",
-    "link": "https://dev.to/clam119/the-rising-coder-week-913-frontend-week-23-4k63",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setbacks that push you forward. Learning Testing!",
-    "link": "https://dev.to/fepaiva/setbacks-that-push-you-forward-learning-testing-2na3",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Django and React Chat App: part-1",
-    "link": "https://dev.to/mousaaboubaker/django-and-react-chat-app-part-1-4k05",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React FlatifyCSS: the flat design React component library is finally stable",
-    "link": "https://dev.to/amir2mi/react-flatifycss-the-flat-design-react-component-library-is-finally-stable-pe4",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Titanium News #12",
-    "link": "https://dev.to/miga/titanium-news-12-1i3c",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Permission Error - Discord.js",
-    "link": "https://dev.to/enderbombz/permission-error-discordjs-5n2",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Astro Build like an Astronauts!",
-    "link": "https://dev.to/coderyeasin/asto-build-liken-an-astronauts-284a",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Rising Coder - Week 9/13 (Frontend Week 2/3)",
-    "link": "https://dev.to/clam119/the-rising-coder-week-913-frontend-week-23-4k63",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setbacks that push you forward. Learning Testing!",
-    "link": "https://dev.to/fepaiva/setbacks-that-push-you-forward-learning-testing-2na3",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Django and React Chat App: part-1",
-    "link": "https://dev.to/mousaaboubaker/django-and-react-chat-app-part-1-4k05",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "React FlatifyCSS: the flat design React component library is finally stable",
-    "link": "https://dev.to/amir2mi/react-flatifycss-the-flat-design-react-component-library-is-finally-stable-pe4",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Titanium News #12",
-    "link": "https://dev.to/miga/titanium-news-12-1i3c",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Permission Error - Discord.js",
-    "link": "https://dev.to/enderbombz/permission-error-discordjs-5n2",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Astro Build like an Astronauts!",
-    "link": "https://dev.to/coderyeasin/asto-build-liken-an-astronauts-284a",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Rising Coder - Week 9/13 (Frontend Week 2/3)",
-    "link": "https://dev.to/clam119/the-rising-coder-week-913-frontend-week-23-4k63",
-    "date": "10/28/2022",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setbacks that push you forward. Learning Testing!",
-    "link": "https://dev.to/fepaiva/setbacks-that-push-you-forward-learning-testing-2na3",
-    "date": "10/28/2022",
-    "site": "dev.to"
   },
   {
     "title": "Microfrontends: Microservices for the Frontend",
@@ -1013,7 +1013,7 @@
   {
     "title": "The Case For Prisma In The Jamstack",
     "link": "https://www.smashingmagazine.com/2022/06/case-prisma-jamstack/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "6/6/2022",
     "site": "smashingmagazine"
   },
@@ -1034,7 +1034,7 @@
   {
     "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
     "link": "https://www.smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
-    "reading_time": "21 min read",
+    "reading_time": "20 min read",
     "date": "5/20/2022",
     "site": "smashingmagazine"
   },
@@ -1069,7 +1069,7 @@
   {
     "title": "Jamstack Rendering Patterns: The Evolution",
     "link": "https://www.smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
-    "reading_time": "7 min read",
+    "reading_time": "8 min read",
     "date": "4/19/2022",
     "site": "smashingmagazine"
   },
@@ -1218,7 +1218,7 @@
   {
     "title": "How To Build A Real-Time Multi-User Game From Scratch",
     "link": "https://www.smashingmagazine.com/2021/10/real-time-multi-user-game/",
-    "reading_time": "20 min read",
+    "reading_time": "21 min read",
     "date": "10/22/2021",
     "site": "smashingmagazine"
   },
