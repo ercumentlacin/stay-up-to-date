@@ -1,181 +1,421 @@
 [
   {
-    "title": "One easy way to set the name in jest repetitive tests (test.each)",
-    "link": "https://dev.to/codever/an-easy-way-to-set-test-name-in-jest-repetitive-tests-testeach-12ah",
+    "title": "State management with Redux in React",
+    "link": "https://dev.to/ebuberoderick/state-management-with-redux-in-react-bao",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "using llama finder and deno to scrape websites",
+    "link": "https://dev.to/dwarft/using-llama-finder-and-deno-to-scrape-websites-117",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to set up Styled Components in NextJS",
+    "link": "https://dev.to/mohammadfaisal/how-to-set-up-styled-components-in-nextjs-11mj",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep Dive into JavaScript.",
+    "link": "https://dev.to/mrakib007/deep-dive-into-javascript-3fle",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (04-03-2023) - Murderers",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-04-03-2023-murderers-159k",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Defer: A Zero Infrastructure background jobs Node.js platform",
+    "link": "https://dev.to/defer/introducing-defer-a-zero-infrastructure-background-jobs-nodejs-platform-43jb",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easy website headers in JS",
+    "link": "https://dev.to/cgwebdev2003/easy-website-headers-in-js-p3e",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Converter texto (string) para número em JavaScript e suas diferenças",
+    "link": "https://dev.to/ruanaragao/converter-texto-string-para-numero-em-javascript-e-suas-diferencas-5hd1",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "State management with Redux in React",
+    "link": "https://dev.to/ebuberoderick/state-management-with-redux-in-react-bao",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "using llama finder and deno to scrape websites",
+    "link": "https://dev.to/dwarft/using-llama-finder-and-deno-to-scrape-websites-117",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to set up Styled Components in NextJS",
+    "link": "https://dev.to/mohammadfaisal/how-to-set-up-styled-components-in-nextjs-11mj",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep Dive into JavaScript.",
+    "link": "https://dev.to/mrakib007/deep-dive-into-javascript-3fle",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (04-03-2023) - Murderers",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-04-03-2023-murderers-159k",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Defer: A Zero Infrastructure background jobs Node.js platform",
+    "link": "https://dev.to/defer/introducing-defer-a-zero-infrastructure-background-jobs-nodejs-platform-43jb",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easy website headers in JS",
+    "link": "https://dev.to/cgwebdev2003/easy-website-headers-in-js-p3e",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Converter texto (string) para número em JavaScript e suas diferenças",
+    "link": "https://dev.to/ruanaragao/converter-texto-string-para-numero-em-javascript-e-suas-diferencas-5hd1",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "State management with Redux in React",
+    "link": "https://dev.to/ebuberoderick/state-management-with-redux-in-react-bao",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "using llama finder and deno to scrape websites",
+    "link": "https://dev.to/dwarft/using-llama-finder-and-deno-to-scrape-websites-117",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to set up Styled Components in NextJS",
+    "link": "https://dev.to/mohammadfaisal/how-to-set-up-styled-components-in-nextjs-11mj",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep Dive into JavaScript.",
+    "link": "https://dev.to/mrakib007/deep-dive-into-javascript-3fle",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (04-03-2023) - Murderers",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-04-03-2023-murderers-159k",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Defer: A Zero Infrastructure background jobs Node.js platform",
+    "link": "https://dev.to/defer/introducing-defer-a-zero-infrastructure-background-jobs-nodejs-platform-43jb",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easy website headers in JS",
+    "link": "https://dev.to/cgwebdev2003/easy-website-headers-in-js-p3e",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Converter texto (string) para número em JavaScript e suas diferenças",
+    "link": "https://dev.to/ruanaragao/converter-texto-string-para-numero-em-javascript-e-suas-diferencas-5hd1",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "State management with Redux in React",
+    "link": "https://dev.to/ebuberoderick/state-management-with-redux-in-react-bao",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "using llama finder and deno to scrape websites",
+    "link": "https://dev.to/dwarft/using-llama-finder-and-deno-to-scrape-websites-117",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to set up Styled Components in NextJS",
+    "link": "https://dev.to/mohammadfaisal/how-to-set-up-styled-components-in-nextjs-11mj",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep Dive into JavaScript.",
+    "link": "https://dev.to/mrakib007/deep-dive-into-javascript-3fle",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (04-03-2023) - Murderers",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-04-03-2023-murderers-159k",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Defer: A Zero Infrastructure background jobs Node.js platform",
+    "link": "https://dev.to/defer/introducing-defer-a-zero-infrastructure-background-jobs-nodejs-platform-43jb",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easy website headers in JS",
+    "link": "https://dev.to/cgwebdev2003/easy-website-headers-in-js-p3e",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Converter texto (string) para número em JavaScript e suas diferenças",
+    "link": "https://dev.to/ruanaragao/converter-texto-string-para-numero-em-javascript-e-suas-diferencas-5hd1",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "State management with Redux in React",
+    "link": "https://dev.to/ebuberoderick/state-management-with-redux-in-react-bao",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "using llama finder and deno to scrape websites",
+    "link": "https://dev.to/dwarft/using-llama-finder-and-deno-to-scrape-websites-117",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to set up Styled Components in NextJS",
+    "link": "https://dev.to/mohammadfaisal/how-to-set-up-styled-components-in-nextjs-11mj",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deep Dive into JavaScript.",
+    "link": "https://dev.to/mrakib007/deep-dive-into-javascript-3fle",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "This week’s newsletter is out! (04-03-2023) - Murderers",
+    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-04-03-2023-murderers-159k",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Defer: A Zero Infrastructure background jobs Node.js platform",
+    "link": "https://dev.to/defer/introducing-defer-a-zero-infrastructure-background-jobs-nodejs-platform-43jb",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Easy website headers in JS",
+    "link": "https://dev.to/cgwebdev2003/easy-website-headers-in-js-p3e",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Converter texto (string) para número em JavaScript e suas diferenças",
+    "link": "https://dev.to/ruanaragao/converter-texto-string-para-numero-em-javascript-e-suas-diferencas-5hd1",
+    "date": "3/4/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making the Case for Signals in JavaScript",
+    "link": "https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Faking private class constructors in JavaScript",
-    "link": "https://dev.to/tylerlwsmith/faking-private-class-constructors-in-javascript-21eh",
+    "title": "Configure multiple ssh credentials with git",
+    "link": "https://dev.to/dashpy/configure-multiple-ssh-credentials-with-git-2k38",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Practical Examples of TypeScript",
-    "link": "https://dev.to/riyadhossain/typescirpt-2g3",
+    "title": "Capturing the Bubble of Event Propagation in JavaScript ;)",
+    "link": "https://dev.to/rounit08/capturing-the-bubble-of-event-propagation-in-javascript--591c",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Choosing Your First Programming Language: A Beginner’s Guide",
-    "link": "https://dev.to/jakeroid/choosing-your-first-programming-language-a-beginners-guide-2i04",
+    "title": "Flatiron: Phase 1 Project",
+    "link": "https://dev.to/jvertt/flatiron-phase-1-project-4n50",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Build an accordion component with Alpine.js",
-    "link": "https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6",
+    "title": "What I Learned Building the Base Apparel Landing Page",
+    "link": "https://dev.to/mikenjuki/what-i-learned-building-the-base-apparel-landing-page-onb",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Are variables with let and const keywords hoisted?",
-    "link": "https://dev.to/riyadhossain/different-hoisting-behaviour-between-var-let-const-3io5",
+    "title": "JavaScript Tutorial Series: Traversing elements",
+    "link": "https://dev.to/fullstackjo/javascript-tutorial-series-traversing-elements-122i",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "One easy way to set the name in jest repetitive tests (test.each)",
-    "link": "https://dev.to/codever/an-easy-way-to-set-test-name-in-jest-repetitive-tests-testeach-12ah",
+    "title": "Making the Case for Signals in JavaScript",
+    "link": "https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Faking private class constructors in JavaScript",
-    "link": "https://dev.to/tylerlwsmith/faking-private-class-constructors-in-javascript-21eh",
+    "title": "Configure multiple ssh credentials with git",
+    "link": "https://dev.to/dashpy/configure-multiple-ssh-credentials-with-git-2k38",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Practical Examples of TypeScript",
-    "link": "https://dev.to/riyadhossain/typescirpt-2g3",
+    "title": "Capturing the Bubble of Event Propagation in JavaScript ;)",
+    "link": "https://dev.to/rounit08/capturing-the-bubble-of-event-propagation-in-javascript--591c",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Choosing Your First Programming Language: A Beginner’s Guide",
-    "link": "https://dev.to/jakeroid/choosing-your-first-programming-language-a-beginners-guide-2i04",
+    "title": "Flatiron: Phase 1 Project",
+    "link": "https://dev.to/jvertt/flatiron-phase-1-project-4n50",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Build an accordion component with Alpine.js",
-    "link": "https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6",
+    "title": "What I Learned Building the Base Apparel Landing Page",
+    "link": "https://dev.to/mikenjuki/what-i-learned-building-the-base-apparel-landing-page-onb",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Are variables with let and const keywords hoisted?",
-    "link": "https://dev.to/riyadhossain/different-hoisting-behaviour-between-var-let-const-3io5",
+    "title": "JavaScript Tutorial Series: Traversing elements",
+    "link": "https://dev.to/fullstackjo/javascript-tutorial-series-traversing-elements-122i",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "One easy way to set the name in jest repetitive tests (test.each)",
-    "link": "https://dev.to/codever/an-easy-way-to-set-test-name-in-jest-repetitive-tests-testeach-12ah",
+    "title": "Making the Case for Signals in JavaScript",
+    "link": "https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Faking private class constructors in JavaScript",
-    "link": "https://dev.to/tylerlwsmith/faking-private-class-constructors-in-javascript-21eh",
+    "title": "Configure multiple ssh credentials with git",
+    "link": "https://dev.to/dashpy/configure-multiple-ssh-credentials-with-git-2k38",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Practical Examples of TypeScript",
-    "link": "https://dev.to/riyadhossain/typescirpt-2g3",
+    "title": "Capturing the Bubble of Event Propagation in JavaScript ;)",
+    "link": "https://dev.to/rounit08/capturing-the-bubble-of-event-propagation-in-javascript--591c",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Choosing Your First Programming Language: A Beginner’s Guide",
-    "link": "https://dev.to/jakeroid/choosing-your-first-programming-language-a-beginners-guide-2i04",
+    "title": "Flatiron: Phase 1 Project",
+    "link": "https://dev.to/jvertt/flatiron-phase-1-project-4n50",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Build an accordion component with Alpine.js",
-    "link": "https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6",
+    "title": "What I Learned Building the Base Apparel Landing Page",
+    "link": "https://dev.to/mikenjuki/what-i-learned-building-the-base-apparel-landing-page-onb",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Are variables with let and const keywords hoisted?",
-    "link": "https://dev.to/riyadhossain/different-hoisting-behaviour-between-var-let-const-3io5",
+    "title": "JavaScript Tutorial Series: Traversing elements",
+    "link": "https://dev.to/fullstackjo/javascript-tutorial-series-traversing-elements-122i",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "One easy way to set the name in jest repetitive tests (test.each)",
-    "link": "https://dev.to/codever/an-easy-way-to-set-test-name-in-jest-repetitive-tests-testeach-12ah",
+    "title": "Making the Case for Signals in JavaScript",
+    "link": "https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Faking private class constructors in JavaScript",
-    "link": "https://dev.to/tylerlwsmith/faking-private-class-constructors-in-javascript-21eh",
+    "title": "Configure multiple ssh credentials with git",
+    "link": "https://dev.to/dashpy/configure-multiple-ssh-credentials-with-git-2k38",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Practical Examples of TypeScript",
-    "link": "https://dev.to/riyadhossain/typescirpt-2g3",
+    "title": "Capturing the Bubble of Event Propagation in JavaScript ;)",
+    "link": "https://dev.to/rounit08/capturing-the-bubble-of-event-propagation-in-javascript--591c",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Choosing Your First Programming Language: A Beginner’s Guide",
-    "link": "https://dev.to/jakeroid/choosing-your-first-programming-language-a-beginners-guide-2i04",
+    "title": "Flatiron: Phase 1 Project",
+    "link": "https://dev.to/jvertt/flatiron-phase-1-project-4n50",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Build an accordion component with Alpine.js",
-    "link": "https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6",
+    "title": "What I Learned Building the Base Apparel Landing Page",
+    "link": "https://dev.to/mikenjuki/what-i-learned-building-the-base-apparel-landing-page-onb",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Are variables with let and const keywords hoisted?",
-    "link": "https://dev.to/riyadhossain/different-hoisting-behaviour-between-var-let-const-3io5",
+    "title": "JavaScript Tutorial Series: Traversing elements",
+    "link": "https://dev.to/fullstackjo/javascript-tutorial-series-traversing-elements-122i",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "One easy way to set the name in jest repetitive tests (test.each)",
-    "link": "https://dev.to/codever/an-easy-way-to-set-test-name-in-jest-repetitive-tests-testeach-12ah",
+    "title": "Making the Case for Signals in JavaScript",
+    "link": "https://dev.to/this-is-learning/making-the-case-for-signals-in-javascript-4c7i",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Faking private class constructors in JavaScript",
-    "link": "https://dev.to/tylerlwsmith/faking-private-class-constructors-in-javascript-21eh",
+    "title": "Configure multiple ssh credentials with git",
+    "link": "https://dev.to/dashpy/configure-multiple-ssh-credentials-with-git-2k38",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Practical Examples of TypeScript",
-    "link": "https://dev.to/riyadhossain/typescirpt-2g3",
+    "title": "Capturing the Bubble of Event Propagation in JavaScript ;)",
+    "link": "https://dev.to/rounit08/capturing-the-bubble-of-event-propagation-in-javascript--591c",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Choosing Your First Programming Language: A Beginner’s Guide",
-    "link": "https://dev.to/jakeroid/choosing-your-first-programming-language-a-beginners-guide-2i04",
+    "title": "Flatiron: Phase 1 Project",
+    "link": "https://dev.to/jvertt/flatiron-phase-1-project-4n50",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Build an accordion component with Alpine.js",
-    "link": "https://dev.to/michaelburrows/build-an-accordion-component-with-alpinejs-2nl6",
+    "title": "What I Learned Building the Base Apparel Landing Page",
+    "link": "https://dev.to/mikenjuki/what-i-learned-building-the-base-apparel-landing-page-onb",
     "date": "3/3/2023",
     "site": "dev.to"
   },
   {
-    "title": "Are variables with let and const keywords hoisted?",
-    "link": "https://dev.to/riyadhossain/different-hoisting-behaviour-between-var-let-const-3io5",
+    "title": "JavaScript Tutorial Series: Traversing elements",
+    "link": "https://dev.to/fullstackjo/javascript-tutorial-series-traversing-elements-122i",
     "date": "3/3/2023",
     "site": "dev.to"
   },
@@ -186,46 +426,10 @@
     "site": "hashnode"
   },
   {
-    "title": "O que é Hoisting no JavaScript",
-    "link": "https://dev.to/joeldorosarioo/o-que-e-hoisting-4f85",
+    "title": "Tips for Migrating Angular to React",
+    "link": "https://mikemitchelluva2015.hashnode.dev/tips-for-migrating-angular-to-react",
     "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Feedback required : My portfolio website project",
-    "link": "https://dev.to/ziadoua/feedback-required-my-portfolio-website-project-3aah",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Tutorial Series: Selecting elements",
-    "link": "https://dev.to/fullstackjo/javascript-tutorial-series-selecting-elements-1fe3",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Scraping With Puppeteer for Total Noobs: Part 3",
-    "link": "https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Single-Threaded Nature of JavaScript/Typescript: Async Programming",
-    "link": "https://dev.to/egimata/the-single-threaded-nature-of-javascripttypescript-async-programming-494d",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a custom tooltip directive with CSS and Vue",
-    "link": "https://dev.to/mayashavin/build-a-custom-tooltip-directive-with-css-and-vue-3a8h",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Data storytelling with Plotteus",
-    "link": "https://dev.to/bprusinowski/data-storytelling-with-plotteus-11mi",
-    "date": "3/2/2023",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Tips for Migrating Angular to React",
@@ -234,190 +438,16 @@
     "site": "hashnode"
   },
   {
-    "title": "O que é Hoisting no JavaScript",
-    "link": "https://dev.to/joeldorosarioo/o-que-e-hoisting-4f85",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Feedback required : My portfolio website project",
-    "link": "https://dev.to/ziadoua/feedback-required-my-portfolio-website-project-3aah",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Tutorial Series: Selecting elements",
-    "link": "https://dev.to/fullstackjo/javascript-tutorial-series-selecting-elements-1fe3",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Scraping With Puppeteer for Total Noobs: Part 3",
-    "link": "https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Single-Threaded Nature of JavaScript/Typescript: Async Programming",
-    "link": "https://dev.to/egimata/the-single-threaded-nature-of-javascripttypescript-async-programming-494d",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a custom tooltip directive with CSS and Vue",
-    "link": "https://dev.to/mayashavin/build-a-custom-tooltip-directive-with-css-and-vue-3a8h",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Data storytelling with Plotteus",
-    "link": "https://dev.to/bprusinowski/data-storytelling-with-plotteus-11mi",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "Tips for Migrating Angular to React",
     "link": "https://mikemitchelluva2015.hashnode.dev/tips-for-migrating-angular-to-react",
     "date": "3/2/2023",
     "site": "hashnode"
   },
   {
-    "title": "O que é Hoisting no JavaScript",
-    "link": "https://dev.to/joeldorosarioo/o-que-e-hoisting-4f85",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Feedback required : My portfolio website project",
-    "link": "https://dev.to/ziadoua/feedback-required-my-portfolio-website-project-3aah",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Tutorial Series: Selecting elements",
-    "link": "https://dev.to/fullstackjo/javascript-tutorial-series-selecting-elements-1fe3",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Scraping With Puppeteer for Total Noobs: Part 3",
-    "link": "https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Single-Threaded Nature of JavaScript/Typescript: Async Programming",
-    "link": "https://dev.to/egimata/the-single-threaded-nature-of-javascripttypescript-async-programming-494d",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a custom tooltip directive with CSS and Vue",
-    "link": "https://dev.to/mayashavin/build-a-custom-tooltip-directive-with-css-and-vue-3a8h",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Data storytelling with Plotteus",
-    "link": "https://dev.to/bprusinowski/data-storytelling-with-plotteus-11mi",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "Tips for Migrating Angular to React",
     "link": "https://mikemitchelluva2015.hashnode.dev/tips-for-migrating-angular-to-react",
     "date": "3/2/2023",
     "site": "hashnode"
-  },
-  {
-    "title": "O que é Hoisting no JavaScript",
-    "link": "https://dev.to/joeldorosarioo/o-que-e-hoisting-4f85",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Feedback required : My portfolio website project",
-    "link": "https://dev.to/ziadoua/feedback-required-my-portfolio-website-project-3aah",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Tutorial Series: Selecting elements",
-    "link": "https://dev.to/fullstackjo/javascript-tutorial-series-selecting-elements-1fe3",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Scraping With Puppeteer for Total Noobs: Part 3",
-    "link": "https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Single-Threaded Nature of JavaScript/Typescript: Async Programming",
-    "link": "https://dev.to/egimata/the-single-threaded-nature-of-javascripttypescript-async-programming-494d",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a custom tooltip directive with CSS and Vue",
-    "link": "https://dev.to/mayashavin/build-a-custom-tooltip-directive-with-css-and-vue-3a8h",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Data storytelling with Plotteus",
-    "link": "https://dev.to/bprusinowski/data-storytelling-with-plotteus-11mi",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tips for Migrating Angular to React",
-    "link": "https://mikemitchelluva2015.hashnode.dev/tips-for-migrating-angular-to-react",
-    "date": "3/2/2023",
-    "site": "hashnode"
-  },
-  {
-    "title": "O que é Hoisting no JavaScript",
-    "link": "https://dev.to/joeldorosarioo/o-que-e-hoisting-4f85",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Feedback required : My portfolio website project",
-    "link": "https://dev.to/ziadoua/feedback-required-my-portfolio-website-project-3aah",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Tutorial Series: Selecting elements",
-    "link": "https://dev.to/fullstackjo/javascript-tutorial-series-selecting-elements-1fe3",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Scraping With Puppeteer for Total Noobs: Part 3",
-    "link": "https://dev.to/juniordevforlife/web-scraping-with-puppeteer-for-total-noobs-part-3-2il0",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Single-Threaded Nature of JavaScript/Typescript: Async Programming",
-    "link": "https://dev.to/egimata/the-single-threaded-nature-of-javascripttypescript-async-programming-494d",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a custom tooltip directive with CSS and Vue",
-    "link": "https://dev.to/mayashavin/build-a-custom-tooltip-directive-with-css-and-vue-3a8h",
-    "date": "3/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Data storytelling with Plotteus",
-    "link": "https://dev.to/bprusinowski/data-storytelling-with-plotteus-11mi",
-    "date": "3/2/2023",
-    "site": "dev.to"
   },
   {
     "title": "React vs Signals: 10 Years Later",
@@ -456,10 +486,10 @@
     "site": "hashnode"
   },
   {
-    "title": "The Evolution of Signals in JavaScript",
-    "link": "https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob",
+    "title": "How I structure my Angular applications",
+    "link": "https://stoev.hashnode.dev/how-i-structure-my-angular-applications",
     "date": "2/27/2023",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "How I structure my Angular applications",
@@ -468,46 +498,16 @@
     "site": "hashnode"
   },
   {
-    "title": "The Evolution of Signals in JavaScript",
-    "link": "https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob",
-    "date": "2/27/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "How I structure my Angular applications",
     "link": "https://stoev.hashnode.dev/how-i-structure-my-angular-applications",
     "date": "2/27/2023",
     "site": "hashnode"
   },
   {
-    "title": "The Evolution of Signals in JavaScript",
-    "link": "https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob",
-    "date": "2/27/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "How I structure my Angular applications",
     "link": "https://stoev.hashnode.dev/how-i-structure-my-angular-applications",
     "date": "2/27/2023",
     "site": "hashnode"
-  },
-  {
-    "title": "The Evolution of Signals in JavaScript",
-    "link": "https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob",
-    "date": "2/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I structure my Angular applications",
-    "link": "https://stoev.hashnode.dev/how-i-structure-my-angular-applications",
-    "date": "2/27/2023",
-    "site": "hashnode"
-  },
-  {
-    "title": "The Evolution of Signals in JavaScript",
-    "link": "https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob",
-    "date": "2/27/2023",
-    "site": "dev.to"
   },
   {
     "title": "Getting Internationalization (i18n) Right With Remix And Headless CMS",
@@ -584,7 +584,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "8 min read",
+    "reading_time": "7 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
@@ -628,7 +628,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -1104,7 +1104,7 @@
   {
     "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
     "link": "https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "4/29/2022",
     "site": "smashingmagazine"
   },
