@@ -1,67 +1,433 @@
 [
   {
+    "title": "How to Test Custom Hook in ReactJS",
+    "link": "https://dev.to/sachinchaurasiya/how-to-test-custom-hook-in-reactjs-12gg",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Create Your First Sidebar Using React and Sass: Super Simple and Quick Tutorial",
+    "link": "https://dev.to/ziontutorial/how-to-create-your-first-sidebar-using-react-and-sass-super-simple-and-quick-tutorial-556m",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Custom QR Code Generator with qrcode.js and JavaScript",
+    "link": "https://dev.to/incoderweb/building-a-custom-qr-code-generator-with-qrcodejs-and-javascript-3o3e",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Customizing Vizzu Charts - Mouse-wheel zooming",
+    "link": "https://dev.to/simzer/customizing-vizzu-charts-mouse-wheel-zooming-1afk",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Node.js for Serverless Computing and Function as a Service (FaaS)",
+    "link": "https://dev.to/folasayosamuel/using-nodejs-for-serverless-computing-and-function-as-a-service-faas-29if",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Streamlining Test Automation with a Layered Framework",
+    "link": "https://dev.to/danielwillium9355/streamlining-test-automation-with-a-layered-framework-po3",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "openGauss DML Syntax Overview",
+    "link": "https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-dml-syntax-overview-g28",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "lumigan eye drops price",
+    "link": "https://dev.to/michaelsimo7/lumigan-eye-drops-price-1ldo",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Starting and Stopping openGauss",
+    "link": "https://dev.to/olivia_ma_350e4f6e00893e3/starting-and-stopping-opengauss-5fp5",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Debugging: Best Practices and Traps to Avoid",
+    "link": "https://dev.to/shubhamdutta2000/mastering-javascript-debugging-best-practices-and-traps-to-avoid-41h6",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scope & Closure in Javascript - Army of functions challenge",
+    "link": "https://dev.to/ngquan/scope-closure-in-javascript-army-of-functions-challenge-dmg",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Boost Your Coding Efficiency with the Laf Assistant in VS Code",
+    "link": "https://dev.to/carsonyang/boost-your-coding-efficiency-with-the-laf-assistant-in-vs-code-28h9",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 7. Singly Linked List",
+    "link": "https://dev.to/sosunnyproject/day-7-singly-linked-list-2om",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Text Games using Python and JS",
+    "link": "https://dev.to/matias56/text-games-using-python-and-js-23nn",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Test Custom Hook in ReactJS",
+    "link": "https://dev.to/sachinchaurasiya/how-to-test-custom-hook-in-reactjs-12gg",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Create Your First Sidebar Using React and Sass: Super Simple and Quick Tutorial",
+    "link": "https://dev.to/ziontutorial/how-to-create-your-first-sidebar-using-react-and-sass-super-simple-and-quick-tutorial-556m",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Custom QR Code Generator with qrcode.js and JavaScript",
+    "link": "https://dev.to/incoderweb/building-a-custom-qr-code-generator-with-qrcodejs-and-javascript-3o3e",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Customizing Vizzu Charts - Mouse-wheel zooming",
+    "link": "https://dev.to/simzer/customizing-vizzu-charts-mouse-wheel-zooming-1afk",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Node.js for Serverless Computing and Function as a Service (FaaS)",
+    "link": "https://dev.to/folasayosamuel/using-nodejs-for-serverless-computing-and-function-as-a-service-faas-29if",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Streamlining Test Automation with a Layered Framework",
+    "link": "https://dev.to/danielwillium9355/streamlining-test-automation-with-a-layered-framework-po3",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "openGauss DML Syntax Overview",
+    "link": "https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-dml-syntax-overview-g28",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "lumigan eye drops price",
+    "link": "https://dev.to/michaelsimo7/lumigan-eye-drops-price-1ldo",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Starting and Stopping openGauss",
+    "link": "https://dev.to/olivia_ma_350e4f6e00893e3/starting-and-stopping-opengauss-5fp5",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Debugging: Best Practices and Traps to Avoid",
+    "link": "https://dev.to/shubhamdutta2000/mastering-javascript-debugging-best-practices-and-traps-to-avoid-41h6",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scope & Closure in Javascript - Army of functions challenge",
+    "link": "https://dev.to/ngquan/scope-closure-in-javascript-army-of-functions-challenge-dmg",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Boost Your Coding Efficiency with the Laf Assistant in VS Code",
+    "link": "https://dev.to/carsonyang/boost-your-coding-efficiency-with-the-laf-assistant-in-vs-code-28h9",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 7. Singly Linked List",
+    "link": "https://dev.to/sosunnyproject/day-7-singly-linked-list-2om",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Text Games using Python and JS",
+    "link": "https://dev.to/matias56/text-games-using-python-and-js-23nn",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Test Custom Hook in ReactJS",
+    "link": "https://dev.to/sachinchaurasiya/how-to-test-custom-hook-in-reactjs-12gg",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Create Your First Sidebar Using React and Sass: Super Simple and Quick Tutorial",
+    "link": "https://dev.to/ziontutorial/how-to-create-your-first-sidebar-using-react-and-sass-super-simple-and-quick-tutorial-556m",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Custom QR Code Generator with qrcode.js and JavaScript",
+    "link": "https://dev.to/incoderweb/building-a-custom-qr-code-generator-with-qrcodejs-and-javascript-3o3e",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Customizing Vizzu Charts - Mouse-wheel zooming",
+    "link": "https://dev.to/simzer/customizing-vizzu-charts-mouse-wheel-zooming-1afk",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Node.js for Serverless Computing and Function as a Service (FaaS)",
+    "link": "https://dev.to/folasayosamuel/using-nodejs-for-serverless-computing-and-function-as-a-service-faas-29if",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Streamlining Test Automation with a Layered Framework",
+    "link": "https://dev.to/danielwillium9355/streamlining-test-automation-with-a-layered-framework-po3",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "openGauss DML Syntax Overview",
+    "link": "https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-dml-syntax-overview-g28",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "lumigan eye drops price",
+    "link": "https://dev.to/michaelsimo7/lumigan-eye-drops-price-1ldo",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Starting and Stopping openGauss",
+    "link": "https://dev.to/olivia_ma_350e4f6e00893e3/starting-and-stopping-opengauss-5fp5",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Debugging: Best Practices and Traps to Avoid",
+    "link": "https://dev.to/shubhamdutta2000/mastering-javascript-debugging-best-practices-and-traps-to-avoid-41h6",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scope & Closure in Javascript - Army of functions challenge",
+    "link": "https://dev.to/ngquan/scope-closure-in-javascript-army-of-functions-challenge-dmg",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Boost Your Coding Efficiency with the Laf Assistant in VS Code",
+    "link": "https://dev.to/carsonyang/boost-your-coding-efficiency-with-the-laf-assistant-in-vs-code-28h9",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 7. Singly Linked List",
+    "link": "https://dev.to/sosunnyproject/day-7-singly-linked-list-2om",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Text Games using Python and JS",
+    "link": "https://dev.to/matias56/text-games-using-python-and-js-23nn",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Test Custom Hook in ReactJS",
+    "link": "https://dev.to/sachinchaurasiya/how-to-test-custom-hook-in-reactjs-12gg",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Create Your First Sidebar Using React and Sass: Super Simple and Quick Tutorial",
+    "link": "https://dev.to/ziontutorial/how-to-create-your-first-sidebar-using-react-and-sass-super-simple-and-quick-tutorial-556m",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Custom QR Code Generator with qrcode.js and JavaScript",
+    "link": "https://dev.to/incoderweb/building-a-custom-qr-code-generator-with-qrcodejs-and-javascript-3o3e",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Customizing Vizzu Charts - Mouse-wheel zooming",
+    "link": "https://dev.to/simzer/customizing-vizzu-charts-mouse-wheel-zooming-1afk",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Node.js for Serverless Computing and Function as a Service (FaaS)",
+    "link": "https://dev.to/folasayosamuel/using-nodejs-for-serverless-computing-and-function-as-a-service-faas-29if",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Streamlining Test Automation with a Layered Framework",
+    "link": "https://dev.to/danielwillium9355/streamlining-test-automation-with-a-layered-framework-po3",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "openGauss DML Syntax Overview",
+    "link": "https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-dml-syntax-overview-g28",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "lumigan eye drops price",
+    "link": "https://dev.to/michaelsimo7/lumigan-eye-drops-price-1ldo",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Starting and Stopping openGauss",
+    "link": "https://dev.to/olivia_ma_350e4f6e00893e3/starting-and-stopping-opengauss-5fp5",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Debugging: Best Practices and Traps to Avoid",
+    "link": "https://dev.to/shubhamdutta2000/mastering-javascript-debugging-best-practices-and-traps-to-avoid-41h6",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scope & Closure in Javascript - Army of functions challenge",
+    "link": "https://dev.to/ngquan/scope-closure-in-javascript-army-of-functions-challenge-dmg",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Boost Your Coding Efficiency with the Laf Assistant in VS Code",
+    "link": "https://dev.to/carsonyang/boost-your-coding-efficiency-with-the-laf-assistant-in-vs-code-28h9",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 7. Singly Linked List",
+    "link": "https://dev.to/sosunnyproject/day-7-singly-linked-list-2om",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Text Games using Python and JS",
+    "link": "https://dev.to/matias56/text-games-using-python-and-js-23nn",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Test Custom Hook in ReactJS",
+    "link": "https://dev.to/sachinchaurasiya/how-to-test-custom-hook-in-reactjs-12gg",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Create Your First Sidebar Using React and Sass: Super Simple and Quick Tutorial",
+    "link": "https://dev.to/ziontutorial/how-to-create-your-first-sidebar-using-react-and-sass-super-simple-and-quick-tutorial-556m",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Custom QR Code Generator with qrcode.js and JavaScript",
+    "link": "https://dev.to/incoderweb/building-a-custom-qr-code-generator-with-qrcodejs-and-javascript-3o3e",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Customizing Vizzu Charts - Mouse-wheel zooming",
+    "link": "https://dev.to/simzer/customizing-vizzu-charts-mouse-wheel-zooming-1afk",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Node.js for Serverless Computing and Function as a Service (FaaS)",
+    "link": "https://dev.to/folasayosamuel/using-nodejs-for-serverless-computing-and-function-as-a-service-faas-29if",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Streamlining Test Automation with a Layered Framework",
+    "link": "https://dev.to/danielwillium9355/streamlining-test-automation-with-a-layered-framework-po3",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "openGauss DML Syntax Overview",
+    "link": "https://dev.to/olivia_ma_350e4f6e00893e3/opengauss-dml-syntax-overview-g28",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "lumigan eye drops price",
+    "link": "https://dev.to/michaelsimo7/lumigan-eye-drops-price-1ldo",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Starting and Stopping openGauss",
+    "link": "https://dev.to/olivia_ma_350e4f6e00893e3/starting-and-stopping-opengauss-5fp5",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Debugging: Best Practices and Traps to Avoid",
+    "link": "https://dev.to/shubhamdutta2000/mastering-javascript-debugging-best-practices-and-traps-to-avoid-41h6",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scope & Closure in Javascript - Army of functions challenge",
+    "link": "https://dev.to/ngquan/scope-closure-in-javascript-army-of-functions-challenge-dmg",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Boost Your Coding Efficiency with the Laf Assistant in VS Code",
+    "link": "https://dev.to/carsonyang/boost-your-coding-efficiency-with-the-laf-assistant-in-vs-code-28h9",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 7. Singly Linked List",
+    "link": "https://dev.to/sosunnyproject/day-7-singly-linked-list-2om",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Text Games using Python and JS",
+    "link": "https://dev.to/matias56/text-games-using-python-and-js-23nn",
+    "date": "4/20/2023",
+    "site": "dev.to"
+  },
+  {
     "title": "Make a Dream Todo app with Novu, React and Express! ✅",
     "link": "https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l",
     "date": "4/19/2023",
     "site": "dev.to"
   },
   {
-    "title": "Use Vue Exit Intent | A Vue Composable to power your exit intent content",
-    "link": "https://dev.to/nickap/use-vue-exit-intent-a-vue-composable-to-power-your-exit-intent-content-4hlh",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering JavaScript: Unraveling the Art of Effective Commenting for Better Code Collaboration",
-    "link": "https://dev.to/fahimfba/mastering-javascript-unraveling-the-art-of-effective-commenting-for-better-code-collaboration-46b",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a random quotes generator api in NodeJS",
-    "link": "https://dev.to/armanidrisi/how-to-create-a-random-quotes-generator-api-in-nodejs-1pjn",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Best JavaScript Tutorials for Beginners",
-    "link": "https://dev.to/sugandha120/7-best-javascript-tutorials-for-beginners-129d",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "SSL Wrapper on existing HTTP server",
-    "link": "dev.to/raaghu/ssl-wrapper-on-existing-http-server-4ke3",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Query vs useSWR",
-    "link": "https://dev.to/sakethkowtha/react-query-vs-useswr-122b",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Services em Angular",
-    "link": "https://dev.to/caiohrff/services-em-angular-4k3d",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Server Side Rendering a Blog with Web Components",
-    "link": "https://dev.to/steveblue/server-side-rendering-a-blog-with-web-components-3ije",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Weekly web development resources #145",
-    "link": "https://dev.to/vincenius/weekly-web-development-resources-145-5dnp",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use NestJS, MongoDB and Docker to Create an URL Shortener",
-    "link": "https://dev.to/paulknulst/use-nestjs-mongodb-and-docker-to-create-an-url-shortener-226h",
+    "title": "Make a Dream Todo app with Novu, React and Express! ✅",
+    "link": "https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l",
     "date": "4/19/2023",
     "site": "dev.to"
   },
@@ -72,62 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Use Vue Exit Intent | A Vue Composable to power your exit intent content",
-    "link": "https://dev.to/nickap/use-vue-exit-intent-a-vue-composable-to-power-your-exit-intent-content-4hlh",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering JavaScript: Unraveling the Art of Effective Commenting for Better Code Collaboration",
-    "link": "https://dev.to/fahimfba/mastering-javascript-unraveling-the-art-of-effective-commenting-for-better-code-collaboration-46b",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a random quotes generator api in NodeJS",
-    "link": "https://dev.to/armanidrisi/how-to-create-a-random-quotes-generator-api-in-nodejs-1pjn",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Best JavaScript Tutorials for Beginners",
-    "link": "https://dev.to/sugandha120/7-best-javascript-tutorials-for-beginners-129d",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "SSL Wrapper on existing HTTP server",
-    "link": "dev.to/raaghu/ssl-wrapper-on-existing-http-server-4ke3",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Query vs useSWR",
-    "link": "https://dev.to/sakethkowtha/react-query-vs-useswr-122b",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Services em Angular",
-    "link": "https://dev.to/caiohrff/services-em-angular-4k3d",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Server Side Rendering a Blog with Web Components",
-    "link": "https://dev.to/steveblue/server-side-rendering-a-blog-with-web-components-3ije",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Weekly web development resources #145",
-    "link": "https://dev.to/vincenius/weekly-web-development-resources-145-5dnp",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use NestJS, MongoDB and Docker to Create an URL Shortener",
-    "link": "https://dev.to/paulknulst/use-nestjs-mongodb-and-docker-to-create-an-url-shortener-226h",
+    "title": "Make a Dream Todo app with Novu, React and Express! ✅",
+    "link": "https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l",
     "date": "4/19/2023",
     "site": "dev.to"
   },
@@ -135,318 +447,6 @@
     "title": "Make a Dream Todo app with Novu, React and Express! ✅",
     "link": "https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l",
     "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use Vue Exit Intent | A Vue Composable to power your exit intent content",
-    "link": "https://dev.to/nickap/use-vue-exit-intent-a-vue-composable-to-power-your-exit-intent-content-4hlh",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering JavaScript: Unraveling the Art of Effective Commenting for Better Code Collaboration",
-    "link": "https://dev.to/fahimfba/mastering-javascript-unraveling-the-art-of-effective-commenting-for-better-code-collaboration-46b",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a random quotes generator api in NodeJS",
-    "link": "https://dev.to/armanidrisi/how-to-create-a-random-quotes-generator-api-in-nodejs-1pjn",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Best JavaScript Tutorials for Beginners",
-    "link": "https://dev.to/sugandha120/7-best-javascript-tutorials-for-beginners-129d",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "SSL Wrapper on existing HTTP server",
-    "link": "dev.to/raaghu/ssl-wrapper-on-existing-http-server-4ke3",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Query vs useSWR",
-    "link": "https://dev.to/sakethkowtha/react-query-vs-useswr-122b",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Services em Angular",
-    "link": "https://dev.to/caiohrff/services-em-angular-4k3d",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Server Side Rendering a Blog with Web Components",
-    "link": "https://dev.to/steveblue/server-side-rendering-a-blog-with-web-components-3ije",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Weekly web development resources #145",
-    "link": "https://dev.to/vincenius/weekly-web-development-resources-145-5dnp",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use NestJS, MongoDB and Docker to Create an URL Shortener",
-    "link": "https://dev.to/paulknulst/use-nestjs-mongodb-and-docker-to-create-an-url-shortener-226h",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Make a Dream Todo app with Novu, React and Express! ✅",
-    "link": "https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use Vue Exit Intent | A Vue Composable to power your exit intent content",
-    "link": "https://dev.to/nickap/use-vue-exit-intent-a-vue-composable-to-power-your-exit-intent-content-4hlh",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering JavaScript: Unraveling the Art of Effective Commenting for Better Code Collaboration",
-    "link": "https://dev.to/fahimfba/mastering-javascript-unraveling-the-art-of-effective-commenting-for-better-code-collaboration-46b",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a random quotes generator api in NodeJS",
-    "link": "https://dev.to/armanidrisi/how-to-create-a-random-quotes-generator-api-in-nodejs-1pjn",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Best JavaScript Tutorials for Beginners",
-    "link": "https://dev.to/sugandha120/7-best-javascript-tutorials-for-beginners-129d",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "SSL Wrapper on existing HTTP server",
-    "link": "dev.to/raaghu/ssl-wrapper-on-existing-http-server-4ke3",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Query vs useSWR",
-    "link": "https://dev.to/sakethkowtha/react-query-vs-useswr-122b",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Services em Angular",
-    "link": "https://dev.to/caiohrff/services-em-angular-4k3d",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Server Side Rendering a Blog with Web Components",
-    "link": "https://dev.to/steveblue/server-side-rendering-a-blog-with-web-components-3ije",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Weekly web development resources #145",
-    "link": "https://dev.to/vincenius/weekly-web-development-resources-145-5dnp",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use NestJS, MongoDB and Docker to Create an URL Shortener",
-    "link": "https://dev.to/paulknulst/use-nestjs-mongodb-and-docker-to-create-an-url-shortener-226h",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Make a Dream Todo app with Novu, React and Express! ✅",
-    "link": "https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use Vue Exit Intent | A Vue Composable to power your exit intent content",
-    "link": "https://dev.to/nickap/use-vue-exit-intent-a-vue-composable-to-power-your-exit-intent-content-4hlh",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering JavaScript: Unraveling the Art of Effective Commenting for Better Code Collaboration",
-    "link": "https://dev.to/fahimfba/mastering-javascript-unraveling-the-art-of-effective-commenting-for-better-code-collaboration-46b",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a random quotes generator api in NodeJS",
-    "link": "https://dev.to/armanidrisi/how-to-create-a-random-quotes-generator-api-in-nodejs-1pjn",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Best JavaScript Tutorials for Beginners",
-    "link": "https://dev.to/sugandha120/7-best-javascript-tutorials-for-beginners-129d",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "SSL Wrapper on existing HTTP server",
-    "link": "dev.to/raaghu/ssl-wrapper-on-existing-http-server-4ke3",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Query vs useSWR",
-    "link": "https://dev.to/sakethkowtha/react-query-vs-useswr-122b",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Services em Angular",
-    "link": "https://dev.to/caiohrff/services-em-angular-4k3d",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Server Side Rendering a Blog with Web Components",
-    "link": "https://dev.to/steveblue/server-side-rendering-a-blog-with-web-components-3ije",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Weekly web development resources #145",
-    "link": "https://dev.to/vincenius/weekly-web-development-resources-145-5dnp",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use NestJS, MongoDB and Docker to Create an URL Shortener",
-    "link": "https://dev.to/paulknulst/use-nestjs-mongodb-and-docker-to-create-an-url-shortener-226h",
-    "date": "4/19/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a True/False Toggle in React with useState Hook for Beginners",
-    "link": "https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use SVGs in React Native.",
-    "link": "https://dev.to/gautham495/how-to-use-svgs-in-react-native-37n9",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expose Child Component Methods to Parent Components with Vue 3 defineExpose",
-    "link": "https://dev.to/caio2k/expose-child-component-methods-to-parent-components-with-vue-3-script-setup-defineexpose-4ghl",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moonly weekly progress update #45 - First Staking Client",
-    "link": "https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a True/False Toggle in React with useState Hook for Beginners",
-    "link": "https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use SVGs in React Native.",
-    "link": "https://dev.to/gautham495/how-to-use-svgs-in-react-native-37n9",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expose Child Component Methods to Parent Components with Vue 3 defineExpose",
-    "link": "https://dev.to/caio2k/expose-child-component-methods-to-parent-components-with-vue-3-script-setup-defineexpose-4ghl",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moonly weekly progress update #45 - First Staking Client",
-    "link": "https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a True/False Toggle in React with useState Hook for Beginners",
-    "link": "https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use SVGs in React Native.",
-    "link": "https://dev.to/gautham495/how-to-use-svgs-in-react-native-37n9",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expose Child Component Methods to Parent Components with Vue 3 defineExpose",
-    "link": "https://dev.to/caio2k/expose-child-component-methods-to-parent-components-with-vue-3-script-setup-defineexpose-4ghl",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moonly weekly progress update #45 - First Staking Client",
-    "link": "https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a True/False Toggle in React with useState Hook for Beginners",
-    "link": "https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use SVGs in React Native.",
-    "link": "https://dev.to/gautham495/how-to-use-svgs-in-react-native-37n9",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expose Child Component Methods to Parent Components with Vue 3 defineExpose",
-    "link": "https://dev.to/caio2k/expose-child-component-methods-to-parent-components-with-vue-3-script-setup-defineexpose-4ghl",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moonly weekly progress update #45 - First Staking Client",
-    "link": "https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a True/False Toggle in React with useState Hook for Beginners",
-    "link": "https://dev.to/michaellarocca/creating-a-truefalse-toggle-in-react-with-usestate-hook-for-beginners-aff",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to use SVGs in React Native.",
-    "link": "https://dev.to/gautham495/how-to-use-svgs-in-react-native-37n9",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expose Child Component Methods to Parent Components with Vue 3 defineExpose",
-    "link": "https://dev.to/caio2k/expose-child-component-methods-to-parent-components-with-vue-3-script-setup-defineexpose-4ghl",
-    "date": "4/18/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moonly weekly progress update #45 - First Staking Client",
-    "link": "https://dev.to/moonly/moonly-weekly-progress-update-45-first-staking-client-560",
-    "date": "4/18/2023",
     "site": "dev.to"
   },
   {
@@ -794,7 +794,7 @@
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -808,7 +808,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "7 min read",
+    "reading_time": "8 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
@@ -1048,7 +1048,7 @@
   {
     "title": "A Look At Remix And The Differences With Next.js",
     "link": "https://www.smashingmagazine.com/2022/07/look-remix-differences-next/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "7/11/2022",
     "site": "smashingmagazine"
   },
@@ -1083,7 +1083,7 @@
   {
     "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
     "link": "https://www.smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "6/2/2022",
     "site": "smashingmagazine"
   },
@@ -1097,7 +1097,7 @@
   {
     "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
     "link": "https://www.smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
-    "reading_time": "20 min read",
+    "reading_time": "21 min read",
     "date": "5/20/2022",
     "site": "smashingmagazine"
   },
@@ -1118,7 +1118,7 @@
   {
     "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
     "link": "https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "4/29/2022",
     "site": "smashingmagazine"
   },
