@@ -1,361 +1,451 @@
 [
   {
-    "title": "How to slugify a string in JavaScript",
-    "link": "https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n",
+    "title": "Learn about API Development Types, Tools, and Best Practices",
+    "link": "https://dev.to/aradwan20/learn-about-api-development-types-tools-and-best-practices-5fbj",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "50 ChatGPT Prompts to Debug ReactJS Issues",
+    "link": "https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-35h3",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bridge Between Lifecycle Methods & Hooks",
+    "link": "https://dev.to/dristy03/bridge-between-lifecycle-methods-hooks-54j7",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Step-by-Step Guide to Deploying Your React Website on Hostinger Hosting",
+    "link": "https://dev.to/sandy088/how-to-deploy-your-react-website-on-hostinger-1p2l",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to generate elements with HTML, JavaScript, and React ?",
+    "link": "https://dev.to/akashdeveloper/how-to-generate-elements-with-html-javascript-and-react--3nim",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top Best Practices for Using React in 2023",
+    "link": "https://dev.to/avneeshd/top-best-practices-for-using-react-in-2023-135j",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JSDoc: the complete guide for Javascript developers",
+    "link": "https://dev.to/nikolasbarwicki/mastering-jsdoc-the-complete-guide-for-javascript-developers-1lic",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Made a Reminder to Write a Blog Post Using GitHub Action",
+    "link": "https://dev.to/imamdev_/how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Set Up Tailwind Css With vite-react-app and yarn",
+    "link": "https://dev.to/hridoypartho/set-up-tailwind-css-with-vite-react-app-and-yarn-2ge2",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Promises in JavaScript.",
+    "link": "https://dev.to/abiala705/understanding-promises-in-javascript-168b",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "ColPat : The Ultimate Design Tool",
+    "link": "https://dev.to/vishwagauravin/colpat-the-ultimate-design-tool-2f0n",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Removing Timezones from Dates in Javascript",
+    "link": "https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tips on making a web site accessible part 1",
+    "link": "https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-1-5e8b",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn about API Development Types, Tools, and Best Practices",
+    "link": "https://dev.to/aradwan20/learn-about-api-development-types-tools-and-best-practices-5fbj",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "50 ChatGPT Prompts to Debug ReactJS Issues",
+    "link": "https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-35h3",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bridge Between Lifecycle Methods & Hooks",
+    "link": "https://dev.to/dristy03/bridge-between-lifecycle-methods-hooks-54j7",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Step-by-Step Guide to Deploying Your React Website on Hostinger Hosting",
+    "link": "https://dev.to/sandy088/how-to-deploy-your-react-website-on-hostinger-1p2l",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to generate elements with HTML, JavaScript, and React ?",
+    "link": "https://dev.to/akashdeveloper/how-to-generate-elements-with-html-javascript-and-react--3nim",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top Best Practices for Using React in 2023",
+    "link": "https://dev.to/avneeshd/top-best-practices-for-using-react-in-2023-135j",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JSDoc: the complete guide for Javascript developers",
+    "link": "https://dev.to/nikolasbarwicki/mastering-jsdoc-the-complete-guide-for-javascript-developers-1lic",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Made a Reminder to Write a Blog Post Using GitHub Action",
+    "link": "https://dev.to/imamdev_/how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Set Up Tailwind Css With vite-react-app and yarn",
+    "link": "https://dev.to/hridoypartho/set-up-tailwind-css-with-vite-react-app-and-yarn-2ge2",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Promises in JavaScript.",
+    "link": "https://dev.to/abiala705/understanding-promises-in-javascript-168b",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "ColPat : The Ultimate Design Tool",
+    "link": "https://dev.to/vishwagauravin/colpat-the-ultimate-design-tool-2f0n",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Removing Timezones from Dates in Javascript",
+    "link": "https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tips on making a web site accessible part 1",
+    "link": "https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-1-5e8b",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn about API Development Types, Tools, and Best Practices",
+    "link": "https://dev.to/aradwan20/learn-about-api-development-types-tools-and-best-practices-5fbj",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "50 ChatGPT Prompts to Debug ReactJS Issues",
+    "link": "https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-35h3",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bridge Between Lifecycle Methods & Hooks",
+    "link": "https://dev.to/dristy03/bridge-between-lifecycle-methods-hooks-54j7",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Step-by-Step Guide to Deploying Your React Website on Hostinger Hosting",
+    "link": "https://dev.to/sandy088/how-to-deploy-your-react-website-on-hostinger-1p2l",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to generate elements with HTML, JavaScript, and React ?",
+    "link": "https://dev.to/akashdeveloper/how-to-generate-elements-with-html-javascript-and-react--3nim",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top Best Practices for Using React in 2023",
+    "link": "https://dev.to/avneeshd/top-best-practices-for-using-react-in-2023-135j",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JSDoc: the complete guide for Javascript developers",
+    "link": "https://dev.to/nikolasbarwicki/mastering-jsdoc-the-complete-guide-for-javascript-developers-1lic",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Made a Reminder to Write a Blog Post Using GitHub Action",
+    "link": "https://dev.to/imamdev_/how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Set Up Tailwind Css With vite-react-app and yarn",
+    "link": "https://dev.to/hridoypartho/set-up-tailwind-css-with-vite-react-app-and-yarn-2ge2",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Promises in JavaScript.",
+    "link": "https://dev.to/abiala705/understanding-promises-in-javascript-168b",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "ColPat : The Ultimate Design Tool",
+    "link": "https://dev.to/vishwagauravin/colpat-the-ultimate-design-tool-2f0n",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Removing Timezones from Dates in Javascript",
+    "link": "https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tips on making a web site accessible part 1",
+    "link": "https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-1-5e8b",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn about API Development Types, Tools, and Best Practices",
+    "link": "https://dev.to/aradwan20/learn-about-api-development-types-tools-and-best-practices-5fbj",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "50 ChatGPT Prompts to Debug ReactJS Issues",
+    "link": "https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-35h3",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bridge Between Lifecycle Methods & Hooks",
+    "link": "https://dev.to/dristy03/bridge-between-lifecycle-methods-hooks-54j7",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Step-by-Step Guide to Deploying Your React Website on Hostinger Hosting",
+    "link": "https://dev.to/sandy088/how-to-deploy-your-react-website-on-hostinger-1p2l",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to generate elements with HTML, JavaScript, and React ?",
+    "link": "https://dev.to/akashdeveloper/how-to-generate-elements-with-html-javascript-and-react--3nim",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top Best Practices for Using React in 2023",
+    "link": "https://dev.to/avneeshd/top-best-practices-for-using-react-in-2023-135j",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JSDoc: the complete guide for Javascript developers",
+    "link": "https://dev.to/nikolasbarwicki/mastering-jsdoc-the-complete-guide-for-javascript-developers-1lic",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Made a Reminder to Write a Blog Post Using GitHub Action",
+    "link": "https://dev.to/imamdev_/how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Set Up Tailwind Css With vite-react-app and yarn",
+    "link": "https://dev.to/hridoypartho/set-up-tailwind-css-with-vite-react-app-and-yarn-2ge2",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Promises in JavaScript.",
+    "link": "https://dev.to/abiala705/understanding-promises-in-javascript-168b",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "ColPat : The Ultimate Design Tool",
+    "link": "https://dev.to/vishwagauravin/colpat-the-ultimate-design-tool-2f0n",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Removing Timezones from Dates in Javascript",
+    "link": "https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tips on making a web site accessible part 1",
+    "link": "https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-1-5e8b",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learn about API Development Types, Tools, and Best Practices",
+    "link": "https://dev.to/aradwan20/learn-about-api-development-types-tools-and-best-practices-5fbj",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "50 ChatGPT Prompts to Debug ReactJS Issues",
+    "link": "https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-35h3",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bridge Between Lifecycle Methods & Hooks",
+    "link": "https://dev.to/dristy03/bridge-between-lifecycle-methods-hooks-54j7",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Step-by-Step Guide to Deploying Your React Website on Hostinger Hosting",
+    "link": "https://dev.to/sandy088/how-to-deploy-your-react-website-on-hostinger-1p2l",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to generate elements with HTML, JavaScript, and React ?",
+    "link": "https://dev.to/akashdeveloper/how-to-generate-elements-with-html-javascript-and-react--3nim",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top Best Practices for Using React in 2023",
+    "link": "https://dev.to/avneeshd/top-best-practices-for-using-react-in-2023-135j",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JSDoc: the complete guide for Javascript developers",
+    "link": "https://dev.to/nikolasbarwicki/mastering-jsdoc-the-complete-guide-for-javascript-developers-1lic",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Made a Reminder to Write a Blog Post Using GitHub Action",
+    "link": "https://dev.to/imamdev_/how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Set Up Tailwind Css With vite-react-app and yarn",
+    "link": "https://dev.to/hridoypartho/set-up-tailwind-css-with-vite-react-app-and-yarn-2ge2",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Promises in JavaScript.",
+    "link": "https://dev.to/abiala705/understanding-promises-in-javascript-168b",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "ColPat : The Ultimate Design Tool",
+    "link": "https://dev.to/vishwagauravin/colpat-the-ultimate-design-tool-2f0n",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Removing Timezones from Dates in Javascript",
+    "link": "https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tips on making a web site accessible part 1",
+    "link": "https://dev.to/karenpayneoregon/tips-on-making-a-web-site-accessible-part-1-5e8b",
+    "date": "4/23/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Edit and preview Markdown in react.js",
+    "link": "https://dev.to/djibrilm/markdown-preview-in-reactjs-adp",
     "date": "4/22/2023",
     "site": "dev.to"
   },
   {
-    "title": "Javascript - OOP with Javascript",
-    "link": "https://dev.to/babeng/javascript-oops-with-javascript-1pa4",
+    "title": "Comment développer une extension Google Chrome.",
+    "link": "https://dev.to/audreymengue/comment-developper-une-extension-google-chrome-28a0",
     "date": "4/22/2023",
     "site": "dev.to"
   },
   {
-    "title": "Debugging ReactJS Issues with ChatGPT: 50 Essential Tips and Examples",
-    "link": "https://dev.to/nilanth/debugging-reactjs-issues-with-chatgpt-50-essential-tips-and-examples-448",
+    "title": "Edit and preview Markdown in react.js",
+    "link": "https://dev.to/djibrilm/markdown-preview-in-reactjs-adp",
     "date": "4/22/2023",
     "site": "dev.to"
   },
   {
-    "title": "Python V.S. Javascript: Which is Better for Webscraping?",
-    "link": "https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0",
+    "title": "Comment développer une extension Google Chrome.",
+    "link": "https://dev.to/audreymengue/comment-developper-une-extension-google-chrome-28a0",
     "date": "4/22/2023",
     "site": "dev.to"
   },
   {
-    "title": "Building a Secure Node.js Application: Best Practices and Tools",
-    "link": "https://dev.to/ahmadad62/prevent-common-nodejs-security-vulnerabilities-5d2o",
+    "title": "Edit and preview Markdown in react.js",
+    "link": "https://dev.to/djibrilm/markdown-preview-in-reactjs-adp",
     "date": "4/22/2023",
     "site": "dev.to"
   },
   {
-    "title": "Async and Await in JavaScript: Simplifying Asynchronous Programming",
-    "link": "https://dev.to/joepari_codes/async-and-await-in-javascript-simplifying-asynchronous-programming-4n47",
+    "title": "Comment développer une extension Google Chrome.",
+    "link": "https://dev.to/audreymengue/comment-developper-une-extension-google-chrome-28a0",
     "date": "4/22/2023",
     "site": "dev.to"
   },
   {
-    "title": "Spice Up Your Website with These Color-Related Functions",
-    "link": "https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j",
+    "title": "Edit and preview Markdown in react.js",
+    "link": "https://dev.to/djibrilm/markdown-preview-in-reactjs-adp",
     "date": "4/22/2023",
     "site": "dev.to"
   },
   {
-    "title": "Create a Dynamic Gradient Color Generator with HTML, CSS, and JavaScript",
-    "link": "https://dev.to/incoderweb/create-a-dynamic-gradient-color-generator-with-html-css-and-javascript-39ka",
+    "title": "Comment développer une extension Google Chrome.",
+    "link": "https://dev.to/audreymengue/comment-developper-une-extension-google-chrome-28a0",
     "date": "4/22/2023",
     "site": "dev.to"
   },
   {
-    "title": "5 Tips for Optimizing ReactJS Performance and Building Lightning-Fast Applications",
-    "link": "https://dev.to/nilanth/5-tips-for-optimizing-reactjs-performance-and-building-lightning-fast-applications-254d",
+    "title": "Edit and preview Markdown in react.js",
+    "link": "https://dev.to/djibrilm/markdown-preview-in-reactjs-adp",
     "date": "4/22/2023",
     "site": "dev.to"
   },
   {
-    "title": "Utilize o conceito de elevação de estado (lifting state up) para compartilhar dados entre componentes irmãos no React.",
-    "link": "https://dev.to/eliasgabriel1/utilize-o-conceito-de-elevacao-de-estado-lifting-state-up-para-compartilhar-dados-entre-componentes-irmaos-no-react-2cao",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Contractr Project Update: Implementing the Matching Feature",
-    "link": "https://dev.to/arashjangali/contractr-project-update-implementing-the-matching-feature-29op",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (21-04-2023) - Foie Gras For Everybody",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-21-04-2023-foie-gras-for-everybody-51af",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to slugify a string in JavaScript",
-    "link": "https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript - OOP with Javascript",
-    "link": "https://dev.to/babeng/javascript-oops-with-javascript-1pa4",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging ReactJS Issues with ChatGPT: 50 Essential Tips and Examples",
-    "link": "https://dev.to/nilanth/debugging-reactjs-issues-with-chatgpt-50-essential-tips-and-examples-448",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Python V.S. Javascript: Which is Better for Webscraping?",
-    "link": "https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Secure Node.js Application: Best Practices and Tools",
-    "link": "https://dev.to/ahmadad62/prevent-common-nodejs-security-vulnerabilities-5d2o",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async and Await in JavaScript: Simplifying Asynchronous Programming",
-    "link": "https://dev.to/joepari_codes/async-and-await-in-javascript-simplifying-asynchronous-programming-4n47",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Spice Up Your Website with These Color-Related Functions",
-    "link": "https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create a Dynamic Gradient Color Generator with HTML, CSS, and JavaScript",
-    "link": "https://dev.to/incoderweb/create-a-dynamic-gradient-color-generator-with-html-css-and-javascript-39ka",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Tips for Optimizing ReactJS Performance and Building Lightning-Fast Applications",
-    "link": "https://dev.to/nilanth/5-tips-for-optimizing-reactjs-performance-and-building-lightning-fast-applications-254d",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Utilize o conceito de elevação de estado (lifting state up) para compartilhar dados entre componentes irmãos no React.",
-    "link": "https://dev.to/eliasgabriel1/utilize-o-conceito-de-elevacao-de-estado-lifting-state-up-para-compartilhar-dados-entre-componentes-irmaos-no-react-2cao",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Contractr Project Update: Implementing the Matching Feature",
-    "link": "https://dev.to/arashjangali/contractr-project-update-implementing-the-matching-feature-29op",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (21-04-2023) - Foie Gras For Everybody",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-21-04-2023-foie-gras-for-everybody-51af",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to slugify a string in JavaScript",
-    "link": "https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript - OOP with Javascript",
-    "link": "https://dev.to/babeng/javascript-oops-with-javascript-1pa4",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging ReactJS Issues with ChatGPT: 50 Essential Tips and Examples",
-    "link": "https://dev.to/nilanth/debugging-reactjs-issues-with-chatgpt-50-essential-tips-and-examples-448",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Python V.S. Javascript: Which is Better for Webscraping?",
-    "link": "https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Secure Node.js Application: Best Practices and Tools",
-    "link": "https://dev.to/ahmadad62/prevent-common-nodejs-security-vulnerabilities-5d2o",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async and Await in JavaScript: Simplifying Asynchronous Programming",
-    "link": "https://dev.to/joepari_codes/async-and-await-in-javascript-simplifying-asynchronous-programming-4n47",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Spice Up Your Website with These Color-Related Functions",
-    "link": "https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create a Dynamic Gradient Color Generator with HTML, CSS, and JavaScript",
-    "link": "https://dev.to/incoderweb/create-a-dynamic-gradient-color-generator-with-html-css-and-javascript-39ka",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Tips for Optimizing ReactJS Performance and Building Lightning-Fast Applications",
-    "link": "https://dev.to/nilanth/5-tips-for-optimizing-reactjs-performance-and-building-lightning-fast-applications-254d",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Utilize o conceito de elevação de estado (lifting state up) para compartilhar dados entre componentes irmãos no React.",
-    "link": "https://dev.to/eliasgabriel1/utilize-o-conceito-de-elevacao-de-estado-lifting-state-up-para-compartilhar-dados-entre-componentes-irmaos-no-react-2cao",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Contractr Project Update: Implementing the Matching Feature",
-    "link": "https://dev.to/arashjangali/contractr-project-update-implementing-the-matching-feature-29op",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (21-04-2023) - Foie Gras For Everybody",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-21-04-2023-foie-gras-for-everybody-51af",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to slugify a string in JavaScript",
-    "link": "https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript - OOP with Javascript",
-    "link": "https://dev.to/babeng/javascript-oops-with-javascript-1pa4",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging ReactJS Issues with ChatGPT: 50 Essential Tips and Examples",
-    "link": "https://dev.to/nilanth/debugging-reactjs-issues-with-chatgpt-50-essential-tips-and-examples-448",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Python V.S. Javascript: Which is Better for Webscraping?",
-    "link": "https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Secure Node.js Application: Best Practices and Tools",
-    "link": "https://dev.to/ahmadad62/prevent-common-nodejs-security-vulnerabilities-5d2o",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async and Await in JavaScript: Simplifying Asynchronous Programming",
-    "link": "https://dev.to/joepari_codes/async-and-await-in-javascript-simplifying-asynchronous-programming-4n47",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Spice Up Your Website with These Color-Related Functions",
-    "link": "https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create a Dynamic Gradient Color Generator with HTML, CSS, and JavaScript",
-    "link": "https://dev.to/incoderweb/create-a-dynamic-gradient-color-generator-with-html-css-and-javascript-39ka",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Tips for Optimizing ReactJS Performance and Building Lightning-Fast Applications",
-    "link": "https://dev.to/nilanth/5-tips-for-optimizing-reactjs-performance-and-building-lightning-fast-applications-254d",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Utilize o conceito de elevação de estado (lifting state up) para compartilhar dados entre componentes irmãos no React.",
-    "link": "https://dev.to/eliasgabriel1/utilize-o-conceito-de-elevacao-de-estado-lifting-state-up-para-compartilhar-dados-entre-componentes-irmaos-no-react-2cao",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Contractr Project Update: Implementing the Matching Feature",
-    "link": "https://dev.to/arashjangali/contractr-project-update-implementing-the-matching-feature-29op",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (21-04-2023) - Foie Gras For Everybody",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-21-04-2023-foie-gras-for-everybody-51af",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to slugify a string in JavaScript",
-    "link": "https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript - OOP with Javascript",
-    "link": "https://dev.to/babeng/javascript-oops-with-javascript-1pa4",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging ReactJS Issues with ChatGPT: 50 Essential Tips and Examples",
-    "link": "https://dev.to/nilanth/debugging-reactjs-issues-with-chatgpt-50-essential-tips-and-examples-448",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Python V.S. Javascript: Which is Better for Webscraping?",
-    "link": "https://dev.to/jsquared/python-vs-javascript-which-is-better-for-webscraping-1dh0",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Secure Node.js Application: Best Practices and Tools",
-    "link": "https://dev.to/ahmadad62/prevent-common-nodejs-security-vulnerabilities-5d2o",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async and Await in JavaScript: Simplifying Asynchronous Programming",
-    "link": "https://dev.to/joepari_codes/async-and-await-in-javascript-simplifying-asynchronous-programming-4n47",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Spice Up Your Website with These Color-Related Functions",
-    "link": "https://dev.to/streetcommunityprogrammer/spice-up-your-website-with-these-color-related-functions-2e6j",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Create a Dynamic Gradient Color Generator with HTML, CSS, and JavaScript",
-    "link": "https://dev.to/incoderweb/create-a-dynamic-gradient-color-generator-with-html-css-and-javascript-39ka",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Tips for Optimizing ReactJS Performance and Building Lightning-Fast Applications",
-    "link": "https://dev.to/nilanth/5-tips-for-optimizing-reactjs-performance-and-building-lightning-fast-applications-254d",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Utilize o conceito de elevação de estado (lifting state up) para compartilhar dados entre componentes irmãos no React.",
-    "link": "https://dev.to/eliasgabriel1/utilize-o-conceito-de-elevacao-de-estado-lifting-state-up-para-compartilhar-dados-entre-componentes-irmaos-no-react-2cao",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Contractr Project Update: Implementing the Matching Feature",
-    "link": "https://dev.to/arashjangali/contractr-project-update-implementing-the-matching-feature-29op",
-    "date": "4/22/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "This week’s newsletter is out! (21-04-2023) - Foie Gras For Everybody",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-21-04-2023-foie-gras-for-everybody-51af",
+    "title": "Comment développer une extension Google Chrome.",
+    "link": "https://dev.to/audreymengue/comment-developper-une-extension-google-chrome-28a0",
     "date": "4/22/2023",
     "site": "dev.to"
   },
@@ -365,96 +455,6 @@
     "reading_time": "17 min read",
     "date": "4/21/2023",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "Staying Hydrated with JavaScript",
-    "link": "https://dev.to/mstelz/staying-hydrated-with-javascript-30gm",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Get network information using JavaScript",
-    "link": "https://dev.to/mohsindev369/get-network-information-using-javascript-fn4",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Above the Clouds With the New Enhance Landing Page",
-    "link": "https://dev.to/begin/above-the-clouds-with-the-new-enhance-landing-page-14ph",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Staying Hydrated with JavaScript",
-    "link": "https://dev.to/mstelz/staying-hydrated-with-javascript-30gm",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Get network information using JavaScript",
-    "link": "https://dev.to/mohsindev369/get-network-information-using-javascript-fn4",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Above the Clouds With the New Enhance Landing Page",
-    "link": "https://dev.to/begin/above-the-clouds-with-the-new-enhance-landing-page-14ph",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Staying Hydrated with JavaScript",
-    "link": "https://dev.to/mstelz/staying-hydrated-with-javascript-30gm",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Get network information using JavaScript",
-    "link": "https://dev.to/mohsindev369/get-network-information-using-javascript-fn4",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Above the Clouds With the New Enhance Landing Page",
-    "link": "https://dev.to/begin/above-the-clouds-with-the-new-enhance-landing-page-14ph",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Staying Hydrated with JavaScript",
-    "link": "https://dev.to/mstelz/staying-hydrated-with-javascript-30gm",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Get network information using JavaScript",
-    "link": "https://dev.to/mohsindev369/get-network-information-using-javascript-fn4",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Above the Clouds With the New Enhance Landing Page",
-    "link": "https://dev.to/begin/above-the-clouds-with-the-new-enhance-landing-page-14ph",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Staying Hydrated with JavaScript",
-    "link": "https://dev.to/mstelz/staying-hydrated-with-javascript-30gm",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Get network information using JavaScript",
-    "link": "https://dev.to/mohsindev369/get-network-information-using-javascript-fn4",
-    "date": "4/21/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Above the Clouds With the New Enhance Landing Page",
-    "link": "https://dev.to/begin/above-the-clouds-with-the-new-enhance-landing-page-14ph",
-    "date": "4/21/2023",
-    "site": "dev.to"
   },
   {
     "title": "Building And Dockerizing A Node.js App With Stateless Architecture With Help From Kinsta",
@@ -831,14 +831,14 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "23 min read",
+    "reading_time": "24 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -852,7 +852,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "7 min read",
+    "reading_time": "8 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
@@ -1083,14 +1083,14 @@
   {
     "title": "The Future Of Frontend Build Tools",
     "link": "https://www.smashingmagazine.com/2022/06/future-frontend-build-tools/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/9/2022",
     "site": "smashingmagazine"
   },
   {
     "title": "The Case For Prisma In The Jamstack",
     "link": "https://www.smashingmagazine.com/2022/06/case-prisma-jamstack/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "6/6/2022",
     "site": "smashingmagazine"
   },
@@ -1132,7 +1132,7 @@
   {
     "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
     "link": "https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "4/29/2022",
     "site": "smashingmagazine"
   },
