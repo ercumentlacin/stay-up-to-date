@@ -1,211 +1,451 @@
 [
   {
-    "title": "Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images",
-    "link": "https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0",
+    "title": "My Favorite Free Courses to Learn JavaScript in depth",
+    "link": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleash the Power of LangChain 🦜️🔗: 10 Cool Use Cases You Can Build.",
+    "link": "https://dev.to/codewithyaku/unleash-the-power-of-langchain-10-cool-use-cases-you-can-build-12bo",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Lifecycle Methods vs React Hooks: Do React Hooks Relate to Lifecycle Methods?",
+    "link": "https://dev.to/sanjampreetsingh/react-lifecycle-methods-vs-react-hooks-do-react-hooks-relate-to-lifecycle-methods-472h",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React, ReactDOM, and JSX Work Together?",
+    "link": "https://dev.to/tanmayabiswal/how-react-reactdom-and-jsx-work-together-2o9h",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "More \"FUN-ctions\"",
+    "link": "https://dev.to/aoppman/more-fun-ctions-3j77",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making Four-In-A-Row - Part 4: Winning Ways and Tedious Ties",
+    "link": "https://dev.to/colinkiama/making-four-in-a-row-part-4-winning-ways-and-tedious-ties-4115",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to configure vite.config.js with a service.js file for local development ( vue & vuetify )",
+    "link": "https://dev.to/fercarballo/how-to-configure-viteconfigjs-with-a-servicejs-file-for-local-development-vue-vuetify--8c5",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Installing and using Glint in Ember.js",
+    "link": "https://dev.to/charlesfries/installing-and-using-glint-in-emberjs-42i1",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Favorite Free Courses to Learn JavaScript in depth",
+    "link": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleash the Power of LangChain 🦜️🔗: 10 Cool Use Cases You Can Build.",
+    "link": "https://dev.to/codewithyaku/unleash-the-power-of-langchain-10-cool-use-cases-you-can-build-12bo",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Lifecycle Methods vs React Hooks: Do React Hooks Relate to Lifecycle Methods?",
+    "link": "https://dev.to/sanjampreetsingh/react-lifecycle-methods-vs-react-hooks-do-react-hooks-relate-to-lifecycle-methods-472h",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React, ReactDOM, and JSX Work Together?",
+    "link": "https://dev.to/tanmayabiswal/how-react-reactdom-and-jsx-work-together-2o9h",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "More \"FUN-ctions\"",
+    "link": "https://dev.to/aoppman/more-fun-ctions-3j77",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making Four-In-A-Row - Part 4: Winning Ways and Tedious Ties",
+    "link": "https://dev.to/colinkiama/making-four-in-a-row-part-4-winning-ways-and-tedious-ties-4115",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to configure vite.config.js with a service.js file for local development ( vue & vuetify )",
+    "link": "https://dev.to/fercarballo/how-to-configure-viteconfigjs-with-a-servicejs-file-for-local-development-vue-vuetify--8c5",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Installing and using Glint in Ember.js",
+    "link": "https://dev.to/charlesfries/installing-and-using-glint-in-emberjs-42i1",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Favorite Free Courses to Learn JavaScript in depth",
+    "link": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleash the Power of LangChain 🦜️🔗: 10 Cool Use Cases You Can Build.",
+    "link": "https://dev.to/codewithyaku/unleash-the-power-of-langchain-10-cool-use-cases-you-can-build-12bo",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Lifecycle Methods vs React Hooks: Do React Hooks Relate to Lifecycle Methods?",
+    "link": "https://dev.to/sanjampreetsingh/react-lifecycle-methods-vs-react-hooks-do-react-hooks-relate-to-lifecycle-methods-472h",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React, ReactDOM, and JSX Work Together?",
+    "link": "https://dev.to/tanmayabiswal/how-react-reactdom-and-jsx-work-together-2o9h",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "More \"FUN-ctions\"",
+    "link": "https://dev.to/aoppman/more-fun-ctions-3j77",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making Four-In-A-Row - Part 4: Winning Ways and Tedious Ties",
+    "link": "https://dev.to/colinkiama/making-four-in-a-row-part-4-winning-ways-and-tedious-ties-4115",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to configure vite.config.js with a service.js file for local development ( vue & vuetify )",
+    "link": "https://dev.to/fercarballo/how-to-configure-viteconfigjs-with-a-servicejs-file-for-local-development-vue-vuetify--8c5",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Installing and using Glint in Ember.js",
+    "link": "https://dev.to/charlesfries/installing-and-using-glint-in-emberjs-42i1",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Favorite Free Courses to Learn JavaScript in depth",
+    "link": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleash the Power of LangChain 🦜️🔗: 10 Cool Use Cases You Can Build.",
+    "link": "https://dev.to/codewithyaku/unleash-the-power-of-langchain-10-cool-use-cases-you-can-build-12bo",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Lifecycle Methods vs React Hooks: Do React Hooks Relate to Lifecycle Methods?",
+    "link": "https://dev.to/sanjampreetsingh/react-lifecycle-methods-vs-react-hooks-do-react-hooks-relate-to-lifecycle-methods-472h",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React, ReactDOM, and JSX Work Together?",
+    "link": "https://dev.to/tanmayabiswal/how-react-reactdom-and-jsx-work-together-2o9h",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "More \"FUN-ctions\"",
+    "link": "https://dev.to/aoppman/more-fun-ctions-3j77",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making Four-In-A-Row - Part 4: Winning Ways and Tedious Ties",
+    "link": "https://dev.to/colinkiama/making-four-in-a-row-part-4-winning-ways-and-tedious-ties-4115",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to configure vite.config.js with a service.js file for local development ( vue & vuetify )",
+    "link": "https://dev.to/fercarballo/how-to-configure-viteconfigjs-with-a-servicejs-file-for-local-development-vue-vuetify--8c5",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Installing and using Glint in Ember.js",
+    "link": "https://dev.to/charlesfries/installing-and-using-glint-in-emberjs-42i1",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Favorite Free Courses to Learn JavaScript in depth",
+    "link": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleash the Power of LangChain 🦜️🔗: 10 Cool Use Cases You Can Build.",
+    "link": "https://dev.to/codewithyaku/unleash-the-power-of-langchain-10-cool-use-cases-you-can-build-12bo",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Lifecycle Methods vs React Hooks: Do React Hooks Relate to Lifecycle Methods?",
+    "link": "https://dev.to/sanjampreetsingh/react-lifecycle-methods-vs-react-hooks-do-react-hooks-relate-to-lifecycle-methods-472h",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React, ReactDOM, and JSX Work Together?",
+    "link": "https://dev.to/tanmayabiswal/how-react-reactdom-and-jsx-work-together-2o9h",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "More \"FUN-ctions\"",
+    "link": "https://dev.to/aoppman/more-fun-ctions-3j77",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making Four-In-A-Row - Part 4: Winning Ways and Tedious Ties",
+    "link": "https://dev.to/colinkiama/making-four-in-a-row-part-4-winning-ways-and-tedious-ties-4115",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to configure vite.config.js with a service.js file for local development ( vue & vuetify )",
+    "link": "https://dev.to/fercarballo/how-to-configure-viteconfigjs-with-a-servicejs-file-for-local-development-vue-vuetify--8c5",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Installing and using Glint in Ember.js",
+    "link": "https://dev.to/charlesfries/installing-and-using-glint-in-emberjs-42i1",
+    "date": "4/30/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use AI to Give Yourself a Haircut: a Complete Guide to StyleCLIP",
+    "link": "https://dev.to/mikeyoung44/how-to-use-ai-to-give-yourself-a-haircut-a-complete-guide-to-styleclip-123d",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "Building a SolidJS App With SolidStart From Scratch",
-    "link": "https://dev.to/tahazsh/building-a-solidjs-app-with-solidstart-from-scratch-2m5c",
+    "title": "Backend Developer roadmap",
+    "link": "https://dev.to/unpandadev/backend-developer-roadmap-480",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "What are Pure and Impure functions in JavaScript",
-    "link": "https://dev.to/chanchals7/what-are-pure-and-impure-functions-in-javascript-52d6",
+    "title": "The NoBS stack",
+    "link": "https://dev.to/adam_cyclones/the-nobs-stack-21lp",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (29-04-2023) - Cauldron of Synchronicities",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-29-04-2023-cauldron-of-synchronicities-5gd7",
+    "title": "Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes",
+    "link": "https://dev.to/alexmacarthur/why-i-like-using-maps-and-weakmaps-for-handling-dom-nodes-3k58",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "test",
-    "link": "https://dev.to/hafidjr/test-2he9",
+    "title": "Make salary calculator using Chat GPT and Excel",
+    "link": "https://dev.to/mizanur919/make-salary-calculator-using-chat-gpt-and-excel-4jeb",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "I made a todo-list with Preact",
-    "link": "https://dev.to/faizbyp/i-made-a-todo-list-with-preact-26oj",
+    "title": "Microsoft Azure Arc-Enabled Infrastructure Introduction and Implementation Process",
+    "link": "https://dev.to/sardarmudassaralikhan/microsoft-azure-arc-enabled-infrastructure-introduction-and-implementation-process-3ipc",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "useEffect(): Making Side Effects More Manageable in React Apps Since 2019",
-    "link": "https://dev.to/lslayman/useeffect-making-side-effects-more-manageable-in-react-apps-since-2019-eem",
+    "title": "Using Redux Toolkit, and differences with action creators, state updates, and async actions",
+    "link": "https://dev.to/williamluck/using-redux-toolkit-and-differences-with-action-creators-state-updates-and-async-actions-22fc",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images",
-    "link": "https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0",
+    "title": "How to Use AI to Give Yourself a Haircut: a Complete Guide to StyleCLIP",
+    "link": "https://dev.to/mikeyoung44/how-to-use-ai-to-give-yourself-a-haircut-a-complete-guide-to-styleclip-123d",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "Building a SolidJS App With SolidStart From Scratch",
-    "link": "https://dev.to/tahazsh/building-a-solidjs-app-with-solidstart-from-scratch-2m5c",
+    "title": "Backend Developer roadmap",
+    "link": "https://dev.to/unpandadev/backend-developer-roadmap-480",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "What are Pure and Impure functions in JavaScript",
-    "link": "https://dev.to/chanchals7/what-are-pure-and-impure-functions-in-javascript-52d6",
+    "title": "The NoBS stack",
+    "link": "https://dev.to/adam_cyclones/the-nobs-stack-21lp",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (29-04-2023) - Cauldron of Synchronicities",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-29-04-2023-cauldron-of-synchronicities-5gd7",
+    "title": "Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes",
+    "link": "https://dev.to/alexmacarthur/why-i-like-using-maps-and-weakmaps-for-handling-dom-nodes-3k58",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "test",
-    "link": "https://dev.to/hafidjr/test-2he9",
+    "title": "Make salary calculator using Chat GPT and Excel",
+    "link": "https://dev.to/mizanur919/make-salary-calculator-using-chat-gpt-and-excel-4jeb",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "I made a todo-list with Preact",
-    "link": "https://dev.to/faizbyp/i-made-a-todo-list-with-preact-26oj",
+    "title": "Microsoft Azure Arc-Enabled Infrastructure Introduction and Implementation Process",
+    "link": "https://dev.to/sardarmudassaralikhan/microsoft-azure-arc-enabled-infrastructure-introduction-and-implementation-process-3ipc",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "useEffect(): Making Side Effects More Manageable in React Apps Since 2019",
-    "link": "https://dev.to/lslayman/useeffect-making-side-effects-more-manageable-in-react-apps-since-2019-eem",
+    "title": "Using Redux Toolkit, and differences with action creators, state updates, and async actions",
+    "link": "https://dev.to/williamluck/using-redux-toolkit-and-differences-with-action-creators-state-updates-and-async-actions-22fc",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images",
-    "link": "https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0",
+    "title": "How to Use AI to Give Yourself a Haircut: a Complete Guide to StyleCLIP",
+    "link": "https://dev.to/mikeyoung44/how-to-use-ai-to-give-yourself-a-haircut-a-complete-guide-to-styleclip-123d",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "Building a SolidJS App With SolidStart From Scratch",
-    "link": "https://dev.to/tahazsh/building-a-solidjs-app-with-solidstart-from-scratch-2m5c",
+    "title": "Backend Developer roadmap",
+    "link": "https://dev.to/unpandadev/backend-developer-roadmap-480",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "What are Pure and Impure functions in JavaScript",
-    "link": "https://dev.to/chanchals7/what-are-pure-and-impure-functions-in-javascript-52d6",
+    "title": "The NoBS stack",
+    "link": "https://dev.to/adam_cyclones/the-nobs-stack-21lp",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (29-04-2023) - Cauldron of Synchronicities",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-29-04-2023-cauldron-of-synchronicities-5gd7",
+    "title": "Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes",
+    "link": "https://dev.to/alexmacarthur/why-i-like-using-maps-and-weakmaps-for-handling-dom-nodes-3k58",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "test",
-    "link": "https://dev.to/hafidjr/test-2he9",
+    "title": "Make salary calculator using Chat GPT and Excel",
+    "link": "https://dev.to/mizanur919/make-salary-calculator-using-chat-gpt-and-excel-4jeb",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "I made a todo-list with Preact",
-    "link": "https://dev.to/faizbyp/i-made-a-todo-list-with-preact-26oj",
+    "title": "Microsoft Azure Arc-Enabled Infrastructure Introduction and Implementation Process",
+    "link": "https://dev.to/sardarmudassaralikhan/microsoft-azure-arc-enabled-infrastructure-introduction-and-implementation-process-3ipc",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "useEffect(): Making Side Effects More Manageable in React Apps Since 2019",
-    "link": "https://dev.to/lslayman/useeffect-making-side-effects-more-manageable-in-react-apps-since-2019-eem",
+    "title": "Using Redux Toolkit, and differences with action creators, state updates, and async actions",
+    "link": "https://dev.to/williamluck/using-redux-toolkit-and-differences-with-action-creators-state-updates-and-async-actions-22fc",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images",
-    "link": "https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0",
+    "title": "How to Use AI to Give Yourself a Haircut: a Complete Guide to StyleCLIP",
+    "link": "https://dev.to/mikeyoung44/how-to-use-ai-to-give-yourself-a-haircut-a-complete-guide-to-styleclip-123d",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "Building a SolidJS App With SolidStart From Scratch",
-    "link": "https://dev.to/tahazsh/building-a-solidjs-app-with-solidstart-from-scratch-2m5c",
+    "title": "Backend Developer roadmap",
+    "link": "https://dev.to/unpandadev/backend-developer-roadmap-480",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "What are Pure and Impure functions in JavaScript",
-    "link": "https://dev.to/chanchals7/what-are-pure-and-impure-functions-in-javascript-52d6",
+    "title": "The NoBS stack",
+    "link": "https://dev.to/adam_cyclones/the-nobs-stack-21lp",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (29-04-2023) - Cauldron of Synchronicities",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-29-04-2023-cauldron-of-synchronicities-5gd7",
+    "title": "Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes",
+    "link": "https://dev.to/alexmacarthur/why-i-like-using-maps-and-weakmaps-for-handling-dom-nodes-3k58",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "test",
-    "link": "https://dev.to/hafidjr/test-2he9",
+    "title": "Make salary calculator using Chat GPT and Excel",
+    "link": "https://dev.to/mizanur919/make-salary-calculator-using-chat-gpt-and-excel-4jeb",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "I made a todo-list with Preact",
-    "link": "https://dev.to/faizbyp/i-made-a-todo-list-with-preact-26oj",
+    "title": "Microsoft Azure Arc-Enabled Infrastructure Introduction and Implementation Process",
+    "link": "https://dev.to/sardarmudassaralikhan/microsoft-azure-arc-enabled-infrastructure-introduction-and-implementation-process-3ipc",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "useEffect(): Making Side Effects More Manageable in React Apps Since 2019",
-    "link": "https://dev.to/lslayman/useeffect-making-side-effects-more-manageable-in-react-apps-since-2019-eem",
+    "title": "Using Redux Toolkit, and differences with action creators, state updates, and async actions",
+    "link": "https://dev.to/williamluck/using-redux-toolkit-and-differences-with-action-creators-state-updates-and-async-actions-22fc",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images",
-    "link": "https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0",
+    "title": "How to Use AI to Give Yourself a Haircut: a Complete Guide to StyleCLIP",
+    "link": "https://dev.to/mikeyoung44/how-to-use-ai-to-give-yourself-a-haircut-a-complete-guide-to-styleclip-123d",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "Building a SolidJS App With SolidStart From Scratch",
-    "link": "https://dev.to/tahazsh/building-a-solidjs-app-with-solidstart-from-scratch-2m5c",
+    "title": "Backend Developer roadmap",
+    "link": "https://dev.to/unpandadev/backend-developer-roadmap-480",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "What are Pure and Impure functions in JavaScript",
-    "link": "https://dev.to/chanchals7/what-are-pure-and-impure-functions-in-javascript-52d6",
+    "title": "The NoBS stack",
+    "link": "https://dev.to/adam_cyclones/the-nobs-stack-21lp",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "This week’s newsletter is out! (29-04-2023) - Cauldron of Synchronicities",
-    "link": "https://dev.to/mjgs/this-weeks-newsletter-is-out-29-04-2023-cauldron-of-synchronicities-5gd7",
+    "title": "Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes",
+    "link": "https://dev.to/alexmacarthur/why-i-like-using-maps-and-weakmaps-for-handling-dom-nodes-3k58",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "test",
-    "link": "https://dev.to/hafidjr/test-2he9",
+    "title": "Make salary calculator using Chat GPT and Excel",
+    "link": "https://dev.to/mizanur919/make-salary-calculator-using-chat-gpt-and-excel-4jeb",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "I made a todo-list with Preact",
-    "link": "https://dev.to/faizbyp/i-made-a-todo-list-with-preact-26oj",
+    "title": "Microsoft Azure Arc-Enabled Infrastructure Introduction and Implementation Process",
+    "link": "https://dev.to/sardarmudassaralikhan/microsoft-azure-arc-enabled-infrastructure-introduction-and-implementation-process-3ipc",
     "date": "4/29/2023",
     "site": "dev.to"
   },
   {
-    "title": "useEffect(): Making Side Effects More Manageable in React Apps Since 2019",
-    "link": "https://dev.to/lslayman/useeffect-making-side-effects-more-manageable-in-react-apps-since-2019-eem",
+    "title": "Using Redux Toolkit, and differences with action creators, state updates, and async actions",
+    "link": "https://dev.to/williamluck/using-redux-toolkit-and-differences-with-action-creators-state-updates-and-async-actions-22fc",
     "date": "4/29/2023",
     "site": "dev.to"
   },
@@ -215,246 +455,6 @@
     "reading_time": "8 min read",
     "date": "4/28/2023",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "How To install React and create your First app",
-    "link": "https://dev.to/gaius_001/to-install-react-and-create-your-first-app-50pp",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "NEXT JS",
-    "link": "https://dev.to/paulynson/next-js-26bk",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use psuedocode to quickly learn React",
-    "link": "https://dev.to/mcwhopper63/use-psuedocode-to-quickly-learn-react-2jbi",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Internationalization: Making Your Web App Accessible to Everyone 🌍",
-    "link": "https://dev.to/sajidrsk/internationalization-making-your-web-app-accessible-to-everyone-3ndp",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript: A Strongly Typed Hero for Production-Grade Web Apps 🦸‍♂️",
-    "link": "https://dev.to/sajidrsk/typescript-a-strongly-typed-hero-for-production-grade-web-apps-46ec",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a generated honeycomb card with html, css, js.",
-    "link": "https://dev.to/joanverhulst/creating-a-generated-honeycomb-card-with-html-css-js-2dep",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding how React handles state updates.",
-    "link": "https://dev.to/anmoltiwari-dev/understanding-how-react-handles-state-updates-bg0",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Resolvendo problemas no HackerRank: A grade de pesquisa",
-    "link": "https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-grade-de-pesquisa-dpa",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To install React and create your First app",
-    "link": "https://dev.to/gaius_001/to-install-react-and-create-your-first-app-50pp",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "NEXT JS",
-    "link": "https://dev.to/paulynson/next-js-26bk",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use psuedocode to quickly learn React",
-    "link": "https://dev.to/mcwhopper63/use-psuedocode-to-quickly-learn-react-2jbi",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Internationalization: Making Your Web App Accessible to Everyone 🌍",
-    "link": "https://dev.to/sajidrsk/internationalization-making-your-web-app-accessible-to-everyone-3ndp",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript: A Strongly Typed Hero for Production-Grade Web Apps 🦸‍♂️",
-    "link": "https://dev.to/sajidrsk/typescript-a-strongly-typed-hero-for-production-grade-web-apps-46ec",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a generated honeycomb card with html, css, js.",
-    "link": "https://dev.to/joanverhulst/creating-a-generated-honeycomb-card-with-html-css-js-2dep",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding how React handles state updates.",
-    "link": "https://dev.to/anmoltiwari-dev/understanding-how-react-handles-state-updates-bg0",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Resolvendo problemas no HackerRank: A grade de pesquisa",
-    "link": "https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-grade-de-pesquisa-dpa",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To install React and create your First app",
-    "link": "https://dev.to/gaius_001/to-install-react-and-create-your-first-app-50pp",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "NEXT JS",
-    "link": "https://dev.to/paulynson/next-js-26bk",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use psuedocode to quickly learn React",
-    "link": "https://dev.to/mcwhopper63/use-psuedocode-to-quickly-learn-react-2jbi",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Internationalization: Making Your Web App Accessible to Everyone 🌍",
-    "link": "https://dev.to/sajidrsk/internationalization-making-your-web-app-accessible-to-everyone-3ndp",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript: A Strongly Typed Hero for Production-Grade Web Apps 🦸‍♂️",
-    "link": "https://dev.to/sajidrsk/typescript-a-strongly-typed-hero-for-production-grade-web-apps-46ec",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a generated honeycomb card with html, css, js.",
-    "link": "https://dev.to/joanverhulst/creating-a-generated-honeycomb-card-with-html-css-js-2dep",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding how React handles state updates.",
-    "link": "https://dev.to/anmoltiwari-dev/understanding-how-react-handles-state-updates-bg0",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Resolvendo problemas no HackerRank: A grade de pesquisa",
-    "link": "https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-grade-de-pesquisa-dpa",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To install React and create your First app",
-    "link": "https://dev.to/gaius_001/to-install-react-and-create-your-first-app-50pp",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "NEXT JS",
-    "link": "https://dev.to/paulynson/next-js-26bk",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use psuedocode to quickly learn React",
-    "link": "https://dev.to/mcwhopper63/use-psuedocode-to-quickly-learn-react-2jbi",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Internationalization: Making Your Web App Accessible to Everyone 🌍",
-    "link": "https://dev.to/sajidrsk/internationalization-making-your-web-app-accessible-to-everyone-3ndp",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript: A Strongly Typed Hero for Production-Grade Web Apps 🦸‍♂️",
-    "link": "https://dev.to/sajidrsk/typescript-a-strongly-typed-hero-for-production-grade-web-apps-46ec",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a generated honeycomb card with html, css, js.",
-    "link": "https://dev.to/joanverhulst/creating-a-generated-honeycomb-card-with-html-css-js-2dep",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding how React handles state updates.",
-    "link": "https://dev.to/anmoltiwari-dev/understanding-how-react-handles-state-updates-bg0",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Resolvendo problemas no HackerRank: A grade de pesquisa",
-    "link": "https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-grade-de-pesquisa-dpa",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To install React and create your First app",
-    "link": "https://dev.to/gaius_001/to-install-react-and-create-your-first-app-50pp",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "NEXT JS",
-    "link": "https://dev.to/paulynson/next-js-26bk",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use psuedocode to quickly learn React",
-    "link": "https://dev.to/mcwhopper63/use-psuedocode-to-quickly-learn-react-2jbi",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Internationalization: Making Your Web App Accessible to Everyone 🌍",
-    "link": "https://dev.to/sajidrsk/internationalization-making-your-web-app-accessible-to-everyone-3ndp",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript: A Strongly Typed Hero for Production-Grade Web Apps 🦸‍♂️",
-    "link": "https://dev.to/sajidrsk/typescript-a-strongly-typed-hero-for-production-grade-web-apps-46ec",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a generated honeycomb card with html, css, js.",
-    "link": "https://dev.to/joanverhulst/creating-a-generated-honeycomb-card-with-html-css-js-2dep",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding how React handles state updates.",
-    "link": "https://dev.to/anmoltiwari-dev/understanding-how-react-handles-state-updates-bg0",
-    "date": "4/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Resolvendo problemas no HackerRank: A grade de pesquisa",
-    "link": "https://dev.to/altencirsilvajr/resolvendo-problemas-no-hackerrank-a-grade-de-pesquisa-dpa",
-    "date": "4/28/2023",
-    "site": "dev.to"
   },
   {
     "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
@@ -1104,7 +1104,7 @@
   {
     "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
     "link": "https://www.smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "6/2/2022",
     "site": "smashingmagazine"
   },
