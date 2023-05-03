@@ -1,49 +1,403 @@
 [
   {
+    "title": "Closures",
+    "link": "https://dev.to/chiboycalix/closures-fad",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Report Designer to a JavaScript Application",
+    "link": "https://dev.to/boldreports/how-to-add-report-designer-to-a-javascript-application-2kh3",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Help with Chart js React",
+    "link": "https://dev.to/sam16/help-with-chart-js-react-1pj",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Chance.js and Fony.js in your SQL queries😎",
+    "link": "https://dev.to/loiclefevre/use-chancejs-and-fonyjs-in-your-sql-queries-59f3",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeJS Stream Processing: Build a Simple multipart/form-data parser",
+    "link": "https://dev.to/eunovo/nodejs-stream-processing-build-a-simple-multipartform-data-parser-lmn",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a React Timer",
+    "link": "https://dev.to/rayalva407/creating-a-react-timer-ki0",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "سناب تيوب",
+    "link": "https://dev.to/an1web/snb-tywb-1e58",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pagination with the Rick and Morty API",
+    "link": "https://dev.to/rayalva407/pagination-with-the-rick-and-morty-api-4ln",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join the Angular v16/17 Development: — Discover How to Collaborate with the Angular Team!",
+    "link": "https://dev.to/this-is-angular/join-the-angular-v1617-development-discover-how-to-collaborate-with-the-angular-team-4nm7",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Integrating ESRI Maps into your React App",
+    "link": "https://dev.to/imkarthikeyan/integrating-esri-maps-into-your-react-app-2e1h",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Stopwatch",
+    "link": "https://dev.to/rayalva407/react-stopwatch-4hbp",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding JavaScript Closures",
+    "link": "https://dev.to/rayalva407/understanding-javascript-closures-1ej4",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The ultimate guide to setting up Google Translate’s glossaries in JavaScript",
+    "link": "https://dev.to/swekage/the-ultimate-guide-to-setting-up-google-translates-glossaries-in-javascript-3bd2",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Closures",
+    "link": "https://dev.to/chiboycalix/closures-fad",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Report Designer to a JavaScript Application",
+    "link": "https://dev.to/boldreports/how-to-add-report-designer-to-a-javascript-application-2kh3",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Help with Chart js React",
+    "link": "https://dev.to/sam16/help-with-chart-js-react-1pj",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Chance.js and Fony.js in your SQL queries😎",
+    "link": "https://dev.to/loiclefevre/use-chancejs-and-fonyjs-in-your-sql-queries-59f3",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeJS Stream Processing: Build a Simple multipart/form-data parser",
+    "link": "https://dev.to/eunovo/nodejs-stream-processing-build-a-simple-multipartform-data-parser-lmn",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a React Timer",
+    "link": "https://dev.to/rayalva407/creating-a-react-timer-ki0",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "سناب تيوب",
+    "link": "https://dev.to/an1web/snb-tywb-1e58",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pagination with the Rick and Morty API",
+    "link": "https://dev.to/rayalva407/pagination-with-the-rick-and-morty-api-4ln",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join the Angular v16/17 Development: — Discover How to Collaborate with the Angular Team!",
+    "link": "https://dev.to/this-is-angular/join-the-angular-v1617-development-discover-how-to-collaborate-with-the-angular-team-4nm7",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Integrating ESRI Maps into your React App",
+    "link": "https://dev.to/imkarthikeyan/integrating-esri-maps-into-your-react-app-2e1h",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Stopwatch",
+    "link": "https://dev.to/rayalva407/react-stopwatch-4hbp",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding JavaScript Closures",
+    "link": "https://dev.to/rayalva407/understanding-javascript-closures-1ej4",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The ultimate guide to setting up Google Translate’s glossaries in JavaScript",
+    "link": "https://dev.to/swekage/the-ultimate-guide-to-setting-up-google-translates-glossaries-in-javascript-3bd2",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Closures",
+    "link": "https://dev.to/chiboycalix/closures-fad",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Report Designer to a JavaScript Application",
+    "link": "https://dev.to/boldreports/how-to-add-report-designer-to-a-javascript-application-2kh3",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Help with Chart js React",
+    "link": "https://dev.to/sam16/help-with-chart-js-react-1pj",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Chance.js and Fony.js in your SQL queries😎",
+    "link": "https://dev.to/loiclefevre/use-chancejs-and-fonyjs-in-your-sql-queries-59f3",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeJS Stream Processing: Build a Simple multipart/form-data parser",
+    "link": "https://dev.to/eunovo/nodejs-stream-processing-build-a-simple-multipartform-data-parser-lmn",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a React Timer",
+    "link": "https://dev.to/rayalva407/creating-a-react-timer-ki0",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "سناب تيوب",
+    "link": "https://dev.to/an1web/snb-tywb-1e58",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pagination with the Rick and Morty API",
+    "link": "https://dev.to/rayalva407/pagination-with-the-rick-and-morty-api-4ln",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join the Angular v16/17 Development: — Discover How to Collaborate with the Angular Team!",
+    "link": "https://dev.to/this-is-angular/join-the-angular-v1617-development-discover-how-to-collaborate-with-the-angular-team-4nm7",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Integrating ESRI Maps into your React App",
+    "link": "https://dev.to/imkarthikeyan/integrating-esri-maps-into-your-react-app-2e1h",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Stopwatch",
+    "link": "https://dev.to/rayalva407/react-stopwatch-4hbp",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding JavaScript Closures",
+    "link": "https://dev.to/rayalva407/understanding-javascript-closures-1ej4",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The ultimate guide to setting up Google Translate’s glossaries in JavaScript",
+    "link": "https://dev.to/swekage/the-ultimate-guide-to-setting-up-google-translates-glossaries-in-javascript-3bd2",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Closures",
+    "link": "https://dev.to/chiboycalix/closures-fad",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Report Designer to a JavaScript Application",
+    "link": "https://dev.to/boldreports/how-to-add-report-designer-to-a-javascript-application-2kh3",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Help with Chart js React",
+    "link": "https://dev.to/sam16/help-with-chart-js-react-1pj",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Chance.js and Fony.js in your SQL queries😎",
+    "link": "https://dev.to/loiclefevre/use-chancejs-and-fonyjs-in-your-sql-queries-59f3",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeJS Stream Processing: Build a Simple multipart/form-data parser",
+    "link": "https://dev.to/eunovo/nodejs-stream-processing-build-a-simple-multipartform-data-parser-lmn",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a React Timer",
+    "link": "https://dev.to/rayalva407/creating-a-react-timer-ki0",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "سناب تيوب",
+    "link": "https://dev.to/an1web/snb-tywb-1e58",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pagination with the Rick and Morty API",
+    "link": "https://dev.to/rayalva407/pagination-with-the-rick-and-morty-api-4ln",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join the Angular v16/17 Development: — Discover How to Collaborate with the Angular Team!",
+    "link": "https://dev.to/this-is-angular/join-the-angular-v1617-development-discover-how-to-collaborate-with-the-angular-team-4nm7",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Integrating ESRI Maps into your React App",
+    "link": "https://dev.to/imkarthikeyan/integrating-esri-maps-into-your-react-app-2e1h",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Stopwatch",
+    "link": "https://dev.to/rayalva407/react-stopwatch-4hbp",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding JavaScript Closures",
+    "link": "https://dev.to/rayalva407/understanding-javascript-closures-1ej4",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The ultimate guide to setting up Google Translate’s glossaries in JavaScript",
+    "link": "https://dev.to/swekage/the-ultimate-guide-to-setting-up-google-translates-glossaries-in-javascript-3bd2",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Closures",
+    "link": "https://dev.to/chiboycalix/closures-fad",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Report Designer to a JavaScript Application",
+    "link": "https://dev.to/boldreports/how-to-add-report-designer-to-a-javascript-application-2kh3",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Help with Chart js React",
+    "link": "https://dev.to/sam16/help-with-chart-js-react-1pj",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use Chance.js and Fony.js in your SQL queries😎",
+    "link": "https://dev.to/loiclefevre/use-chancejs-and-fonyjs-in-your-sql-queries-59f3",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeJS Stream Processing: Build a Simple multipart/form-data parser",
+    "link": "https://dev.to/eunovo/nodejs-stream-processing-build-a-simple-multipartform-data-parser-lmn",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a React Timer",
+    "link": "https://dev.to/rayalva407/creating-a-react-timer-ki0",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "سناب تيوب",
+    "link": "https://dev.to/an1web/snb-tywb-1e58",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pagination with the Rick and Morty API",
+    "link": "https://dev.to/rayalva407/pagination-with-the-rick-and-morty-api-4ln",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join the Angular v16/17 Development: — Discover How to Collaborate with the Angular Team!",
+    "link": "https://dev.to/this-is-angular/join-the-angular-v1617-development-discover-how-to-collaborate-with-the-angular-team-4nm7",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Integrating ESRI Maps into your React App",
+    "link": "https://dev.to/imkarthikeyan/integrating-esri-maps-into-your-react-app-2e1h",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Stopwatch",
+    "link": "https://dev.to/rayalva407/react-stopwatch-4hbp",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding JavaScript Closures",
+    "link": "https://dev.to/rayalva407/understanding-javascript-closures-1ej4",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The ultimate guide to setting up Google Translate’s glossaries in JavaScript",
+    "link": "https://dev.to/swekage/the-ultimate-guide-to-setting-up-google-translates-glossaries-in-javascript-3bd2",
+    "date": "5/3/2023",
+    "site": "dev.to"
+  },
+  {
     "title": "⭐ An open-source tool for building React enterprise apps effortlessly in your browser",
     "link": "https://dev.to/necatiozmen/an-open-source-tool-for-building-react-enterprise-apps-effortlessly-in-your-browser-1gj7",
     "date": "5/2/2023",
     "site": "dev.to"
   },
   {
-    "title": "Optimize your Angular app's user experience with preloading strategies",
-    "link": "https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3ie7",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript before Framework: Iterating through a multidimensional array using JavaScript.",
-    "link": "https://dev.to/aysha/javascript-before-framework-iterating-through-a-multidimensional-array-using-javascript-22gp",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Short Story of JavaScript",
-    "link": "https://dev.to/akgoze/the-short-story-of-javascript-2k65",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Garbage collection",
-    "link": "https://dev.to/muhmmadawd/garbage-collection-10n9",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "ReactJS Props",
-    "link": "https://dev.to/mataoseeker/reactjs-props-4bim",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to integrate line chart in card [React]",
-    "link": "https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "All You Need to Know About Props in React",
-    "link": "https://dev.to/debajit13/all-you-need-to-know-about-props-in-react-1l40",
+    "title": "SET UP 2FA IN NODE.JS WITH SPEAKEASY",
+    "link": "https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389",
     "date": "5/2/2023",
     "site": "dev.to"
   },
@@ -54,44 +408,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Optimize your Angular app's user experience with preloading strategies",
-    "link": "https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3ie7",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript before Framework: Iterating through a multidimensional array using JavaScript.",
-    "link": "https://dev.to/aysha/javascript-before-framework-iterating-through-a-multidimensional-array-using-javascript-22gp",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Short Story of JavaScript",
-    "link": "https://dev.to/akgoze/the-short-story-of-javascript-2k65",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Garbage collection",
-    "link": "https://dev.to/muhmmadawd/garbage-collection-10n9",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "ReactJS Props",
-    "link": "https://dev.to/mataoseeker/reactjs-props-4bim",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to integrate line chart in card [React]",
-    "link": "https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "All You Need to Know About Props in React",
-    "link": "https://dev.to/debajit13/all-you-need-to-know-about-props-in-react-1l40",
+    "title": "SET UP 2FA IN NODE.JS WITH SPEAKEASY",
+    "link": "https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389",
     "date": "5/2/2023",
     "site": "dev.to"
   },
@@ -102,44 +420,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Optimize your Angular app's user experience with preloading strategies",
-    "link": "https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3ie7",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript before Framework: Iterating through a multidimensional array using JavaScript.",
-    "link": "https://dev.to/aysha/javascript-before-framework-iterating-through-a-multidimensional-array-using-javascript-22gp",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Short Story of JavaScript",
-    "link": "https://dev.to/akgoze/the-short-story-of-javascript-2k65",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Garbage collection",
-    "link": "https://dev.to/muhmmadawd/garbage-collection-10n9",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "ReactJS Props",
-    "link": "https://dev.to/mataoseeker/reactjs-props-4bim",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to integrate line chart in card [React]",
-    "link": "https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "All You Need to Know About Props in React",
-    "link": "https://dev.to/debajit13/all-you-need-to-know-about-props-in-react-1l40",
+    "title": "SET UP 2FA IN NODE.JS WITH SPEAKEASY",
+    "link": "https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389",
     "date": "5/2/2023",
     "site": "dev.to"
   },
@@ -150,44 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Optimize your Angular app's user experience with preloading strategies",
-    "link": "https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3ie7",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript before Framework: Iterating through a multidimensional array using JavaScript.",
-    "link": "https://dev.to/aysha/javascript-before-framework-iterating-through-a-multidimensional-array-using-javascript-22gp",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Short Story of JavaScript",
-    "link": "https://dev.to/akgoze/the-short-story-of-javascript-2k65",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Garbage collection",
-    "link": "https://dev.to/muhmmadawd/garbage-collection-10n9",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "ReactJS Props",
-    "link": "https://dev.to/mataoseeker/reactjs-props-4bim",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to integrate line chart in card [React]",
-    "link": "https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "All You Need to Know About Props in React",
-    "link": "https://dev.to/debajit13/all-you-need-to-know-about-props-in-react-1l40",
+    "title": "SET UP 2FA IN NODE.JS WITH SPEAKEASY",
+    "link": "https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389",
     "date": "5/2/2023",
     "site": "dev.to"
   },
@@ -198,44 +444,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Optimize your Angular app's user experience with preloading strategies",
-    "link": "https://dev.to/this-is-angular/optimize-your-angular-apps-user-experience-with-preloading-strategies-3ie7",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript before Framework: Iterating through a multidimensional array using JavaScript.",
-    "link": "https://dev.to/aysha/javascript-before-framework-iterating-through-a-multidimensional-array-using-javascript-22gp",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Short Story of JavaScript",
-    "link": "https://dev.to/akgoze/the-short-story-of-javascript-2k65",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Garbage collection",
-    "link": "https://dev.to/muhmmadawd/garbage-collection-10n9",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "ReactJS Props",
-    "link": "https://dev.to/mataoseeker/reactjs-props-4bim",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to integrate line chart in card [React]",
-    "link": "https://dev.to/whoismaruf/how-to-integrate-line-chart-in-card-react-28do",
-    "date": "5/2/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "All You Need to Know About Props in React",
-    "link": "https://dev.to/debajit13/all-you-need-to-know-about-props-in-react-1l40",
+    "title": "SET UP 2FA IN NODE.JS WITH SPEAKEASY",
+    "link": "https://dev.to/candie_code/set-up-2fa-in-nodejs-with-speakeasy-3389",
     "date": "5/2/2023",
     "site": "dev.to"
   },
@@ -246,46 +456,10 @@
     "site": "hashnode"
   },
   {
-    "title": "Aspiring Web developer",
-    "link": "https://dev.to/ahmedlutfy99/aspiring-web-developer-3151",
+    "title": "Going further with Playwright",
+    "link": "https://madelinecaples.hashnode.dev/going-further-with-playwright",
     "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js vs. Python: Which one is better for web development?",
-    "link": "https://dev.to/owoyomi20/nodejs-vs-python-which-one-is-better-for-web-development-1an7",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Я хотел улучшить React",
-    "link": "https://dev.to/isumix/ia-khotiel-uluchshit-react-23mj",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a beautiful fireworks animation using only HTML5 Canvas Element and JavaScript",
-    "link": "https://dev.to/shrutikapoor08/build-a-beautiful-fireworks-animation-using-only-html5-canvas-element-and-javascript-4e1h",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Teri Meri Dooriyan",
-    "link": "https://dev.to/aslamkhan123/teri-meri-dooriyan-1fj8",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Enviando arquivos para o Amazon S3 via github actions com uma action personalizada",
-    "link": "https://dev.to/wandpsilva/enviando-arquivos-para-o-amazon-s3-via-github-actions-com-uma-action-personalizada-2h78",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping shirts slowly, then faster, with a unique Vue frontend",
-    "link": "https://dev.to/carthurhill/shipping-shirts-slowly-then-faster-with-a-unique-vue-frontend-mh",
-    "date": "5/1/2023",
-    "site": "dev.to"
+    "site": "hashnode"
   },
   {
     "title": "Going further with Playwright",
@@ -294,190 +468,16 @@
     "site": "hashnode"
   },
   {
-    "title": "Aspiring Web developer",
-    "link": "https://dev.to/ahmedlutfy99/aspiring-web-developer-3151",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js vs. Python: Which one is better for web development?",
-    "link": "https://dev.to/owoyomi20/nodejs-vs-python-which-one-is-better-for-web-development-1an7",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Я хотел улучшить React",
-    "link": "https://dev.to/isumix/ia-khotiel-uluchshit-react-23mj",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a beautiful fireworks animation using only HTML5 Canvas Element and JavaScript",
-    "link": "https://dev.to/shrutikapoor08/build-a-beautiful-fireworks-animation-using-only-html5-canvas-element-and-javascript-4e1h",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Teri Meri Dooriyan",
-    "link": "https://dev.to/aslamkhan123/teri-meri-dooriyan-1fj8",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Enviando arquivos para o Amazon S3 via github actions com uma action personalizada",
-    "link": "https://dev.to/wandpsilva/enviando-arquivos-para-o-amazon-s3-via-github-actions-com-uma-action-personalizada-2h78",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping shirts slowly, then faster, with a unique Vue frontend",
-    "link": "https://dev.to/carthurhill/shipping-shirts-slowly-then-faster-with-a-unique-vue-frontend-mh",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "Going further with Playwright",
     "link": "https://madelinecaples.hashnode.dev/going-further-with-playwright",
     "date": "5/1/2023",
     "site": "hashnode"
   },
   {
-    "title": "Aspiring Web developer",
-    "link": "https://dev.to/ahmedlutfy99/aspiring-web-developer-3151",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js vs. Python: Which one is better for web development?",
-    "link": "https://dev.to/owoyomi20/nodejs-vs-python-which-one-is-better-for-web-development-1an7",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Я хотел улучшить React",
-    "link": "https://dev.to/isumix/ia-khotiel-uluchshit-react-23mj",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a beautiful fireworks animation using only HTML5 Canvas Element and JavaScript",
-    "link": "https://dev.to/shrutikapoor08/build-a-beautiful-fireworks-animation-using-only-html5-canvas-element-and-javascript-4e1h",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Teri Meri Dooriyan",
-    "link": "https://dev.to/aslamkhan123/teri-meri-dooriyan-1fj8",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Enviando arquivos para o Amazon S3 via github actions com uma action personalizada",
-    "link": "https://dev.to/wandpsilva/enviando-arquivos-para-o-amazon-s3-via-github-actions-com-uma-action-personalizada-2h78",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping shirts slowly, then faster, with a unique Vue frontend",
-    "link": "https://dev.to/carthurhill/shipping-shirts-slowly-then-faster-with-a-unique-vue-frontend-mh",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "Going further with Playwright",
     "link": "https://madelinecaples.hashnode.dev/going-further-with-playwright",
     "date": "5/1/2023",
     "site": "hashnode"
-  },
-  {
-    "title": "Aspiring Web developer",
-    "link": "https://dev.to/ahmedlutfy99/aspiring-web-developer-3151",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js vs. Python: Which one is better for web development?",
-    "link": "https://dev.to/owoyomi20/nodejs-vs-python-which-one-is-better-for-web-development-1an7",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Я хотел улучшить React",
-    "link": "https://dev.to/isumix/ia-khotiel-uluchshit-react-23mj",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a beautiful fireworks animation using only HTML5 Canvas Element and JavaScript",
-    "link": "https://dev.to/shrutikapoor08/build-a-beautiful-fireworks-animation-using-only-html5-canvas-element-and-javascript-4e1h",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Teri Meri Dooriyan",
-    "link": "https://dev.to/aslamkhan123/teri-meri-dooriyan-1fj8",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Enviando arquivos para o Amazon S3 via github actions com uma action personalizada",
-    "link": "https://dev.to/wandpsilva/enviando-arquivos-para-o-amazon-s3-via-github-actions-com-uma-action-personalizada-2h78",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping shirts slowly, then faster, with a unique Vue frontend",
-    "link": "https://dev.to/carthurhill/shipping-shirts-slowly-then-faster-with-a-unique-vue-frontend-mh",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Going further with Playwright",
-    "link": "https://madelinecaples.hashnode.dev/going-further-with-playwright",
-    "date": "5/1/2023",
-    "site": "hashnode"
-  },
-  {
-    "title": "Aspiring Web developer",
-    "link": "https://dev.to/ahmedlutfy99/aspiring-web-developer-3151",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js vs. Python: Which one is better for web development?",
-    "link": "https://dev.to/owoyomi20/nodejs-vs-python-which-one-is-better-for-web-development-1an7",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Я хотел улучшить React",
-    "link": "https://dev.to/isumix/ia-khotiel-uluchshit-react-23mj",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a beautiful fireworks animation using only HTML5 Canvas Element and JavaScript",
-    "link": "https://dev.to/shrutikapoor08/build-a-beautiful-fireworks-animation-using-only-html5-canvas-element-and-javascript-4e1h",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Teri Meri Dooriyan",
-    "link": "https://dev.to/aslamkhan123/teri-meri-dooriyan-1fj8",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Enviando arquivos para o Amazon S3 via github actions com uma action personalizada",
-    "link": "https://dev.to/wandpsilva/enviando-arquivos-para-o-amazon-s3-via-github-actions-com-uma-action-personalizada-2h78",
-    "date": "5/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping shirts slowly, then faster, with a unique Vue frontend",
-    "link": "https://dev.to/carthurhill/shipping-shirts-slowly-then-faster-with-a-unique-vue-frontend-mh",
-    "date": "5/1/2023",
-    "site": "dev.to"
   },
   {
     "title": "Write Better CSS By Borrowing Ideas From JavaScript Functions",
@@ -875,7 +875,7 @@
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -933,7 +933,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -1090,7 +1090,7 @@
   {
     "title": "The Future Of Frontend Build Tools",
     "link": "https://www.smashingmagazine.com/2022/06/future-frontend-build-tools/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/9/2022",
     "site": "smashingmagazine"
   },
@@ -1153,7 +1153,7 @@
   {
     "title": "Jamstack Rendering Patterns: The Evolution",
     "link": "https://www.smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
-    "reading_time": "8 min read",
+    "reading_time": "7 min read",
     "date": "4/19/2022",
     "site": "smashingmagazine"
   },
@@ -1281,7 +1281,7 @@
   {
     "title": "How To Build An Amazon Product Scraper With Node.js",
     "link": "https://www.smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "10/28/2021",
     "site": "smashingmagazine"
   },
