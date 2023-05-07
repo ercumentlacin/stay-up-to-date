@@ -1,151 +1,451 @@
 [
   {
-    "title": "[Nestia] I made automatic e2e test functions generator for NestJS",
-    "link": "https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p",
+    "title": "Repeat a String for Num times",
+    "link": "https://dev.to/muhmmadawd/repeat-a-string-for-num-times-4i5g",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 函式",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-han-shi-4j14",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add Multiple Filter using one function in jQuery, Ajax",
+    "link": "https://dev.to/shubhamraturi37/add-multiple-filter-using-one-function-in-jquery-ajax-1d56",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 陣列",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-zhen-lie-39gd",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ultimate React Native Project | Apartments.com Clone",
+    "link": "https://dev.to/jeremypersing/the-ultimate-react-native-project-apartmentscom-clone-1gfo",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Truncate a String",
+    "link": "https://dev.to/muhmmadawd/truncate-a-string-2efg",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 文法",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-wen-fa-258n",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 閉包",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-bi-bao-bgk",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 物件",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-wu-jian-2me1",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - Garbage Collection",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-garbage-collection-1a19",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScripts - 型別",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascripts-xing-bie-498m",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 變數",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-bian-shu-4mgg",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "An easy way to use a MySQL database in Node.js (Node.js MySQL vs Node.js MySQL + NanoQL)",
+    "link": "https://dev.to/jahongir2007/an-easy-way-to-use-a-mysql-database-in-nodejs-nodejs-mysql-vs-nodejs-mysql-nanoql-3elb",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Components not rendering in browser",
+    "link": "https://dev.to/highcenburg/react-components-not-rendering-in-browser-3e1l",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repeat a String for Num times",
+    "link": "https://dev.to/muhmmadawd/repeat-a-string-for-num-times-4i5g",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 函式",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-han-shi-4j14",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add Multiple Filter using one function in jQuery, Ajax",
+    "link": "https://dev.to/shubhamraturi37/add-multiple-filter-using-one-function-in-jquery-ajax-1d56",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 陣列",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-zhen-lie-39gd",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ultimate React Native Project | Apartments.com Clone",
+    "link": "https://dev.to/jeremypersing/the-ultimate-react-native-project-apartmentscom-clone-1gfo",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Truncate a String",
+    "link": "https://dev.to/muhmmadawd/truncate-a-string-2efg",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 文法",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-wen-fa-258n",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 閉包",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-bi-bao-bgk",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 物件",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-wu-jian-2me1",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - Garbage Collection",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-garbage-collection-1a19",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScripts - 型別",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascripts-xing-bie-498m",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 變數",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-bian-shu-4mgg",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "An easy way to use a MySQL database in Node.js (Node.js MySQL vs Node.js MySQL + NanoQL)",
+    "link": "https://dev.to/jahongir2007/an-easy-way-to-use-a-mysql-database-in-nodejs-nodejs-mysql-vs-nodejs-mysql-nanoql-3elb",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Components not rendering in browser",
+    "link": "https://dev.to/highcenburg/react-components-not-rendering-in-browser-3e1l",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repeat a String for Num times",
+    "link": "https://dev.to/muhmmadawd/repeat-a-string-for-num-times-4i5g",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 函式",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-han-shi-4j14",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add Multiple Filter using one function in jQuery, Ajax",
+    "link": "https://dev.to/shubhamraturi37/add-multiple-filter-using-one-function-in-jquery-ajax-1d56",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 陣列",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-zhen-lie-39gd",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ultimate React Native Project | Apartments.com Clone",
+    "link": "https://dev.to/jeremypersing/the-ultimate-react-native-project-apartmentscom-clone-1gfo",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Truncate a String",
+    "link": "https://dev.to/muhmmadawd/truncate-a-string-2efg",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 文法",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-wen-fa-258n",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 閉包",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-bi-bao-bgk",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 物件",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-wu-jian-2me1",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - Garbage Collection",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-garbage-collection-1a19",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScripts - 型別",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascripts-xing-bie-498m",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 變數",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-bian-shu-4mgg",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "An easy way to use a MySQL database in Node.js (Node.js MySQL vs Node.js MySQL + NanoQL)",
+    "link": "https://dev.to/jahongir2007/an-easy-way-to-use-a-mysql-database-in-nodejs-nodejs-mysql-vs-nodejs-mysql-nanoql-3elb",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Components not rendering in browser",
+    "link": "https://dev.to/highcenburg/react-components-not-rendering-in-browser-3e1l",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repeat a String for Num times",
+    "link": "https://dev.to/muhmmadawd/repeat-a-string-for-num-times-4i5g",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 函式",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-han-shi-4j14",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add Multiple Filter using one function in jQuery, Ajax",
+    "link": "https://dev.to/shubhamraturi37/add-multiple-filter-using-one-function-in-jquery-ajax-1d56",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 陣列",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-zhen-lie-39gd",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ultimate React Native Project | Apartments.com Clone",
+    "link": "https://dev.to/jeremypersing/the-ultimate-react-native-project-apartmentscom-clone-1gfo",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Truncate a String",
+    "link": "https://dev.to/muhmmadawd/truncate-a-string-2efg",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 文法",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-wen-fa-258n",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 閉包",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-bi-bao-bgk",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 物件",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-wu-jian-2me1",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - Garbage Collection",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-garbage-collection-1a19",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScripts - 型別",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascripts-xing-bie-498m",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 變數",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-bian-shu-4mgg",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "An easy way to use a MySQL database in Node.js (Node.js MySQL vs Node.js MySQL + NanoQL)",
+    "link": "https://dev.to/jahongir2007/an-easy-way-to-use-a-mysql-database-in-nodejs-nodejs-mysql-vs-nodejs-mysql-nanoql-3elb",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Components not rendering in browser",
+    "link": "https://dev.to/highcenburg/react-components-not-rendering-in-browser-3e1l",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repeat a String for Num times",
+    "link": "https://dev.to/muhmmadawd/repeat-a-string-for-num-times-4i5g",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 函式",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-han-shi-4j14",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add Multiple Filter using one function in jQuery, Ajax",
+    "link": "https://dev.to/shubhamraturi37/add-multiple-filter-using-one-function-in-jquery-ajax-1d56",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 陣列",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-zhen-lie-39gd",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ultimate React Native Project | Apartments.com Clone",
+    "link": "https://dev.to/jeremypersing/the-ultimate-react-native-project-apartmentscom-clone-1gfo",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Truncate a String",
+    "link": "https://dev.to/muhmmadawd/truncate-a-string-2efg",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 文法",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-wen-fa-258n",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 閉包",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-bi-bao-bgk",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 物件",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-wu-jian-2me1",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - Garbage Collection",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-garbage-collection-1a19",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScripts - 型別",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascripts-xing-bie-498m",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Most Familiar Stranger - JavaScript - 變數",
+    "link": "https://dev.to/sgssy/the-most-familiar-stranger-javascript-bian-shu-4mgg",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "An easy way to use a MySQL database in Node.js (Node.js MySQL vs Node.js MySQL + NanoQL)",
+    "link": "https://dev.to/jahongir2007/an-easy-way-to-use-a-mysql-database-in-nodejs-nodejs-mysql-vs-nodejs-mysql-nanoql-3elb",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Components not rendering in browser",
+    "link": "https://dev.to/highcenburg/react-components-not-rendering-in-browser-3e1l",
+    "date": "5/7/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "View Transitions API",
+    "link": "https://dev.to/link2twenty/view-transitions-api-5980",
     "date": "5/6/2023",
     "site": "dev.to"
   },
   {
-    "title": "Angular Life Cycle Hooks",
-    "link": "https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47",
+    "title": "View Transitions API",
+    "link": "https://dev.to/link2twenty/view-transitions-api-5980",
     "date": "5/6/2023",
     "site": "dev.to"
   },
   {
-    "title": "REST API in Angular",
-    "link": "https://dev.to/kafeel_ahmad/rest-api-in-angular-4i5c",
+    "title": "View Transitions API",
+    "link": "https://dev.to/link2twenty/view-transitions-api-5980",
     "date": "5/6/2023",
     "site": "dev.to"
   },
   {
-    "title": "Hostel management system project in PHP",
-    "link": "https://dev.to/neerajm76404554/hostel-management-system-project-in-php-222i",
+    "title": "View Transitions API",
+    "link": "https://dev.to/link2twenty/view-transitions-api-5980",
     "date": "5/6/2023",
     "site": "dev.to"
   },
   {
-    "title": "Exploring useRef, useMemo, and the Challenges of Working with Multiple Components",
-    "link": "https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "[Nestia] I made automatic e2e test functions generator for NestJS",
-    "link": "https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Life Cycle Hooks",
-    "link": "https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "REST API in Angular",
-    "link": "https://dev.to/kafeel_ahmad/rest-api-in-angular-4i5c",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hostel management system project in PHP",
-    "link": "https://dev.to/neerajm76404554/hostel-management-system-project-in-php-222i",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Exploring useRef, useMemo, and the Challenges of Working with Multiple Components",
-    "link": "https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "[Nestia] I made automatic e2e test functions generator for NestJS",
-    "link": "https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Life Cycle Hooks",
-    "link": "https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "REST API in Angular",
-    "link": "https://dev.to/kafeel_ahmad/rest-api-in-angular-4i5c",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hostel management system project in PHP",
-    "link": "https://dev.to/neerajm76404554/hostel-management-system-project-in-php-222i",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Exploring useRef, useMemo, and the Challenges of Working with Multiple Components",
-    "link": "https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "[Nestia] I made automatic e2e test functions generator for NestJS",
-    "link": "https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Life Cycle Hooks",
-    "link": "https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "REST API in Angular",
-    "link": "https://dev.to/kafeel_ahmad/rest-api-in-angular-4i5c",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hostel management system project in PHP",
-    "link": "https://dev.to/neerajm76404554/hostel-management-system-project-in-php-222i",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Exploring useRef, useMemo, and the Challenges of Working with Multiple Components",
-    "link": "https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "[Nestia] I made automatic e2e test functions generator for NestJS",
-    "link": "https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Life Cycle Hooks",
-    "link": "https://dev.to/kafeel_ahmad/angular-life-cycle-hooks-2n47",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "REST API in Angular",
-    "link": "https://dev.to/kafeel_ahmad/rest-api-in-angular-4i5c",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hostel management system project in PHP",
-    "link": "https://dev.to/neerajm76404554/hostel-management-system-project-in-php-222i",
-    "date": "5/6/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Exploring useRef, useMemo, and the Challenges of Working with Multiple Components",
-    "link": "https://dev.to/arashjangali/exploring-useref-usememo-and-the-challenges-of-working-with-multiple-components-227n",
+    "title": "View Transitions API",
+    "link": "https://dev.to/link2twenty/view-transitions-api-5980",
     "date": "5/6/2023",
     "site": "dev.to"
   },
@@ -155,306 +455,6 @@
     "reading_time": "10 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "The Struggles of Becoming a Self Thaught Developer",
-    "link": "https://dev.to/kristof1345/the-struggles-of-becoming-a-self-thaught-developer-4njo",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Express: Building Robust TypeScript Servers with Ease.",
-    "link": "https://dev.to/itskunal/mastering-express-building-robust-typescript-servers-with-ease-ab9",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "GETTING STARTED WITH CHAKRA UI",
-    "link": "https://dev.to/candie_code/getting-started-with-chakra-ui-46pp",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Functional Programming in Javascript",
-    "link": "https://dev.to/titre123/functional-programming-in-javascript-67m",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Custom Snippet do Styled Components no VSCode",
-    "link": "https://dev.to/andpeicunha/custom-snippet-do-styled-components-no-vscode-135n",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Beginner's Guide to Regular Expressions Methods: Simplifying Syntax and Usage",
-    "link": "https://dev.to/jnmedina32/a-beginners-guide-to-regular-expressions-methods-simplifying-syntax-and-usage-1jhl",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deep Dive Into the useReducer() hook",
-    "link": "https://dev.to/debajit13/deep-dive-into-the-usereducer-hook-1kom",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "We built Plane ✈️ Open Source Project Management Tool (Next.js + Django)",
-    "link": "https://dev.to/vihar/we-built-plane-open-source-project-management-tool-nextjs-django-3hke",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 1000 JavaScript Interview Questions in 2023!",
-    "link": "https://dev.to/nezirzahirovic/top-1000-javascript-interview-questions-in-2023-2npj",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learn to use useState and useEffect hooks in React to create dynamic user interfaces",
-    "link": "https://dev.to/obere4u/learn-to-use-usestate-and-useeffect-hooks-in-react-to-create-dynamic-user-interfaces-20dj",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Struggles of Becoming a Self Thaught Developer",
-    "link": "https://dev.to/kristof1345/the-struggles-of-becoming-a-self-thaught-developer-4njo",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Express: Building Robust TypeScript Servers with Ease.",
-    "link": "https://dev.to/itskunal/mastering-express-building-robust-typescript-servers-with-ease-ab9",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "GETTING STARTED WITH CHAKRA UI",
-    "link": "https://dev.to/candie_code/getting-started-with-chakra-ui-46pp",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Functional Programming in Javascript",
-    "link": "https://dev.to/titre123/functional-programming-in-javascript-67m",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Custom Snippet do Styled Components no VSCode",
-    "link": "https://dev.to/andpeicunha/custom-snippet-do-styled-components-no-vscode-135n",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Beginner's Guide to Regular Expressions Methods: Simplifying Syntax and Usage",
-    "link": "https://dev.to/jnmedina32/a-beginners-guide-to-regular-expressions-methods-simplifying-syntax-and-usage-1jhl",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deep Dive Into the useReducer() hook",
-    "link": "https://dev.to/debajit13/deep-dive-into-the-usereducer-hook-1kom",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "We built Plane ✈️ Open Source Project Management Tool (Next.js + Django)",
-    "link": "https://dev.to/vihar/we-built-plane-open-source-project-management-tool-nextjs-django-3hke",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 1000 JavaScript Interview Questions in 2023!",
-    "link": "https://dev.to/nezirzahirovic/top-1000-javascript-interview-questions-in-2023-2npj",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learn to use useState and useEffect hooks in React to create dynamic user interfaces",
-    "link": "https://dev.to/obere4u/learn-to-use-usestate-and-useeffect-hooks-in-react-to-create-dynamic-user-interfaces-20dj",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Struggles of Becoming a Self Thaught Developer",
-    "link": "https://dev.to/kristof1345/the-struggles-of-becoming-a-self-thaught-developer-4njo",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Express: Building Robust TypeScript Servers with Ease.",
-    "link": "https://dev.to/itskunal/mastering-express-building-robust-typescript-servers-with-ease-ab9",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "GETTING STARTED WITH CHAKRA UI",
-    "link": "https://dev.to/candie_code/getting-started-with-chakra-ui-46pp",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Functional Programming in Javascript",
-    "link": "https://dev.to/titre123/functional-programming-in-javascript-67m",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Custom Snippet do Styled Components no VSCode",
-    "link": "https://dev.to/andpeicunha/custom-snippet-do-styled-components-no-vscode-135n",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Beginner's Guide to Regular Expressions Methods: Simplifying Syntax and Usage",
-    "link": "https://dev.to/jnmedina32/a-beginners-guide-to-regular-expressions-methods-simplifying-syntax-and-usage-1jhl",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deep Dive Into the useReducer() hook",
-    "link": "https://dev.to/debajit13/deep-dive-into-the-usereducer-hook-1kom",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "We built Plane ✈️ Open Source Project Management Tool (Next.js + Django)",
-    "link": "https://dev.to/vihar/we-built-plane-open-source-project-management-tool-nextjs-django-3hke",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 1000 JavaScript Interview Questions in 2023!",
-    "link": "https://dev.to/nezirzahirovic/top-1000-javascript-interview-questions-in-2023-2npj",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learn to use useState and useEffect hooks in React to create dynamic user interfaces",
-    "link": "https://dev.to/obere4u/learn-to-use-usestate-and-useeffect-hooks-in-react-to-create-dynamic-user-interfaces-20dj",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Struggles of Becoming a Self Thaught Developer",
-    "link": "https://dev.to/kristof1345/the-struggles-of-becoming-a-self-thaught-developer-4njo",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Express: Building Robust TypeScript Servers with Ease.",
-    "link": "https://dev.to/itskunal/mastering-express-building-robust-typescript-servers-with-ease-ab9",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "GETTING STARTED WITH CHAKRA UI",
-    "link": "https://dev.to/candie_code/getting-started-with-chakra-ui-46pp",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Functional Programming in Javascript",
-    "link": "https://dev.to/titre123/functional-programming-in-javascript-67m",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Custom Snippet do Styled Components no VSCode",
-    "link": "https://dev.to/andpeicunha/custom-snippet-do-styled-components-no-vscode-135n",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Beginner's Guide to Regular Expressions Methods: Simplifying Syntax and Usage",
-    "link": "https://dev.to/jnmedina32/a-beginners-guide-to-regular-expressions-methods-simplifying-syntax-and-usage-1jhl",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deep Dive Into the useReducer() hook",
-    "link": "https://dev.to/debajit13/deep-dive-into-the-usereducer-hook-1kom",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "We built Plane ✈️ Open Source Project Management Tool (Next.js + Django)",
-    "link": "https://dev.to/vihar/we-built-plane-open-source-project-management-tool-nextjs-django-3hke",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 1000 JavaScript Interview Questions in 2023!",
-    "link": "https://dev.to/nezirzahirovic/top-1000-javascript-interview-questions-in-2023-2npj",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learn to use useState and useEffect hooks in React to create dynamic user interfaces",
-    "link": "https://dev.to/obere4u/learn-to-use-usestate-and-useeffect-hooks-in-react-to-create-dynamic-user-interfaces-20dj",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Struggles of Becoming a Self Thaught Developer",
-    "link": "https://dev.to/kristof1345/the-struggles-of-becoming-a-self-thaught-developer-4njo",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Express: Building Robust TypeScript Servers with Ease.",
-    "link": "https://dev.to/itskunal/mastering-express-building-robust-typescript-servers-with-ease-ab9",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "GETTING STARTED WITH CHAKRA UI",
-    "link": "https://dev.to/candie_code/getting-started-with-chakra-ui-46pp",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Functional Programming in Javascript",
-    "link": "https://dev.to/titre123/functional-programming-in-javascript-67m",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Custom Snippet do Styled Components no VSCode",
-    "link": "https://dev.to/andpeicunha/custom-snippet-do-styled-components-no-vscode-135n",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Beginner's Guide to Regular Expressions Methods: Simplifying Syntax and Usage",
-    "link": "https://dev.to/jnmedina32/a-beginners-guide-to-regular-expressions-methods-simplifying-syntax-and-usage-1jhl",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deep Dive Into the useReducer() hook",
-    "link": "https://dev.to/debajit13/deep-dive-into-the-usereducer-hook-1kom",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "We built Plane ✈️ Open Source Project Management Tool (Next.js + Django)",
-    "link": "https://dev.to/vihar/we-built-plane-open-source-project-management-tool-nextjs-django-3hke",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 1000 JavaScript Interview Questions in 2023!",
-    "link": "https://dev.to/nezirzahirovic/top-1000-javascript-interview-questions-in-2023-2npj",
-    "date": "5/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learn to use useState and useEffect hooks in React to create dynamic user interfaces",
-    "link": "https://dev.to/obere4u/learn-to-use-usestate-and-useeffect-hooks-in-react-to-create-dynamic-user-interfaces-20dj",
-    "date": "5/5/2023",
-    "site": "dev.to"
   },
   {
     "title": "Going further with Playwright",
@@ -496,7 +496,7 @@
   {
     "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
     "link": "https://www.smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "4/21/2023",
     "site": "smashingmagazine"
   },
@@ -697,7 +697,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
@@ -960,7 +960,7 @@
   {
     "title": "JavaScript APIs You Don’t Know About",
     "link": "https://www.smashingmagazine.com/2022/09/javascript-api-guide/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "9/14/2022",
     "site": "smashingmagazine"
   },
@@ -1146,7 +1146,7 @@
   {
     "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
     "link": "https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "4/29/2022",
     "site": "smashingmagazine"
   },
