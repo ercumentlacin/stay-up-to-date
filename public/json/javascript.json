@@ -1,301 +1,421 @@
 [
   {
-    "title": "Intro to Recursion: A Beginner's Guide",
-    "link": "https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k",
+    "title": "Next JS Routing Patterns",
+    "link": "https://dev.to/shubhamtiwari909/next-js-routing-patterns-4a1e",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zustand State Management Library: React",
+    "link": "https://dev.to/shubhamtiwari909/zustand-state-management-library-react-20p2",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Complete Guide to OOP In Javascript",
+    "link": "https://dev.to/merudra754/the-complete-guide-to-oop-in-javascript-2lk0",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to flatten an array of arrays in JavaScript",
+    "link": "https://dev.to/anurag_vishwakarma/how-to-flatten-an-array-of-arrays-in-javascript-1pg",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is this in Javascript",
+    "link": "https://dev.to/ranggapr/what-is-this-in-javascript-40bd",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best ES6 version of JavaScript of generating random colors using time interval",
+    "link": "https://dev.to/monkcodes/best-es6-version-of-javascript-of-generating-random-colors-using-time-interval-18gl",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks Made Easy: A Step-by-Step Tutorial (Part 1)",
+    "link": "https://dev.to/abosaiftaha/react-hooks-made-easy-a-step-by-step-tutorial-part-1-2p6g",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create modal box used html5 ? No need javaScript.",
+    "link": "https://dev.to/codesushil/how-to-create-modal-box-used-html5-no-need-javascript-c64",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "ChatGPT is threatening my sense of identity",
+    "link": "https://dev.to/altonwells/chatgpt-is-threatening-my-sense-of-identity-2mgp",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a music genre discovery app with AI code generation tools",
+    "link": "https://dev.to/heymarkkop/creating-a-music-genre-discovery-app-with-ai-code-generation-tools-3jfp",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "call(), apply() e bind() - Os Três Patetas do JavaScript",
+    "link": "https://dev.to/taisesoares/call-apply-e-bind-os-tres-patetas-do-javascript-1pdd",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next JS Routing Patterns",
+    "link": "https://dev.to/shubhamtiwari909/next-js-routing-patterns-4a1e",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zustand State Management Library: React",
+    "link": "https://dev.to/shubhamtiwari909/zustand-state-management-library-react-20p2",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Complete Guide to OOP In Javascript",
+    "link": "https://dev.to/merudra754/the-complete-guide-to-oop-in-javascript-2lk0",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to flatten an array of arrays in JavaScript",
+    "link": "https://dev.to/anurag_vishwakarma/how-to-flatten-an-array-of-arrays-in-javascript-1pg",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is this in Javascript",
+    "link": "https://dev.to/ranggapr/what-is-this-in-javascript-40bd",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best ES6 version of JavaScript of generating random colors using time interval",
+    "link": "https://dev.to/monkcodes/best-es6-version-of-javascript-of-generating-random-colors-using-time-interval-18gl",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks Made Easy: A Step-by-Step Tutorial (Part 1)",
+    "link": "https://dev.to/abosaiftaha/react-hooks-made-easy-a-step-by-step-tutorial-part-1-2p6g",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create modal box used html5 ? No need javaScript.",
+    "link": "https://dev.to/codesushil/how-to-create-modal-box-used-html5-no-need-javascript-c64",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "ChatGPT is threatening my sense of identity",
+    "link": "https://dev.to/altonwells/chatgpt-is-threatening-my-sense-of-identity-2mgp",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a music genre discovery app with AI code generation tools",
+    "link": "https://dev.to/heymarkkop/creating-a-music-genre-discovery-app-with-ai-code-generation-tools-3jfp",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "call(), apply() e bind() - Os Três Patetas do JavaScript",
+    "link": "https://dev.to/taisesoares/call-apply-e-bind-os-tres-patetas-do-javascript-1pdd",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next JS Routing Patterns",
+    "link": "https://dev.to/shubhamtiwari909/next-js-routing-patterns-4a1e",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zustand State Management Library: React",
+    "link": "https://dev.to/shubhamtiwari909/zustand-state-management-library-react-20p2",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Complete Guide to OOP In Javascript",
+    "link": "https://dev.to/merudra754/the-complete-guide-to-oop-in-javascript-2lk0",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to flatten an array of arrays in JavaScript",
+    "link": "https://dev.to/anurag_vishwakarma/how-to-flatten-an-array-of-arrays-in-javascript-1pg",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is this in Javascript",
+    "link": "https://dev.to/ranggapr/what-is-this-in-javascript-40bd",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best ES6 version of JavaScript of generating random colors using time interval",
+    "link": "https://dev.to/monkcodes/best-es6-version-of-javascript-of-generating-random-colors-using-time-interval-18gl",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks Made Easy: A Step-by-Step Tutorial (Part 1)",
+    "link": "https://dev.to/abosaiftaha/react-hooks-made-easy-a-step-by-step-tutorial-part-1-2p6g",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create modal box used html5 ? No need javaScript.",
+    "link": "https://dev.to/codesushil/how-to-create-modal-box-used-html5-no-need-javascript-c64",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "ChatGPT is threatening my sense of identity",
+    "link": "https://dev.to/altonwells/chatgpt-is-threatening-my-sense-of-identity-2mgp",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a music genre discovery app with AI code generation tools",
+    "link": "https://dev.to/heymarkkop/creating-a-music-genre-discovery-app-with-ai-code-generation-tools-3jfp",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "call(), apply() e bind() - Os Três Patetas do JavaScript",
+    "link": "https://dev.to/taisesoares/call-apply-e-bind-os-tres-patetas-do-javascript-1pdd",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next JS Routing Patterns",
+    "link": "https://dev.to/shubhamtiwari909/next-js-routing-patterns-4a1e",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zustand State Management Library: React",
+    "link": "https://dev.to/shubhamtiwari909/zustand-state-management-library-react-20p2",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Complete Guide to OOP In Javascript",
+    "link": "https://dev.to/merudra754/the-complete-guide-to-oop-in-javascript-2lk0",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to flatten an array of arrays in JavaScript",
+    "link": "https://dev.to/anurag_vishwakarma/how-to-flatten-an-array-of-arrays-in-javascript-1pg",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is this in Javascript",
+    "link": "https://dev.to/ranggapr/what-is-this-in-javascript-40bd",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best ES6 version of JavaScript of generating random colors using time interval",
+    "link": "https://dev.to/monkcodes/best-es6-version-of-javascript-of-generating-random-colors-using-time-interval-18gl",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks Made Easy: A Step-by-Step Tutorial (Part 1)",
+    "link": "https://dev.to/abosaiftaha/react-hooks-made-easy-a-step-by-step-tutorial-part-1-2p6g",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create modal box used html5 ? No need javaScript.",
+    "link": "https://dev.to/codesushil/how-to-create-modal-box-used-html5-no-need-javascript-c64",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "ChatGPT is threatening my sense of identity",
+    "link": "https://dev.to/altonwells/chatgpt-is-threatening-my-sense-of-identity-2mgp",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a music genre discovery app with AI code generation tools",
+    "link": "https://dev.to/heymarkkop/creating-a-music-genre-discovery-app-with-ai-code-generation-tools-3jfp",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "call(), apply() e bind() - Os Três Patetas do JavaScript",
+    "link": "https://dev.to/taisesoares/call-apply-e-bind-os-tres-patetas-do-javascript-1pdd",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next JS Routing Patterns",
+    "link": "https://dev.to/shubhamtiwari909/next-js-routing-patterns-4a1e",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zustand State Management Library: React",
+    "link": "https://dev.to/shubhamtiwari909/zustand-state-management-library-react-20p2",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Complete Guide to OOP In Javascript",
+    "link": "https://dev.to/merudra754/the-complete-guide-to-oop-in-javascript-2lk0",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to flatten an array of arrays in JavaScript",
+    "link": "https://dev.to/anurag_vishwakarma/how-to-flatten-an-array-of-arrays-in-javascript-1pg",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is this in Javascript",
+    "link": "https://dev.to/ranggapr/what-is-this-in-javascript-40bd",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best ES6 version of JavaScript of generating random colors using time interval",
+    "link": "https://dev.to/monkcodes/best-es6-version-of-javascript-of-generating-random-colors-using-time-interval-18gl",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks Made Easy: A Step-by-Step Tutorial (Part 1)",
+    "link": "https://dev.to/abosaiftaha/react-hooks-made-easy-a-step-by-step-tutorial-part-1-2p6g",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create modal box used html5 ? No need javaScript.",
+    "link": "https://dev.to/codesushil/how-to-create-modal-box-used-html5-no-need-javascript-c64",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "ChatGPT is threatening my sense of identity",
+    "link": "https://dev.to/altonwells/chatgpt-is-threatening-my-sense-of-identity-2mgp",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a music genre discovery app with AI code generation tools",
+    "link": "https://dev.to/heymarkkop/creating-a-music-genre-discovery-app-with-ai-code-generation-tools-3jfp",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "call(), apply() e bind() - Os Três Patetas do JavaScript",
+    "link": "https://dev.to/taisesoares/call-apply-e-bind-os-tres-patetas-do-javascript-1pdd",
+    "date": "6/2/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "PayPal Has Updated Its Webhook Verification Endpoint",
+    "link": "https://dev.to/paypaldeveloper/paypal-has-updated-its-webhook-verification-endpoint-n6l",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "Hooked on Hooks: Mastering State and Effects in React",
-    "link": "https://dev.to/shubhamt619/hooked-on-hooks-mastering-state-and-effects-in-react-30hg",
+    "title": "Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear",
+    "link": "https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "ESLint: How to install and configure?",
-    "link": "https://dev.to/dmytrych/eslint-how-to-install-and-configure-9n9",
+    "title": "100 Days Coding Challenge - Day 13: FreeCodeCamp JavaScript Algorithms and Data Structures",
+    "link": "https://dev.to/alexmgp7/100-days-coding-challenge-day-13-freecodecamp-javascript-algorithms-and-data-structures-409j",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "Laravel File Viewer - A package to see preview of diffrent file types",
-    "link": "https://dev.to/vish4395/laravel-file-viewer-a-package-to-see-preview-of-diffrent-file-types-3e1e",
+    "title": "PayPal Has Updated Its Webhook Verification Endpoint",
+    "link": "https://dev.to/paypaldeveloper/paypal-has-updated-its-webhook-verification-endpoint-n6l",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "A Complete Guide For Fuel Level Sensor Software Development Process For Logistics.",
-    "link": "https://dev.to/fleet_os/a-complete-guide-for-fuel-level-sensor-software-development-process-for-logistics-10pj",
+    "title": "Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear",
+    "link": "https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "Learning React: Markup with JSX and Rendering Elements",
-    "link": "https://dev.to/rabibsust/learning-react-markup-with-jsx-and-rendering-elements-d00",
+    "title": "100 Days Coding Challenge - Day 13: FreeCodeCamp JavaScript Algorithms and Data Structures",
+    "link": "https://dev.to/alexmgp7/100-days-coding-challenge-day-13-freecodecamp-javascript-algorithms-and-data-structures-409j",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "Creating a tiny zen game using Kontra",
-    "link": "https://dev.to/mrlopis/creating-a-tiny-zen-game-using-kontra-jm8",
+    "title": "PayPal Has Updated Its Webhook Verification Endpoint",
+    "link": "https://dev.to/paypaldeveloper/paypal-has-updated-its-webhook-verification-endpoint-n6l",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "Building Blocks with JavaScript: Understanding Constructor Functions",
-    "link": "https://dev.to/danities316/building-blocks-with-javascript-understanding-constructor-functions-44e4",
+    "title": "Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear",
+    "link": "https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "100 Days Coding Challenge - Day 12: FreeCodeCamp JavaScript Algorithms and Data Structures & AI Chatbot Python",
-    "link": "https://dev.to/alexmgp7/100-days-coding-challenge-day-12-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-f78",
+    "title": "100 Days Coding Challenge - Day 13: FreeCodeCamp JavaScript Algorithms and Data Structures",
+    "link": "https://dev.to/alexmgp7/100-days-coding-challenge-day-13-freecodecamp-javascript-algorithms-and-data-structures-409j",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "I bring a front-end adaptation tool from China",
-    "link": "https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4",
+    "title": "PayPal Has Updated Its Webhook Verification Endpoint",
+    "link": "https://dev.to/paypaldeveloper/paypal-has-updated-its-webhook-verification-endpoint-n6l",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "Intro to Recursion: A Beginner's Guide",
-    "link": "https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k",
+    "title": "Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear",
+    "link": "https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "Hooked on Hooks: Mastering State and Effects in React",
-    "link": "https://dev.to/shubhamt619/hooked-on-hooks-mastering-state-and-effects-in-react-30hg",
+    "title": "100 Days Coding Challenge - Day 13: FreeCodeCamp JavaScript Algorithms and Data Structures",
+    "link": "https://dev.to/alexmgp7/100-days-coding-challenge-day-13-freecodecamp-javascript-algorithms-and-data-structures-409j",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "ESLint: How to install and configure?",
-    "link": "https://dev.to/dmytrych/eslint-how-to-install-and-configure-9n9",
+    "title": "PayPal Has Updated Its Webhook Verification Endpoint",
+    "link": "https://dev.to/paypaldeveloper/paypal-has-updated-its-webhook-verification-endpoint-n6l",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "Laravel File Viewer - A package to see preview of diffrent file types",
-    "link": "https://dev.to/vish4395/laravel-file-viewer-a-package-to-see-preview-of-diffrent-file-types-3e1e",
+    "title": "Abra-QR-dabra: Watch Passwordless Mobile Auth Magically Appear",
+    "link": "https://dev.to/propelauth/abra-qr-dabra-watch-passwordless-mobile-auth-magically-appear-e9e",
     "date": "6/1/2023",
     "site": "dev.to"
   },
   {
-    "title": "A Complete Guide For Fuel Level Sensor Software Development Process For Logistics.",
-    "link": "https://dev.to/fleet_os/a-complete-guide-for-fuel-level-sensor-software-development-process-for-logistics-10pj",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning React: Markup with JSX and Rendering Elements",
-    "link": "https://dev.to/rabibsust/learning-react-markup-with-jsx-and-rendering-elements-d00",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a tiny zen game using Kontra",
-    "link": "https://dev.to/mrlopis/creating-a-tiny-zen-game-using-kontra-jm8",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Blocks with JavaScript: Understanding Constructor Functions",
-    "link": "https://dev.to/danities316/building-blocks-with-javascript-understanding-constructor-functions-44e4",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "100 Days Coding Challenge - Day 12: FreeCodeCamp JavaScript Algorithms and Data Structures & AI Chatbot Python",
-    "link": "https://dev.to/alexmgp7/100-days-coding-challenge-day-12-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-f78",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "I bring a front-end adaptation tool from China",
-    "link": "https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Intro to Recursion: A Beginner's Guide",
-    "link": "https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hooked on Hooks: Mastering State and Effects in React",
-    "link": "https://dev.to/shubhamt619/hooked-on-hooks-mastering-state-and-effects-in-react-30hg",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "ESLint: How to install and configure?",
-    "link": "https://dev.to/dmytrych/eslint-how-to-install-and-configure-9n9",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel File Viewer - A package to see preview of diffrent file types",
-    "link": "https://dev.to/vish4395/laravel-file-viewer-a-package-to-see-preview-of-diffrent-file-types-3e1e",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Complete Guide For Fuel Level Sensor Software Development Process For Logistics.",
-    "link": "https://dev.to/fleet_os/a-complete-guide-for-fuel-level-sensor-software-development-process-for-logistics-10pj",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning React: Markup with JSX and Rendering Elements",
-    "link": "https://dev.to/rabibsust/learning-react-markup-with-jsx-and-rendering-elements-d00",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a tiny zen game using Kontra",
-    "link": "https://dev.to/mrlopis/creating-a-tiny-zen-game-using-kontra-jm8",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Blocks with JavaScript: Understanding Constructor Functions",
-    "link": "https://dev.to/danities316/building-blocks-with-javascript-understanding-constructor-functions-44e4",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "100 Days Coding Challenge - Day 12: FreeCodeCamp JavaScript Algorithms and Data Structures & AI Chatbot Python",
-    "link": "https://dev.to/alexmgp7/100-days-coding-challenge-day-12-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-f78",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "I bring a front-end adaptation tool from China",
-    "link": "https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Intro to Recursion: A Beginner's Guide",
-    "link": "https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hooked on Hooks: Mastering State and Effects in React",
-    "link": "https://dev.to/shubhamt619/hooked-on-hooks-mastering-state-and-effects-in-react-30hg",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "ESLint: How to install and configure?",
-    "link": "https://dev.to/dmytrych/eslint-how-to-install-and-configure-9n9",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel File Viewer - A package to see preview of diffrent file types",
-    "link": "https://dev.to/vish4395/laravel-file-viewer-a-package-to-see-preview-of-diffrent-file-types-3e1e",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Complete Guide For Fuel Level Sensor Software Development Process For Logistics.",
-    "link": "https://dev.to/fleet_os/a-complete-guide-for-fuel-level-sensor-software-development-process-for-logistics-10pj",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning React: Markup with JSX and Rendering Elements",
-    "link": "https://dev.to/rabibsust/learning-react-markup-with-jsx-and-rendering-elements-d00",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a tiny zen game using Kontra",
-    "link": "https://dev.to/mrlopis/creating-a-tiny-zen-game-using-kontra-jm8",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Blocks with JavaScript: Understanding Constructor Functions",
-    "link": "https://dev.to/danities316/building-blocks-with-javascript-understanding-constructor-functions-44e4",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "100 Days Coding Challenge - Day 12: FreeCodeCamp JavaScript Algorithms and Data Structures & AI Chatbot Python",
-    "link": "https://dev.to/alexmgp7/100-days-coding-challenge-day-12-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-f78",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "I bring a front-end adaptation tool from China",
-    "link": "https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Intro to Recursion: A Beginner's Guide",
-    "link": "https://dev.to/sunday/intro-to-recursion-a-beginners-guide-403k",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hooked on Hooks: Mastering State and Effects in React",
-    "link": "https://dev.to/shubhamt619/hooked-on-hooks-mastering-state-and-effects-in-react-30hg",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "ESLint: How to install and configure?",
-    "link": "https://dev.to/dmytrych/eslint-how-to-install-and-configure-9n9",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Laravel File Viewer - A package to see preview of diffrent file types",
-    "link": "https://dev.to/vish4395/laravel-file-viewer-a-package-to-see-preview-of-diffrent-file-types-3e1e",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Complete Guide For Fuel Level Sensor Software Development Process For Logistics.",
-    "link": "https://dev.to/fleet_os/a-complete-guide-for-fuel-level-sensor-software-development-process-for-logistics-10pj",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning React: Markup with JSX and Rendering Elements",
-    "link": "https://dev.to/rabibsust/learning-react-markup-with-jsx-and-rendering-elements-d00",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a tiny zen game using Kontra",
-    "link": "https://dev.to/mrlopis/creating-a-tiny-zen-game-using-kontra-jm8",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Blocks with JavaScript: Understanding Constructor Functions",
-    "link": "https://dev.to/danities316/building-blocks-with-javascript-understanding-constructor-functions-44e4",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "100 Days Coding Challenge - Day 12: FreeCodeCamp JavaScript Algorithms and Data Structures & AI Chatbot Python",
-    "link": "https://dev.to/alexmgp7/100-days-coding-challenge-day-12-freecodecamp-javascript-algorithms-and-data-structures-ai-chatbot-python-f78",
-    "date": "6/1/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "I bring a front-end adaptation tool from China",
-    "link": "https://dev.to/larryzhu_china/i-bring-a-front-end-adaptation-tool-from-china-2kk4",
+    "title": "100 Days Coding Challenge - Day 13: FreeCodeCamp JavaScript Algorithms and Data Structures",
+    "link": "https://dev.to/alexmgp7/100-days-coding-challenge-day-13-freecodecamp-javascript-algorithms-and-data-structures-409j",
     "date": "6/1/2023",
     "site": "dev.to"
   },
@@ -306,26 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "What is \"the time\"? ⏳ ...and what is meant by UTC in date.toUTCString()?",
-    "link": "https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript: Type Utilities for the goodness and reusability",
-    "link": "https://dev.to/taricov/typescript-type-utilities-for-the-goodness-and-reusability-323i",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "I made ChatGPT talk like JARVIS from Iron Man!",
-    "link": "https://dev.to/hackythings/i-made-chatgpt-talk-like-jarvis-from-iron-man-2mhd",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make your own simple translator in HTML & JavaScript",
-    "link": "https://dev.to/analyze0/how-to-make-your-own-simple-translator-in-html-javascript-2ohf",
+    "title": "Stop using express.js",
+    "link": "https://dev.to/sebastian_wessel/stop-using-expressjs-4io",
     "date": "5/31/2023",
     "site": "dev.to"
   },
@@ -336,116 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "What is \"the time\"? ⏳ ...and what is meant by UTC in date.toUTCString()?",
-    "link": "https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript: Type Utilities for the goodness and reusability",
-    "link": "https://dev.to/taricov/typescript-type-utilities-for-the-goodness-and-reusability-323i",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "I made ChatGPT talk like JARVIS from Iron Man!",
-    "link": "https://dev.to/hackythings/i-made-chatgpt-talk-like-jarvis-from-iron-man-2mhd",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make your own simple translator in HTML & JavaScript",
-    "link": "https://dev.to/analyze0/how-to-make-your-own-simple-translator-in-html-javascript-2ohf",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "Stop using express.js",
     "link": "https://dev.to/sebastian_wessel/stop-using-expressjs-4io",
     "date": "5/31/2023",
     "site": "dev.to"
   },
   {
-    "title": "What is \"the time\"? ⏳ ...and what is meant by UTC in date.toUTCString()?",
-    "link": "https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript: Type Utilities for the goodness and reusability",
-    "link": "https://dev.to/taricov/typescript-type-utilities-for-the-goodness-and-reusability-323i",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "I made ChatGPT talk like JARVIS from Iron Man!",
-    "link": "https://dev.to/hackythings/i-made-chatgpt-talk-like-jarvis-from-iron-man-2mhd",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make your own simple translator in HTML & JavaScript",
-    "link": "https://dev.to/analyze0/how-to-make-your-own-simple-translator-in-html-javascript-2ohf",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "Stop using express.js",
     "link": "https://dev.to/sebastian_wessel/stop-using-expressjs-4io",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is \"the time\"? ⏳ ...and what is meant by UTC in date.toUTCString()?",
-    "link": "https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript: Type Utilities for the goodness and reusability",
-    "link": "https://dev.to/taricov/typescript-type-utilities-for-the-goodness-and-reusability-323i",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "I made ChatGPT talk like JARVIS from Iron Man!",
-    "link": "https://dev.to/hackythings/i-made-chatgpt-talk-like-jarvis-from-iron-man-2mhd",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make your own simple translator in HTML & JavaScript",
-    "link": "https://dev.to/analyze0/how-to-make-your-own-simple-translator-in-html-javascript-2ohf",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop using express.js",
-    "link": "https://dev.to/sebastian_wessel/stop-using-expressjs-4io",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is \"the time\"? ⏳ ...and what is meant by UTC in date.toUTCString()?",
-    "link": "https://dev.to/aderchox/what-is-the-time-and-what-is-meant-by-utc-in-datetoutcstring-2b57",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript: Type Utilities for the goodness and reusability",
-    "link": "https://dev.to/taricov/typescript-type-utilities-for-the-goodness-and-reusability-323i",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "I made ChatGPT talk like JARVIS from Iron Man!",
-    "link": "https://dev.to/hackythings/i-made-chatgpt-talk-like-jarvis-from-iron-man-2mhd",
-    "date": "5/31/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to make your own simple translator in HTML & JavaScript",
-    "link": "https://dev.to/analyze0/how-to-make-your-own-simple-translator-in-html-javascript-2ohf",
     "date": "5/31/2023",
     "site": "dev.to"
   },
@@ -512,7 +512,7 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
@@ -942,7 +942,7 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "24 min read",
+    "reading_time": "23 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
@@ -1027,7 +1027,7 @@
   {
     "title": "JavaScript APIs You Don’t Know About",
     "link": "https://www.smashingmagazine.com/2022/09/javascript-api-guide/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "9/14/2022",
     "site": "smashingmagazine"
   },
@@ -1104,7 +1104,7 @@
   {
     "title": "The Future Of Frontend Build Tools",
     "link": "https://www.smashingmagazine.com/2022/06/future-frontend-build-tools/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/9/2022",
     "site": "smashingmagazine"
   },
@@ -1132,7 +1132,7 @@
   {
     "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
     "link": "https://www.smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
-    "reading_time": "21 min read",
+    "reading_time": "20 min read",
     "date": "5/20/2022",
     "site": "smashingmagazine"
   },
@@ -1181,7 +1181,7 @@
   {
     "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
     "link": "https://www.smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "4/8/2022",
     "site": "smashingmagazine"
   },
