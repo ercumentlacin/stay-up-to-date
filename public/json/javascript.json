@@ -1,361 +1,421 @@
 [
   {
-    "title": "Welcome to the dark side. Ree.js awaits you!",
-    "link": "https://dev.to/renhiyama/welcome-to-the-dark-side-reejs-awaits-you-1e4p",
+    "title": "How to Build an Image Search App With Pagination Using React",
+    "link": "https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "【徵才】REMOTE远程: Web3/ AI/ Blochain/QA-测试/IOS/Android/JAVA/前端开发",
+    "link": "https://dev.to/hrzizi01/zheng-cai-remoteyuan-cheng-web3-ai-blochainqa-ce-shi-iosandroidjavaqian-duan-kai-fa-22c5",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Liskov Substitution Principle in React",
+    "link": "https://dev.to/mikhaelesa/liskov-substitution-principle-in-react-2p1n",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tailwind CSS vs. Styled-Components for Styling in React JS",
+    "link": "https://dev.to/jebbs/tailwind-css-vs-styled-components-for-styling-in-react-js-13ed",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How did you switch from JavaScript to TypeScript?",
+    "link": "https://dev.to/catherineisonline/how-did-you-switch-from-javascript-to-typescript-5gja",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Azure Certification with AZ-900 Dumps",
+    "link": "https://dev.to/az900dumps/azure-certification-with-az-900-dumps-4jd8",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to connect MongoDB to your Next.js application",
+    "link": "https://dev.to/aedamjung/how-to-connect-mongodb-to-your-nextjs-application-44dn",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JavaScript Is Running the World",
+    "link": "https://dev.to/pranta/why-javascript-is-running-the-world-55ao",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript - how to remove duplicate subArray?",
+    "link": "https://dev.to/jose_89/javascript-how-to-remove-duplicate-subarray-pco",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "HTML Canvas cheat sheet",
+    "link": "https://dev.to/enshunt/html-canvas-cheat-sheet-48pg",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best React.js Frontend Bootcamp 🧑‍💻",
+    "link": "https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "jam - JSON Array Modifier",
+    "link": "https://dev.to/dwbra/jam-json-array-modifier-i0j",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build an Image Search App With Pagination Using React",
+    "link": "https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "【徵才】REMOTE远程: Web3/ AI/ Blochain/QA-测试/IOS/Android/JAVA/前端开发",
+    "link": "https://dev.to/hrzizi01/zheng-cai-remoteyuan-cheng-web3-ai-blochainqa-ce-shi-iosandroidjavaqian-duan-kai-fa-22c5",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Liskov Substitution Principle in React",
+    "link": "https://dev.to/mikhaelesa/liskov-substitution-principle-in-react-2p1n",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tailwind CSS vs. Styled-Components for Styling in React JS",
+    "link": "https://dev.to/jebbs/tailwind-css-vs-styled-components-for-styling-in-react-js-13ed",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How did you switch from JavaScript to TypeScript?",
+    "link": "https://dev.to/catherineisonline/how-did-you-switch-from-javascript-to-typescript-5gja",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Azure Certification with AZ-900 Dumps",
+    "link": "https://dev.to/az900dumps/azure-certification-with-az-900-dumps-4jd8",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to connect MongoDB to your Next.js application",
+    "link": "https://dev.to/aedamjung/how-to-connect-mongodb-to-your-nextjs-application-44dn",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JavaScript Is Running the World",
+    "link": "https://dev.to/pranta/why-javascript-is-running-the-world-55ao",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript - how to remove duplicate subArray?",
+    "link": "https://dev.to/jose_89/javascript-how-to-remove-duplicate-subarray-pco",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "HTML Canvas cheat sheet",
+    "link": "https://dev.to/enshunt/html-canvas-cheat-sheet-48pg",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best React.js Frontend Bootcamp 🧑‍💻",
+    "link": "https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "jam - JSON Array Modifier",
+    "link": "https://dev.to/dwbra/jam-json-array-modifier-i0j",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build an Image Search App With Pagination Using React",
+    "link": "https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "【徵才】REMOTE远程: Web3/ AI/ Blochain/QA-测试/IOS/Android/JAVA/前端开发",
+    "link": "https://dev.to/hrzizi01/zheng-cai-remoteyuan-cheng-web3-ai-blochainqa-ce-shi-iosandroidjavaqian-duan-kai-fa-22c5",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Liskov Substitution Principle in React",
+    "link": "https://dev.to/mikhaelesa/liskov-substitution-principle-in-react-2p1n",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tailwind CSS vs. Styled-Components for Styling in React JS",
+    "link": "https://dev.to/jebbs/tailwind-css-vs-styled-components-for-styling-in-react-js-13ed",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How did you switch from JavaScript to TypeScript?",
+    "link": "https://dev.to/catherineisonline/how-did-you-switch-from-javascript-to-typescript-5gja",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Azure Certification with AZ-900 Dumps",
+    "link": "https://dev.to/az900dumps/azure-certification-with-az-900-dumps-4jd8",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to connect MongoDB to your Next.js application",
+    "link": "https://dev.to/aedamjung/how-to-connect-mongodb-to-your-nextjs-application-44dn",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JavaScript Is Running the World",
+    "link": "https://dev.to/pranta/why-javascript-is-running-the-world-55ao",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript - how to remove duplicate subArray?",
+    "link": "https://dev.to/jose_89/javascript-how-to-remove-duplicate-subarray-pco",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "HTML Canvas cheat sheet",
+    "link": "https://dev.to/enshunt/html-canvas-cheat-sheet-48pg",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best React.js Frontend Bootcamp 🧑‍💻",
+    "link": "https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "jam - JSON Array Modifier",
+    "link": "https://dev.to/dwbra/jam-json-array-modifier-i0j",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build an Image Search App With Pagination Using React",
+    "link": "https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "【徵才】REMOTE远程: Web3/ AI/ Blochain/QA-测试/IOS/Android/JAVA/前端开发",
+    "link": "https://dev.to/hrzizi01/zheng-cai-remoteyuan-cheng-web3-ai-blochainqa-ce-shi-iosandroidjavaqian-duan-kai-fa-22c5",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Liskov Substitution Principle in React",
+    "link": "https://dev.to/mikhaelesa/liskov-substitution-principle-in-react-2p1n",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tailwind CSS vs. Styled-Components for Styling in React JS",
+    "link": "https://dev.to/jebbs/tailwind-css-vs-styled-components-for-styling-in-react-js-13ed",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How did you switch from JavaScript to TypeScript?",
+    "link": "https://dev.to/catherineisonline/how-did-you-switch-from-javascript-to-typescript-5gja",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Azure Certification with AZ-900 Dumps",
+    "link": "https://dev.to/az900dumps/azure-certification-with-az-900-dumps-4jd8",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to connect MongoDB to your Next.js application",
+    "link": "https://dev.to/aedamjung/how-to-connect-mongodb-to-your-nextjs-application-44dn",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JavaScript Is Running the World",
+    "link": "https://dev.to/pranta/why-javascript-is-running-the-world-55ao",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript - how to remove duplicate subArray?",
+    "link": "https://dev.to/jose_89/javascript-how-to-remove-duplicate-subarray-pco",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "HTML Canvas cheat sheet",
+    "link": "https://dev.to/enshunt/html-canvas-cheat-sheet-48pg",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best React.js Frontend Bootcamp 🧑‍💻",
+    "link": "https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "jam - JSON Array Modifier",
+    "link": "https://dev.to/dwbra/jam-json-array-modifier-i0j",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build an Image Search App With Pagination Using React",
+    "link": "https://dev.to/myogeshchavan97/how-to-build-an-image-search-app-with-pagination-using-react-mg6",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "【徵才】REMOTE远程: Web3/ AI/ Blochain/QA-测试/IOS/Android/JAVA/前端开发",
+    "link": "https://dev.to/hrzizi01/zheng-cai-remoteyuan-cheng-web3-ai-blochainqa-ce-shi-iosandroidjavaqian-duan-kai-fa-22c5",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Liskov Substitution Principle in React",
+    "link": "https://dev.to/mikhaelesa/liskov-substitution-principle-in-react-2p1n",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tailwind CSS vs. Styled-Components for Styling in React JS",
+    "link": "https://dev.to/jebbs/tailwind-css-vs-styled-components-for-styling-in-react-js-13ed",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How did you switch from JavaScript to TypeScript?",
+    "link": "https://dev.to/catherineisonline/how-did-you-switch-from-javascript-to-typescript-5gja",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Azure Certification with AZ-900 Dumps",
+    "link": "https://dev.to/az900dumps/azure-certification-with-az-900-dumps-4jd8",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to connect MongoDB to your Next.js application",
+    "link": "https://dev.to/aedamjung/how-to-connect-mongodb-to-your-nextjs-application-44dn",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JavaScript Is Running the World",
+    "link": "https://dev.to/pranta/why-javascript-is-running-the-world-55ao",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript - how to remove duplicate subArray?",
+    "link": "https://dev.to/jose_89/javascript-how-to-remove-duplicate-subarray-pco",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "HTML Canvas cheat sheet",
+    "link": "https://dev.to/enshunt/html-canvas-cheat-sheet-48pg",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best React.js Frontend Bootcamp 🧑‍💻",
+    "link": "https://dev.to/idurar/best-reactjs-frontend-bootcamp-2oa7",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "jam - JSON Array Modifier",
+    "link": "https://dev.to/dwbra/jam-json-array-modifier-i0j",
+    "date": "10/6/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Trigger.dev update – September 2023",
+    "link": "https://dev.to/triggerdotdev/triggerdev-update-september-2023-39oj",
     "date": "10/5/2023",
     "site": "dev.to"
   },
   {
-    "title": "What If You Only Need One Table for Your Entire Database System?",
-    "link": "https://dev.to/mohammadfaisal/what-if-you-only-need-one-table-for-your-entire-database-system-4c40",
+    "title": "Quick Read to understand `package.json`",
+    "link": "https://dev.to/power_coder/quick-read-to-understand-packagejson-f9o",
     "date": "10/5/2023",
     "site": "dev.to"
   },
   {
-    "title": "React's Concurrent Mode and its Benefits",
-    "link": "https://dev.to/sidramaqbool/reacts-concurrent-mode-and-its-benefits-ji3",
+    "title": "Trigger.dev update – September 2023",
+    "link": "https://dev.to/triggerdotdev/triggerdev-update-september-2023-39oj",
     "date": "10/5/2023",
     "site": "dev.to"
   },
   {
-    "title": "Use URL imports before Node/TypeScript supports it",
-    "link": "https://dev.to/ayonli/use-url-imports-before-nodetypescript-supports-it-2fjm",
+    "title": "Quick Read to understand `package.json`",
+    "link": "https://dev.to/power_coder/quick-read-to-understand-packagejson-f9o",
     "date": "10/5/2023",
     "site": "dev.to"
   },
   {
-    "title": "Update total booking price on a form (like Airbnb) without refreshing using Stimulus",
-    "link": "https://dev.to/dmbf29/update-total-booking-price-on-a-form-like-airbnb-without-refreshing-using-stimulus-25m5",
+    "title": "Trigger.dev update – September 2023",
+    "link": "https://dev.to/triggerdotdev/triggerdev-update-september-2023-39oj",
     "date": "10/5/2023",
     "site": "dev.to"
   },
   {
-    "title": "API Blog Post Testing",
-    "link": "https://dev.to/jpablux/api-blog-post-testing-2g7a",
+    "title": "Quick Read to understand `package.json`",
+    "link": "https://dev.to/power_coder/quick-read-to-understand-packagejson-f9o",
     "date": "10/5/2023",
     "site": "dev.to"
   },
   {
-    "title": "How to create an invite-only auth flow in 2023",
-    "link": "https://dev.to/supertokens/how-to-create-an-invite-only-auth-flow-in-2023-233d",
+    "title": "Trigger.dev update – September 2023",
+    "link": "https://dev.to/triggerdotdev/triggerdev-update-september-2023-39oj",
     "date": "10/5/2023",
     "site": "dev.to"
   },
   {
-    "title": "API Works, cool.",
-    "link": "https://dev.to/jpablux/api-works-cool-1b4p",
+    "title": "Quick Read to understand `package.json`",
+    "link": "https://dev.to/power_coder/quick-read-to-understand-packagejson-f9o",
     "date": "10/5/2023",
     "site": "dev.to"
   },
   {
-    "title": "React Script Error when navigating through pages",
-    "link": "https://dev.to/shivendra8004/react-script-error-when-navigating-through-pages-3d06",
+    "title": "Trigger.dev update – September 2023",
+    "link": "https://dev.to/triggerdotdev/triggerdev-update-september-2023-39oj",
     "date": "10/5/2023",
     "site": "dev.to"
   },
   {
-    "title": "Note for those who use JS timer in their pages 📢 This bug might be there for you guys too!",
-    "link": "https://dev.to/gpingfeng/note-for-those-who-use-js-timer-in-their-pages-this-bug-might-be-there-for-you-guys-too-8hp",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rails 7.1 is coming out soon. Infield will upgrade your app with minimal back and forth.",
-    "link": "https://dev.to/allieoopz/rails-71-is-coming-out-soon-infield-will-upgrade-your-app-with-minimal-back-and-forth-2fkf",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducción a Jest y su importancia en el desarrollo de software",
-    "link": "https://dev.to/davichobits/introduccion-a-jest-y-su-importancia-en-el-desarrollo-de-software-4h7l",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Welcome to the dark side. Ree.js awaits you!",
-    "link": "https://dev.to/renhiyama/welcome-to-the-dark-side-reejs-awaits-you-1e4p",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "What If You Only Need One Table for Your Entire Database System?",
-    "link": "https://dev.to/mohammadfaisal/what-if-you-only-need-one-table-for-your-entire-database-system-4c40",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React's Concurrent Mode and its Benefits",
-    "link": "https://dev.to/sidramaqbool/reacts-concurrent-mode-and-its-benefits-ji3",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use URL imports before Node/TypeScript supports it",
-    "link": "https://dev.to/ayonli/use-url-imports-before-nodetypescript-supports-it-2fjm",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Update total booking price on a form (like Airbnb) without refreshing using Stimulus",
-    "link": "https://dev.to/dmbf29/update-total-booking-price-on-a-form-like-airbnb-without-refreshing-using-stimulus-25m5",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "API Blog Post Testing",
-    "link": "https://dev.to/jpablux/api-blog-post-testing-2g7a",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create an invite-only auth flow in 2023",
-    "link": "https://dev.to/supertokens/how-to-create-an-invite-only-auth-flow-in-2023-233d",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "API Works, cool.",
-    "link": "https://dev.to/jpablux/api-works-cool-1b4p",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Script Error when navigating through pages",
-    "link": "https://dev.to/shivendra8004/react-script-error-when-navigating-through-pages-3d06",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Note for those who use JS timer in their pages 📢 This bug might be there for you guys too!",
-    "link": "https://dev.to/gpingfeng/note-for-those-who-use-js-timer-in-their-pages-this-bug-might-be-there-for-you-guys-too-8hp",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rails 7.1 is coming out soon. Infield will upgrade your app with minimal back and forth.",
-    "link": "https://dev.to/allieoopz/rails-71-is-coming-out-soon-infield-will-upgrade-your-app-with-minimal-back-and-forth-2fkf",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducción a Jest y su importancia en el desarrollo de software",
-    "link": "https://dev.to/davichobits/introduccion-a-jest-y-su-importancia-en-el-desarrollo-de-software-4h7l",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Welcome to the dark side. Ree.js awaits you!",
-    "link": "https://dev.to/renhiyama/welcome-to-the-dark-side-reejs-awaits-you-1e4p",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "What If You Only Need One Table for Your Entire Database System?",
-    "link": "https://dev.to/mohammadfaisal/what-if-you-only-need-one-table-for-your-entire-database-system-4c40",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React's Concurrent Mode and its Benefits",
-    "link": "https://dev.to/sidramaqbool/reacts-concurrent-mode-and-its-benefits-ji3",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use URL imports before Node/TypeScript supports it",
-    "link": "https://dev.to/ayonli/use-url-imports-before-nodetypescript-supports-it-2fjm",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Update total booking price on a form (like Airbnb) without refreshing using Stimulus",
-    "link": "https://dev.to/dmbf29/update-total-booking-price-on-a-form-like-airbnb-without-refreshing-using-stimulus-25m5",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "API Blog Post Testing",
-    "link": "https://dev.to/jpablux/api-blog-post-testing-2g7a",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create an invite-only auth flow in 2023",
-    "link": "https://dev.to/supertokens/how-to-create-an-invite-only-auth-flow-in-2023-233d",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "API Works, cool.",
-    "link": "https://dev.to/jpablux/api-works-cool-1b4p",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Script Error when navigating through pages",
-    "link": "https://dev.to/shivendra8004/react-script-error-when-navigating-through-pages-3d06",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Note for those who use JS timer in their pages 📢 This bug might be there for you guys too!",
-    "link": "https://dev.to/gpingfeng/note-for-those-who-use-js-timer-in-their-pages-this-bug-might-be-there-for-you-guys-too-8hp",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rails 7.1 is coming out soon. Infield will upgrade your app with minimal back and forth.",
-    "link": "https://dev.to/allieoopz/rails-71-is-coming-out-soon-infield-will-upgrade-your-app-with-minimal-back-and-forth-2fkf",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducción a Jest y su importancia en el desarrollo de software",
-    "link": "https://dev.to/davichobits/introduccion-a-jest-y-su-importancia-en-el-desarrollo-de-software-4h7l",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Welcome to the dark side. Ree.js awaits you!",
-    "link": "https://dev.to/renhiyama/welcome-to-the-dark-side-reejs-awaits-you-1e4p",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "What If You Only Need One Table for Your Entire Database System?",
-    "link": "https://dev.to/mohammadfaisal/what-if-you-only-need-one-table-for-your-entire-database-system-4c40",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React's Concurrent Mode and its Benefits",
-    "link": "https://dev.to/sidramaqbool/reacts-concurrent-mode-and-its-benefits-ji3",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use URL imports before Node/TypeScript supports it",
-    "link": "https://dev.to/ayonli/use-url-imports-before-nodetypescript-supports-it-2fjm",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Update total booking price on a form (like Airbnb) without refreshing using Stimulus",
-    "link": "https://dev.to/dmbf29/update-total-booking-price-on-a-form-like-airbnb-without-refreshing-using-stimulus-25m5",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "API Blog Post Testing",
-    "link": "https://dev.to/jpablux/api-blog-post-testing-2g7a",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create an invite-only auth flow in 2023",
-    "link": "https://dev.to/supertokens/how-to-create-an-invite-only-auth-flow-in-2023-233d",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "API Works, cool.",
-    "link": "https://dev.to/jpablux/api-works-cool-1b4p",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Script Error when navigating through pages",
-    "link": "https://dev.to/shivendra8004/react-script-error-when-navigating-through-pages-3d06",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Note for those who use JS timer in their pages 📢 This bug might be there for you guys too!",
-    "link": "https://dev.to/gpingfeng/note-for-those-who-use-js-timer-in-their-pages-this-bug-might-be-there-for-you-guys-too-8hp",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rails 7.1 is coming out soon. Infield will upgrade your app with minimal back and forth.",
-    "link": "https://dev.to/allieoopz/rails-71-is-coming-out-soon-infield-will-upgrade-your-app-with-minimal-back-and-forth-2fkf",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducción a Jest y su importancia en el desarrollo de software",
-    "link": "https://dev.to/davichobits/introduccion-a-jest-y-su-importancia-en-el-desarrollo-de-software-4h7l",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Welcome to the dark side. Ree.js awaits you!",
-    "link": "https://dev.to/renhiyama/welcome-to-the-dark-side-reejs-awaits-you-1e4p",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "What If You Only Need One Table for Your Entire Database System?",
-    "link": "https://dev.to/mohammadfaisal/what-if-you-only-need-one-table-for-your-entire-database-system-4c40",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React's Concurrent Mode and its Benefits",
-    "link": "https://dev.to/sidramaqbool/reacts-concurrent-mode-and-its-benefits-ji3",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Use URL imports before Node/TypeScript supports it",
-    "link": "https://dev.to/ayonli/use-url-imports-before-nodetypescript-supports-it-2fjm",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Update total booking price on a form (like Airbnb) without refreshing using Stimulus",
-    "link": "https://dev.to/dmbf29/update-total-booking-price-on-a-form-like-airbnb-without-refreshing-using-stimulus-25m5",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "API Blog Post Testing",
-    "link": "https://dev.to/jpablux/api-blog-post-testing-2g7a",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create an invite-only auth flow in 2023",
-    "link": "https://dev.to/supertokens/how-to-create-an-invite-only-auth-flow-in-2023-233d",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "API Works, cool.",
-    "link": "https://dev.to/jpablux/api-works-cool-1b4p",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Script Error when navigating through pages",
-    "link": "https://dev.to/shivendra8004/react-script-error-when-navigating-through-pages-3d06",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Note for those who use JS timer in their pages 📢 This bug might be there for you guys too!",
-    "link": "https://dev.to/gpingfeng/note-for-those-who-use-js-timer-in-their-pages-this-bug-might-be-there-for-you-guys-too-8hp",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rails 7.1 is coming out soon. Infield will upgrade your app with minimal back and forth.",
-    "link": "https://dev.to/allieoopz/rails-71-is-coming-out-soon-infield-will-upgrade-your-app-with-minimal-back-and-forth-2fkf",
-    "date": "10/5/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducción a Jest y su importancia en el desarrollo de software",
-    "link": "https://dev.to/davichobits/introduccion-a-jest-y-su-importancia-en-el-desarrollo-de-software-4h7l",
+    "title": "Quick Read to understand `package.json`",
+    "link": "https://dev.to/power_coder/quick-read-to-understand-packagejson-f9o",
     "date": "10/5/2023",
     "site": "dev.to"
   },
@@ -366,14 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Delight your users with this instant scroll restoration custom hook",
-    "link": "https://dev.to/miketalbot/delight-your-users-with-this-instant-scroll-restoration-custom-hook-8fd",
-    "date": "10/4/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript: Nullish Coalescing vs OR operator",
-    "link": "https://dev.to/djzenma/javascript-nullish-coalescing-vs-or-operator-2297",
+    "title": "I hate Typescript, is it a shame?",
+    "link": "https://dev.to/bytebricks/i-hate-typescript-is-it-shame-5cek",
     "date": "10/4/2023",
     "site": "dev.to"
   },
@@ -384,68 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Delight your users with this instant scroll restoration custom hook",
-    "link": "https://dev.to/miketalbot/delight-your-users-with-this-instant-scroll-restoration-custom-hook-8fd",
-    "date": "10/4/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript: Nullish Coalescing vs OR operator",
-    "link": "https://dev.to/djzenma/javascript-nullish-coalescing-vs-or-operator-2297",
-    "date": "10/4/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "I hate Typescript, is it a shame?",
     "link": "https://dev.to/bytebricks/i-hate-typescript-is-it-shame-5cek",
     "date": "10/4/2023",
     "site": "dev.to"
   },
   {
-    "title": "Delight your users with this instant scroll restoration custom hook",
-    "link": "https://dev.to/miketalbot/delight-your-users-with-this-instant-scroll-restoration-custom-hook-8fd",
-    "date": "10/4/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript: Nullish Coalescing vs OR operator",
-    "link": "https://dev.to/djzenma/javascript-nullish-coalescing-vs-or-operator-2297",
-    "date": "10/4/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "I hate Typescript, is it a shame?",
     "link": "https://dev.to/bytebricks/i-hate-typescript-is-it-shame-5cek",
-    "date": "10/4/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Delight your users with this instant scroll restoration custom hook",
-    "link": "https://dev.to/miketalbot/delight-your-users-with-this-instant-scroll-restoration-custom-hook-8fd",
-    "date": "10/4/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript: Nullish Coalescing vs OR operator",
-    "link": "https://dev.to/djzenma/javascript-nullish-coalescing-vs-or-operator-2297",
-    "date": "10/4/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "I hate Typescript, is it a shame?",
-    "link": "https://dev.to/bytebricks/i-hate-typescript-is-it-shame-5cek",
-    "date": "10/4/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Delight your users with this instant scroll restoration custom hook",
-    "link": "https://dev.to/miketalbot/delight-your-users-with-this-instant-scroll-restoration-custom-hook-8fd",
-    "date": "10/4/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript: Nullish Coalescing vs OR operator",
-    "link": "https://dev.to/djzenma/javascript-nullish-coalescing-vs-or-operator-2297",
     "date": "10/4/2023",
     "site": "dev.to"
   },
@@ -965,7 +965,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
@@ -993,7 +993,7 @@
   {
     "title": "Comparing Four React Form Libraries: Formik, React Hook Form, React Final Form And Unform",
     "link": "https://www.smashingmagazine.com/2023/02/comparing-react-form-libraries/",
-    "reading_time": "27 min read",
+    "reading_time": "28 min read",
     "date": "2/2/2023",
     "site": "smashingmagazine"
   },
@@ -1007,7 +1007,7 @@
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -1097,7 +1097,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
@@ -1139,7 +1139,7 @@
   {
     "title": "The Case For Prisma In The Jamstack",
     "link": "https://www.smashingmagazine.com/2022/06/case-prisma-jamstack/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "6/6/2022",
     "site": "smashingmagazine"
   },
@@ -1216,7 +1216,7 @@
   {
     "title": "How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List",
     "link": "https://www.smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "4/4/2022",
     "site": "smashingmagazine"
   },
@@ -1244,7 +1244,7 @@
   {
     "title": "Performance Signals For Customizing Website UX",
     "link": "https://www.smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
-    "reading_time": "20 min read",
+    "reading_time": "21 min read",
     "date": "3/7/2022",
     "site": "smashingmagazine"
   },
