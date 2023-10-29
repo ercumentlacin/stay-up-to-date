@@ -1,331 +1,421 @@
 [
   {
-    "title": "How and when to use keys in React",
-    "link": "https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb",
+    "title": "Exploring the Latest CSS Variables and Custom Properties",
+    "link": "https://dev.to/rowsanali/exploring-the-latest-css-variables-and-custom-properties-3cid",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Overcoming Common Frontend Development Challenges",
+    "link": "https://dev.to/rowsanali/overcoming-common-frontend-development-challenges-578p",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Weekly Dev Findings 11",
+    "link": "https://dev.to/potykion/weekly-dev-findings-11-51e0",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 lines to setup a Form and send Emails in Next.js 14 using Server Actions",
+    "link": "https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-1if1",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 lines to setup a Form and send Emails in Next.js 14 using Server Actions",
+    "link": "https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-170l",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unit-Testing: The Unsung Hero of Code Quality 🛡️",
+    "link": "https://dev.to/rahulladumor/unit-testing-the-unsung-hero-of-code-quality-e68",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React -CSV-Reader",
+    "link": "https://dev.to/zeeshanali0704/react-csv-reader-2i0e",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎",
+    "link": "https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management Basics",
+    "link": "https://dev.to/dsibinski/react-state-management-basics-3252",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring the Latest CSS Variables and Custom Properties",
+    "link": "https://dev.to/rowsanali/exploring-the-latest-css-variables-and-custom-properties-3cid",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Overcoming Common Frontend Development Challenges",
+    "link": "https://dev.to/rowsanali/overcoming-common-frontend-development-challenges-578p",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Weekly Dev Findings 11",
+    "link": "https://dev.to/potykion/weekly-dev-findings-11-51e0",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 lines to setup a Form and send Emails in Next.js 14 using Server Actions",
+    "link": "https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-1if1",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 lines to setup a Form and send Emails in Next.js 14 using Server Actions",
+    "link": "https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-170l",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unit-Testing: The Unsung Hero of Code Quality 🛡️",
+    "link": "https://dev.to/rahulladumor/unit-testing-the-unsung-hero-of-code-quality-e68",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React -CSV-Reader",
+    "link": "https://dev.to/zeeshanali0704/react-csv-reader-2i0e",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎",
+    "link": "https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management Basics",
+    "link": "https://dev.to/dsibinski/react-state-management-basics-3252",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring the Latest CSS Variables and Custom Properties",
+    "link": "https://dev.to/rowsanali/exploring-the-latest-css-variables-and-custom-properties-3cid",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Overcoming Common Frontend Development Challenges",
+    "link": "https://dev.to/rowsanali/overcoming-common-frontend-development-challenges-578p",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Weekly Dev Findings 11",
+    "link": "https://dev.to/potykion/weekly-dev-findings-11-51e0",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 lines to setup a Form and send Emails in Next.js 14 using Server Actions",
+    "link": "https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-1if1",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 lines to setup a Form and send Emails in Next.js 14 using Server Actions",
+    "link": "https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-170l",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unit-Testing: The Unsung Hero of Code Quality 🛡️",
+    "link": "https://dev.to/rahulladumor/unit-testing-the-unsung-hero-of-code-quality-e68",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React -CSV-Reader",
+    "link": "https://dev.to/zeeshanali0704/react-csv-reader-2i0e",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎",
+    "link": "https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management Basics",
+    "link": "https://dev.to/dsibinski/react-state-management-basics-3252",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring the Latest CSS Variables and Custom Properties",
+    "link": "https://dev.to/rowsanali/exploring-the-latest-css-variables-and-custom-properties-3cid",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Overcoming Common Frontend Development Challenges",
+    "link": "https://dev.to/rowsanali/overcoming-common-frontend-development-challenges-578p",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Weekly Dev Findings 11",
+    "link": "https://dev.to/potykion/weekly-dev-findings-11-51e0",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 lines to setup a Form and send Emails in Next.js 14 using Server Actions",
+    "link": "https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-1if1",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 lines to setup a Form and send Emails in Next.js 14 using Server Actions",
+    "link": "https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-170l",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unit-Testing: The Unsung Hero of Code Quality 🛡️",
+    "link": "https://dev.to/rahulladumor/unit-testing-the-unsung-hero-of-code-quality-e68",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React -CSV-Reader",
+    "link": "https://dev.to/zeeshanali0704/react-csv-reader-2i0e",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎",
+    "link": "https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management Basics",
+    "link": "https://dev.to/dsibinski/react-state-management-basics-3252",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring the Latest CSS Variables and Custom Properties",
+    "link": "https://dev.to/rowsanali/exploring-the-latest-css-variables-and-custom-properties-3cid",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Overcoming Common Frontend Development Challenges",
+    "link": "https://dev.to/rowsanali/overcoming-common-frontend-development-challenges-578p",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Weekly Dev Findings 11",
+    "link": "https://dev.to/potykion/weekly-dev-findings-11-51e0",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 lines to setup a Form and send Emails in Next.js 14 using Server Actions",
+    "link": "https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-1if1",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 lines to setup a Form and send Emails in Next.js 14 using Server Actions",
+    "link": "https://dev.to/reeshee/25-lines-to-setup-a-form-and-send-emails-in-nextjs-14-using-server-actions-170l",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unit-Testing: The Unsung Hero of Code Quality 🛡️",
+    "link": "https://dev.to/rahulladumor/unit-testing-the-unsung-hero-of-code-quality-e68",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React -CSV-Reader",
+    "link": "https://dev.to/zeeshanali0704/react-csv-reader-2i0e",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎",
+    "link": "https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management Basics",
+    "link": "https://dev.to/dsibinski/react-state-management-basics-3252",
+    "date": "10/29/2023",
+    "site": "dev.to"
+  },
+  {
+    "title": "Regular Expressions (Regex) in JavaScript Tutorial",
+    "link": "https://dev.to/kiararj/regular-expressions-regex-in-javascript-tutorial-39en",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Basic Pattern - Javascript Interview",
-    "link": "https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0",
+    "title": "Interactive Textures in three.js",
+    "link": "https://dev.to/zimlearn/interactive-textures-in-threejs-410o",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "why learn web (javascript) ML(machine learning) 2024",
-    "link": "https://dev.to/fonyuygita/why-learn-web-javascript-mlmachine-learning-2024-2ef1",
+    "title": "Setting up a new Cloudflare Worker with a custom domain.",
+    "link": "https://dev.to/andyjessop/setting-up-a-new-cloudflare-worker-with-a-custom-domain-fl9",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Performing CRUD Operations in a React-Express-MongoDB Application",
-    "link": "https://dev.to/jps27cse/performing-crud-operations-in-a-react-express-mongodb-application-45d4",
+    "title": "Tailwind CSS Linear Gradient Randomizer",
+    "link": "https://dev.to/learncodeprofessor/tailwind-css-linear-gradient-randomizer-2j36",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "15 Reasons to Learn JavaScript: Unlocking the Power of the Web",
-    "link": "https://dev.to/tehczpad/15-reasons-to-learn-javascript-unlocking-the-power-of-the-web-1bjl",
+    "title": "Please how can I achieve this.",
+    "link": "https://dev.to/favouraderemi/please-how-can-i-achieve-this-353h",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Stylized Castle WebGL demo",
-    "link": "https://dev.to/keaukraine/stylized-castle-webgl-demo-1k29",
+    "title": "Regular Expressions (Regex) in JavaScript Tutorial",
+    "link": "https://dev.to/kiararj/regular-expressions-regex-in-javascript-tutorial-39en",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Latest Newsletter: Embarrassed to be Human (Issue #138)",
-    "link": "https://dev.to/mjgs/latest-newsletter-embarrassed-to-be-human-issue-138-3p7i",
+    "title": "Interactive Textures in three.js",
+    "link": "https://dev.to/zimlearn/interactive-textures-in-threejs-410o",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Announcing the First Ever State of React Survey",
-    "link": "https://dev.to/sachagreif/announcing-the-first-ever-state-of-react-survey-3k6b",
+    "title": "Setting up a new Cloudflare Worker with a custom domain.",
+    "link": "https://dev.to/andyjessop/setting-up-a-new-cloudflare-worker-with-a-custom-domain-fl9",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Pollyfill - PROMISE. ALL",
-    "link": "https://dev.to/zeeshanali0704/pollyfill-promise-all-1oe9",
+    "title": "Tailwind CSS Linear Gradient Randomizer",
+    "link": "https://dev.to/learncodeprofessor/tailwind-css-linear-gradient-randomizer-2j36",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "React Search Using-Debounce",
-    "link": "https://dev.to/zeeshanali0704/react-search-using-debounce-235a",
+    "title": "Please how can I achieve this.",
+    "link": "https://dev.to/favouraderemi/please-how-can-i-achieve-this-353h",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "How To Mock MongoDB's ObjectID",
-    "link": "https://dev.to/kaxmoglan/how-to-mock-mongodbs-objectid-5fei",
+    "title": "Regular Expressions (Regex) in JavaScript Tutorial",
+    "link": "https://dev.to/kiararj/regular-expressions-regex-in-javascript-tutorial-39en",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "How and when to use keys in React",
-    "link": "https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb",
+    "title": "Interactive Textures in three.js",
+    "link": "https://dev.to/zimlearn/interactive-textures-in-threejs-410o",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Basic Pattern - Javascript Interview",
-    "link": "https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0",
+    "title": "Setting up a new Cloudflare Worker with a custom domain.",
+    "link": "https://dev.to/andyjessop/setting-up-a-new-cloudflare-worker-with-a-custom-domain-fl9",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "why learn web (javascript) ML(machine learning) 2024",
-    "link": "https://dev.to/fonyuygita/why-learn-web-javascript-mlmachine-learning-2024-2ef1",
+    "title": "Tailwind CSS Linear Gradient Randomizer",
+    "link": "https://dev.to/learncodeprofessor/tailwind-css-linear-gradient-randomizer-2j36",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Performing CRUD Operations in a React-Express-MongoDB Application",
-    "link": "https://dev.to/jps27cse/performing-crud-operations-in-a-react-express-mongodb-application-45d4",
+    "title": "Please how can I achieve this.",
+    "link": "https://dev.to/favouraderemi/please-how-can-i-achieve-this-353h",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "15 Reasons to Learn JavaScript: Unlocking the Power of the Web",
-    "link": "https://dev.to/tehczpad/15-reasons-to-learn-javascript-unlocking-the-power-of-the-web-1bjl",
+    "title": "Regular Expressions (Regex) in JavaScript Tutorial",
+    "link": "https://dev.to/kiararj/regular-expressions-regex-in-javascript-tutorial-39en",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Stylized Castle WebGL demo",
-    "link": "https://dev.to/keaukraine/stylized-castle-webgl-demo-1k29",
+    "title": "Interactive Textures in three.js",
+    "link": "https://dev.to/zimlearn/interactive-textures-in-threejs-410o",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Latest Newsletter: Embarrassed to be Human (Issue #138)",
-    "link": "https://dev.to/mjgs/latest-newsletter-embarrassed-to-be-human-issue-138-3p7i",
+    "title": "Setting up a new Cloudflare Worker with a custom domain.",
+    "link": "https://dev.to/andyjessop/setting-up-a-new-cloudflare-worker-with-a-custom-domain-fl9",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Announcing the First Ever State of React Survey",
-    "link": "https://dev.to/sachagreif/announcing-the-first-ever-state-of-react-survey-3k6b",
+    "title": "Tailwind CSS Linear Gradient Randomizer",
+    "link": "https://dev.to/learncodeprofessor/tailwind-css-linear-gradient-randomizer-2j36",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Pollyfill - PROMISE. ALL",
-    "link": "https://dev.to/zeeshanali0704/pollyfill-promise-all-1oe9",
+    "title": "Please how can I achieve this.",
+    "link": "https://dev.to/favouraderemi/please-how-can-i-achieve-this-353h",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "React Search Using-Debounce",
-    "link": "https://dev.to/zeeshanali0704/react-search-using-debounce-235a",
+    "title": "Regular Expressions (Regex) in JavaScript Tutorial",
+    "link": "https://dev.to/kiararj/regular-expressions-regex-in-javascript-tutorial-39en",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "How To Mock MongoDB's ObjectID",
-    "link": "https://dev.to/kaxmoglan/how-to-mock-mongodbs-objectid-5fei",
+    "title": "Interactive Textures in three.js",
+    "link": "https://dev.to/zimlearn/interactive-textures-in-threejs-410o",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "How and when to use keys in React",
-    "link": "https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb",
+    "title": "Setting up a new Cloudflare Worker with a custom domain.",
+    "link": "https://dev.to/andyjessop/setting-up-a-new-cloudflare-worker-with-a-custom-domain-fl9",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "Basic Pattern - Javascript Interview",
-    "link": "https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0",
+    "title": "Tailwind CSS Linear Gradient Randomizer",
+    "link": "https://dev.to/learncodeprofessor/tailwind-css-linear-gradient-randomizer-2j36",
     "date": "10/28/2023",
     "site": "dev.to"
   },
   {
-    "title": "why learn web (javascript) ML(machine learning) 2024",
-    "link": "https://dev.to/fonyuygita/why-learn-web-javascript-mlmachine-learning-2024-2ef1",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Performing CRUD Operations in a React-Express-MongoDB Application",
-    "link": "https://dev.to/jps27cse/performing-crud-operations-in-a-react-express-mongodb-application-45d4",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "15 Reasons to Learn JavaScript: Unlocking the Power of the Web",
-    "link": "https://dev.to/tehczpad/15-reasons-to-learn-javascript-unlocking-the-power-of-the-web-1bjl",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stylized Castle WebGL demo",
-    "link": "https://dev.to/keaukraine/stylized-castle-webgl-demo-1k29",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Latest Newsletter: Embarrassed to be Human (Issue #138)",
-    "link": "https://dev.to/mjgs/latest-newsletter-embarrassed-to-be-human-issue-138-3p7i",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Announcing the First Ever State of React Survey",
-    "link": "https://dev.to/sachagreif/announcing-the-first-ever-state-of-react-survey-3k6b",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pollyfill - PROMISE. ALL",
-    "link": "https://dev.to/zeeshanali0704/pollyfill-promise-all-1oe9",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Search Using-Debounce",
-    "link": "https://dev.to/zeeshanali0704/react-search-using-debounce-235a",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Mock MongoDB's ObjectID",
-    "link": "https://dev.to/kaxmoglan/how-to-mock-mongodbs-objectid-5fei",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How and when to use keys in React",
-    "link": "https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Pattern - Javascript Interview",
-    "link": "https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "why learn web (javascript) ML(machine learning) 2024",
-    "link": "https://dev.to/fonyuygita/why-learn-web-javascript-mlmachine-learning-2024-2ef1",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Performing CRUD Operations in a React-Express-MongoDB Application",
-    "link": "https://dev.to/jps27cse/performing-crud-operations-in-a-react-express-mongodb-application-45d4",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "15 Reasons to Learn JavaScript: Unlocking the Power of the Web",
-    "link": "https://dev.to/tehczpad/15-reasons-to-learn-javascript-unlocking-the-power-of-the-web-1bjl",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stylized Castle WebGL demo",
-    "link": "https://dev.to/keaukraine/stylized-castle-webgl-demo-1k29",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Latest Newsletter: Embarrassed to be Human (Issue #138)",
-    "link": "https://dev.to/mjgs/latest-newsletter-embarrassed-to-be-human-issue-138-3p7i",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Announcing the First Ever State of React Survey",
-    "link": "https://dev.to/sachagreif/announcing-the-first-ever-state-of-react-survey-3k6b",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pollyfill - PROMISE. ALL",
-    "link": "https://dev.to/zeeshanali0704/pollyfill-promise-all-1oe9",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Search Using-Debounce",
-    "link": "https://dev.to/zeeshanali0704/react-search-using-debounce-235a",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Mock MongoDB's ObjectID",
-    "link": "https://dev.to/kaxmoglan/how-to-mock-mongodbs-objectid-5fei",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How and when to use keys in React",
-    "link": "https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Pattern - Javascript Interview",
-    "link": "https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "why learn web (javascript) ML(machine learning) 2024",
-    "link": "https://dev.to/fonyuygita/why-learn-web-javascript-mlmachine-learning-2024-2ef1",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Performing CRUD Operations in a React-Express-MongoDB Application",
-    "link": "https://dev.to/jps27cse/performing-crud-operations-in-a-react-express-mongodb-application-45d4",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "15 Reasons to Learn JavaScript: Unlocking the Power of the Web",
-    "link": "https://dev.to/tehczpad/15-reasons-to-learn-javascript-unlocking-the-power-of-the-web-1bjl",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stylized Castle WebGL demo",
-    "link": "https://dev.to/keaukraine/stylized-castle-webgl-demo-1k29",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Latest Newsletter: Embarrassed to be Human (Issue #138)",
-    "link": "https://dev.to/mjgs/latest-newsletter-embarrassed-to-be-human-issue-138-3p7i",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Announcing the First Ever State of React Survey",
-    "link": "https://dev.to/sachagreif/announcing-the-first-ever-state-of-react-survey-3k6b",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pollyfill - PROMISE. ALL",
-    "link": "https://dev.to/zeeshanali0704/pollyfill-promise-all-1oe9",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Search Using-Debounce",
-    "link": "https://dev.to/zeeshanali0704/react-search-using-debounce-235a",
-    "date": "10/28/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Mock MongoDB's ObjectID",
-    "link": "https://dev.to/kaxmoglan/how-to-mock-mongodbs-objectid-5fei",
+    "title": "Please how can I achieve this.",
+    "link": "https://dev.to/favouraderemi/please-how-can-i-achieve-this-353h",
     "date": "10/28/2023",
     "site": "dev.to"
   },
@@ -336,20 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "dotgenv – Revolutionize Your Node.js Secret Management",
-    "link": "https://dev.to/devrx/dotgenv-revolutionize-your-nodejs-secret-management-a1m",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "CloudGaming Part 2: That code was terrible lol",
-    "link": "https://dev.to/wmattei/cloudgaming-part-2-that-code-was-terrible-lol-4lp7",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript (Parte 01)",
-    "link": "https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8",
+    "title": "How To Find A Developer Job In 2023 (With Little Or No Experience) 🔥",
+    "link": "https://dev.to/dragosnedelcu/how-to-find-a-developer-job-in-2023-with-little-or-no-experience-27h7",
     "date": "10/27/2023",
     "site": "dev.to"
   },
@@ -360,92 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "dotgenv – Revolutionize Your Node.js Secret Management",
-    "link": "https://dev.to/devrx/dotgenv-revolutionize-your-nodejs-secret-management-a1m",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "CloudGaming Part 2: That code was terrible lol",
-    "link": "https://dev.to/wmattei/cloudgaming-part-2-that-code-was-terrible-lol-4lp7",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript (Parte 01)",
-    "link": "https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "How To Find A Developer Job In 2023 (With Little Or No Experience) 🔥",
     "link": "https://dev.to/dragosnedelcu/how-to-find-a-developer-job-in-2023-with-little-or-no-experience-27h7",
     "date": "10/27/2023",
     "site": "dev.to"
   },
   {
-    "title": "dotgenv – Revolutionize Your Node.js Secret Management",
-    "link": "https://dev.to/devrx/dotgenv-revolutionize-your-nodejs-secret-management-a1m",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "CloudGaming Part 2: That code was terrible lol",
-    "link": "https://dev.to/wmattei/cloudgaming-part-2-that-code-was-terrible-lol-4lp7",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript (Parte 01)",
-    "link": "https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
     "title": "How To Find A Developer Job In 2023 (With Little Or No Experience) 🔥",
     "link": "https://dev.to/dragosnedelcu/how-to-find-a-developer-job-in-2023-with-little-or-no-experience-27h7",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "dotgenv – Revolutionize Your Node.js Secret Management",
-    "link": "https://dev.to/devrx/dotgenv-revolutionize-your-nodejs-secret-management-a1m",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "CloudGaming Part 2: That code was terrible lol",
-    "link": "https://dev.to/wmattei/cloudgaming-part-2-that-code-was-terrible-lol-4lp7",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript (Parte 01)",
-    "link": "https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "How To Find A Developer Job In 2023 (With Little Or No Experience) 🔥",
-    "link": "https://dev.to/dragosnedelcu/how-to-find-a-developer-job-in-2023-with-little-or-no-experience-27h7",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "dotgenv – Revolutionize Your Node.js Secret Management",
-    "link": "https://dev.to/devrx/dotgenv-revolutionize-your-nodejs-secret-management-a1m",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "CloudGaming Part 2: That code was terrible lol",
-    "link": "https://dev.to/wmattei/cloudgaming-part-2-that-code-was-terrible-lol-4lp7",
-    "date": "10/27/2023",
-    "site": "dev.to"
-  },
-  {
-    "title": "Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript (Parte 01)",
-    "link": "https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8",
     "date": "10/27/2023",
     "site": "dev.to"
   },
@@ -720,7 +720,7 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
@@ -972,7 +972,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
@@ -1230,7 +1230,7 @@
   {
     "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
     "link": "https://www.smashingmagazine.com/2022/04/next-js-middleware-feature/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "4/1/2022",
     "site": "smashingmagazine"
   },
@@ -1251,7 +1251,7 @@
   {
     "title": "Performance Signals For Customizing Website UX",
     "link": "https://www.smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
-    "reading_time": "20 min read",
+    "reading_time": "21 min read",
     "date": "3/7/2022",
     "site": "smashingmagazine"
   },
