@@ -1,271 +1,451 @@
 [
   {
-    "title": "Debouncing and Throttling: Taming the Wild West of JavaScript Events",
-    "link": "https://dev.to/snaghub/debouncing-and-throttling-taming-the-wild-west-of-javascript-events-51mh",
+    "title": "Props Unpacked: The Magic Behind Data Flow in Components",
+    "link": "https://dev.to/devincb93/props-unpacked-the-magic-behind-data-flow-in-components-c4i",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "CORS (Cross-Origin Resource Sharing)",
+    "link": "https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Declare vs Assign vs Reassign vs Redeclare in JavaScript",
+    "link": "https://dev.to/tarekibnkhayer/declare-vs-assign-vs-reassign-vs-redeclare-in-javascript-4p7p",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Exception Handling",
+    "link": "https://dev.to/markliu2013/javascript-exception-handling-30ii",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I love Jotai",
+    "link": "https://dev.to/dayvster/why-i-love-jotai-d2n",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's Talk JavaScript: Demystifying the return Keyword",
+    "link": "https://dev.to/qa3emnik/lets-talk-javascript-demystifying-the-return-keyword-118o",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating Animations with CSS3",
+    "link": "https://dev.to/kartikmehta8/creating-animations-with-css3-2gkh",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Props Unpacked: The Magic Behind Data Flow in Components",
+    "link": "https://dev.to/devincb93/props-unpacked-the-magic-behind-data-flow-in-components-c4i",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "CORS (Cross-Origin Resource Sharing)",
+    "link": "https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Declare vs Assign vs Reassign vs Redeclare in JavaScript",
+    "link": "https://dev.to/tarekibnkhayer/declare-vs-assign-vs-reassign-vs-redeclare-in-javascript-4p7p",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Exception Handling",
+    "link": "https://dev.to/markliu2013/javascript-exception-handling-30ii",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I love Jotai",
+    "link": "https://dev.to/dayvster/why-i-love-jotai-d2n",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's Talk JavaScript: Demystifying the return Keyword",
+    "link": "https://dev.to/qa3emnik/lets-talk-javascript-demystifying-the-return-keyword-118o",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating Animations with CSS3",
+    "link": "https://dev.to/kartikmehta8/creating-animations-with-css3-2gkh",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Props Unpacked: The Magic Behind Data Flow in Components",
+    "link": "https://dev.to/devincb93/props-unpacked-the-magic-behind-data-flow-in-components-c4i",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "CORS (Cross-Origin Resource Sharing)",
+    "link": "https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Declare vs Assign vs Reassign vs Redeclare in JavaScript",
+    "link": "https://dev.to/tarekibnkhayer/declare-vs-assign-vs-reassign-vs-redeclare-in-javascript-4p7p",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Exception Handling",
+    "link": "https://dev.to/markliu2013/javascript-exception-handling-30ii",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I love Jotai",
+    "link": "https://dev.to/dayvster/why-i-love-jotai-d2n",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's Talk JavaScript: Demystifying the return Keyword",
+    "link": "https://dev.to/qa3emnik/lets-talk-javascript-demystifying-the-return-keyword-118o",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating Animations with CSS3",
+    "link": "https://dev.to/kartikmehta8/creating-animations-with-css3-2gkh",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Props Unpacked: The Magic Behind Data Flow in Components",
+    "link": "https://dev.to/devincb93/props-unpacked-the-magic-behind-data-flow-in-components-c4i",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "CORS (Cross-Origin Resource Sharing)",
+    "link": "https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Declare vs Assign vs Reassign vs Redeclare in JavaScript",
+    "link": "https://dev.to/tarekibnkhayer/declare-vs-assign-vs-reassign-vs-redeclare-in-javascript-4p7p",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Exception Handling",
+    "link": "https://dev.to/markliu2013/javascript-exception-handling-30ii",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I love Jotai",
+    "link": "https://dev.to/dayvster/why-i-love-jotai-d2n",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's Talk JavaScript: Demystifying the return Keyword",
+    "link": "https://dev.to/qa3emnik/lets-talk-javascript-demystifying-the-return-keyword-118o",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating Animations with CSS3",
+    "link": "https://dev.to/kartikmehta8/creating-animations-with-css3-2gkh",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Props Unpacked: The Magic Behind Data Flow in Components",
+    "link": "https://dev.to/devincb93/props-unpacked-the-magic-behind-data-flow-in-components-c4i",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "CORS (Cross-Origin Resource Sharing)",
+    "link": "https://dev.to/akmaurya31/cors-cross-origin-resource-sharing-1l3h",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Declare vs Assign vs Reassign vs Redeclare in JavaScript",
+    "link": "https://dev.to/tarekibnkhayer/declare-vs-assign-vs-reassign-vs-redeclare-in-javascript-4p7p",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Exception Handling",
+    "link": "https://dev.to/markliu2013/javascript-exception-handling-30ii",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I love Jotai",
+    "link": "https://dev.to/dayvster/why-i-love-jotai-d2n",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's Talk JavaScript: Demystifying the return Keyword",
+    "link": "https://dev.to/qa3emnik/lets-talk-javascript-demystifying-the-return-keyword-118o",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating Animations with CSS3",
+    "link": "https://dev.to/kartikmehta8/creating-animations-with-css3-2gkh",
+    "date": "2/24/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Genesis of a Framework: Unveiling the Meteor Story",
+    "link": "https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Var vs Let vs Const",
-    "link": "https://dev.to/ahnaf2009/var-vs-let-vs-const-1ipo",
+    "title": "AES Decryption in NodeJs",
+    "link": "https://dev.to/ridwaan1/aes-decryption-in-nodejs-77h",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Demystifying <script>: The Role of the Type Attribute",
-    "link": "https://dev.to/amangupta/demystifying-the-role-of-the-type-attribute-25lp",
+    "title": "Introducing Hello Bubblies: Where Comfort Meets Code!",
+    "link": "https://dev.to/azurabennett/introducing-hello-bubblies-where-comfort-meets-code-36m1",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "okvipwatch",
-    "link": "https://dev.to/okvip-watch/okvipwatch-144j",
+    "title": "Security Considerations for Your commercetools Application",
+    "link": "https://dev.to/nitin-rachabathuni/security-considerations-for-your-commercetools-application-3elg",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Mastering Next.js Routing: A Comprehensive Guide for Developers",
-    "link": "https://dev.to/nitin-rachabathuni/mastering-nextjs-routing-a-comprehensive-guide-for-developers-4je3",
+    "title": "What inspired me to become a fullstack developer",
+    "link": "https://dev.to/sage_ifeanyi/what-inspired-me-to-become-a-fullstack-developer-4gp1",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Understanding React's Supercharged Engine: React Fibre",
-    "link": "https://dev.to/mohammad1105/understanding-reacts-supercharged-engine-react-fibre-16l2",
+    "title": "JavaScript Hacks You NEED to Know in 2024!",
+    "link": "https://dev.to/aarzoo75/javascript-hacks-you-need-to-know-in-2024-501k",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Top Lạng Sơn AZ",
-    "link": "https://dev.to/sonaz/top-lang-son-az-5gbc",
+    "title": "Maximizing Website Potential: The Power of Tailored WordPress Plugins",
+    "link": "https://dev.to/jamesmartindev/maximizing-website-potential-the-power-of-tailored-wordpress-plugins-29id",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Essential JavaScript ES6 Methods Every Developer Should Know",
-    "link": "https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk",
+    "title": "JavaScript Array checks",
+    "link": "https://dev.to/samassango/javascript-array-checks-4cje",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Designing Resilient and Scalable Architectures in React Projects",
-    "link": "https://dev.to/mohammad_kh4441/designing-resilient-and-scalable-architectures-in-react-projects-1be1",
+    "title": "Genesis of a Framework: Unveiling the Meteor Story",
+    "link": "https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Debouncing and Throttling: Taming the Wild West of JavaScript Events",
-    "link": "https://dev.to/snaghub/debouncing-and-throttling-taming-the-wild-west-of-javascript-events-51mh",
+    "title": "AES Decryption in NodeJs",
+    "link": "https://dev.to/ridwaan1/aes-decryption-in-nodejs-77h",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Var vs Let vs Const",
-    "link": "https://dev.to/ahnaf2009/var-vs-let-vs-const-1ipo",
+    "title": "Introducing Hello Bubblies: Where Comfort Meets Code!",
+    "link": "https://dev.to/azurabennett/introducing-hello-bubblies-where-comfort-meets-code-36m1",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Demystifying <script>: The Role of the Type Attribute",
-    "link": "https://dev.to/amangupta/demystifying-the-role-of-the-type-attribute-25lp",
+    "title": "Security Considerations for Your commercetools Application",
+    "link": "https://dev.to/nitin-rachabathuni/security-considerations-for-your-commercetools-application-3elg",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "okvipwatch",
-    "link": "https://dev.to/okvip-watch/okvipwatch-144j",
+    "title": "What inspired me to become a fullstack developer",
+    "link": "https://dev.to/sage_ifeanyi/what-inspired-me-to-become-a-fullstack-developer-4gp1",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Mastering Next.js Routing: A Comprehensive Guide for Developers",
-    "link": "https://dev.to/nitin-rachabathuni/mastering-nextjs-routing-a-comprehensive-guide-for-developers-4je3",
+    "title": "JavaScript Hacks You NEED to Know in 2024!",
+    "link": "https://dev.to/aarzoo75/javascript-hacks-you-need-to-know-in-2024-501k",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Understanding React's Supercharged Engine: React Fibre",
-    "link": "https://dev.to/mohammad1105/understanding-reacts-supercharged-engine-react-fibre-16l2",
+    "title": "Maximizing Website Potential: The Power of Tailored WordPress Plugins",
+    "link": "https://dev.to/jamesmartindev/maximizing-website-potential-the-power-of-tailored-wordpress-plugins-29id",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Top Lạng Sơn AZ",
-    "link": "https://dev.to/sonaz/top-lang-son-az-5gbc",
+    "title": "JavaScript Array checks",
+    "link": "https://dev.to/samassango/javascript-array-checks-4cje",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Essential JavaScript ES6 Methods Every Developer Should Know",
-    "link": "https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk",
+    "title": "Genesis of a Framework: Unveiling the Meteor Story",
+    "link": "https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Designing Resilient and Scalable Architectures in React Projects",
-    "link": "https://dev.to/mohammad_kh4441/designing-resilient-and-scalable-architectures-in-react-projects-1be1",
+    "title": "AES Decryption in NodeJs",
+    "link": "https://dev.to/ridwaan1/aes-decryption-in-nodejs-77h",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Debouncing and Throttling: Taming the Wild West of JavaScript Events",
-    "link": "https://dev.to/snaghub/debouncing-and-throttling-taming-the-wild-west-of-javascript-events-51mh",
+    "title": "Introducing Hello Bubblies: Where Comfort Meets Code!",
+    "link": "https://dev.to/azurabennett/introducing-hello-bubblies-where-comfort-meets-code-36m1",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Var vs Let vs Const",
-    "link": "https://dev.to/ahnaf2009/var-vs-let-vs-const-1ipo",
+    "title": "Security Considerations for Your commercetools Application",
+    "link": "https://dev.to/nitin-rachabathuni/security-considerations-for-your-commercetools-application-3elg",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Demystifying <script>: The Role of the Type Attribute",
-    "link": "https://dev.to/amangupta/demystifying-the-role-of-the-type-attribute-25lp",
+    "title": "What inspired me to become a fullstack developer",
+    "link": "https://dev.to/sage_ifeanyi/what-inspired-me-to-become-a-fullstack-developer-4gp1",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "okvipwatch",
-    "link": "https://dev.to/okvip-watch/okvipwatch-144j",
+    "title": "JavaScript Hacks You NEED to Know in 2024!",
+    "link": "https://dev.to/aarzoo75/javascript-hacks-you-need-to-know-in-2024-501k",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Mastering Next.js Routing: A Comprehensive Guide for Developers",
-    "link": "https://dev.to/nitin-rachabathuni/mastering-nextjs-routing-a-comprehensive-guide-for-developers-4je3",
+    "title": "Maximizing Website Potential: The Power of Tailored WordPress Plugins",
+    "link": "https://dev.to/jamesmartindev/maximizing-website-potential-the-power-of-tailored-wordpress-plugins-29id",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Understanding React's Supercharged Engine: React Fibre",
-    "link": "https://dev.to/mohammad1105/understanding-reacts-supercharged-engine-react-fibre-16l2",
+    "title": "JavaScript Array checks",
+    "link": "https://dev.to/samassango/javascript-array-checks-4cje",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Top Lạng Sơn AZ",
-    "link": "https://dev.to/sonaz/top-lang-son-az-5gbc",
+    "title": "Genesis of a Framework: Unveiling the Meteor Story",
+    "link": "https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Essential JavaScript ES6 Methods Every Developer Should Know",
-    "link": "https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk",
+    "title": "AES Decryption in NodeJs",
+    "link": "https://dev.to/ridwaan1/aes-decryption-in-nodejs-77h",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Designing Resilient and Scalable Architectures in React Projects",
-    "link": "https://dev.to/mohammad_kh4441/designing-resilient-and-scalable-architectures-in-react-projects-1be1",
+    "title": "Introducing Hello Bubblies: Where Comfort Meets Code!",
+    "link": "https://dev.to/azurabennett/introducing-hello-bubblies-where-comfort-meets-code-36m1",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Debouncing and Throttling: Taming the Wild West of JavaScript Events",
-    "link": "https://dev.to/snaghub/debouncing-and-throttling-taming-the-wild-west-of-javascript-events-51mh",
+    "title": "Security Considerations for Your commercetools Application",
+    "link": "https://dev.to/nitin-rachabathuni/security-considerations-for-your-commercetools-application-3elg",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Var vs Let vs Const",
-    "link": "https://dev.to/ahnaf2009/var-vs-let-vs-const-1ipo",
+    "title": "What inspired me to become a fullstack developer",
+    "link": "https://dev.to/sage_ifeanyi/what-inspired-me-to-become-a-fullstack-developer-4gp1",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Demystifying <script>: The Role of the Type Attribute",
-    "link": "https://dev.to/amangupta/demystifying-the-role-of-the-type-attribute-25lp",
+    "title": "JavaScript Hacks You NEED to Know in 2024!",
+    "link": "https://dev.to/aarzoo75/javascript-hacks-you-need-to-know-in-2024-501k",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "okvipwatch",
-    "link": "https://dev.to/okvip-watch/okvipwatch-144j",
+    "title": "Maximizing Website Potential: The Power of Tailored WordPress Plugins",
+    "link": "https://dev.to/jamesmartindev/maximizing-website-potential-the-power-of-tailored-wordpress-plugins-29id",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Mastering Next.js Routing: A Comprehensive Guide for Developers",
-    "link": "https://dev.to/nitin-rachabathuni/mastering-nextjs-routing-a-comprehensive-guide-for-developers-4je3",
+    "title": "JavaScript Array checks",
+    "link": "https://dev.to/samassango/javascript-array-checks-4cje",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Understanding React's Supercharged Engine: React Fibre",
-    "link": "https://dev.to/mohammad1105/understanding-reacts-supercharged-engine-react-fibre-16l2",
+    "title": "Genesis of a Framework: Unveiling the Meteor Story",
+    "link": "https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Top Lạng Sơn AZ",
-    "link": "https://dev.to/sonaz/top-lang-son-az-5gbc",
+    "title": "AES Decryption in NodeJs",
+    "link": "https://dev.to/ridwaan1/aes-decryption-in-nodejs-77h",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Essential JavaScript ES6 Methods Every Developer Should Know",
-    "link": "https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk",
+    "title": "Introducing Hello Bubblies: Where Comfort Meets Code!",
+    "link": "https://dev.to/azurabennett/introducing-hello-bubblies-where-comfort-meets-code-36m1",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Designing Resilient and Scalable Architectures in React Projects",
-    "link": "https://dev.to/mohammad_kh4441/designing-resilient-and-scalable-architectures-in-react-projects-1be1",
+    "title": "Security Considerations for Your commercetools Application",
+    "link": "https://dev.to/nitin-rachabathuni/security-considerations-for-your-commercetools-application-3elg",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Debouncing and Throttling: Taming the Wild West of JavaScript Events",
-    "link": "https://dev.to/snaghub/debouncing-and-throttling-taming-the-wild-west-of-javascript-events-51mh",
+    "title": "What inspired me to become a fullstack developer",
+    "link": "https://dev.to/sage_ifeanyi/what-inspired-me-to-become-a-fullstack-developer-4gp1",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Var vs Let vs Const",
-    "link": "https://dev.to/ahnaf2009/var-vs-let-vs-const-1ipo",
+    "title": "JavaScript Hacks You NEED to Know in 2024!",
+    "link": "https://dev.to/aarzoo75/javascript-hacks-you-need-to-know-in-2024-501k",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "Demystifying <script>: The Role of the Type Attribute",
-    "link": "https://dev.to/amangupta/demystifying-the-role-of-the-type-attribute-25lp",
+    "title": "Maximizing Website Potential: The Power of Tailored WordPress Plugins",
+    "link": "https://dev.to/jamesmartindev/maximizing-website-potential-the-power-of-tailored-wordpress-plugins-29id",
     "date": "2/23/2024",
     "site": "dev.to"
   },
   {
-    "title": "okvipwatch",
-    "link": "https://dev.to/okvip-watch/okvipwatch-144j",
-    "date": "2/23/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Next.js Routing: A Comprehensive Guide for Developers",
-    "link": "https://dev.to/nitin-rachabathuni/mastering-nextjs-routing-a-comprehensive-guide-for-developers-4je3",
-    "date": "2/23/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding React's Supercharged Engine: React Fibre",
-    "link": "https://dev.to/mohammad1105/understanding-reacts-supercharged-engine-react-fibre-16l2",
-    "date": "2/23/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top Lạng Sơn AZ",
-    "link": "https://dev.to/sonaz/top-lang-son-az-5gbc",
-    "date": "2/23/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Essential JavaScript ES6 Methods Every Developer Should Know",
-    "link": "https://dev.to/snehalkadwe/essential-javascript-es6-methods-every-developer-should-know-4fnk",
-    "date": "2/23/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Designing Resilient and Scalable Architectures in React Projects",
-    "link": "https://dev.to/mohammad_kh4441/designing-resilient-and-scalable-architectures-in-react-projects-1be1",
+    "title": "JavaScript Array checks",
+    "link": "https://dev.to/samassango/javascript-array-checks-4cje",
     "date": "2/23/2024",
     "site": "dev.to"
   },
@@ -277,186 +457,6 @@
     "site": "smashingmagazine"
   },
   {
-    "title": "Discussion of the Week: \"Why is everything JavaScript?\"",
-    "link": "https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Xprz Package",
-    "link": "https://dev.to/m__mdy__m/xprz-package-3mpn",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Review my React-native Based Playground",
-    "link": "https://dev.to/suprsend/review-my-react-native-based-playground-2db2",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Six Pillars of Database-Driven Application Performance",
-    "link": "https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-3099",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Six Pillars of Database-Driven Application Performance",
-    "link": "https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-42mp",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Desestruturação de Arrays em JavaScript",
-    "link": "https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Discussion of the Week: \"Why is everything JavaScript?\"",
-    "link": "https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Xprz Package",
-    "link": "https://dev.to/m__mdy__m/xprz-package-3mpn",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Review my React-native Based Playground",
-    "link": "https://dev.to/suprsend/review-my-react-native-based-playground-2db2",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Six Pillars of Database-Driven Application Performance",
-    "link": "https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-3099",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Six Pillars of Database-Driven Application Performance",
-    "link": "https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-42mp",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Desestruturação de Arrays em JavaScript",
-    "link": "https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Discussion of the Week: \"Why is everything JavaScript?\"",
-    "link": "https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Xprz Package",
-    "link": "https://dev.to/m__mdy__m/xprz-package-3mpn",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Review my React-native Based Playground",
-    "link": "https://dev.to/suprsend/review-my-react-native-based-playground-2db2",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Six Pillars of Database-Driven Application Performance",
-    "link": "https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-3099",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Six Pillars of Database-Driven Application Performance",
-    "link": "https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-42mp",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Desestruturação de Arrays em JavaScript",
-    "link": "https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Discussion of the Week: \"Why is everything JavaScript?\"",
-    "link": "https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Xprz Package",
-    "link": "https://dev.to/m__mdy__m/xprz-package-3mpn",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Review my React-native Based Playground",
-    "link": "https://dev.to/suprsend/review-my-react-native-based-playground-2db2",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Six Pillars of Database-Driven Application Performance",
-    "link": "https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-3099",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Six Pillars of Database-Driven Application Performance",
-    "link": "https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-42mp",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Desestruturação de Arrays em JavaScript",
-    "link": "https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Discussion of the Week: \"Why is everything JavaScript?\"",
-    "link": "https://dev.to/devteam/discussion-of-the-week-why-is-everything-javascript-325a",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Xprz Package",
-    "link": "https://dev.to/m__mdy__m/xprz-package-3mpn",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Review my React-native Based Playground",
-    "link": "https://dev.to/suprsend/review-my-react-native-based-playground-2db2",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Six Pillars of Database-Driven Application Performance",
-    "link": "https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-3099",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Six Pillars of Database-Driven Application Performance",
-    "link": "https://dev.to/nirtayeb/the-six-pillars-of-database-driven-application-performance-42mp",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Desestruturação de Arrays em JavaScript",
-    "link": "https://dev.to/barobles/desestruturacao-de-arrays-em-javascript-3if5",
-    "date": "2/22/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
     "reading_time": "22 min read",
@@ -466,7 +466,7 @@
   {
     "title": "SolidStart: A Different Breed Of Meta-Framework",
     "link": "https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "1/8/2024",
     "site": "smashingmagazine"
   },
@@ -1084,7 +1084,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -1181,7 +1181,7 @@
   {
     "title": "The Future Of Frontend Build Tools",
     "link": "https://www.smashingmagazine.com/2022/06/future-frontend-build-tools/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "6/9/2022",
     "site": "smashingmagazine"
   },
@@ -1209,7 +1209,7 @@
   {
     "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
     "link": "https://www.smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
-    "reading_time": "20 min read",
+    "reading_time": "21 min read",
     "date": "5/20/2022",
     "site": "smashingmagazine"
   },
