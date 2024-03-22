@@ -1,301 +1,421 @@
 [
   {
-    "title": "JavaScript Template Literals",
-    "link": "https://dev.to/fpaghar/javascript-template-literals-2j1p",
+    "title": "Cookies in Depth using Javascript and NodeJs",
+    "link": "https://dev.to/codeparrot/cookies-in-depth-using-javascript-and-nodejs-5g7m",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Camping with HTML and CSS",
+    "link": "https://dev.to/madsstoumann/camping-with-html-and-css-3en3",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Components API in One Byte Explanation",
+    "link": "https://dev.to/alexandermirzoyan/web-components-api-in-one-byte-explanation-2dga",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "how to use of frappe backend in React.js",
+    "link": "https://dev.to/04anilr/how-to-use-of-frappe-in-backend-3i34",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "http request 200 /ok",
+    "link": "dev.to/sudo-self/http-request-200-ok-4li2",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comece API Node.js por aqui",
+    "link": "https://dev.to/eriveltondasilva/comece-api-nodejs-por-aqui-3k5k",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Real world asset token development",
+    "link": "https://dev.to/harsumil01/real-world-asset-token-development-1lcf",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Promise API In JavaScript",
+    "link": "https://dev.to/myogeshchavan97/promise-api-in-javascript-599b",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Photo puzzle x effect capcut template",
+    "link": "https://dev.to/capcutgurutips/photo-puzzle-x-effect-capcut-template-48bg",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to style form without changing the HTML markup.",
+    "link": "https://dev.to/juliettkhar/how-to-style-form-without-changing-the-html-markup-4j9n",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Handle 401 errors in a cleaner way with Axios interceptors",
+    "link": "https://dev.to/idboussadel/handle-401-errors-in-a-cleaner-way-with-axios-interceptors-5hkk",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Animations API",
+    "link": "https://dev.to/rodrigoantunes/web-animation-api-30h2",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quick Tip: Find if array has duplicates",
+    "link": "https://dev.to/cortim/quick-tip-find-if-array-has-duplicates-2e80",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cookies in Depth using Javascript and NodeJs",
+    "link": "https://dev.to/codeparrot/cookies-in-depth-using-javascript-and-nodejs-5g7m",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Camping with HTML and CSS",
+    "link": "https://dev.to/madsstoumann/camping-with-html-and-css-3en3",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Components API in One Byte Explanation",
+    "link": "https://dev.to/alexandermirzoyan/web-components-api-in-one-byte-explanation-2dga",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "how to use of frappe backend in React.js",
+    "link": "https://dev.to/04anilr/how-to-use-of-frappe-in-backend-3i34",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "http request 200 /ok",
+    "link": "dev.to/sudo-self/http-request-200-ok-4li2",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comece API Node.js por aqui",
+    "link": "https://dev.to/eriveltondasilva/comece-api-nodejs-por-aqui-3k5k",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Real world asset token development",
+    "link": "https://dev.to/harsumil01/real-world-asset-token-development-1lcf",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Promise API In JavaScript",
+    "link": "https://dev.to/myogeshchavan97/promise-api-in-javascript-599b",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Photo puzzle x effect capcut template",
+    "link": "https://dev.to/capcutgurutips/photo-puzzle-x-effect-capcut-template-48bg",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to style form without changing the HTML markup.",
+    "link": "https://dev.to/juliettkhar/how-to-style-form-without-changing-the-html-markup-4j9n",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Handle 401 errors in a cleaner way with Axios interceptors",
+    "link": "https://dev.to/idboussadel/handle-401-errors-in-a-cleaner-way-with-axios-interceptors-5hkk",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Animations API",
+    "link": "https://dev.to/rodrigoantunes/web-animation-api-30h2",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quick Tip: Find if array has duplicates",
+    "link": "https://dev.to/cortim/quick-tip-find-if-array-has-duplicates-2e80",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cookies in Depth using Javascript and NodeJs",
+    "link": "https://dev.to/codeparrot/cookies-in-depth-using-javascript-and-nodejs-5g7m",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Camping with HTML and CSS",
+    "link": "https://dev.to/madsstoumann/camping-with-html-and-css-3en3",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Components API in One Byte Explanation",
+    "link": "https://dev.to/alexandermirzoyan/web-components-api-in-one-byte-explanation-2dga",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "how to use of frappe backend in React.js",
+    "link": "https://dev.to/04anilr/how-to-use-of-frappe-in-backend-3i34",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "http request 200 /ok",
+    "link": "dev.to/sudo-self/http-request-200-ok-4li2",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comece API Node.js por aqui",
+    "link": "https://dev.to/eriveltondasilva/comece-api-nodejs-por-aqui-3k5k",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Real world asset token development",
+    "link": "https://dev.to/harsumil01/real-world-asset-token-development-1lcf",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Promise API In JavaScript",
+    "link": "https://dev.to/myogeshchavan97/promise-api-in-javascript-599b",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Photo puzzle x effect capcut template",
+    "link": "https://dev.to/capcutgurutips/photo-puzzle-x-effect-capcut-template-48bg",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to style form without changing the HTML markup.",
+    "link": "https://dev.to/juliettkhar/how-to-style-form-without-changing-the-html-markup-4j9n",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Handle 401 errors in a cleaner way with Axios interceptors",
+    "link": "https://dev.to/idboussadel/handle-401-errors-in-a-cleaner-way-with-axios-interceptors-5hkk",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Animations API",
+    "link": "https://dev.to/rodrigoantunes/web-animation-api-30h2",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quick Tip: Find if array has duplicates",
+    "link": "https://dev.to/cortim/quick-tip-find-if-array-has-duplicates-2e80",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cookies in Depth using Javascript and NodeJs",
+    "link": "https://dev.to/codeparrot/cookies-in-depth-using-javascript-and-nodejs-5g7m",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Camping with HTML and CSS",
+    "link": "https://dev.to/madsstoumann/camping-with-html-and-css-3en3",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Components API in One Byte Explanation",
+    "link": "https://dev.to/alexandermirzoyan/web-components-api-in-one-byte-explanation-2dga",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "how to use of frappe backend in React.js",
+    "link": "https://dev.to/04anilr/how-to-use-of-frappe-in-backend-3i34",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "http request 200 /ok",
+    "link": "dev.to/sudo-self/http-request-200-ok-4li2",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comece API Node.js por aqui",
+    "link": "https://dev.to/eriveltondasilva/comece-api-nodejs-por-aqui-3k5k",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Real world asset token development",
+    "link": "https://dev.to/harsumil01/real-world-asset-token-development-1lcf",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Promise API In JavaScript",
+    "link": "https://dev.to/myogeshchavan97/promise-api-in-javascript-599b",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Photo puzzle x effect capcut template",
+    "link": "https://dev.to/capcutgurutips/photo-puzzle-x-effect-capcut-template-48bg",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to style form without changing the HTML markup.",
+    "link": "https://dev.to/juliettkhar/how-to-style-form-without-changing-the-html-markup-4j9n",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Handle 401 errors in a cleaner way with Axios interceptors",
+    "link": "https://dev.to/idboussadel/handle-401-errors-in-a-cleaner-way-with-axios-interceptors-5hkk",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Animations API",
+    "link": "https://dev.to/rodrigoantunes/web-animation-api-30h2",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quick Tip: Find if array has duplicates",
+    "link": "https://dev.to/cortim/quick-tip-find-if-array-has-duplicates-2e80",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cookies in Depth using Javascript and NodeJs",
+    "link": "https://dev.to/codeparrot/cookies-in-depth-using-javascript-and-nodejs-5g7m",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Camping with HTML and CSS",
+    "link": "https://dev.to/madsstoumann/camping-with-html-and-css-3en3",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Components API in One Byte Explanation",
+    "link": "https://dev.to/alexandermirzoyan/web-components-api-in-one-byte-explanation-2dga",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "how to use of frappe backend in React.js",
+    "link": "https://dev.to/04anilr/how-to-use-of-frappe-in-backend-3i34",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "http request 200 /ok",
+    "link": "dev.to/sudo-self/http-request-200-ok-4li2",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Comece API Node.js por aqui",
+    "link": "https://dev.to/eriveltondasilva/comece-api-nodejs-por-aqui-3k5k",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Real world asset token development",
+    "link": "https://dev.to/harsumil01/real-world-asset-token-development-1lcf",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Promise API In JavaScript",
+    "link": "https://dev.to/myogeshchavan97/promise-api-in-javascript-599b",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Photo puzzle x effect capcut template",
+    "link": "https://dev.to/capcutgurutips/photo-puzzle-x-effect-capcut-template-48bg",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to style form without changing the HTML markup.",
+    "link": "https://dev.to/juliettkhar/how-to-style-form-without-changing-the-html-markup-4j9n",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Handle 401 errors in a cleaner way with Axios interceptors",
+    "link": "https://dev.to/idboussadel/handle-401-errors-in-a-cleaner-way-with-axios-interceptors-5hkk",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Animations API",
+    "link": "https://dev.to/rodrigoantunes/web-animation-api-30h2",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quick Tip: Find if array has duplicates",
+    "link": "https://dev.to/cortim/quick-tip-find-if-array-has-duplicates-2e80",
+    "date": "3/22/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How JSON Web Tokens Power Mobile Driver's Licenses",
+    "link": "https://dev.to/blackgirlbytes/how-json-web-tokens-power-mobile-drivers-licenses-31hp",
     "date": "3/21/2024",
     "site": "dev.to"
   },
   {
-    "title": "What is Babel.js? Uses, Advantages, and Disadvantages",
-    "link": "https://dev.to/shariqahmed525/what-is-babeljs-uses-advantages-and-disadvantages-598p",
+    "title": "How JSON Web Tokens Power Mobile Driver's Licenses",
+    "link": "https://dev.to/blackgirlbytes/how-json-web-tokens-power-mobile-drivers-licenses-31hp",
     "date": "3/21/2024",
     "site": "dev.to"
   },
   {
-    "title": "The Future of JavaScript with WebAssembly: A Beginner's Guide",
-    "link": "https://dev.to/itsjp/the-future-of-javascript-with-webassembly-a-beginners-guide-d4h",
+    "title": "How JSON Web Tokens Power Mobile Driver's Licenses",
+    "link": "https://dev.to/blackgirlbytes/how-json-web-tokens-power-mobile-drivers-licenses-31hp",
     "date": "3/21/2024",
     "site": "dev.to"
   },
   {
-    "title": "Dev Challenge Completed",
-    "link": "https://dev.to/itsjp/dev-challenge-completed-42e6",
+    "title": "How JSON Web Tokens Power Mobile Driver's Licenses",
+    "link": "https://dev.to/blackgirlbytes/how-json-web-tokens-power-mobile-drivers-licenses-31hp",
     "date": "3/21/2024",
     "site": "dev.to"
   },
   {
-    "title": "Closures in JavaScript: A Simple and Clear Explanation",
-    "link": "https://dev.to/nameismani/closures-in-javascript-4ocj",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Factory Functions in Javascript: The How and Why",
-    "link": "https://dev.to/heyjoshlee/factory-functions-in-javascript-the-how-and-why-1lg7",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a Responsive Navigation Bar: A Smooth Combination of JavaScript, HTML, and CSS",
-    "link": "https://dev.to/ritespan04/creating-a-responsive-navigation-bar-a-smooth-combination-of-javascript-html-and-css-3pmh",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm Getting an Error while creating an react app. Please help me to try to solve this error",
-    "link": "https://dev.to/seema2000/im-getting-an-error-while-creating-an-react-app-please-help-me-to-try-to-solve-this-error-1c69",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deliciously Designed CSS Artistry at Its Finest",
-    "link": "https://dev.to/gauharnawab/deliciously-designed-css-artistry-at-its-finest-56ed",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simplifying State Management with Zustand: Updating Nested Objects",
-    "link": "https://dev.to/fazle-rabbi-dev/simplifying-state-management-with-zustand-updating-nested-objects-521g",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Template Literals",
-    "link": "https://dev.to/fpaghar/javascript-template-literals-2j1p",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Babel.js? Uses, Advantages, and Disadvantages",
-    "link": "https://dev.to/shariqahmed525/what-is-babeljs-uses-advantages-and-disadvantages-598p",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Future of JavaScript with WebAssembly: A Beginner's Guide",
-    "link": "https://dev.to/itsjp/the-future-of-javascript-with-webassembly-a-beginners-guide-d4h",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dev Challenge Completed",
-    "link": "https://dev.to/itsjp/dev-challenge-completed-42e6",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Closures in JavaScript: A Simple and Clear Explanation",
-    "link": "https://dev.to/nameismani/closures-in-javascript-4ocj",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Factory Functions in Javascript: The How and Why",
-    "link": "https://dev.to/heyjoshlee/factory-functions-in-javascript-the-how-and-why-1lg7",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a Responsive Navigation Bar: A Smooth Combination of JavaScript, HTML, and CSS",
-    "link": "https://dev.to/ritespan04/creating-a-responsive-navigation-bar-a-smooth-combination-of-javascript-html-and-css-3pmh",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm Getting an Error while creating an react app. Please help me to try to solve this error",
-    "link": "https://dev.to/seema2000/im-getting-an-error-while-creating-an-react-app-please-help-me-to-try-to-solve-this-error-1c69",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deliciously Designed CSS Artistry at Its Finest",
-    "link": "https://dev.to/gauharnawab/deliciously-designed-css-artistry-at-its-finest-56ed",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simplifying State Management with Zustand: Updating Nested Objects",
-    "link": "https://dev.to/fazle-rabbi-dev/simplifying-state-management-with-zustand-updating-nested-objects-521g",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Template Literals",
-    "link": "https://dev.to/fpaghar/javascript-template-literals-2j1p",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Babel.js? Uses, Advantages, and Disadvantages",
-    "link": "https://dev.to/shariqahmed525/what-is-babeljs-uses-advantages-and-disadvantages-598p",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Future of JavaScript with WebAssembly: A Beginner's Guide",
-    "link": "https://dev.to/itsjp/the-future-of-javascript-with-webassembly-a-beginners-guide-d4h",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dev Challenge Completed",
-    "link": "https://dev.to/itsjp/dev-challenge-completed-42e6",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Closures in JavaScript: A Simple and Clear Explanation",
-    "link": "https://dev.to/nameismani/closures-in-javascript-4ocj",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Factory Functions in Javascript: The How and Why",
-    "link": "https://dev.to/heyjoshlee/factory-functions-in-javascript-the-how-and-why-1lg7",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a Responsive Navigation Bar: A Smooth Combination of JavaScript, HTML, and CSS",
-    "link": "https://dev.to/ritespan04/creating-a-responsive-navigation-bar-a-smooth-combination-of-javascript-html-and-css-3pmh",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm Getting an Error while creating an react app. Please help me to try to solve this error",
-    "link": "https://dev.to/seema2000/im-getting-an-error-while-creating-an-react-app-please-help-me-to-try-to-solve-this-error-1c69",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deliciously Designed CSS Artistry at Its Finest",
-    "link": "https://dev.to/gauharnawab/deliciously-designed-css-artistry-at-its-finest-56ed",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simplifying State Management with Zustand: Updating Nested Objects",
-    "link": "https://dev.to/fazle-rabbi-dev/simplifying-state-management-with-zustand-updating-nested-objects-521g",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Template Literals",
-    "link": "https://dev.to/fpaghar/javascript-template-literals-2j1p",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Babel.js? Uses, Advantages, and Disadvantages",
-    "link": "https://dev.to/shariqahmed525/what-is-babeljs-uses-advantages-and-disadvantages-598p",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Future of JavaScript with WebAssembly: A Beginner's Guide",
-    "link": "https://dev.to/itsjp/the-future-of-javascript-with-webassembly-a-beginners-guide-d4h",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dev Challenge Completed",
-    "link": "https://dev.to/itsjp/dev-challenge-completed-42e6",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Closures in JavaScript: A Simple and Clear Explanation",
-    "link": "https://dev.to/nameismani/closures-in-javascript-4ocj",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Factory Functions in Javascript: The How and Why",
-    "link": "https://dev.to/heyjoshlee/factory-functions-in-javascript-the-how-and-why-1lg7",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a Responsive Navigation Bar: A Smooth Combination of JavaScript, HTML, and CSS",
-    "link": "https://dev.to/ritespan04/creating-a-responsive-navigation-bar-a-smooth-combination-of-javascript-html-and-css-3pmh",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm Getting an Error while creating an react app. Please help me to try to solve this error",
-    "link": "https://dev.to/seema2000/im-getting-an-error-while-creating-an-react-app-please-help-me-to-try-to-solve-this-error-1c69",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deliciously Designed CSS Artistry at Its Finest",
-    "link": "https://dev.to/gauharnawab/deliciously-designed-css-artistry-at-its-finest-56ed",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simplifying State Management with Zustand: Updating Nested Objects",
-    "link": "https://dev.to/fazle-rabbi-dev/simplifying-state-management-with-zustand-updating-nested-objects-521g",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Template Literals",
-    "link": "https://dev.to/fpaghar/javascript-template-literals-2j1p",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Babel.js? Uses, Advantages, and Disadvantages",
-    "link": "https://dev.to/shariqahmed525/what-is-babeljs-uses-advantages-and-disadvantages-598p",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Future of JavaScript with WebAssembly: A Beginner's Guide",
-    "link": "https://dev.to/itsjp/the-future-of-javascript-with-webassembly-a-beginners-guide-d4h",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dev Challenge Completed",
-    "link": "https://dev.to/itsjp/dev-challenge-completed-42e6",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Closures in JavaScript: A Simple and Clear Explanation",
-    "link": "https://dev.to/nameismani/closures-in-javascript-4ocj",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Factory Functions in Javascript: The How and Why",
-    "link": "https://dev.to/heyjoshlee/factory-functions-in-javascript-the-how-and-why-1lg7",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating a Responsive Navigation Bar: A Smooth Combination of JavaScript, HTML, and CSS",
-    "link": "https://dev.to/ritespan04/creating-a-responsive-navigation-bar-a-smooth-combination-of-javascript-html-and-css-3pmh",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm Getting an Error while creating an react app. Please help me to try to solve this error",
-    "link": "https://dev.to/seema2000/im-getting-an-error-while-creating-an-react-app-please-help-me-to-try-to-solve-this-error-1c69",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deliciously Designed CSS Artistry at Its Finest",
-    "link": "https://dev.to/gauharnawab/deliciously-designed-css-artistry-at-its-finest-56ed",
-    "date": "3/21/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simplifying State Management with Zustand: Updating Nested Objects",
-    "link": "https://dev.to/fazle-rabbi-dev/simplifying-state-management-with-zustand-updating-nested-objects-521g",
+    "title": "How JSON Web Tokens Power Mobile Driver's Licenses",
+    "link": "https://dev.to/blackgirlbytes/how-json-web-tokens-power-mobile-drivers-licenses-31hp",
     "date": "3/21/2024",
     "site": "dev.to"
   },
@@ -306,26 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Explaining requestAnimationFrame in 256 characters or fewer",
-    "link": "https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "One Byte Explainer: matchMedia",
-    "link": "https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shadow DOM API",
-    "link": "https://dev.to/sarahokolo/shadow-dom-api-2jim",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Local Storage",
-    "link": "https://dev.to/ethernmyth/local-storage-4j48",
+    "title": "Join Our First Community Challenge: The Frontend Challenge",
+    "link": "https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be",
     "date": "3/20/2024",
     "site": "dev.to"
   },
@@ -336,116 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Explaining requestAnimationFrame in 256 characters or fewer",
-    "link": "https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "One Byte Explainer: matchMedia",
-    "link": "https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shadow DOM API",
-    "link": "https://dev.to/sarahokolo/shadow-dom-api-2jim",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Local Storage",
-    "link": "https://dev.to/ethernmyth/local-storage-4j48",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "Join Our First Community Challenge: The Frontend Challenge",
     "link": "https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be",
     "date": "3/20/2024",
     "site": "dev.to"
   },
   {
-    "title": "Explaining requestAnimationFrame in 256 characters or fewer",
-    "link": "https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "One Byte Explainer: matchMedia",
-    "link": "https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shadow DOM API",
-    "link": "https://dev.to/sarahokolo/shadow-dom-api-2jim",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Local Storage",
-    "link": "https://dev.to/ethernmyth/local-storage-4j48",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "Join Our First Community Challenge: The Frontend Challenge",
     "link": "https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Explaining requestAnimationFrame in 256 characters or fewer",
-    "link": "https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "One Byte Explainer: matchMedia",
-    "link": "https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shadow DOM API",
-    "link": "https://dev.to/sarahokolo/shadow-dom-api-2jim",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Local Storage",
-    "link": "https://dev.to/ethernmyth/local-storage-4j48",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Join Our First Community Challenge: The Frontend Challenge",
-    "link": "https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Explaining requestAnimationFrame in 256 characters or fewer",
-    "link": "https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "One Byte Explainer: matchMedia",
-    "link": "https://dev.to/link2twenty/one-byte-explainer-matchmedia-14k5",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shadow DOM API",
-    "link": "https://dev.to/sarahokolo/shadow-dom-api-2jim",
-    "date": "3/20/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Local Storage",
-    "link": "https://dev.to/ethernmyth/local-storage-4j48",
     "date": "3/20/2024",
     "site": "dev.to"
   },
@@ -459,7 +459,7 @@
   {
     "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
     "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "2/22/2024",
     "site": "smashingmagazine"
   },
@@ -776,7 +776,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -1063,7 +1063,7 @@
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -1153,7 +1153,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
