@@ -1,211 +1,421 @@
 [
   {
-    "title": "Are You Ready for These JavaScript Interview Puzzles?",
-    "link": "https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8",
+    "title": "JavaScript Optional Chaining! 🌟",
+    "link": "https://dev.to/sh20raj/unlocking-javascript-magicjavascript-optional-chaining-2ia",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "is 0 !== null in Javascript 💡",
+    "link": "https://dev.to/sh20raj/is-0-null-in-javascript-javascript-quirks-tricky-equality-questions-4eac",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Arrays 🔥 Array Awesomeness",
+    "link": "https://dev.to/sh20raj/javascript-arrays-unlocking-javascript-magic-1gm5",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript console methods for better debugging 🔮",
+    "link": "https://dev.to/sh20raj/javascript-console-methods-for-better-debugging-unlocking-javascript-magic-2fah",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "SSR vs SPA Showdown: Choosing the Right Rendering Approach for Your Web App",
+    "link": "https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "RSLike@3. Well-known Symbols, Improved Usage of TypeScript, and Weighing More",
+    "link": "https://dev.to/vitalicset/rslike3-well-known-symbols-improved-usage-of-typescript-and-weighing-more-4bnd",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Voice and Eye-Controlled To-Do App - Part 3",
+    "link": "https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-3-14e7",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎩 JavaScript Magic: 20 Quirky Questions! 💫",
+    "link": "https://dev.to/sh20raj/javascript-magic-20-quirky-questions-52ga",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "2024 Best JavaScript PDF Viewer",
+    "link": "https://dev.to/derek-compdf/2024-best-javascript-pdf-viewer-id0",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to split pages by device type in Next.js",
+    "link": "https://dev.to/andrepolischuk/how-to-split-pages-by-device-type-in-nextjs-2ji2",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How function is object?",
+    "link": "https://dev.to/amanp30/how-function-is-object-2856",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dino hack",
+    "link": "https://dev.to/r4nd3l/dino-hack-4i62",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tricky Question for React interview",
+    "link": "https://dev.to/ihesami/tricky-question-for-react-interview-2hc4",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Optional Chaining! 🌟",
+    "link": "https://dev.to/sh20raj/unlocking-javascript-magicjavascript-optional-chaining-2ia",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "is 0 !== null in Javascript 💡",
+    "link": "https://dev.to/sh20raj/is-0-null-in-javascript-javascript-quirks-tricky-equality-questions-4eac",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Arrays 🔥 Array Awesomeness",
+    "link": "https://dev.to/sh20raj/javascript-arrays-unlocking-javascript-magic-1gm5",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript console methods for better debugging 🔮",
+    "link": "https://dev.to/sh20raj/javascript-console-methods-for-better-debugging-unlocking-javascript-magic-2fah",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "SSR vs SPA Showdown: Choosing the Right Rendering Approach for Your Web App",
+    "link": "https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "RSLike@3. Well-known Symbols, Improved Usage of TypeScript, and Weighing More",
+    "link": "https://dev.to/vitalicset/rslike3-well-known-symbols-improved-usage-of-typescript-and-weighing-more-4bnd",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Voice and Eye-Controlled To-Do App - Part 3",
+    "link": "https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-3-14e7",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎩 JavaScript Magic: 20 Quirky Questions! 💫",
+    "link": "https://dev.to/sh20raj/javascript-magic-20-quirky-questions-52ga",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "2024 Best JavaScript PDF Viewer",
+    "link": "https://dev.to/derek-compdf/2024-best-javascript-pdf-viewer-id0",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to split pages by device type in Next.js",
+    "link": "https://dev.to/andrepolischuk/how-to-split-pages-by-device-type-in-nextjs-2ji2",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How function is object?",
+    "link": "https://dev.to/amanp30/how-function-is-object-2856",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dino hack",
+    "link": "https://dev.to/r4nd3l/dino-hack-4i62",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tricky Question for React interview",
+    "link": "https://dev.to/ihesami/tricky-question-for-react-interview-2hc4",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Optional Chaining! 🌟",
+    "link": "https://dev.to/sh20raj/unlocking-javascript-magicjavascript-optional-chaining-2ia",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "is 0 !== null in Javascript 💡",
+    "link": "https://dev.to/sh20raj/is-0-null-in-javascript-javascript-quirks-tricky-equality-questions-4eac",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Arrays 🔥 Array Awesomeness",
+    "link": "https://dev.to/sh20raj/javascript-arrays-unlocking-javascript-magic-1gm5",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript console methods for better debugging 🔮",
+    "link": "https://dev.to/sh20raj/javascript-console-methods-for-better-debugging-unlocking-javascript-magic-2fah",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "SSR vs SPA Showdown: Choosing the Right Rendering Approach for Your Web App",
+    "link": "https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "RSLike@3. Well-known Symbols, Improved Usage of TypeScript, and Weighing More",
+    "link": "https://dev.to/vitalicset/rslike3-well-known-symbols-improved-usage-of-typescript-and-weighing-more-4bnd",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Voice and Eye-Controlled To-Do App - Part 3",
+    "link": "https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-3-14e7",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎩 JavaScript Magic: 20 Quirky Questions! 💫",
+    "link": "https://dev.to/sh20raj/javascript-magic-20-quirky-questions-52ga",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "2024 Best JavaScript PDF Viewer",
+    "link": "https://dev.to/derek-compdf/2024-best-javascript-pdf-viewer-id0",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to split pages by device type in Next.js",
+    "link": "https://dev.to/andrepolischuk/how-to-split-pages-by-device-type-in-nextjs-2ji2",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How function is object?",
+    "link": "https://dev.to/amanp30/how-function-is-object-2856",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dino hack",
+    "link": "https://dev.to/r4nd3l/dino-hack-4i62",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tricky Question for React interview",
+    "link": "https://dev.to/ihesami/tricky-question-for-react-interview-2hc4",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Optional Chaining! 🌟",
+    "link": "https://dev.to/sh20raj/unlocking-javascript-magicjavascript-optional-chaining-2ia",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "is 0 !== null in Javascript 💡",
+    "link": "https://dev.to/sh20raj/is-0-null-in-javascript-javascript-quirks-tricky-equality-questions-4eac",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Arrays 🔥 Array Awesomeness",
+    "link": "https://dev.to/sh20raj/javascript-arrays-unlocking-javascript-magic-1gm5",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript console methods for better debugging 🔮",
+    "link": "https://dev.to/sh20raj/javascript-console-methods-for-better-debugging-unlocking-javascript-magic-2fah",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "SSR vs SPA Showdown: Choosing the Right Rendering Approach for Your Web App",
+    "link": "https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "RSLike@3. Well-known Symbols, Improved Usage of TypeScript, and Weighing More",
+    "link": "https://dev.to/vitalicset/rslike3-well-known-symbols-improved-usage-of-typescript-and-weighing-more-4bnd",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Voice and Eye-Controlled To-Do App - Part 3",
+    "link": "https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-3-14e7",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎩 JavaScript Magic: 20 Quirky Questions! 💫",
+    "link": "https://dev.to/sh20raj/javascript-magic-20-quirky-questions-52ga",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "2024 Best JavaScript PDF Viewer",
+    "link": "https://dev.to/derek-compdf/2024-best-javascript-pdf-viewer-id0",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to split pages by device type in Next.js",
+    "link": "https://dev.to/andrepolischuk/how-to-split-pages-by-device-type-in-nextjs-2ji2",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How function is object?",
+    "link": "https://dev.to/amanp30/how-function-is-object-2856",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dino hack",
+    "link": "https://dev.to/r4nd3l/dino-hack-4i62",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tricky Question for React interview",
+    "link": "https://dev.to/ihesami/tricky-question-for-react-interview-2hc4",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Optional Chaining! 🌟",
+    "link": "https://dev.to/sh20raj/unlocking-javascript-magicjavascript-optional-chaining-2ia",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "is 0 !== null in Javascript 💡",
+    "link": "https://dev.to/sh20raj/is-0-null-in-javascript-javascript-quirks-tricky-equality-questions-4eac",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Arrays 🔥 Array Awesomeness",
+    "link": "https://dev.to/sh20raj/javascript-arrays-unlocking-javascript-magic-1gm5",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript console methods for better debugging 🔮",
+    "link": "https://dev.to/sh20raj/javascript-console-methods-for-better-debugging-unlocking-javascript-magic-2fah",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "SSR vs SPA Showdown: Choosing the Right Rendering Approach for Your Web App",
+    "link": "https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "RSLike@3. Well-known Symbols, Improved Usage of TypeScript, and Weighing More",
+    "link": "https://dev.to/vitalicset/rslike3-well-known-symbols-improved-usage-of-typescript-and-weighing-more-4bnd",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Voice and Eye-Controlled To-Do App - Part 3",
+    "link": "https://dev.to/gerpea/building-a-voice-and-eye-controlled-to-do-app-part-3-14e7",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎩 JavaScript Magic: 20 Quirky Questions! 💫",
+    "link": "https://dev.to/sh20raj/javascript-magic-20-quirky-questions-52ga",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "2024 Best JavaScript PDF Viewer",
+    "link": "https://dev.to/derek-compdf/2024-best-javascript-pdf-viewer-id0",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to split pages by device type in Next.js",
+    "link": "https://dev.to/andrepolischuk/how-to-split-pages-by-device-type-in-nextjs-2ji2",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How function is object?",
+    "link": "https://dev.to/amanp30/how-function-is-object-2856",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dino hack",
+    "link": "https://dev.to/r4nd3l/dino-hack-4i62",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tricky Question for React interview",
+    "link": "https://dev.to/ihesami/tricky-question-for-react-interview-2hc4",
+    "date": "4/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Always unsubscribe. No exceptions. Debate closed.",
+    "link": "https://dev.to/this-is-angular/always-unsubscribe-no-exceptions-debate-closed-205n",
     "date": "4/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Understanding Function Components vs Class Components in 100 seconds.",
-    "link": "https://dev.to/jamescroissant/understanding-function-components-vs-class-components-in-100-seconds-4d32",
+    "title": "Always unsubscribe. No exceptions. Debate closed.",
+    "link": "https://dev.to/this-is-angular/always-unsubscribe-no-exceptions-debate-closed-205n",
     "date": "4/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Basic MVVM Architecture in JavaScript with knockoutjs",
-    "link": "https://dev.to/nhannguyendevjs/basic-mvvm-architecture-in-javascript-with-knockoutjs-14nk",
+    "title": "Always unsubscribe. No exceptions. Debate closed.",
+    "link": "https://dev.to/this-is-angular/always-unsubscribe-no-exceptions-debate-closed-205n",
     "date": "4/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript Secrets: How to Implement Retry Logic Like a Pro",
-    "link": "https://dev.to/officialanurag/javascript-secrets-how-to-implement-retry-logic-like-a-pro-g57",
+    "title": "Always unsubscribe. No exceptions. Debate closed.",
+    "link": "https://dev.to/this-is-angular/always-unsubscribe-no-exceptions-debate-closed-205n",
     "date": "4/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Creating your own UI extension points in Umbraco v14 - Part 4: Interchangeable Elements",
-    "link": "https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-4-interchangeable-elements-34ck",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Todo Application Backend with MongoDB and Express",
-    "link": "https://dev.to/tirthraval1999/building-a-todo-application-backend-with-mongodb-and-express-2k34",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Embed form builder with Angular",
-    "link": "https://dev.to/joyfill/embed-form-builder-with-angular-3def",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Are You Ready for These JavaScript Interview Puzzles?",
-    "link": "https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Function Components vs Class Components in 100 seconds.",
-    "link": "https://dev.to/jamescroissant/understanding-function-components-vs-class-components-in-100-seconds-4d32",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic MVVM Architecture in JavaScript with knockoutjs",
-    "link": "https://dev.to/nhannguyendevjs/basic-mvvm-architecture-in-javascript-with-knockoutjs-14nk",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Secrets: How to Implement Retry Logic Like a Pro",
-    "link": "https://dev.to/officialanurag/javascript-secrets-how-to-implement-retry-logic-like-a-pro-g57",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating your own UI extension points in Umbraco v14 - Part 4: Interchangeable Elements",
-    "link": "https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-4-interchangeable-elements-34ck",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Todo Application Backend with MongoDB and Express",
-    "link": "https://dev.to/tirthraval1999/building-a-todo-application-backend-with-mongodb-and-express-2k34",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Embed form builder with Angular",
-    "link": "https://dev.to/joyfill/embed-form-builder-with-angular-3def",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Are You Ready for These JavaScript Interview Puzzles?",
-    "link": "https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Function Components vs Class Components in 100 seconds.",
-    "link": "https://dev.to/jamescroissant/understanding-function-components-vs-class-components-in-100-seconds-4d32",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic MVVM Architecture in JavaScript with knockoutjs",
-    "link": "https://dev.to/nhannguyendevjs/basic-mvvm-architecture-in-javascript-with-knockoutjs-14nk",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Secrets: How to Implement Retry Logic Like a Pro",
-    "link": "https://dev.to/officialanurag/javascript-secrets-how-to-implement-retry-logic-like-a-pro-g57",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating your own UI extension points in Umbraco v14 - Part 4: Interchangeable Elements",
-    "link": "https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-4-interchangeable-elements-34ck",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Todo Application Backend with MongoDB and Express",
-    "link": "https://dev.to/tirthraval1999/building-a-todo-application-backend-with-mongodb-and-express-2k34",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Embed form builder with Angular",
-    "link": "https://dev.to/joyfill/embed-form-builder-with-angular-3def",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Are You Ready for These JavaScript Interview Puzzles?",
-    "link": "https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Function Components vs Class Components in 100 seconds.",
-    "link": "https://dev.to/jamescroissant/understanding-function-components-vs-class-components-in-100-seconds-4d32",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic MVVM Architecture in JavaScript with knockoutjs",
-    "link": "https://dev.to/nhannguyendevjs/basic-mvvm-architecture-in-javascript-with-knockoutjs-14nk",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Secrets: How to Implement Retry Logic Like a Pro",
-    "link": "https://dev.to/officialanurag/javascript-secrets-how-to-implement-retry-logic-like-a-pro-g57",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating your own UI extension points in Umbraco v14 - Part 4: Interchangeable Elements",
-    "link": "https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-4-interchangeable-elements-34ck",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Todo Application Backend with MongoDB and Express",
-    "link": "https://dev.to/tirthraval1999/building-a-todo-application-backend-with-mongodb-and-express-2k34",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Embed form builder with Angular",
-    "link": "https://dev.to/joyfill/embed-form-builder-with-angular-3def",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Are You Ready for These JavaScript Interview Puzzles?",
-    "link": "https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Function Components vs Class Components in 100 seconds.",
-    "link": "https://dev.to/jamescroissant/understanding-function-components-vs-class-components-in-100-seconds-4d32",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic MVVM Architecture in JavaScript with knockoutjs",
-    "link": "https://dev.to/nhannguyendevjs/basic-mvvm-architecture-in-javascript-with-knockoutjs-14nk",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Secrets: How to Implement Retry Logic Like a Pro",
-    "link": "https://dev.to/officialanurag/javascript-secrets-how-to-implement-retry-logic-like-a-pro-g57",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating your own UI extension points in Umbraco v14 - Part 4: Interchangeable Elements",
-    "link": "https://dev.to/mattbrailsford/creating-your-own-ui-extension-points-in-umbraco-v14-part-4-interchangeable-elements-34ck",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Todo Application Backend with MongoDB and Express",
-    "link": "https://dev.to/tirthraval1999/building-a-todo-application-backend-with-mongodb-and-express-2k34",
-    "date": "4/11/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Embed form builder with Angular",
-    "link": "https://dev.to/joyfill/embed-form-builder-with-angular-3def",
+    "title": "Always unsubscribe. No exceptions. Debate closed.",
+    "link": "https://dev.to/this-is-angular/always-unsubscribe-no-exceptions-debate-closed-205n",
     "date": "4/11/2024",
     "site": "dev.to"
   },
@@ -216,44 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Effective JavaScript Debugging Techniques",
-    "link": "https://dev.to/jenniferchuks/effective-javascript-debugging-techniques-35pf",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a complex layout with Material UI",
-    "link": "https://dev.to/armstrong2035/how-to-build-a-complex-layout-with-material-ui-57bm",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Difference between var and let in Javascript",
-    "link": "https://dev.to/kutt27/difference-between-var-and-let-in-javascript-247h",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Beginnings",
-    "link": "https://dev.to/jroycodes/new-beginnings-3bf7",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Dynamic Client-Side Blog with Secutio & Bootstrap",
-    "link": "https://dev.to/mrhdias/building-a-dynamic-client-side-blog-with-secutio-and-bootstrap-29nf",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lessons from open-source: try..catch(_)?",
-    "link": "https://dev.to/ramunarasinga/lessons-from-open-source-trycatch-59hj",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Use Webhooks to Trigger Events and Notifications from APIs",
-    "link": "https://dev.to/syncloop_dev/how-to-use-webhooks-to-trigger-events-and-notifications-from-apis-3oc0",
+    "title": "Top 5 fastest growing JavaScript repos",
+    "link": "https://dev.to/wasp/top-5-fastest-growing-javascript-repos-92n",
     "date": "4/10/2024",
     "site": "dev.to"
   },
@@ -264,188 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Effective JavaScript Debugging Techniques",
-    "link": "https://dev.to/jenniferchuks/effective-javascript-debugging-techniques-35pf",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a complex layout with Material UI",
-    "link": "https://dev.to/armstrong2035/how-to-build-a-complex-layout-with-material-ui-57bm",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Difference between var and let in Javascript",
-    "link": "https://dev.to/kutt27/difference-between-var-and-let-in-javascript-247h",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Beginnings",
-    "link": "https://dev.to/jroycodes/new-beginnings-3bf7",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Dynamic Client-Side Blog with Secutio & Bootstrap",
-    "link": "https://dev.to/mrhdias/building-a-dynamic-client-side-blog-with-secutio-and-bootstrap-29nf",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lessons from open-source: try..catch(_)?",
-    "link": "https://dev.to/ramunarasinga/lessons-from-open-source-trycatch-59hj",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Use Webhooks to Trigger Events and Notifications from APIs",
-    "link": "https://dev.to/syncloop_dev/how-to-use-webhooks-to-trigger-events-and-notifications-from-apis-3oc0",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "Top 5 fastest growing JavaScript repos",
     "link": "https://dev.to/wasp/top-5-fastest-growing-javascript-repos-92n",
     "date": "4/10/2024",
     "site": "dev.to"
   },
   {
-    "title": "Effective JavaScript Debugging Techniques",
-    "link": "https://dev.to/jenniferchuks/effective-javascript-debugging-techniques-35pf",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a complex layout with Material UI",
-    "link": "https://dev.to/armstrong2035/how-to-build-a-complex-layout-with-material-ui-57bm",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Difference between var and let in Javascript",
-    "link": "https://dev.to/kutt27/difference-between-var-and-let-in-javascript-247h",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Beginnings",
-    "link": "https://dev.to/jroycodes/new-beginnings-3bf7",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Dynamic Client-Side Blog with Secutio & Bootstrap",
-    "link": "https://dev.to/mrhdias/building-a-dynamic-client-side-blog-with-secutio-and-bootstrap-29nf",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lessons from open-source: try..catch(_)?",
-    "link": "https://dev.to/ramunarasinga/lessons-from-open-source-trycatch-59hj",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Use Webhooks to Trigger Events and Notifications from APIs",
-    "link": "https://dev.to/syncloop_dev/how-to-use-webhooks-to-trigger-events-and-notifications-from-apis-3oc0",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "Top 5 fastest growing JavaScript repos",
     "link": "https://dev.to/wasp/top-5-fastest-growing-javascript-repos-92n",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Effective JavaScript Debugging Techniques",
-    "link": "https://dev.to/jenniferchuks/effective-javascript-debugging-techniques-35pf",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a complex layout with Material UI",
-    "link": "https://dev.to/armstrong2035/how-to-build-a-complex-layout-with-material-ui-57bm",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Difference between var and let in Javascript",
-    "link": "https://dev.to/kutt27/difference-between-var-and-let-in-javascript-247h",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Beginnings",
-    "link": "https://dev.to/jroycodes/new-beginnings-3bf7",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Dynamic Client-Side Blog with Secutio & Bootstrap",
-    "link": "https://dev.to/mrhdias/building-a-dynamic-client-side-blog-with-secutio-and-bootstrap-29nf",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lessons from open-source: try..catch(_)?",
-    "link": "https://dev.to/ramunarasinga/lessons-from-open-source-trycatch-59hj",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Use Webhooks to Trigger Events and Notifications from APIs",
-    "link": "https://dev.to/syncloop_dev/how-to-use-webhooks-to-trigger-events-and-notifications-from-apis-3oc0",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 5 fastest growing JavaScript repos",
-    "link": "https://dev.to/wasp/top-5-fastest-growing-javascript-repos-92n",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Effective JavaScript Debugging Techniques",
-    "link": "https://dev.to/jenniferchuks/effective-javascript-debugging-techniques-35pf",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a complex layout with Material UI",
-    "link": "https://dev.to/armstrong2035/how-to-build-a-complex-layout-with-material-ui-57bm",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Difference between var and let in Javascript",
-    "link": "https://dev.to/kutt27/difference-between-var-and-let-in-javascript-247h",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Beginnings",
-    "link": "https://dev.to/jroycodes/new-beginnings-3bf7",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Dynamic Client-Side Blog with Secutio & Bootstrap",
-    "link": "https://dev.to/mrhdias/building-a-dynamic-client-side-blog-with-secutio-and-bootstrap-29nf",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lessons from open-source: try..catch(_)?",
-    "link": "https://dev.to/ramunarasinga/lessons-from-open-source-trycatch-59hj",
-    "date": "4/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Use Webhooks to Trigger Events and Notifications from APIs",
-    "link": "https://dev.to/syncloop_dev/how-to-use-webhooks-to-trigger-events-and-notifications-from-apis-3oc0",
     "date": "4/10/2024",
     "site": "dev.to"
   },
@@ -473,7 +473,7 @@
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
@@ -1063,7 +1063,7 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "23 min read",
+    "reading_time": "24 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
@@ -1098,7 +1098,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -1160,7 +1160,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
@@ -1202,7 +1202,7 @@
   {
     "title": "The Case For Prisma In The Jamstack",
     "link": "https://www.smashingmagazine.com/2022/06/case-prisma-jamstack/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/6/2022",
     "site": "smashingmagazine"
   },
