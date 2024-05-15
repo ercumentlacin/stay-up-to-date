@@ -1,79 +1,403 @@
 [
   {
+    "title": "React | Context API vs Zustand",
+    "link": "https://dev.to/shubhamtiwari909/react-context-api-vs-zustand-pki",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cross-platform development using ReactXP",
+    "link": "https://dev.to/jetthoughts/cross-platform-development-using-reactxp-3poc",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create an accordion with Tailwind CSS and JavaScript",
+    "link": "https://dev.to/mike_andreuzza/how-to-create-an-accordion-with-tailwind-css-and-javascript-5400",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Integrate Passkeys into JavaScript Apps",
+    "link": "https://dev.to/corbado/how-to-integrate-passkeys-into-javascript-apps-3n8p",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a File Encryptor with ReactJS, Express, and TailwindCSS: A Journey into Data Security",
+    "link": "https://dev.to/drruvari/building-a-file-encryptor-with-reactjs-express-and-tailwindcss-a-journey-into-data-security-54a9",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "ApexChart map colors to labels",
+    "link": "https://dev.to/chindara/apexchart-map-colors-to-labels-h3g",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I moved from CloudWatch to Errsole!",
+    "link": "https://dev.to/mrrishimeena/why-i-moved-from-cloudwatch-to-errsole-769",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Web Security - Protecting Against Common Threats",
+    "link": "https://dev.to/incerro111/frontend-web-security-protecting-against-common-threats-4kb4",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "how to use i18n in ant design pro project",
+    "link": "https://dev.to/antd-ts-admin-pro/how-to-use-i18n-in-ant-design-pro-project-apo",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding of React Hooks - useEffect.",
+    "link": "https://dev.to/viditkushwaha/understanding-of-react-hooks-useeffect-c6l",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pure Functions",
+    "link": "https://dev.to/abhishekkrpand1/pure-functions-130e",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js Server-Side Rendering: A Deep Dive",
+    "link": "https://dev.to/shieldstring/nextjs-server-side-rendering-a-deep-dive-3e6d",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Avoid intermediate arrays in JS",
+    "link": "https://dev.to/alexander-nenashev/avoid-intermediate-arrays-in-js-5bkg",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "React | Context API vs Zustand",
+    "link": "https://dev.to/shubhamtiwari909/react-context-api-vs-zustand-pki",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cross-platform development using ReactXP",
+    "link": "https://dev.to/jetthoughts/cross-platform-development-using-reactxp-3poc",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create an accordion with Tailwind CSS and JavaScript",
+    "link": "https://dev.to/mike_andreuzza/how-to-create-an-accordion-with-tailwind-css-and-javascript-5400",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Integrate Passkeys into JavaScript Apps",
+    "link": "https://dev.to/corbado/how-to-integrate-passkeys-into-javascript-apps-3n8p",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a File Encryptor with ReactJS, Express, and TailwindCSS: A Journey into Data Security",
+    "link": "https://dev.to/drruvari/building-a-file-encryptor-with-reactjs-express-and-tailwindcss-a-journey-into-data-security-54a9",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "ApexChart map colors to labels",
+    "link": "https://dev.to/chindara/apexchart-map-colors-to-labels-h3g",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I moved from CloudWatch to Errsole!",
+    "link": "https://dev.to/mrrishimeena/why-i-moved-from-cloudwatch-to-errsole-769",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Web Security - Protecting Against Common Threats",
+    "link": "https://dev.to/incerro111/frontend-web-security-protecting-against-common-threats-4kb4",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "how to use i18n in ant design pro project",
+    "link": "https://dev.to/antd-ts-admin-pro/how-to-use-i18n-in-ant-design-pro-project-apo",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding of React Hooks - useEffect.",
+    "link": "https://dev.to/viditkushwaha/understanding-of-react-hooks-useeffect-c6l",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pure Functions",
+    "link": "https://dev.to/abhishekkrpand1/pure-functions-130e",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js Server-Side Rendering: A Deep Dive",
+    "link": "https://dev.to/shieldstring/nextjs-server-side-rendering-a-deep-dive-3e6d",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Avoid intermediate arrays in JS",
+    "link": "https://dev.to/alexander-nenashev/avoid-intermediate-arrays-in-js-5bkg",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "React | Context API vs Zustand",
+    "link": "https://dev.to/shubhamtiwari909/react-context-api-vs-zustand-pki",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cross-platform development using ReactXP",
+    "link": "https://dev.to/jetthoughts/cross-platform-development-using-reactxp-3poc",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create an accordion with Tailwind CSS and JavaScript",
+    "link": "https://dev.to/mike_andreuzza/how-to-create-an-accordion-with-tailwind-css-and-javascript-5400",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Integrate Passkeys into JavaScript Apps",
+    "link": "https://dev.to/corbado/how-to-integrate-passkeys-into-javascript-apps-3n8p",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a File Encryptor with ReactJS, Express, and TailwindCSS: A Journey into Data Security",
+    "link": "https://dev.to/drruvari/building-a-file-encryptor-with-reactjs-express-and-tailwindcss-a-journey-into-data-security-54a9",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "ApexChart map colors to labels",
+    "link": "https://dev.to/chindara/apexchart-map-colors-to-labels-h3g",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I moved from CloudWatch to Errsole!",
+    "link": "https://dev.to/mrrishimeena/why-i-moved-from-cloudwatch-to-errsole-769",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Web Security - Protecting Against Common Threats",
+    "link": "https://dev.to/incerro111/frontend-web-security-protecting-against-common-threats-4kb4",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "how to use i18n in ant design pro project",
+    "link": "https://dev.to/antd-ts-admin-pro/how-to-use-i18n-in-ant-design-pro-project-apo",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding of React Hooks - useEffect.",
+    "link": "https://dev.to/viditkushwaha/understanding-of-react-hooks-useeffect-c6l",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pure Functions",
+    "link": "https://dev.to/abhishekkrpand1/pure-functions-130e",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js Server-Side Rendering: A Deep Dive",
+    "link": "https://dev.to/shieldstring/nextjs-server-side-rendering-a-deep-dive-3e6d",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Avoid intermediate arrays in JS",
+    "link": "https://dev.to/alexander-nenashev/avoid-intermediate-arrays-in-js-5bkg",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "React | Context API vs Zustand",
+    "link": "https://dev.to/shubhamtiwari909/react-context-api-vs-zustand-pki",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cross-platform development using ReactXP",
+    "link": "https://dev.to/jetthoughts/cross-platform-development-using-reactxp-3poc",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create an accordion with Tailwind CSS and JavaScript",
+    "link": "https://dev.to/mike_andreuzza/how-to-create-an-accordion-with-tailwind-css-and-javascript-5400",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Integrate Passkeys into JavaScript Apps",
+    "link": "https://dev.to/corbado/how-to-integrate-passkeys-into-javascript-apps-3n8p",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a File Encryptor with ReactJS, Express, and TailwindCSS: A Journey into Data Security",
+    "link": "https://dev.to/drruvari/building-a-file-encryptor-with-reactjs-express-and-tailwindcss-a-journey-into-data-security-54a9",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I moved from CloudWatch to Errsole!",
+    "link": "https://dev.to/mrrishimeena/why-i-moved-from-cloudwatch-to-errsole-769",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "ApexChart map colors to labels",
+    "link": "https://dev.to/chindara/apexchart-map-colors-to-labels-h3g",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Web Security - Protecting Against Common Threats",
+    "link": "https://dev.to/incerro111/frontend-web-security-protecting-against-common-threats-4kb4",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "how to use i18n in ant design pro project",
+    "link": "https://dev.to/antd-ts-admin-pro/how-to-use-i18n-in-ant-design-pro-project-apo",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding of React Hooks - useEffect.",
+    "link": "https://dev.to/viditkushwaha/understanding-of-react-hooks-useeffect-c6l",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pure Functions",
+    "link": "https://dev.to/abhishekkrpand1/pure-functions-130e",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js Server-Side Rendering: A Deep Dive",
+    "link": "https://dev.to/shieldstring/nextjs-server-side-rendering-a-deep-dive-3e6d",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Avoid intermediate arrays in JS",
+    "link": "https://dev.to/alexander-nenashev/avoid-intermediate-arrays-in-js-5bkg",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "React | Context API vs Zustand",
+    "link": "https://dev.to/shubhamtiwari909/react-context-api-vs-zustand-pki",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cross-platform development using ReactXP",
+    "link": "https://dev.to/jetthoughts/cross-platform-development-using-reactxp-3poc",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to create an accordion with Tailwind CSS and JavaScript",
+    "link": "https://dev.to/mike_andreuzza/how-to-create-an-accordion-with-tailwind-css-and-javascript-5400",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Integrate Passkeys into JavaScript Apps",
+    "link": "https://dev.to/corbado/how-to-integrate-passkeys-into-javascript-apps-3n8p",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a File Encryptor with ReactJS, Express, and TailwindCSS: A Journey into Data Security",
+    "link": "https://dev.to/drruvari/building-a-file-encryptor-with-reactjs-express-and-tailwindcss-a-journey-into-data-security-54a9",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I moved from CloudWatch to Errsole!",
+    "link": "https://dev.to/mrrishimeena/why-i-moved-from-cloudwatch-to-errsole-769",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "ApexChart map colors to labels",
+    "link": "https://dev.to/chindara/apexchart-map-colors-to-labels-h3g",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Web Security - Protecting Against Common Threats",
+    "link": "https://dev.to/incerro111/frontend-web-security-protecting-against-common-threats-4kb4",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "how to use i18n in ant design pro project",
+    "link": "https://dev.to/antd-ts-admin-pro/how-to-use-i18n-in-ant-design-pro-project-apo",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding of React Hooks - useEffect.",
+    "link": "https://dev.to/viditkushwaha/understanding-of-react-hooks-useeffect-c6l",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pure Functions",
+    "link": "https://dev.to/abhishekkrpand1/pure-functions-130e",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js Server-Side Rendering: A Deep Dive",
+    "link": "https://dev.to/shieldstring/nextjs-server-side-rendering-a-deep-dive-3e6d",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Avoid intermediate arrays in JS",
+    "link": "https://dev.to/alexander-nenashev/avoid-intermediate-arrays-in-js-5bkg",
+    "date": "5/15/2024",
+    "site": "dev.to"
+  },
+  {
     "title": "Array.reduce() is Goated 🐐✨",
     "link": "https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j",
     "date": "5/14/2024",
     "site": "dev.to"
   },
   {
-    "title": "Building a Web Scraper with React.js, Express and TailwindCSS: A Journey into Data Collection",
-    "link": "https://dev.to/drruvari/building-a-web-scraper-with-reactjs-express-and-tailwindcss-a-journey-into-data-collection-31g9",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "🎯 Master Context API Permanently in 5 Steps",
-    "link": "https://dev.to/whevaltech/master-context-api-permanently-in-5-steps-4ef1",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create an animated navigation on scroll with Tailwind CSS and JavaScript",
-    "link": "https://dev.to/mike_andreuzza/how-to-create-an-animated-navigation-on-scroll-with-tailwind-css-and-javascript-1jhg",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Addicts #25: Angular and Wiz will be merged, the differences between React and Angular & more",
-    "link": "https://dev.to/this-is-angular/angular-addicts-25-angular-and-wiz-will-be-merged-the-differences-between-react-and-angular-more-57c9",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Magic of Hot Reloading in React",
-    "link": "https://dev.to/debajit13/the-magic-of-hot-reloading-in-react-5d48",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js App Router",
-    "link": "https://dev.to/shieldstring/nextjs-app-router-393i",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "I created KianKit so you don't have too",
-    "link": "https://dev.to/cowboycodr/i-created-kiankit-so-you-dont-have-too-o29",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Describe the difference between `<script>`, `<script async>` and `<script defer>` for Optimal Website Performance",
-    "link": "https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-a7l",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Describe the difference between `<script>`, `<script async>` and `<script defer>` for Optimal Website Performance",
-    "link": "https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-1eel",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "take control back",
-    "link": "https://dev.to/yasinmalak/take-control-back-18le",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power of Reduce: Optimizing JavaScript Code for Speed and Efficiency",
-    "link": "https://dev.to/red-dial/the-power-of-reduce-optimizing-javascript-code-for-speed-and-efficiency-3jba",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blender Animations and THREE.js - MEOW!",
-    "link": "https://dev.to/annavi11arrea1/blender-animations-and-threejs-meow-46i1",
+    "title": "Congrats to the Netlify Dynamic Site Challenge Winners!",
+    "link": "https://dev.to/devteam/congrats-to-the-netlify-dynamic-site-challenge-winners-4of3",
     "date": "5/14/2024",
     "site": "dev.to"
   },
@@ -84,74 +408,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Web Scraper with React.js, Express and TailwindCSS: A Journey into Data Collection",
-    "link": "https://dev.to/drruvari/building-a-web-scraper-with-reactjs-express-and-tailwindcss-a-journey-into-data-collection-31g9",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "🎯 Master Context API Permanently in 5 Steps",
-    "link": "https://dev.to/whevaltech/master-context-api-permanently-in-5-steps-4ef1",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create an animated navigation on scroll with Tailwind CSS and JavaScript",
-    "link": "https://dev.to/mike_andreuzza/how-to-create-an-animated-navigation-on-scroll-with-tailwind-css-and-javascript-1jhg",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Addicts #25: Angular and Wiz will be merged, the differences between React and Angular & more",
-    "link": "https://dev.to/this-is-angular/angular-addicts-25-angular-and-wiz-will-be-merged-the-differences-between-react-and-angular-more-57c9",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Magic of Hot Reloading in React",
-    "link": "https://dev.to/debajit13/the-magic-of-hot-reloading-in-react-5d48",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js App Router",
-    "link": "https://dev.to/shieldstring/nextjs-app-router-393i",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "I created KianKit so you don't have too",
-    "link": "https://dev.to/cowboycodr/i-created-kiankit-so-you-dont-have-too-o29",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Describe the difference between `<script>`, `<script async>` and `<script defer>` for Optimal Website Performance",
-    "link": "https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-a7l",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Describe the difference between `<script>`, `<script async>` and `<script defer>` for Optimal Website Performance",
-    "link": "https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-1eel",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "take control back",
-    "link": "https://dev.to/yasinmalak/take-control-back-18le",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power of Reduce: Optimizing JavaScript Code for Speed and Efficiency",
-    "link": "https://dev.to/red-dial/the-power-of-reduce-optimizing-javascript-code-for-speed-and-efficiency-3jba",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blender Animations and THREE.js - MEOW!",
-    "link": "https://dev.to/annavi11arrea1/blender-animations-and-threejs-meow-46i1",
+    "title": "Congrats to the Netlify Dynamic Site Challenge Winners!",
+    "link": "https://dev.to/devteam/congrats-to-the-netlify-dynamic-site-challenge-winners-4of3",
     "date": "5/14/2024",
     "site": "dev.to"
   },
@@ -162,74 +420,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Web Scraper with React.js, Express and TailwindCSS: A Journey into Data Collection",
-    "link": "https://dev.to/drruvari/building-a-web-scraper-with-reactjs-express-and-tailwindcss-a-journey-into-data-collection-31g9",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "🎯 Master Context API Permanently in 5 Steps",
-    "link": "https://dev.to/whevaltech/master-context-api-permanently-in-5-steps-4ef1",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create an animated navigation on scroll with Tailwind CSS and JavaScript",
-    "link": "https://dev.to/mike_andreuzza/how-to-create-an-animated-navigation-on-scroll-with-tailwind-css-and-javascript-1jhg",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Addicts #25: Angular and Wiz will be merged, the differences between React and Angular & more",
-    "link": "https://dev.to/this-is-angular/angular-addicts-25-angular-and-wiz-will-be-merged-the-differences-between-react-and-angular-more-57c9",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Magic of Hot Reloading in React",
-    "link": "https://dev.to/debajit13/the-magic-of-hot-reloading-in-react-5d48",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js App Router",
-    "link": "https://dev.to/shieldstring/nextjs-app-router-393i",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "I created KianKit so you don't have too",
-    "link": "https://dev.to/cowboycodr/i-created-kiankit-so-you-dont-have-too-o29",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Describe the difference between `<script>`, `<script async>` and `<script defer>` for Optimal Website Performance",
-    "link": "https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-a7l",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Describe the difference between `<script>`, `<script async>` and `<script defer>` for Optimal Website Performance",
-    "link": "https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-1eel",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "take control back",
-    "link": "https://dev.to/yasinmalak/take-control-back-18le",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power of Reduce: Optimizing JavaScript Code for Speed and Efficiency",
-    "link": "https://dev.to/red-dial/the-power-of-reduce-optimizing-javascript-code-for-speed-and-efficiency-3jba",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blender Animations and THREE.js - MEOW!",
-    "link": "https://dev.to/annavi11arrea1/blender-animations-and-threejs-meow-46i1",
+    "title": "Congrats to the Netlify Dynamic Site Challenge Winners!",
+    "link": "https://dev.to/devteam/congrats-to-the-netlify-dynamic-site-challenge-winners-4of3",
     "date": "5/14/2024",
     "site": "dev.to"
   },
@@ -240,74 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Web Scraper with React.js, Express and TailwindCSS: A Journey into Data Collection",
-    "link": "https://dev.to/drruvari/building-a-web-scraper-with-reactjs-express-and-tailwindcss-a-journey-into-data-collection-31g9",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "🎯 Master Context API Permanently in 5 Steps",
-    "link": "https://dev.to/whevaltech/master-context-api-permanently-in-5-steps-4ef1",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create an animated navigation on scroll with Tailwind CSS and JavaScript",
-    "link": "https://dev.to/mike_andreuzza/how-to-create-an-animated-navigation-on-scroll-with-tailwind-css-and-javascript-1jhg",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Addicts #25: Angular and Wiz will be merged, the differences between React and Angular & more",
-    "link": "https://dev.to/this-is-angular/angular-addicts-25-angular-and-wiz-will-be-merged-the-differences-between-react-and-angular-more-57c9",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Magic of Hot Reloading in React",
-    "link": "https://dev.to/debajit13/the-magic-of-hot-reloading-in-react-5d48",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js App Router",
-    "link": "https://dev.to/shieldstring/nextjs-app-router-393i",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "I created KianKit so you don't have too",
-    "link": "https://dev.to/cowboycodr/i-created-kiankit-so-you-dont-have-too-o29",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Describe the difference between `<script>`, `<script async>` and `<script defer>` for Optimal Website Performance",
-    "link": "https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-a7l",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Describe the difference between `<script>`, `<script async>` and `<script defer>` for Optimal Website Performance",
-    "link": "https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-1eel",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "take control back",
-    "link": "https://dev.to/yasinmalak/take-control-back-18le",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power of Reduce: Optimizing JavaScript Code for Speed and Efficiency",
-    "link": "https://dev.to/red-dial/the-power-of-reduce-optimizing-javascript-code-for-speed-and-efficiency-3jba",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blender Animations and THREE.js - MEOW!",
-    "link": "https://dev.to/annavi11arrea1/blender-animations-and-threejs-meow-46i1",
+    "title": "Congrats to the Netlify Dynamic Site Challenge Winners!",
+    "link": "https://dev.to/devteam/congrats-to-the-netlify-dynamic-site-challenge-winners-4of3",
     "date": "5/14/2024",
     "site": "dev.to"
   },
@@ -318,135 +444,9 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Web Scraper with React.js, Express and TailwindCSS: A Journey into Data Collection",
-    "link": "https://dev.to/drruvari/building-a-web-scraper-with-reactjs-express-and-tailwindcss-a-journey-into-data-collection-31g9",
+    "title": "Congrats to the Netlify Dynamic Site Challenge Winners!",
+    "link": "https://dev.to/devteam/congrats-to-the-netlify-dynamic-site-challenge-winners-4of3",
     "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "🎯 Master Context API Permanently in 5 Steps",
-    "link": "https://dev.to/whevaltech/master-context-api-permanently-in-5-steps-4ef1",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create an animated navigation on scroll with Tailwind CSS and JavaScript",
-    "link": "https://dev.to/mike_andreuzza/how-to-create-an-animated-navigation-on-scroll-with-tailwind-css-and-javascript-1jhg",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Addicts #25: Angular and Wiz will be merged, the differences between React and Angular & more",
-    "link": "https://dev.to/this-is-angular/angular-addicts-25-angular-and-wiz-will-be-merged-the-differences-between-react-and-angular-more-57c9",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Magic of Hot Reloading in React",
-    "link": "https://dev.to/debajit13/the-magic-of-hot-reloading-in-react-5d48",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js App Router",
-    "link": "https://dev.to/shieldstring/nextjs-app-router-393i",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "I created KianKit so you don't have too",
-    "link": "https://dev.to/cowboycodr/i-created-kiankit-so-you-dont-have-too-o29",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Describe the difference between `<script>`, `<script async>` and `<script defer>` for Optimal Website Performance",
-    "link": "https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-a7l",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Describe the difference between `<script>`, `<script async>` and `<script defer>` for Optimal Website Performance",
-    "link": "https://dev.to/anjankarmakar/describe-the-difference-between-and-for-optimal-website-performance-1eel",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "take control back",
-    "link": "https://dev.to/yasinmalak/take-control-back-18le",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power of Reduce: Optimizing JavaScript Code for Speed and Efficiency",
-    "link": "https://dev.to/red-dial/the-power-of-reduce-optimizing-javascript-code-for-speed-and-efficiency-3jba",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blender Animations and THREE.js - MEOW!",
-    "link": "https://dev.to/annavi11arrea1/blender-animations-and-threejs-meow-46i1",
-    "date": "5/14/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Ultimate Guide to Styling with CSS-in-JS Using Styled Components",
-    "link": "https://dev.to/vinyldavyl/the-ultimate-guide-to-styling-with-css-in-js-using-styled-components-389f",
-    "date": "5/13/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Call for Papers: JS Builders Meetup!",
-    "link": "https://dev.to/buildwebcrumbs/call-for-papers-js-builders-meetup-4gao",
-    "date": "5/13/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Ultimate Guide to Styling with CSS-in-JS Using Styled Components",
-    "link": "https://dev.to/vinyldavyl/the-ultimate-guide-to-styling-with-css-in-js-using-styled-components-389f",
-    "date": "5/13/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Call for Papers: JS Builders Meetup!",
-    "link": "https://dev.to/buildwebcrumbs/call-for-papers-js-builders-meetup-4gao",
-    "date": "5/13/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Ultimate Guide to Styling with CSS-in-JS Using Styled Components",
-    "link": "https://dev.to/vinyldavyl/the-ultimate-guide-to-styling-with-css-in-js-using-styled-components-389f",
-    "date": "5/13/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Call for Papers: JS Builders Meetup!",
-    "link": "https://dev.to/buildwebcrumbs/call-for-papers-js-builders-meetup-4gao",
-    "date": "5/13/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Ultimate Guide to Styling with CSS-in-JS Using Styled Components",
-    "link": "https://dev.to/vinyldavyl/the-ultimate-guide-to-styling-with-css-in-js-using-styled-components-389f",
-    "date": "5/13/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Call for Papers: JS Builders Meetup!",
-    "link": "https://dev.to/buildwebcrumbs/call-for-papers-js-builders-meetup-4gao",
-    "date": "5/13/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Ultimate Guide to Styling with CSS-in-JS Using Styled Components",
-    "link": "https://dev.to/vinyldavyl/the-ultimate-guide-to-styling-with-css-in-js-using-styled-components-389f",
-    "date": "5/13/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Call for Papers: JS Builders Meetup!",
-    "link": "https://dev.to/buildwebcrumbs/call-for-papers-js-builders-meetup-4gao",
-    "date": "5/13/2024",
     "site": "dev.to"
   },
   {
@@ -480,7 +480,7 @@
   {
     "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
     "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "2/22/2024",
     "site": "smashingmagazine"
   },
@@ -790,14 +790,14 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -1077,7 +1077,7 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "24 min read",
+    "reading_time": "23 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
