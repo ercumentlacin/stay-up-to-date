@@ -1,301 +1,451 @@
 [
   {
-    "title": "Write Minimal ES6 Code",
-    "link": "https://dev.to/mursalfk/write-minimal-es6-code-1o81",
+    "title": "Logto x Cloudflare Workers: How to secure your workers from public access?",
+    "link": "https://dev.to/logto/logto-x-cloudflare-workers-how-to-secure-your-workers-from-public-access-4k81",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "API Performance Testing Tools: A Comprehensive Guide",
+    "link": "https://dev.to/keploy/api-performance-testing-tools-a-comprehensive-guide-35hd",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Clipboard Operations in JavaScript: A Guide to Copying Text with the Clipboard API",
+    "link": "https://dev.to/iamcymentho/mastering-clipboard-operations-in-javascript-a-guide-to-copying-text-with-the-clipboard-api-180k",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Awesome JavaScript Frameworks that make workflow simple and easy",
+    "link": "https://dev.to/mroman7/awesome-javascript-frameworks-that-make-workflow-simple-and-easy-10lo",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Finding what iterator to use and when from a beginner!",
+    "link": "https://dev.to/killerfox007/finding-what-iterator-to-use-and-when-from-a-beginner-441h",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Just the Code!",
+    "link": "https://dev.to/lebbe/just-the-code-2ib5",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "DAC Design Questions",
+    "link": "https://dev.to/zoe_zoe_4e536fd49fe811477/dac-design-questions-1c4c",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "10 modern Node.js runtime features to start using in 2024",
+    "link": "https://dev.to/snyk/10-modern-nodejs-runtime-features-to-start-using-in-2024-4ek0",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction",
+    "link": "https://dev.to/darshan_mp_2e055ff5e0772/introduction-48e0",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Display a phone (or any other PNG file) with a customizable background image and an optional dark theme",
+    "link": "https://dev.to/lucassul/display-a-phone-or-any-other-png-file-with-a-customizable-background-image-and-an-optional-dark-theme-125c",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brute to Beaut",
+    "link": "https://dev.to/snackcode/brute-to-beaut-1kb7",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use JavaScript Libraries for Machine Learning",
+    "link": "https://dev.to/markwilliams21/how-to-use-javascript-libraries-for-machine-learning-10jj",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Logto x Cloudflare Workers: How to secure your workers from public access?",
+    "link": "https://dev.to/logto/logto-x-cloudflare-workers-how-to-secure-your-workers-from-public-access-4k81",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "API Performance Testing Tools: A Comprehensive Guide",
+    "link": "https://dev.to/keploy/api-performance-testing-tools-a-comprehensive-guide-35hd",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Clipboard Operations in JavaScript: A Guide to Copying Text with the Clipboard API",
+    "link": "https://dev.to/iamcymentho/mastering-clipboard-operations-in-javascript-a-guide-to-copying-text-with-the-clipboard-api-180k",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Awesome JavaScript Frameworks that make workflow simple and easy",
+    "link": "https://dev.to/mroman7/awesome-javascript-frameworks-that-make-workflow-simple-and-easy-10lo",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Finding what iterator to use and when from a beginner!",
+    "link": "https://dev.to/killerfox007/finding-what-iterator-to-use-and-when-from-a-beginner-441h",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Just the Code!",
+    "link": "https://dev.to/lebbe/just-the-code-2ib5",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "DAC Design Questions",
+    "link": "https://dev.to/zoe_zoe_4e536fd49fe811477/dac-design-questions-1c4c",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "10 modern Node.js runtime features to start using in 2024",
+    "link": "https://dev.to/snyk/10-modern-nodejs-runtime-features-to-start-using-in-2024-4ek0",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction",
+    "link": "https://dev.to/darshan_mp_2e055ff5e0772/introduction-48e0",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Display a phone (or any other PNG file) with a customizable background image and an optional dark theme",
+    "link": "https://dev.to/lucassul/display-a-phone-or-any-other-png-file-with-a-customizable-background-image-and-an-optional-dark-theme-125c",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brute to Beaut",
+    "link": "https://dev.to/snackcode/brute-to-beaut-1kb7",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use JavaScript Libraries for Machine Learning",
+    "link": "https://dev.to/markwilliams21/how-to-use-javascript-libraries-for-machine-learning-10jj",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Logto x Cloudflare Workers: How to secure your workers from public access?",
+    "link": "https://dev.to/logto/logto-x-cloudflare-workers-how-to-secure-your-workers-from-public-access-4k81",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "API Performance Testing Tools: A Comprehensive Guide",
+    "link": "https://dev.to/keploy/api-performance-testing-tools-a-comprehensive-guide-35hd",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Clipboard Operations in JavaScript: A Guide to Copying Text with the Clipboard API",
+    "link": "https://dev.to/iamcymentho/mastering-clipboard-operations-in-javascript-a-guide-to-copying-text-with-the-clipboard-api-180k",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Awesome JavaScript Frameworks that make workflow simple and easy",
+    "link": "https://dev.to/mroman7/awesome-javascript-frameworks-that-make-workflow-simple-and-easy-10lo",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Finding what iterator to use and when from a beginner!",
+    "link": "https://dev.to/killerfox007/finding-what-iterator-to-use-and-when-from-a-beginner-441h",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Just the Code!",
+    "link": "https://dev.to/lebbe/just-the-code-2ib5",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "DAC Design Questions",
+    "link": "https://dev.to/zoe_zoe_4e536fd49fe811477/dac-design-questions-1c4c",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "10 modern Node.js runtime features to start using in 2024",
+    "link": "https://dev.to/snyk/10-modern-nodejs-runtime-features-to-start-using-in-2024-4ek0",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction",
+    "link": "https://dev.to/darshan_mp_2e055ff5e0772/introduction-48e0",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Display a phone (or any other PNG file) with a customizable background image and an optional dark theme",
+    "link": "https://dev.to/lucassul/display-a-phone-or-any-other-png-file-with-a-customizable-background-image-and-an-optional-dark-theme-125c",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brute to Beaut",
+    "link": "https://dev.to/snackcode/brute-to-beaut-1kb7",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use JavaScript Libraries for Machine Learning",
+    "link": "https://dev.to/markwilliams21/how-to-use-javascript-libraries-for-machine-learning-10jj",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Logto x Cloudflare Workers: How to secure your workers from public access?",
+    "link": "https://dev.to/logto/logto-x-cloudflare-workers-how-to-secure-your-workers-from-public-access-4k81",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "API Performance Testing Tools: A Comprehensive Guide",
+    "link": "https://dev.to/keploy/api-performance-testing-tools-a-comprehensive-guide-35hd",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Clipboard Operations in JavaScript: A Guide to Copying Text with the Clipboard API",
+    "link": "https://dev.to/iamcymentho/mastering-clipboard-operations-in-javascript-a-guide-to-copying-text-with-the-clipboard-api-180k",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Awesome JavaScript Frameworks that make workflow simple and easy",
+    "link": "https://dev.to/mroman7/awesome-javascript-frameworks-that-make-workflow-simple-and-easy-10lo",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Finding what iterator to use and when from a beginner!",
+    "link": "https://dev.to/killerfox007/finding-what-iterator-to-use-and-when-from-a-beginner-441h",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Just the Code!",
+    "link": "https://dev.to/lebbe/just-the-code-2ib5",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "DAC Design Questions",
+    "link": "https://dev.to/zoe_zoe_4e536fd49fe811477/dac-design-questions-1c4c",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "10 modern Node.js runtime features to start using in 2024",
+    "link": "https://dev.to/snyk/10-modern-nodejs-runtime-features-to-start-using-in-2024-4ek0",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction",
+    "link": "https://dev.to/darshan_mp_2e055ff5e0772/introduction-48e0",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Display a phone (or any other PNG file) with a customizable background image and an optional dark theme",
+    "link": "https://dev.to/lucassul/display-a-phone-or-any-other-png-file-with-a-customizable-background-image-and-an-optional-dark-theme-125c",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brute to Beaut",
+    "link": "https://dev.to/snackcode/brute-to-beaut-1kb7",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use JavaScript Libraries for Machine Learning",
+    "link": "https://dev.to/markwilliams21/how-to-use-javascript-libraries-for-machine-learning-10jj",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Logto x Cloudflare Workers: How to secure your workers from public access?",
+    "link": "https://dev.to/logto/logto-x-cloudflare-workers-how-to-secure-your-workers-from-public-access-4k81",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "API Performance Testing Tools: A Comprehensive Guide",
+    "link": "https://dev.to/keploy/api-performance-testing-tools-a-comprehensive-guide-35hd",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Clipboard Operations in JavaScript: A Guide to Copying Text with the Clipboard API",
+    "link": "https://dev.to/iamcymentho/mastering-clipboard-operations-in-javascript-a-guide-to-copying-text-with-the-clipboard-api-180k",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Awesome JavaScript Frameworks that make workflow simple and easy",
+    "link": "https://dev.to/mroman7/awesome-javascript-frameworks-that-make-workflow-simple-and-easy-10lo",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Finding what iterator to use and when from a beginner!",
+    "link": "https://dev.to/killerfox007/finding-what-iterator-to-use-and-when-from-a-beginner-441h",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Just the Code!",
+    "link": "https://dev.to/lebbe/just-the-code-2ib5",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "DAC Design Questions",
+    "link": "https://dev.to/zoe_zoe_4e536fd49fe811477/dac-design-questions-1c4c",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "10 modern Node.js runtime features to start using in 2024",
+    "link": "https://dev.to/snyk/10-modern-nodejs-runtime-features-to-start-using-in-2024-4ek0",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction",
+    "link": "https://dev.to/darshan_mp_2e055ff5e0772/introduction-48e0",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Display a phone (or any other PNG file) with a customizable background image and an optional dark theme",
+    "link": "https://dev.to/lucassul/display-a-phone-or-any-other-png-file-with-a-customizable-background-image-and-an-optional-dark-theme-125c",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brute to Beaut",
+    "link": "https://dev.to/snackcode/brute-to-beaut-1kb7",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use JavaScript Libraries for Machine Learning",
+    "link": "https://dev.to/markwilliams21/how-to-use-javascript-libraries-for-machine-learning-10jj",
+    "date": "5/30/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join us for the next Frontend Challenge: June Edition",
+    "link": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-june-edition-3ngl",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "How to create a pricing slider with Tailwind CSS and JavaScript",
-    "link": "https://dev.to/mike_andreuzza/how-to-create-a-pricing-slider-with-tailwind-css-and-javascript-460f",
+    "title": "Writing Self-Documenting Code 🧑‍💻📜",
+    "link": "https://dev.to/mattlewandowski93/writing-self-documenting-code-4lga",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "[DAY 27-29] I Tried LeetCode Challenges For The First Time",
-    "link": "https://dev.to/thomascansino/day-27-29-i-tried-leetcode-challenges-for-the-first-time-493d",
+    "title": "Generating PDFs in Angular using jsPDF",
+    "link": "https://dev.to/vidyarathna/generating-pdfs-in-angular-using-jspdf-3a6",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "An Introduction to Basic JavaScript Loops",
-    "link": "https://dev.to/odhiambo_ouko/an-introduction-to-basic-javascript-loops-2j8j",
+    "title": "Join us for the next Frontend Challenge: June Edition",
+    "link": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-june-edition-3ngl",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "Day 1: Getting Started with HTML",
-    "link": "https://dev.to/dipakahirav/day-1-getting-started-with-html-1dj1",
+    "title": "Writing Self-Documenting Code 🧑‍💻📜",
+    "link": "https://dev.to/mattlewandowski93/writing-self-documenting-code-4lga",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "Fastify plugins as building blocks for a backend Node.js API",
-    "link": "https://dev.to/snyk/fastify-plugins-as-building-blocks-for-a-backend-nodejs-api-5136",
+    "title": "Generating PDFs in Angular using jsPDF",
+    "link": "https://dev.to/vidyarathna/generating-pdfs-in-angular-using-jspdf-3a6",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "Day 1: Getting Started with JavaScript",
-    "link": "https://dev.to/dipakahirav/day-1-getting-started-with-javascript-16p3",
+    "title": "Join us for the next Frontend Challenge: June Edition",
+    "link": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-june-edition-3ngl",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "Solving Blockchain Testing Challenges for Success in Financial Services",
-    "link": "https://dev.to/quali_test_49658f180ee362/solving-blockchain-testing-challenges-for-success-in-financial-services-339n",
+    "title": "Writing Self-Documenting Code 🧑‍💻📜",
+    "link": "https://dev.to/mattlewandowski93/writing-self-documenting-code-4lga",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript For Beginners",
-    "link": "https://dev.to/aisha_javed_2423b548aa1e9/javascript-for-beginners-47hj",
+    "title": "Generating PDFs in Angular using jsPDF",
+    "link": "https://dev.to/vidyarathna/generating-pdfs-in-angular-using-jspdf-3a6",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "Develop an image editor using fabric.js 【series】",
-    "link": "https://dev.to/nihaojob/develop-an-image-editor-using-fabricjs-series-1lob",
+    "title": "Join us for the next Frontend Challenge: June Edition",
+    "link": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-june-edition-3ngl",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "Write Minimal ES6 Code",
-    "link": "https://dev.to/mursalfk/write-minimal-es6-code-1o81",
+    "title": "Writing Self-Documenting Code 🧑‍💻📜",
+    "link": "https://dev.to/mattlewandowski93/writing-self-documenting-code-4lga",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "An Introduction to Basic JavaScript Loops",
-    "link": "https://dev.to/odhiambo_ouko/an-introduction-to-basic-javascript-loops-2j8j",
+    "title": "Generating PDFs in Angular using jsPDF",
+    "link": "https://dev.to/vidyarathna/generating-pdfs-in-angular-using-jspdf-3a6",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "[DAY 27-29] I Tried LeetCode Challenges For The First Time",
-    "link": "https://dev.to/thomascansino/day-27-29-i-tried-leetcode-challenges-for-the-first-time-493d",
+    "title": "Join us for the next Frontend Challenge: June Edition",
+    "link": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-june-edition-3ngl",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "How to create a pricing slider with Tailwind CSS and JavaScript",
-    "link": "https://dev.to/mike_andreuzza/how-to-create-a-pricing-slider-with-tailwind-css-and-javascript-460f",
+    "title": "Writing Self-Documenting Code 🧑‍💻📜",
+    "link": "https://dev.to/mattlewandowski93/writing-self-documenting-code-4lga",
     "date": "5/29/2024",
     "site": "dev.to"
   },
   {
-    "title": "Day 1: Getting Started with HTML",
-    "link": "https://dev.to/dipakahirav/day-1-getting-started-with-html-1dj1",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fastify plugins as building blocks for a backend Node.js API",
-    "link": "https://dev.to/snyk/fastify-plugins-as-building-blocks-for-a-backend-nodejs-api-5136",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1: Getting Started with JavaScript",
-    "link": "https://dev.to/dipakahirav/day-1-getting-started-with-javascript-16p3",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Solving Blockchain Testing Challenges for Success in Financial Services",
-    "link": "https://dev.to/quali_test_49658f180ee362/solving-blockchain-testing-challenges-for-success-in-financial-services-339n",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript For Beginners",
-    "link": "https://dev.to/aisha_javed_2423b548aa1e9/javascript-for-beginners-47hj",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Develop an image editor using fabric.js 【series】",
-    "link": "https://dev.to/nihaojob/develop-an-image-editor-using-fabricjs-series-1lob",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Write Minimal ES6 Code",
-    "link": "https://dev.to/mursalfk/write-minimal-es6-code-1o81",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Introduction to Basic JavaScript Loops",
-    "link": "https://dev.to/odhiambo_ouko/an-introduction-to-basic-javascript-loops-2j8j",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "[DAY 27-29] I Tried LeetCode Challenges For The First Time",
-    "link": "https://dev.to/thomascansino/day-27-29-i-tried-leetcode-challenges-for-the-first-time-493d",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a pricing slider with Tailwind CSS and JavaScript",
-    "link": "https://dev.to/mike_andreuzza/how-to-create-a-pricing-slider-with-tailwind-css-and-javascript-460f",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1: Getting Started with HTML",
-    "link": "https://dev.to/dipakahirav/day-1-getting-started-with-html-1dj1",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fastify plugins as building blocks for a backend Node.js API",
-    "link": "https://dev.to/snyk/fastify-plugins-as-building-blocks-for-a-backend-nodejs-api-5136",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1: Getting Started with JavaScript",
-    "link": "https://dev.to/dipakahirav/day-1-getting-started-with-javascript-16p3",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Solving Blockchain Testing Challenges for Success in Financial Services",
-    "link": "https://dev.to/quali_test_49658f180ee362/solving-blockchain-testing-challenges-for-success-in-financial-services-339n",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript For Beginners",
-    "link": "https://dev.to/aisha_javed_2423b548aa1e9/javascript-for-beginners-47hj",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Develop an image editor using fabric.js 【series】",
-    "link": "https://dev.to/nihaojob/develop-an-image-editor-using-fabricjs-series-1lob",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Write Minimal ES6 Code",
-    "link": "https://dev.to/mursalfk/write-minimal-es6-code-1o81",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Introduction to Basic JavaScript Loops",
-    "link": "https://dev.to/odhiambo_ouko/an-introduction-to-basic-javascript-loops-2j8j",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "[DAY 27-29] I Tried LeetCode Challenges For The First Time",
-    "link": "https://dev.to/thomascansino/day-27-29-i-tried-leetcode-challenges-for-the-first-time-493d",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a pricing slider with Tailwind CSS and JavaScript",
-    "link": "https://dev.to/mike_andreuzza/how-to-create-a-pricing-slider-with-tailwind-css-and-javascript-460f",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1: Getting Started with HTML",
-    "link": "https://dev.to/dipakahirav/day-1-getting-started-with-html-1dj1",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fastify plugins as building blocks for a backend Node.js API",
-    "link": "https://dev.to/snyk/fastify-plugins-as-building-blocks-for-a-backend-nodejs-api-5136",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1: Getting Started with JavaScript",
-    "link": "https://dev.to/dipakahirav/day-1-getting-started-with-javascript-16p3",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Solving Blockchain Testing Challenges for Success in Financial Services",
-    "link": "https://dev.to/quali_test_49658f180ee362/solving-blockchain-testing-challenges-for-success-in-financial-services-339n",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript For Beginners",
-    "link": "https://dev.to/aisha_javed_2423b548aa1e9/javascript-for-beginners-47hj",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Develop an image editor using fabric.js 【series】",
-    "link": "https://dev.to/nihaojob/develop-an-image-editor-using-fabricjs-series-1lob",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Write Minimal ES6 Code",
-    "link": "https://dev.to/mursalfk/write-minimal-es6-code-1o81",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Introduction to Basic JavaScript Loops",
-    "link": "https://dev.to/odhiambo_ouko/an-introduction-to-basic-javascript-loops-2j8j",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "[DAY 27-29] I Tried LeetCode Challenges For The First Time",
-    "link": "https://dev.to/thomascansino/day-27-29-i-tried-leetcode-challenges-for-the-first-time-493d",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to create a pricing slider with Tailwind CSS and JavaScript",
-    "link": "https://dev.to/mike_andreuzza/how-to-create-a-pricing-slider-with-tailwind-css-and-javascript-460f",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1: Getting Started with HTML",
-    "link": "https://dev.to/dipakahirav/day-1-getting-started-with-html-1dj1",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fastify plugins as building blocks for a backend Node.js API",
-    "link": "https://dev.to/snyk/fastify-plugins-as-building-blocks-for-a-backend-nodejs-api-5136",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 1: Getting Started with JavaScript",
-    "link": "https://dev.to/dipakahirav/day-1-getting-started-with-javascript-16p3",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Solving Blockchain Testing Challenges for Success in Financial Services",
-    "link": "https://dev.to/quali_test_49658f180ee362/solving-blockchain-testing-challenges-for-success-in-financial-services-339n",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript For Beginners",
-    "link": "https://dev.to/aisha_javed_2423b548aa1e9/javascript-for-beginners-47hj",
-    "date": "5/29/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Develop an image editor using fabric.js 【series】",
-    "link": "https://dev.to/nihaojob/develop-an-image-editor-using-fabricjs-series-1lob",
+    "title": "Generating PDFs in Angular using jsPDF",
+    "link": "https://dev.to/vidyarathna/generating-pdfs-in-angular-using-jspdf-3a6",
     "date": "5/29/2024",
     "site": "dev.to"
   },
@@ -305,156 +455,6 @@
     "reading_time": "8 min read",
     "date": "5/28/2024",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "How to Resolve Node.js ERR_OSSL_EVP_UNSUPPORTED Error",
-    "link": "https://dev.to/saint_vandora/how-to-resolve-nodejs-errosslevpunsupported-error-1cd1",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering React: A Mindset for Component-Centric Development",
-    "link": "https://dev.to/chelmerrox/mastering-react-a-mindset-for-component-centric-development-d76",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript",
-    "link": "https://dev.to/mirabbos-dev/javascript-12bh",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Best Way To Integrate APIs In React JS",
-    "link": "https://dev.to/sajithpj/integrate-apis-using-a-common-function-in-react-js-the-best-way-to-integrate-apis-in-react-js-53he",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding the Scope Chain, Scope, and Lexical Environment in JavaScript",
-    "link": "https://dev.to/bhavesh_jadhav_dc5b8ed28b/understanding-the-scope-chain-scope-and-lexical-environment-in-javascript-51eb",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Resolve Node.js ERR_OSSL_EVP_UNSUPPORTED Error",
-    "link": "https://dev.to/saint_vandora/how-to-resolve-nodejs-errosslevpunsupported-error-1cd1",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering React: A Mindset for Component-Centric Development",
-    "link": "https://dev.to/chelmerrox/mastering-react-a-mindset-for-component-centric-development-d76",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript",
-    "link": "https://dev.to/mirabbos-dev/javascript-12bh",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Best Way To Integrate APIs In React JS",
-    "link": "https://dev.to/sajithpj/integrate-apis-using-a-common-function-in-react-js-the-best-way-to-integrate-apis-in-react-js-53he",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding the Scope Chain, Scope, and Lexical Environment in JavaScript",
-    "link": "https://dev.to/bhavesh_jadhav_dc5b8ed28b/understanding-the-scope-chain-scope-and-lexical-environment-in-javascript-51eb",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Resolve Node.js ERR_OSSL_EVP_UNSUPPORTED Error",
-    "link": "https://dev.to/saint_vandora/how-to-resolve-nodejs-errosslevpunsupported-error-1cd1",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering React: A Mindset for Component-Centric Development",
-    "link": "https://dev.to/chelmerrox/mastering-react-a-mindset-for-component-centric-development-d76",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript",
-    "link": "https://dev.to/mirabbos-dev/javascript-12bh",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Best Way To Integrate APIs In React JS",
-    "link": "https://dev.to/sajithpj/integrate-apis-using-a-common-function-in-react-js-the-best-way-to-integrate-apis-in-react-js-53he",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding the Scope Chain, Scope, and Lexical Environment in JavaScript",
-    "link": "https://dev.to/bhavesh_jadhav_dc5b8ed28b/understanding-the-scope-chain-scope-and-lexical-environment-in-javascript-51eb",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Resolve Node.js ERR_OSSL_EVP_UNSUPPORTED Error",
-    "link": "https://dev.to/saint_vandora/how-to-resolve-nodejs-errosslevpunsupported-error-1cd1",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering React: A Mindset for Component-Centric Development",
-    "link": "https://dev.to/chelmerrox/mastering-react-a-mindset-for-component-centric-development-d76",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript",
-    "link": "https://dev.to/mirabbos-dev/javascript-12bh",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Best Way To Integrate APIs In React JS",
-    "link": "https://dev.to/sajithpj/integrate-apis-using-a-common-function-in-react-js-the-best-way-to-integrate-apis-in-react-js-53he",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding the Scope Chain, Scope, and Lexical Environment in JavaScript",
-    "link": "https://dev.to/bhavesh_jadhav_dc5b8ed28b/understanding-the-scope-chain-scope-and-lexical-environment-in-javascript-51eb",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Resolve Node.js ERR_OSSL_EVP_UNSUPPORTED Error",
-    "link": "https://dev.to/saint_vandora/how-to-resolve-nodejs-errosslevpunsupported-error-1cd1",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering React: A Mindset for Component-Centric Development",
-    "link": "https://dev.to/chelmerrox/mastering-react-a-mindset-for-component-centric-development-d76",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript",
-    "link": "https://dev.to/mirabbos-dev/javascript-12bh",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Best Way To Integrate APIs In React JS",
-    "link": "https://dev.to/sajithpj/integrate-apis-using-a-common-function-in-react-js-the-best-way-to-integrate-apis-in-react-js-53he",
-    "date": "5/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding the Scope Chain, Scope, and Lexical Environment in JavaScript",
-    "link": "https://dev.to/bhavesh_jadhav_dc5b8ed28b/understanding-the-scope-chain-scope-and-lexical-environment-in-javascript-51eb",
-    "date": "5/28/2024",
-    "site": "dev.to"
   },
   {
     "title": "The Forensics Of React Server Components (RSCs)",
@@ -797,14 +797,14 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -1049,7 +1049,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
@@ -1224,7 +1224,7 @@
   {
     "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
     "link": "https://www.smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "6/2/2022",
     "site": "smashingmagazine"
   },
@@ -1244,7 +1244,7 @@
   {
     "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
     "link": "https://www.smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
-    "reading_time": "21 min read",
+    "reading_time": "20 min read",
     "date": "5/20/2022",
     "site": "smashingmagazine"
   },
