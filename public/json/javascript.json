@@ -1,85 +1,403 @@
 [
   {
+    "title": "These Tailwind Classes I Wish You Knew Sooner",
+    "link": "https://dev.to/safdarali/these-tailwind-classes-i-wish-you-knew-sooner-5b30",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Secure Employee Dashboard with Facial Authentication: A Comprehensive Next.js Tutorial",
+    "link": "https://dev.to/vyan/building-a-secure-employee-dashboard-with-facial-authentication-a-comprehensive-nextjs-tutorial-2c4g",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "ExpandableText Components",
+    "link": "https://dev.to/akash32755/expandabletext-components-3kn2",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhancing Website Performance with Intersection Observer",
+    "link": "https://dev.to/koolkamalkishor/enhancing-website-performance-with-intersection-observer-f89",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "SQL is Dead? Get Started with mongoDB",
+    "link": "https://dev.to/nikhil27b/sql-is-dead-get-started-with-mongodb-4dc3",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring JavaScript Console Methods: Beyond `console.log()`",
+    "link": "https://dev.to/srijan_karki/exploring-javascript-console-methods-beyond-consolelog-4en7",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Shims in Web Development",
+    "link": "https://dev.to/waddellmp/shims-in-web-development-1h3b",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Securing network from chinese anti ukraine hackers",
+    "link": "https://dev.to/bartdev/securing-network-from-chinese-anti-ukraine-hackers-398m",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Preventing Supply Chain Attacks in JavaScript",
+    "link": "https://dev.to/rigalpatel001/preventing-supply-chain-attacks-in-javascript-p36",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "About Driver.js",
+    "link": "https://dev.to/uix-phuke/about-driverjs-2pk6",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Vanilla JS is unscalable, and how can you...",
+    "link": "https://dev.to/dariomannu/how-vanilla-js-is-unscalable-and-how-can-you-52f7",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Playwright-magic-steps: Simplify your Test Automation Workflow",
+    "link": "https://dev.to/vitalets/introducing-playwright-magic-steps-simplify-your-test-automation-workflow-f2j",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating the Starlux Cleaning Website: A Journey of Innovation and Challenges",
+    "link": "https://dev.to/jaxoortex/creating-the-starlux-cleaning-website-a-journey-of-innovation-and-challenges-448b",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "These Tailwind Classes I Wish You Knew Sooner",
+    "link": "https://dev.to/safdarali/these-tailwind-classes-i-wish-you-knew-sooner-5b30",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Secure Employee Dashboard with Facial Authentication: A Comprehensive Next.js Tutorial",
+    "link": "https://dev.to/vyan/building-a-secure-employee-dashboard-with-facial-authentication-a-comprehensive-nextjs-tutorial-2c4g",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "ExpandableText Components",
+    "link": "https://dev.to/akash32755/expandabletext-components-3kn2",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhancing Website Performance with Intersection Observer",
+    "link": "https://dev.to/koolkamalkishor/enhancing-website-performance-with-intersection-observer-f89",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "SQL is Dead? Get Started with mongoDB",
+    "link": "https://dev.to/nikhil27b/sql-is-dead-get-started-with-mongodb-4dc3",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring JavaScript Console Methods: Beyond `console.log()`",
+    "link": "https://dev.to/srijan_karki/exploring-javascript-console-methods-beyond-consolelog-4en7",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Shims in Web Development",
+    "link": "https://dev.to/waddellmp/shims-in-web-development-1h3b",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Securing network from chinese anti ukraine hackers",
+    "link": "https://dev.to/bartdev/securing-network-from-chinese-anti-ukraine-hackers-398m",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Preventing Supply Chain Attacks in JavaScript",
+    "link": "https://dev.to/rigalpatel001/preventing-supply-chain-attacks-in-javascript-p36",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "About Driver.js",
+    "link": "https://dev.to/uix-phuke/about-driverjs-2pk6",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Vanilla JS is unscalable, and how can you...",
+    "link": "https://dev.to/dariomannu/how-vanilla-js-is-unscalable-and-how-can-you-52f7",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Playwright-magic-steps: Simplify your Test Automation Workflow",
+    "link": "https://dev.to/vitalets/introducing-playwright-magic-steps-simplify-your-test-automation-workflow-f2j",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating the Starlux Cleaning Website: A Journey of Innovation and Challenges",
+    "link": "https://dev.to/jaxoortex/creating-the-starlux-cleaning-website-a-journey-of-innovation-and-challenges-448b",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "These Tailwind Classes I Wish You Knew Sooner",
+    "link": "https://dev.to/safdarali/these-tailwind-classes-i-wish-you-knew-sooner-5b30",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Secure Employee Dashboard with Facial Authentication: A Comprehensive Next.js Tutorial",
+    "link": "https://dev.to/vyan/building-a-secure-employee-dashboard-with-facial-authentication-a-comprehensive-nextjs-tutorial-2c4g",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "ExpandableText Components",
+    "link": "https://dev.to/akash32755/expandabletext-components-3kn2",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhancing Website Performance with Intersection Observer",
+    "link": "https://dev.to/koolkamalkishor/enhancing-website-performance-with-intersection-observer-f89",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "SQL is Dead? Get Started with mongoDB",
+    "link": "https://dev.to/nikhil27b/sql-is-dead-get-started-with-mongodb-4dc3",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring JavaScript Console Methods: Beyond `console.log()`",
+    "link": "https://dev.to/srijan_karki/exploring-javascript-console-methods-beyond-consolelog-4en7",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Shims in Web Development",
+    "link": "https://dev.to/waddellmp/shims-in-web-development-1h3b",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Securing network from chinese anti ukraine hackers",
+    "link": "https://dev.to/bartdev/securing-network-from-chinese-anti-ukraine-hackers-398m",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Preventing Supply Chain Attacks in JavaScript",
+    "link": "https://dev.to/rigalpatel001/preventing-supply-chain-attacks-in-javascript-p36",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "About Driver.js",
+    "link": "https://dev.to/uix-phuke/about-driverjs-2pk6",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Vanilla JS is unscalable, and how can you...",
+    "link": "https://dev.to/dariomannu/how-vanilla-js-is-unscalable-and-how-can-you-52f7",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Playwright-magic-steps: Simplify your Test Automation Workflow",
+    "link": "https://dev.to/vitalets/introducing-playwright-magic-steps-simplify-your-test-automation-workflow-f2j",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating the Starlux Cleaning Website: A Journey of Innovation and Challenges",
+    "link": "https://dev.to/jaxoortex/creating-the-starlux-cleaning-website-a-journey-of-innovation-and-challenges-448b",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "These Tailwind Classes I Wish You Knew Sooner",
+    "link": "https://dev.to/safdarali/these-tailwind-classes-i-wish-you-knew-sooner-5b30",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Secure Employee Dashboard with Facial Authentication: A Comprehensive Next.js Tutorial",
+    "link": "https://dev.to/vyan/building-a-secure-employee-dashboard-with-facial-authentication-a-comprehensive-nextjs-tutorial-2c4g",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "ExpandableText Components",
+    "link": "https://dev.to/akash32755/expandabletext-components-3kn2",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhancing Website Performance with Intersection Observer",
+    "link": "https://dev.to/koolkamalkishor/enhancing-website-performance-with-intersection-observer-f89",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "SQL is Dead? Get Started with mongoDB",
+    "link": "https://dev.to/nikhil27b/sql-is-dead-get-started-with-mongodb-4dc3",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring JavaScript Console Methods: Beyond `console.log()`",
+    "link": "https://dev.to/srijan_karki/exploring-javascript-console-methods-beyond-consolelog-4en7",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Shims in Web Development",
+    "link": "https://dev.to/waddellmp/shims-in-web-development-1h3b",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Securing network from chinese anti ukraine hackers",
+    "link": "https://dev.to/bartdev/securing-network-from-chinese-anti-ukraine-hackers-398m",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Preventing Supply Chain Attacks in JavaScript",
+    "link": "https://dev.to/rigalpatel001/preventing-supply-chain-attacks-in-javascript-p36",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "About Driver.js",
+    "link": "https://dev.to/uix-phuke/about-driverjs-2pk6",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Vanilla JS is unscalable, and how can you...",
+    "link": "https://dev.to/dariomannu/how-vanilla-js-is-unscalable-and-how-can-you-52f7",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Playwright-magic-steps: Simplify your Test Automation Workflow",
+    "link": "https://dev.to/vitalets/introducing-playwright-magic-steps-simplify-your-test-automation-workflow-f2j",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating the Starlux Cleaning Website: A Journey of Innovation and Challenges",
+    "link": "https://dev.to/jaxoortex/creating-the-starlux-cleaning-website-a-journey-of-innovation-and-challenges-448b",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "These Tailwind Classes I Wish You Knew Sooner",
+    "link": "https://dev.to/safdarali/these-tailwind-classes-i-wish-you-knew-sooner-5b30",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Secure Employee Dashboard with Facial Authentication: A Comprehensive Next.js Tutorial",
+    "link": "https://dev.to/vyan/building-a-secure-employee-dashboard-with-facial-authentication-a-comprehensive-nextjs-tutorial-2c4g",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "ExpandableText Components",
+    "link": "https://dev.to/akash32755/expandabletext-components-3kn2",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhancing Website Performance with Intersection Observer",
+    "link": "https://dev.to/koolkamalkishor/enhancing-website-performance-with-intersection-observer-f89",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "SQL is Dead? Get Started with mongoDB",
+    "link": "https://dev.to/nikhil27b/sql-is-dead-get-started-with-mongodb-4dc3",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring JavaScript Console Methods: Beyond `console.log()`",
+    "link": "https://dev.to/srijan_karki/exploring-javascript-console-methods-beyond-consolelog-4en7",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Shims in Web Development",
+    "link": "https://dev.to/waddellmp/shims-in-web-development-1h3b",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Securing network from chinese anti ukraine hackers",
+    "link": "https://dev.to/bartdev/securing-network-from-chinese-anti-ukraine-hackers-398m",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Preventing Supply Chain Attacks in JavaScript",
+    "link": "https://dev.to/rigalpatel001/preventing-supply-chain-attacks-in-javascript-p36",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "About Driver.js",
+    "link": "https://dev.to/uix-phuke/about-driverjs-2pk6",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Vanilla JS is unscalable, and how can you...",
+    "link": "https://dev.to/dariomannu/how-vanilla-js-is-unscalable-and-how-can-you-52f7",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing Playwright-magic-steps: Simplify your Test Automation Workflow",
+    "link": "https://dev.to/vitalets/introducing-playwright-magic-steps-simplify-your-test-automation-workflow-f2j",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating the Starlux Cleaning Website: A Journey of Innovation and Challenges",
+    "link": "https://dev.to/jaxoortex/creating-the-starlux-cleaning-website-a-journey-of-innovation-and-challenges-448b",
+    "date": "7/18/2024",
+    "site": "dev.to"
+  },
+  {
     "title": "How to Structure Your Backend Code in Node.js (Express.js)",
     "link": "https://dev.to/vyan/how-to-structure-your-backend-code-in-nodejs-expressjs-2bdd",
     "date": "7/17/2024",
     "site": "dev.to"
   },
   {
-    "title": "Top 15 Animation Libraries for React & Modern Javascript Apps",
-    "link": "https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 16 of 100 Days of Code",
-    "link": "https://dev.to/jacobsternx/day-16-of-100-days-of-code-ma0",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Objects in JavaScript : A Comprehensive Guide",
-    "link": "https://dev.to/sadanandgadwal/objects-in-javascript-a-comprehensive-guide-6n9",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "**Rethinking My Career, and Life!",
-    "link": "https://dev.to/ivewor/rethinking-my-career-and-life-43o",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3: Data types and variables in python 🧡",
-    "link": "https://dev.to/aryan015/day-3-data-types-and-variables-in-python-3e3j",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pulumi in Python: Translating Interpolation",
-    "link": "https://dev.to/cdierkens/pulumi-in-python-translating-interpolation-8nh",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Debug Node.js Applications Like a Pro",
-    "link": "https://dev.to/ashishxcode/how-to-debug-nodejs-applications-like-a-pro-4aon",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Microservices: Node.js 12 Factor App Development",
-    "link": "https://dev.to/tkssharma/mastering-microservices-nodejs-12-factor-app-development-23d5",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Microservices with nodejs nestjs #series",
-    "link": "https://dev.to/tkssharma/building-microservices-with-nodejs-nestjs-series-2j7b",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Entendendo o Fluxo de Trabalho do Prisma Utilizando Migrations",
-    "link": "https://dev.to/lemartin07/entendendo-o-fluxo-de-trabalho-do-prisma-utilizando-migrations-29cp",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Suspicious Maintainer Unveils Threads of npm Supply Chain Attack",
-    "link": "https://dev.to/snyk/suspicious-maintainer-unveils-threads-of-npm-supply-chain-attack-2d2j",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "NestJS Testing Unit and E2E",
-    "link": "https://dev.to/tkssharma/nestjs-testing-unit-and-e2e-km2",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turning Documentation into a Product: Best Practices for Success",
-    "link": "https://dev.to/codingcatdev/turning-documentation-into-a-product-best-practices-for-success-2ijd",
+    "title": "Build an AI-powered Social Media Post Scheduler (Twitter API, Next.js & Copilotkit)",
+    "link": "https://dev.to/copilotkit/build-an-ai-powered-social-media-post-scheduler-twitter-api-nextjs-copilotkit-1k3m",
     "date": "7/17/2024",
     "site": "dev.to"
   },
@@ -90,80 +408,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Top 15 Animation Libraries for React & Modern Javascript Apps",
-    "link": "https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 16 of 100 Days of Code",
-    "link": "https://dev.to/jacobsternx/day-16-of-100-days-of-code-ma0",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Objects in JavaScript : A Comprehensive Guide",
-    "link": "https://dev.to/sadanandgadwal/objects-in-javascript-a-comprehensive-guide-6n9",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "**Rethinking My Career, and Life!",
-    "link": "https://dev.to/ivewor/rethinking-my-career-and-life-43o",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3: Data types and variables in python 🧡",
-    "link": "https://dev.to/aryan015/day-3-data-types-and-variables-in-python-3e3j",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pulumi in Python: Translating Interpolation",
-    "link": "https://dev.to/cdierkens/pulumi-in-python-translating-interpolation-8nh",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Debug Node.js Applications Like a Pro",
-    "link": "https://dev.to/ashishxcode/how-to-debug-nodejs-applications-like-a-pro-4aon",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Microservices: Node.js 12 Factor App Development",
-    "link": "https://dev.to/tkssharma/mastering-microservices-nodejs-12-factor-app-development-23d5",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Microservices with nodejs nestjs #series",
-    "link": "https://dev.to/tkssharma/building-microservices-with-nodejs-nestjs-series-2j7b",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Entendendo o Fluxo de Trabalho do Prisma Utilizando Migrations",
-    "link": "https://dev.to/lemartin07/entendendo-o-fluxo-de-trabalho-do-prisma-utilizando-migrations-29cp",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Suspicious Maintainer Unveils Threads of npm Supply Chain Attack",
-    "link": "https://dev.to/snyk/suspicious-maintainer-unveils-threads-of-npm-supply-chain-attack-2d2j",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "NestJS Testing Unit and E2E",
-    "link": "https://dev.to/tkssharma/nestjs-testing-unit-and-e2e-km2",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turning Documentation into a Product: Best Practices for Success",
-    "link": "https://dev.to/codingcatdev/turning-documentation-into-a-product-best-practices-for-success-2ijd",
+    "title": "Build an AI-powered Social Media Post Scheduler (Twitter API, Next.js & Copilotkit)",
+    "link": "https://dev.to/copilotkit/build-an-ai-powered-social-media-post-scheduler-twitter-api-nextjs-copilotkit-1k3m",
     "date": "7/17/2024",
     "site": "dev.to"
   },
@@ -174,80 +420,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Top 15 Animation Libraries for React & Modern Javascript Apps",
-    "link": "https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 16 of 100 Days of Code",
-    "link": "https://dev.to/jacobsternx/day-16-of-100-days-of-code-ma0",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Objects in JavaScript : A Comprehensive Guide",
-    "link": "https://dev.to/sadanandgadwal/objects-in-javascript-a-comprehensive-guide-6n9",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "**Rethinking My Career, and Life!",
-    "link": "https://dev.to/ivewor/rethinking-my-career-and-life-43o",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3: Data types and variables in python 🧡",
-    "link": "https://dev.to/aryan015/day-3-data-types-and-variables-in-python-3e3j",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pulumi in Python: Translating Interpolation",
-    "link": "https://dev.to/cdierkens/pulumi-in-python-translating-interpolation-8nh",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Debug Node.js Applications Like a Pro",
-    "link": "https://dev.to/ashishxcode/how-to-debug-nodejs-applications-like-a-pro-4aon",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Microservices: Node.js 12 Factor App Development",
-    "link": "https://dev.to/tkssharma/mastering-microservices-nodejs-12-factor-app-development-23d5",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Microservices with nodejs nestjs #series",
-    "link": "https://dev.to/tkssharma/building-microservices-with-nodejs-nestjs-series-2j7b",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Entendendo o Fluxo de Trabalho do Prisma Utilizando Migrations",
-    "link": "https://dev.to/lemartin07/entendendo-o-fluxo-de-trabalho-do-prisma-utilizando-migrations-29cp",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Suspicious Maintainer Unveils Threads of npm Supply Chain Attack",
-    "link": "https://dev.to/snyk/suspicious-maintainer-unveils-threads-of-npm-supply-chain-attack-2d2j",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "NestJS Testing Unit and E2E",
-    "link": "https://dev.to/tkssharma/nestjs-testing-unit-and-e2e-km2",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turning Documentation into a Product: Best Practices for Success",
-    "link": "https://dev.to/codingcatdev/turning-documentation-into-a-product-best-practices-for-success-2ijd",
+    "title": "Build an AI-powered Social Media Post Scheduler (Twitter API, Next.js & Copilotkit)",
+    "link": "https://dev.to/copilotkit/build-an-ai-powered-social-media-post-scheduler-twitter-api-nextjs-copilotkit-1k3m",
     "date": "7/17/2024",
     "site": "dev.to"
   },
@@ -258,80 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Top 15 Animation Libraries for React & Modern Javascript Apps",
-    "link": "https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 16 of 100 Days of Code",
-    "link": "https://dev.to/jacobsternx/day-16-of-100-days-of-code-ma0",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Objects in JavaScript : A Comprehensive Guide",
-    "link": "https://dev.to/sadanandgadwal/objects-in-javascript-a-comprehensive-guide-6n9",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "**Rethinking My Career, and Life!",
-    "link": "https://dev.to/ivewor/rethinking-my-career-and-life-43o",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3: Data types and variables in python 🧡",
-    "link": "https://dev.to/aryan015/day-3-data-types-and-variables-in-python-3e3j",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pulumi in Python: Translating Interpolation",
-    "link": "https://dev.to/cdierkens/pulumi-in-python-translating-interpolation-8nh",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Debug Node.js Applications Like a Pro",
-    "link": "https://dev.to/ashishxcode/how-to-debug-nodejs-applications-like-a-pro-4aon",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Microservices: Node.js 12 Factor App Development",
-    "link": "https://dev.to/tkssharma/mastering-microservices-nodejs-12-factor-app-development-23d5",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Microservices with nodejs nestjs #series",
-    "link": "https://dev.to/tkssharma/building-microservices-with-nodejs-nestjs-series-2j7b",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Entendendo o Fluxo de Trabalho do Prisma Utilizando Migrations",
-    "link": "https://dev.to/lemartin07/entendendo-o-fluxo-de-trabalho-do-prisma-utilizando-migrations-29cp",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Suspicious Maintainer Unveils Threads of npm Supply Chain Attack",
-    "link": "https://dev.to/snyk/suspicious-maintainer-unveils-threads-of-npm-supply-chain-attack-2d2j",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "NestJS Testing Unit and E2E",
-    "link": "https://dev.to/tkssharma/nestjs-testing-unit-and-e2e-km2",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turning Documentation into a Product: Best Practices for Success",
-    "link": "https://dev.to/codingcatdev/turning-documentation-into-a-product-best-practices-for-success-2ijd",
+    "title": "Build an AI-powered Social Media Post Scheduler (Twitter API, Next.js & Copilotkit)",
+    "link": "https://dev.to/copilotkit/build-an-ai-powered-social-media-post-scheduler-twitter-api-nextjs-copilotkit-1k3m",
     "date": "7/17/2024",
     "site": "dev.to"
   },
@@ -342,111 +444,9 @@
     "site": "dev.to"
   },
   {
-    "title": "Top 15 Animation Libraries for React & Modern Javascript Apps",
-    "link": "https://dev.to/syakirurahman/top-15-animation-libraries-for-react-modern-javascript-apps-2i9m",
+    "title": "Build an AI-powered Social Media Post Scheduler (Twitter API, Next.js & Copilotkit)",
+    "link": "https://dev.to/copilotkit/build-an-ai-powered-social-media-post-scheduler-twitter-api-nextjs-copilotkit-1k3m",
     "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 16 of 100 Days of Code",
-    "link": "https://dev.to/jacobsternx/day-16-of-100-days-of-code-ma0",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Objects in JavaScript : A Comprehensive Guide",
-    "link": "https://dev.to/sadanandgadwal/objects-in-javascript-a-comprehensive-guide-6n9",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "**Rethinking My Career, and Life!",
-    "link": "https://dev.to/ivewor/rethinking-my-career-and-life-43o",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 3: Data types and variables in python 🧡",
-    "link": "https://dev.to/aryan015/day-3-data-types-and-variables-in-python-3e3j",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pulumi in Python: Translating Interpolation",
-    "link": "https://dev.to/cdierkens/pulumi-in-python-translating-interpolation-8nh",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Debug Node.js Applications Like a Pro",
-    "link": "https://dev.to/ashishxcode/how-to-debug-nodejs-applications-like-a-pro-4aon",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Microservices: Node.js 12 Factor App Development",
-    "link": "https://dev.to/tkssharma/mastering-microservices-nodejs-12-factor-app-development-23d5",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Microservices with nodejs nestjs #series",
-    "link": "https://dev.to/tkssharma/building-microservices-with-nodejs-nestjs-series-2j7b",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Entendendo o Fluxo de Trabalho do Prisma Utilizando Migrations",
-    "link": "https://dev.to/lemartin07/entendendo-o-fluxo-de-trabalho-do-prisma-utilizando-migrations-29cp",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Suspicious Maintainer Unveils Threads of npm Supply Chain Attack",
-    "link": "https://dev.to/snyk/suspicious-maintainer-unveils-threads-of-npm-supply-chain-attack-2d2j",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "NestJS Testing Unit and E2E",
-    "link": "https://dev.to/tkssharma/nestjs-testing-unit-and-e2e-km2",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turning Documentation into a Product: Best Practices for Success",
-    "link": "https://dev.to/codingcatdev/turning-documentation-into-a-product-best-practices-for-success-2ijd",
-    "date": "7/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Congrats to the Wix Studio Challenge Winners!",
-    "link": "https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23",
-    "date": "7/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Congrats to the Wix Studio Challenge Winners!",
-    "link": "https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23",
-    "date": "7/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Congrats to the Wix Studio Challenge Winners!",
-    "link": "https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23",
-    "date": "7/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Congrats to the Wix Studio Challenge Winners!",
-    "link": "https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23",
-    "date": "7/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Congrats to the Wix Studio Challenge Winners!",
-    "link": "https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23",
-    "date": "7/16/2024",
     "site": "dev.to"
   },
   {
@@ -494,14 +494,14 @@
   {
     "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
     "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "2/22/2024",
     "site": "smashingmagazine"
   },
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
@@ -606,7 +606,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
@@ -641,7 +641,7 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "23 min read",
+    "reading_time": "24 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
@@ -732,7 +732,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
@@ -767,14 +767,14 @@
   {
     "title": "The Future Of Frontend Build Tools",
     "link": "https://www.smashingmagazine.com/2022/06/future-frontend-build-tools/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/9/2022",
     "site": "smashingmagazine"
   },
   {
     "title": "The Case For Prisma In The Jamstack",
     "link": "https://www.smashingmagazine.com/2022/06/case-prisma-jamstack/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/6/2022",
     "site": "smashingmagazine"
   },
