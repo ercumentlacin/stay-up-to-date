@@ -1,19 +1,247 @@
 [
   {
-    "title": "Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪",
-    "link": "https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666",
+    "title": "Types of Middleware: The Different Flavors 😋",
+    "link": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-171a",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Types of Middleware: The Different Flavors",
+    "link": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-3p84",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Is Your API ACTUALLY Ready for User Traffic?",
+    "link": "https://dev.to/tkssharma/is-your-api-actually-ready-for-user-traffic-16d2",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning Node.js in 30 Days with AI - Day 5",
+    "link": "https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-5-g72",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to install Node.js, NPM and NVM on Windows (node version manager)",
+    "link": "https://dev.to/samirabawad/how-to-install-nodejs-npm-and-nvm-on-windows-node-version-manager-9j9",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Hacked a Company Recruitment Test The Unexpected Tech Adventure of My College Life",
+    "link": "https://dev.to/programmerraja/how-i-hacked-a-company-recruitment-test-the-unexpected-tech-adventure-of-my-college-life-4plb",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhance Node.js Server Performance with Worker Threads",
+    "link": "https://dev.to/saqib29/enhance-nodejs-server-performance-with-worker-threads-igh",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Types of Middleware: The Different Flavors 😋",
+    "link": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-171a",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Types of Middleware: The Different Flavors",
+    "link": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-3p84",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Is Your API ACTUALLY Ready for User Traffic?",
+    "link": "https://dev.to/tkssharma/is-your-api-actually-ready-for-user-traffic-16d2",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning Node.js in 30 Days with AI - Day 5",
+    "link": "https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-5-g72",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to install Node.js, NPM and NVM on Windows (node version manager)",
+    "link": "https://dev.to/samirabawad/how-to-install-nodejs-npm-and-nvm-on-windows-node-version-manager-9j9",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Hacked a Company Recruitment Test The Unexpected Tech Adventure of My College Life",
+    "link": "https://dev.to/programmerraja/how-i-hacked-a-company-recruitment-test-the-unexpected-tech-adventure-of-my-college-life-4plb",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhance Node.js Server Performance with Worker Threads",
+    "link": "https://dev.to/saqib29/enhance-nodejs-server-performance-with-worker-threads-igh",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Types of Middleware: The Different Flavors 😋",
+    "link": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-171a",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Types of Middleware: The Different Flavors",
+    "link": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-3p84",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Is Your API ACTUALLY Ready for User Traffic?",
+    "link": "https://dev.to/tkssharma/is-your-api-actually-ready-for-user-traffic-16d2",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning Node.js in 30 Days with AI - Day 5",
+    "link": "https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-5-g72",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to install Node.js, NPM and NVM on Windows (node version manager)",
+    "link": "https://dev.to/samirabawad/how-to-install-nodejs-npm-and-nvm-on-windows-node-version-manager-9j9",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Hacked a Company Recruitment Test The Unexpected Tech Adventure of My College Life",
+    "link": "https://dev.to/programmerraja/how-i-hacked-a-company-recruitment-test-the-unexpected-tech-adventure-of-my-college-life-4plb",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhance Node.js Server Performance with Worker Threads",
+    "link": "https://dev.to/saqib29/enhance-nodejs-server-performance-with-worker-threads-igh",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Types of Middleware: The Different Flavors 😋",
+    "link": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-171a",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Types of Middleware: The Different Flavors",
+    "link": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-3p84",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Is Your API ACTUALLY Ready for User Traffic?",
+    "link": "https://dev.to/tkssharma/is-your-api-actually-ready-for-user-traffic-16d2",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning Node.js in 30 Days with AI - Day 5",
+    "link": "https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-5-g72",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to install Node.js, NPM and NVM on Windows (node version manager)",
+    "link": "https://dev.to/samirabawad/how-to-install-nodejs-npm-and-nvm-on-windows-node-version-manager-9j9",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Hacked a Company Recruitment Test The Unexpected Tech Adventure of My College Life",
+    "link": "https://dev.to/programmerraja/how-i-hacked-a-company-recruitment-test-the-unexpected-tech-adventure-of-my-college-life-4plb",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhance Node.js Server Performance with Worker Threads",
+    "link": "https://dev.to/saqib29/enhance-nodejs-server-performance-with-worker-threads-igh",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Types of Middleware: The Different Flavors 😋",
+    "link": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-171a",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Types of Middleware: The Different Flavors",
+    "link": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-3p84",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Is Your API ACTUALLY Ready for User Traffic?",
+    "link": "https://dev.to/tkssharma/is-your-api-actually-ready-for-user-traffic-16d2",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning Node.js in 30 Days with AI - Day 5",
+    "link": "https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-5-g72",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to install Node.js, NPM and NVM on Windows (node version manager)",
+    "link": "https://dev.to/samirabawad/how-to-install-nodejs-npm-and-nvm-on-windows-node-version-manager-9j9",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Hacked a Company Recruitment Test The Unexpected Tech Adventure of My College Life",
+    "link": "https://dev.to/programmerraja/how-i-hacked-a-company-recruitment-test-the-unexpected-tech-adventure-of-my-college-life-4plb",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhance Node.js Server Performance with Worker Threads",
+    "link": "https://dev.to/saqib29/enhance-nodejs-server-performance-with-worker-threads-igh",
+    "date": "8/29/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How we made applications observable by default with OpenTelemetry",
+    "link": "https://dev.to/maxdml/how-we-made-applications-observable-by-default-with-opentelemetry-3fc",
     "date": "8/28/2024",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Uncovered: The Truth Behind Its Single-Threaded Magic and How It Powers High-Performance Apps",
-    "link": "https://dev.to/coder_x/nodejs-uncovered-the-truth-behind-its-single-threaded-magic-and-how-it-powers-high-performance-apps-m76",
+    "title": "Ts transpiling absolute path statements in your npm package",
+    "link": "https://dev.to/manuartero/ts-transpiling-absolute-path-statements-in-your-npm-package-f15",
     "date": "8/28/2024",
     "site": "dev.to"
   },
   {
-    "title": "A quick overview of Bun's basic features and a comparison with Node.js.",
-    "link": "https://dev.to/kostyatretyak/a-quick-overview-of-buns-basic-features-and-a-comparison-with-nodejs-3o1a",
+    "title": "Smoke Testing: A Quick and Efficient Quality Check",
+    "link": "https://dev.to/keploy/smoke-testing-a-quick-and-efficient-quality-check-599e",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning Node.js in 30 Days with AI - Day 4",
+    "link": "https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-4-3o69",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Azure: Host a Selenium JavaScript Node Application in Azure and Send Email Notifications on Failures",
+    "link": "https://dev.to/iamrule/how-to-azure-host-a-selenium-javascript-node-application-in-azure-and-send-email-notifications-on-failures-2aio",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scrape the web with puppeteer!",
+    "link": "https://dev.to/cedsengine/scrape-the-web-with-puppeteer-2hmh",
     "date": "8/28/2024",
     "site": "dev.to"
   },
@@ -30,50 +258,38 @@
     "site": "dev.to"
   },
   {
+    "title": "How we made applications observable by default with OpenTelemetry",
+    "link": "https://dev.to/maxdml/how-we-made-applications-observable-by-default-with-opentelemetry-3fc",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ts transpiling absolute path statements in your npm package",
+    "link": "https://dev.to/manuartero/ts-transpiling-absolute-path-statements-in-your-npm-package-f15",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Smoke Testing: A Quick and Efficient Quality Check",
+    "link": "https://dev.to/keploy/smoke-testing-a-quick-and-efficient-quality-check-599e",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning Node.js in 30 Days with AI - Day 4",
+    "link": "https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-4-3o69",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
     "title": "How to Azure: Host a Selenium JavaScript Node Application in Azure and Send Email Notifications on Failures",
     "link": "https://dev.to/iamrule/how-to-azure-host-a-selenium-javascript-node-application-in-azure-and-send-email-notifications-on-failures-2aio",
     "date": "8/28/2024",
     "site": "dev.to"
   },
   {
-    "title": "How to JS: Automate testing with Selenium",
-    "link": "https://dev.to/iamrule/how-to-js-automate-testing-with-selenium-46j4",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top Reasons to Use Node.JS Development for Your Business",
-    "link": "https://dev.to/parthspan/top-reasons-to-use-nodejs-development-for-your-business-1i7f",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial menampilkan \"hello world\" menggunakan node.js",
-    "link": "https://dev.to/yahyaalfaruq/tutorial-menampilkan-hello-world-menggunakan-nodejs-3gjg",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial untuk menampilkan \"Hello Word\" menggunakan node.js",
-    "link": "https://dev.to/hafid_karim_457853ed77ba9/tutorial-untuk-menampilkan-hello-word-menggunakan-nodejs-4gea",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪",
-    "link": "https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Uncovered: The Truth Behind Its Single-Threaded Magic and How It Powers High-Performance Apps",
-    "link": "https://dev.to/coder_x/nodejs-uncovered-the-truth-behind-its-single-threaded-magic-and-how-it-powers-high-performance-apps-m76",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A quick overview of Bun's basic features and a comparison with Node.js.",
-    "link": "https://dev.to/kostyatretyak/a-quick-overview-of-buns-basic-features-and-a-comparison-with-nodejs-3o1a",
+    "title": "Scrape the web with puppeteer!",
+    "link": "https://dev.to/cedsengine/scrape-the-web-with-puppeteer-2hmh",
     "date": "8/28/2024",
     "site": "dev.to"
   },
@@ -90,50 +306,38 @@
     "site": "dev.to"
   },
   {
+    "title": "How we made applications observable by default with OpenTelemetry",
+    "link": "https://dev.to/maxdml/how-we-made-applications-observable-by-default-with-opentelemetry-3fc",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ts transpiling absolute path statements in your npm package",
+    "link": "https://dev.to/manuartero/ts-transpiling-absolute-path-statements-in-your-npm-package-f15",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Smoke Testing: A Quick and Efficient Quality Check",
+    "link": "https://dev.to/keploy/smoke-testing-a-quick-and-efficient-quality-check-599e",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning Node.js in 30 Days with AI - Day 4",
+    "link": "https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-4-3o69",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
     "title": "How to Azure: Host a Selenium JavaScript Node Application in Azure and Send Email Notifications on Failures",
     "link": "https://dev.to/iamrule/how-to-azure-host-a-selenium-javascript-node-application-in-azure-and-send-email-notifications-on-failures-2aio",
     "date": "8/28/2024",
     "site": "dev.to"
   },
   {
-    "title": "How to JS: Automate testing with Selenium",
-    "link": "https://dev.to/iamrule/how-to-js-automate-testing-with-selenium-46j4",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top Reasons to Use Node.JS Development for Your Business",
-    "link": "https://dev.to/parthspan/top-reasons-to-use-nodejs-development-for-your-business-1i7f",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial menampilkan \"hello world\" menggunakan node.js",
-    "link": "https://dev.to/yahyaalfaruq/tutorial-menampilkan-hello-world-menggunakan-nodejs-3gjg",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial untuk menampilkan \"Hello Word\" menggunakan node.js",
-    "link": "https://dev.to/hafid_karim_457853ed77ba9/tutorial-untuk-menampilkan-hello-word-menggunakan-nodejs-4gea",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪",
-    "link": "https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Uncovered: The Truth Behind Its Single-Threaded Magic and How It Powers High-Performance Apps",
-    "link": "https://dev.to/coder_x/nodejs-uncovered-the-truth-behind-its-single-threaded-magic-and-how-it-powers-high-performance-apps-m76",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A quick overview of Bun's basic features and a comparison with Node.js.",
-    "link": "https://dev.to/kostyatretyak/a-quick-overview-of-buns-basic-features-and-a-comparison-with-nodejs-3o1a",
+    "title": "Scrape the web with puppeteer!",
+    "link": "https://dev.to/cedsengine/scrape-the-web-with-puppeteer-2hmh",
     "date": "8/28/2024",
     "site": "dev.to"
   },
@@ -150,50 +354,38 @@
     "site": "dev.to"
   },
   {
+    "title": "How we made applications observable by default with OpenTelemetry",
+    "link": "https://dev.to/maxdml/how-we-made-applications-observable-by-default-with-opentelemetry-3fc",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ts transpiling absolute path statements in your npm package",
+    "link": "https://dev.to/manuartero/ts-transpiling-absolute-path-statements-in-your-npm-package-f15",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Smoke Testing: A Quick and Efficient Quality Check",
+    "link": "https://dev.to/keploy/smoke-testing-a-quick-and-efficient-quality-check-599e",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning Node.js in 30 Days with AI - Day 4",
+    "link": "https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-4-3o69",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
     "title": "How to Azure: Host a Selenium JavaScript Node Application in Azure and Send Email Notifications on Failures",
     "link": "https://dev.to/iamrule/how-to-azure-host-a-selenium-javascript-node-application-in-azure-and-send-email-notifications-on-failures-2aio",
     "date": "8/28/2024",
     "site": "dev.to"
   },
   {
-    "title": "How to JS: Automate testing with Selenium",
-    "link": "https://dev.to/iamrule/how-to-js-automate-testing-with-selenium-46j4",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top Reasons to Use Node.JS Development for Your Business",
-    "link": "https://dev.to/parthspan/top-reasons-to-use-nodejs-development-for-your-business-1i7f",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial menampilkan \"hello world\" menggunakan node.js",
-    "link": "https://dev.to/yahyaalfaruq/tutorial-menampilkan-hello-world-menggunakan-nodejs-3gjg",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial untuk menampilkan \"Hello Word\" menggunakan node.js",
-    "link": "https://dev.to/hafid_karim_457853ed77ba9/tutorial-untuk-menampilkan-hello-word-menggunakan-nodejs-4gea",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪",
-    "link": "https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Uncovered: The Truth Behind Its Single-Threaded Magic and How It Powers High-Performance Apps",
-    "link": "https://dev.to/coder_x/nodejs-uncovered-the-truth-behind-its-single-threaded-magic-and-how-it-powers-high-performance-apps-m76",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A quick overview of Bun's basic features and a comparison with Node.js.",
-    "link": "https://dev.to/kostyatretyak/a-quick-overview-of-buns-basic-features-and-a-comparison-with-nodejs-3o1a",
+    "title": "Scrape the web with puppeteer!",
+    "link": "https://dev.to/cedsengine/scrape-the-web-with-puppeteer-2hmh",
     "date": "8/28/2024",
     "site": "dev.to"
   },
@@ -210,50 +402,38 @@
     "site": "dev.to"
   },
   {
+    "title": "How we made applications observable by default with OpenTelemetry",
+    "link": "https://dev.to/maxdml/how-we-made-applications-observable-by-default-with-opentelemetry-3fc",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ts transpiling absolute path statements in your npm package",
+    "link": "https://dev.to/manuartero/ts-transpiling-absolute-path-statements-in-your-npm-package-f15",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Smoke Testing: A Quick and Efficient Quality Check",
+    "link": "https://dev.to/keploy/smoke-testing-a-quick-and-efficient-quality-check-599e",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Learning Node.js in 30 Days with AI - Day 4",
+    "link": "https://dev.to/king_triton/learning-nodejs-in-30-days-with-ai-day-4-3o69",
+    "date": "8/28/2024",
+    "site": "dev.to"
+  },
+  {
     "title": "How to Azure: Host a Selenium JavaScript Node Application in Azure and Send Email Notifications on Failures",
     "link": "https://dev.to/iamrule/how-to-azure-host-a-selenium-javascript-node-application-in-azure-and-send-email-notifications-on-failures-2aio",
     "date": "8/28/2024",
     "site": "dev.to"
   },
   {
-    "title": "How to JS: Automate testing with Selenium",
-    "link": "https://dev.to/iamrule/how-to-js-automate-testing-with-selenium-46j4",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top Reasons to Use Node.JS Development for Your Business",
-    "link": "https://dev.to/parthspan/top-reasons-to-use-nodejs-development-for-your-business-1i7f",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial menampilkan \"hello world\" menggunakan node.js",
-    "link": "https://dev.to/yahyaalfaruq/tutorial-menampilkan-hello-world-menggunakan-nodejs-3gjg",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial untuk menampilkan \"Hello Word\" menggunakan node.js",
-    "link": "https://dev.to/hafid_karim_457853ed77ba9/tutorial-untuk-menampilkan-hello-word-menggunakan-nodejs-4gea",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪",
-    "link": "https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Uncovered: The Truth Behind Its Single-Threaded Magic and How It Powers High-Performance Apps",
-    "link": "https://dev.to/coder_x/nodejs-uncovered-the-truth-behind-its-single-threaded-magic-and-how-it-powers-high-performance-apps-m76",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A quick overview of Bun's basic features and a comparison with Node.js.",
-    "link": "https://dev.to/kostyatretyak/a-quick-overview-of-buns-basic-features-and-a-comparison-with-nodejs-3o1a",
+    "title": "Scrape the web with puppeteer!",
+    "link": "https://dev.to/cedsengine/scrape-the-web-with-puppeteer-2hmh",
     "date": "8/28/2024",
     "site": "dev.to"
   },
@@ -267,186 +447,6 @@
     "title": "A Simple Way to Handle Locale-Specific URLs in Express",
     "link": "https://dev.to/sergeyli/a-simple-way-to-handle-locale-specific-urls-in-express-4803",
     "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Azure: Host a Selenium JavaScript Node Application in Azure and Send Email Notifications on Failures",
-    "link": "https://dev.to/iamrule/how-to-azure-host-a-selenium-javascript-node-application-in-azure-and-send-email-notifications-on-failures-2aio",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to JS: Automate testing with Selenium",
-    "link": "https://dev.to/iamrule/how-to-js-automate-testing-with-selenium-46j4",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top Reasons to Use Node.JS Development for Your Business",
-    "link": "https://dev.to/parthspan/top-reasons-to-use-nodejs-development-for-your-business-1i7f",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial menampilkan \"hello world\" menggunakan node.js",
-    "link": "https://dev.to/yahyaalfaruq/tutorial-menampilkan-hello-world-menggunakan-nodejs-3gjg",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial untuk menampilkan \"Hello Word\" menggunakan node.js",
-    "link": "https://dev.to/hafid_karim_457853ed77ba9/tutorial-untuk-menampilkan-hello-word-menggunakan-nodejs-4gea",
-    "date": "8/28/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Unlocking the Power of Elasticsearch: Top Use Cases for Real-Time Search and Analytics",
-    "link": "https://dev.to/wallacefreitas/unlocking-the-power-of-elasticsearch-top-use-cases-for-real-time-search-and-analytics-5fe3",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "nestjs vs fastify Battle",
-    "link": "https://dev.to/tkssharma/nestjs-vs-fastify-battle-4obn",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React App Setup, Resolving Dependency Conflicts in Node.js, & Debugging",
-    "link": "https://dev.to/tobidelly/react-app-setup-resolving-dependency-conflicts-in-nodejs-debugging-3cbn",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Email Sending in Node.js: A Step-by-Step Guide",
-    "link": "https://dev.to/dharamgfx/mastering-email-sending-in-nodejs-a-step-by-step-guide-27ek",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setting Up PM2 for Multi-User Access on Ubuntu Instance",
-    "link": "https://dev.to/manojspace/setting-up-pm2-for-multi-user-access-on-ubuntu-instance-5g95",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Unlocking the Power of Elasticsearch: Top Use Cases for Real-Time Search and Analytics",
-    "link": "https://dev.to/wallacefreitas/unlocking-the-power-of-elasticsearch-top-use-cases-for-real-time-search-and-analytics-5fe3",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "nestjs vs fastify Battle",
-    "link": "https://dev.to/tkssharma/nestjs-vs-fastify-battle-4obn",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React App Setup, Resolving Dependency Conflicts in Node.js, & Debugging",
-    "link": "https://dev.to/tobidelly/react-app-setup-resolving-dependency-conflicts-in-nodejs-debugging-3cbn",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Email Sending in Node.js: A Step-by-Step Guide",
-    "link": "https://dev.to/dharamgfx/mastering-email-sending-in-nodejs-a-step-by-step-guide-27ek",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setting Up PM2 for Multi-User Access on Ubuntu Instance",
-    "link": "https://dev.to/manojspace/setting-up-pm2-for-multi-user-access-on-ubuntu-instance-5g95",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Unlocking the Power of Elasticsearch: Top Use Cases for Real-Time Search and Analytics",
-    "link": "https://dev.to/wallacefreitas/unlocking-the-power-of-elasticsearch-top-use-cases-for-real-time-search-and-analytics-5fe3",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "nestjs vs fastify Battle",
-    "link": "https://dev.to/tkssharma/nestjs-vs-fastify-battle-4obn",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React App Setup, Resolving Dependency Conflicts in Node.js, & Debugging",
-    "link": "https://dev.to/tobidelly/react-app-setup-resolving-dependency-conflicts-in-nodejs-debugging-3cbn",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Email Sending in Node.js: A Step-by-Step Guide",
-    "link": "https://dev.to/dharamgfx/mastering-email-sending-in-nodejs-a-step-by-step-guide-27ek",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setting Up PM2 for Multi-User Access on Ubuntu Instance",
-    "link": "https://dev.to/manojspace/setting-up-pm2-for-multi-user-access-on-ubuntu-instance-5g95",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Unlocking the Power of Elasticsearch: Top Use Cases for Real-Time Search and Analytics",
-    "link": "https://dev.to/wallacefreitas/unlocking-the-power-of-elasticsearch-top-use-cases-for-real-time-search-and-analytics-5fe3",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "nestjs vs fastify Battle",
-    "link": "https://dev.to/tkssharma/nestjs-vs-fastify-battle-4obn",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React App Setup, Resolving Dependency Conflicts in Node.js, & Debugging",
-    "link": "https://dev.to/tobidelly/react-app-setup-resolving-dependency-conflicts-in-nodejs-debugging-3cbn",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Email Sending in Node.js: A Step-by-Step Guide",
-    "link": "https://dev.to/dharamgfx/mastering-email-sending-in-nodejs-a-step-by-step-guide-27ek",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setting Up PM2 for Multi-User Access on Ubuntu Instance",
-    "link": "https://dev.to/manojspace/setting-up-pm2-for-multi-user-access-on-ubuntu-instance-5g95",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Unlocking the Power of Elasticsearch: Top Use Cases for Real-Time Search and Analytics",
-    "link": "https://dev.to/wallacefreitas/unlocking-the-power-of-elasticsearch-top-use-cases-for-real-time-search-and-analytics-5fe3",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "nestjs vs fastify Battle",
-    "link": "https://dev.to/tkssharma/nestjs-vs-fastify-battle-4obn",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React App Setup, Resolving Dependency Conflicts in Node.js, & Debugging",
-    "link": "https://dev.to/tobidelly/react-app-setup-resolving-dependency-conflicts-in-nodejs-debugging-3cbn",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Email Sending in Node.js: A Step-by-Step Guide",
-    "link": "https://dev.to/dharamgfx/mastering-email-sending-in-nodejs-a-step-by-step-guide-27ek",
-    "date": "8/27/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setting Up PM2 for Multi-User Access on Ubuntu Instance",
-    "link": "https://dev.to/manojspace/setting-up-pm2-for-multi-user-access-on-ubuntu-instance-5g95",
-    "date": "8/27/2024",
     "site": "dev.to"
   },
   {
@@ -543,7 +543,7 @@
   {
     "title": "Getting Started With Axios In Nuxt",
     "link": "https://www.smashingmagazine.com/2020/05/getting-started-axios-nuxt/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "5/26/2020",
     "site": "smashingmagazine"
   },
@@ -557,7 +557,7 @@
   {
     "title": "Creating Secure Password Flows With NodeJS And MySQL",
     "link": "https://www.smashingmagazine.com/2020/03/creating-secure-password-flows-nodejs-mysql/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "3/11/2020",
     "site": "smashingmagazine"
   },
@@ -620,7 +620,7 @@
   {
     "title": "Building A Room Detector For IoT Devices On Mac OS",
     "link": "https://www.smashingmagazine.com/2018/08/building-room-detector-iot-devices-mac-os/",
-    "reading_time": "24 min read",
+    "reading_time": "25 min read",
     "date": "8/29/2018",
     "site": "smashingmagazine"
   },
@@ -641,7 +641,7 @@
   {
     "title": "Sharing Code Between Projects: Lessons Learned In The Trenches",
     "link": "https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "4/25/2018",
     "site": "smashingmagazine"
   },
@@ -662,7 +662,7 @@
   {
     "title": "Creating Secure Password Resets With JSON Web Tokens",
     "link": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "11/9/2017",
     "site": "smashingmagazine"
   },
@@ -683,7 +683,7 @@
   {
     "title": "Beyond The Browser: From Web Apps To Desktop Apps",
     "link": "https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/",
-    "reading_time": "40 min read",
+    "reading_time": "39 min read",
     "date": "3/21/2017",
     "site": "smashingmagazine"
   },
@@ -746,7 +746,7 @@
   {
     "title": "React To The Future With Isomorphic Apps",
     "link": "https://www.smashingmagazine.com/2015/04/react-to-the-future-with-isomorphic-apps/",
-    "reading_time": "13 min read",
+    "reading_time": "12 min read",
     "date": "4/21/2015",
     "site": "smashingmagazine"
   },
