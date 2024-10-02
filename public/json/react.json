@@ -1,19 +1,247 @@
 [
   {
-    "title": "React Meets Disney: Unveiling the Magic of Hooks | The Tale of useState",
-    "link": "https://dev.to/parnikagupta/react-meets-disney-unveiling-the-magic-of-hooks-the-tale-of-usestate-56b0",
+    "title": "Understanding State Update Techniques with useState in React",
+    "link": "https://dev.to/sonaykara/understanding-state-update-techniques-with-usestate-in-react-4iio",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "12 Core React Concepts Every Developer Should Know",
+    "link": "https://dev.to/mrdprasad/core-react-concepts-every-developer-should-know-21mk",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Deep Dive into React Server Components: What Frontend Developers Need to Know",
+    "link": "https://dev.to/delia_code/a-deep-dive-into-react-server-components-what-frontend-developers-need-to-know-c6j",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "UseEffect Vs. UseLayoutEffect: Why UseEffect Is a better Choice?",
+    "link": "https://dev.to/mroman7/useeffect-vs-uselayouteffect-why-useeffect-is-a-better-choice-2gp8",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make your Web Page Responsive",
+    "link": "https://dev.to/dualitedev/how-to-make-your-web-page-responsive-1fo2",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "useState ile Durum Güncelleme Yöntemleri",
+    "link": "https://dev.to/sonaykara/usestate-ile-durum-guncelleme-yontemleri-1el3",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Password Reset Feature: Frontend",
+    "link": "https://dev.to/bitorsic/3-password-reset-feature-frontend-3623",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding State Update Techniques with useState in React",
+    "link": "https://dev.to/sonaykara/understanding-state-update-techniques-with-usestate-in-react-4iio",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "12 Core React Concepts Every Developer Should Know",
+    "link": "https://dev.to/mrdprasad/core-react-concepts-every-developer-should-know-21mk",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Deep Dive into React Server Components: What Frontend Developers Need to Know",
+    "link": "https://dev.to/delia_code/a-deep-dive-into-react-server-components-what-frontend-developers-need-to-know-c6j",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "UseEffect Vs. UseLayoutEffect: Why UseEffect Is a better Choice?",
+    "link": "https://dev.to/mroman7/useeffect-vs-uselayouteffect-why-useeffect-is-a-better-choice-2gp8",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make your Web Page Responsive",
+    "link": "https://dev.to/dualitedev/how-to-make-your-web-page-responsive-1fo2",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "useState ile Durum Güncelleme Yöntemleri",
+    "link": "https://dev.to/sonaykara/usestate-ile-durum-guncelleme-yontemleri-1el3",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Password Reset Feature: Frontend",
+    "link": "https://dev.to/bitorsic/3-password-reset-feature-frontend-3623",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding State Update Techniques with useState in React",
+    "link": "https://dev.to/sonaykara/understanding-state-update-techniques-with-usestate-in-react-4iio",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "12 Core React Concepts Every Developer Should Know",
+    "link": "https://dev.to/mrdprasad/core-react-concepts-every-developer-should-know-21mk",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Deep Dive into React Server Components: What Frontend Developers Need to Know",
+    "link": "https://dev.to/delia_code/a-deep-dive-into-react-server-components-what-frontend-developers-need-to-know-c6j",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "UseEffect Vs. UseLayoutEffect: Why UseEffect Is a better Choice?",
+    "link": "https://dev.to/mroman7/useeffect-vs-uselayouteffect-why-useeffect-is-a-better-choice-2gp8",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make your Web Page Responsive",
+    "link": "https://dev.to/dualitedev/how-to-make-your-web-page-responsive-1fo2",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "useState ile Durum Güncelleme Yöntemleri",
+    "link": "https://dev.to/sonaykara/usestate-ile-durum-guncelleme-yontemleri-1el3",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Password Reset Feature: Frontend",
+    "link": "https://dev.to/bitorsic/3-password-reset-feature-frontend-3623",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding State Update Techniques with useState in React",
+    "link": "https://dev.to/sonaykara/understanding-state-update-techniques-with-usestate-in-react-4iio",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "12 Core React Concepts Every Developer Should Know",
+    "link": "https://dev.to/mrdprasad/core-react-concepts-every-developer-should-know-21mk",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Deep Dive into React Server Components: What Frontend Developers Need to Know",
+    "link": "https://dev.to/delia_code/a-deep-dive-into-react-server-components-what-frontend-developers-need-to-know-c6j",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "UseEffect Vs. UseLayoutEffect: Why UseEffect Is a better Choice?",
+    "link": "https://dev.to/mroman7/useeffect-vs-uselayouteffect-why-useeffect-is-a-better-choice-2gp8",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make your Web Page Responsive",
+    "link": "https://dev.to/dualitedev/how-to-make-your-web-page-responsive-1fo2",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "useState ile Durum Güncelleme Yöntemleri",
+    "link": "https://dev.to/sonaykara/usestate-ile-durum-guncelleme-yontemleri-1el3",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Password Reset Feature: Frontend",
+    "link": "https://dev.to/bitorsic/3-password-reset-feature-frontend-3623",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding State Update Techniques with useState in React",
+    "link": "https://dev.to/sonaykara/understanding-state-update-techniques-with-usestate-in-react-4iio",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "12 Core React Concepts Every Developer Should Know",
+    "link": "https://dev.to/mrdprasad/core-react-concepts-every-developer-should-know-21mk",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Deep Dive into React Server Components: What Frontend Developers Need to Know",
+    "link": "https://dev.to/delia_code/a-deep-dive-into-react-server-components-what-frontend-developers-need-to-know-c6j",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "UseEffect Vs. UseLayoutEffect: Why UseEffect Is a better Choice?",
+    "link": "https://dev.to/mroman7/useeffect-vs-uselayouteffect-why-useeffect-is-a-better-choice-2gp8",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to make your Web Page Responsive",
+    "link": "https://dev.to/dualitedev/how-to-make-your-web-page-responsive-1fo2",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "useState ile Durum Güncelleme Yöntemleri",
+    "link": "https://dev.to/sonaykara/usestate-ile-durum-guncelleme-yontemleri-1el3",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Password Reset Feature: Frontend",
+    "link": "https://dev.to/bitorsic/3-password-reset-feature-frontend-3623",
+    "date": "10/2/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "21 React Projects Too Awesome to Ignore",
+    "link": "https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "L - Liskov Substitution Principle (LSP)",
-    "link": "https://dev.to/nozibul_islam_113b1d5334f/l-liskov-substitution-principle-lsp-52p1",
+    "title": "React from 0 to Hero: Lesson 1 – Getting Started",
+    "link": "https://dev.to/dazevedo/react-from-0-to-hero-lesson-1-getting-started-476a",
+    "date": "10/1/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular vs. React vs. Vue: Which is the Best Framework in 2024?",
+    "link": "https://dev.to/aliahsan0/angular-vs-react-vs-vue-which-is-the-best-framework-in-2024-i1d",
+    "date": "10/1/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Preventing CSRF and XSS Attacks with JWT and Fingerprint Cookies in Express",
+    "link": "https://dev.to/kurtchan/preventing-csrf-and-xss-attacks-with-jwt-and-fingerprint-cookies-in-express-1jol",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
     "title": "React Environment Variables: A Complete Step-By-Step Guide",
     "link": "https://dev.to/iradcn/react-environment-variables-a-complete-step-by-step-guide-99p",
+    "date": "10/1/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧪 Setup Jest with (Webpack, Vite)",
+    "link": "https://dev.to/jorjishasan/setup-jest-webpack-vite-48h8",
     "date": "10/1/2024",
     "site": "dev.to"
   },
@@ -30,44 +258,38 @@
     "site": "dev.to"
   },
   {
-    "title": "Nextjs vs React",
-    "link": "https://dev.to/turingvangisms/nextjs-vs-react-4035",
+    "title": "21 React Projects Too Awesome to Ignore",
+    "link": "https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "Tech Stack Showdown: Comparing Popular Technologies for Developers",
-    "link": "https://dev.to/ratan_3511/tech-stack-showdown-comparing-popular-technologies-for-developers-4c2m",
+    "title": "React from 0 to Hero: Lesson 1 – Getting Started",
+    "link": "https://dev.to/dazevedo/react-from-0-to-hero-lesson-1-getting-started-476a",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "How to Manage User Authentication in React.js, Next.js, Vue.js, and Nuxt.js Using Clerk",
-    "link": "https://dev.to/hramonpereira/how-to-manage-user-authentication-in-reactjs-nextjs-vuejs-and-nuxtjs-using-clerk-136l",
+    "title": "Angular vs. React vs. Vue: Which is the Best Framework in 2024?",
+    "link": "https://dev.to/aliahsan0/angular-vs-react-vs-vue-which-is-the-best-framework-in-2024-i1d",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "Mastering Next.js App Directory Structure (2024 Edition)",
-    "link": "https://dev.to/vyan/mastering-nextjs-app-directory-structure-2024-edition-4b16",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Meets Disney: Unveiling the Magic of Hooks | The Tale of useState",
-    "link": "https://dev.to/parnikagupta/react-meets-disney-unveiling-the-magic-of-hooks-the-tale-of-usestate-56b0",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "L - Liskov Substitution Principle (LSP)",
-    "link": "https://dev.to/nozibul_islam_113b1d5334f/l-liskov-substitution-principle-lsp-52p1",
+    "title": "Preventing CSRF and XSS Attacks with JWT and Fingerprint Cookies in Express",
+    "link": "https://dev.to/kurtchan/preventing-csrf-and-xss-attacks-with-jwt-and-fingerprint-cookies-in-express-1jol",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
     "title": "React Environment Variables: A Complete Step-By-Step Guide",
     "link": "https://dev.to/iradcn/react-environment-variables-a-complete-step-by-step-guide-99p",
+    "date": "10/1/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧪 Setup Jest with (Webpack, Vite)",
+    "link": "https://dev.to/jorjishasan/setup-jest-webpack-vite-48h8",
     "date": "10/1/2024",
     "site": "dev.to"
   },
@@ -84,44 +306,38 @@
     "site": "dev.to"
   },
   {
-    "title": "Nextjs vs React",
-    "link": "https://dev.to/turingvangisms/nextjs-vs-react-4035",
+    "title": "21 React Projects Too Awesome to Ignore",
+    "link": "https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "Tech Stack Showdown: Comparing Popular Technologies for Developers",
-    "link": "https://dev.to/ratan_3511/tech-stack-showdown-comparing-popular-technologies-for-developers-4c2m",
+    "title": "React from 0 to Hero: Lesson 1 – Getting Started",
+    "link": "https://dev.to/dazevedo/react-from-0-to-hero-lesson-1-getting-started-476a",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "How to Manage User Authentication in React.js, Next.js, Vue.js, and Nuxt.js Using Clerk",
-    "link": "https://dev.to/hramonpereira/how-to-manage-user-authentication-in-reactjs-nextjs-vuejs-and-nuxtjs-using-clerk-136l",
+    "title": "Angular vs. React vs. Vue: Which is the Best Framework in 2024?",
+    "link": "https://dev.to/aliahsan0/angular-vs-react-vs-vue-which-is-the-best-framework-in-2024-i1d",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "Mastering Next.js App Directory Structure (2024 Edition)",
-    "link": "https://dev.to/vyan/mastering-nextjs-app-directory-structure-2024-edition-4b16",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Meets Disney: Unveiling the Magic of Hooks | The Tale of useState",
-    "link": "https://dev.to/parnikagupta/react-meets-disney-unveiling-the-magic-of-hooks-the-tale-of-usestate-56b0",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "L - Liskov Substitution Principle (LSP)",
-    "link": "https://dev.to/nozibul_islam_113b1d5334f/l-liskov-substitution-principle-lsp-52p1",
+    "title": "Preventing CSRF and XSS Attacks with JWT and Fingerprint Cookies in Express",
+    "link": "https://dev.to/kurtchan/preventing-csrf-and-xss-attacks-with-jwt-and-fingerprint-cookies-in-express-1jol",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
     "title": "React Environment Variables: A Complete Step-By-Step Guide",
     "link": "https://dev.to/iradcn/react-environment-variables-a-complete-step-by-step-guide-99p",
+    "date": "10/1/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧪 Setup Jest with (Webpack, Vite)",
+    "link": "https://dev.to/jorjishasan/setup-jest-webpack-vite-48h8",
     "date": "10/1/2024",
     "site": "dev.to"
   },
@@ -138,44 +354,38 @@
     "site": "dev.to"
   },
   {
-    "title": "Nextjs vs React",
-    "link": "https://dev.to/turingvangisms/nextjs-vs-react-4035",
+    "title": "21 React Projects Too Awesome to Ignore",
+    "link": "https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "Tech Stack Showdown: Comparing Popular Technologies for Developers",
-    "link": "https://dev.to/ratan_3511/tech-stack-showdown-comparing-popular-technologies-for-developers-4c2m",
+    "title": "React from 0 to Hero: Lesson 1 – Getting Started",
+    "link": "https://dev.to/dazevedo/react-from-0-to-hero-lesson-1-getting-started-476a",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "How to Manage User Authentication in React.js, Next.js, Vue.js, and Nuxt.js Using Clerk",
-    "link": "https://dev.to/hramonpereira/how-to-manage-user-authentication-in-reactjs-nextjs-vuejs-and-nuxtjs-using-clerk-136l",
+    "title": "Angular vs. React vs. Vue: Which is the Best Framework in 2024?",
+    "link": "https://dev.to/aliahsan0/angular-vs-react-vs-vue-which-is-the-best-framework-in-2024-i1d",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "Mastering Next.js App Directory Structure (2024 Edition)",
-    "link": "https://dev.to/vyan/mastering-nextjs-app-directory-structure-2024-edition-4b16",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Meets Disney: Unveiling the Magic of Hooks | The Tale of useState",
-    "link": "https://dev.to/parnikagupta/react-meets-disney-unveiling-the-magic-of-hooks-the-tale-of-usestate-56b0",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "L - Liskov Substitution Principle (LSP)",
-    "link": "https://dev.to/nozibul_islam_113b1d5334f/l-liskov-substitution-principle-lsp-52p1",
+    "title": "Preventing CSRF and XSS Attacks with JWT and Fingerprint Cookies in Express",
+    "link": "https://dev.to/kurtchan/preventing-csrf-and-xss-attacks-with-jwt-and-fingerprint-cookies-in-express-1jol",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
     "title": "React Environment Variables: A Complete Step-By-Step Guide",
     "link": "https://dev.to/iradcn/react-environment-variables-a-complete-step-by-step-guide-99p",
+    "date": "10/1/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧪 Setup Jest with (Webpack, Vite)",
+    "link": "https://dev.to/jorjishasan/setup-jest-webpack-vite-48h8",
     "date": "10/1/2024",
     "site": "dev.to"
   },
@@ -192,44 +402,38 @@
     "site": "dev.to"
   },
   {
-    "title": "Nextjs vs React",
-    "link": "https://dev.to/turingvangisms/nextjs-vs-react-4035",
+    "title": "21 React Projects Too Awesome to Ignore",
+    "link": "https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "Tech Stack Showdown: Comparing Popular Technologies for Developers",
-    "link": "https://dev.to/ratan_3511/tech-stack-showdown-comparing-popular-technologies-for-developers-4c2m",
+    "title": "React from 0 to Hero: Lesson 1 – Getting Started",
+    "link": "https://dev.to/dazevedo/react-from-0-to-hero-lesson-1-getting-started-476a",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "How to Manage User Authentication in React.js, Next.js, Vue.js, and Nuxt.js Using Clerk",
-    "link": "https://dev.to/hramonpereira/how-to-manage-user-authentication-in-reactjs-nextjs-vuejs-and-nuxtjs-using-clerk-136l",
+    "title": "Angular vs. React vs. Vue: Which is the Best Framework in 2024?",
+    "link": "https://dev.to/aliahsan0/angular-vs-react-vs-vue-which-is-the-best-framework-in-2024-i1d",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
-    "title": "Mastering Next.js App Directory Structure (2024 Edition)",
-    "link": "https://dev.to/vyan/mastering-nextjs-app-directory-structure-2024-edition-4b16",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Meets Disney: Unveiling the Magic of Hooks | The Tale of useState",
-    "link": "https://dev.to/parnikagupta/react-meets-disney-unveiling-the-magic-of-hooks-the-tale-of-usestate-56b0",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "L - Liskov Substitution Principle (LSP)",
-    "link": "https://dev.to/nozibul_islam_113b1d5334f/l-liskov-substitution-principle-lsp-52p1",
+    "title": "Preventing CSRF and XSS Attacks with JWT and Fingerprint Cookies in Express",
+    "link": "https://dev.to/kurtchan/preventing-csrf-and-xss-attacks-with-jwt-and-fingerprint-cookies-in-express-1jol",
     "date": "10/1/2024",
     "site": "dev.to"
   },
   {
     "title": "React Environment Variables: A Complete Step-By-Step Guide",
     "link": "https://dev.to/iradcn/react-environment-variables-a-complete-step-by-step-guide-99p",
+    "date": "10/1/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧪 Setup Jest with (Webpack, Vite)",
+    "link": "https://dev.to/jorjishasan/setup-jest-webpack-vite-48h8",
     "date": "10/1/2024",
     "site": "dev.to"
   },
@@ -243,210 +447,6 @@
     "title": "How Project Ideas Can Come From Anywhere - My Open Source Daily Puzzle Game",
     "link": "https://dev.to/oia20/how-project-ideas-can-come-from-anywhere-my-open-source-daily-puzzle-game-56a0",
     "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nextjs vs React",
-    "link": "https://dev.to/turingvangisms/nextjs-vs-react-4035",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tech Stack Showdown: Comparing Popular Technologies for Developers",
-    "link": "https://dev.to/ratan_3511/tech-stack-showdown-comparing-popular-technologies-for-developers-4c2m",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Manage User Authentication in React.js, Next.js, Vue.js, and Nuxt.js Using Clerk",
-    "link": "https://dev.to/hramonpereira/how-to-manage-user-authentication-in-reactjs-nextjs-vuejs-and-nuxtjs-using-clerk-136l",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Next.js App Directory Structure (2024 Edition)",
-    "link": "https://dev.to/vyan/mastering-nextjs-app-directory-structure-2024-edition-4b16",
-    "date": "10/1/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Node.js Express APIs with Clerk and React",
-    "link": "https://dev.to/clerk/securing-nodejs-express-apis-with-clerk-and-react-ook",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to implement oAuth with PKCE for third-party integration in react",
-    "link": "https://dev.to/konfydev/how-to-implement-oauth-with-pkce-for-third-party-integration-in-react-3jc3",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Everything You Need to Know About React useState Hook – Practical Examples Inside",
-    "link": "https://dev.to/chintanonweb/everything-you-need-to-know-about-react-usestate-hook-practical-examples-inside-fda",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Storing Data in the Browser: LocalStorage, SessionStorage, and Cookies",
-    "link": "https://dev.to/babar_ali/storing-data-in-the-browser-localstorage-sessionstorage-and-cookies-4lm9",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Open-Source React Dashboards on GitHub",
-    "link": "https://dev.to/codedthemes/best-open-source-react-dashboards-on-github-1ldk",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "[DAY 118-122] I learned full-stack by building my 2nd app",
-    "link": "https://dev.to/thomascansino/day-118-122-i-learned-full-stack-by-building-my-2nd-app-57g3",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Node.js Express APIs with Clerk and React",
-    "link": "https://dev.to/clerk/securing-nodejs-express-apis-with-clerk-and-react-ook",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to implement oAuth with PKCE for third-party integration in react",
-    "link": "https://dev.to/konfydev/how-to-implement-oauth-with-pkce-for-third-party-integration-in-react-3jc3",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Everything You Need to Know About React useState Hook – Practical Examples Inside",
-    "link": "https://dev.to/chintanonweb/everything-you-need-to-know-about-react-usestate-hook-practical-examples-inside-fda",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Storing Data in the Browser: LocalStorage, SessionStorage, and Cookies",
-    "link": "https://dev.to/babar_ali/storing-data-in-the-browser-localstorage-sessionstorage-and-cookies-4lm9",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Open-Source React Dashboards on GitHub",
-    "link": "https://dev.to/codedthemes/best-open-source-react-dashboards-on-github-1ldk",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "[DAY 118-122] I learned full-stack by building my 2nd app",
-    "link": "https://dev.to/thomascansino/day-118-122-i-learned-full-stack-by-building-my-2nd-app-57g3",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Node.js Express APIs with Clerk and React",
-    "link": "https://dev.to/clerk/securing-nodejs-express-apis-with-clerk-and-react-ook",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to implement oAuth with PKCE for third-party integration in react",
-    "link": "https://dev.to/konfydev/how-to-implement-oauth-with-pkce-for-third-party-integration-in-react-3jc3",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Everything You Need to Know About React useState Hook – Practical Examples Inside",
-    "link": "https://dev.to/chintanonweb/everything-you-need-to-know-about-react-usestate-hook-practical-examples-inside-fda",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Storing Data in the Browser: LocalStorage, SessionStorage, and Cookies",
-    "link": "https://dev.to/babar_ali/storing-data-in-the-browser-localstorage-sessionstorage-and-cookies-4lm9",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Open-Source React Dashboards on GitHub",
-    "link": "https://dev.to/codedthemes/best-open-source-react-dashboards-on-github-1ldk",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "[DAY 118-122] I learned full-stack by building my 2nd app",
-    "link": "https://dev.to/thomascansino/day-118-122-i-learned-full-stack-by-building-my-2nd-app-57g3",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Node.js Express APIs with Clerk and React",
-    "link": "https://dev.to/clerk/securing-nodejs-express-apis-with-clerk-and-react-ook",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to implement oAuth with PKCE for third-party integration in react",
-    "link": "https://dev.to/konfydev/how-to-implement-oauth-with-pkce-for-third-party-integration-in-react-3jc3",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Everything You Need to Know About React useState Hook – Practical Examples Inside",
-    "link": "https://dev.to/chintanonweb/everything-you-need-to-know-about-react-usestate-hook-practical-examples-inside-fda",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Storing Data in the Browser: LocalStorage, SessionStorage, and Cookies",
-    "link": "https://dev.to/babar_ali/storing-data-in-the-browser-localstorage-sessionstorage-and-cookies-4lm9",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Open-Source React Dashboards on GitHub",
-    "link": "https://dev.to/codedthemes/best-open-source-react-dashboards-on-github-1ldk",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "[DAY 118-122] I learned full-stack by building my 2nd app",
-    "link": "https://dev.to/thomascansino/day-118-122-i-learned-full-stack-by-building-my-2nd-app-57g3",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Node.js Express APIs with Clerk and React",
-    "link": "https://dev.to/clerk/securing-nodejs-express-apis-with-clerk-and-react-ook",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to implement oAuth with PKCE for third-party integration in react",
-    "link": "https://dev.to/konfydev/how-to-implement-oauth-with-pkce-for-third-party-integration-in-react-3jc3",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Everything You Need to Know About React useState Hook – Practical Examples Inside",
-    "link": "https://dev.to/chintanonweb/everything-you-need-to-know-about-react-usestate-hook-practical-examples-inside-fda",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Storing Data in the Browser: LocalStorage, SessionStorage, and Cookies",
-    "link": "https://dev.to/babar_ali/storing-data-in-the-browser-localstorage-sessionstorage-and-cookies-4lm9",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Open-Source React Dashboards on GitHub",
-    "link": "https://dev.to/codedthemes/best-open-source-react-dashboards-on-github-1ldk",
-    "date": "9/30/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "[DAY 118-122] I learned full-stack by building my 2nd app",
-    "link": "https://dev.to/thomascansino/day-118-122-i-learned-full-stack-by-building-my-2nd-app-57g3",
-    "date": "9/30/2024",
     "site": "dev.to"
   },
   {
@@ -459,7 +459,7 @@
   {
     "title": "The End Of My Gatsby Journey",
     "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "3/6/2024",
     "site": "smashingmagazine"
   },
@@ -571,7 +571,7 @@
   {
     "title": "Testable Frontend: The Good, The Bad And The Flaky",
     "link": "https://www.smashingmagazine.com/2022/07/testable-frontend-architecture/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "7/28/2022",
     "site": "smashingmagazine"
   },
@@ -620,14 +620,14 @@
   {
     "title": "Building The Real App With React Query",
     "link": "https://www.smashingmagazine.com/2022/01/building-real-app-react-query/",
-    "reading_time": "23 min read",
+    "reading_time": "24 min read",
     "date": "1/20/2022",
     "site": "smashingmagazine"
   },
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -683,7 +683,7 @@
   {
     "title": "Compound Components In React",
     "link": "https://www.smashingmagazine.com/2021/08/compound-components-react/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "8/27/2021",
     "site": "smashingmagazine"
   },
@@ -711,7 +711,7 @@
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   },
