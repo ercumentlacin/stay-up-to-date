@@ -1,301 +1,421 @@
 [
   {
-    "title": "Getting Started with React and the Component Lifecycle",
-    "link": "https://dev.to/neelp03/getting-started-with-react-and-the-component-lifecycle-43oj",
+    "title": "Create a Notes App Using React and Local Storage",
+    "link": "https://dev.to/tarim_bilal_3e13ed97b36be/create-a-notes-app-using-react-and-local-storage-i8b",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js 13 App Router: A Comprehensive Guide with Real-World Example",
+    "link": "https://dev.to/priyansh0510/nextjs-13-app-router-a-comprehensive-guide-with-real-world-example-17dn",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Puzzle game using html css and js",
+    "link": "https://dev.to/prince_beec5ccde00b7c6c73/puzzle-game-using-html-css-and-js-14d",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Handle Multiple Windows in Cypress",
+    "link": "https://dev.to/aswani25/how-to-handle-multiple-windows-in-cypress-5c50",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leveraging Docker for Efficient Node.js Development and Deployment",
+    "link": "https://dev.to/toufiqur_rahman_tamkin/leveraging-docker-for-efficient-nodejs-development-and-deployment-hao",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hello World",
+    "link": "https://dev.to/visiondisplay/hello-world-1he",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing SharpAPI Node.js SDK Client",
+    "link": "https://dev.to/makowskid/introducing-sharpapi-nodejs-sdk-client-2780",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Naming Conventions: A Guide for Variable and Function Naming",
+    "link": "https://dev.to/emma_richardson/javascript-naming-conventions-a-guideline-for-readable-and-maintainable-code-3am0",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A privacy focused online PDF Editor",
+    "link": "https://dev.to/ekansh_02898088ac05036971/a-privacy-focused-online-pdf-editor-4icc",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring the Core of true value vs false value in JavaScript...",
+    "link": "https://dev.to/tanvir_ahmed_286/exploring-the-core-of-true-value-vs-false-value-in-javascript-40p",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scared of JavaScript (programming in general), who is the best/easiest teacher to learn from?",
+    "link": "https://dev.to/marcus_44b0cc11388a1345bc/scared-of-javascript-programming-in-general-who-is-the-besteasiest-teacher-to-learn-from-a7g",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Web Workers in Vue 3",
+    "link": "https://dev.to/bensoutendijk/using-web-workers-in-vue-3-4jc0",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create a Notes App Using React and Local Storage",
+    "link": "https://dev.to/tarim_bilal_3e13ed97b36be/create-a-notes-app-using-react-and-local-storage-i8b",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js 13 App Router: A Comprehensive Guide with Real-World Example",
+    "link": "https://dev.to/priyansh0510/nextjs-13-app-router-a-comprehensive-guide-with-real-world-example-17dn",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Puzzle game using html css and js",
+    "link": "https://dev.to/prince_beec5ccde00b7c6c73/puzzle-game-using-html-css-and-js-14d",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Handle Multiple Windows in Cypress",
+    "link": "https://dev.to/aswani25/how-to-handle-multiple-windows-in-cypress-5c50",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leveraging Docker for Efficient Node.js Development and Deployment",
+    "link": "https://dev.to/toufiqur_rahman_tamkin/leveraging-docker-for-efficient-nodejs-development-and-deployment-hao",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hello World",
+    "link": "https://dev.to/visiondisplay/hello-world-1he",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing SharpAPI Node.js SDK Client",
+    "link": "https://dev.to/makowskid/introducing-sharpapi-nodejs-sdk-client-2780",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Naming Conventions: A Guide for Variable and Function Naming",
+    "link": "https://dev.to/emma_richardson/javascript-naming-conventions-a-guideline-for-readable-and-maintainable-code-3am0",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A privacy focused online PDF Editor",
+    "link": "https://dev.to/ekansh_02898088ac05036971/a-privacy-focused-online-pdf-editor-4icc",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring the Core of true value vs false value in JavaScript...",
+    "link": "https://dev.to/tanvir_ahmed_286/exploring-the-core-of-true-value-vs-false-value-in-javascript-40p",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scared of JavaScript (programming in general), who is the best/easiest teacher to learn from?",
+    "link": "https://dev.to/marcus_44b0cc11388a1345bc/scared-of-javascript-programming-in-general-who-is-the-besteasiest-teacher-to-learn-from-a7g",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Web Workers in Vue 3",
+    "link": "https://dev.to/bensoutendijk/using-web-workers-in-vue-3-4jc0",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create a Notes App Using React and Local Storage",
+    "link": "https://dev.to/tarim_bilal_3e13ed97b36be/create-a-notes-app-using-react-and-local-storage-i8b",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js 13 App Router: A Comprehensive Guide with Real-World Example",
+    "link": "https://dev.to/priyansh0510/nextjs-13-app-router-a-comprehensive-guide-with-real-world-example-17dn",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Puzzle game using html css and js",
+    "link": "https://dev.to/prince_beec5ccde00b7c6c73/puzzle-game-using-html-css-and-js-14d",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Handle Multiple Windows in Cypress",
+    "link": "https://dev.to/aswani25/how-to-handle-multiple-windows-in-cypress-5c50",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leveraging Docker for Efficient Node.js Development and Deployment",
+    "link": "https://dev.to/toufiqur_rahman_tamkin/leveraging-docker-for-efficient-nodejs-development-and-deployment-hao",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hello World",
+    "link": "https://dev.to/visiondisplay/hello-world-1he",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing SharpAPI Node.js SDK Client",
+    "link": "https://dev.to/makowskid/introducing-sharpapi-nodejs-sdk-client-2780",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Naming Conventions: A Guide for Variable and Function Naming",
+    "link": "https://dev.to/emma_richardson/javascript-naming-conventions-a-guideline-for-readable-and-maintainable-code-3am0",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A privacy focused online PDF Editor",
+    "link": "https://dev.to/ekansh_02898088ac05036971/a-privacy-focused-online-pdf-editor-4icc",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring the Core of true value vs false value in JavaScript...",
+    "link": "https://dev.to/tanvir_ahmed_286/exploring-the-core-of-true-value-vs-false-value-in-javascript-40p",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scared of JavaScript (programming in general), who is the best/easiest teacher to learn from?",
+    "link": "https://dev.to/marcus_44b0cc11388a1345bc/scared-of-javascript-programming-in-general-who-is-the-besteasiest-teacher-to-learn-from-a7g",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Web Workers in Vue 3",
+    "link": "https://dev.to/bensoutendijk/using-web-workers-in-vue-3-4jc0",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create a Notes App Using React and Local Storage",
+    "link": "https://dev.to/tarim_bilal_3e13ed97b36be/create-a-notes-app-using-react-and-local-storage-i8b",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js 13 App Router: A Comprehensive Guide with Real-World Example",
+    "link": "https://dev.to/priyansh0510/nextjs-13-app-router-a-comprehensive-guide-with-real-world-example-17dn",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Puzzle game using html css and js",
+    "link": "https://dev.to/prince_beec5ccde00b7c6c73/puzzle-game-using-html-css-and-js-14d",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Handle Multiple Windows in Cypress",
+    "link": "https://dev.to/aswani25/how-to-handle-multiple-windows-in-cypress-5c50",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leveraging Docker for Efficient Node.js Development and Deployment",
+    "link": "https://dev.to/toufiqur_rahman_tamkin/leveraging-docker-for-efficient-nodejs-development-and-deployment-hao",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hello World",
+    "link": "https://dev.to/visiondisplay/hello-world-1he",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing SharpAPI Node.js SDK Client",
+    "link": "https://dev.to/makowskid/introducing-sharpapi-nodejs-sdk-client-2780",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Naming Conventions: A Guide for Variable and Function Naming",
+    "link": "https://dev.to/emma_richardson/javascript-naming-conventions-a-guideline-for-readable-and-maintainable-code-3am0",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A privacy focused online PDF Editor",
+    "link": "https://dev.to/ekansh_02898088ac05036971/a-privacy-focused-online-pdf-editor-4icc",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring the Core of true value vs false value in JavaScript...",
+    "link": "https://dev.to/tanvir_ahmed_286/exploring-the-core-of-true-value-vs-false-value-in-javascript-40p",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scared of JavaScript (programming in general), who is the best/easiest teacher to learn from?",
+    "link": "https://dev.to/marcus_44b0cc11388a1345bc/scared-of-javascript-programming-in-general-who-is-the-besteasiest-teacher-to-learn-from-a7g",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Web Workers in Vue 3",
+    "link": "https://dev.to/bensoutendijk/using-web-workers-in-vue-3-4jc0",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Create a Notes App Using React and Local Storage",
+    "link": "https://dev.to/tarim_bilal_3e13ed97b36be/create-a-notes-app-using-react-and-local-storage-i8b",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js 13 App Router: A Comprehensive Guide with Real-World Example",
+    "link": "https://dev.to/priyansh0510/nextjs-13-app-router-a-comprehensive-guide-with-real-world-example-17dn",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Puzzle game using html css and js",
+    "link": "https://dev.to/prince_beec5ccde00b7c6c73/puzzle-game-using-html-css-and-js-14d",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Handle Multiple Windows in Cypress",
+    "link": "https://dev.to/aswani25/how-to-handle-multiple-windows-in-cypress-5c50",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leveraging Docker for Efficient Node.js Development and Deployment",
+    "link": "https://dev.to/toufiqur_rahman_tamkin/leveraging-docker-for-efficient-nodejs-development-and-deployment-hao",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Hello World",
+    "link": "https://dev.to/visiondisplay/hello-world-1he",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing SharpAPI Node.js SDK Client",
+    "link": "https://dev.to/makowskid/introducing-sharpapi-nodejs-sdk-client-2780",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Naming Conventions: A Guide for Variable and Function Naming",
+    "link": "https://dev.to/emma_richardson/javascript-naming-conventions-a-guideline-for-readable-and-maintainable-code-3am0",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A privacy focused online PDF Editor",
+    "link": "https://dev.to/ekansh_02898088ac05036971/a-privacy-focused-online-pdf-editor-4icc",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exploring the Core of true value vs false value in JavaScript...",
+    "link": "https://dev.to/tanvir_ahmed_286/exploring-the-core-of-true-value-vs-false-value-in-javascript-40p",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scared of JavaScript (programming in general), who is the best/easiest teacher to learn from?",
+    "link": "https://dev.to/marcus_44b0cc11388a1345bc/scared-of-javascript-programming-in-general-who-is-the-besteasiest-teacher-to-learn-from-a7g",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using Web Workers in Vue 3",
+    "link": "https://dev.to/bensoutendijk/using-web-workers-in-vue-3-4jc0",
+    "date": "10/17/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join us for the next Wix Studio Challenge: Build Your Dream Community Platform!",
+    "link": "https://dev.to/devteam/join-us-for-the-next-wix-studio-challenge-build-your-dream-community-platform-5aoc",
     "date": "10/16/2024",
     "site": "dev.to"
   },
   {
-    "title": "Hoppscotch: The Best Browser-Based API Testing Tool – A Postman Online Alternative",
-    "link": "https://dev.to/hoppscotch/hoppscotch-the-best-browser-based-api-testing-tool-a-postman-online-alternative-2b50",
+    "title": "17 Must-know React Projects for Developers 👩‍💻 🔥",
+    "link": "https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2",
     "date": "10/16/2024",
     "site": "dev.to"
   },
   {
-    "title": "Improving JavaScript Code Quality with ESLint, Prettier, and VSCode Integration",
-    "link": "https://dev.to/hkp22/improving-javascript-code-quality-with-eslint-prettier-and-vscode-integration-8if",
+    "title": "Join us for the next Wix Studio Challenge: Build Your Dream Community Platform!",
+    "link": "https://dev.to/devteam/join-us-for-the-next-wix-studio-challenge-build-your-dream-community-platform-5aoc",
     "date": "10/16/2024",
     "site": "dev.to"
   },
   {
-    "title": "Understanding bubble sort algorithm: Beginner's guide with leetcode problems",
-    "link": "https://dev.to/emmanuelayinde/understanding-bubble-sort-algorithm-beginners-guide-with-leetcode-problems-4in7",
+    "title": "17 Must-know React Projects for Developers 👩‍💻 🔥",
+    "link": "https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2",
     "date": "10/16/2024",
     "site": "dev.to"
   },
   {
-    "title": "Making a captivating personal homepage, the good, the bad & the ugly (mostly ugly)",
-    "link": "https://dev.to/boianivanov/making-a-captivating-personal-homepage-the-good-the-bad-the-ugly-mostly-ugly-134",
+    "title": "Join us for the next Wix Studio Challenge: Build Your Dream Community Platform!",
+    "link": "https://dev.to/devteam/join-us-for-the-next-wix-studio-challenge-build-your-dream-community-platform-5aoc",
     "date": "10/16/2024",
     "site": "dev.to"
   },
   {
-    "title": "SAML vs. OAuth vs. OpenID Connect",
-    "link": "https://dev.to/rahulvijayvergiya/saml-vs-oauth-vs-openid-connect-29m4",
+    "title": "17 Must-know React Projects for Developers 👩‍💻 🔥",
+    "link": "https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2",
     "date": "10/16/2024",
     "site": "dev.to"
   },
   {
-    "title": "Fixing HTTP Headers Sent Errors in Node.js",
-    "link": "dev.to/ayasa_siddika_99689bebcf0/fixing-http-headers-sent-errors-in-nodejs-3cpn",
+    "title": "Join us for the next Wix Studio Challenge: Build Your Dream Community Platform!",
+    "link": "https://dev.to/devteam/join-us-for-the-next-wix-studio-challenge-build-your-dream-community-platform-5aoc",
     "date": "10/16/2024",
     "site": "dev.to"
   },
   {
-    "title": "Vue.js for Beginners 2024 #VueJs Part 6 : State Management with Vuex",
-    "link": "https://dev.to/kyydev/vuejs-for-beginners-2024-vuejs-part-6-state-management-with-vuex-536k",
+    "title": "17 Must-know React Projects for Developers 👩‍💻 🔥",
+    "link": "https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2",
     "date": "10/16/2024",
     "site": "dev.to"
   },
   {
-    "title": "A take on Go Style Error Handling in JavaScript",
-    "link": "https://dev.to/nesterow/a-take-on-go-style-error-handling-in-javascript-577",
+    "title": "Join us for the next Wix Studio Challenge: Build Your Dream Community Platform!",
+    "link": "https://dev.to/devteam/join-us-for-the-next-wix-studio-challenge-build-your-dream-community-platform-5aoc",
     "date": "10/16/2024",
     "site": "dev.to"
   },
   {
-    "title": "Understanding Scoping in JavaScript",
-    "link": "https://dev.to/laxmann/understanding-scoping-in-javascript-21mm",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Started with React and the Component Lifecycle",
-    "link": "https://dev.to/neelp03/getting-started-with-react-and-the-component-lifecycle-43oj",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoppscotch: The Best Browser-Based API Testing Tool – A Postman Online Alternative",
-    "link": "https://dev.to/hoppscotch/hoppscotch-the-best-browser-based-api-testing-tool-a-postman-online-alternative-2b50",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Improving JavaScript Code Quality with ESLint, Prettier, and VSCode Integration",
-    "link": "https://dev.to/hkp22/improving-javascript-code-quality-with-eslint-prettier-and-vscode-integration-8if",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding bubble sort algorithm: Beginner's guide with leetcode problems",
-    "link": "https://dev.to/emmanuelayinde/understanding-bubble-sort-algorithm-beginners-guide-with-leetcode-problems-4in7",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making a captivating personal homepage, the good, the bad & the ugly (mostly ugly)",
-    "link": "https://dev.to/boianivanov/making-a-captivating-personal-homepage-the-good-the-bad-the-ugly-mostly-ugly-134",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "SAML vs. OAuth vs. OpenID Connect",
-    "link": "https://dev.to/rahulvijayvergiya/saml-vs-oauth-vs-openid-connect-29m4",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing HTTP Headers Sent Errors in Node.js",
-    "link": "dev.to/ayasa_siddika_99689bebcf0/fixing-http-headers-sent-errors-in-nodejs-3cpn",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue.js for Beginners 2024 #VueJs Part 6 : State Management with Vuex",
-    "link": "https://dev.to/kyydev/vuejs-for-beginners-2024-vuejs-part-6-state-management-with-vuex-536k",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A take on Go Style Error Handling in JavaScript",
-    "link": "https://dev.to/nesterow/a-take-on-go-style-error-handling-in-javascript-577",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Scoping in JavaScript",
-    "link": "https://dev.to/laxmann/understanding-scoping-in-javascript-21mm",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Started with React and the Component Lifecycle",
-    "link": "https://dev.to/neelp03/getting-started-with-react-and-the-component-lifecycle-43oj",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoppscotch: The Best Browser-Based API Testing Tool – A Postman Online Alternative",
-    "link": "https://dev.to/hoppscotch/hoppscotch-the-best-browser-based-api-testing-tool-a-postman-online-alternative-2b50",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Improving JavaScript Code Quality with ESLint, Prettier, and VSCode Integration",
-    "link": "https://dev.to/hkp22/improving-javascript-code-quality-with-eslint-prettier-and-vscode-integration-8if",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding bubble sort algorithm: Beginner's guide with leetcode problems",
-    "link": "https://dev.to/emmanuelayinde/understanding-bubble-sort-algorithm-beginners-guide-with-leetcode-problems-4in7",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making a captivating personal homepage, the good, the bad & the ugly (mostly ugly)",
-    "link": "https://dev.to/boianivanov/making-a-captivating-personal-homepage-the-good-the-bad-the-ugly-mostly-ugly-134",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "SAML vs. OAuth vs. OpenID Connect",
-    "link": "https://dev.to/rahulvijayvergiya/saml-vs-oauth-vs-openid-connect-29m4",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing HTTP Headers Sent Errors in Node.js",
-    "link": "dev.to/ayasa_siddika_99689bebcf0/fixing-http-headers-sent-errors-in-nodejs-3cpn",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue.js for Beginners 2024 #VueJs Part 6 : State Management with Vuex",
-    "link": "https://dev.to/kyydev/vuejs-for-beginners-2024-vuejs-part-6-state-management-with-vuex-536k",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A take on Go Style Error Handling in JavaScript",
-    "link": "https://dev.to/nesterow/a-take-on-go-style-error-handling-in-javascript-577",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Scoping in JavaScript",
-    "link": "https://dev.to/laxmann/understanding-scoping-in-javascript-21mm",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Started with React and the Component Lifecycle",
-    "link": "https://dev.to/neelp03/getting-started-with-react-and-the-component-lifecycle-43oj",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoppscotch: The Best Browser-Based API Testing Tool – A Postman Online Alternative",
-    "link": "https://dev.to/hoppscotch/hoppscotch-the-best-browser-based-api-testing-tool-a-postman-online-alternative-2b50",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Improving JavaScript Code Quality with ESLint, Prettier, and VSCode Integration",
-    "link": "https://dev.to/hkp22/improving-javascript-code-quality-with-eslint-prettier-and-vscode-integration-8if",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding bubble sort algorithm: Beginner's guide with leetcode problems",
-    "link": "https://dev.to/emmanuelayinde/understanding-bubble-sort-algorithm-beginners-guide-with-leetcode-problems-4in7",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making a captivating personal homepage, the good, the bad & the ugly (mostly ugly)",
-    "link": "https://dev.to/boianivanov/making-a-captivating-personal-homepage-the-good-the-bad-the-ugly-mostly-ugly-134",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "SAML vs. OAuth vs. OpenID Connect",
-    "link": "https://dev.to/rahulvijayvergiya/saml-vs-oauth-vs-openid-connect-29m4",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing HTTP Headers Sent Errors in Node.js",
-    "link": "dev.to/ayasa_siddika_99689bebcf0/fixing-http-headers-sent-errors-in-nodejs-3cpn",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue.js for Beginners 2024 #VueJs Part 6 : State Management with Vuex",
-    "link": "https://dev.to/kyydev/vuejs-for-beginners-2024-vuejs-part-6-state-management-with-vuex-536k",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A take on Go Style Error Handling in JavaScript",
-    "link": "https://dev.to/nesterow/a-take-on-go-style-error-handling-in-javascript-577",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Scoping in JavaScript",
-    "link": "https://dev.to/laxmann/understanding-scoping-in-javascript-21mm",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Started with React and the Component Lifecycle",
-    "link": "https://dev.to/neelp03/getting-started-with-react-and-the-component-lifecycle-43oj",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hoppscotch: The Best Browser-Based API Testing Tool – A Postman Online Alternative",
-    "link": "https://dev.to/hoppscotch/hoppscotch-the-best-browser-based-api-testing-tool-a-postman-online-alternative-2b50",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Improving JavaScript Code Quality with ESLint, Prettier, and VSCode Integration",
-    "link": "https://dev.to/hkp22/improving-javascript-code-quality-with-eslint-prettier-and-vscode-integration-8if",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding bubble sort algorithm: Beginner's guide with leetcode problems",
-    "link": "https://dev.to/emmanuelayinde/understanding-bubble-sort-algorithm-beginners-guide-with-leetcode-problems-4in7",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making a captivating personal homepage, the good, the bad & the ugly (mostly ugly)",
-    "link": "https://dev.to/boianivanov/making-a-captivating-personal-homepage-the-good-the-bad-the-ugly-mostly-ugly-134",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "SAML vs. OAuth vs. OpenID Connect",
-    "link": "https://dev.to/rahulvijayvergiya/saml-vs-oauth-vs-openid-connect-29m4",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing HTTP Headers Sent Errors in Node.js",
-    "link": "dev.to/ayasa_siddika_99689bebcf0/fixing-http-headers-sent-errors-in-nodejs-3cpn",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue.js for Beginners 2024 #VueJs Part 6 : State Management with Vuex",
-    "link": "https://dev.to/kyydev/vuejs-for-beginners-2024-vuejs-part-6-state-management-with-vuex-536k",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A take on Go Style Error Handling in JavaScript",
-    "link": "https://dev.to/nesterow/a-take-on-go-style-error-handling-in-javascript-577",
-    "date": "10/16/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding Scoping in JavaScript",
-    "link": "https://dev.to/laxmann/understanding-scoping-in-javascript-21mm",
+    "title": "17 Must-know React Projects for Developers 👩‍💻 🔥",
+    "link": "https://dev.to/tolgee_i18n/17-must-know-react-projects-for-developers-28a2",
     "date": "10/16/2024",
     "site": "dev.to"
   },
@@ -306,26 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Não use Prisma ORM antes de ler isso!",
-    "link": "https://dev.to/devdoido/nao-use-prisma-orm-antes-de-ler-isso-5df8",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Is Redux Dead? Why I Kicked Redux Out of Our SaaS App",
-    "link": "https://dev.to/codexam/is-redux-dead-why-i-kicked-redux-out-of-our-saas-app-5d1g",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "create-next-app validates your app name using this package",
-    "link": "https://dev.to/thinkthroo/create-next-app-validates-your-app-name-using-this-package-3kpg",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Simple Guide to Destructuring in JavaScript: Learn with Easy Examples",
-    "link": "https://dev.to/shekhartarare/a-simple-guide-to-destructuring-in-javascript-learn-with-easy-examples-574g",
+    "title": "Updates from the 104th TC39 meeting",
+    "link": "https://dev.to/hemanth/updates-from-the-104th-tc39-meeting-14cp",
     "date": "10/15/2024",
     "site": "dev.to"
   },
@@ -336,116 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Não use Prisma ORM antes de ler isso!",
-    "link": "https://dev.to/devdoido/nao-use-prisma-orm-antes-de-ler-isso-5df8",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Is Redux Dead? Why I Kicked Redux Out of Our SaaS App",
-    "link": "https://dev.to/codexam/is-redux-dead-why-i-kicked-redux-out-of-our-saas-app-5d1g",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "create-next-app validates your app name using this package",
-    "link": "https://dev.to/thinkthroo/create-next-app-validates-your-app-name-using-this-package-3kpg",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Simple Guide to Destructuring in JavaScript: Learn with Easy Examples",
-    "link": "https://dev.to/shekhartarare/a-simple-guide-to-destructuring-in-javascript-learn-with-easy-examples-574g",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "Updates from the 104th TC39 meeting",
     "link": "https://dev.to/hemanth/updates-from-the-104th-tc39-meeting-14cp",
     "date": "10/15/2024",
     "site": "dev.to"
   },
   {
-    "title": "Não use Prisma ORM antes de ler isso!",
-    "link": "https://dev.to/devdoido/nao-use-prisma-orm-antes-de-ler-isso-5df8",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Is Redux Dead? Why I Kicked Redux Out of Our SaaS App",
-    "link": "https://dev.to/codexam/is-redux-dead-why-i-kicked-redux-out-of-our-saas-app-5d1g",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "create-next-app validates your app name using this package",
-    "link": "https://dev.to/thinkthroo/create-next-app-validates-your-app-name-using-this-package-3kpg",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Simple Guide to Destructuring in JavaScript: Learn with Easy Examples",
-    "link": "https://dev.to/shekhartarare/a-simple-guide-to-destructuring-in-javascript-learn-with-easy-examples-574g",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "Updates from the 104th TC39 meeting",
     "link": "https://dev.to/hemanth/updates-from-the-104th-tc39-meeting-14cp",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Não use Prisma ORM antes de ler isso!",
-    "link": "https://dev.to/devdoido/nao-use-prisma-orm-antes-de-ler-isso-5df8",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Is Redux Dead? Why I Kicked Redux Out of Our SaaS App",
-    "link": "https://dev.to/codexam/is-redux-dead-why-i-kicked-redux-out-of-our-saas-app-5d1g",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "create-next-app validates your app name using this package",
-    "link": "https://dev.to/thinkthroo/create-next-app-validates-your-app-name-using-this-package-3kpg",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Simple Guide to Destructuring in JavaScript: Learn with Easy Examples",
-    "link": "https://dev.to/shekhartarare/a-simple-guide-to-destructuring-in-javascript-learn-with-easy-examples-574g",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updates from the 104th TC39 meeting",
-    "link": "https://dev.to/hemanth/updates-from-the-104th-tc39-meeting-14cp",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Não use Prisma ORM antes de ler isso!",
-    "link": "https://dev.to/devdoido/nao-use-prisma-orm-antes-de-ler-isso-5df8",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Is Redux Dead? Why I Kicked Redux Out of Our SaaS App",
-    "link": "https://dev.to/codexam/is-redux-dead-why-i-kicked-redux-out-of-our-saas-app-5d1g",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "create-next-app validates your app name using this package",
-    "link": "https://dev.to/thinkthroo/create-next-app-validates-your-app-name-using-this-package-3kpg",
-    "date": "10/15/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Simple Guide to Destructuring in JavaScript: Learn with Easy Examples",
-    "link": "https://dev.to/shekhartarare/a-simple-guide-to-destructuring-in-javascript-learn-with-easy-examples-574g",
     "date": "10/15/2024",
     "site": "dev.to"
   },
@@ -480,7 +480,7 @@
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
@@ -522,14 +522,14 @@
   {
     "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
     "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "2/22/2024",
     "site": "smashingmagazine"
   },
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
@@ -599,7 +599,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -676,7 +676,7 @@
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -704,7 +704,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -795,7 +795,7 @@
   {
     "title": "The Future Of Frontend Build Tools",
     "link": "https://www.smashingmagazine.com/2022/06/future-frontend-build-tools/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "6/9/2022",
     "site": "smashingmagazine"
   }
