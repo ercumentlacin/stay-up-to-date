@@ -1,241 +1,421 @@
 [
   {
-    "title": "# Exploring the MERN Stack: A Journey into Full-Stack Development",
-    "link": "https://dev.to/raja_p_9959df9d4e51500e9e/-exploring-the-mern-stack-a-journey-into-full-stack-development-293l",
+    "title": "React Performance: Boost it with Tree Shaking",
+    "link": "https://dev.to/bragaru-i/react-performance-boost-it-with-tree-shaking-3alp",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why we built gluestack-ui v2?",
+    "link": "https://dev.to/gluestackio/why-we-built-gluestack-ui-v2-4c18",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React Compiler Performs on Real Code",
+    "link": "https://dev.to/adevnadia/how-react-compiler-performs-on-real-code-5gkf",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add Two Distances Using Structures in C++",
+    "link": "https://dev.to/vultr/add-two-distances-using-structures-in-c-9ej",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Calculate Power of a Number in C++",
+    "link": "https://dev.to/vultr/calculate-power-of-a-number-in-c-4f8b",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is React and How it works ?",
+    "link": "https://dev.to/kawsarkabir/what-is-react-and-how-it-works--gcd",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance: Boost it with Tree Shaking",
+    "link": "https://dev.to/bragaru-i/react-performance-boost-it-with-tree-shaking-3alp",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why we built gluestack-ui v2?",
+    "link": "https://dev.to/gluestackio/why-we-built-gluestack-ui-v2-4c18",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React Compiler Performs on Real Code",
+    "link": "https://dev.to/adevnadia/how-react-compiler-performs-on-real-code-5gkf",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add Two Distances Using Structures in C++",
+    "link": "https://dev.to/vultr/add-two-distances-using-structures-in-c-9ej",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Calculate Power of a Number in C++",
+    "link": "https://dev.to/vultr/calculate-power-of-a-number-in-c-4f8b",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is React and How it works ?",
+    "link": "https://dev.to/kawsarkabir/what-is-react-and-how-it-works--gcd",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance: Boost it with Tree Shaking",
+    "link": "https://dev.to/bragaru-i/react-performance-boost-it-with-tree-shaking-3alp",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why we built gluestack-ui v2?",
+    "link": "https://dev.to/gluestackio/why-we-built-gluestack-ui-v2-4c18",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React Compiler Performs on Real Code",
+    "link": "https://dev.to/adevnadia/how-react-compiler-performs-on-real-code-5gkf",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add Two Distances Using Structures in C++",
+    "link": "https://dev.to/vultr/add-two-distances-using-structures-in-c-9ej",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Calculate Power of a Number in C++",
+    "link": "https://dev.to/vultr/calculate-power-of-a-number-in-c-4f8b",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is React and How it works ?",
+    "link": "https://dev.to/kawsarkabir/what-is-react-and-how-it-works--gcd",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance: Boost it with Tree Shaking",
+    "link": "https://dev.to/bragaru-i/react-performance-boost-it-with-tree-shaking-3alp",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why we built gluestack-ui v2?",
+    "link": "https://dev.to/gluestackio/why-we-built-gluestack-ui-v2-4c18",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React Compiler Performs on Real Code",
+    "link": "https://dev.to/adevnadia/how-react-compiler-performs-on-real-code-5gkf",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add Two Distances Using Structures in C++",
+    "link": "https://dev.to/vultr/add-two-distances-using-structures-in-c-9ej",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Calculate Power of a Number in C++",
+    "link": "https://dev.to/vultr/calculate-power-of-a-number-in-c-4f8b",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is React and How it works ?",
+    "link": "https://dev.to/kawsarkabir/what-is-react-and-how-it-works--gcd",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance: Boost it with Tree Shaking",
+    "link": "https://dev.to/bragaru-i/react-performance-boost-it-with-tree-shaking-3alp",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why we built gluestack-ui v2?",
+    "link": "https://dev.to/gluestackio/why-we-built-gluestack-ui-v2-4c18",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React Compiler Performs on Real Code",
+    "link": "https://dev.to/adevnadia/how-react-compiler-performs-on-real-code-5gkf",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add Two Distances Using Structures in C++",
+    "link": "https://dev.to/vultr/add-two-distances-using-structures-in-c-9ej",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Calculate Power of a Number in C++",
+    "link": "https://dev.to/vultr/calculate-power-of-a-number-in-c-4f8b",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is React and How it works ?",
+    "link": "https://dev.to/kawsarkabir/what-is-react-and-how-it-works--gcd",
+    "date": "12/12/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Added CSV Importing In My React-Node.js Project",
+    "link": "https://dev.to/patriciosalazar/how-i-added-csv-importing-in-my-react-nodejs-project-2mij",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Recommended Settings for VS Code for react js developers",
-    "link": "https://dev.to/midhunkrishnan/recommended-settings-for-vs-code-12eo",
+    "title": "Build a note app with JavaScript component.",
+    "link": "https://dev.to/codingnninja/build-a-note-app-with-javascript-component-2b01",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "You don't need update to React 19",
-    "link": "https://dev.to/composite/you-dont-need-update-to-react-19-2opk",
+    "title": "Thinking in React: A Beginner’s Journey",
+    "link": "https://dev.to/manisha_mardi/thinking-in-react-a-beginners-journey-1pe4",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Diving Back into React: A Software Engineer’s Learning Journey",
-    "link": "https://dev.to/bitbyprogress/diving-back-into-react-a-software-engineers-learning-journey-4agp",
+    "title": "Best Vite Plugins to Supercharge Your Development Workflow",
+    "link": "https://dev.to/codeparrot/best-vite-plugins-to-supercharge-your-development-workflow-132p",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Writing high quality tests",
-    "link": "https://dev.to/danrot90/writing-high-quality-tests-32f",
+    "title": "5 easy ways to elevate your website",
+    "link": "https://dev.to/dodson/5-easy-fixes-to-your-website-31ln",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "State Management in React: Redux vs. Context API vs. Recoil",
-    "link": "https://dev.to/patoliyainfotech/state-management-in-react-redux-vs-context-api-vs-recoil-4594",
+    "title": "Designing and Implementing Ant Design Global App Tour for React Apps.",
+    "link": "https://dev.to/araldhafeeri/designing-and-implementing-ant-design-global-app-tour-for-react-apps-p0f",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "WordPress vs React: Choosing the Right Platform for Your Website",
-    "link": "https://dev.to/alfyi/wordpress-vs-react-choosing-the-right-platform-for-your-website-59f5",
+    "title": "Recommended for ALL react developers!!!",
+    "link": "https://dev.to/caleb_phillips_2d95efdf2c/recommended-for-all-react-developers-4mng",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Top 10 React JS interview questions.",
-    "link": "https://dev.to/lovelydev829/top-10-react-js-interview-questions-348d",
+    "title": "Integrating Contentful in React: A Beginner’s Guide to Content Modeling and Fetching Data with GraphQL",
+    "link": "https://dev.to/balzs_madarsz_7c1823b9f/integrating-contentful-in-react-a-beginners-guide-to-content-modeling-and-fetching-data-with-42ih",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "# Exploring the MERN Stack: A Journey into Full-Stack Development",
-    "link": "https://dev.to/raja_p_9959df9d4e51500e9e/-exploring-the-mern-stack-a-journey-into-full-stack-development-293l",
+    "title": "How I Added CSV Importing In My React-Node.js Project",
+    "link": "https://dev.to/patriciosalazar/how-i-added-csv-importing-in-my-react-nodejs-project-2mij",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Recommended Settings for VS Code for react js developers",
-    "link": "https://dev.to/midhunkrishnan/recommended-settings-for-vs-code-12eo",
+    "title": "Build a note app with JavaScript component.",
+    "link": "https://dev.to/codingnninja/build-a-note-app-with-javascript-component-2b01",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "You don't need update to React 19",
-    "link": "https://dev.to/composite/you-dont-need-update-to-react-19-2opk",
+    "title": "Thinking in React: A Beginner’s Journey",
+    "link": "https://dev.to/manisha_mardi/thinking-in-react-a-beginners-journey-1pe4",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Diving Back into React: A Software Engineer’s Learning Journey",
-    "link": "https://dev.to/bitbyprogress/diving-back-into-react-a-software-engineers-learning-journey-4agp",
+    "title": "Best Vite Plugins to Supercharge Your Development Workflow",
+    "link": "https://dev.to/codeparrot/best-vite-plugins-to-supercharge-your-development-workflow-132p",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Writing high quality tests",
-    "link": "https://dev.to/danrot90/writing-high-quality-tests-32f",
+    "title": "5 easy ways to elevate your website",
+    "link": "https://dev.to/dodson/5-easy-fixes-to-your-website-31ln",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "State Management in React: Redux vs. Context API vs. Recoil",
-    "link": "https://dev.to/patoliyainfotech/state-management-in-react-redux-vs-context-api-vs-recoil-4594",
+    "title": "Designing and Implementing Ant Design Global App Tour for React Apps.",
+    "link": "https://dev.to/araldhafeeri/designing-and-implementing-ant-design-global-app-tour-for-react-apps-p0f",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "WordPress vs React: Choosing the Right Platform for Your Website",
-    "link": "https://dev.to/alfyi/wordpress-vs-react-choosing-the-right-platform-for-your-website-59f5",
+    "title": "Recommended for ALL react developers!!!",
+    "link": "https://dev.to/caleb_phillips_2d95efdf2c/recommended-for-all-react-developers-4mng",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Top 10 React JS interview questions.",
-    "link": "https://dev.to/lovelydev829/top-10-react-js-interview-questions-348d",
+    "title": "Integrating Contentful in React: A Beginner’s Guide to Content Modeling and Fetching Data with GraphQL",
+    "link": "https://dev.to/balzs_madarsz_7c1823b9f/integrating-contentful-in-react-a-beginners-guide-to-content-modeling-and-fetching-data-with-42ih",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "# Exploring the MERN Stack: A Journey into Full-Stack Development",
-    "link": "https://dev.to/raja_p_9959df9d4e51500e9e/-exploring-the-mern-stack-a-journey-into-full-stack-development-293l",
+    "title": "How I Added CSV Importing In My React-Node.js Project",
+    "link": "https://dev.to/patriciosalazar/how-i-added-csv-importing-in-my-react-nodejs-project-2mij",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Recommended Settings for VS Code for react js developers",
-    "link": "https://dev.to/midhunkrishnan/recommended-settings-for-vs-code-12eo",
+    "title": "Build a note app with JavaScript component.",
+    "link": "https://dev.to/codingnninja/build-a-note-app-with-javascript-component-2b01",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "You don't need update to React 19",
-    "link": "https://dev.to/composite/you-dont-need-update-to-react-19-2opk",
+    "title": "Thinking in React: A Beginner’s Journey",
+    "link": "https://dev.to/manisha_mardi/thinking-in-react-a-beginners-journey-1pe4",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Diving Back into React: A Software Engineer’s Learning Journey",
-    "link": "https://dev.to/bitbyprogress/diving-back-into-react-a-software-engineers-learning-journey-4agp",
+    "title": "Best Vite Plugins to Supercharge Your Development Workflow",
+    "link": "https://dev.to/codeparrot/best-vite-plugins-to-supercharge-your-development-workflow-132p",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Writing high quality tests",
-    "link": "https://dev.to/danrot90/writing-high-quality-tests-32f",
+    "title": "5 easy ways to elevate your website",
+    "link": "https://dev.to/dodson/5-easy-fixes-to-your-website-31ln",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "State Management in React: Redux vs. Context API vs. Recoil",
-    "link": "https://dev.to/patoliyainfotech/state-management-in-react-redux-vs-context-api-vs-recoil-4594",
+    "title": "Designing and Implementing Ant Design Global App Tour for React Apps.",
+    "link": "https://dev.to/araldhafeeri/designing-and-implementing-ant-design-global-app-tour-for-react-apps-p0f",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "WordPress vs React: Choosing the Right Platform for Your Website",
-    "link": "https://dev.to/alfyi/wordpress-vs-react-choosing-the-right-platform-for-your-website-59f5",
+    "title": "Recommended for ALL react developers!!!",
+    "link": "https://dev.to/caleb_phillips_2d95efdf2c/recommended-for-all-react-developers-4mng",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Top 10 React JS interview questions.",
-    "link": "https://dev.to/lovelydev829/top-10-react-js-interview-questions-348d",
+    "title": "Integrating Contentful in React: A Beginner’s Guide to Content Modeling and Fetching Data with GraphQL",
+    "link": "https://dev.to/balzs_madarsz_7c1823b9f/integrating-contentful-in-react-a-beginners-guide-to-content-modeling-and-fetching-data-with-42ih",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "# Exploring the MERN Stack: A Journey into Full-Stack Development",
-    "link": "https://dev.to/raja_p_9959df9d4e51500e9e/-exploring-the-mern-stack-a-journey-into-full-stack-development-293l",
+    "title": "How I Added CSV Importing In My React-Node.js Project",
+    "link": "https://dev.to/patriciosalazar/how-i-added-csv-importing-in-my-react-nodejs-project-2mij",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Recommended Settings for VS Code for react js developers",
-    "link": "https://dev.to/midhunkrishnan/recommended-settings-for-vs-code-12eo",
+    "title": "Build a note app with JavaScript component.",
+    "link": "https://dev.to/codingnninja/build-a-note-app-with-javascript-component-2b01",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "You don't need update to React 19",
-    "link": "https://dev.to/composite/you-dont-need-update-to-react-19-2opk",
+    "title": "Thinking in React: A Beginner’s Journey",
+    "link": "https://dev.to/manisha_mardi/thinking-in-react-a-beginners-journey-1pe4",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Diving Back into React: A Software Engineer’s Learning Journey",
-    "link": "https://dev.to/bitbyprogress/diving-back-into-react-a-software-engineers-learning-journey-4agp",
+    "title": "Best Vite Plugins to Supercharge Your Development Workflow",
+    "link": "https://dev.to/codeparrot/best-vite-plugins-to-supercharge-your-development-workflow-132p",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Writing high quality tests",
-    "link": "https://dev.to/danrot90/writing-high-quality-tests-32f",
+    "title": "5 easy ways to elevate your website",
+    "link": "https://dev.to/dodson/5-easy-fixes-to-your-website-31ln",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "State Management in React: Redux vs. Context API vs. Recoil",
-    "link": "https://dev.to/patoliyainfotech/state-management-in-react-redux-vs-context-api-vs-recoil-4594",
+    "title": "Designing and Implementing Ant Design Global App Tour for React Apps.",
+    "link": "https://dev.to/araldhafeeri/designing-and-implementing-ant-design-global-app-tour-for-react-apps-p0f",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "WordPress vs React: Choosing the Right Platform for Your Website",
-    "link": "https://dev.to/alfyi/wordpress-vs-react-choosing-the-right-platform-for-your-website-59f5",
+    "title": "Recommended for ALL react developers!!!",
+    "link": "https://dev.to/caleb_phillips_2d95efdf2c/recommended-for-all-react-developers-4mng",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Top 10 React JS interview questions.",
-    "link": "https://dev.to/lovelydev829/top-10-react-js-interview-questions-348d",
+    "title": "Integrating Contentful in React: A Beginner’s Guide to Content Modeling and Fetching Data with GraphQL",
+    "link": "https://dev.to/balzs_madarsz_7c1823b9f/integrating-contentful-in-react-a-beginners-guide-to-content-modeling-and-fetching-data-with-42ih",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "# Exploring the MERN Stack: A Journey into Full-Stack Development",
-    "link": "https://dev.to/raja_p_9959df9d4e51500e9e/-exploring-the-mern-stack-a-journey-into-full-stack-development-293l",
+    "title": "How I Added CSV Importing In My React-Node.js Project",
+    "link": "https://dev.to/patriciosalazar/how-i-added-csv-importing-in-my-react-nodejs-project-2mij",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Recommended Settings for VS Code for react js developers",
-    "link": "https://dev.to/midhunkrishnan/recommended-settings-for-vs-code-12eo",
+    "title": "Build a note app with JavaScript component.",
+    "link": "https://dev.to/codingnninja/build-a-note-app-with-javascript-component-2b01",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "You don't need update to React 19",
-    "link": "https://dev.to/composite/you-dont-need-update-to-react-19-2opk",
+    "title": "Thinking in React: A Beginner’s Journey",
+    "link": "https://dev.to/manisha_mardi/thinking-in-react-a-beginners-journey-1pe4",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Diving Back into React: A Software Engineer’s Learning Journey",
-    "link": "https://dev.to/bitbyprogress/diving-back-into-react-a-software-engineers-learning-journey-4agp",
+    "title": "Best Vite Plugins to Supercharge Your Development Workflow",
+    "link": "https://dev.to/codeparrot/best-vite-plugins-to-supercharge-your-development-workflow-132p",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Writing high quality tests",
-    "link": "https://dev.to/danrot90/writing-high-quality-tests-32f",
+    "title": "5 easy ways to elevate your website",
+    "link": "https://dev.to/dodson/5-easy-fixes-to-your-website-31ln",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "State Management in React: Redux vs. Context API vs. Recoil",
-    "link": "https://dev.to/patoliyainfotech/state-management-in-react-redux-vs-context-api-vs-recoil-4594",
+    "title": "Designing and Implementing Ant Design Global App Tour for React Apps.",
+    "link": "https://dev.to/araldhafeeri/designing-and-implementing-ant-design-global-app-tour-for-react-apps-p0f",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "WordPress vs React: Choosing the Right Platform for Your Website",
-    "link": "https://dev.to/alfyi/wordpress-vs-react-choosing-the-right-platform-for-your-website-59f5",
+    "title": "Recommended for ALL react developers!!!",
+    "link": "https://dev.to/caleb_phillips_2d95efdf2c/recommended-for-all-react-developers-4mng",
     "date": "12/11/2024",
     "site": "dev.to"
   },
   {
-    "title": "Top 10 React JS interview questions.",
-    "link": "https://dev.to/lovelydev829/top-10-react-js-interview-questions-348d",
+    "title": "Integrating Contentful in React: A Beginner’s Guide to Content Modeling and Fetching Data with GraphQL",
+    "link": "https://dev.to/balzs_madarsz_7c1823b9f/integrating-contentful-in-react-a-beginners-guide-to-content-modeling-and-fetching-data-with-42ih",
     "date": "12/11/2024",
     "site": "dev.to"
   },
@@ -246,38 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "building Web Page from Figma design to React",
-    "link": "https://dev.to/danylo_kanonik_db6042bce7/building-web-page-from-figma-design-to-react-3pmh",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hooks Behind The Scenes 3, UseRef!!!",
-    "link": "https://dev.to/joedev090/hooks-behind-the-scenes-3-useref-5gid",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "To nest or not to nest",
-    "link": "https://dev.to/khanrabiul/to-nest-or-not-to-nest-2m4",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to develop a React Native App for TV",
-    "link": "https://dev.to/amazonappdev/how-to-develop-a-react-native-app-for-tv-4njp",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is new feature of React version19",
-    "link": "https://dev.to/04anilr/whats-new-in-react-19-40el",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "gluestack-ui v2 is here!",
-    "link": "https://dev.to/gluestackio/gluestack-ui-v2-is-here-2fel",
+    "title": "Setup a Micro-Frontend architecture in 15min with Vite!",
+    "link": "https://dev.to/mairouche/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg",
     "date": "12/10/2024",
     "site": "dev.to"
   },
@@ -288,164 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "building Web Page from Figma design to React",
-    "link": "https://dev.to/danylo_kanonik_db6042bce7/building-web-page-from-figma-design-to-react-3pmh",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hooks Behind The Scenes 3, UseRef!!!",
-    "link": "https://dev.to/joedev090/hooks-behind-the-scenes-3-useref-5gid",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "To nest or not to nest",
-    "link": "https://dev.to/khanrabiul/to-nest-or-not-to-nest-2m4",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to develop a React Native App for TV",
-    "link": "https://dev.to/amazonappdev/how-to-develop-a-react-native-app-for-tv-4njp",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is new feature of React version19",
-    "link": "https://dev.to/04anilr/whats-new-in-react-19-40el",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "gluestack-ui v2 is here!",
-    "link": "https://dev.to/gluestackio/gluestack-ui-v2-is-here-2fel",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "Setup a Micro-Frontend architecture in 15min with Vite!",
     "link": "https://dev.to/mairouche/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg",
     "date": "12/10/2024",
     "site": "dev.to"
   },
   {
-    "title": "building Web Page from Figma design to React",
-    "link": "https://dev.to/danylo_kanonik_db6042bce7/building-web-page-from-figma-design-to-react-3pmh",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hooks Behind The Scenes 3, UseRef!!!",
-    "link": "https://dev.to/joedev090/hooks-behind-the-scenes-3-useref-5gid",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "To nest or not to nest",
-    "link": "https://dev.to/khanrabiul/to-nest-or-not-to-nest-2m4",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to develop a React Native App for TV",
-    "link": "https://dev.to/amazonappdev/how-to-develop-a-react-native-app-for-tv-4njp",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is new feature of React version19",
-    "link": "https://dev.to/04anilr/whats-new-in-react-19-40el",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "gluestack-ui v2 is here!",
-    "link": "https://dev.to/gluestackio/gluestack-ui-v2-is-here-2fel",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "Setup a Micro-Frontend architecture in 15min with Vite!",
     "link": "https://dev.to/mairouche/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "building Web Page from Figma design to React",
-    "link": "https://dev.to/danylo_kanonik_db6042bce7/building-web-page-from-figma-design-to-react-3pmh",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hooks Behind The Scenes 3, UseRef!!!",
-    "link": "https://dev.to/joedev090/hooks-behind-the-scenes-3-useref-5gid",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "To nest or not to nest",
-    "link": "https://dev.to/khanrabiul/to-nest-or-not-to-nest-2m4",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to develop a React Native App for TV",
-    "link": "https://dev.to/amazonappdev/how-to-develop-a-react-native-app-for-tv-4njp",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is new feature of React version19",
-    "link": "https://dev.to/04anilr/whats-new-in-react-19-40el",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "gluestack-ui v2 is here!",
-    "link": "https://dev.to/gluestackio/gluestack-ui-v2-is-here-2fel",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Setup a Micro-Frontend architecture in 15min with Vite!",
-    "link": "https://dev.to/mairouche/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "building Web Page from Figma design to React",
-    "link": "https://dev.to/danylo_kanonik_db6042bce7/building-web-page-from-figma-design-to-react-3pmh",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hooks Behind The Scenes 3, UseRef!!!",
-    "link": "https://dev.to/joedev090/hooks-behind-the-scenes-3-useref-5gid",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "To nest or not to nest",
-    "link": "https://dev.to/khanrabiul/to-nest-or-not-to-nest-2m4",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to develop a React Native App for TV",
-    "link": "https://dev.to/amazonappdev/how-to-develop-a-react-native-app-for-tv-4njp",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is new feature of React version19",
-    "link": "https://dev.to/04anilr/whats-new-in-react-19-40el",
-    "date": "12/10/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "gluestack-ui v2 is here!",
-    "link": "https://dev.to/gluestackio/gluestack-ui-v2-is-here-2fel",
     "date": "12/10/2024",
     "site": "dev.to"
   },
@@ -704,7 +704,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   },
