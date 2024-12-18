@@ -1,91 +1,433 @@
 [
   {
+    "title": "State of JS 2024",
+    "link": "https://dev.to/nikdyankov/state-of-js-2024-3dm2",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Practical guide to Async and Await for JavaScript Developers",
+    "link": "https://dev.to/baraq/a-practical-guide-to-aysnc-and-await-for-javascript-developers-1gi8",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎥Exploring 3D Timewave Ripple",
+    "link": "https://dev.to/ayusharpcoder/exploring-3d-timewave-ripple-279i",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "You can omit `run` from `deno run` command",
+    "link": "https://dev.to/kt3k/you-can-omit-run-from-deno-run-command-33mb",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Hooks in React: Why and How to Create Them",
+    "link": "https://dev.to/imyusufakhtar/custom-hooks-in-react-why-and-how-to-create-them-g84",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Asynchronous JavaScript: Callbacks, Promises, and Async/Await",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-asynchronous-javascript-callbacks-promises-and-asyncawait-3ldk",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Classes: A Complete Guide to Modern OOP",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-classes-a-complete-guide-to-modern-oop-2gg",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Objects: The Backbone of Dynamic Programming",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-objects-the-backbone-of-dynamic-programming-374o",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Boosting Performance with Web Workers in JavaScript",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/boosting-performance-with-web-workers-in-javascript-50ni",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleashing Creativity with JavaScript Graphics: A Guide to Canvas, SVG, and WebGL",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/unleashing-creativity-with-javascript-graphics-a-guide-to-canvas-svg-and-webgl-mfl",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript JSON: Parsing, Stringifying, and Beyond",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-json-parsing-stringifying-and-beyond-gli",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering the JavaScript HTML DOM: Building Dynamic and Interactive Webpages",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-the-javascript-html-dom-building-dynamic-and-interactive-webpages-50b0",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Best Practices: Writing Efficient and Optimized Code",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/javascript-best-practices-writing-efficient-and-optimized-code-5m7",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleashing Creativity with Canvas API: A Comprehensive Guide for Dynamic Web Graphics",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/unleashing-creativity-with-canvas-api-a-comprehensive-guide-for-dynamic-web-graphics-4nih",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "State of JS 2024",
+    "link": "https://dev.to/nikdyankov/state-of-js-2024-3dm2",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Practical guide to Async and Await for JavaScript Developers",
+    "link": "https://dev.to/baraq/a-practical-guide-to-aysnc-and-await-for-javascript-developers-1gi8",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎥Exploring 3D Timewave Ripple",
+    "link": "https://dev.to/ayusharpcoder/exploring-3d-timewave-ripple-279i",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "You can omit `run` from `deno run` command",
+    "link": "https://dev.to/kt3k/you-can-omit-run-from-deno-run-command-33mb",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Hooks in React: Why and How to Create Them",
+    "link": "https://dev.to/imyusufakhtar/custom-hooks-in-react-why-and-how-to-create-them-g84",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Asynchronous JavaScript: Callbacks, Promises, and Async/Await",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-asynchronous-javascript-callbacks-promises-and-asyncawait-3ldk",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Classes: A Complete Guide to Modern OOP",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-classes-a-complete-guide-to-modern-oop-2gg",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Objects: The Backbone of Dynamic Programming",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-objects-the-backbone-of-dynamic-programming-374o",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Boosting Performance with Web Workers in JavaScript",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/boosting-performance-with-web-workers-in-javascript-50ni",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleashing Creativity with JavaScript Graphics: A Guide to Canvas, SVG, and WebGL",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/unleashing-creativity-with-javascript-graphics-a-guide-to-canvas-svg-and-webgl-mfl",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript JSON: Parsing, Stringifying, and Beyond",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-json-parsing-stringifying-and-beyond-gli",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering the JavaScript HTML DOM: Building Dynamic and Interactive Webpages",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-the-javascript-html-dom-building-dynamic-and-interactive-webpages-50b0",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Best Practices: Writing Efficient and Optimized Code",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/javascript-best-practices-writing-efficient-and-optimized-code-5m7",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleashing Creativity with Canvas API: A Comprehensive Guide for Dynamic Web Graphics",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/unleashing-creativity-with-canvas-api-a-comprehensive-guide-for-dynamic-web-graphics-4nih",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "State of JS 2024",
+    "link": "https://dev.to/nikdyankov/state-of-js-2024-3dm2",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Practical guide to Async and Await for JavaScript Developers",
+    "link": "https://dev.to/baraq/a-practical-guide-to-aysnc-and-await-for-javascript-developers-1gi8",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎥Exploring 3D Timewave Ripple",
+    "link": "https://dev.to/ayusharpcoder/exploring-3d-timewave-ripple-279i",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "You can omit `run` from `deno run` command",
+    "link": "https://dev.to/kt3k/you-can-omit-run-from-deno-run-command-33mb",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Hooks in React: Why and How to Create Them",
+    "link": "https://dev.to/imyusufakhtar/custom-hooks-in-react-why-and-how-to-create-them-g84",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Asynchronous JavaScript: Callbacks, Promises, and Async/Await",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-asynchronous-javascript-callbacks-promises-and-asyncawait-3ldk",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Classes: A Complete Guide to Modern OOP",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-classes-a-complete-guide-to-modern-oop-2gg",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Objects: The Backbone of Dynamic Programming",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-objects-the-backbone-of-dynamic-programming-374o",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Boosting Performance with Web Workers in JavaScript",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/boosting-performance-with-web-workers-in-javascript-50ni",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleashing Creativity with JavaScript Graphics: A Guide to Canvas, SVG, and WebGL",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/unleashing-creativity-with-javascript-graphics-a-guide-to-canvas-svg-and-webgl-mfl",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript JSON: Parsing, Stringifying, and Beyond",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-json-parsing-stringifying-and-beyond-gli",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering the JavaScript HTML DOM: Building Dynamic and Interactive Webpages",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-the-javascript-html-dom-building-dynamic-and-interactive-webpages-50b0",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Best Practices: Writing Efficient and Optimized Code",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/javascript-best-practices-writing-efficient-and-optimized-code-5m7",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleashing Creativity with Canvas API: A Comprehensive Guide for Dynamic Web Graphics",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/unleashing-creativity-with-canvas-api-a-comprehensive-guide-for-dynamic-web-graphics-4nih",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "State of JS 2024",
+    "link": "https://dev.to/nikdyankov/state-of-js-2024-3dm2",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Practical guide to Async and Await for JavaScript Developers",
+    "link": "https://dev.to/baraq/a-practical-guide-to-aysnc-and-await-for-javascript-developers-1gi8",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎥Exploring 3D Timewave Ripple",
+    "link": "https://dev.to/ayusharpcoder/exploring-3d-timewave-ripple-279i",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "You can omit `run` from `deno run` command",
+    "link": "https://dev.to/kt3k/you-can-omit-run-from-deno-run-command-33mb",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Hooks in React: Why and How to Create Them",
+    "link": "https://dev.to/imyusufakhtar/custom-hooks-in-react-why-and-how-to-create-them-g84",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Asynchronous JavaScript: Callbacks, Promises, and Async/Await",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-asynchronous-javascript-callbacks-promises-and-asyncawait-3ldk",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Classes: A Complete Guide to Modern OOP",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-classes-a-complete-guide-to-modern-oop-2gg",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Objects: The Backbone of Dynamic Programming",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-objects-the-backbone-of-dynamic-programming-374o",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Boosting Performance with Web Workers in JavaScript",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/boosting-performance-with-web-workers-in-javascript-50ni",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleashing Creativity with JavaScript Graphics: A Guide to Canvas, SVG, and WebGL",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/unleashing-creativity-with-javascript-graphics-a-guide-to-canvas-svg-and-webgl-mfl",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript JSON: Parsing, Stringifying, and Beyond",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-json-parsing-stringifying-and-beyond-gli",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering the JavaScript HTML DOM: Building Dynamic and Interactive Webpages",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-the-javascript-html-dom-building-dynamic-and-interactive-webpages-50b0",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Best Practices: Writing Efficient and Optimized Code",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/javascript-best-practices-writing-efficient-and-optimized-code-5m7",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleashing Creativity with Canvas API: A Comprehensive Guide for Dynamic Web Graphics",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/unleashing-creativity-with-canvas-api-a-comprehensive-guide-for-dynamic-web-graphics-4nih",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "State of JS 2024",
+    "link": "https://dev.to/nikdyankov/state-of-js-2024-3dm2",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Practical guide to Async and Await for JavaScript Developers",
+    "link": "https://dev.to/baraq/a-practical-guide-to-aysnc-and-await-for-javascript-developers-1gi8",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎥Exploring 3D Timewave Ripple",
+    "link": "https://dev.to/ayusharpcoder/exploring-3d-timewave-ripple-279i",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "You can omit `run` from `deno run` command",
+    "link": "https://dev.to/kt3k/you-can-omit-run-from-deno-run-command-33mb",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Hooks in React: Why and How to Create Them",
+    "link": "https://dev.to/imyusufakhtar/custom-hooks-in-react-why-and-how-to-create-them-g84",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Asynchronous JavaScript: Callbacks, Promises, and Async/Await",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-asynchronous-javascript-callbacks-promises-and-asyncawait-3ldk",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Classes: A Complete Guide to Modern OOP",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-classes-a-complete-guide-to-modern-oop-2gg",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript Objects: The Backbone of Dynamic Programming",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-objects-the-backbone-of-dynamic-programming-374o",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Boosting Performance with Web Workers in JavaScript",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/boosting-performance-with-web-workers-in-javascript-50ni",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleashing Creativity with JavaScript Graphics: A Guide to Canvas, SVG, and WebGL",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/unleashing-creativity-with-javascript-graphics-a-guide-to-canvas-svg-and-webgl-mfl",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering JavaScript JSON: Parsing, Stringifying, and Beyond",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-javascript-json-parsing-stringifying-and-beyond-gli",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering the JavaScript HTML DOM: Building Dynamic and Interactive Webpages",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/mastering-the-javascript-html-dom-building-dynamic-and-interactive-webpages-50b0",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Best Practices: Writing Efficient and Optimized Code",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/javascript-best-practices-writing-efficient-and-optimized-code-5m7",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unleashing Creativity with Canvas API: A Comprehensive Guide for Dynamic Web Graphics",
+    "link": "https://dev.to/abhay_yt_52a8e72b213be229/unleashing-creativity-with-canvas-api-a-comprehensive-guide-for-dynamic-web-graphics-4nih",
+    "date": "12/18/2024",
+    "site": "dev.to"
+  },
+  {
     "title": "10 Game-Changing Frontend Tools You Can't Afford to Miss in 2025🔥",
     "link": "https://dev.to/geekvergil/10-game-changing-frontend-tools-you-cant-afford-to-miss-in-2025-2jl6",
     "date": "12/17/2024",
     "site": "dev.to"
   },
   {
-    "title": "Understanding JavaScript Deobfuscation in Web Scraping",
-    "link": "https://dev.to/pragativerma18/understanding-javascript-deobfuscation-in-web-scraping-5c2f",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛑 Stop Create Hooks in React 🪝🎣",
-    "link": "https://dev.to/martygo/stop-create-hooks-in-react-511f",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Struggling Learn CSS Faster",
-    "link": "https://dev.to/dev007777/stop-struggling-learn-css-faster-50no",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Must-Know TypeScript Features to Improve Your Coding Efficiency",
-    "link": "https://dev.to/hkp22/10-must-know-typescript-features-to-improve-your-coding-efficiency-396m",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Evan You doing by creating VoidZero, and what are the issues with JS toolchains?",
-    "link": "https://dev.to/fupeng_wang/what-is-evan-you-doing-by-creating-voidzero-and-what-are-the-issues-with-js-toolchains-149p",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async/Await Demystified 💬💡",
-    "link": "https://dev.to/laxmann/asyncawait-demystified-2gbp",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Angular: Top 10 Topics for Building Scalable Web Applications",
-    "link": "https://dev.to/kafeel_ahmad/mastering-angular-top-10-topics-for-building-scalable-web-applications-54ji",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Step Into Chrome Extension Development: Easy Setup with TypeScript and Webpack",
-    "link": "https://dev.to/nadkarnigaurav/step-into-chrome-extension-development-easy-setup-with-typescript-and-webpack-1khp",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering JavaScript Decorators",
-    "link": "https://dev.to/rigalpatel001/mastering-javascript-decorators-2cga",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Master React.js by Focusing on the Vital 20% Concepts",
-    "link": "https://dev.to/nikhilesh_mauje_24/master-reactjs-by-focusing-on-the-vital-20-concepts-c3m",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction to Next.js 15: What's New and the improvements!",
-    "link": "https://dev.to/devarshishimpi/introduction-to-nextjs-15-whats-new-and-the-improvements-1eob",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "#4 Daily Rabbit Holes: Cracking the Azure B2C Puzzle",
-    "link": "https://dev.to/pul/4-daily-rabbit-holes-cracking-the-azure-b2c-puzzle-mp9",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Best Java IDEs for Developers",
-    "link": "https://dev.to/brilworks/7-best-java-ides-for-developers-4k01",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks Flow: A Deep Dive",
-    "link": "https://dev.to/saimaheshwarreddy/react-hooks-flow-a-deep-dive-1f73",
+    "title": "10 Game-Changing Frontend Tools You Can't Afford to Miss in 2025🔥",
+    "link": "https://dev.to/geekvergil/10-game-changing-frontend-tools-you-cant-afford-to-miss-in-2025-2jl6",
     "date": "12/17/2024",
     "site": "dev.to"
   },
@@ -96,356 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Understanding JavaScript Deobfuscation in Web Scraping",
-    "link": "https://dev.to/pragativerma18/understanding-javascript-deobfuscation-in-web-scraping-5c2f",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛑 Stop Create Hooks in React 🪝🎣",
-    "link": "https://dev.to/martygo/stop-create-hooks-in-react-511f",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Struggling Learn CSS Faster",
-    "link": "https://dev.to/dev007777/stop-struggling-learn-css-faster-50no",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Must-Know TypeScript Features to Improve Your Coding Efficiency",
-    "link": "https://dev.to/hkp22/10-must-know-typescript-features-to-improve-your-coding-efficiency-396m",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Evan You doing by creating VoidZero, and what are the issues with JS toolchains?",
-    "link": "https://dev.to/fupeng_wang/what-is-evan-you-doing-by-creating-voidzero-and-what-are-the-issues-with-js-toolchains-149p",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async/Await Demystified 💬💡",
-    "link": "https://dev.to/laxmann/asyncawait-demystified-2gbp",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Angular: Top 10 Topics for Building Scalable Web Applications",
-    "link": "https://dev.to/kafeel_ahmad/mastering-angular-top-10-topics-for-building-scalable-web-applications-54ji",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Step Into Chrome Extension Development: Easy Setup with TypeScript and Webpack",
-    "link": "https://dev.to/nadkarnigaurav/step-into-chrome-extension-development-easy-setup-with-typescript-and-webpack-1khp",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering JavaScript Decorators",
-    "link": "https://dev.to/rigalpatel001/mastering-javascript-decorators-2cga",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Master React.js by Focusing on the Vital 20% Concepts",
-    "link": "https://dev.to/nikhilesh_mauje_24/master-reactjs-by-focusing-on-the-vital-20-concepts-c3m",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction to Next.js 15: What's New and the improvements!",
-    "link": "https://dev.to/devarshishimpi/introduction-to-nextjs-15-whats-new-and-the-improvements-1eob",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "#4 Daily Rabbit Holes: Cracking the Azure B2C Puzzle",
-    "link": "https://dev.to/pul/4-daily-rabbit-holes-cracking-the-azure-b2c-puzzle-mp9",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Best Java IDEs for Developers",
-    "link": "https://dev.to/brilworks/7-best-java-ides-for-developers-4k01",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks Flow: A Deep Dive",
-    "link": "https://dev.to/saimaheshwarreddy/react-hooks-flow-a-deep-dive-1f73",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "10 Game-Changing Frontend Tools You Can't Afford to Miss in 2025🔥",
     "link": "https://dev.to/geekvergil/10-game-changing-frontend-tools-you-cant-afford-to-miss-in-2025-2jl6",
     "date": "12/17/2024",
     "site": "dev.to"
   },
   {
-    "title": "Understanding JavaScript Deobfuscation in Web Scraping",
-    "link": "https://dev.to/pragativerma18/understanding-javascript-deobfuscation-in-web-scraping-5c2f",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛑 Stop Create Hooks in React 🪝🎣",
-    "link": "https://dev.to/martygo/stop-create-hooks-in-react-511f",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Struggling Learn CSS Faster",
-    "link": "https://dev.to/dev007777/stop-struggling-learn-css-faster-50no",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Must-Know TypeScript Features to Improve Your Coding Efficiency",
-    "link": "https://dev.to/hkp22/10-must-know-typescript-features-to-improve-your-coding-efficiency-396m",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Evan You doing by creating VoidZero, and what are the issues with JS toolchains?",
-    "link": "https://dev.to/fupeng_wang/what-is-evan-you-doing-by-creating-voidzero-and-what-are-the-issues-with-js-toolchains-149p",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async/Await Demystified 💬💡",
-    "link": "https://dev.to/laxmann/asyncawait-demystified-2gbp",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Angular: Top 10 Topics for Building Scalable Web Applications",
-    "link": "https://dev.to/kafeel_ahmad/mastering-angular-top-10-topics-for-building-scalable-web-applications-54ji",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Step Into Chrome Extension Development: Easy Setup with TypeScript and Webpack",
-    "link": "https://dev.to/nadkarnigaurav/step-into-chrome-extension-development-easy-setup-with-typescript-and-webpack-1khp",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering JavaScript Decorators",
-    "link": "https://dev.to/rigalpatel001/mastering-javascript-decorators-2cga",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Master React.js by Focusing on the Vital 20% Concepts",
-    "link": "https://dev.to/nikhilesh_mauje_24/master-reactjs-by-focusing-on-the-vital-20-concepts-c3m",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction to Next.js 15: What's New and the improvements!",
-    "link": "https://dev.to/devarshishimpi/introduction-to-nextjs-15-whats-new-and-the-improvements-1eob",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "#4 Daily Rabbit Holes: Cracking the Azure B2C Puzzle",
-    "link": "https://dev.to/pul/4-daily-rabbit-holes-cracking-the-azure-b2c-puzzle-mp9",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Best Java IDEs for Developers",
-    "link": "https://dev.to/brilworks/7-best-java-ides-for-developers-4k01",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks Flow: A Deep Dive",
-    "link": "https://dev.to/saimaheshwarreddy/react-hooks-flow-a-deep-dive-1f73",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
     "title": "10 Game-Changing Frontend Tools You Can't Afford to Miss in 2025🔥",
     "link": "https://dev.to/geekvergil/10-game-changing-frontend-tools-you-cant-afford-to-miss-in-2025-2jl6",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding JavaScript Deobfuscation in Web Scraping",
-    "link": "https://dev.to/pragativerma18/understanding-javascript-deobfuscation-in-web-scraping-5c2f",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛑 Stop Create Hooks in React 🪝🎣",
-    "link": "https://dev.to/martygo/stop-create-hooks-in-react-511f",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Struggling Learn CSS Faster",
-    "link": "https://dev.to/dev007777/stop-struggling-learn-css-faster-50no",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Must-Know TypeScript Features to Improve Your Coding Efficiency",
-    "link": "https://dev.to/hkp22/10-must-know-typescript-features-to-improve-your-coding-efficiency-396m",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Evan You doing by creating VoidZero, and what are the issues with JS toolchains?",
-    "link": "https://dev.to/fupeng_wang/what-is-evan-you-doing-by-creating-voidzero-and-what-are-the-issues-with-js-toolchains-149p",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async/Await Demystified 💬💡",
-    "link": "https://dev.to/laxmann/asyncawait-demystified-2gbp",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Angular: Top 10 Topics for Building Scalable Web Applications",
-    "link": "https://dev.to/kafeel_ahmad/mastering-angular-top-10-topics-for-building-scalable-web-applications-54ji",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Step Into Chrome Extension Development: Easy Setup with TypeScript and Webpack",
-    "link": "https://dev.to/nadkarnigaurav/step-into-chrome-extension-development-easy-setup-with-typescript-and-webpack-1khp",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering JavaScript Decorators",
-    "link": "https://dev.to/rigalpatel001/mastering-javascript-decorators-2cga",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Master React.js by Focusing on the Vital 20% Concepts",
-    "link": "https://dev.to/nikhilesh_mauje_24/master-reactjs-by-focusing-on-the-vital-20-concepts-c3m",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction to Next.js 15: What's New and the improvements!",
-    "link": "https://dev.to/devarshishimpi/introduction-to-nextjs-15-whats-new-and-the-improvements-1eob",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "#4 Daily Rabbit Holes: Cracking the Azure B2C Puzzle",
-    "link": "https://dev.to/pul/4-daily-rabbit-holes-cracking-the-azure-b2c-puzzle-mp9",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Best Java IDEs for Developers",
-    "link": "https://dev.to/brilworks/7-best-java-ides-for-developers-4k01",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks Flow: A Deep Dive",
-    "link": "https://dev.to/saimaheshwarreddy/react-hooks-flow-a-deep-dive-1f73",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Game-Changing Frontend Tools You Can't Afford to Miss in 2025🔥",
-    "link": "https://dev.to/geekvergil/10-game-changing-frontend-tools-you-cant-afford-to-miss-in-2025-2jl6",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding JavaScript Deobfuscation in Web Scraping",
-    "link": "https://dev.to/pragativerma18/understanding-javascript-deobfuscation-in-web-scraping-5c2f",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛑 Stop Create Hooks in React 🪝🎣",
-    "link": "https://dev.to/martygo/stop-create-hooks-in-react-511f",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Struggling Learn CSS Faster",
-    "link": "https://dev.to/dev007777/stop-struggling-learn-css-faster-50no",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "10 Must-Know TypeScript Features to Improve Your Coding Efficiency",
-    "link": "https://dev.to/hkp22/10-must-know-typescript-features-to-improve-your-coding-efficiency-396m",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is Evan You doing by creating VoidZero, and what are the issues with JS toolchains?",
-    "link": "https://dev.to/fupeng_wang/what-is-evan-you-doing-by-creating-voidzero-and-what-are-the-issues-with-js-toolchains-149p",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async/Await Demystified 💬💡",
-    "link": "https://dev.to/laxmann/asyncawait-demystified-2gbp",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Angular: Top 10 Topics for Building Scalable Web Applications",
-    "link": "https://dev.to/kafeel_ahmad/mastering-angular-top-10-topics-for-building-scalable-web-applications-54ji",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Step Into Chrome Extension Development: Easy Setup with TypeScript and Webpack",
-    "link": "https://dev.to/nadkarnigaurav/step-into-chrome-extension-development-easy-setup-with-typescript-and-webpack-1khp",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering JavaScript Decorators",
-    "link": "https://dev.to/rigalpatel001/mastering-javascript-decorators-2cga",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Master React.js by Focusing on the Vital 20% Concepts",
-    "link": "https://dev.to/nikhilesh_mauje_24/master-reactjs-by-focusing-on-the-vital-20-concepts-c3m",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introduction to Next.js 15: What's New and the improvements!",
-    "link": "https://dev.to/devarshishimpi/introduction-to-nextjs-15-whats-new-and-the-improvements-1eob",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "#4 Daily Rabbit Holes: Cracking the Azure B2C Puzzle",
-    "link": "https://dev.to/pul/4-daily-rabbit-holes-cracking-the-azure-b2c-puzzle-mp9",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Best Java IDEs for Developers",
-    "link": "https://dev.to/brilworks/7-best-java-ides-for-developers-4k01",
-    "date": "12/17/2024",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks Flow: A Deep Dive",
-    "link": "https://dev.to/saimaheshwarreddy/react-hooks-flow-a-deep-dive-1f73",
     "date": "12/17/2024",
     "site": "dev.to"
   },
@@ -522,7 +522,7 @@
   {
     "title": "The End Of My Gatsby Journey",
     "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "3/6/2024",
     "site": "smashingmagazine"
   },
@@ -599,7 +599,7 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
@@ -711,7 +711,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -767,7 +767,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
