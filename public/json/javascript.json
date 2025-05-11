@@ -1,85 +1,403 @@
 [
   {
+    "title": "9 tricks that separate a pro Typescript developer from an noob 😎",
+    "link": "https://dev.to/ruppysuppy/9-tricks-that-separate-a-pro-typescript-developer-from-an-noob-jpd",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering TypeScript: Union Types & Type Aliases Explained",
+    "link": "https://dev.to/ebereplenty/mastering-typescript-union-types-type-aliases-explained-2a8f",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is an API?",
+    "link": "https://dev.to/selfish_dev/what-is-an-api-hee",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compute Pressure API for System Resource Monitoring",
+    "link": "https://dev.to/omriluz1/compute-pressure-api-for-system-resource-monitoring-58o1",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding JSON in JavaScript: A Complete Guide",
+    "link": "https://dev.to/shifa_2/understanding-json-in-javascript-a-complete-guide-2hma",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Closures in JavaScript: Why one should know about them !",
+    "link": "https://dev.to/niteshgairola/closures-in-javascript-why-one-should-know-about-them--13k2",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building High-Performance Apps with Akka.NET",
+    "link": "https://dev.to/hasanmonsur/building-high-performance-apps-with-akkanet-3nh3",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Contact Form with Resend, AWS Lambda, and React.js",
+    "link": "https://dev.to/itxsahil/build-a-contact-form-with-resend-aws-lambda-and-reactjs-2edb",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Fix RequireJS Failing to Load Scripts Correctly?",
+    "link": "https://dev.to/generatecodedev/how-to-fix-requirejs-failing-to-load-scripts-correctly-18m5",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build RESTful APIs with Django",
+    "link": "https://dev.to/media_geneous_bb80d6b5563/how-to-build-restful-apis-with-django-33kn",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Role of “Click Here” in SEO: Enhancing Website Traffic, Ranking, and Conversions",
+    "link": "https://dev.to/sameer_ansari_0c9d968cf9c/the-role-of-click-here-in-seo-enhancing-website-traffic-ranking-and-conversions-476i",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Isn't My Sidebar Toggling on Small Screens in JavaScript?",
+    "link": "https://dev.to/generatecodedev/why-isnt-my-sidebar-toggling-on-small-screens-in-javascript-5cil",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Daily JavaScript Challenge #JS-175: Arrange Array by Absolute Value",
+    "link": "https://dev.to/dpc/daily-javascript-challenge-js-175-arrange-array-by-absolute-value-27gi",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "9 tricks that separate a pro Typescript developer from an noob 😎",
+    "link": "https://dev.to/ruppysuppy/9-tricks-that-separate-a-pro-typescript-developer-from-an-noob-jpd",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering TypeScript: Union Types & Type Aliases Explained",
+    "link": "https://dev.to/ebereplenty/mastering-typescript-union-types-type-aliases-explained-2a8f",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is an API?",
+    "link": "https://dev.to/selfish_dev/what-is-an-api-hee",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compute Pressure API for System Resource Monitoring",
+    "link": "https://dev.to/omriluz1/compute-pressure-api-for-system-resource-monitoring-58o1",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding JSON in JavaScript: A Complete Guide",
+    "link": "https://dev.to/shifa_2/understanding-json-in-javascript-a-complete-guide-2hma",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Closures in JavaScript: Why one should know about them !",
+    "link": "https://dev.to/niteshgairola/closures-in-javascript-why-one-should-know-about-them--13k2",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building High-Performance Apps with Akka.NET",
+    "link": "https://dev.to/hasanmonsur/building-high-performance-apps-with-akkanet-3nh3",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Contact Form with Resend, AWS Lambda, and React.js",
+    "link": "https://dev.to/itxsahil/build-a-contact-form-with-resend-aws-lambda-and-reactjs-2edb",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Fix RequireJS Failing to Load Scripts Correctly?",
+    "link": "https://dev.to/generatecodedev/how-to-fix-requirejs-failing-to-load-scripts-correctly-18m5",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build RESTful APIs with Django",
+    "link": "https://dev.to/media_geneous_bb80d6b5563/how-to-build-restful-apis-with-django-33kn",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Role of “Click Here” in SEO: Enhancing Website Traffic, Ranking, and Conversions",
+    "link": "https://dev.to/sameer_ansari_0c9d968cf9c/the-role-of-click-here-in-seo-enhancing-website-traffic-ranking-and-conversions-476i",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Isn't My Sidebar Toggling on Small Screens in JavaScript?",
+    "link": "https://dev.to/generatecodedev/why-isnt-my-sidebar-toggling-on-small-screens-in-javascript-5cil",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Daily JavaScript Challenge #JS-175: Arrange Array by Absolute Value",
+    "link": "https://dev.to/dpc/daily-javascript-challenge-js-175-arrange-array-by-absolute-value-27gi",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "9 tricks that separate a pro Typescript developer from an noob 😎",
+    "link": "https://dev.to/ruppysuppy/9-tricks-that-separate-a-pro-typescript-developer-from-an-noob-jpd",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering TypeScript: Union Types & Type Aliases Explained",
+    "link": "https://dev.to/ebereplenty/mastering-typescript-union-types-type-aliases-explained-2a8f",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is an API?",
+    "link": "https://dev.to/selfish_dev/what-is-an-api-hee",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compute Pressure API for System Resource Monitoring",
+    "link": "https://dev.to/omriluz1/compute-pressure-api-for-system-resource-monitoring-58o1",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding JSON in JavaScript: A Complete Guide",
+    "link": "https://dev.to/shifa_2/understanding-json-in-javascript-a-complete-guide-2hma",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Closures in JavaScript: Why one should know about them !",
+    "link": "https://dev.to/niteshgairola/closures-in-javascript-why-one-should-know-about-them--13k2",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building High-Performance Apps with Akka.NET",
+    "link": "https://dev.to/hasanmonsur/building-high-performance-apps-with-akkanet-3nh3",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Contact Form with Resend, AWS Lambda, and React.js",
+    "link": "https://dev.to/itxsahil/build-a-contact-form-with-resend-aws-lambda-and-reactjs-2edb",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Fix RequireJS Failing to Load Scripts Correctly?",
+    "link": "https://dev.to/generatecodedev/how-to-fix-requirejs-failing-to-load-scripts-correctly-18m5",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build RESTful APIs with Django",
+    "link": "https://dev.to/media_geneous_bb80d6b5563/how-to-build-restful-apis-with-django-33kn",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Role of “Click Here” in SEO: Enhancing Website Traffic, Ranking, and Conversions",
+    "link": "https://dev.to/sameer_ansari_0c9d968cf9c/the-role-of-click-here-in-seo-enhancing-website-traffic-ranking-and-conversions-476i",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Isn't My Sidebar Toggling on Small Screens in JavaScript?",
+    "link": "https://dev.to/generatecodedev/why-isnt-my-sidebar-toggling-on-small-screens-in-javascript-5cil",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Daily JavaScript Challenge #JS-175: Arrange Array by Absolute Value",
+    "link": "https://dev.to/dpc/daily-javascript-challenge-js-175-arrange-array-by-absolute-value-27gi",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "9 tricks that separate a pro Typescript developer from an noob 😎",
+    "link": "https://dev.to/ruppysuppy/9-tricks-that-separate-a-pro-typescript-developer-from-an-noob-jpd",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering TypeScript: Union Types & Type Aliases Explained",
+    "link": "https://dev.to/ebereplenty/mastering-typescript-union-types-type-aliases-explained-2a8f",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is an API?",
+    "link": "https://dev.to/selfish_dev/what-is-an-api-hee",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compute Pressure API for System Resource Monitoring",
+    "link": "https://dev.to/omriluz1/compute-pressure-api-for-system-resource-monitoring-58o1",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding JSON in JavaScript: A Complete Guide",
+    "link": "https://dev.to/shifa_2/understanding-json-in-javascript-a-complete-guide-2hma",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Closures in JavaScript: Why one should know about them !",
+    "link": "https://dev.to/niteshgairola/closures-in-javascript-why-one-should-know-about-them--13k2",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building High-Performance Apps with Akka.NET",
+    "link": "https://dev.to/hasanmonsur/building-high-performance-apps-with-akkanet-3nh3",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Contact Form with Resend, AWS Lambda, and React.js",
+    "link": "https://dev.to/itxsahil/build-a-contact-form-with-resend-aws-lambda-and-reactjs-2edb",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Fix RequireJS Failing to Load Scripts Correctly?",
+    "link": "https://dev.to/generatecodedev/how-to-fix-requirejs-failing-to-load-scripts-correctly-18m5",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build RESTful APIs with Django",
+    "link": "https://dev.to/media_geneous_bb80d6b5563/how-to-build-restful-apis-with-django-33kn",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Role of “Click Here” in SEO: Enhancing Website Traffic, Ranking, and Conversions",
+    "link": "https://dev.to/sameer_ansari_0c9d968cf9c/the-role-of-click-here-in-seo-enhancing-website-traffic-ranking-and-conversions-476i",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Isn't My Sidebar Toggling on Small Screens in JavaScript?",
+    "link": "https://dev.to/generatecodedev/why-isnt-my-sidebar-toggling-on-small-screens-in-javascript-5cil",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Daily JavaScript Challenge #JS-175: Arrange Array by Absolute Value",
+    "link": "https://dev.to/dpc/daily-javascript-challenge-js-175-arrange-array-by-absolute-value-27gi",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "9 tricks that separate a pro Typescript developer from an noob 😎",
+    "link": "https://dev.to/ruppysuppy/9-tricks-that-separate-a-pro-typescript-developer-from-an-noob-jpd",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering TypeScript: Union Types & Type Aliases Explained",
+    "link": "https://dev.to/ebereplenty/mastering-typescript-union-types-type-aliases-explained-2a8f",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What is an API?",
+    "link": "https://dev.to/selfish_dev/what-is-an-api-hee",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compute Pressure API for System Resource Monitoring",
+    "link": "https://dev.to/omriluz1/compute-pressure-api-for-system-resource-monitoring-58o1",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding JSON in JavaScript: A Complete Guide",
+    "link": "https://dev.to/shifa_2/understanding-json-in-javascript-a-complete-guide-2hma",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Closures in JavaScript: Why one should know about them !",
+    "link": "https://dev.to/niteshgairola/closures-in-javascript-why-one-should-know-about-them--13k2",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building High-Performance Apps with Akka.NET",
+    "link": "https://dev.to/hasanmonsur/building-high-performance-apps-with-akkanet-3nh3",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Contact Form with Resend, AWS Lambda, and React.js",
+    "link": "https://dev.to/itxsahil/build-a-contact-form-with-resend-aws-lambda-and-reactjs-2edb",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Fix RequireJS Failing to Load Scripts Correctly?",
+    "link": "https://dev.to/generatecodedev/how-to-fix-requirejs-failing-to-load-scripts-correctly-18m5",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build RESTful APIs with Django",
+    "link": "https://dev.to/media_geneous_bb80d6b5563/how-to-build-restful-apis-with-django-33kn",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Role of “Click Here” in SEO: Enhancing Website Traffic, Ranking, and Conversions",
+    "link": "https://dev.to/sameer_ansari_0c9d968cf9c/the-role-of-click-here-in-seo-enhancing-website-traffic-ranking-and-conversions-476i",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Isn't My Sidebar Toggling on Small Screens in JavaScript?",
+    "link": "https://dev.to/generatecodedev/why-isnt-my-sidebar-toggling-on-small-screens-in-javascript-5cil",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Daily JavaScript Challenge #JS-175: Arrange Array by Absolute Value",
+    "link": "https://dev.to/dpc/daily-javascript-challenge-js-175-arrange-array-by-absolute-value-27gi",
+    "date": "5/11/2025",
+    "site": "dev.to"
+  },
+  {
     "title": "DOOM...*rendered* using a single DIV and CSS! 🤯🔫💥",
     "link": "https://dev.to/grahamthedev/doomrendered-using-a-single-div-and-css-1fal",
     "date": "5/10/2025",
     "site": "dev.to"
   },
   {
-    "title": "Trending Github's 60+ Repositories of May | Github Recap May 08, 2025",
-    "link": "https://dev.to/gittech/trending-githubs-60-repositories-of-may-github-recap-may-08-2025-2f48",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Hating Try-Catch in JavaScript. Just Use This Pattern.",
-    "link": "https://dev.to/ycmjason/stop-hating-try-catch-in-javascript-just-use-this-pattern-5b92",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trending Github's 40+ Repositories of May | Github Recap May 09, 2025",
-    "link": "https://dev.to/gittech/trending-githubs-40-repositories-of-may-github-recap-may-09-2025-g53",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Server Actions and Stateless Authentication in Next.js",
-    "link": "https://dev.to/leapcell/implementing-server-actions-and-stateless-authentication-in-nextjs-3n5p",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript SVG Maze Generator",
-    "link": "https://dev.to/owieczka/javascript-svg-maze-generator-201b",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Serial API for Low-Level Device Communication",
-    "link": "https://dev.to/omriluz1/serial-api-for-low-level-device-communication-1beh",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix 'Element Type is Invalid' Error in React",
-    "link": "https://dev.to/generatecodedev/how-to-fix-element-type-is-invalid-error-in-react-ol2",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Erro com useEffect no Next.js? Entenda quando usar \"use client\"",
-    "link": "https://dev.to/werliton/erro-com-useeffect-no-nextjs-entenda-quando-usar-use-client-5842",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a macOS batch file renamer for devs – here’s why",
-    "link": "https://dev.to/denis_gladkikh_3065480ee9/i-built-a-macos-batch-file-renamer-for-devs-heres-why-3ag5",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Build Google Word Docs from scratch | Go + Reactjs + Sockets | Full-Stack Project",
-    "link": "https://dev.to/gargkunal/build-google-word-docs-from-scratch-go-reactjs-sockets-full-stack-project-2l22",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reasons Why Developers Should Understand the Nifty PCR Ratio",
-    "link": "https://dev.to/amitfinowings/reasons-why-developers-should-understand-the-nifty-pcr-ratio-51pb",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Journey: A Beginner’s Roadmap to Web Mastery",
-    "link": "https://dev.to/tpointtech/javascript-journey-a-beginners-roadmap-to-web-mastery-4glp",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix Memory Leakage in Vue.js API Fetching?",
-    "link": "https://dev.to/generatecodedev/how-to-fix-memory-leakage-in-vuejs-api-fetching-4cf0",
+    "title": "How to Implement a Nested Search-Select Component in JavaScript",
+    "link": "https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0",
     "date": "5/10/2025",
     "site": "dev.to"
   },
@@ -90,80 +408,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Trending Github's 60+ Repositories of May | Github Recap May 08, 2025",
-    "link": "https://dev.to/gittech/trending-githubs-60-repositories-of-may-github-recap-may-08-2025-2f48",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Hating Try-Catch in JavaScript. Just Use This Pattern.",
-    "link": "https://dev.to/ycmjason/stop-hating-try-catch-in-javascript-just-use-this-pattern-5b92",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trending Github's 40+ Repositories of May | Github Recap May 09, 2025",
-    "link": "https://dev.to/gittech/trending-githubs-40-repositories-of-may-github-recap-may-09-2025-g53",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Server Actions and Stateless Authentication in Next.js",
-    "link": "https://dev.to/leapcell/implementing-server-actions-and-stateless-authentication-in-nextjs-3n5p",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript SVG Maze Generator",
-    "link": "https://dev.to/owieczka/javascript-svg-maze-generator-201b",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Serial API for Low-Level Device Communication",
-    "link": "https://dev.to/omriluz1/serial-api-for-low-level-device-communication-1beh",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix 'Element Type is Invalid' Error in React",
-    "link": "https://dev.to/generatecodedev/how-to-fix-element-type-is-invalid-error-in-react-ol2",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Erro com useEffect no Next.js? Entenda quando usar \"use client\"",
-    "link": "https://dev.to/werliton/erro-com-useeffect-no-nextjs-entenda-quando-usar-use-client-5842",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a macOS batch file renamer for devs – here’s why",
-    "link": "https://dev.to/denis_gladkikh_3065480ee9/i-built-a-macos-batch-file-renamer-for-devs-heres-why-3ag5",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Build Google Word Docs from scratch | Go + Reactjs + Sockets | Full-Stack Project",
-    "link": "https://dev.to/gargkunal/build-google-word-docs-from-scratch-go-reactjs-sockets-full-stack-project-2l22",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reasons Why Developers Should Understand the Nifty PCR Ratio",
-    "link": "https://dev.to/amitfinowings/reasons-why-developers-should-understand-the-nifty-pcr-ratio-51pb",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Journey: A Beginner’s Roadmap to Web Mastery",
-    "link": "https://dev.to/tpointtech/javascript-journey-a-beginners-roadmap-to-web-mastery-4glp",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix Memory Leakage in Vue.js API Fetching?",
-    "link": "https://dev.to/generatecodedev/how-to-fix-memory-leakage-in-vuejs-api-fetching-4cf0",
+    "title": "How to Implement a Nested Search-Select Component in JavaScript",
+    "link": "https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0",
     "date": "5/10/2025",
     "site": "dev.to"
   },
@@ -174,80 +420,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Trending Github's 60+ Repositories of May | Github Recap May 08, 2025",
-    "link": "https://dev.to/gittech/trending-githubs-60-repositories-of-may-github-recap-may-08-2025-2f48",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Hating Try-Catch in JavaScript. Just Use This Pattern.",
-    "link": "https://dev.to/ycmjason/stop-hating-try-catch-in-javascript-just-use-this-pattern-5b92",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trending Github's 40+ Repositories of May | Github Recap May 09, 2025",
-    "link": "https://dev.to/gittech/trending-githubs-40-repositories-of-may-github-recap-may-09-2025-g53",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Server Actions and Stateless Authentication in Next.js",
-    "link": "https://dev.to/leapcell/implementing-server-actions-and-stateless-authentication-in-nextjs-3n5p",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript SVG Maze Generator",
-    "link": "https://dev.to/owieczka/javascript-svg-maze-generator-201b",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Serial API for Low-Level Device Communication",
-    "link": "https://dev.to/omriluz1/serial-api-for-low-level-device-communication-1beh",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix 'Element Type is Invalid' Error in React",
-    "link": "https://dev.to/generatecodedev/how-to-fix-element-type-is-invalid-error-in-react-ol2",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Erro com useEffect no Next.js? Entenda quando usar \"use client\"",
-    "link": "https://dev.to/werliton/erro-com-useeffect-no-nextjs-entenda-quando-usar-use-client-5842",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a macOS batch file renamer for devs – here’s why",
-    "link": "https://dev.to/denis_gladkikh_3065480ee9/i-built-a-macos-batch-file-renamer-for-devs-heres-why-3ag5",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Build Google Word Docs from scratch | Go + Reactjs + Sockets | Full-Stack Project",
-    "link": "https://dev.to/gargkunal/build-google-word-docs-from-scratch-go-reactjs-sockets-full-stack-project-2l22",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reasons Why Developers Should Understand the Nifty PCR Ratio",
-    "link": "https://dev.to/amitfinowings/reasons-why-developers-should-understand-the-nifty-pcr-ratio-51pb",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Journey: A Beginner’s Roadmap to Web Mastery",
-    "link": "https://dev.to/tpointtech/javascript-journey-a-beginners-roadmap-to-web-mastery-4glp",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix Memory Leakage in Vue.js API Fetching?",
-    "link": "https://dev.to/generatecodedev/how-to-fix-memory-leakage-in-vuejs-api-fetching-4cf0",
+    "title": "How to Implement a Nested Search-Select Component in JavaScript",
+    "link": "https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0",
     "date": "5/10/2025",
     "site": "dev.to"
   },
@@ -258,80 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Trending Github's 60+ Repositories of May | Github Recap May 08, 2025",
-    "link": "https://dev.to/gittech/trending-githubs-60-repositories-of-may-github-recap-may-08-2025-2f48",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Hating Try-Catch in JavaScript. Just Use This Pattern.",
-    "link": "https://dev.to/ycmjason/stop-hating-try-catch-in-javascript-just-use-this-pattern-5b92",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trending Github's 40+ Repositories of May | Github Recap May 09, 2025",
-    "link": "https://dev.to/gittech/trending-githubs-40-repositories-of-may-github-recap-may-09-2025-g53",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Server Actions and Stateless Authentication in Next.js",
-    "link": "https://dev.to/leapcell/implementing-server-actions-and-stateless-authentication-in-nextjs-3n5p",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript SVG Maze Generator",
-    "link": "https://dev.to/owieczka/javascript-svg-maze-generator-201b",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Serial API for Low-Level Device Communication",
-    "link": "https://dev.to/omriluz1/serial-api-for-low-level-device-communication-1beh",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix 'Element Type is Invalid' Error in React",
-    "link": "https://dev.to/generatecodedev/how-to-fix-element-type-is-invalid-error-in-react-ol2",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Erro com useEffect no Next.js? Entenda quando usar \"use client\"",
-    "link": "https://dev.to/werliton/erro-com-useeffect-no-nextjs-entenda-quando-usar-use-client-5842",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a macOS batch file renamer for devs – here’s why",
-    "link": "https://dev.to/denis_gladkikh_3065480ee9/i-built-a-macos-batch-file-renamer-for-devs-heres-why-3ag5",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Build Google Word Docs from scratch | Go + Reactjs + Sockets | Full-Stack Project",
-    "link": "https://dev.to/gargkunal/build-google-word-docs-from-scratch-go-reactjs-sockets-full-stack-project-2l22",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reasons Why Developers Should Understand the Nifty PCR Ratio",
-    "link": "https://dev.to/amitfinowings/reasons-why-developers-should-understand-the-nifty-pcr-ratio-51pb",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Journey: A Beginner’s Roadmap to Web Mastery",
-    "link": "https://dev.to/tpointtech/javascript-journey-a-beginners-roadmap-to-web-mastery-4glp",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix Memory Leakage in Vue.js API Fetching?",
-    "link": "https://dev.to/generatecodedev/how-to-fix-memory-leakage-in-vuejs-api-fetching-4cf0",
+    "title": "How to Implement a Nested Search-Select Component in JavaScript",
+    "link": "https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0",
     "date": "5/10/2025",
     "site": "dev.to"
   },
@@ -342,111 +444,9 @@
     "site": "dev.to"
   },
   {
-    "title": "Trending Github's 60+ Repositories of May | Github Recap May 08, 2025",
-    "link": "https://dev.to/gittech/trending-githubs-60-repositories-of-may-github-recap-may-08-2025-2f48",
+    "title": "How to Implement a Nested Search-Select Component in JavaScript",
+    "link": "https://dev.to/generatecodedev/how-to-implement-a-nested-search-select-component-in-javascript-23m0",
     "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Hating Try-Catch in JavaScript. Just Use This Pattern.",
-    "link": "https://dev.to/ycmjason/stop-hating-try-catch-in-javascript-just-use-this-pattern-5b92",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Trending Github's 40+ Repositories of May | Github Recap May 09, 2025",
-    "link": "https://dev.to/gittech/trending-githubs-40-repositories-of-may-github-recap-may-09-2025-g53",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Server Actions and Stateless Authentication in Next.js",
-    "link": "https://dev.to/leapcell/implementing-server-actions-and-stateless-authentication-in-nextjs-3n5p",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Javascript SVG Maze Generator",
-    "link": "https://dev.to/owieczka/javascript-svg-maze-generator-201b",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Serial API for Low-Level Device Communication",
-    "link": "https://dev.to/omriluz1/serial-api-for-low-level-device-communication-1beh",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix 'Element Type is Invalid' Error in React",
-    "link": "https://dev.to/generatecodedev/how-to-fix-element-type-is-invalid-error-in-react-ol2",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Erro com useEffect no Next.js? Entenda quando usar \"use client\"",
-    "link": "https://dev.to/werliton/erro-com-useeffect-no-nextjs-entenda-quando-usar-use-client-5842",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a macOS batch file renamer for devs – here’s why",
-    "link": "https://dev.to/denis_gladkikh_3065480ee9/i-built-a-macos-batch-file-renamer-for-devs-heres-why-3ag5",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Build Google Word Docs from scratch | Go + Reactjs + Sockets | Full-Stack Project",
-    "link": "https://dev.to/gargkunal/build-google-word-docs-from-scratch-go-reactjs-sockets-full-stack-project-2l22",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reasons Why Developers Should Understand the Nifty PCR Ratio",
-    "link": "https://dev.to/amitfinowings/reasons-why-developers-should-understand-the-nifty-pcr-ratio-51pb",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Journey: A Beginner’s Roadmap to Web Mastery",
-    "link": "https://dev.to/tpointtech/javascript-journey-a-beginners-roadmap-to-web-mastery-4glp",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix Memory Leakage in Vue.js API Fetching?",
-    "link": "https://dev.to/generatecodedev/how-to-fix-memory-leakage-in-vuejs-api-fetching-4cf0",
-    "date": "5/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Dev? Sell Tiny Tech Zines Instead",
-    "link": "https://dev.to/0x8h_site/react-dev-sell-tiny-tech-zines-instead-5c6a",
-    "date": "5/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Dev? Sell Tiny Tech Zines Instead",
-    "link": "https://dev.to/0x8h_site/react-dev-sell-tiny-tech-zines-instead-5c6a",
-    "date": "5/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Dev? Sell Tiny Tech Zines Instead",
-    "link": "https://dev.to/0x8h_site/react-dev-sell-tiny-tech-zines-instead-5c6a",
-    "date": "5/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Dev? Sell Tiny Tech Zines Instead",
-    "link": "https://dev.to/0x8h_site/react-dev-sell-tiny-tech-zines-instead-5c6a",
-    "date": "5/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Dev? Sell Tiny Tech Zines Instead",
-    "link": "https://dev.to/0x8h_site/react-dev-sell-tiny-tech-zines-instead-5c6a",
-    "date": "5/9/2025",
     "site": "dev.to"
   },
   {
@@ -683,7 +683,7 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "24 min read",
+    "reading_time": "23 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
@@ -711,7 +711,7 @@
   {
     "title": "Motion Controls In The Browser",
     "link": "https://www.smashingmagazine.com/2022/10/motion-controls-browser/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "10/28/2022",
     "site": "smashingmagazine"
   },
