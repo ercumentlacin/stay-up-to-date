@@ -1,453 +1,523 @@
 [
   {
-    "title": "My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers",
-    "link": "https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci",
+    "title": "React renderToPipeableStream with Express: A Deep Dive into Server‐Side Streaming",
+    "link": "https://dev.to/ajayupreti/react-rendertopipeablestream-with-express-a-deep-dive-into-server-side-streaming-527n",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Redux Toolkit Demystified: The Complete Visual Guide That Finally Makes It Click",
+    "link": "https://dev.to/niraj_kumar_bc301db55d23a/redux-toolkit-demystified-the-complete-visual-guide-that-finally-makes-it-click-58m4",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What do you think of this?",
+    "link": "https://dev.to/harimanok/what-do-you-think-of-this-4nhi",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What do you think of this?",
+    "link": "https://dev.to/harimanok/what-do-you-think-of-this-25n9",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚛️ React 19 & Beyond: What’s New and What’s Next in 2025 🚀",
+    "link": "https://dev.to/hamzakhan/react-19-beyond-whats-new-and-whats-next-in-2025-fh6",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Quick Dive into Jotai: A Minimalist's Guide to React State Management",
+    "link": "https://dev.to/niraj_kumar_bc301db55d23a/a-quick-dive-into-jotai-a-minimalists-guide-to-react-state-management-33o1",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 React Native 0.80 Chegou!",
+    "link": "https://dev.to/pablohdev/react-native-080-chegou-2j4m",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day-41 How I Built a Simple Bulb Toggle Component in React",
+    "link": "https://dev.to/tamilselvan1812/day-41-how-i-built-a-simple-bulb-toggle-component-in-react-382k",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React renderToPipeableStream with Express: A Deep Dive into Server‐Side Streaming",
+    "link": "https://dev.to/ajayupreti/react-rendertopipeablestream-with-express-a-deep-dive-into-server-side-streaming-527n",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Redux Toolkit Demystified: The Complete Visual Guide That Finally Makes It Click",
+    "link": "https://dev.to/niraj_kumar_bc301db55d23a/redux-toolkit-demystified-the-complete-visual-guide-that-finally-makes-it-click-58m4",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What do you think of this?",
+    "link": "https://dev.to/harimanok/what-do-you-think-of-this-4nhi",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What do you think of this?",
+    "link": "https://dev.to/harimanok/what-do-you-think-of-this-25n9",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚛️ React 19 & Beyond: What’s New and What’s Next in 2025 🚀",
+    "link": "https://dev.to/hamzakhan/react-19-beyond-whats-new-and-whats-next-in-2025-fh6",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Quick Dive into Jotai: A Minimalist's Guide to React State Management",
+    "link": "https://dev.to/niraj_kumar_bc301db55d23a/a-quick-dive-into-jotai-a-minimalists-guide-to-react-state-management-33o1",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 React Native 0.80 Chegou!",
+    "link": "https://dev.to/pablohdev/react-native-080-chegou-2j4m",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day-41 How I Built a Simple Bulb Toggle Component in React",
+    "link": "https://dev.to/tamilselvan1812/day-41-how-i-built-a-simple-bulb-toggle-component-in-react-382k",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React renderToPipeableStream with Express: A Deep Dive into Server‐Side Streaming",
+    "link": "https://dev.to/ajayupreti/react-rendertopipeablestream-with-express-a-deep-dive-into-server-side-streaming-527n",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Redux Toolkit Demystified: The Complete Visual Guide That Finally Makes It Click",
+    "link": "https://dev.to/niraj_kumar_bc301db55d23a/redux-toolkit-demystified-the-complete-visual-guide-that-finally-makes-it-click-58m4",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What do you think of this?",
+    "link": "https://dev.to/harimanok/what-do-you-think-of-this-4nhi",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What do you think of this?",
+    "link": "https://dev.to/harimanok/what-do-you-think-of-this-25n9",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚛️ React 19 & Beyond: What’s New and What’s Next in 2025 🚀",
+    "link": "https://dev.to/hamzakhan/react-19-beyond-whats-new-and-whats-next-in-2025-fh6",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Quick Dive into Jotai: A Minimalist's Guide to React State Management",
+    "link": "https://dev.to/niraj_kumar_bc301db55d23a/a-quick-dive-into-jotai-a-minimalists-guide-to-react-state-management-33o1",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 React Native 0.80 Chegou!",
+    "link": "https://dev.to/pablohdev/react-native-080-chegou-2j4m",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day-41 How I Built a Simple Bulb Toggle Component in React",
+    "link": "https://dev.to/tamilselvan1812/day-41-how-i-built-a-simple-bulb-toggle-component-in-react-382k",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React renderToPipeableStream with Express: A Deep Dive into Server‐Side Streaming",
+    "link": "https://dev.to/ajayupreti/react-rendertopipeablestream-with-express-a-deep-dive-into-server-side-streaming-527n",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Redux Toolkit Demystified: The Complete Visual Guide That Finally Makes It Click",
+    "link": "https://dev.to/niraj_kumar_bc301db55d23a/redux-toolkit-demystified-the-complete-visual-guide-that-finally-makes-it-click-58m4",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What do you think of this?",
+    "link": "https://dev.to/harimanok/what-do-you-think-of-this-4nhi",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What do you think of this?",
+    "link": "https://dev.to/harimanok/what-do-you-think-of-this-25n9",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚛️ React 19 & Beyond: What’s New and What’s Next in 2025 🚀",
+    "link": "https://dev.to/hamzakhan/react-19-beyond-whats-new-and-whats-next-in-2025-fh6",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Quick Dive into Jotai: A Minimalist's Guide to React State Management",
+    "link": "https://dev.to/niraj_kumar_bc301db55d23a/a-quick-dive-into-jotai-a-minimalists-guide-to-react-state-management-33o1",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 React Native 0.80 Chegou!",
+    "link": "https://dev.to/pablohdev/react-native-080-chegou-2j4m",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day-41 How I Built a Simple Bulb Toggle Component in React",
+    "link": "https://dev.to/tamilselvan1812/day-41-how-i-built-a-simple-bulb-toggle-component-in-react-382k",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React renderToPipeableStream with Express: A Deep Dive into Server‐Side Streaming",
+    "link": "https://dev.to/ajayupreti/react-rendertopipeablestream-with-express-a-deep-dive-into-server-side-streaming-527n",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Redux Toolkit Demystified: The Complete Visual Guide That Finally Makes It Click",
+    "link": "https://dev.to/niraj_kumar_bc301db55d23a/redux-toolkit-demystified-the-complete-visual-guide-that-finally-makes-it-click-58m4",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What do you think of this?",
+    "link": "https://dev.to/harimanok/what-do-you-think-of-this-4nhi",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "What do you think of this?",
+    "link": "https://dev.to/harimanok/what-do-you-think-of-this-25n9",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚛️ React 19 & Beyond: What’s New and What’s Next in 2025 🚀",
+    "link": "https://dev.to/hamzakhan/react-19-beyond-whats-new-and-whats-next-in-2025-fh6",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Quick Dive into Jotai: A Minimalist's Guide to React State Management",
+    "link": "https://dev.to/niraj_kumar_bc301db55d23a/a-quick-dive-into-jotai-a-minimalists-guide-to-react-state-management-33o1",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 React Native 0.80 Chegou!",
+    "link": "https://dev.to/pablohdev/react-native-080-chegou-2j4m",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day-41 How I Built a Simple Bulb Toggle Component in React",
+    "link": "https://dev.to/tamilselvan1812/day-41-how-i-built-a-simple-bulb-toggle-component-in-react-382k",
+    "date": "6/23/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Notifications in React Native – Real-time Reactions",
+    "link": "https://dev.to/fatlindosmanii/notifications-in-react-native-real-time-reactions-522m",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "My First Hackathon Experience: Building a GitHub Workflow Tool at ThoughtWorks",
-    "link": "https://dev.to/sathish_226_/my-first-hackathon-experience-building-a-github-workflow-tool-at-thoughtworks-520d",
+    "title": "Going Live – What’s Next for DareMe?",
+    "link": "https://dev.to/fatlindosmanii/going-live-whats-next-for-dareme-5b47",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Introducing rustzen-admin: A Full-Stack Admin Template",
-    "link": "https://dev.to/idiabin/introducing-rustzen-admin-a-full-stack-admin-template-4gfo",
+    "title": "Introducing DareMe – Our New Challenge Game!",
+    "link": "https://dev.to/fatlindosmanii/itroducing-dareme-our-new-challenge-game-18pi",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Props and Hooks",
-    "link": "https://dev.to/vincod/react-props-and-hooks-770",
+    "title": "What This Project Taught Me About Real Development",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/what-this-project-taught-me-about-real-development-40o7",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Build an AI Trading Analyst with LunarCrush MCP + Remix + Gemini in 20 Minutes",
-    "link": "https://dev.to/dbatson/build-an-ai-trading-analyst-with-lunarcrush-mcp-remix-gemini-in-20-minutes-2p4e",
+    "title": "How I Dealt with Bugs, Failures, and Unexpected Errors",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/how-i-dealt-with-bugs-failures-and-unexpected-errors-1cb9",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Boost Your React App Performance with Lazy Loading",
-    "link": "https://dev.to/saijamii/boost-your-react-app-performance-with-lazy-loading-5046",
+    "title": "🚀 Desafio Lógico no seu Bolso! Conheça Elementar: Seu Novo Puzzle Game Favorito, Offline e Grátis! [PT-BR]",
+    "link": "https://dev.to/guscarpim/desafio-logico-no-seu-bolso-conheca-elementar-seu-novo-puzzle-game-favorito-offline-e-gratis-6gm",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers",
-    "link": "https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci",
+    "title": "A Profile with Purpose: Highlighting Each User’s Journey",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/a-profile-with-purpose-highlighting-each-users-journey-1fa8",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "My First Hackathon Experience: Building a GitHub Workflow Tool at ThoughtWorks",
-    "link": "https://dev.to/sathish_226_/my-first-hackathon-experience-building-a-github-workflow-tool-at-thoughtworks-520d",
+    "title": "Notifications in React Native – Real-time Reactions",
+    "link": "https://dev.to/fatlindosmanii/notifications-in-react-native-real-time-reactions-522m",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Introducing rustzen-admin: A Full-Stack Admin Template",
-    "link": "https://dev.to/idiabin/introducing-rustzen-admin-a-full-stack-admin-template-4gfo",
+    "title": "Going Live – What’s Next for DareMe?",
+    "link": "https://dev.to/fatlindosmanii/going-live-whats-next-for-dareme-5b47",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Props and Hooks",
-    "link": "https://dev.to/vincod/react-props-and-hooks-770",
+    "title": "Introducing DareMe – Our New Challenge Game!",
+    "link": "https://dev.to/fatlindosmanii/itroducing-dareme-our-new-challenge-game-18pi",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Build an AI Trading Analyst with LunarCrush MCP + Remix + Gemini in 20 Minutes",
-    "link": "https://dev.to/dbatson/build-an-ai-trading-analyst-with-lunarcrush-mcp-remix-gemini-in-20-minutes-2p4e",
+    "title": "What This Project Taught Me About Real Development",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/what-this-project-taught-me-about-real-development-40o7",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Boost Your React App Performance with Lazy Loading",
-    "link": "https://dev.to/saijamii/boost-your-react-app-performance-with-lazy-loading-5046",
+    "title": "How I Dealt with Bugs, Failures, and Unexpected Errors",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/how-i-dealt-with-bugs-failures-and-unexpected-errors-1cb9",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers",
-    "link": "https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci",
+    "title": "🚀 Desafio Lógico no seu Bolso! Conheça Elementar: Seu Novo Puzzle Game Favorito, Offline e Grátis! [PT-BR]",
+    "link": "https://dev.to/guscarpim/desafio-logico-no-seu-bolso-conheca-elementar-seu-novo-puzzle-game-favorito-offline-e-gratis-6gm",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "My First Hackathon Experience: Building a GitHub Workflow Tool at ThoughtWorks",
-    "link": "https://dev.to/sathish_226_/my-first-hackathon-experience-building-a-github-workflow-tool-at-thoughtworks-520d",
+    "title": "A Profile with Purpose: Highlighting Each User’s Journey",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/a-profile-with-purpose-highlighting-each-users-journey-1fa8",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Introducing rustzen-admin: A Full-Stack Admin Template",
-    "link": "https://dev.to/idiabin/introducing-rustzen-admin-a-full-stack-admin-template-4gfo",
+    "title": "Notifications in React Native – Real-time Reactions",
+    "link": "https://dev.to/fatlindosmanii/notifications-in-react-native-real-time-reactions-522m",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Props and Hooks",
-    "link": "https://dev.to/vincod/react-props-and-hooks-770",
+    "title": "Going Live – What’s Next for DareMe?",
+    "link": "https://dev.to/fatlindosmanii/going-live-whats-next-for-dareme-5b47",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Build an AI Trading Analyst with LunarCrush MCP + Remix + Gemini in 20 Minutes",
-    "link": "https://dev.to/dbatson/build-an-ai-trading-analyst-with-lunarcrush-mcp-remix-gemini-in-20-minutes-2p4e",
+    "title": "Introducing DareMe – Our New Challenge Game!",
+    "link": "https://dev.to/fatlindosmanii/itroducing-dareme-our-new-challenge-game-18pi",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Boost Your React App Performance with Lazy Loading",
-    "link": "https://dev.to/saijamii/boost-your-react-app-performance-with-lazy-loading-5046",
+    "title": "What This Project Taught Me About Real Development",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/what-this-project-taught-me-about-real-development-40o7",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers",
-    "link": "https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci",
+    "title": "How I Dealt with Bugs, Failures, and Unexpected Errors",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/how-i-dealt-with-bugs-failures-and-unexpected-errors-1cb9",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "My First Hackathon Experience: Building a GitHub Workflow Tool at ThoughtWorks",
-    "link": "https://dev.to/sathish_226_/my-first-hackathon-experience-building-a-github-workflow-tool-at-thoughtworks-520d",
+    "title": "🚀 Desafio Lógico no seu Bolso! Conheça Elementar: Seu Novo Puzzle Game Favorito, Offline e Grátis! [PT-BR]",
+    "link": "https://dev.to/guscarpim/desafio-logico-no-seu-bolso-conheca-elementar-seu-novo-puzzle-game-favorito-offline-e-gratis-6gm",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Introducing rustzen-admin: A Full-Stack Admin Template",
-    "link": "https://dev.to/idiabin/introducing-rustzen-admin-a-full-stack-admin-template-4gfo",
+    "title": "A Profile with Purpose: Highlighting Each User’s Journey",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/a-profile-with-purpose-highlighting-each-users-journey-1fa8",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Props and Hooks",
-    "link": "https://dev.to/vincod/react-props-and-hooks-770",
+    "title": "Notifications in React Native – Real-time Reactions",
+    "link": "https://dev.to/fatlindosmanii/notifications-in-react-native-real-time-reactions-522m",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Build an AI Trading Analyst with LunarCrush MCP + Remix + Gemini in 20 Minutes",
-    "link": "https://dev.to/dbatson/build-an-ai-trading-analyst-with-lunarcrush-mcp-remix-gemini-in-20-minutes-2p4e",
+    "title": "Going Live – What’s Next for DareMe?",
+    "link": "https://dev.to/fatlindosmanii/going-live-whats-next-for-dareme-5b47",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Boost Your React App Performance with Lazy Loading",
-    "link": "https://dev.to/saijamii/boost-your-react-app-performance-with-lazy-loading-5046",
+    "title": "Introducing DareMe – Our New Challenge Game!",
+    "link": "https://dev.to/fatlindosmanii/itroducing-dareme-our-new-challenge-game-18pi",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "My React App Was Slow Until I Did This: Performance Tips for MERN Stack Developers",
-    "link": "https://dev.to/prajesh_16/my-react-app-was-slow-until-i-did-this-performance-tips-for-mern-stack-developers-hci",
+    "title": "What This Project Taught Me About Real Development",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/what-this-project-taught-me-about-real-development-40o7",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "My First Hackathon Experience: Building a GitHub Workflow Tool at ThoughtWorks",
-    "link": "https://dev.to/sathish_226_/my-first-hackathon-experience-building-a-github-workflow-tool-at-thoughtworks-520d",
+    "title": "How I Dealt with Bugs, Failures, and Unexpected Errors",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/how-i-dealt-with-bugs-failures-and-unexpected-errors-1cb9",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Introducing rustzen-admin: A Full-Stack Admin Template",
-    "link": "https://dev.to/idiabin/introducing-rustzen-admin-a-full-stack-admin-template-4gfo",
+    "title": "🚀 Desafio Lógico no seu Bolso! Conheça Elementar: Seu Novo Puzzle Game Favorito, Offline e Grátis! [PT-BR]",
+    "link": "https://dev.to/guscarpim/desafio-logico-no-seu-bolso-conheca-elementar-seu-novo-puzzle-game-favorito-offline-e-gratis-6gm",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Props and Hooks",
-    "link": "https://dev.to/vincod/react-props-and-hooks-770",
+    "title": "A Profile with Purpose: Highlighting Each User’s Journey",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/a-profile-with-purpose-highlighting-each-users-journey-1fa8",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Build an AI Trading Analyst with LunarCrush MCP + Remix + Gemini in 20 Minutes",
-    "link": "https://dev.to/dbatson/build-an-ai-trading-analyst-with-lunarcrush-mcp-remix-gemini-in-20-minutes-2p4e",
+    "title": "Notifications in React Native – Real-time Reactions",
+    "link": "https://dev.to/fatlindosmanii/notifications-in-react-native-real-time-reactions-522m",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Boost Your React App Performance with Lazy Loading",
-    "link": "https://dev.to/saijamii/boost-your-react-app-performance-with-lazy-loading-5046",
+    "title": "Going Live – What’s Next for DareMe?",
+    "link": "https://dev.to/fatlindosmanii/going-live-whats-next-for-dareme-5b47",
     "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "Ön Yüz Geliştirmede Pratik İpuçları",
-    "link": "https://dev.to/yunus_emremert_1756b71d3/on-yuz-gelistirmede-pratik-ipuclari-2hca",
-    "date": "6/21/2025",
+    "title": "Introducing DareMe – Our New Challenge Game!",
+    "link": "https://dev.to/fatlindosmanii/itroducing-dareme-our-new-challenge-game-18pi",
+    "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "🔍 A Deep Dive into React-Redux",
-    "link": "https://dev.to/ml318097/a-deep-dive-into-react-redux-223e",
-    "date": "6/21/2025",
+    "title": "What This Project Taught Me About Real Development",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/what-this-project-taught-me-about-real-development-40o7",
+    "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Router Data Mode: Parte 8 – Validaciones, useFetcher y React Hook Form",
-    "link": "https://dev.to/kevinccbsg/react-router-data-mode-parte-8-validaciones-usefetcher-y-react-hook-form-4e5p",
-    "date": "6/21/2025",
+    "title": "How I Dealt with Bugs, Failures, and Unexpected Errors",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/how-i-dealt-with-bugs-failures-and-unexpected-errors-1cb9",
+    "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Hooks Explained: useState and useEffect Simplified",
-    "link": "https://dev.to/vjygour/react-hooks-explained-usestate-and-useeffect-simplified-59hp",
-    "date": "6/21/2025",
+    "title": "🚀 Desafio Lógico no seu Bolso! Conheça Elementar: Seu Novo Puzzle Game Favorito, Offline e Grátis! [PT-BR]",
+    "link": "https://dev.to/guscarpim/desafio-logico-no-seu-bolso-conheca-elementar-seu-novo-puzzle-game-favorito-offline-e-gratis-6gm",
+    "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "From React to => Angular - a developer's guide to TypeScript modularity",
-    "link": "https://dev.to/surak/from-react-to-angular-a-developers-guide-to-typescript-modularity-3kje",
-    "date": "6/21/2025",
+    "title": "A Profile with Purpose: Highlighting Each User’s Journey",
+    "link": "https://dev.to/altin_deliu_979987a45b3dd/a-profile-with-purpose-highlighting-each-users-journey-1fa8",
+    "date": "6/22/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Components: Functional vs. Class 🚀",
-    "link": "https://dev.to/typingkeys/react-components-functional-vs-class-4pif",
-    "date": "6/21/2025",
-    "site": "dev.to"
+    "title": "Adaptive Video Streaming With Dash.js In React",
+    "link": "https://www.smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+    "reading_time": "9 min read",
+    "date": "3/27/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Responsive React Cryptocurrency Tracker with Redux Toolkit & Chart.js",
-    "link": "https://dev.to/riseofcoding/responsive-react-cryptocurrency-tracker-with-redux-toolkit-chartjs-j0b",
-    "date": "6/21/2025",
-    "site": "dev.to"
+    "title": "The Forensics Of React Server Components (RSCs)",
+    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
+    "reading_time": "24 min read",
+    "date": "5/9/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Improve Table Speed in React by Using Web Workers for Filters",
-    "link": "https://dev.to/ravgeetdhillon/improve-table-speed-in-react-by-using-web-workers-for-filters-3db0",
-    "date": "6/21/2025",
-    "site": "dev.to"
+    "title": "The End Of My Gatsby Journey",
+    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
+    "reading_time": "16 min read",
+    "date": "3/6/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Virtual Scrolling, Lazy Loading & a Little Bit of Crying: Optimizing My Movie App",
-    "link": "https://dev.to/shravan250/virtual-scrolling-lazy-loading-a-little-bit-of-crying-optimizing-my-movie-app-2n56",
-    "date": "6/21/2025",
-    "site": "dev.to"
+    "title": "Making Sense Of “Senseless” JavaScript Features",
+    "link": "https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
+    "reading_time": "14 min read",
+    "date": "12/28/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Ön Yüz Geliştirmede Pratik İpuçları",
-    "link": "https://dev.to/yunus_emremert_1756b71d3/on-yuz-gelistirmede-pratik-ipuclari-2hca",
-    "date": "6/21/2025",
-    "site": "dev.to"
+    "title": "An Introduction To Full Stack Composability",
+    "link": "https://www.smashingmagazine.com/2023/11/introduction-full-stack-composability/",
+    "reading_time": "9 min read",
+    "date": "11/23/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "🔍 A Deep Dive into React-Redux",
-    "link": "https://dev.to/ml318097/a-deep-dive-into-react-redux-223e",
-    "date": "6/21/2025",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 2)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
+    "reading_time": "22 min read",
+    "date": "10/16/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "React Router Data Mode: Parte 8 – Validaciones, useFetcher y React Hook Form",
-    "link": "https://dev.to/kevinccbsg/react-router-data-mode-parte-8-validaciones-usefetcher-y-react-hook-form-4e5p",
-    "date": "6/21/2025",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 1)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
+    "reading_time": "17 min read",
+    "date": "10/9/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "React Hooks Explained: useState and useEffect Simplified",
-    "link": "https://dev.to/vjygour/react-hooks-explained-usestate-and-useeffect-simplified-59hp",
-    "date": "6/21/2025",
-    "site": "dev.to"
+    "title": "Meet Codux: The React Visual Editor That Improves Developer Experience",
+    "link": "https://www.smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
+    "reading_time": "7 min read",
+    "date": "6/15/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "From React to => Angular - a developer's guide to TypeScript modularity",
-    "link": "https://dev.to/surak/from-react-to-angular-a-developers-guide-to-typescript-modularity-3kje",
-    "date": "6/21/2025",
-    "site": "dev.to"
+    "title": "A Guide To Redux Toolkit With TypeScript",
+    "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
+    "reading_time": "16 min read",
+    "date": "5/10/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "React Components: Functional vs. Class 🚀",
-    "link": "https://dev.to/typingkeys/react-components-functional-vs-class-4pif",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Responsive React Cryptocurrency Tracker with Redux Toolkit & Chart.js",
-    "link": "https://dev.to/riseofcoding/responsive-react-cryptocurrency-tracker-with-redux-toolkit-chartjs-j0b",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Improve Table Speed in React by Using Web Workers for Filters",
-    "link": "https://dev.to/ravgeetdhillon/improve-table-speed-in-react-by-using-web-workers-for-filters-3db0",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Virtual Scrolling, Lazy Loading & a Little Bit of Crying: Optimizing My Movie App",
-    "link": "https://dev.to/shravan250/virtual-scrolling-lazy-loading-a-little-bit-of-crying-optimizing-my-movie-app-2n56",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ön Yüz Geliştirmede Pratik İpuçları",
-    "link": "https://dev.to/yunus_emremert_1756b71d3/on-yuz-gelistirmede-pratik-ipuclari-2hca",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔍 A Deep Dive into React-Redux",
-    "link": "https://dev.to/ml318097/a-deep-dive-into-react-redux-223e",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Router Data Mode: Parte 8 – Validaciones, useFetcher y React Hook Form",
-    "link": "https://dev.to/kevinccbsg/react-router-data-mode-parte-8-validaciones-usefetcher-y-react-hook-form-4e5p",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks Explained: useState and useEffect Simplified",
-    "link": "https://dev.to/vjygour/react-hooks-explained-usestate-and-useeffect-simplified-59hp",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "From React to => Angular - a developer's guide to TypeScript modularity",
-    "link": "https://dev.to/surak/from-react-to-angular-a-developers-guide-to-typescript-modularity-3kje",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Components: Functional vs. Class 🚀",
-    "link": "https://dev.to/typingkeys/react-components-functional-vs-class-4pif",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Responsive React Cryptocurrency Tracker with Redux Toolkit & Chart.js",
-    "link": "https://dev.to/riseofcoding/responsive-react-cryptocurrency-tracker-with-redux-toolkit-chartjs-j0b",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Improve Table Speed in React by Using Web Workers for Filters",
-    "link": "https://dev.to/ravgeetdhillon/improve-table-speed-in-react-by-using-web-workers-for-filters-3db0",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Virtual Scrolling, Lazy Loading & a Little Bit of Crying: Optimizing My Movie App",
-    "link": "https://dev.to/shravan250/virtual-scrolling-lazy-loading-a-little-bit-of-crying-optimizing-my-movie-app-2n56",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ön Yüz Geliştirmede Pratik İpuçları",
-    "link": "https://dev.to/yunus_emremert_1756b71d3/on-yuz-gelistirmede-pratik-ipuclari-2hca",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔍 A Deep Dive into React-Redux",
-    "link": "https://dev.to/ml318097/a-deep-dive-into-react-redux-223e",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Router Data Mode: Parte 8 – Validaciones, useFetcher y React Hook Form",
-    "link": "https://dev.to/kevinccbsg/react-router-data-mode-parte-8-validaciones-usefetcher-y-react-hook-form-4e5p",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks Explained: useState and useEffect Simplified",
-    "link": "https://dev.to/vjygour/react-hooks-explained-usestate-and-useeffect-simplified-59hp",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "From React to => Angular - a developer's guide to TypeScript modularity",
-    "link": "https://dev.to/surak/from-react-to-angular-a-developers-guide-to-typescript-modularity-3kje",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Components: Functional vs. Class 🚀",
-    "link": "https://dev.to/typingkeys/react-components-functional-vs-class-4pif",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Responsive React Cryptocurrency Tracker with Redux Toolkit & Chart.js",
-    "link": "https://dev.to/riseofcoding/responsive-react-cryptocurrency-tracker-with-redux-toolkit-chartjs-j0b",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Improve Table Speed in React by Using Web Workers for Filters",
-    "link": "https://dev.to/ravgeetdhillon/improve-table-speed-in-react-by-using-web-workers-for-filters-3db0",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Virtual Scrolling, Lazy Loading & a Little Bit of Crying: Optimizing My Movie App",
-    "link": "https://dev.to/shravan250/virtual-scrolling-lazy-loading-a-little-bit-of-crying-optimizing-my-movie-app-2n56",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ön Yüz Geliştirmede Pratik İpuçları",
-    "link": "https://dev.to/yunus_emremert_1756b71d3/on-yuz-gelistirmede-pratik-ipuclari-2hca",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔍 A Deep Dive into React-Redux",
-    "link": "https://dev.to/ml318097/a-deep-dive-into-react-redux-223e",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Router Data Mode: Parte 8 – Validaciones, useFetcher y React Hook Form",
-    "link": "https://dev.to/kevinccbsg/react-router-data-mode-parte-8-validaciones-usefetcher-y-react-hook-form-4e5p",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks Explained: useState and useEffect Simplified",
-    "link": "https://dev.to/vjygour/react-hooks-explained-usestate-and-useeffect-simplified-59hp",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "From React to => Angular - a developer's guide to TypeScript modularity",
-    "link": "https://dev.to/surak/from-react-to-angular-a-developers-guide-to-typescript-modularity-3kje",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Components: Functional vs. Class 🚀",
-    "link": "https://dev.to/typingkeys/react-components-functional-vs-class-4pif",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Responsive React Cryptocurrency Tracker with Redux Toolkit & Chart.js",
-    "link": "https://dev.to/riseofcoding/responsive-react-cryptocurrency-tracker-with-redux-toolkit-chartjs-j0b",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Improve Table Speed in React by Using Web Workers for Filters",
-    "link": "https://dev.to/ravgeetdhillon/improve-table-speed-in-react-by-using-web-workers-for-filters-3db0",
-    "date": "6/21/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Virtual Scrolling, Lazy Loading & a Little Bit of Crying: Optimizing My Movie App",
-    "link": "https://dev.to/shravan250/virtual-scrolling-lazy-loading-a-little-bit-of-crying-optimizing-my-movie-app-2n56",
-    "date": "6/21/2025",
-    "site": "dev.to"
+    "title": "The Safest Way To Hide Your API Keys When Using React",
+    "link": "https://www.smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
+    "reading_time": "9 min read",
+    "date": "5/8/2023",
+    "site": "smashingmagazine"
   },
   {
     "title": "Internationalization In Next.js 13 With React Server Components",
@@ -620,7 +690,7 @@
   {
     "title": "Compound Components In React",
     "link": "https://www.smashingmagazine.com/2021/08/compound-components-react/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "8/27/2021",
     "site": "smashingmagazine"
   },
@@ -669,7 +739,7 @@
   {
     "title": "How To Implement Authentication In Next.js With Auth0",
     "link": "https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "5/20/2021",
     "site": "smashingmagazine"
   },
@@ -711,7 +781,7 @@
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   },
