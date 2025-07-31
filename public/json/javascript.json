@@ -1,453 +1,523 @@
 [
   {
-    "title": "Vue 3 Composition API and Hooks Pattern",
-    "link": "https://dev.to/tianyaschool/vue-3-composition-api-and-hooks-pattern-51ln",
+    "title": "The Bug That Drove Me So Crazy, I Got Hired Just to Fix It",
+    "link": "https://dev.to/skeptrune/the-bug-that-drove-me-so-crazy-i-got-hired-just-to-fix-it-11m2",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debounce vs Throttle in JS: When and Why to Use Them",
+    "link": "https://dev.to/patoliyainfotech/debounce-vs-throttle-in-js-when-and-why-to-use-them-1bm9",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript",
+    "link": "https://dev.to/ehtesham19/javascript-32g3",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Charlex WebOS",
+    "link": "https://dev.to/pyshwaa/charlex-webos-13hd",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛠️ Migrating from JavaScript to TypeScript: Strategies and Gotchas",
+    "link": "https://dev.to/shantih_palani/migrating-from-javascript-to-typescript-strategies-and-gotchas-4e68",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Regular Expressions (REGEX): A Quick Refresher",
+    "link": "https://dev.to/talaamm/regular-expressions-regex-a-quick-refresher-43lh",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "LangChain.js with Node.js: Build AI-Powered Apps Fast",
+    "link": "https://dev.to/lucas_wade_0596/langchainjs-with-nodejs-build-ai-powered-apps-fast-40dj",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pick Up The Power Of Array Method (Part 1)",
+    "link": "https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "My LLM Was a Terrible Co-Pilot, So I Built It a Better Cockpit: Introducing AxleLLM",
+    "link": "https://dev.to/xzdes/my-llm-was-a-terrible-co-pilot-so-i-built-it-a-better-cockpit-introducing-axlellm-ha8",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeJS Fundamentals: AbortController",
+    "link": "https://dev.to/devopsfundamentals/nodejs-fundamentals-abortcontroller-4gc4",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚛️ From 300 lines of jQuery to 40 lines of readable JSX",
+    "link": "https://dev.to/aleksei_aleinikov/from-300-lines-of-jquery-to-40-lines-of-readable-jsx-2h4m",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚡ Next.js in 2025 — practical tips, zero fluff",
+    "link": "https://dev.to/aleksei_aleinikov/nextjs-in-2025-practical-tips-zero-fluff-2c06",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎨 Readable front‑ends don’t happen by accident",
+    "link": "https://dev.to/aleksei_aleinikov/readable-front-ends-dont-happen-by-accident-2epl",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use innerHTML, innerText, and textContent Correctly in JavaScript",
+    "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/how-to-use-innerhtml-innertext-and-textcontent-correctly-in-javascript-b4b",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Bug That Drove Me So Crazy, I Got Hired Just to Fix It",
+    "link": "https://dev.to/skeptrune/the-bug-that-drove-me-so-crazy-i-got-hired-just-to-fix-it-11m2",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debounce vs Throttle in JS: When and Why to Use Them",
+    "link": "https://dev.to/patoliyainfotech/debounce-vs-throttle-in-js-when-and-why-to-use-them-1bm9",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript",
+    "link": "https://dev.to/ehtesham19/javascript-32g3",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Charlex WebOS",
+    "link": "https://dev.to/pyshwaa/charlex-webos-13hd",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛠️ Migrating from JavaScript to TypeScript: Strategies and Gotchas",
+    "link": "https://dev.to/shantih_palani/migrating-from-javascript-to-typescript-strategies-and-gotchas-4e68",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Regular Expressions (REGEX): A Quick Refresher",
+    "link": "https://dev.to/talaamm/regular-expressions-regex-a-quick-refresher-43lh",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "LangChain.js with Node.js: Build AI-Powered Apps Fast",
+    "link": "https://dev.to/lucas_wade_0596/langchainjs-with-nodejs-build-ai-powered-apps-fast-40dj",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pick Up The Power Of Array Method (Part 1)",
+    "link": "https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "My LLM Was a Terrible Co-Pilot, So I Built It a Better Cockpit: Introducing AxleLLM",
+    "link": "https://dev.to/xzdes/my-llm-was-a-terrible-co-pilot-so-i-built-it-a-better-cockpit-introducing-axlellm-ha8",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeJS Fundamentals: AbortController",
+    "link": "https://dev.to/devopsfundamentals/nodejs-fundamentals-abortcontroller-4gc4",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚛️ From 300 lines of jQuery to 40 lines of readable JSX",
+    "link": "https://dev.to/aleksei_aleinikov/from-300-lines-of-jquery-to-40-lines-of-readable-jsx-2h4m",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚡ Next.js in 2025 — practical tips, zero fluff",
+    "link": "https://dev.to/aleksei_aleinikov/nextjs-in-2025-practical-tips-zero-fluff-2c06",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎨 Readable front‑ends don’t happen by accident",
+    "link": "https://dev.to/aleksei_aleinikov/readable-front-ends-dont-happen-by-accident-2epl",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use innerHTML, innerText, and textContent Correctly in JavaScript",
+    "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/how-to-use-innerhtml-innertext-and-textcontent-correctly-in-javascript-b4b",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Bug That Drove Me So Crazy, I Got Hired Just to Fix It",
+    "link": "https://dev.to/skeptrune/the-bug-that-drove-me-so-crazy-i-got-hired-just-to-fix-it-11m2",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debounce vs Throttle in JS: When and Why to Use Them",
+    "link": "https://dev.to/patoliyainfotech/debounce-vs-throttle-in-js-when-and-why-to-use-them-1bm9",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript",
+    "link": "https://dev.to/ehtesham19/javascript-32g3",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Charlex WebOS",
+    "link": "https://dev.to/pyshwaa/charlex-webos-13hd",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛠️ Migrating from JavaScript to TypeScript: Strategies and Gotchas",
+    "link": "https://dev.to/shantih_palani/migrating-from-javascript-to-typescript-strategies-and-gotchas-4e68",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Regular Expressions (REGEX): A Quick Refresher",
+    "link": "https://dev.to/talaamm/regular-expressions-regex-a-quick-refresher-43lh",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "LangChain.js with Node.js: Build AI-Powered Apps Fast",
+    "link": "https://dev.to/lucas_wade_0596/langchainjs-with-nodejs-build-ai-powered-apps-fast-40dj",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pick Up The Power Of Array Method (Part 1)",
+    "link": "https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "My LLM Was a Terrible Co-Pilot, So I Built It a Better Cockpit: Introducing AxleLLM",
+    "link": "https://dev.to/xzdes/my-llm-was-a-terrible-co-pilot-so-i-built-it-a-better-cockpit-introducing-axlellm-ha8",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeJS Fundamentals: AbortController",
+    "link": "https://dev.to/devopsfundamentals/nodejs-fundamentals-abortcontroller-4gc4",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚛️ From 300 lines of jQuery to 40 lines of readable JSX",
+    "link": "https://dev.to/aleksei_aleinikov/from-300-lines-of-jquery-to-40-lines-of-readable-jsx-2h4m",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚡ Next.js in 2025 — practical tips, zero fluff",
+    "link": "https://dev.to/aleksei_aleinikov/nextjs-in-2025-practical-tips-zero-fluff-2c06",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎨 Readable front‑ends don’t happen by accident",
+    "link": "https://dev.to/aleksei_aleinikov/readable-front-ends-dont-happen-by-accident-2epl",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use innerHTML, innerText, and textContent Correctly in JavaScript",
+    "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/how-to-use-innerhtml-innertext-and-textcontent-correctly-in-javascript-b4b",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Bug That Drove Me So Crazy, I Got Hired Just to Fix It",
+    "link": "https://dev.to/skeptrune/the-bug-that-drove-me-so-crazy-i-got-hired-just-to-fix-it-11m2",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debounce vs Throttle in JS: When and Why to Use Them",
+    "link": "https://dev.to/patoliyainfotech/debounce-vs-throttle-in-js-when-and-why-to-use-them-1bm9",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript",
+    "link": "https://dev.to/ehtesham19/javascript-32g3",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Charlex WebOS",
+    "link": "https://dev.to/pyshwaa/charlex-webos-13hd",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛠️ Migrating from JavaScript to TypeScript: Strategies and Gotchas",
+    "link": "https://dev.to/shantih_palani/migrating-from-javascript-to-typescript-strategies-and-gotchas-4e68",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Regular Expressions (REGEX): A Quick Refresher",
+    "link": "https://dev.to/talaamm/regular-expressions-regex-a-quick-refresher-43lh",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "LangChain.js with Node.js: Build AI-Powered Apps Fast",
+    "link": "https://dev.to/lucas_wade_0596/langchainjs-with-nodejs-build-ai-powered-apps-fast-40dj",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pick Up The Power Of Array Method (Part 1)",
+    "link": "https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "My LLM Was a Terrible Co-Pilot, So I Built It a Better Cockpit: Introducing AxleLLM",
+    "link": "https://dev.to/xzdes/my-llm-was-a-terrible-co-pilot-so-i-built-it-a-better-cockpit-introducing-axlellm-ha8",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeJS Fundamentals: AbortController",
+    "link": "https://dev.to/devopsfundamentals/nodejs-fundamentals-abortcontroller-4gc4",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚛️ From 300 lines of jQuery to 40 lines of readable JSX",
+    "link": "https://dev.to/aleksei_aleinikov/from-300-lines-of-jquery-to-40-lines-of-readable-jsx-2h4m",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚡ Next.js in 2025 — practical tips, zero fluff",
+    "link": "https://dev.to/aleksei_aleinikov/nextjs-in-2025-practical-tips-zero-fluff-2c06",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎨 Readable front‑ends don’t happen by accident",
+    "link": "https://dev.to/aleksei_aleinikov/readable-front-ends-dont-happen-by-accident-2epl",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use innerHTML, innerText, and textContent Correctly in JavaScript",
+    "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/how-to-use-innerhtml-innertext-and-textcontent-correctly-in-javascript-b4b",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Bug That Drove Me So Crazy, I Got Hired Just to Fix It",
+    "link": "https://dev.to/skeptrune/the-bug-that-drove-me-so-crazy-i-got-hired-just-to-fix-it-11m2",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debounce vs Throttle in JS: When and Why to Use Them",
+    "link": "https://dev.to/patoliyainfotech/debounce-vs-throttle-in-js-when-and-why-to-use-them-1bm9",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Javascript",
+    "link": "https://dev.to/ehtesham19/javascript-32g3",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Charlex WebOS",
+    "link": "https://dev.to/pyshwaa/charlex-webos-13hd",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛠️ Migrating from JavaScript to TypeScript: Strategies and Gotchas",
+    "link": "https://dev.to/shantih_palani/migrating-from-javascript-to-typescript-strategies-and-gotchas-4e68",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Regular Expressions (REGEX): A Quick Refresher",
+    "link": "https://dev.to/talaamm/regular-expressions-regex-a-quick-refresher-43lh",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "LangChain.js with Node.js: Build AI-Powered Apps Fast",
+    "link": "https://dev.to/lucas_wade_0596/langchainjs-with-nodejs-build-ai-powered-apps-fast-40dj",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pick Up The Power Of Array Method (Part 1)",
+    "link": "https://dev.to/crosston_jack/pick-up-the-power-of-array-method-part-1-38do",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "My LLM Was a Terrible Co-Pilot, So I Built It a Better Cockpit: Introducing AxleLLM",
+    "link": "https://dev.to/xzdes/my-llm-was-a-terrible-co-pilot-so-i-built-it-a-better-cockpit-introducing-axlellm-ha8",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeJS Fundamentals: AbortController",
+    "link": "https://dev.to/devopsfundamentals/nodejs-fundamentals-abortcontroller-4gc4",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚛️ From 300 lines of jQuery to 40 lines of readable JSX",
+    "link": "https://dev.to/aleksei_aleinikov/from-300-lines-of-jquery-to-40-lines-of-readable-jsx-2h4m",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚡ Next.js in 2025 — practical tips, zero fluff",
+    "link": "https://dev.to/aleksei_aleinikov/nextjs-in-2025-practical-tips-zero-fluff-2c06",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎨 Readable front‑ends don’t happen by accident",
+    "link": "https://dev.to/aleksei_aleinikov/readable-front-ends-dont-happen-by-accident-2epl",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Use innerHTML, innerText, and textContent Correctly in JavaScript",
+    "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/how-to-use-innerhtml-innertext-and-textcontent-correctly-in-javascript-b4b",
+    "date": "7/31/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Level Up Your GitHub Repo with Professional Documentation 🔥",
+    "link": "https://dev.to/anthonymax/level-up-your-github-repo-with-professional-documentation-1f3p",
     "date": "7/30/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building OmniShoppiee: AI + Reward‑Credit Shopping Platform",
-    "link": "https://dev.to/omniradhanexus/building-omnishoppiee-ai-reward-credit-shopping-platform-211o",
+    "title": "Level Up Your GitHub Repo with Professional Documentation 🔥",
+    "link": "https://dev.to/anthonymax/level-up-your-github-repo-with-professional-documentation-1f3p",
     "date": "7/30/2025",
     "site": "dev.to"
   },
   {
-    "title": "Rate my first Front-end project",
-    "link": "https://dev.to/atharv_remeshan/rate-my-first-front-end-project-54a2",
+    "title": "Level Up Your GitHub Repo with Professional Documentation 🔥",
+    "link": "https://dev.to/anthonymax/level-up-your-github-repo-with-professional-documentation-1f3p",
     "date": "7/30/2025",
     "site": "dev.to"
   },
   {
-    "title": "Luminomorphism is a next-generation UI design system that elevates interface elements into living",
-    "link": "https://dev.to/mihai_victor_1973/luminomorphism-is-a-next-generation-ui-design-system-that-elevates-interface-elements-into-living-982",
+    "title": "Level Up Your GitHub Repo with Professional Documentation 🔥",
+    "link": "https://dev.to/anthonymax/level-up-your-github-repo-with-professional-documentation-1f3p",
     "date": "7/30/2025",
     "site": "dev.to"
   },
   {
-    "title": "Commercial Kitchen Equipments - Bhargav Equipments",
-    "link": "https://dev.to/bhargavequipments/commercial-kitchen-equipments-bhargav-equipments-32dl",
+    "title": "Level Up Your GitHub Repo with Professional Documentation 🔥",
+    "link": "https://dev.to/anthonymax/level-up-your-github-repo-with-professional-documentation-1f3p",
     "date": "7/30/2025",
     "site": "dev.to"
   },
   {
-    "title": "Fix \"Cannot Read Property of Undefined\" with Stack Overflow API",
-    "link": "https://dev.to/talon_neely_23a3526f51ebc/fix-cannot-read-property-of-undefined-with-stack-overflow-api-4d4i",
-    "date": "7/30/2025",
-    "site": "dev.to"
+    "title": "Handling JavaScript Event Listeners With Parameters",
+    "link": "https://www.smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
+    "reading_time": "5 min read",
+    "date": "7/21/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "NodeJS Fundamentals: timers/promises",
-    "link": "https://dev.to/devopsfundamentals/nodejs-fundamentals-timerspromises-3io0",
-    "date": "7/30/2025",
-    "site": "dev.to"
+    "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
+    "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
+    "reading_time": "8 min read",
+    "date": "6/11/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Using JSON.stringfy() Method in js",
-    "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/using-jsonstringfy-method-in-js-3hi2",
-    "date": "7/30/2025",
-    "site": "dev.to"
+    "title": "Building An Offline-Friendly Image Upload System",
+    "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
+    "reading_time": "9 min read",
+    "date": "4/23/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "How JSON.stringify() Works in JavaScript",
-    "link": "https://dev.to/svn1199/how-jsonstringify-works-in-javascript-34dj",
-    "date": "7/30/2025",
-    "site": "dev.to"
+    "title": "Creating An Effective Multistep Form For Better User Experience",
+    "link": "https://www.smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
+    "reading_time": "13 min read",
+    "date": "12/3/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Shri Suman Mondal is currently serving as the State Secretary of the Hindustan Scouts & Guides, West Bengal State Unit.",
-    "link": "https://dev.to/hindustan_scoutsguides/shri-suman-mondal-is-currently-serving-as-the-state-secretary-of-the-hindustan-scouts-guides-1emh",
-    "date": "7/30/2025",
-    "site": "dev.to"
+    "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
+    "link": "https://www.smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+    "reading_time": "10 min read",
+    "date": "10/7/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "What is JSON.stringify()? A Beginner’s Guide with Examples",
-    "link": "https://dev.to/megha_m/what-is-jsonstringify-a-beginners-guide-with-examples-4hpn",
-    "date": "7/30/2025",
-    "site": "dev.to"
+    "title": "Generating Unique Random Numbers In JavaScript Using Sets",
+    "link": "https://www.smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
+    "reading_time": "6 min read",
+    "date": "8/26/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Building AI That Disappears: The Developer Philosophy Behind 4iservice",
-    "link": "https://dev.to/4iservice-com/building-ai-that-disappears-the-developer-philosophy-behind-4iservice-22p",
-    "date": "7/30/2025",
-    "site": "dev.to"
+    "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
+    "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
+    "reading_time": "15 min read",
+    "date": "8/20/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Vue 3 Composition API and Hooks Pattern",
-    "link": "https://dev.to/tianyaschool/vue-3-composition-api-and-hooks-pattern-51ln",
-    "date": "7/30/2025",
-    "site": "dev.to"
+    "title": "How To Build A Multilingual Website With Nuxt.js",
+    "link": "https://www.smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/",
+    "reading_time": "15 min read",
+    "date": "8/1/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Building OmniShoppiee: AI + Reward‑Credit Shopping Platform",
-    "link": "https://dev.to/omniradhanexus/building-omnishoppiee-ai-reward-credit-shopping-platform-211o",
-    "date": "7/30/2025",
-    "site": "dev.to"
+    "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
+    "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
+    "reading_time": "11 min read",
+    "date": "6/20/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Rate my first Front-end project",
-    "link": "https://dev.to/atharv_remeshan/rate-my-first-front-end-project-54a2",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Luminomorphism is a next-generation UI design system that elevates interface elements into living",
-    "link": "https://dev.to/mihai_victor_1973/luminomorphism-is-a-next-generation-ui-design-system-that-elevates-interface-elements-into-living-982",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Commercial Kitchen Equipments - Bhargav Equipments",
-    "link": "https://dev.to/bhargavequipments/commercial-kitchen-equipments-bhargav-equipments-32dl",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fix \"Cannot Read Property of Undefined\" with Stack Overflow API",
-    "link": "https://dev.to/talon_neely_23a3526f51ebc/fix-cannot-read-property-of-undefined-with-stack-overflow-api-4d4i",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "NodeJS Fundamentals: timers/promises",
-    "link": "https://dev.to/devopsfundamentals/nodejs-fundamentals-timerspromises-3io0",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using JSON.stringfy() Method in js",
-    "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/using-jsonstringfy-method-in-js-3hi2",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How JSON.stringify() Works in JavaScript",
-    "link": "https://dev.to/svn1199/how-jsonstringify-works-in-javascript-34dj",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shri Suman Mondal is currently serving as the State Secretary of the Hindustan Scouts & Guides, West Bengal State Unit.",
-    "link": "https://dev.to/hindustan_scoutsguides/shri-suman-mondal-is-currently-serving-as-the-state-secretary-of-the-hindustan-scouts-guides-1emh",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is JSON.stringify()? A Beginner’s Guide with Examples",
-    "link": "https://dev.to/megha_m/what-is-jsonstringify-a-beginners-guide-with-examples-4hpn",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building AI That Disappears: The Developer Philosophy Behind 4iservice",
-    "link": "https://dev.to/4iservice-com/building-ai-that-disappears-the-developer-philosophy-behind-4iservice-22p",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 Composition API and Hooks Pattern",
-    "link": "https://dev.to/tianyaschool/vue-3-composition-api-and-hooks-pattern-51ln",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building OmniShoppiee: AI + Reward‑Credit Shopping Platform",
-    "link": "https://dev.to/omniradhanexus/building-omnishoppiee-ai-reward-credit-shopping-platform-211o",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rate my first Front-end project",
-    "link": "https://dev.to/atharv_remeshan/rate-my-first-front-end-project-54a2",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Luminomorphism is a next-generation UI design system that elevates interface elements into living",
-    "link": "https://dev.to/mihai_victor_1973/luminomorphism-is-a-next-generation-ui-design-system-that-elevates-interface-elements-into-living-982",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Commercial Kitchen Equipments - Bhargav Equipments",
-    "link": "https://dev.to/bhargavequipments/commercial-kitchen-equipments-bhargav-equipments-32dl",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fix \"Cannot Read Property of Undefined\" with Stack Overflow API",
-    "link": "https://dev.to/talon_neely_23a3526f51ebc/fix-cannot-read-property-of-undefined-with-stack-overflow-api-4d4i",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "NodeJS Fundamentals: timers/promises",
-    "link": "https://dev.to/devopsfundamentals/nodejs-fundamentals-timerspromises-3io0",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using JSON.stringfy() Method in js",
-    "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/using-jsonstringfy-method-in-js-3hi2",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How JSON.stringify() Works in JavaScript",
-    "link": "https://dev.to/svn1199/how-jsonstringify-works-in-javascript-34dj",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shri Suman Mondal is currently serving as the State Secretary of the Hindustan Scouts & Guides, West Bengal State Unit.",
-    "link": "https://dev.to/hindustan_scoutsguides/shri-suman-mondal-is-currently-serving-as-the-state-secretary-of-the-hindustan-scouts-guides-1emh",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is JSON.stringify()? A Beginner’s Guide with Examples",
-    "link": "https://dev.to/megha_m/what-is-jsonstringify-a-beginners-guide-with-examples-4hpn",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building AI That Disappears: The Developer Philosophy Behind 4iservice",
-    "link": "https://dev.to/4iservice-com/building-ai-that-disappears-the-developer-philosophy-behind-4iservice-22p",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 Composition API and Hooks Pattern",
-    "link": "https://dev.to/tianyaschool/vue-3-composition-api-and-hooks-pattern-51ln",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building OmniShoppiee: AI + Reward‑Credit Shopping Platform",
-    "link": "https://dev.to/omniradhanexus/building-omnishoppiee-ai-reward-credit-shopping-platform-211o",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rate my first Front-end project",
-    "link": "https://dev.to/atharv_remeshan/rate-my-first-front-end-project-54a2",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Luminomorphism is a next-generation UI design system that elevates interface elements into living",
-    "link": "https://dev.to/mihai_victor_1973/luminomorphism-is-a-next-generation-ui-design-system-that-elevates-interface-elements-into-living-982",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Commercial Kitchen Equipments - Bhargav Equipments",
-    "link": "https://dev.to/bhargavequipments/commercial-kitchen-equipments-bhargav-equipments-32dl",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fix \"Cannot Read Property of Undefined\" with Stack Overflow API",
-    "link": "https://dev.to/talon_neely_23a3526f51ebc/fix-cannot-read-property-of-undefined-with-stack-overflow-api-4d4i",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "NodeJS Fundamentals: timers/promises",
-    "link": "https://dev.to/devopsfundamentals/nodejs-fundamentals-timerspromises-3io0",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using JSON.stringfy() Method in js",
-    "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/using-jsonstringfy-method-in-js-3hi2",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How JSON.stringify() Works in JavaScript",
-    "link": "https://dev.to/svn1199/how-jsonstringify-works-in-javascript-34dj",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shri Suman Mondal is currently serving as the State Secretary of the Hindustan Scouts & Guides, West Bengal State Unit.",
-    "link": "https://dev.to/hindustan_scoutsguides/shri-suman-mondal-is-currently-serving-as-the-state-secretary-of-the-hindustan-scouts-guides-1emh",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is JSON.stringify()? A Beginner’s Guide with Examples",
-    "link": "https://dev.to/megha_m/what-is-jsonstringify-a-beginners-guide-with-examples-4hpn",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building AI That Disappears: The Developer Philosophy Behind 4iservice",
-    "link": "https://dev.to/4iservice-com/building-ai-that-disappears-the-developer-philosophy-behind-4iservice-22p",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 Composition API and Hooks Pattern",
-    "link": "https://dev.to/tianyaschool/vue-3-composition-api-and-hooks-pattern-51ln",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building OmniShoppiee: AI + Reward‑Credit Shopping Platform",
-    "link": "https://dev.to/omniradhanexus/building-omnishoppiee-ai-reward-credit-shopping-platform-211o",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rate my first Front-end project",
-    "link": "https://dev.to/atharv_remeshan/rate-my-first-front-end-project-54a2",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Luminomorphism is a next-generation UI design system that elevates interface elements into living",
-    "link": "https://dev.to/mihai_victor_1973/luminomorphism-is-a-next-generation-ui-design-system-that-elevates-interface-elements-into-living-982",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Commercial Kitchen Equipments - Bhargav Equipments",
-    "link": "https://dev.to/bhargavequipments/commercial-kitchen-equipments-bhargav-equipments-32dl",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fix \"Cannot Read Property of Undefined\" with Stack Overflow API",
-    "link": "https://dev.to/talon_neely_23a3526f51ebc/fix-cannot-read-property-of-undefined-with-stack-overflow-api-4d4i",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "NodeJS Fundamentals: timers/promises",
-    "link": "https://dev.to/devopsfundamentals/nodejs-fundamentals-timerspromises-3io0",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Using JSON.stringfy() Method in js",
-    "link": "https://dev.to/s_mathavi_2fa1e3ea8514f34/using-jsonstringfy-method-in-js-3hi2",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How JSON.stringify() Works in JavaScript",
-    "link": "https://dev.to/svn1199/how-jsonstringify-works-in-javascript-34dj",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shri Suman Mondal is currently serving as the State Secretary of the Hindustan Scouts & Guides, West Bengal State Unit.",
-    "link": "https://dev.to/hindustan_scoutsguides/shri-suman-mondal-is-currently-serving-as-the-state-secretary-of-the-hindustan-scouts-guides-1emh",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is JSON.stringify()? A Beginner’s Guide with Examples",
-    "link": "https://dev.to/megha_m/what-is-jsonstringify-a-beginners-guide-with-examples-4hpn",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building AI That Disappears: The Developer Philosophy Behind 4iservice",
-    "link": "https://dev.to/4iservice-com/building-ai-that-disappears-the-developer-philosophy-behind-4iservice-22p",
-    "date": "7/30/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Claude Code Pricing: Is the $200/mo Plan Worth It? (New Rate Limits Explained)",
-    "link": "https://dev.to/shayy/claude-code-pricing-is-the-200mo-plan-worth-it-new-rate-limits-explained-lk1",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Was So Angry, I Built My Own Workshop Platform",
-    "link": "https://dev.to/sebs/i-was-so-angry-i-built-my-own-workshop-platform-439c",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built Tanbol: a clean way to share code snippets with preview and copy support",
-    "link": "https://dev.to/tk23/i-built-tanbol-a-clean-way-to-share-code-snippets-with-preview-and-copy-support-4mn3",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Claude Code Pricing: Is the $200/mo Plan Worth It? (New Rate Limits Explained)",
-    "link": "https://dev.to/shayy/claude-code-pricing-is-the-200mo-plan-worth-it-new-rate-limits-explained-lk1",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Was So Angry, I Built My Own Workshop Platform",
-    "link": "https://dev.to/sebs/i-was-so-angry-i-built-my-own-workshop-platform-439c",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built Tanbol: a clean way to share code snippets with preview and copy support",
-    "link": "https://dev.to/tk23/i-built-tanbol-a-clean-way-to-share-code-snippets-with-preview-and-copy-support-4mn3",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Claude Code Pricing: Is the $200/mo Plan Worth It? (New Rate Limits Explained)",
-    "link": "https://dev.to/shayy/claude-code-pricing-is-the-200mo-plan-worth-it-new-rate-limits-explained-lk1",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Was So Angry, I Built My Own Workshop Platform",
-    "link": "https://dev.to/sebs/i-was-so-angry-i-built-my-own-workshop-platform-439c",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built Tanbol: a clean way to share code snippets with preview and copy support",
-    "link": "https://dev.to/tk23/i-built-tanbol-a-clean-way-to-share-code-snippets-with-preview-and-copy-support-4mn3",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Claude Code Pricing: Is the $200/mo Plan Worth It? (New Rate Limits Explained)",
-    "link": "https://dev.to/shayy/claude-code-pricing-is-the-200mo-plan-worth-it-new-rate-limits-explained-lk1",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Was So Angry, I Built My Own Workshop Platform",
-    "link": "https://dev.to/sebs/i-was-so-angry-i-built-my-own-workshop-platform-439c",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built Tanbol: a clean way to share code snippets with preview and copy support",
-    "link": "https://dev.to/tk23/i-built-tanbol-a-clean-way-to-share-code-snippets-with-preview-and-copy-support-4mn3",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Claude Code Pricing: Is the $200/mo Plan Worth It? (New Rate Limits Explained)",
-    "link": "https://dev.to/shayy/claude-code-pricing-is-the-200mo-plan-worth-it-new-rate-limits-explained-lk1",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Was So Angry, I Built My Own Workshop Platform",
-    "link": "https://dev.to/sebs/i-was-so-angry-i-built-my-own-workshop-platform-439c",
-    "date": "7/29/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built Tanbol: a clean way to share code snippets with preview and copy support",
-    "link": "https://dev.to/tk23/i-built-tanbol-a-clean-way-to-share-code-snippets-with-preview-and-copy-support-4mn3",
-    "date": "7/29/2025",
-    "site": "dev.to"
+    "title": "The Era Of Platform Primitives Is Finally Here",
+    "link": "https://www.smashingmagazine.com/2024/05/netlify-platform-primitives/",
+    "reading_time": "8 min read",
+    "date": "5/28/2024",
+    "site": "smashingmagazine"
   },
   {
     "title": "The Forensics Of React Server Components (RSCs)",
@@ -480,7 +550,7 @@
   {
     "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
     "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "2/22/2024",
     "site": "smashingmagazine"
   },
@@ -550,7 +620,7 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
@@ -627,14 +697,14 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "24 min read",
+    "reading_time": "23 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -718,7 +788,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
