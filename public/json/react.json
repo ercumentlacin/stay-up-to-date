@@ -1,453 +1,523 @@
 [
   {
-    "title": "How Turborepo Builds Its Graph?",
-    "link": "https://dev.to/ippatev/how-turborepo-builds-its-graph-157i",
+    "title": "Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection",
+    "link": "https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance Trick: Updating Large Lists with Generators",
+    "link": "https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Announcing polyfront-scaffold: Scaffold React & Angular Apps in Minutes",
+    "link": "https://dev.to/nirmalsamaranayaka/announcing-polyfront-scaffold-scaffold-react-angular-apps-in-minutes-3h04",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Your React Journey Starts Here – Join My 2-Day Online Webinar!",
+    "link": "https://dev.to/myogeshchavan97/your-react-journey-starts-here-join-my-2-day-online-webinar-34e3",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Solution for “ChakraProvider's _config error” in React 19 + Chakra UI",
+    "link": "https://dev.to/kazutora_hattori_66972c88/solution-for-chakraproviders-config-error-in-react-19-chakra-ui-1go2",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Inherit .env in a Vite + Supabase Project",
+    "link": "https://dev.to/kazutora_hattori_66972c88/how-to-inherit-env-in-a-vite-supabase-project-1jg5",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React에서 드래그 앤 드롭 구현하기",
+    "link": "https://dev.to/_415106f79fc340972925f/reacteseo-deuraegeu-aen-deurob-guhyeonhagi-545m",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "AWS Roadmap: Beginner to Advanced",
+    "link": "https://dev.to/kyl67899/aws-roadmap-beginner-to-advanced-33l8",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection",
+    "link": "https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance Trick: Updating Large Lists with Generators",
+    "link": "https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Announcing polyfront-scaffold: Scaffold React & Angular Apps in Minutes",
+    "link": "https://dev.to/nirmalsamaranayaka/announcing-polyfront-scaffold-scaffold-react-angular-apps-in-minutes-3h04",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Your React Journey Starts Here – Join My 2-Day Online Webinar!",
+    "link": "https://dev.to/myogeshchavan97/your-react-journey-starts-here-join-my-2-day-online-webinar-34e3",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Solution for “ChakraProvider's _config error” in React 19 + Chakra UI",
+    "link": "https://dev.to/kazutora_hattori_66972c88/solution-for-chakraproviders-config-error-in-react-19-chakra-ui-1go2",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Inherit .env in a Vite + Supabase Project",
+    "link": "https://dev.to/kazutora_hattori_66972c88/how-to-inherit-env-in-a-vite-supabase-project-1jg5",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React에서 드래그 앤 드롭 구현하기",
+    "link": "https://dev.to/_415106f79fc340972925f/reacteseo-deuraegeu-aen-deurob-guhyeonhagi-545m",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "AWS Roadmap: Beginner to Advanced",
+    "link": "https://dev.to/kyl67899/aws-roadmap-beginner-to-advanced-33l8",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection",
+    "link": "https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance Trick: Updating Large Lists with Generators",
+    "link": "https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Announcing polyfront-scaffold: Scaffold React & Angular Apps in Minutes",
+    "link": "https://dev.to/nirmalsamaranayaka/announcing-polyfront-scaffold-scaffold-react-angular-apps-in-minutes-3h04",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Your React Journey Starts Here – Join My 2-Day Online Webinar!",
+    "link": "https://dev.to/myogeshchavan97/your-react-journey-starts-here-join-my-2-day-online-webinar-34e3",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Solution for “ChakraProvider's _config error” in React 19 + Chakra UI",
+    "link": "https://dev.to/kazutora_hattori_66972c88/solution-for-chakraproviders-config-error-in-react-19-chakra-ui-1go2",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Inherit .env in a Vite + Supabase Project",
+    "link": "https://dev.to/kazutora_hattori_66972c88/how-to-inherit-env-in-a-vite-supabase-project-1jg5",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React에서 드래그 앤 드롭 구현하기",
+    "link": "https://dev.to/_415106f79fc340972925f/reacteseo-deuraegeu-aen-deurob-guhyeonhagi-545m",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "AWS Roadmap: Beginner to Advanced",
+    "link": "https://dev.to/kyl67899/aws-roadmap-beginner-to-advanced-33l8",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection",
+    "link": "https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance Trick: Updating Large Lists with Generators",
+    "link": "https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Announcing polyfront-scaffold: Scaffold React & Angular Apps in Minutes",
+    "link": "https://dev.to/nirmalsamaranayaka/announcing-polyfront-scaffold-scaffold-react-angular-apps-in-minutes-3h04",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Your React Journey Starts Here – Join My 2-Day Online Webinar!",
+    "link": "https://dev.to/myogeshchavan97/your-react-journey-starts-here-join-my-2-day-online-webinar-34e3",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Solution for “ChakraProvider's _config error” in React 19 + Chakra UI",
+    "link": "https://dev.to/kazutora_hattori_66972c88/solution-for-chakraproviders-config-error-in-react-19-chakra-ui-1go2",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Inherit .env in a Vite + Supabase Project",
+    "link": "https://dev.to/kazutora_hattori_66972c88/how-to-inherit-env-in-a-vite-supabase-project-1jg5",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React에서 드래그 앤 드롭 구현하기",
+    "link": "https://dev.to/_415106f79fc340972925f/reacteseo-deuraegeu-aen-deurob-guhyeonhagi-545m",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "AWS Roadmap: Beginner to Advanced",
+    "link": "https://dev.to/kyl67899/aws-roadmap-beginner-to-advanced-33l8",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Juris.js: Deep Call Stack Branch Aware Automatic Dependency Detection",
+    "link": "https://dev.to/professional_joe/jurisjs-deep-call-stack-branch-aware-automatic-dependency-detection-42j9",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance Trick: Updating Large Lists with Generators",
+    "link": "https://dev.to/ihesami/react-performance-trick-updating-large-lists-with-generators-1m06",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Announcing polyfront-scaffold: Scaffold React & Angular Apps in Minutes",
+    "link": "https://dev.to/nirmalsamaranayaka/announcing-polyfront-scaffold-scaffold-react-angular-apps-in-minutes-3h04",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Your React Journey Starts Here – Join My 2-Day Online Webinar!",
+    "link": "https://dev.to/myogeshchavan97/your-react-journey-starts-here-join-my-2-day-online-webinar-34e3",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Solution for “ChakraProvider's _config error” in React 19 + Chakra UI",
+    "link": "https://dev.to/kazutora_hattori_66972c88/solution-for-chakraproviders-config-error-in-react-19-chakra-ui-1go2",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Inherit .env in a Vite + Supabase Project",
+    "link": "https://dev.to/kazutora_hattori_66972c88/how-to-inherit-env-in-a-vite-supabase-project-1jg5",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React에서 드래그 앤 드롭 구현하기",
+    "link": "https://dev.to/_415106f79fc340972925f/reacteseo-deuraegeu-aen-deurob-guhyeonhagi-545m",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "AWS Roadmap: Beginner to Advanced",
+    "link": "https://dev.to/kyl67899/aws-roadmap-beginner-to-advanced-33l8",
+    "date": "9/4/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Recap, years later, thanks to Astro",
+    "link": "https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Use Lazy Routing with React Suspense to Optimize Performance",
-    "link": "https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh",
+    "title": "Part 2: Deploying Your FastAPI and React.js CRUD App on Render.com",
+    "link": "https://dev.to/gilly7/part-2-deploying-your-fastapi-and-reactjs-crud-app-on-rendercom-3l50",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Deploy a React SPA using AWS S3 and CloudFront",
-    "link": "https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp",
+    "title": "I have created a whatsapp and facebook like social gaming platform",
+    "link": "https://dev.to/john4650hub/i-have-created-a-whatsapp-and-facebook-like-social-gaming-platform-11ml",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "react-bootstrap Modal never displays",
-    "link": "https://dev.to/ppowell777/react-bootstrap-modal-never-displays-3l5h",
+    "title": "Building a Dynamic Pricing Page Inspired by Resend: A Deep Dive",
+    "link": "https://dev.to/alaaio/building-a-dynamic-pricing-page-inspired-by-resend-a-deep-dive-12d3",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "How Turborepo Builds Its Graph?",
-    "link": "https://dev.to/ippatev/how-turborepo-builds-its-graph-157i",
+    "title": "React Context APIs, State sharing and Zustand",
+    "link": "https://dev.to/rajusarkar/react-context-apis-state-sharing-and-zustand-13e6",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Use Lazy Routing with React Suspense to Optimize Performance",
-    "link": "https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh",
+    "title": "How I Build an NPM Package that lets you Scaffold React Apps",
+    "link": "https://dev.to/mrcssdev/how-i-build-an-npm-package-that-lets-you-scaffold-react-apps-5a5h",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Deploy a React SPA using AWS S3 and CloudFront",
-    "link": "https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp",
+    "title": "🔥 Your React App is Secretly Slowing Down – Here’s How to Fix It With Just One Hook!",
+    "link": "https://dev.to/ekwoster/your-react-app-is-secretly-slowing-down-heres-how-to-fix-it-with-just-one-hook-54bm",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "react-bootstrap Modal never displays",
-    "link": "https://dev.to/ppowell777/react-bootstrap-modal-never-displays-3l5h",
+    "title": "React Recap, years later, thanks to Astro",
+    "link": "https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "How Turborepo Builds Its Graph?",
-    "link": "https://dev.to/ippatev/how-turborepo-builds-its-graph-157i",
+    "title": "Part 2: Deploying Your FastAPI and React.js CRUD App on Render.com",
+    "link": "https://dev.to/gilly7/part-2-deploying-your-fastapi-and-reactjs-crud-app-on-rendercom-3l50",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Use Lazy Routing with React Suspense to Optimize Performance",
-    "link": "https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh",
+    "title": "I have created a whatsapp and facebook like social gaming platform",
+    "link": "https://dev.to/john4650hub/i-have-created-a-whatsapp-and-facebook-like-social-gaming-platform-11ml",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Deploy a React SPA using AWS S3 and CloudFront",
-    "link": "https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp",
+    "title": "Building a Dynamic Pricing Page Inspired by Resend: A Deep Dive",
+    "link": "https://dev.to/alaaio/building-a-dynamic-pricing-page-inspired-by-resend-a-deep-dive-12d3",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "react-bootstrap Modal never displays",
-    "link": "https://dev.to/ppowell777/react-bootstrap-modal-never-displays-3l5h",
+    "title": "React Context APIs, State sharing and Zustand",
+    "link": "https://dev.to/rajusarkar/react-context-apis-state-sharing-and-zustand-13e6",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "How Turborepo Builds Its Graph?",
-    "link": "https://dev.to/ippatev/how-turborepo-builds-its-graph-157i",
+    "title": "How I Build an NPM Package that lets you Scaffold React Apps",
+    "link": "https://dev.to/mrcssdev/how-i-build-an-npm-package-that-lets-you-scaffold-react-apps-5a5h",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Use Lazy Routing with React Suspense to Optimize Performance",
-    "link": "https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh",
+    "title": "🔥 Your React App is Secretly Slowing Down – Here’s How to Fix It With Just One Hook!",
+    "link": "https://dev.to/ekwoster/your-react-app-is-secretly-slowing-down-heres-how-to-fix-it-with-just-one-hook-54bm",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Deploy a React SPA using AWS S3 and CloudFront",
-    "link": "https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp",
+    "title": "React Recap, years later, thanks to Astro",
+    "link": "https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "react-bootstrap Modal never displays",
-    "link": "https://dev.to/ppowell777/react-bootstrap-modal-never-displays-3l5h",
+    "title": "Part 2: Deploying Your FastAPI and React.js CRUD App on Render.com",
+    "link": "https://dev.to/gilly7/part-2-deploying-your-fastapi-and-reactjs-crud-app-on-rendercom-3l50",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "How Turborepo Builds Its Graph?",
-    "link": "https://dev.to/ippatev/how-turborepo-builds-its-graph-157i",
+    "title": "I have created a whatsapp and facebook like social gaming platform",
+    "link": "https://dev.to/john4650hub/i-have-created-a-whatsapp-and-facebook-like-social-gaming-platform-11ml",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Use Lazy Routing with React Suspense to Optimize Performance",
-    "link": "https://dev.to/asim786521/use-lazy-routing-with-react-suspense-to-optimize-performance-3fbh",
+    "title": "Building a Dynamic Pricing Page Inspired by Resend: A Deep Dive",
+    "link": "https://dev.to/alaaio/building-a-dynamic-pricing-page-inspired-by-resend-a-deep-dive-12d3",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Deploy a React SPA using AWS S3 and CloudFront",
-    "link": "https://dev.to/arthurcolman/deploy-a-react-spa-using-aws-s3-and-cloudfront-8lp",
+    "title": "React Context APIs, State sharing and Zustand",
+    "link": "https://dev.to/rajusarkar/react-context-apis-state-sharing-and-zustand-13e6",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "react-bootstrap Modal never displays",
-    "link": "https://dev.to/ppowell777/react-bootstrap-modal-never-displays-3l5h",
+    "title": "How I Build an NPM Package that lets you Scaffold React Apps",
+    "link": "https://dev.to/mrcssdev/how-i-build-an-npm-package-that-lets-you-scaffold-react-apps-5a5h",
     "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "ArtistAssistApp Improvements – August 2025",
-    "link": "https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb",
-    "date": "9/2/2025",
+    "title": "🔥 Your React App is Secretly Slowing Down – Here’s How to Fix It With Just One Hook!",
+    "link": "https://dev.to/ekwoster/your-react-app-is-secretly-slowing-down-heres-how-to-fix-it-with-just-one-hook-54bm",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Configuring Storybook for TypeScript and Tailwind, with Astro 🚀😡",
-    "link": "https://dev.to/ingosteinke/rediscovering-storybook-with-typescript-and-tailwind-m8h",
-    "date": "9/2/2025",
+    "title": "React Recap, years later, thanks to Astro",
+    "link": "https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "🔥 Stop Writing Boilerplate in React: Unlock the Hidden Power of Formik with Yup & Custom Hooks!",
-    "link": "https://dev.to/ekwoster/stop-writing-boilerplate-in-react-unlock-the-hidden-power-of-formik-with-yup-custom-hooks-5b34",
-    "date": "9/2/2025",
+    "title": "Part 2: Deploying Your FastAPI and React.js CRUD App on Render.com",
+    "link": "https://dev.to/gilly7/part-2-deploying-your-fastapi-and-reactjs-crud-app-on-rendercom-3l50",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Fixing Tailwind CSS Configuration Issues in Vite Projects with ES Modules",
-    "link": "https://dev.to/its_renuka_/fixing-tailwind-css-configuration-issues-in-vite-projects-with-es-modules-420a",
-    "date": "9/2/2025",
+    "title": "I have created a whatsapp and facebook like social gaming platform",
+    "link": "https://dev.to/john4650hub/i-have-created-a-whatsapp-and-facebook-like-social-gaming-platform-11ml",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Portfolio Relaunch — React, Vite, and MDX",
-    "link": "https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog",
-    "date": "9/2/2025",
+    "title": "Building a Dynamic Pricing Page Inspired by Resend: A Deep Dive",
+    "link": "https://dev.to/alaaio/building-a-dynamic-pricing-page-inspired-by-resend-a-deep-dive-12d3",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Install Tailwind CSS in React (Vite) - Step by Step Guide",
-    "link": "https://dev.to/its_renuka_/how-to-install-tailwind-css-in-react-vite-step-by-step-guide-4ojo",
-    "date": "9/2/2025",
+    "title": "React Context APIs, State sharing and Zustand",
+    "link": "https://dev.to/rajusarkar/react-context-apis-state-sharing-and-zustand-13e6",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Build a Responsive NavBar in React with Chakra UI v3",
-    "link": "https://dev.to/andemosa/build-a-responsive-navbar-in-react-with-chakra-ui-v3-25hb",
-    "date": "9/2/2025",
+    "title": "How I Build an NPM Package that lets you Scaffold React Apps",
+    "link": "https://dev.to/mrcssdev/how-i-build-an-npm-package-that-lets-you-scaffold-react-apps-5a5h",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "🚀 Ditch Redux: Build a Global Store in 40 Lines with useSyncExternalStore",
-    "link": "https://dev.to/mynk-tmr/ditch-redux-build-a-global-store-in-40-lines-with-usesyncexternalstore-gp8",
-    "date": "9/2/2025",
+    "title": "🔥 Your React App is Secretly Slowing Down – Here’s How to Fix It With Just One Hook!",
+    "link": "https://dev.to/ekwoster/your-react-app-is-secretly-slowing-down-heres-how-to-fix-it-with-just-one-hook-54bm",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "My VSCode-Inspired Portfolio, Feedback & Inspiration Welcome!",
-    "link": "https://dev.to/suhrobkholmurodov/my-vscode-inspired-portfolio-feedback-inspiration-welcome-2hpd",
-    "date": "9/2/2025",
+    "title": "React Recap, years later, thanks to Astro",
+    "link": "https://dev.to/ingosteinke/react-recap-years-later-thanks-to-astro-2b4a",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Frontend 2025: Make It Fast, Keep It Simple",
-    "link": "https://dev.to/vishdevwork/frontend-2025-make-it-fast-keep-it-simple-272f",
-    "date": "9/2/2025",
+    "title": "Part 2: Deploying Your FastAPI and React.js CRUD App on Render.com",
+    "link": "https://dev.to/gilly7/part-2-deploying-your-fastapi-and-reactjs-crud-app-on-rendercom-3l50",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "When Pinia Meets React: A Silky-Smooth State Management Solution You've Never Experienced 🍍+⚛️",
-    "link": "https://dev.to/savage_savage_30d0309d3e2/when-pinia-meets-react-a-silky-smooth-state-management-solution-youve-never-experienced--5a45",
-    "date": "9/2/2025",
+    "title": "I have created a whatsapp and facebook like social gaming platform",
+    "link": "https://dev.to/john4650hub/i-have-created-a-whatsapp-and-facebook-like-social-gaming-platform-11ml",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "ArtistAssistApp Improvements – August 2025",
-    "link": "https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb",
-    "date": "9/2/2025",
+    "title": "Building a Dynamic Pricing Page Inspired by Resend: A Deep Dive",
+    "link": "https://dev.to/alaaio/building-a-dynamic-pricing-page-inspired-by-resend-a-deep-dive-12d3",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Configuring Storybook for TypeScript and Tailwind, with Astro 🚀😡",
-    "link": "https://dev.to/ingosteinke/rediscovering-storybook-with-typescript-and-tailwind-m8h",
-    "date": "9/2/2025",
+    "title": "React Context APIs, State sharing and Zustand",
+    "link": "https://dev.to/rajusarkar/react-context-apis-state-sharing-and-zustand-13e6",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "🔥 Stop Writing Boilerplate in React: Unlock the Hidden Power of Formik with Yup & Custom Hooks!",
-    "link": "https://dev.to/ekwoster/stop-writing-boilerplate-in-react-unlock-the-hidden-power-of-formik-with-yup-custom-hooks-5b34",
-    "date": "9/2/2025",
+    "title": "How I Build an NPM Package that lets you Scaffold React Apps",
+    "link": "https://dev.to/mrcssdev/how-i-build-an-npm-package-that-lets-you-scaffold-react-apps-5a5h",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Fixing Tailwind CSS Configuration Issues in Vite Projects with ES Modules",
-    "link": "https://dev.to/its_renuka_/fixing-tailwind-css-configuration-issues-in-vite-projects-with-es-modules-420a",
-    "date": "9/2/2025",
+    "title": "🔥 Your React App is Secretly Slowing Down – Here’s How to Fix It With Just One Hook!",
+    "link": "https://dev.to/ekwoster/your-react-app-is-secretly-slowing-down-heres-how-to-fix-it-with-just-one-hook-54bm",
+    "date": "9/3/2025",
     "site": "dev.to"
   },
   {
-    "title": "Portfolio Relaunch — React, Vite, and MDX",
-    "link": "https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog",
-    "date": "9/2/2025",
-    "site": "dev.to"
+    "title": "Adaptive Video Streaming With Dash.js In React",
+    "link": "https://www.smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+    "reading_time": "9 min read",
+    "date": "3/27/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "How to Install Tailwind CSS in React (Vite) - Step by Step Guide",
-    "link": "https://dev.to/its_renuka_/how-to-install-tailwind-css-in-react-vite-step-by-step-guide-4ojo",
-    "date": "9/2/2025",
-    "site": "dev.to"
+    "title": "The Forensics Of React Server Components (RSCs)",
+    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
+    "reading_time": "24 min read",
+    "date": "5/9/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Build a Responsive NavBar in React with Chakra UI v3",
-    "link": "https://dev.to/andemosa/build-a-responsive-navbar-in-react-with-chakra-ui-v3-25hb",
-    "date": "9/2/2025",
-    "site": "dev.to"
+    "title": "The End Of My Gatsby Journey",
+    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
+    "reading_time": "16 min read",
+    "date": "3/6/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "🚀 Ditch Redux: Build a Global Store in 40 Lines with useSyncExternalStore",
-    "link": "https://dev.to/mynk-tmr/ditch-redux-build-a-global-store-in-40-lines-with-usesyncexternalstore-gp8",
-    "date": "9/2/2025",
-    "site": "dev.to"
+    "title": "Making Sense Of “Senseless” JavaScript Features",
+    "link": "https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
+    "reading_time": "14 min read",
+    "date": "12/28/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "My VSCode-Inspired Portfolio, Feedback & Inspiration Welcome!",
-    "link": "https://dev.to/suhrobkholmurodov/my-vscode-inspired-portfolio-feedback-inspiration-welcome-2hpd",
-    "date": "9/2/2025",
-    "site": "dev.to"
+    "title": "An Introduction To Full Stack Composability",
+    "link": "https://www.smashingmagazine.com/2023/11/introduction-full-stack-composability/",
+    "reading_time": "9 min read",
+    "date": "11/23/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Frontend 2025: Make It Fast, Keep It Simple",
-    "link": "https://dev.to/vishdevwork/frontend-2025-make-it-fast-keep-it-simple-272f",
-    "date": "9/2/2025",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 2)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
+    "reading_time": "23 min read",
+    "date": "10/16/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "When Pinia Meets React: A Silky-Smooth State Management Solution You've Never Experienced 🍍+⚛️",
-    "link": "https://dev.to/savage_savage_30d0309d3e2/when-pinia-meets-react-a-silky-smooth-state-management-solution-youve-never-experienced--5a45",
-    "date": "9/2/2025",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 1)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
+    "reading_time": "17 min read",
+    "date": "10/9/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "ArtistAssistApp Improvements – August 2025",
-    "link": "https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb",
-    "date": "9/2/2025",
-    "site": "dev.to"
+    "title": "Meet Codux: The React Visual Editor That Improves Developer Experience",
+    "link": "https://www.smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
+    "reading_time": "7 min read",
+    "date": "6/15/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Configuring Storybook for TypeScript and Tailwind, with Astro 🚀😡",
-    "link": "https://dev.to/ingosteinke/rediscovering-storybook-with-typescript-and-tailwind-m8h",
-    "date": "9/2/2025",
-    "site": "dev.to"
+    "title": "A Guide To Redux Toolkit With TypeScript",
+    "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
+    "reading_time": "16 min read",
+    "date": "5/10/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "🔥 Stop Writing Boilerplate in React: Unlock the Hidden Power of Formik with Yup & Custom Hooks!",
-    "link": "https://dev.to/ekwoster/stop-writing-boilerplate-in-react-unlock-the-hidden-power-of-formik-with-yup-custom-hooks-5b34",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Tailwind CSS Configuration Issues in Vite Projects with ES Modules",
-    "link": "https://dev.to/its_renuka_/fixing-tailwind-css-configuration-issues-in-vite-projects-with-es-modules-420a",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Portfolio Relaunch — React, Vite, and MDX",
-    "link": "https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Install Tailwind CSS in React (Vite) - Step by Step Guide",
-    "link": "https://dev.to/its_renuka_/how-to-install-tailwind-css-in-react-vite-step-by-step-guide-4ojo",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Responsive NavBar in React with Chakra UI v3",
-    "link": "https://dev.to/andemosa/build-a-responsive-navbar-in-react-with-chakra-ui-v3-25hb",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Ditch Redux: Build a Global Store in 40 Lines with useSyncExternalStore",
-    "link": "https://dev.to/mynk-tmr/ditch-redux-build-a-global-store-in-40-lines-with-usesyncexternalstore-gp8",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "My VSCode-Inspired Portfolio, Feedback & Inspiration Welcome!",
-    "link": "https://dev.to/suhrobkholmurodov/my-vscode-inspired-portfolio-feedback-inspiration-welcome-2hpd",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Frontend 2025: Make It Fast, Keep It Simple",
-    "link": "https://dev.to/vishdevwork/frontend-2025-make-it-fast-keep-it-simple-272f",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "When Pinia Meets React: A Silky-Smooth State Management Solution You've Never Experienced 🍍+⚛️",
-    "link": "https://dev.to/savage_savage_30d0309d3e2/when-pinia-meets-react-a-silky-smooth-state-management-solution-youve-never-experienced--5a45",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "ArtistAssistApp Improvements – August 2025",
-    "link": "https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configuring Storybook for TypeScript and Tailwind, with Astro 🚀😡",
-    "link": "https://dev.to/ingosteinke/rediscovering-storybook-with-typescript-and-tailwind-m8h",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔥 Stop Writing Boilerplate in React: Unlock the Hidden Power of Formik with Yup & Custom Hooks!",
-    "link": "https://dev.to/ekwoster/stop-writing-boilerplate-in-react-unlock-the-hidden-power-of-formik-with-yup-custom-hooks-5b34",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Tailwind CSS Configuration Issues in Vite Projects with ES Modules",
-    "link": "https://dev.to/its_renuka_/fixing-tailwind-css-configuration-issues-in-vite-projects-with-es-modules-420a",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Portfolio Relaunch — React, Vite, and MDX",
-    "link": "https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Install Tailwind CSS in React (Vite) - Step by Step Guide",
-    "link": "https://dev.to/its_renuka_/how-to-install-tailwind-css-in-react-vite-step-by-step-guide-4ojo",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Responsive NavBar in React with Chakra UI v3",
-    "link": "https://dev.to/andemosa/build-a-responsive-navbar-in-react-with-chakra-ui-v3-25hb",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Ditch Redux: Build a Global Store in 40 Lines with useSyncExternalStore",
-    "link": "https://dev.to/mynk-tmr/ditch-redux-build-a-global-store-in-40-lines-with-usesyncexternalstore-gp8",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "My VSCode-Inspired Portfolio, Feedback & Inspiration Welcome!",
-    "link": "https://dev.to/suhrobkholmurodov/my-vscode-inspired-portfolio-feedback-inspiration-welcome-2hpd",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Frontend 2025: Make It Fast, Keep It Simple",
-    "link": "https://dev.to/vishdevwork/frontend-2025-make-it-fast-keep-it-simple-272f",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "When Pinia Meets React: A Silky-Smooth State Management Solution You've Never Experienced 🍍+⚛️",
-    "link": "https://dev.to/savage_savage_30d0309d3e2/when-pinia-meets-react-a-silky-smooth-state-management-solution-youve-never-experienced--5a45",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "ArtistAssistApp Improvements – August 2025",
-    "link": "https://dev.to/eugene-khyst/artistassistapp-improvements-august-2025-11fb",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Configuring Storybook for TypeScript and Tailwind, with Astro 🚀😡",
-    "link": "https://dev.to/ingosteinke/rediscovering-storybook-with-typescript-and-tailwind-m8h",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔥 Stop Writing Boilerplate in React: Unlock the Hidden Power of Formik with Yup & Custom Hooks!",
-    "link": "https://dev.to/ekwoster/stop-writing-boilerplate-in-react-unlock-the-hidden-power-of-formik-with-yup-custom-hooks-5b34",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Tailwind CSS Configuration Issues in Vite Projects with ES Modules",
-    "link": "https://dev.to/its_renuka_/fixing-tailwind-css-configuration-issues-in-vite-projects-with-es-modules-420a",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Portfolio Relaunch — React, Vite, and MDX",
-    "link": "https://dev.to/andrewteece/portfolio-relaunch-react-vite-and-mdx-mog",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Install Tailwind CSS in React (Vite) - Step by Step Guide",
-    "link": "https://dev.to/its_renuka_/how-to-install-tailwind-css-in-react-vite-step-by-step-guide-4ojo",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Responsive NavBar in React with Chakra UI v3",
-    "link": "https://dev.to/andemosa/build-a-responsive-navbar-in-react-with-chakra-ui-v3-25hb",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Ditch Redux: Build a Global Store in 40 Lines with useSyncExternalStore",
-    "link": "https://dev.to/mynk-tmr/ditch-redux-build-a-global-store-in-40-lines-with-usesyncexternalstore-gp8",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "My VSCode-Inspired Portfolio, Feedback & Inspiration Welcome!",
-    "link": "https://dev.to/suhrobkholmurodov/my-vscode-inspired-portfolio-feedback-inspiration-welcome-2hpd",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Frontend 2025: Make It Fast, Keep It Simple",
-    "link": "https://dev.to/vishdevwork/frontend-2025-make-it-fast-keep-it-simple-272f",
-    "date": "9/2/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "When Pinia Meets React: A Silky-Smooth State Management Solution You've Never Experienced 🍍+⚛️",
-    "link": "https://dev.to/savage_savage_30d0309d3e2/when-pinia-meets-react-a-silky-smooth-state-management-solution-youve-never-experienced--5a45",
-    "date": "9/2/2025",
-    "site": "dev.to"
+    "title": "The Safest Way To Hide Your API Keys When Using React",
+    "link": "https://www.smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
+    "reading_time": "9 min read",
+    "date": "5/8/2023",
+    "site": "smashingmagazine"
   },
   {
     "title": "Internationalization In Next.js 13 With React Server Components",
@@ -480,7 +550,7 @@
   {
     "title": "The Key To Good Component Design Is Selfishness",
     "link": "https://www.smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "1/20/2023",
     "site": "smashingmagazine"
   },
@@ -590,16 +660,86 @@
     "site": "smashingmagazine"
   },
   {
+    "title": "GraphQL On The Front-End (React And Apollo)",
+    "link": "https://www.smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
+    "reading_time": "15 min read",
+    "date": "11/4/2021",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Optimizing Next.js Applications With Nx",
+    "link": "https://www.smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
+    "reading_time": "13 min read",
+    "date": "10/26/2021",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Useful React APIs For Building Flexible Components With TypeScript",
+    "link": "https://www.smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/",
+    "reading_time": "10 min read",
+    "date": "10/12/2021",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
+    "link": "https://www.smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
+    "reading_time": "8 min read",
+    "date": "9/9/2021",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Compound Components In React",
+    "link": "https://www.smashingmagazine.com/2021/08/compound-components-react/",
+    "reading_time": "14 min read",
+    "date": "8/27/2021",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Handling Mounting And Unmounting Of Navigation Routes In React Native",
+    "link": "https://www.smashingmagazine.com/2021/08/mounting-unmounting-navigation-routes-react-native/",
+    "reading_time": "22 min read",
+    "date": "8/11/2021",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "React Children And Iteration Methods",
+    "link": "https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/",
+    "reading_time": "14 min read",
+    "date": "8/4/2021",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Global vs. Local Styling In Next.js",
+    "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
+    "reading_time": "16 min read",
+    "date": "7/27/2021",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Gatsby Serverless Functions And The International Space Station",
+    "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
+    "reading_time": "13 min read",
+    "date": "7/26/2021",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
+    "link": "https://www.smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
+    "reading_time": "24 min read",
+    "date": "6/21/2021",
+    "site": "smashingmagazine"
+  },
+  {
     "title": "Client-Side Routing In Next.js",
     "link": "https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "6/18/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "How To Implement Authentication In Next.js With Auth0",
     "link": "https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "5/20/2021",
     "site": "smashingmagazine"
   },
@@ -634,14 +774,14 @@
   {
     "title": "Using Grommet In React Applications",
     "link": "https://www.smashingmagazine.com/2021/01/grommet-react-applications/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "1/18/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   },
