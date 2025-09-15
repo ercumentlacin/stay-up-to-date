@@ -1,31 +1,421 @@
 [
   {
-    "title": "JS Lover Meetup Experience",
-    "link": "https://dev.to/selvakumar_r_4bac08f5eaa6/js-lover-meetup-experience-3mp8",
+    "title": "Build Your Own Infinite Carousel in React (with a Custom Hook)❗",
+    "link": "https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React+ Typescript: Deep Dive into \"readonly\"",
+    "link": "https://dev.to/itsmearka/react-typescript-deep-dive-into-readonly-48l7",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI-Powered Testing in Frontend: Smarter Automation with React & Angular",
+    "link": "https://dev.to/mridudixit15/ai-powered-testing-in-frontend-smarter-automation-with-react-angular-191f",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"as const\" vs \"readonly\" in TypeScript: What’s the Difference?",
+    "link": "https://dev.to/itsmearka/as-const-vs-readonly-in-typescript-whats-the-difference-eac",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Demystifying React Hooks with a Fun Password Generator",
+    "link": "https://dev.to/yuktisays/demystifying-react-hooks-with-a-fun-password-generator-500g",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Discriminated Unions in TypeScript: How They Differ from Plain Type Unions",
+    "link": "https://dev.to/itsmearka/discriminated-unions-in-typescript-how-they-differ-from-plain-type-unions-2hj0",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Portfolio Website Optimization: SEO & Performance Tips That Actually Work",
+    "link": "https://dev.to/john_andrewsanvictores_/portfolio-website-optimization-seo-performance-tips-that-actually-work-i70",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unlocking Literal Types in TypeScript with \"as const\"",
+    "link": "https://dev.to/itsmearka/unlocking-literal-types-in-typescript-with-as-const-431m",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Jsx,React DOM,Components",
+    "link": "https://dev.to/kavya_s/jsxreact-domcomponents-ck",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Immutability and Type Safety in React + TypeScript",
+    "link": "https://dev.to/itsmearka/mastering-immutability-and-type-safety-in-react-typescript-caj",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Your Own Infinite Carousel in React (with a Custom Hook)❗",
+    "link": "https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React+ Typescript: Deep Dive into \"readonly\"",
+    "link": "https://dev.to/itsmearka/react-typescript-deep-dive-into-readonly-48l7",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI-Powered Testing in Frontend: Smarter Automation with React & Angular",
+    "link": "https://dev.to/mridudixit15/ai-powered-testing-in-frontend-smarter-automation-with-react-angular-191f",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"as const\" vs \"readonly\" in TypeScript: What’s the Difference?",
+    "link": "https://dev.to/itsmearka/as-const-vs-readonly-in-typescript-whats-the-difference-eac",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Demystifying React Hooks with a Fun Password Generator",
+    "link": "https://dev.to/yuktisays/demystifying-react-hooks-with-a-fun-password-generator-500g",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Discriminated Unions in TypeScript: How They Differ from Plain Type Unions",
+    "link": "https://dev.to/itsmearka/discriminated-unions-in-typescript-how-they-differ-from-plain-type-unions-2hj0",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Portfolio Website Optimization: SEO & Performance Tips That Actually Work",
+    "link": "https://dev.to/john_andrewsanvictores_/portfolio-website-optimization-seo-performance-tips-that-actually-work-i70",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unlocking Literal Types in TypeScript with \"as const\"",
+    "link": "https://dev.to/itsmearka/unlocking-literal-types-in-typescript-with-as-const-431m",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Jsx,React DOM,Components",
+    "link": "https://dev.to/kavya_s/jsxreact-domcomponents-ck",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Immutability and Type Safety in React + TypeScript",
+    "link": "https://dev.to/itsmearka/mastering-immutability-and-type-safety-in-react-typescript-caj",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Your Own Infinite Carousel in React (with a Custom Hook)❗",
+    "link": "https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React+ Typescript: Deep Dive into \"readonly\"",
+    "link": "https://dev.to/itsmearka/react-typescript-deep-dive-into-readonly-48l7",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI-Powered Testing in Frontend: Smarter Automation with React & Angular",
+    "link": "https://dev.to/mridudixit15/ai-powered-testing-in-frontend-smarter-automation-with-react-angular-191f",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"as const\" vs \"readonly\" in TypeScript: What’s the Difference?",
+    "link": "https://dev.to/itsmearka/as-const-vs-readonly-in-typescript-whats-the-difference-eac",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Demystifying React Hooks with a Fun Password Generator",
+    "link": "https://dev.to/yuktisays/demystifying-react-hooks-with-a-fun-password-generator-500g",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Discriminated Unions in TypeScript: How They Differ from Plain Type Unions",
+    "link": "https://dev.to/itsmearka/discriminated-unions-in-typescript-how-they-differ-from-plain-type-unions-2hj0",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Portfolio Website Optimization: SEO & Performance Tips That Actually Work",
+    "link": "https://dev.to/john_andrewsanvictores_/portfolio-website-optimization-seo-performance-tips-that-actually-work-i70",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unlocking Literal Types in TypeScript with \"as const\"",
+    "link": "https://dev.to/itsmearka/unlocking-literal-types-in-typescript-with-as-const-431m",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Jsx,React DOM,Components",
+    "link": "https://dev.to/kavya_s/jsxreact-domcomponents-ck",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Immutability and Type Safety in React + TypeScript",
+    "link": "https://dev.to/itsmearka/mastering-immutability-and-type-safety-in-react-typescript-caj",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Your Own Infinite Carousel in React (with a Custom Hook)❗",
+    "link": "https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React+ Typescript: Deep Dive into \"readonly\"",
+    "link": "https://dev.to/itsmearka/react-typescript-deep-dive-into-readonly-48l7",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI-Powered Testing in Frontend: Smarter Automation with React & Angular",
+    "link": "https://dev.to/mridudixit15/ai-powered-testing-in-frontend-smarter-automation-with-react-angular-191f",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"as const\" vs \"readonly\" in TypeScript: What’s the Difference?",
+    "link": "https://dev.to/itsmearka/as-const-vs-readonly-in-typescript-whats-the-difference-eac",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Demystifying React Hooks with a Fun Password Generator",
+    "link": "https://dev.to/yuktisays/demystifying-react-hooks-with-a-fun-password-generator-500g",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Discriminated Unions in TypeScript: How They Differ from Plain Type Unions",
+    "link": "https://dev.to/itsmearka/discriminated-unions-in-typescript-how-they-differ-from-plain-type-unions-2hj0",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Portfolio Website Optimization: SEO & Performance Tips That Actually Work",
+    "link": "https://dev.to/john_andrewsanvictores_/portfolio-website-optimization-seo-performance-tips-that-actually-work-i70",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unlocking Literal Types in TypeScript with \"as const\"",
+    "link": "https://dev.to/itsmearka/unlocking-literal-types-in-typescript-with-as-const-431m",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Jsx,React DOM,Components",
+    "link": "https://dev.to/kavya_s/jsxreact-domcomponents-ck",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Immutability and Type Safety in React + TypeScript",
+    "link": "https://dev.to/itsmearka/mastering-immutability-and-type-safety-in-react-typescript-caj",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Your Own Infinite Carousel in React (with a Custom Hook)❗",
+    "link": "https://dev.to/cristea_theodora_6200140b/build-your-own-infinite-carousel-in-react-with-a-custom-hook-1g29",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React+ Typescript: Deep Dive into \"readonly\"",
+    "link": "https://dev.to/itsmearka/react-typescript-deep-dive-into-readonly-48l7",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI-Powered Testing in Frontend: Smarter Automation with React & Angular",
+    "link": "https://dev.to/mridudixit15/ai-powered-testing-in-frontend-smarter-automation-with-react-angular-191f",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"as const\" vs \"readonly\" in TypeScript: What’s the Difference?",
+    "link": "https://dev.to/itsmearka/as-const-vs-readonly-in-typescript-whats-the-difference-eac",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Demystifying React Hooks with a Fun Password Generator",
+    "link": "https://dev.to/yuktisays/demystifying-react-hooks-with-a-fun-password-generator-500g",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Discriminated Unions in TypeScript: How They Differ from Plain Type Unions",
+    "link": "https://dev.to/itsmearka/discriminated-unions-in-typescript-how-they-differ-from-plain-type-unions-2hj0",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Portfolio Website Optimization: SEO & Performance Tips That Actually Work",
+    "link": "https://dev.to/john_andrewsanvictores_/portfolio-website-optimization-seo-performance-tips-that-actually-work-i70",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unlocking Literal Types in TypeScript with \"as const\"",
+    "link": "https://dev.to/itsmearka/unlocking-literal-types-in-typescript-with-as-const-431m",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Jsx,React DOM,Components",
+    "link": "https://dev.to/kavya_s/jsxreact-domcomponents-ck",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mastering Immutability and Type Safety in React + TypeScript",
+    "link": "https://dev.to/itsmearka/mastering-immutability-and-type-safety-in-react-typescript-caj",
+    "date": "9/15/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.",
+    "link": "https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn",
     "date": "9/14/2025",
     "site": "dev.to"
   },
   {
-    "title": "JS Lover Meetup Experience",
-    "link": "https://dev.to/selvakumar_r_4bac08f5eaa6/js-lover-meetup-experience-3mp8",
+    "title": "Why React Won the Front-End Race (Love It or Hate It)",
+    "link": "https://dev.to/alishirani/why-react-won-the-front-end-race-love-it-or-hate-it-ce9",
     "date": "9/14/2025",
     "site": "dev.to"
   },
   {
-    "title": "JS Lover Meetup Experience",
-    "link": "https://dev.to/selvakumar_r_4bac08f5eaa6/js-lover-meetup-experience-3mp8",
+    "title": "Use SVG Sprites to Make Your React App Load Faster",
+    "link": "https://dev.to/gouranga-das-khulna/use-svg-sprites-to-make-your-react-app-load-faster-319a",
     "date": "9/14/2025",
     "site": "dev.to"
   },
   {
-    "title": "JS Lover Meetup Experience",
-    "link": "https://dev.to/selvakumar_r_4bac08f5eaa6/js-lover-meetup-experience-3mp8",
+    "title": "New developer seeking feedback - am I on the right track?",
+    "link": "https://dev.to/justkelu/new-developer-seeking-feedback-am-i-on-the-right-track-2mm7",
     "date": "9/14/2025",
     "site": "dev.to"
   },
   {
-    "title": "JS Lover Meetup Experience",
-    "link": "https://dev.to/selvakumar_r_4bac08f5eaa6/js-lover-meetup-experience-3mp8",
+    "title": "An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.",
+    "link": "https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why React Won the Front-End Race (Love It or Hate It)",
+    "link": "https://dev.to/alishirani/why-react-won-the-front-end-race-love-it-or-hate-it-ce9",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use SVG Sprites to Make Your React App Load Faster",
+    "link": "https://dev.to/gouranga-das-khulna/use-svg-sprites-to-make-your-react-app-load-faster-319a",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "New developer seeking feedback - am I on the right track?",
+    "link": "https://dev.to/justkelu/new-developer-seeking-feedback-am-i-on-the-right-track-2mm7",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.",
+    "link": "https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why React Won the Front-End Race (Love It or Hate It)",
+    "link": "https://dev.to/alishirani/why-react-won-the-front-end-race-love-it-or-hate-it-ce9",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use SVG Sprites to Make Your React App Load Faster",
+    "link": "https://dev.to/gouranga-das-khulna/use-svg-sprites-to-make-your-react-app-load-faster-319a",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "New developer seeking feedback - am I on the right track?",
+    "link": "https://dev.to/justkelu/new-developer-seeking-feedback-am-i-on-the-right-track-2mm7",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.",
+    "link": "https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why React Won the Front-End Race (Love It or Hate It)",
+    "link": "https://dev.to/alishirani/why-react-won-the-front-end-race-love-it-or-hate-it-ce9",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use SVG Sprites to Make Your React App Load Faster",
+    "link": "https://dev.to/gouranga-das-khulna/use-svg-sprites-to-make-your-react-app-load-faster-319a",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "New developer seeking feedback - am I on the right track?",
+    "link": "https://dev.to/justkelu/new-developer-seeking-feedback-am-i-on-the-right-track-2mm7",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "An open-source, BYOK AI canvas for generating, manipulating, and editing images with AI models.",
+    "link": "https://dev.to/za01br/an-open-source-byok-ai-canvas-for-generating-manipulating-and-editing-images-with-ai-models-2nn",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why React Won the Front-End Race (Love It or Hate It)",
+    "link": "https://dev.to/alishirani/why-react-won-the-front-end-race-love-it-or-hate-it-ce9",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Use SVG Sprites to Make Your React App Load Faster",
+    "link": "https://dev.to/gouranga-das-khulna/use-svg-sprites-to-make-your-react-app-load-faster-319a",
+    "date": "9/14/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "New developer seeking feedback - am I on the right track?",
+    "link": "https://dev.to/justkelu/new-developer-seeking-feedback-am-i-on-the-right-track-2mm7",
     "date": "9/14/2025",
     "site": "dev.to"
   },
@@ -36,44 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "How I Built My Portfolio as a Web Developer in Kochi",
-    "link": "https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning Nginx as a MERN developer. [Part 1]",
-    "link": "https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Archi-UI Tailwind Styled (UI-Library)",
-    "link": "https://dev.to/vishnusangammanavar/archi-ui-tailwind-styled-ui-library-46a5",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Send SMS From My React App Using My Own Phone and SIM Card",
-    "link": "https://dev.to/nikola_mitrovic_922e2665f/how-i-send-sms-from-my-react-app-using-my-own-phone-and-sim-card-4n0p",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Framework Ripple? What about Others?",
-    "link": "https://dev.to/framemuse/new-framework-ripple-what-about-others-3mc8",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding React Components: Best Practices & Examples",
-    "link": "https://dev.to/tpointtechblog/understanding-react-components-best-practices-examples-2pd7",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updating But Not Reflecting!? React’s Common State 'Stale Closure' Pitfall",
-    "link": "https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d",
+    "title": "Universal Wallet: A KendoReact-Powered React App for Global Financial Inclusion",
+    "link": "https://dev.to/maani_k/universal-wallet-a-kendoreact-powered-react-app-for-global-financial-inclusion-3in4",
     "date": "9/13/2025",
     "site": "dev.to"
   },
@@ -84,44 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "How I Built My Portfolio as a Web Developer in Kochi",
-    "link": "https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning Nginx as a MERN developer. [Part 1]",
-    "link": "https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Archi-UI Tailwind Styled (UI-Library)",
-    "link": "https://dev.to/vishnusangammanavar/archi-ui-tailwind-styled-ui-library-46a5",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Send SMS From My React App Using My Own Phone and SIM Card",
-    "link": "https://dev.to/nikola_mitrovic_922e2665f/how-i-send-sms-from-my-react-app-using-my-own-phone-and-sim-card-4n0p",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Framework Ripple? What about Others?",
-    "link": "https://dev.to/framemuse/new-framework-ripple-what-about-others-3mc8",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding React Components: Best Practices & Examples",
-    "link": "https://dev.to/tpointtechblog/understanding-react-components-best-practices-examples-2pd7",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updating But Not Reflecting!? React’s Common State 'Stale Closure' Pitfall",
-    "link": "https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d",
+    "title": "Universal Wallet: A KendoReact-Powered React App for Global Financial Inclusion",
+    "link": "https://dev.to/maani_k/universal-wallet-a-kendoreact-powered-react-app-for-global-financial-inclusion-3in4",
     "date": "9/13/2025",
     "site": "dev.to"
   },
@@ -129,324 +447,6 @@
     "title": "Universal Wallet: A KendoReact-Powered React App for Global Financial Inclusion",
     "link": "https://dev.to/maani_k/universal-wallet-a-kendoreact-powered-react-app-for-global-financial-inclusion-3in4",
     "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built My Portfolio as a Web Developer in Kochi",
-    "link": "https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning Nginx as a MERN developer. [Part 1]",
-    "link": "https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Archi-UI Tailwind Styled (UI-Library)",
-    "link": "https://dev.to/vishnusangammanavar/archi-ui-tailwind-styled-ui-library-46a5",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Send SMS From My React App Using My Own Phone and SIM Card",
-    "link": "https://dev.to/nikola_mitrovic_922e2665f/how-i-send-sms-from-my-react-app-using-my-own-phone-and-sim-card-4n0p",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Framework Ripple? What about Others?",
-    "link": "https://dev.to/framemuse/new-framework-ripple-what-about-others-3mc8",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding React Components: Best Practices & Examples",
-    "link": "https://dev.to/tpointtechblog/understanding-react-components-best-practices-examples-2pd7",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updating But Not Reflecting!? React’s Common State 'Stale Closure' Pitfall",
-    "link": "https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Universal Wallet: A KendoReact-Powered React App for Global Financial Inclusion",
-    "link": "https://dev.to/maani_k/universal-wallet-a-kendoreact-powered-react-app-for-global-financial-inclusion-3in4",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built My Portfolio as a Web Developer in Kochi",
-    "link": "https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning Nginx as a MERN developer. [Part 1]",
-    "link": "https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Archi-UI Tailwind Styled (UI-Library)",
-    "link": "https://dev.to/vishnusangammanavar/archi-ui-tailwind-styled-ui-library-46a5",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Send SMS From My React App Using My Own Phone and SIM Card",
-    "link": "https://dev.to/nikola_mitrovic_922e2665f/how-i-send-sms-from-my-react-app-using-my-own-phone-and-sim-card-4n0p",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Framework Ripple? What about Others?",
-    "link": "https://dev.to/framemuse/new-framework-ripple-what-about-others-3mc8",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding React Components: Best Practices & Examples",
-    "link": "https://dev.to/tpointtechblog/understanding-react-components-best-practices-examples-2pd7",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updating But Not Reflecting!? React’s Common State 'Stale Closure' Pitfall",
-    "link": "https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Universal Wallet: A KendoReact-Powered React App for Global Financial Inclusion",
-    "link": "https://dev.to/maani_k/universal-wallet-a-kendoreact-powered-react-app-for-global-financial-inclusion-3in4",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built My Portfolio as a Web Developer in Kochi",
-    "link": "https://dev.to/manuamarnath/how-i-built-my-portfolio-as-a-web-developer-in-kochi-5a3e",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Learning Nginx as a MERN developer. [Part 1]",
-    "link": "https://dev.to/morning_redemption_3940af/learning-nginx-as-a-mern-developer-2hp8",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Archi-UI Tailwind Styled (UI-Library)",
-    "link": "https://dev.to/vishnusangammanavar/archi-ui-tailwind-styled-ui-library-46a5",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Send SMS From My React App Using My Own Phone and SIM Card",
-    "link": "https://dev.to/nikola_mitrovic_922e2665f/how-i-send-sms-from-my-react-app-using-my-own-phone-and-sim-card-4n0p",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Framework Ripple? What about Others?",
-    "link": "https://dev.to/framemuse/new-framework-ripple-what-about-others-3mc8",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding React Components: Best Practices & Examples",
-    "link": "https://dev.to/tpointtechblog/understanding-react-components-best-practices-examples-2pd7",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Updating But Not Reflecting!? React’s Common State 'Stale Closure' Pitfall",
-    "link": "https://dev.to/learcise_health/updating-but-not-reflecting-reacts-common-state-stale-closure-pitfall-3f0d",
-    "date": "9/13/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testando debounce e throttle no React com Jest [setTimeout]",
-    "link": "https://dev.to/vitorrios1001/testando-debounce-e-throttle-no-react-com-jest-settimeout-2gpn",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nexus Graph with Kendo React",
-    "link": "https://dev.to/samarth28/nexus-graph-with-kendo-react-2d43",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering React Imports: Relative vs Aliases (`../` vs `@/`)",
-    "link": "https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹 `useContext` – Compartir estado sin props (3/8)",
-    "link": "https://dev.to/pwalvarado/usecontext-compartir-estado-sin-props-38-3j2p",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹Guía definitiva de React Hooks 1/8",
-    "link": "https://dev.to/pwalvarado/guia-definitiva-de-react-hooks-2m5m",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹 `useReducer` – Manejar estados complejos (4/8)",
-    "link": "https://dev.to/pwalvarado/usereducer-manejar-estados-complejos-48-32k5",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testando debounce e throttle no React com Jest [setTimeout]",
-    "link": "https://dev.to/vitorrios1001/testando-debounce-e-throttle-no-react-com-jest-settimeout-2gpn",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nexus Graph with Kendo React",
-    "link": "https://dev.to/samarth28/nexus-graph-with-kendo-react-2d43",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering React Imports: Relative vs Aliases (`../` vs `@/`)",
-    "link": "https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹 `useContext` – Compartir estado sin props (3/8)",
-    "link": "https://dev.to/pwalvarado/usecontext-compartir-estado-sin-props-38-3j2p",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹Guía definitiva de React Hooks 1/8",
-    "link": "https://dev.to/pwalvarado/guia-definitiva-de-react-hooks-2m5m",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹 `useReducer` – Manejar estados complejos (4/8)",
-    "link": "https://dev.to/pwalvarado/usereducer-manejar-estados-complejos-48-32k5",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testando debounce e throttle no React com Jest [setTimeout]",
-    "link": "https://dev.to/vitorrios1001/testando-debounce-e-throttle-no-react-com-jest-settimeout-2gpn",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nexus Graph with Kendo React",
-    "link": "https://dev.to/samarth28/nexus-graph-with-kendo-react-2d43",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering React Imports: Relative vs Aliases (`../` vs `@/`)",
-    "link": "https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹 `useContext` – Compartir estado sin props (3/8)",
-    "link": "https://dev.to/pwalvarado/usecontext-compartir-estado-sin-props-38-3j2p",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹Guía definitiva de React Hooks 1/8",
-    "link": "https://dev.to/pwalvarado/guia-definitiva-de-react-hooks-2m5m",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹 `useReducer` – Manejar estados complejos (4/8)",
-    "link": "https://dev.to/pwalvarado/usereducer-manejar-estados-complejos-48-32k5",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testando debounce e throttle no React com Jest [setTimeout]",
-    "link": "https://dev.to/vitorrios1001/testando-debounce-e-throttle-no-react-com-jest-settimeout-2gpn",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nexus Graph with Kendo React",
-    "link": "https://dev.to/samarth28/nexus-graph-with-kendo-react-2d43",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering React Imports: Relative vs Aliases (`../` vs `@/`)",
-    "link": "https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹 `useContext` – Compartir estado sin props (3/8)",
-    "link": "https://dev.to/pwalvarado/usecontext-compartir-estado-sin-props-38-3j2p",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹Guía definitiva de React Hooks 1/8",
-    "link": "https://dev.to/pwalvarado/guia-definitiva-de-react-hooks-2m5m",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹 `useReducer` – Manejar estados complejos (4/8)",
-    "link": "https://dev.to/pwalvarado/usereducer-manejar-estados-complejos-48-32k5",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testando debounce e throttle no React com Jest [setTimeout]",
-    "link": "https://dev.to/vitorrios1001/testando-debounce-e-throttle-no-react-com-jest-settimeout-2gpn",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nexus Graph with Kendo React",
-    "link": "https://dev.to/samarth28/nexus-graph-with-kendo-react-2d43",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering React Imports: Relative vs Aliases (`../` vs `@/`)",
-    "link": "https://dev.to/cristiansifuentes/mastering-react-imports-relative-vs-aliases-vs--33pl",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹 `useContext` – Compartir estado sin props (3/8)",
-    "link": "https://dev.to/pwalvarado/usecontext-compartir-estado-sin-props-38-3j2p",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹Guía definitiva de React Hooks 1/8",
-    "link": "https://dev.to/pwalvarado/guia-definitiva-de-react-hooks-2m5m",
-    "date": "9/12/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔹 `useReducer` – Manejar estados complejos (4/8)",
-    "link": "https://dev.to/pwalvarado/usereducer-manejar-estados-complejos-48-32k5",
-    "date": "9/12/2025",
     "site": "dev.to"
   },
   {
@@ -550,7 +550,7 @@
   {
     "title": "The Key To Good Component Design Is Selfishness",
     "link": "https://www.smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "1/20/2023",
     "site": "smashingmagazine"
   },
@@ -571,7 +571,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
@@ -669,7 +669,7 @@
   {
     "title": "Optimizing Next.js Applications With Nx",
     "link": "https://www.smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "10/26/2021",
     "site": "smashingmagazine"
   },
@@ -683,7 +683,7 @@
   {
     "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
     "link": "https://www.smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "9/9/2021",
     "site": "smashingmagazine"
   },
@@ -781,7 +781,7 @@
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   },
