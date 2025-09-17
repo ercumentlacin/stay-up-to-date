@@ -1,523 +1,453 @@
 [
   {
-    "title": "React + TypeScript: async functions",
-    "link": "https://dev.to/itsmearka/react-typescript-async-functions-1307",
+    "title": "Ternary Operator: Is It Just a Fading if/else?",
+    "link": "https://dev.to/janetmutua/ternary-operator-is-it-just-a-fading-ifelse-32e7",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Global state management in React apps",
+    "link": "https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "When JS blocks parsing your HTML",
+    "link": "https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "21 native browser APIs you might not have used before",
+    "link": "https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top ServiceNow Trends for 2025: What’s Worth Your Time (and What’s Just Hype)",
+    "link": "https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Vibration API: How To Make The Device Buzz",
+    "link": "https://dev.to/agunechemba/javascript-vibration-api-how-to-make-the-device-buzz-2o4j",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript DOM: A Beginner’s Guide to Selecting HTML Elements",
+    "link": "https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-selecting-html-elements-5h22",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bill Split Calculator",
+    "link": "https://dev.to/pikafenger/bill-split-calculator-5h78",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brainmap.js: Vanilla JavaScript Mind Mapping Library",
+    "link": "https://dev.to/jqueryscript/brainmapjs-vanilla-javascript-mind-mapping-library-dj2",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript For Loop: The Ultimate Guide for Developers",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-for-loop-the-ultimate-guide-for-developers-28gj",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ternary Operator: Is It Just a Fading if/else?",
+    "link": "https://dev.to/janetmutua/ternary-operator-is-it-just-a-fading-ifelse-32e7",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Global state management in React apps",
+    "link": "https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "When JS blocks parsing your HTML",
+    "link": "https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "21 native browser APIs you might not have used before",
+    "link": "https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top ServiceNow Trends for 2025: What’s Worth Your Time (and What’s Just Hype)",
+    "link": "https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Vibration API: How To Make The Device Buzz",
+    "link": "https://dev.to/agunechemba/javascript-vibration-api-how-to-make-the-device-buzz-2o4j",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript DOM: A Beginner’s Guide to Selecting HTML Elements",
+    "link": "https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-selecting-html-elements-5h22",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bill Split Calculator",
+    "link": "https://dev.to/pikafenger/bill-split-calculator-5h78",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brainmap.js: Vanilla JavaScript Mind Mapping Library",
+    "link": "https://dev.to/jqueryscript/brainmapjs-vanilla-javascript-mind-mapping-library-dj2",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript For Loop: The Ultimate Guide for Developers",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-for-loop-the-ultimate-guide-for-developers-28gj",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ternary Operator: Is It Just a Fading if/else?",
+    "link": "https://dev.to/janetmutua/ternary-operator-is-it-just-a-fading-ifelse-32e7",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Global state management in React apps",
+    "link": "https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "When JS blocks parsing your HTML",
+    "link": "https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "21 native browser APIs you might not have used before",
+    "link": "https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top ServiceNow Trends for 2025: What’s Worth Your Time (and What’s Just Hype)",
+    "link": "https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Vibration API: How To Make The Device Buzz",
+    "link": "https://dev.to/agunechemba/javascript-vibration-api-how-to-make-the-device-buzz-2o4j",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript DOM: A Beginner’s Guide to Selecting HTML Elements",
+    "link": "https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-selecting-html-elements-5h22",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bill Split Calculator",
+    "link": "https://dev.to/pikafenger/bill-split-calculator-5h78",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brainmap.js: Vanilla JavaScript Mind Mapping Library",
+    "link": "https://dev.to/jqueryscript/brainmapjs-vanilla-javascript-mind-mapping-library-dj2",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript For Loop: The Ultimate Guide for Developers",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-for-loop-the-ultimate-guide-for-developers-28gj",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ternary Operator: Is It Just a Fading if/else?",
+    "link": "https://dev.to/janetmutua/ternary-operator-is-it-just-a-fading-ifelse-32e7",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Global state management in React apps",
+    "link": "https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "When JS blocks parsing your HTML",
+    "link": "https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "21 native browser APIs you might not have used before",
+    "link": "https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top ServiceNow Trends for 2025: What’s Worth Your Time (and What’s Just Hype)",
+    "link": "https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Vibration API: How To Make The Device Buzz",
+    "link": "https://dev.to/agunechemba/javascript-vibration-api-how-to-make-the-device-buzz-2o4j",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript DOM: A Beginner’s Guide to Selecting HTML Elements",
+    "link": "https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-selecting-html-elements-5h22",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bill Split Calculator",
+    "link": "https://dev.to/pikafenger/bill-split-calculator-5h78",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brainmap.js: Vanilla JavaScript Mind Mapping Library",
+    "link": "https://dev.to/jqueryscript/brainmapjs-vanilla-javascript-mind-mapping-library-dj2",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript For Loop: The Ultimate Guide for Developers",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-for-loop-the-ultimate-guide-for-developers-28gj",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ternary Operator: Is It Just a Fading if/else?",
+    "link": "https://dev.to/janetmutua/ternary-operator-is-it-just-a-fading-ifelse-32e7",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Global state management in React apps",
+    "link": "https://dev.to/abhilashlr/global-state-management-in-react-apps-48lg",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "When JS blocks parsing your HTML",
+    "link": "https://dev.to/rinonten/when-js-blocks-parsing-your-html-29jm",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "21 native browser APIs you might not have used before",
+    "link": "https://dev.to/lingodotdev/21-native-browser-apis-you-might-not-have-used-before-1nbp",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top ServiceNow Trends for 2025: What’s Worth Your Time (and What’s Just Hype)",
+    "link": "https://dev.to/sip_mjb/top-servicenow-trends-for-2025-whats-worth-your-time-and-whats-just-hype-1lfe",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Vibration API: How To Make The Device Buzz",
+    "link": "https://dev.to/agunechemba/javascript-vibration-api-how-to-make-the-device-buzz-2o4j",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript DOM: A Beginner’s Guide to Selecting HTML Elements",
+    "link": "https://dev.to/wisdomudo/javascript-dom-a-beginners-guide-to-selecting-html-elements-5h22",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bill Split Calculator",
+    "link": "https://dev.to/pikafenger/bill-split-calculator-5h78",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brainmap.js: Vanilla JavaScript Mind Mapping Library",
+    "link": "https://dev.to/jqueryscript/brainmapjs-vanilla-javascript-mind-mapping-library-dj2",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript For Loop: The Ultimate Guide for Developers",
+    "link": "https://dev.to/satyam_gupta_0d1ff2152dcc/javascript-for-loop-the-ultimate-guide-for-developers-28gj",
+    "date": "9/17/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Meow Mountain - postmortem of a 13KB game",
+    "link": "https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "🚀 Building a Dynamic CMS-Driven Angular App Using Optimizely & a Custom BFF Architecture",
-    "link": "https://dev.to/syed_haris/building-a-dynamic-cms-driven-angular-app-using-optimizely-a-custom-bff-architecture-5ac8",
+    "title": "Using Apollo in Svelte 5",
+    "link": "https://dev.to/daniacu/using-apollo-in-svelte-5-7ke",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building Digital Identity Tools - Why We Open-Sourced Our SSI SDK",
-    "link": "https://dev.to/panche_isajeski_a526e83bc/building-digital-identity-tools-why-we-open-sourced-our-ssi-sdk-3fld",
+    "title": "this не магия: практическое руководство по контексту выполнения в JavaScript",
+    "link": "https://dev.to/ukraintseva/this-nie-maghiia-praktichieskoie-rukovodstvo-po-kontiekstu-vypolnieniia-v-javascript-328j",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Angular Addicts #41: Angular 20.2, Animations, Monorepos & more",
-    "link": "https://dev.to/this-is-angular/angular-addicts-41-angular-202-animations-monorepos-more-2la4",
+    "title": "Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model",
+    "link": "https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building a Mouse-Responsive SVG Polygon Background with JavaScript and CSS",
-    "link": "https://dev.to/kadenwildauer/building-a-mouse-responsive-svg-polygon-background-with-javascript-and-css-206f",
+    "title": "A New Day, a New Security Attack on npm…",
+    "link": "https://dev.to/joacod/a-new-day-a-new-security-attack-on-npm-1jek",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Why Async Functions in TypeScript Always Return a Promise",
-    "link": "https://dev.to/itsmearka/why-async-functions-in-typescript-always-return-a-promise-317j",
+    "title": "Meow Mountain - postmortem of a 13KB game",
+    "link": "https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "The Lifecycle of useEffect: Synchronization in React",
-    "link": "https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6",
+    "title": "Using Apollo in Svelte 5",
+    "link": "https://dev.to/daniacu/using-apollo-in-svelte-5-7ke",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Beginner’s Guide for \"Replace Non-Coprime Numbers in Array\" (LeetCode 2197) with C++, JavaScript & Python Code",
-    "link": "https://dev.to/om_shree_0709/beginners-guide-for-replace-non-coprime-numbers-in-array-leetcode-2197-with-c-javascript--218k",
+    "title": "this не магия: практическое руководство по контексту выполнения в JavaScript",
+    "link": "https://dev.to/ukraintseva/this-nie-maghiia-praktichieskoie-rukovodstvo-po-kontiekstu-vypolnieniia-v-javascript-328j",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to structure a Modular Monolith",
-    "link": "https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o",
+    "title": "Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model",
+    "link": "https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Intelligent Document Splitting: Blank Page Detection with Dynamic Web TWAIN",
-    "link": "https://dev.to/yushulx/intelligent-document-splitting-blank-page-detection-with-dynamic-web-twain-nln",
+    "title": "A New Day, a New Security Attack on npm…",
+    "link": "https://dev.to/joacod/a-new-day-a-new-security-attack-on-npm-1jek",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Typescript : Generic Data Fetch",
-    "link": "https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48",
+    "title": "Meow Mountain - postmortem of a 13KB game",
+    "link": "https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "React + TypeScript: async functions",
-    "link": "https://dev.to/itsmearka/react-typescript-async-functions-1307",
+    "title": "Using Apollo in Svelte 5",
+    "link": "https://dev.to/daniacu/using-apollo-in-svelte-5-7ke",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "🚀 Building a Dynamic CMS-Driven Angular App Using Optimizely & a Custom BFF Architecture",
-    "link": "https://dev.to/syed_haris/building-a-dynamic-cms-driven-angular-app-using-optimizely-a-custom-bff-architecture-5ac8",
+    "title": "this не магия: практическое руководство по контексту выполнения в JavaScript",
+    "link": "https://dev.to/ukraintseva/this-nie-maghiia-praktichieskoie-rukovodstvo-po-kontiekstu-vypolnieniia-v-javascript-328j",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building Digital Identity Tools - Why We Open-Sourced Our SSI SDK",
-    "link": "https://dev.to/panche_isajeski_a526e83bc/building-digital-identity-tools-why-we-open-sourced-our-ssi-sdk-3fld",
+    "title": "Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model",
+    "link": "https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Angular Addicts #41: Angular 20.2, Animations, Monorepos & more",
-    "link": "https://dev.to/this-is-angular/angular-addicts-41-angular-202-animations-monorepos-more-2la4",
+    "title": "A New Day, a New Security Attack on npm…",
+    "link": "https://dev.to/joacod/a-new-day-a-new-security-attack-on-npm-1jek",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building a Mouse-Responsive SVG Polygon Background with JavaScript and CSS",
-    "link": "https://dev.to/kadenwildauer/building-a-mouse-responsive-svg-polygon-background-with-javascript-and-css-206f",
+    "title": "Meow Mountain - postmortem of a 13KB game",
+    "link": "https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Why Async Functions in TypeScript Always Return a Promise",
-    "link": "https://dev.to/itsmearka/why-async-functions-in-typescript-always-return-a-promise-317j",
+    "title": "Using Apollo in Svelte 5",
+    "link": "https://dev.to/daniacu/using-apollo-in-svelte-5-7ke",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "The Lifecycle of useEffect: Synchronization in React",
-    "link": "https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6",
+    "title": "this не магия: практическое руководство по контексту выполнения в JavaScript",
+    "link": "https://dev.to/ukraintseva/this-nie-maghiia-praktichieskoie-rukovodstvo-po-kontiekstu-vypolnieniia-v-javascript-328j",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Beginner’s Guide for \"Replace Non-Coprime Numbers in Array\" (LeetCode 2197) with C++, JavaScript & Python Code",
-    "link": "https://dev.to/om_shree_0709/beginners-guide-for-replace-non-coprime-numbers-in-array-leetcode-2197-with-c-javascript--218k",
+    "title": "Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model",
+    "link": "https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to structure a Modular Monolith",
-    "link": "https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o",
+    "title": "A New Day, a New Security Attack on npm…",
+    "link": "https://dev.to/joacod/a-new-day-a-new-security-attack-on-npm-1jek",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Intelligent Document Splitting: Blank Page Detection with Dynamic Web TWAIN",
-    "link": "https://dev.to/yushulx/intelligent-document-splitting-blank-page-detection-with-dynamic-web-twain-nln",
+    "title": "Meow Mountain - postmortem of a 13KB game",
+    "link": "https://dev.to/lopis/meow-mountain-postmortem-of-a-13kb-game-5fb6",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Typescript : Generic Data Fetch",
-    "link": "https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48",
+    "title": "Using Apollo in Svelte 5",
+    "link": "https://dev.to/daniacu/using-apollo-in-svelte-5-7ke",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "React + TypeScript: async functions",
-    "link": "https://dev.to/itsmearka/react-typescript-async-functions-1307",
+    "title": "this не магия: практическое руководство по контексту выполнения в JavaScript",
+    "link": "https://dev.to/ukraintseva/this-nie-maghiia-praktichieskoie-rukovodstvo-po-kontiekstu-vypolnieniia-v-javascript-328j",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "🚀 Building a Dynamic CMS-Driven Angular App Using Optimizely & a Custom BFF Architecture",
-    "link": "https://dev.to/syed_haris/building-a-dynamic-cms-driven-angular-app-using-optimizely-a-custom-bff-architecture-5ac8",
+    "title": "Building a Full-Stack Habit Tracker-Stage 1: From Idea to Data Model",
+    "link": "https://dev.to/ariansj/building-a-full-stack-habit-tracker-stage-1-from-idea-to-data-model-4enc",
     "date": "9/16/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building Digital Identity Tools - Why We Open-Sourced Our SSI SDK",
-    "link": "https://dev.to/panche_isajeski_a526e83bc/building-digital-identity-tools-why-we-open-sourced-our-ssi-sdk-3fld",
+    "title": "A New Day, a New Security Attack on npm…",
+    "link": "https://dev.to/joacod/a-new-day-a-new-security-attack-on-npm-1jek",
     "date": "9/16/2025",
     "site": "dev.to"
-  },
-  {
-    "title": "Angular Addicts #41: Angular 20.2, Animations, Monorepos & more",
-    "link": "https://dev.to/this-is-angular/angular-addicts-41-angular-202-animations-monorepos-more-2la4",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Mouse-Responsive SVG Polygon Background with JavaScript and CSS",
-    "link": "https://dev.to/kadenwildauer/building-a-mouse-responsive-svg-polygon-background-with-javascript-and-css-206f",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Async Functions in TypeScript Always Return a Promise",
-    "link": "https://dev.to/itsmearka/why-async-functions-in-typescript-always-return-a-promise-317j",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Lifecycle of useEffect: Synchronization in React",
-    "link": "https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Beginner’s Guide for \"Replace Non-Coprime Numbers in Array\" (LeetCode 2197) with C++, JavaScript & Python Code",
-    "link": "https://dev.to/om_shree_0709/beginners-guide-for-replace-non-coprime-numbers-in-array-leetcode-2197-with-c-javascript--218k",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to structure a Modular Monolith",
-    "link": "https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Intelligent Document Splitting: Blank Page Detection with Dynamic Web TWAIN",
-    "link": "https://dev.to/yushulx/intelligent-document-splitting-blank-page-detection-with-dynamic-web-twain-nln",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript : Generic Data Fetch",
-    "link": "https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React + TypeScript: async functions",
-    "link": "https://dev.to/itsmearka/react-typescript-async-functions-1307",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Building a Dynamic CMS-Driven Angular App Using Optimizely & a Custom BFF Architecture",
-    "link": "https://dev.to/syed_haris/building-a-dynamic-cms-driven-angular-app-using-optimizely-a-custom-bff-architecture-5ac8",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Digital Identity Tools - Why We Open-Sourced Our SSI SDK",
-    "link": "https://dev.to/panche_isajeski_a526e83bc/building-digital-identity-tools-why-we-open-sourced-our-ssi-sdk-3fld",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Addicts #41: Angular 20.2, Animations, Monorepos & more",
-    "link": "https://dev.to/this-is-angular/angular-addicts-41-angular-202-animations-monorepos-more-2la4",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Mouse-Responsive SVG Polygon Background with JavaScript and CSS",
-    "link": "https://dev.to/kadenwildauer/building-a-mouse-responsive-svg-polygon-background-with-javascript-and-css-206f",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Async Functions in TypeScript Always Return a Promise",
-    "link": "https://dev.to/itsmearka/why-async-functions-in-typescript-always-return-a-promise-317j",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Lifecycle of useEffect: Synchronization in React",
-    "link": "https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Beginner’s Guide for \"Replace Non-Coprime Numbers in Array\" (LeetCode 2197) with C++, JavaScript & Python Code",
-    "link": "https://dev.to/om_shree_0709/beginners-guide-for-replace-non-coprime-numbers-in-array-leetcode-2197-with-c-javascript--218k",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to structure a Modular Monolith",
-    "link": "https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Intelligent Document Splitting: Blank Page Detection with Dynamic Web TWAIN",
-    "link": "https://dev.to/yushulx/intelligent-document-splitting-blank-page-detection-with-dynamic-web-twain-nln",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript : Generic Data Fetch",
-    "link": "https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React + TypeScript: async functions",
-    "link": "https://dev.to/itsmearka/react-typescript-async-functions-1307",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Building a Dynamic CMS-Driven Angular App Using Optimizely & a Custom BFF Architecture",
-    "link": "https://dev.to/syed_haris/building-a-dynamic-cms-driven-angular-app-using-optimizely-a-custom-bff-architecture-5ac8",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Digital Identity Tools - Why We Open-Sourced Our SSI SDK",
-    "link": "https://dev.to/panche_isajeski_a526e83bc/building-digital-identity-tools-why-we-open-sourced-our-ssi-sdk-3fld",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Angular Addicts #41: Angular 20.2, Animations, Monorepos & more",
-    "link": "https://dev.to/this-is-angular/angular-addicts-41-angular-202-animations-monorepos-more-2la4",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Mouse-Responsive SVG Polygon Background with JavaScript and CSS",
-    "link": "https://dev.to/kadenwildauer/building-a-mouse-responsive-svg-polygon-background-with-javascript-and-css-206f",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Async Functions in TypeScript Always Return a Promise",
-    "link": "https://dev.to/itsmearka/why-async-functions-in-typescript-always-return-a-promise-317j",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Lifecycle of useEffect: Synchronization in React",
-    "link": "https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Beginner’s Guide for \"Replace Non-Coprime Numbers in Array\" (LeetCode 2197) with C++, JavaScript & Python Code",
-    "link": "https://dev.to/om_shree_0709/beginners-guide-for-replace-non-coprime-numbers-in-array-leetcode-2197-with-c-javascript--218k",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to structure a Modular Monolith",
-    "link": "https://dev.to/shieldstring/how-to-structure-a-modular-monolith-110o",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Intelligent Document Splitting: Blank Page Detection with Dynamic Web TWAIN",
-    "link": "https://dev.to/yushulx/intelligent-document-splitting-blank-page-detection-with-dynamic-web-twain-nln",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Typescript : Generic Data Fetch",
-    "link": "https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48",
-    "date": "9/16/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing: @traversable/valibot",
-    "link": "https://dev.to/ahrjarrett/introducing-traversablevalibot-j3d",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The One Advice I'd Give My Past Self: Build Boring Sh*t That Sells",
-    "link": "https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why do clicks feel slow in React and how can UI feel instant?",
-    "link": "https://dev.to/ayushsrtv/why-do-clicks-feel-slow-in-react-and-how-can-ui-feel-instant-461f",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Full-Featured React Chat App in Minutes (Open-Source Starter)",
-    "link": "https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing: @traversable/valibot",
-    "link": "https://dev.to/ahrjarrett/introducing-traversablevalibot-j3d",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The One Advice I'd Give My Past Self: Build Boring Sh*t That Sells",
-    "link": "https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why do clicks feel slow in React and how can UI feel instant?",
-    "link": "https://dev.to/ayushsrtv/why-do-clicks-feel-slow-in-react-and-how-can-ui-feel-instant-461f",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Full-Featured React Chat App in Minutes (Open-Source Starter)",
-    "link": "https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing: @traversable/valibot",
-    "link": "https://dev.to/ahrjarrett/introducing-traversablevalibot-j3d",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The One Advice I'd Give My Past Self: Build Boring Sh*t That Sells",
-    "link": "https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why do clicks feel slow in React and how can UI feel instant?",
-    "link": "https://dev.to/ayushsrtv/why-do-clicks-feel-slow-in-react-and-how-can-ui-feel-instant-461f",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Full-Featured React Chat App in Minutes (Open-Source Starter)",
-    "link": "https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing: @traversable/valibot",
-    "link": "https://dev.to/ahrjarrett/introducing-traversablevalibot-j3d",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The One Advice I'd Give My Past Self: Build Boring Sh*t That Sells",
-    "link": "https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why do clicks feel slow in React and how can UI feel instant?",
-    "link": "https://dev.to/ayushsrtv/why-do-clicks-feel-slow-in-react-and-how-can-ui-feel-instant-461f",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Full-Featured React Chat App in Minutes (Open-Source Starter)",
-    "link": "https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing: @traversable/valibot",
-    "link": "https://dev.to/ahrjarrett/introducing-traversablevalibot-j3d",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The One Advice I'd Give My Past Self: Build Boring Sh*t That Sells",
-    "link": "https://dev.to/shayy/the-one-advice-id-give-my-past-self-build-boring-sht-that-sells-1209",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why do clicks feel slow in React and how can UI feel instant?",
-    "link": "https://dev.to/ayushsrtv/why-do-clicks-feel-slow-in-react-and-how-can-ui-feel-instant-461f",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Full-Featured React Chat App in Minutes (Open-Source Starter)",
-    "link": "https://dev.to/adrai/how-to-build-a-full-featured-react-chat-app-in-minutes-open-source-starter-1p0h",
-    "date": "9/15/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Power Of The Intl API: A Definitive Guide To Browser-Native Internationalization",
-    "link": "https://www.smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
-    "reading_time": "7 min read",
-    "date": "8/8/2025",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Handling JavaScript Event Listeners With Parameters",
-    "link": "https://www.smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
-    "reading_time": "5 min read",
-    "date": "7/21/2025",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
-    "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "8 min read",
-    "date": "6/11/2025",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Building An Offline-Friendly Image Upload System",
-    "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-    "reading_time": "9 min read",
-    "date": "4/23/2025",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Creating An Effective Multistep Form For Better User Experience",
-    "link": "https://www.smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
-    "reading_time": "13 min read",
-    "date": "12/3/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
-    "link": "https://www.smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
-    "reading_time": "10 min read",
-    "date": "10/7/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Generating Unique Random Numbers In JavaScript Using Sets",
-    "link": "https://www.smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
-    "reading_time": "6 min read",
-    "date": "8/26/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
-    "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-    "reading_time": "15 min read",
-    "date": "8/20/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "How To Build A Multilingual Website With Nuxt.js",
-    "link": "https://www.smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/",
-    "reading_time": "15 min read",
-    "date": "8/1/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
-    "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "11 min read",
-    "date": "6/20/2024",
-    "site": "smashingmagazine"
   },
   {
     "title": "The Era Of Platform Primitives Is Finally Here",
@@ -571,7 +501,7 @@
   {
     "title": "SolidStart: A Different Breed Of Meta-Framework",
     "link": "https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "1/8/2024",
     "site": "smashingmagazine"
   },
@@ -648,7 +578,7 @@
   {
     "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
     "link": "https://www.smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "4/21/2023",
     "site": "smashingmagazine"
   },
@@ -704,7 +634,7 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "24 min read",
+    "reading_time": "23 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
@@ -739,7 +669,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
