@@ -1,241 +1,421 @@
 [
   {
-    "title": "Jest Cheatsheets",
-    "link": "https://dev.to/cathylai/jest-101-404g",
+    "title": "A Custom Reusable Delete Confirmation Modal Hook in ReactJS.",
+    "link": "https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Magic of Client & Server Validation : How Your App Knows You Typed Your Email Wrong",
+    "link": "https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Create Classic CSS Framework 🎉 🎉",
+    "link": "https://dev.to/we-the-developers/i-create-classic-css-framework-l00",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using jszip library to decompress zip with password reports an error",
+    "link": "https://dev.to/harmonyos/using-jszip-library-to-decompress-zip-with-password-reports-an-error-1mk9",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🌍 My Journey with React Leaflet: Learning to Build an Interactive Map",
+    "link": "https://dev.to/minoosh/my-journey-with-react-leaflet-learning-to-build-an-interactive-map-ef9",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Real-Time Spreadsheet App with React, NestJS",
+    "link": "https://dev.to/steven_nguyen/how-i-built-a-collaborative-excel-sheet-app-with-react-handsontable-nestjs-graphql-and-mongodb-4ah6",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Getting Tailwind CSS Running in React and Next.js (Without the Headaches)",
+    "link": "https://dev.to/themrsami/getting-tailwind-css-running-in-react-and-nextjs-without-the-headaches-442h",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add a Live \"Who's Online\" List to Your React App in 5 Minutes",
+    "link": "https://dev.to/adrai/how-to-add-a-live-whos-online-list-to-your-react-app-in-5-minutes-2ail",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Custom Reusable Delete Confirmation Modal Hook in ReactJS.",
+    "link": "https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Magic of Client & Server Validation : How Your App Knows You Typed Your Email Wrong",
+    "link": "https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Create Classic CSS Framework 🎉 🎉",
+    "link": "https://dev.to/we-the-developers/i-create-classic-css-framework-l00",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using jszip library to decompress zip with password reports an error",
+    "link": "https://dev.to/harmonyos/using-jszip-library-to-decompress-zip-with-password-reports-an-error-1mk9",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🌍 My Journey with React Leaflet: Learning to Build an Interactive Map",
+    "link": "https://dev.to/minoosh/my-journey-with-react-leaflet-learning-to-build-an-interactive-map-ef9",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Real-Time Spreadsheet App with React, NestJS",
+    "link": "https://dev.to/steven_nguyen/how-i-built-a-collaborative-excel-sheet-app-with-react-handsontable-nestjs-graphql-and-mongodb-4ah6",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Getting Tailwind CSS Running in React and Next.js (Without the Headaches)",
+    "link": "https://dev.to/themrsami/getting-tailwind-css-running-in-react-and-nextjs-without-the-headaches-442h",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add a Live \"Who's Online\" List to Your React App in 5 Minutes",
+    "link": "https://dev.to/adrai/how-to-add-a-live-whos-online-list-to-your-react-app-in-5-minutes-2ail",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Custom Reusable Delete Confirmation Modal Hook in ReactJS.",
+    "link": "https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Magic of Client & Server Validation : How Your App Knows You Typed Your Email Wrong",
+    "link": "https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Create Classic CSS Framework 🎉 🎉",
+    "link": "https://dev.to/we-the-developers/i-create-classic-css-framework-l00",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using jszip library to decompress zip with password reports an error",
+    "link": "https://dev.to/harmonyos/using-jszip-library-to-decompress-zip-with-password-reports-an-error-1mk9",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🌍 My Journey with React Leaflet: Learning to Build an Interactive Map",
+    "link": "https://dev.to/minoosh/my-journey-with-react-leaflet-learning-to-build-an-interactive-map-ef9",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Real-Time Spreadsheet App with React, NestJS",
+    "link": "https://dev.to/steven_nguyen/how-i-built-a-collaborative-excel-sheet-app-with-react-handsontable-nestjs-graphql-and-mongodb-4ah6",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Getting Tailwind CSS Running in React and Next.js (Without the Headaches)",
+    "link": "https://dev.to/themrsami/getting-tailwind-css-running-in-react-and-nextjs-without-the-headaches-442h",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add a Live \"Who's Online\" List to Your React App in 5 Minutes",
+    "link": "https://dev.to/adrai/how-to-add-a-live-whos-online-list-to-your-react-app-in-5-minutes-2ail",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Custom Reusable Delete Confirmation Modal Hook in ReactJS.",
+    "link": "https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Magic of Client & Server Validation : How Your App Knows You Typed Your Email Wrong",
+    "link": "https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Create Classic CSS Framework 🎉 🎉",
+    "link": "https://dev.to/we-the-developers/i-create-classic-css-framework-l00",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using jszip library to decompress zip with password reports an error",
+    "link": "https://dev.to/harmonyos/using-jszip-library-to-decompress-zip-with-password-reports-an-error-1mk9",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🌍 My Journey with React Leaflet: Learning to Build an Interactive Map",
+    "link": "https://dev.to/minoosh/my-journey-with-react-leaflet-learning-to-build-an-interactive-map-ef9",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Real-Time Spreadsheet App with React, NestJS",
+    "link": "https://dev.to/steven_nguyen/how-i-built-a-collaborative-excel-sheet-app-with-react-handsontable-nestjs-graphql-and-mongodb-4ah6",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Getting Tailwind CSS Running in React and Next.js (Without the Headaches)",
+    "link": "https://dev.to/themrsami/getting-tailwind-css-running-in-react-and-nextjs-without-the-headaches-442h",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add a Live \"Who's Online\" List to Your React App in 5 Minutes",
+    "link": "https://dev.to/adrai/how-to-add-a-live-whos-online-list-to-your-react-app-in-5-minutes-2ail",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Custom Reusable Delete Confirmation Modal Hook in ReactJS.",
+    "link": "https://dev.to/raselmahmuddev/a-custom-reusable-delete-confirmation-modal-hook-in-reactjs-1gic",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Magic of Client & Server Validation : How Your App Knows You Typed Your Email Wrong",
+    "link": "https://dev.to/dshree/the-magic-of-client-server-validation-how-your-app-knows-you-typed-your-email-wrong-2a1p",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Create Classic CSS Framework 🎉 🎉",
+    "link": "https://dev.to/we-the-developers/i-create-classic-css-framework-l00",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Using jszip library to decompress zip with password reports an error",
+    "link": "https://dev.to/harmonyos/using-jszip-library-to-decompress-zip-with-password-reports-an-error-1mk9",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🌍 My Journey with React Leaflet: Learning to Build an Interactive Map",
+    "link": "https://dev.to/minoosh/my-journey-with-react-leaflet-learning-to-build-an-interactive-map-ef9",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Real-Time Spreadsheet App with React, NestJS",
+    "link": "https://dev.to/steven_nguyen/how-i-built-a-collaborative-excel-sheet-app-with-react-handsontable-nestjs-graphql-and-mongodb-4ah6",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Getting Tailwind CSS Running in React and Next.js (Without the Headaches)",
+    "link": "https://dev.to/themrsami/getting-tailwind-css-running-in-react-and-nextjs-without-the-headaches-442h",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add a Live \"Who's Online\" List to Your React App in 5 Minutes",
+    "link": "https://dev.to/adrai/how-to-add-a-live-whos-online-list-to-your-react-app-in-5-minutes-2ail",
+    "date": "10/9/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular's Edge: Unpacking 2025's Innovations & Future Trends",
+    "link": "https://dev.to/softwaredeveloper01/angulars-edge-unpacking-2025s-innovations-future-trends-494n",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "The Hidden Power of jQuery.on() — Handling Future Elements Like a Time Traveler",
-    "link": "https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i",
+    "title": "Modular Development in WebFormsJS",
+    "link": "https://dev.to/elanatframework/modular-development-in-webformsjs-4o9d",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "Why Next.js Middleware is Having an Identity Crisis",
-    "link": "https://dev.to/ronishpaudel/why-nextjs-middleware-is-having-an-identity-crisis-1207",
+    "title": "🚀 Looking for collaborators to create something truly unique. Not a startup for money — a project for meaning.",
+    "link": "https://dev.to/skyerfore/looking-for-collaborators-to-create-something-truly-unique-not-a-startup-for-money-a-project-18po",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "How I Turned My Codebase Into a Knowledge Base Using AI",
-    "link": "https://dev.to/ashford_ai/how-i-turned-my-codebase-into-a-knowledge-base-using-ai-4e6n",
+    "title": "Building a Modern Image Cropper in React with CropperJS 2.x",
+    "link": "https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Router",
-    "link": "https://dev.to/saravanan_s_0fd4b60fc6b20/react-router-nah",
+    "title": "TCJSGame Advanced Architecture: Building Scalable, Maintainable Games",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-advanced-architecture-building-scalable-maintainable-games-1c5k",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript (Datatype and variable)",
-    "link": "https://dev.to/hayesvincent14/javascript-datatype-and-variable-1no6",
+    "title": "I Built 6 Free Developer Tools — Here’s What I Learned #webdev #developers #productivity #tools #showdev",
+    "link": "https://dev.to/zamanumar52665/i-built-6-free-developer-tools-heres-what-i-learned-webdev-developers-productivity-tools-ged",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript Try...Catch Explained: A Beginner's Guide to Error Handling",
-    "link": "https://dev.to/wisdomudo/javascript-trycatch-explained-a-beginners-guide-to-error-handling-2kf6",
+    "title": "Angular's Edge: Unpacking 2025's Innovations & Future Trends",
+    "link": "https://dev.to/softwaredeveloper01/angulars-edge-unpacking-2025s-innovations-future-trends-494n",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "Streamline Your Browsing: Top CAPTCHA Solver Extensions",
-    "link": "https://dev.to/henrym14/streamline-your-browsing-top-captcha-solver-extensions-51ci",
+    "title": "Modular Development in WebFormsJS",
+    "link": "https://dev.to/elanatframework/modular-development-in-webformsjs-4o9d",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "Jest Cheatsheets",
-    "link": "https://dev.to/cathylai/jest-101-404g",
+    "title": "🚀 Looking for collaborators to create something truly unique. Not a startup for money — a project for meaning.",
+    "link": "https://dev.to/skyerfore/looking-for-collaborators-to-create-something-truly-unique-not-a-startup-for-money-a-project-18po",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "The Hidden Power of jQuery.on() — Handling Future Elements Like a Time Traveler",
-    "link": "https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i",
+    "title": "Building a Modern Image Cropper in React with CropperJS 2.x",
+    "link": "https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "Why Next.js Middleware is Having an Identity Crisis",
-    "link": "https://dev.to/ronishpaudel/why-nextjs-middleware-is-having-an-identity-crisis-1207",
+    "title": "TCJSGame Advanced Architecture: Building Scalable, Maintainable Games",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-advanced-architecture-building-scalable-maintainable-games-1c5k",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "How I Turned My Codebase Into a Knowledge Base Using AI",
-    "link": "https://dev.to/ashford_ai/how-i-turned-my-codebase-into-a-knowledge-base-using-ai-4e6n",
+    "title": "I Built 6 Free Developer Tools — Here’s What I Learned #webdev #developers #productivity #tools #showdev",
+    "link": "https://dev.to/zamanumar52665/i-built-6-free-developer-tools-heres-what-i-learned-webdev-developers-productivity-tools-ged",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Router",
-    "link": "https://dev.to/saravanan_s_0fd4b60fc6b20/react-router-nah",
+    "title": "Angular's Edge: Unpacking 2025's Innovations & Future Trends",
+    "link": "https://dev.to/softwaredeveloper01/angulars-edge-unpacking-2025s-innovations-future-trends-494n",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript (Datatype and variable)",
-    "link": "https://dev.to/hayesvincent14/javascript-datatype-and-variable-1no6",
+    "title": "Modular Development in WebFormsJS",
+    "link": "https://dev.to/elanatframework/modular-development-in-webformsjs-4o9d",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript Try...Catch Explained: A Beginner's Guide to Error Handling",
-    "link": "https://dev.to/wisdomudo/javascript-trycatch-explained-a-beginners-guide-to-error-handling-2kf6",
+    "title": "🚀 Looking for collaborators to create something truly unique. Not a startup for money — a project for meaning.",
+    "link": "https://dev.to/skyerfore/looking-for-collaborators-to-create-something-truly-unique-not-a-startup-for-money-a-project-18po",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "Streamline Your Browsing: Top CAPTCHA Solver Extensions",
-    "link": "https://dev.to/henrym14/streamline-your-browsing-top-captcha-solver-extensions-51ci",
+    "title": "Building a Modern Image Cropper in React with CropperJS 2.x",
+    "link": "https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "Jest Cheatsheets",
-    "link": "https://dev.to/cathylai/jest-101-404g",
+    "title": "TCJSGame Advanced Architecture: Building Scalable, Maintainable Games",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-advanced-architecture-building-scalable-maintainable-games-1c5k",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "The Hidden Power of jQuery.on() — Handling Future Elements Like a Time Traveler",
-    "link": "https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i",
+    "title": "I Built 6 Free Developer Tools — Here’s What I Learned #webdev #developers #productivity #tools #showdev",
+    "link": "https://dev.to/zamanumar52665/i-built-6-free-developer-tools-heres-what-i-learned-webdev-developers-productivity-tools-ged",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "Why Next.js Middleware is Having an Identity Crisis",
-    "link": "https://dev.to/ronishpaudel/why-nextjs-middleware-is-having-an-identity-crisis-1207",
+    "title": "Angular's Edge: Unpacking 2025's Innovations & Future Trends",
+    "link": "https://dev.to/softwaredeveloper01/angulars-edge-unpacking-2025s-innovations-future-trends-494n",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "How I Turned My Codebase Into a Knowledge Base Using AI",
-    "link": "https://dev.to/ashford_ai/how-i-turned-my-codebase-into-a-knowledge-base-using-ai-4e6n",
+    "title": "Modular Development in WebFormsJS",
+    "link": "https://dev.to/elanatframework/modular-development-in-webformsjs-4o9d",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Router",
-    "link": "https://dev.to/saravanan_s_0fd4b60fc6b20/react-router-nah",
+    "title": "🚀 Looking for collaborators to create something truly unique. Not a startup for money — a project for meaning.",
+    "link": "https://dev.to/skyerfore/looking-for-collaborators-to-create-something-truly-unique-not-a-startup-for-money-a-project-18po",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript (Datatype and variable)",
-    "link": "https://dev.to/hayesvincent14/javascript-datatype-and-variable-1no6",
+    "title": "Building a Modern Image Cropper in React with CropperJS 2.x",
+    "link": "https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript Try...Catch Explained: A Beginner's Guide to Error Handling",
-    "link": "https://dev.to/wisdomudo/javascript-trycatch-explained-a-beginners-guide-to-error-handling-2kf6",
+    "title": "TCJSGame Advanced Architecture: Building Scalable, Maintainable Games",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-advanced-architecture-building-scalable-maintainable-games-1c5k",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "Streamline Your Browsing: Top CAPTCHA Solver Extensions",
-    "link": "https://dev.to/henrym14/streamline-your-browsing-top-captcha-solver-extensions-51ci",
+    "title": "I Built 6 Free Developer Tools — Here’s What I Learned #webdev #developers #productivity #tools #showdev",
+    "link": "https://dev.to/zamanumar52665/i-built-6-free-developer-tools-heres-what-i-learned-webdev-developers-productivity-tools-ged",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "Jest Cheatsheets",
-    "link": "https://dev.to/cathylai/jest-101-404g",
+    "title": "Angular's Edge: Unpacking 2025's Innovations & Future Trends",
+    "link": "https://dev.to/softwaredeveloper01/angulars-edge-unpacking-2025s-innovations-future-trends-494n",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "The Hidden Power of jQuery.on() — Handling Future Elements Like a Time Traveler",
-    "link": "https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i",
+    "title": "Modular Development in WebFormsJS",
+    "link": "https://dev.to/elanatframework/modular-development-in-webformsjs-4o9d",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "Why Next.js Middleware is Having an Identity Crisis",
-    "link": "https://dev.to/ronishpaudel/why-nextjs-middleware-is-having-an-identity-crisis-1207",
+    "title": "🚀 Looking for collaborators to create something truly unique. Not a startup for money — a project for meaning.",
+    "link": "https://dev.to/skyerfore/looking-for-collaborators-to-create-something-truly-unique-not-a-startup-for-money-a-project-18po",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "How I Turned My Codebase Into a Knowledge Base Using AI",
-    "link": "https://dev.to/ashford_ai/how-i-turned-my-codebase-into-a-knowledge-base-using-ai-4e6n",
+    "title": "Building a Modern Image Cropper in React with CropperJS 2.x",
+    "link": "https://dev.to/imerljak/building-a-modern-image-cropper-in-react-with-cropperjs-2x-43b1",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Router",
-    "link": "https://dev.to/saravanan_s_0fd4b60fc6b20/react-router-nah",
+    "title": "TCJSGame Advanced Architecture: Building Scalable, Maintainable Games",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-advanced-architecture-building-scalable-maintainable-games-1c5k",
     "date": "10/8/2025",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript (Datatype and variable)",
-    "link": "https://dev.to/hayesvincent14/javascript-datatype-and-variable-1no6",
-    "date": "10/8/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Try...Catch Explained: A Beginner's Guide to Error Handling",
-    "link": "https://dev.to/wisdomudo/javascript-trycatch-explained-a-beginners-guide-to-error-handling-2kf6",
-    "date": "10/8/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streamline Your Browsing: Top CAPTCHA Solver Extensions",
-    "link": "https://dev.to/henrym14/streamline-your-browsing-top-captcha-solver-extensions-51ci",
-    "date": "10/8/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Jest Cheatsheets",
-    "link": "https://dev.to/cathylai/jest-101-404g",
-    "date": "10/8/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Hidden Power of jQuery.on() — Handling Future Elements Like a Time Traveler",
-    "link": "https://dev.to/raheelshan/the-hidden-power-of-jqueryon-handling-future-elements-like-a-time-traveler-155i",
-    "date": "10/8/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js Middleware is Having an Identity Crisis",
-    "link": "https://dev.to/ronishpaudel/why-nextjs-middleware-is-having-an-identity-crisis-1207",
-    "date": "10/8/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Turned My Codebase Into a Knowledge Base Using AI",
-    "link": "https://dev.to/ashford_ai/how-i-turned-my-codebase-into-a-knowledge-base-using-ai-4e6n",
-    "date": "10/8/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Router",
-    "link": "https://dev.to/saravanan_s_0fd4b60fc6b20/react-router-nah",
-    "date": "10/8/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript (Datatype and variable)",
-    "link": "https://dev.to/hayesvincent14/javascript-datatype-and-variable-1no6",
-    "date": "10/8/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Try...Catch Explained: A Beginner's Guide to Error Handling",
-    "link": "https://dev.to/wisdomudo/javascript-trycatch-explained-a-beginners-guide-to-error-handling-2kf6",
-    "date": "10/8/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streamline Your Browsing: Top CAPTCHA Solver Extensions",
-    "link": "https://dev.to/henrym14/streamline-your-browsing-top-captcha-solver-extensions-51ci",
+    "title": "I Built 6 Free Developer Tools — Here’s What I Learned #webdev #developers #productivity #tools #showdev",
+    "link": "https://dev.to/zamanumar52665/i-built-6-free-developer-tools-heres-what-i-learned-webdev-developers-productivity-tools-ged",
     "date": "10/8/2025",
     "site": "dev.to"
   },
@@ -246,32 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "We Fixed React's Context API: Introducing react-signal-context",
-    "link": "https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quick Debugging Techniques for Playwright Tests",
-    "link": "https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Performance: Processing 14GB Files 78% Faster with Buffer Optimization",
-    "link": "https://dev.to/pmbanugo/nodejs-performance-processing-14gb-files-78-faster-with-buffer-optimization-540i",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🤖 I Used AI to Learn React Native Deeply — So You Don’t Have To",
-    "link": "https://dev.to/asyncarijit/i-used-ai-to-learn-react-native-deeply-so-you-dont-have-to-4jpo",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Real Free GIF Generator — No Logins, No Watermarks, No Tricks",
-    "link": "https://dev.to/sysmaya/building-a-real-free-gif-generator-no-logins-no-watermarks-no-tricks-1pal",
+    "title": "Chaos-Driven Testing for Full Stack Apps: Integration Tests That Break (and Heal)",
+    "link": "https://dev.to/gkoos/chaos-driven-testing-for-full-stack-apps-integration-tests-that-break-and-heal-2ijk",
     "date": "10/7/2025",
     "site": "dev.to"
   },
@@ -282,32 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "We Fixed React's Context API: Introducing react-signal-context",
-    "link": "https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quick Debugging Techniques for Playwright Tests",
-    "link": "https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Performance: Processing 14GB Files 78% Faster with Buffer Optimization",
-    "link": "https://dev.to/pmbanugo/nodejs-performance-processing-14gb-files-78-faster-with-buffer-optimization-540i",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🤖 I Used AI to Learn React Native Deeply — So You Don’t Have To",
-    "link": "https://dev.to/asyncarijit/i-used-ai-to-learn-react-native-deeply-so-you-dont-have-to-4jpo",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Real Free GIF Generator — No Logins, No Watermarks, No Tricks",
-    "link": "https://dev.to/sysmaya/building-a-real-free-gif-generator-no-logins-no-watermarks-no-tricks-1pal",
+    "title": "Chaos-Driven Testing for Full Stack Apps: Integration Tests That Break (and Heal)",
+    "link": "https://dev.to/gkoos/chaos-driven-testing-for-full-stack-apps-integration-tests-that-break-and-heal-2ijk",
     "date": "10/7/2025",
     "site": "dev.to"
   },
@@ -315,138 +447,6 @@
     "title": "Chaos-Driven Testing for Full Stack Apps: Integration Tests That Break (and Heal)",
     "link": "https://dev.to/gkoos/chaos-driven-testing-for-full-stack-apps-integration-tests-that-break-and-heal-2ijk",
     "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Fixed React's Context API: Introducing react-signal-context",
-    "link": "https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quick Debugging Techniques for Playwright Tests",
-    "link": "https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Performance: Processing 14GB Files 78% Faster with Buffer Optimization",
-    "link": "https://dev.to/pmbanugo/nodejs-performance-processing-14gb-files-78-faster-with-buffer-optimization-540i",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🤖 I Used AI to Learn React Native Deeply — So You Don’t Have To",
-    "link": "https://dev.to/asyncarijit/i-used-ai-to-learn-react-native-deeply-so-you-dont-have-to-4jpo",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Real Free GIF Generator — No Logins, No Watermarks, No Tricks",
-    "link": "https://dev.to/sysmaya/building-a-real-free-gif-generator-no-logins-no-watermarks-no-tricks-1pal",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Chaos-Driven Testing for Full Stack Apps: Integration Tests That Break (and Heal)",
-    "link": "https://dev.to/gkoos/chaos-driven-testing-for-full-stack-apps-integration-tests-that-break-and-heal-2ijk",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Fixed React's Context API: Introducing react-signal-context",
-    "link": "https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quick Debugging Techniques for Playwright Tests",
-    "link": "https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Performance: Processing 14GB Files 78% Faster with Buffer Optimization",
-    "link": "https://dev.to/pmbanugo/nodejs-performance-processing-14gb-files-78-faster-with-buffer-optimization-540i",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🤖 I Used AI to Learn React Native Deeply — So You Don’t Have To",
-    "link": "https://dev.to/asyncarijit/i-used-ai-to-learn-react-native-deeply-so-you-dont-have-to-4jpo",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Real Free GIF Generator — No Logins, No Watermarks, No Tricks",
-    "link": "https://dev.to/sysmaya/building-a-real-free-gif-generator-no-logins-no-watermarks-no-tricks-1pal",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Chaos-Driven Testing for Full Stack Apps: Integration Tests That Break (and Heal)",
-    "link": "https://dev.to/gkoos/chaos-driven-testing-for-full-stack-apps-integration-tests-that-break-and-heal-2ijk",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Fixed React's Context API: Introducing react-signal-context",
-    "link": "https://dev.to/pinniola/we-fixed-reacts-context-api-introducing-react-signal-context-10fh",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quick Debugging Techniques for Playwright Tests",
-    "link": "https://dev.to/pranav_bharti/quick-debugging-techniques-for-playwright-tests-17kg",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Performance: Processing 14GB Files 78% Faster with Buffer Optimization",
-    "link": "https://dev.to/pmbanugo/nodejs-performance-processing-14gb-files-78-faster-with-buffer-optimization-540i",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🤖 I Used AI to Learn React Native Deeply — So You Don’t Have To",
-    "link": "https://dev.to/asyncarijit/i-used-ai-to-learn-react-native-deeply-so-you-dont-have-to-4jpo",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Real Free GIF Generator — No Logins, No Watermarks, No Tricks",
-    "link": "https://dev.to/sysmaya/building-a-real-free-gif-generator-no-logins-no-watermarks-no-tricks-1pal",
-    "date": "10/7/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Discord Webhook Manager: The Smarter Way to Handle Discord Announcements",
-    "link": "https://dev.to/ctrix/discord-webhook-manager-the-smarter-way-to-handle-discord-announcements-3o1g",
-    "date": "10/6/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Discord Webhook Manager: The Smarter Way to Handle Discord Announcements",
-    "link": "https://dev.to/ctrix/discord-webhook-manager-the-smarter-way-to-handle-discord-announcements-3o1g",
-    "date": "10/6/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Discord Webhook Manager: The Smarter Way to Handle Discord Announcements",
-    "link": "https://dev.to/ctrix/discord-webhook-manager-the-smarter-way-to-handle-discord-announcements-3o1g",
-    "date": "10/6/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Discord Webhook Manager: The Smarter Way to Handle Discord Announcements",
-    "link": "https://dev.to/ctrix/discord-webhook-manager-the-smarter-way-to-handle-discord-announcements-3o1g",
-    "date": "10/6/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Discord Webhook Manager: The Smarter Way to Handle Discord Announcements",
-    "link": "https://dev.to/ctrix/discord-webhook-manager-the-smarter-way-to-handle-discord-announcements-3o1g",
-    "date": "10/6/2025",
     "site": "dev.to"
   },
   {
@@ -501,7 +501,7 @@
   {
     "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
     "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "8/20/2024",
     "site": "smashingmagazine"
   },
@@ -517,76 +517,6 @@
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
     "reading_time": "11 min read",
     "date": "6/20/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The Era Of Platform Primitives Is Finally Here",
-    "link": "https://www.smashingmagazine.com/2024/05/netlify-platform-primitives/",
-    "reading_time": "8 min read",
-    "date": "5/28/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The Forensics Of React Server Components (RSCs)",
-    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
-    "reading_time": "24 min read",
-    "date": "5/9/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Converting Plain Text To Encoded HTML With Vanilla JavaScript",
-    "link": "https://www.smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
-    "reading_time": "16 min read",
-    "date": "4/17/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
-    "link": "https://www.smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
-    "reading_time": "9 min read",
-    "date": "3/25/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The End Of My Gatsby Journey",
-    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "16 min read",
-    "date": "3/6/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
-    "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "10 min read",
-    "date": "2/22/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
-    "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "22 min read",
-    "date": "2/7/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "SolidStart: A Different Breed Of Meta-Framework",
-    "link": "https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-    "reading_time": "8 min read",
-    "date": "1/8/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Making Sense Of “Senseless” JavaScript Features",
-    "link": "https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
-    "reading_time": "14 min read",
-    "date": "12/28/2023",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "How Marketing Changed OOP In JavaScript",
-    "link": "https://www.smashingmagazine.com/2023/12/marketing-changed-oop-javascript/",
-    "reading_time": "19 min read",
-    "date": "12/4/2023",
     "site": "smashingmagazine"
   },
   {
@@ -648,7 +578,7 @@
   {
     "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
     "link": "https://www.smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "4/21/2023",
     "site": "smashingmagazine"
   },
@@ -725,7 +655,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "8 min read",
+    "reading_time": "7 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
@@ -795,7 +725,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   }
