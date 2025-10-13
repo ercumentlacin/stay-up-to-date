@@ -1,121 +1,421 @@
 [
   {
-    "title": "ถ้าข้อมูลเปลี่ยนบ่อยใน useAsyncData — ควรจัดการยังไงดี? ⚡",
-    "link": "https://dev.to/tanaratsudjai/thaakhmuulepliiynbyain-useasyncdata-khwrcchadkaaryangaingdii-5hm2",
+    "title": "Magic: The Gathering Explained With JavaScript Classes",
+    "link": "https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The <template> Tag: A core HTML Feature That Simplified My JS",
+    "link": "https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`",
+    "link": "https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧩 Cómo solucionar problemas de integridad en dependencias de Node.js",
+    "link": "https://dev.to/untalsanders/como-solucionar-problemas-de-integridad-en-dependencias-de-nodejs-2p1d",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Native Overview",
+    "link": "https://dev.to/nouribram/react-native-overview-2lc7",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Magic: The Gathering Explained With JavaScript Classes",
+    "link": "https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The <template> Tag: A core HTML Feature That Simplified My JS",
+    "link": "https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`",
+    "link": "https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧩 Cómo solucionar problemas de integridad en dependencias de Node.js",
+    "link": "https://dev.to/untalsanders/como-solucionar-problemas-de-integridad-en-dependencias-de-nodejs-2p1d",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Native Overview",
+    "link": "https://dev.to/nouribram/react-native-overview-2lc7",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Magic: The Gathering Explained With JavaScript Classes",
+    "link": "https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The <template> Tag: A core HTML Feature That Simplified My JS",
+    "link": "https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`",
+    "link": "https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧩 Cómo solucionar problemas de integridad en dependencias de Node.js",
+    "link": "https://dev.to/untalsanders/como-solucionar-problemas-de-integridad-en-dependencias-de-nodejs-2p1d",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Native Overview",
+    "link": "https://dev.to/nouribram/react-native-overview-2lc7",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Magic: The Gathering Explained With JavaScript Classes",
+    "link": "https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The <template> Tag: A core HTML Feature That Simplified My JS",
+    "link": "https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`",
+    "link": "https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧩 Cómo solucionar problemas de integridad en dependencias de Node.js",
+    "link": "https://dev.to/untalsanders/como-solucionar-problemas-de-integridad-en-dependencias-de-nodejs-2p1d",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Native Overview",
+    "link": "https://dev.to/nouribram/react-native-overview-2lc7",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Magic: The Gathering Explained With JavaScript Classes",
+    "link": "https://dev.to/joespaf/magic-the-gathering-explained-with-javascript-classes-3d2",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The <template> Tag: A core HTML Feature That Simplified My JS",
+    "link": "https://dev.to/richa-parekh/the-tag-a-core-html-feature-that-simplified-my-js-3m1o",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "TCJSgame Pro: The Ultimate JavaScript Game Engine Evolution",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-pro-the-ultimate-javascript-game-engine-evolution-1mlh",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The CSS Style Dilemma -When to Use `rem`, `em`, `px`, and `%`",
+    "link": "https://dev.to/stepheninfanto/the-css-style-dilemma-when-to-use-rem-em-px-and--3d23",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧩 Cómo solucionar problemas de integridad en dependencias de Node.js",
+    "link": "https://dev.to/untalsanders/como-solucionar-problemas-de-integridad-en-dependencias-de-nodejs-2p1d",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Native Overview",
+    "link": "https://dev.to/nouribram/react-native-overview-2lc7",
+    "date": "10/13/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚦 What is Throttling in JavaScript?",
+    "link": "https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "Ballerina vs Node.js: Building Modern APIs (Plus macOS Setup Tips)",
-    "link": "https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k",
+    "title": "🚨If You Have an npm Package, Read This Before November 2025",
+    "link": "https://dev.to/hichemtab-tech/if-you-have-an-npm-package-read-this-before-november-2025-525h",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "Pusher Composables - حل شامل للمحادثات والإشعارات الفورية",
-    "link": "https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j",
+    "title": "Why typeof null === object",
+    "link": "https://dev.to/piotr_zarycki_fe062ceaa4c/why-typeof-null-object-4bho",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming",
-    "link": "https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg",
+    "title": "Supercharge Your Bun Workflow with bun-tasks",
+    "link": "https://dev.to/gxy_gomi_316f14abb66c18e9/supercharge-your-bun-workflow-with-bun-tasks-4lp2",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "ถ้าข้อมูลเปลี่ยนบ่อยใน useAsyncData — ควรจัดการยังไงดี? ⚡",
-    "link": "https://dev.to/tanaratsudjai/thaakhmuulepliiynbyain-useasyncdata-khwrcchadkaaryangaingdii-5hm2",
+    "title": "Understanding Garbage Collection in JavaScript",
+    "link": "https://dev.to/md_isfaruddin_65557809e/understanding-garbage-collection-in-javascript-3p1a",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "Ballerina vs Node.js: Building Modern APIs (Plus macOS Setup Tips)",
-    "link": "https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k",
+    "title": "The React Suspense Composable Streaming Trick For Improved User Experience",
+    "link": "https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "Pusher Composables - حل شامل للمحادثات والإشعارات الفورية",
-    "link": "https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j",
+    "title": "Como criar um menu hambúrguer acessível com a \"armadilha de foco\" (Focus Trap)",
+    "link": "https://dev.to/carol8fml/como-criar-um-menu-hamburguer-acessivel-com-a-armadilha-de-foco-focus-trap-2l5i",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming",
-    "link": "https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg",
+    "title": "Understanding React Hooks: Simplifying State and Logic (Without Losing Your Mind)",
+    "link": "https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "ถ้าข้อมูลเปลี่ยนบ่อยใน useAsyncData — ควรจัดการยังไงดี? ⚡",
-    "link": "https://dev.to/tanaratsudjai/thaakhmuulepliiynbyain-useasyncdata-khwrcchadkaaryangaingdii-5hm2",
+    "title": "🚦 What is Throttling in JavaScript?",
+    "link": "https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "Ballerina vs Node.js: Building Modern APIs (Plus macOS Setup Tips)",
-    "link": "https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k",
+    "title": "🚨If You Have an npm Package, Read This Before November 2025",
+    "link": "https://dev.to/hichemtab-tech/if-you-have-an-npm-package-read-this-before-november-2025-525h",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "Pusher Composables - حل شامل للمحادثات والإشعارات الفورية",
-    "link": "https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j",
+    "title": "Why typeof null === object",
+    "link": "https://dev.to/piotr_zarycki_fe062ceaa4c/why-typeof-null-object-4bho",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming",
-    "link": "https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg",
+    "title": "Supercharge Your Bun Workflow with bun-tasks",
+    "link": "https://dev.to/gxy_gomi_316f14abb66c18e9/supercharge-your-bun-workflow-with-bun-tasks-4lp2",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "ถ้าข้อมูลเปลี่ยนบ่อยใน useAsyncData — ควรจัดการยังไงดี? ⚡",
-    "link": "https://dev.to/tanaratsudjai/thaakhmuulepliiynbyain-useasyncdata-khwrcchadkaaryangaingdii-5hm2",
+    "title": "Understanding Garbage Collection in JavaScript",
+    "link": "https://dev.to/md_isfaruddin_65557809e/understanding-garbage-collection-in-javascript-3p1a",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "Ballerina vs Node.js: Building Modern APIs (Plus macOS Setup Tips)",
-    "link": "https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k",
+    "title": "The React Suspense Composable Streaming Trick For Improved User Experience",
+    "link": "https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "Pusher Composables - حل شامل للمحادثات والإشعارات الفورية",
-    "link": "https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j",
+    "title": "Como criar um menu hambúrguer acessível com a \"armadilha de foco\" (Focus Trap)",
+    "link": "https://dev.to/carol8fml/como-criar-um-menu-hamburguer-acessivel-com-a-armadilha-de-foco-focus-trap-2l5i",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming",
-    "link": "https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg",
+    "title": "Understanding React Hooks: Simplifying State and Logic (Without Losing Your Mind)",
+    "link": "https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "ถ้าข้อมูลเปลี่ยนบ่อยใน useAsyncData — ควรจัดการยังไงดี? ⚡",
-    "link": "https://dev.to/tanaratsudjai/thaakhmuulepliiynbyain-useasyncdata-khwrcchadkaaryangaingdii-5hm2",
+    "title": "🚦 What is Throttling in JavaScript?",
+    "link": "https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "Ballerina vs Node.js: Building Modern APIs (Plus macOS Setup Tips)",
-    "link": "https://dev.to/morningstarxcdcode/ballerina-vs-nodejs-building-modern-apis-plus-macos-setup-tips-582k",
+    "title": "🚨If You Have an npm Package, Read This Before November 2025",
+    "link": "https://dev.to/hichemtab-tech/if-you-have-an-npm-package-read-this-before-november-2025-525h",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "Pusher Composables - حل شامل للمحادثات والإشعارات الفورية",
-    "link": "https://dev.to/ahmed_niazy/pusher-composables-hl-shml-llmhdtht-wlshrt-lfwry-i4j",
+    "title": "Why typeof null === object",
+    "link": "https://dev.to/piotr_zarycki_fe062ceaa4c/why-typeof-null-object-4bho",
     "date": "10/12/2025",
     "site": "dev.to"
   },
   {
-    "title": "From Callbacks to Promises: A Beginner’s Guide to Modern JavaScript Async Programming",
-    "link": "https://dev.to/wisdomudo/from-callbacks-to-promises-a-beginners-guide-to-modern-javascript-async-programming-28kg",
+    "title": "Supercharge Your Bun Workflow with bun-tasks",
+    "link": "https://dev.to/gxy_gomi_316f14abb66c18e9/supercharge-your-bun-workflow-with-bun-tasks-4lp2",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Garbage Collection in JavaScript",
+    "link": "https://dev.to/md_isfaruddin_65557809e/understanding-garbage-collection-in-javascript-3p1a",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The React Suspense Composable Streaming Trick For Improved User Experience",
+    "link": "https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Como criar um menu hambúrguer acessível com a \"armadilha de foco\" (Focus Trap)",
+    "link": "https://dev.to/carol8fml/como-criar-um-menu-hamburguer-acessivel-com-a-armadilha-de-foco-focus-trap-2l5i",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding React Hooks: Simplifying State and Logic (Without Losing Your Mind)",
+    "link": "https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚦 What is Throttling in JavaScript?",
+    "link": "https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚨If You Have an npm Package, Read This Before November 2025",
+    "link": "https://dev.to/hichemtab-tech/if-you-have-an-npm-package-read-this-before-november-2025-525h",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why typeof null === object",
+    "link": "https://dev.to/piotr_zarycki_fe062ceaa4c/why-typeof-null-object-4bho",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supercharge Your Bun Workflow with bun-tasks",
+    "link": "https://dev.to/gxy_gomi_316f14abb66c18e9/supercharge-your-bun-workflow-with-bun-tasks-4lp2",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Garbage Collection in JavaScript",
+    "link": "https://dev.to/md_isfaruddin_65557809e/understanding-garbage-collection-in-javascript-3p1a",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The React Suspense Composable Streaming Trick For Improved User Experience",
+    "link": "https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Como criar um menu hambúrguer acessível com a \"armadilha de foco\" (Focus Trap)",
+    "link": "https://dev.to/carol8fml/como-criar-um-menu-hamburguer-acessivel-com-a-armadilha-de-foco-focus-trap-2l5i",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding React Hooks: Simplifying State and Logic (Without Losing Your Mind)",
+    "link": "https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚦 What is Throttling in JavaScript?",
+    "link": "https://dev.to/saurav_dev_2022/what-is-throttling-in-javascript-4i4e",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚨If You Have an npm Package, Read This Before November 2025",
+    "link": "https://dev.to/hichemtab-tech/if-you-have-an-npm-package-read-this-before-november-2025-525h",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why typeof null === object",
+    "link": "https://dev.to/piotr_zarycki_fe062ceaa4c/why-typeof-null-object-4bho",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supercharge Your Bun Workflow with bun-tasks",
+    "link": "https://dev.to/gxy_gomi_316f14abb66c18e9/supercharge-your-bun-workflow-with-bun-tasks-4lp2",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Garbage Collection in JavaScript",
+    "link": "https://dev.to/md_isfaruddin_65557809e/understanding-garbage-collection-in-javascript-3p1a",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The React Suspense Composable Streaming Trick For Improved User Experience",
+    "link": "https://dev.to/gouranga-das-khulna/the-react-suspense-composable-streaming-trick-for-improved-user-experience-1mb3",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Como criar um menu hambúrguer acessível com a \"armadilha de foco\" (Focus Trap)",
+    "link": "https://dev.to/carol8fml/como-criar-um-menu-hamburguer-acessivel-com-a-armadilha-de-foco-focus-trap-2l5i",
+    "date": "10/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding React Hooks: Simplifying State and Logic (Without Losing Your Mind)",
+    "link": "https://dev.to/aryan_jain/understanding-react-hooks-simplifying-state-and-logic-without-losing-your-mind-10pj",
     "date": "10/12/2025",
     "site": "dev.to"
   },
@@ -126,62 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Securing Your Frontend: The Art of Crafting a Digital Fortress",
-    "link": "https://dev.to/alex_aslam/securing-your-frontend-the-art-of-crafting-a-digital-fortress-56a7",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Optimizing for Perceived Performance: The Psychology Behind Fast UIs",
-    "link": "https://dev.to/maurya-sachin/optimizing-for-perceived-performance-the-psychology-behind-fast-uis-4c11",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks & Performance Concepts",
-    "link": "https://dev.to/yashi_srivastava_9166487c/react-hooks-performance-concepts-3blf",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Infinite Circular Motion Animation in CSS and JS with Lightbox",
-    "link": "https://dev.to/prahalad/infinite-circular-motion-animation-in-css-and-js-592a",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🧠 How to Optimize Search in JavaScript with Debouncing",
-    "link": "https://dev.to/saurav_dev_2022/how-to-optimize-search-in-javascript-with-debouncing-14cl",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Missed document.currentScript for Years: Here’s Why You Shouldn’t",
-    "link": "https://dev.to/gouranga-das-khulna/i-missed-documentcurrentscript-for-years-heres-why-you-shouldnt-1l5p",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Listen First, Code Later: Case Study of a Dental App",
-    "link": "https://dev.to/zendev2112/listen-first-code-later-case-study-of-a-dental-app-1d74",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Linux Command Using Ubuntu terminal environment.",
-    "link": "https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Look How I Created Animated Generic Modal (Next.js, Zustand, Motion)",
-    "link": "https://dev.to/harish_kumar_20cdaccf4610/look-how-i-created-animated-generic-modal-nextjs-zustand-motion-3kb8",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "online",
-    "link": "https://dev.to/jodie_farghly_26214dcc8c0/online-4gh3",
+    "title": "Hemi the Cat Concierge: Building a Personality-Driven AI for Formant",
+    "link": "https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago",
     "date": "10/11/2025",
     "site": "dev.to"
   },
@@ -192,260 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Securing Your Frontend: The Art of Crafting a Digital Fortress",
-    "link": "https://dev.to/alex_aslam/securing-your-frontend-the-art-of-crafting-a-digital-fortress-56a7",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Optimizing for Perceived Performance: The Psychology Behind Fast UIs",
-    "link": "https://dev.to/maurya-sachin/optimizing-for-perceived-performance-the-psychology-behind-fast-uis-4c11",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks & Performance Concepts",
-    "link": "https://dev.to/yashi_srivastava_9166487c/react-hooks-performance-concepts-3blf",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Infinite Circular Motion Animation in CSS and JS with Lightbox",
-    "link": "https://dev.to/prahalad/infinite-circular-motion-animation-in-css-and-js-592a",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🧠 How to Optimize Search in JavaScript with Debouncing",
-    "link": "https://dev.to/saurav_dev_2022/how-to-optimize-search-in-javascript-with-debouncing-14cl",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Missed document.currentScript for Years: Here’s Why You Shouldn’t",
-    "link": "https://dev.to/gouranga-das-khulna/i-missed-documentcurrentscript-for-years-heres-why-you-shouldnt-1l5p",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Listen First, Code Later: Case Study of a Dental App",
-    "link": "https://dev.to/zendev2112/listen-first-code-later-case-study-of-a-dental-app-1d74",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Linux Command Using Ubuntu terminal environment.",
-    "link": "https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Look How I Created Animated Generic Modal (Next.js, Zustand, Motion)",
-    "link": "https://dev.to/harish_kumar_20cdaccf4610/look-how-i-created-animated-generic-modal-nextjs-zustand-motion-3kb8",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "online",
-    "link": "https://dev.to/jodie_farghly_26214dcc8c0/online-4gh3",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
     "title": "Hemi the Cat Concierge: Building a Personality-Driven AI for Formant",
     "link": "https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago",
     "date": "10/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Securing Your Frontend: The Art of Crafting a Digital Fortress",
-    "link": "https://dev.to/alex_aslam/securing-your-frontend-the-art-of-crafting-a-digital-fortress-56a7",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Optimizing for Perceived Performance: The Psychology Behind Fast UIs",
-    "link": "https://dev.to/maurya-sachin/optimizing-for-perceived-performance-the-psychology-behind-fast-uis-4c11",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks & Performance Concepts",
-    "link": "https://dev.to/yashi_srivastava_9166487c/react-hooks-performance-concepts-3blf",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Infinite Circular Motion Animation in CSS and JS with Lightbox",
-    "link": "https://dev.to/prahalad/infinite-circular-motion-animation-in-css-and-js-592a",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🧠 How to Optimize Search in JavaScript with Debouncing",
-    "link": "https://dev.to/saurav_dev_2022/how-to-optimize-search-in-javascript-with-debouncing-14cl",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Missed document.currentScript for Years: Here’s Why You Shouldn’t",
-    "link": "https://dev.to/gouranga-das-khulna/i-missed-documentcurrentscript-for-years-heres-why-you-shouldnt-1l5p",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Listen First, Code Later: Case Study of a Dental App",
-    "link": "https://dev.to/zendev2112/listen-first-code-later-case-study-of-a-dental-app-1d74",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Linux Command Using Ubuntu terminal environment.",
-    "link": "https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Look How I Created Animated Generic Modal (Next.js, Zustand, Motion)",
-    "link": "https://dev.to/harish_kumar_20cdaccf4610/look-how-i-created-animated-generic-modal-nextjs-zustand-motion-3kb8",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "online",
-    "link": "https://dev.to/jodie_farghly_26214dcc8c0/online-4gh3",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
     "title": "Hemi the Cat Concierge: Building a Personality-Driven AI for Formant",
     "link": "https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Your Frontend: The Art of Crafting a Digital Fortress",
-    "link": "https://dev.to/alex_aslam/securing-your-frontend-the-art-of-crafting-a-digital-fortress-56a7",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Optimizing for Perceived Performance: The Psychology Behind Fast UIs",
-    "link": "https://dev.to/maurya-sachin/optimizing-for-perceived-performance-the-psychology-behind-fast-uis-4c11",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks & Performance Concepts",
-    "link": "https://dev.to/yashi_srivastava_9166487c/react-hooks-performance-concepts-3blf",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Infinite Circular Motion Animation in CSS and JS with Lightbox",
-    "link": "https://dev.to/prahalad/infinite-circular-motion-animation-in-css-and-js-592a",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🧠 How to Optimize Search in JavaScript with Debouncing",
-    "link": "https://dev.to/saurav_dev_2022/how-to-optimize-search-in-javascript-with-debouncing-14cl",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Missed document.currentScript for Years: Here’s Why You Shouldn’t",
-    "link": "https://dev.to/gouranga-das-khulna/i-missed-documentcurrentscript-for-years-heres-why-you-shouldnt-1l5p",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Listen First, Code Later: Case Study of a Dental App",
-    "link": "https://dev.to/zendev2112/listen-first-code-later-case-study-of-a-dental-app-1d74",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Linux Command Using Ubuntu terminal environment.",
-    "link": "https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Look How I Created Animated Generic Modal (Next.js, Zustand, Motion)",
-    "link": "https://dev.to/harish_kumar_20cdaccf4610/look-how-i-created-animated-generic-modal-nextjs-zustand-motion-3kb8",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "online",
-    "link": "https://dev.to/jodie_farghly_26214dcc8c0/online-4gh3",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hemi the Cat Concierge: Building a Personality-Driven AI for Formant",
-    "link": "https://dev.to/formantaudio/hemi-the-cat-concierge-building-a-personality-driven-ai-for-formant-1ago",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Your Frontend: The Art of Crafting a Digital Fortress",
-    "link": "https://dev.to/alex_aslam/securing-your-frontend-the-art-of-crafting-a-digital-fortress-56a7",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Optimizing for Perceived Performance: The Psychology Behind Fast UIs",
-    "link": "https://dev.to/maurya-sachin/optimizing-for-perceived-performance-the-psychology-behind-fast-uis-4c11",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Hooks & Performance Concepts",
-    "link": "https://dev.to/yashi_srivastava_9166487c/react-hooks-performance-concepts-3blf",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Infinite Circular Motion Animation in CSS and JS with Lightbox",
-    "link": "https://dev.to/prahalad/infinite-circular-motion-animation-in-css-and-js-592a",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "🧠 How to Optimize Search in JavaScript with Debouncing",
-    "link": "https://dev.to/saurav_dev_2022/how-to-optimize-search-in-javascript-with-debouncing-14cl",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Missed document.currentScript for Years: Here’s Why You Shouldn’t",
-    "link": "https://dev.to/gouranga-das-khulna/i-missed-documentcurrentscript-for-years-heres-why-you-shouldnt-1l5p",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Listen First, Code Later: Case Study of a Dental App",
-    "link": "https://dev.to/zendev2112/listen-first-code-later-case-study-of-a-dental-app-1d74",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Basic Linux Command Using Ubuntu terminal environment.",
-    "link": "https://dev.to/onyemuche/basic-linux-command-using-ubuntu-terminal-environment-iie",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Look How I Created Animated Generic Modal (Next.js, Zustand, Motion)",
-    "link": "https://dev.to/harish_kumar_20cdaccf4610/look-how-i-created-animated-generic-modal-nextjs-zustand-motion-3kb8",
-    "date": "10/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "online",
-    "link": "https://dev.to/jodie_farghly_26214dcc8c0/online-4gh3",
     "date": "10/11/2025",
     "site": "dev.to"
   },
@@ -725,7 +725,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "7 min read",
+    "reading_time": "8 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
@@ -739,7 +739,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
