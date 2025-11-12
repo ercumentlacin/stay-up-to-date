@@ -1,73 +1,367 @@
 [
   {
-    "title": "Building a Real-Time Chat App with WebSockets",
-    "link": "https://dev.to/mikeodnis/building-a-real-time-chat-app-with-websockets-3k6f",
+    "title": "Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️",
+    "link": "https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-j5p",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 19.2: React in its sigma era",
+    "link": "https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks for Library Authors",
+    "link": "https://dev.to/ctrix/react-hooks-for-library-authors-7ko",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fighting Framework Jank (What's Not in the Docs)",
+    "link": "https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️",
+    "link": "https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-35cp",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "OKL: The Little Prince’s Starry Power Keepers",
+    "link": "https://dev.to/ersajay/okl-the-little-princes-starry-power-keepers-3m2a",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JavaScript is Your Business’s Secret Weapon for Interactive Websites",
+    "link": "https://dev.to/patoliyainfotech/why-javascript-is-your-businesss-secret-weapon-for-interactive-websites-41hi",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️",
+    "link": "https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-j5p",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 19.2: React in its sigma era",
+    "link": "https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks for Library Authors",
+    "link": "https://dev.to/ctrix/react-hooks-for-library-authors-7ko",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fighting Framework Jank (What's Not in the Docs)",
+    "link": "https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️",
+    "link": "https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-35cp",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "OKL: The Little Prince’s Starry Power Keepers",
+    "link": "https://dev.to/ersajay/okl-the-little-princes-starry-power-keepers-3m2a",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JavaScript is Your Business’s Secret Weapon for Interactive Websites",
+    "link": "https://dev.to/patoliyainfotech/why-javascript-is-your-businesss-secret-weapon-for-interactive-websites-41hi",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️",
+    "link": "https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-j5p",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 19.2: React in its sigma era",
+    "link": "https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks for Library Authors",
+    "link": "https://dev.to/ctrix/react-hooks-for-library-authors-7ko",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fighting Framework Jank (What's Not in the Docs)",
+    "link": "https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️",
+    "link": "https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-35cp",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "OKL: The Little Prince’s Starry Power Keepers",
+    "link": "https://dev.to/ersajay/okl-the-little-princes-starry-power-keepers-3m2a",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JavaScript is Your Business’s Secret Weapon for Interactive Websites",
+    "link": "https://dev.to/patoliyainfotech/why-javascript-is-your-businesss-secret-weapon-for-interactive-websites-41hi",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️",
+    "link": "https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-j5p",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 19.2: React in its sigma era",
+    "link": "https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks for Library Authors",
+    "link": "https://dev.to/ctrix/react-hooks-for-library-authors-7ko",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fighting Framework Jank (What's Not in the Docs)",
+    "link": "https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️",
+    "link": "https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-35cp",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "OKL: The Little Prince’s Starry Power Keepers",
+    "link": "https://dev.to/ersajay/okl-the-little-princes-starry-power-keepers-3m2a",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JavaScript is Your Business’s Secret Weapon for Interactive Websites",
+    "link": "https://dev.to/patoliyainfotech/why-javascript-is-your-businesss-secret-weapon-for-interactive-websites-41hi",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️",
+    "link": "https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-j5p",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React 19.2: React in its sigma era",
+    "link": "https://dev.to/sagi0312/react-192-react-in-its-sigma-era-op7",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks for Library Authors",
+    "link": "https://dev.to/ctrix/react-hooks-for-library-authors-7ko",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fighting Framework Jank (What's Not in the Docs)",
+    "link": "https://dev.to/michaelsolati/fighting-framework-jank-whats-not-in-the-docs-mj5",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Atomic State Management in React: Zustand vs Jotai vs Recoil ⚛️",
+    "link": "https://dev.to/taronvardanyan/atomic-state-management-in-react-zustand-vs-jotai-vs-recoil-35cp",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "OKL: The Little Prince’s Starry Power Keepers",
+    "link": "https://dev.to/ersajay/okl-the-little-princes-starry-power-keepers-3m2a",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JavaScript is Your Business’s Secret Weapon for Interactive Websites",
+    "link": "https://dev.to/patoliyainfotech/why-javascript-is-your-businesss-secret-weapon-for-interactive-websites-41hi",
+    "date": "11/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Grew My Open-Source Japanese Learning Platform to 10k Monthly Users and 640+ GitHub Stars (as a Solo Dev and Student)",
+    "link": "https://dev.to/tentoumushi/how-i-grew-my-open-source-japanese-learning-platform-to-10k-monthly-users-and-640-github-stars-as-56f",
     "date": "11/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to write generic components (React, Vue)",
-    "link": "https://dev.to/zz_oo_b49409b43e3e42b0457/how-to-write-generic-components-react-vue-pao",
+    "title": "Google Maps Routes API: Passing the 25 Waypoint Limit",
+    "link": "https://dev.to/dannyhodge/google-maps-routes-api-passing-the-25-waypoint-limit-3m0",
     "date": "11/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building a Real-Time Chat App with WebSockets",
-    "link": "https://dev.to/mikeodnis/building-a-real-time-chat-app-with-websockets-3k6f",
+    "title": "How Good Are Accessibility Linters? A Practical Test of React, Vue, and Angular",
+    "link": "https://dev.to/yagho/how-good-are-accessibility-linters-a-practical-test-of-react-vue-and-angular-1mk7",
     "date": "11/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to write generic components (React, Vue)",
-    "link": "https://dev.to/zz_oo_b49409b43e3e42b0457/how-to-write-generic-components-react-vue-pao",
+    "title": "How to use React with a VSCode webview.",
+    "link": "https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58",
     "date": "11/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building a Real-Time Chat App with WebSockets",
-    "link": "https://dev.to/mikeodnis/building-a-real-time-chat-app-with-websockets-3k6f",
+    "title": "Kickstart Your Dev Projects: Free Starter Kit with Portfolio Templates & Frontend Dashboard",
+    "link": "https://dev.to/lotfijb/kickstart-your-dev-projects-free-starter-kit-with-portfolio-templates-frontend-dashboard-4eh7",
     "date": "11/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to write generic components (React, Vue)",
-    "link": "https://dev.to/zz_oo_b49409b43e3e42b0457/how-to-write-generic-components-react-vue-pao",
+    "title": "How I Grew My Open-Source Japanese Learning Platform to 10k Monthly Users and 640+ GitHub Stars (as a Solo Dev and Student)",
+    "link": "https://dev.to/tentoumushi/how-i-grew-my-open-source-japanese-learning-platform-to-10k-monthly-users-and-640-github-stars-as-56f",
     "date": "11/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building a Real-Time Chat App with WebSockets",
-    "link": "https://dev.to/mikeodnis/building-a-real-time-chat-app-with-websockets-3k6f",
+    "title": "Google Maps Routes API: Passing the 25 Waypoint Limit",
+    "link": "https://dev.to/dannyhodge/google-maps-routes-api-passing-the-25-waypoint-limit-3m0",
     "date": "11/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to write generic components (React, Vue)",
-    "link": "https://dev.to/zz_oo_b49409b43e3e42b0457/how-to-write-generic-components-react-vue-pao",
+    "title": "How Good Are Accessibility Linters? A Practical Test of React, Vue, and Angular",
+    "link": "https://dev.to/yagho/how-good-are-accessibility-linters-a-practical-test-of-react-vue-and-angular-1mk7",
     "date": "11/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building a Real-Time Chat App with WebSockets",
-    "link": "https://dev.to/mikeodnis/building-a-real-time-chat-app-with-websockets-3k6f",
+    "title": "How to use React with a VSCode webview.",
+    "link": "https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58",
     "date": "11/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to write generic components (React, Vue)",
-    "link": "https://dev.to/zz_oo_b49409b43e3e42b0457/how-to-write-generic-components-react-vue-pao",
+    "title": "Kickstart Your Dev Projects: Free Starter Kit with Portfolio Templates & Frontend Dashboard",
+    "link": "https://dev.to/lotfijb/kickstart-your-dev-projects-free-starter-kit-with-portfolio-templates-frontend-dashboard-4eh7",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Grew My Open-Source Japanese Learning Platform to 10k Monthly Users and 640+ GitHub Stars (as a Solo Dev and Student)",
+    "link": "https://dev.to/tentoumushi/how-i-grew-my-open-source-japanese-learning-platform-to-10k-monthly-users-and-640-github-stars-as-56f",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Maps Routes API: Passing the 25 Waypoint Limit",
+    "link": "https://dev.to/dannyhodge/google-maps-routes-api-passing-the-25-waypoint-limit-3m0",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Good Are Accessibility Linters? A Practical Test of React, Vue, and Angular",
+    "link": "https://dev.to/yagho/how-good-are-accessibility-linters-a-practical-test-of-react-vue-and-angular-1mk7",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use React with a VSCode webview.",
+    "link": "https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Kickstart Your Dev Projects: Free Starter Kit with Portfolio Templates & Frontend Dashboard",
+    "link": "https://dev.to/lotfijb/kickstart-your-dev-projects-free-starter-kit-with-portfolio-templates-frontend-dashboard-4eh7",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Grew My Open-Source Japanese Learning Platform to 10k Monthly Users and 640+ GitHub Stars (as a Solo Dev and Student)",
+    "link": "https://dev.to/tentoumushi/how-i-grew-my-open-source-japanese-learning-platform-to-10k-monthly-users-and-640-github-stars-as-56f",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Maps Routes API: Passing the 25 Waypoint Limit",
+    "link": "https://dev.to/dannyhodge/google-maps-routes-api-passing-the-25-waypoint-limit-3m0",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Good Are Accessibility Linters? A Practical Test of React, Vue, and Angular",
+    "link": "https://dev.to/yagho/how-good-are-accessibility-linters-a-practical-test-of-react-vue-and-angular-1mk7",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use React with a VSCode webview.",
+    "link": "https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Kickstart Your Dev Projects: Free Starter Kit with Portfolio Templates & Frontend Dashboard",
+    "link": "https://dev.to/lotfijb/kickstart-your-dev-projects-free-starter-kit-with-portfolio-templates-frontend-dashboard-4eh7",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Grew My Open-Source Japanese Learning Platform to 10k Monthly Users and 640+ GitHub Stars (as a Solo Dev and Student)",
+    "link": "https://dev.to/tentoumushi/how-i-grew-my-open-source-japanese-learning-platform-to-10k-monthly-users-and-640-github-stars-as-56f",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google Maps Routes API: Passing the 25 Waypoint Limit",
+    "link": "https://dev.to/dannyhodge/google-maps-routes-api-passing-the-25-waypoint-limit-3m0",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Good Are Accessibility Linters? A Practical Test of React, Vue, and Angular",
+    "link": "https://dev.to/yagho/how-good-are-accessibility-linters-a-practical-test-of-react-vue-and-angular-1mk7",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to use React with a VSCode webview.",
+    "link": "https://dev.to/failtowinpro/how-to-use-react-with-a-vscode-webview-4o58",
+    "date": "11/11/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Kickstart Your Dev Projects: Free Starter Kit with Portfolio Templates & Frontend Dashboard",
+    "link": "https://dev.to/lotfijb/kickstart-your-dev-projects-free-starter-kit-with-portfolio-templates-frontend-dashboard-4eh7",
     "date": "11/11/2025",
     "site": "dev.to"
   },
   {
     "title": "I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&A + 185 coding problems + 600 flashcards",
     "link": "https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Studio - 100% Vide Coded React app",
-    "link": "https://dev.to/np_hacks_code/ai-studio-100-vide-coded-react-app-3d08",
     "date": "11/10/2025",
     "site": "dev.to"
   },
@@ -84,56 +378,8 @@
     "site": "dev.to"
   },
   {
-    "title": "How I Built and Deployed 8 Niche Sports Sites as a Developer Side Hustle",
-    "link": "https://dev.to/ffteamnames/how-i-built-and-deployed-8-niche-sports-sites-as-a-developer-side-hustle-3la8",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "My Learnings from Day 1a & 1b of the Google AI Agents Intensive",
-    "link": "https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 3): Mocking API Requests",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-3-mocking-api-requests-41ld",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 5): Collecting Coverage",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Week 6 Recap: Integrating Firebase with React 🚀",
-    "link": "https://dev.to/usama_dev/week-6-recap-integrating-firebase-with-react-fo5",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 4): Running Tests in CI",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-4-running-tests-in-ci-10op",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 2): Selectors, Assertions, and User Events",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-2-selectors-assertions-and-user-events-d6p",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
     "title": "I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&A + 185 coding problems + 600 flashcards",
     "link": "https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Studio - 100% Vide Coded React app",
-    "link": "https://dev.to/np_hacks_code/ai-studio-100-vide-coded-react-app-3d08",
     "date": "11/10/2025",
     "site": "dev.to"
   },
@@ -150,56 +396,8 @@
     "site": "dev.to"
   },
   {
-    "title": "How I Built and Deployed 8 Niche Sports Sites as a Developer Side Hustle",
-    "link": "https://dev.to/ffteamnames/how-i-built-and-deployed-8-niche-sports-sites-as-a-developer-side-hustle-3la8",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "My Learnings from Day 1a & 1b of the Google AI Agents Intensive",
-    "link": "https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 3): Mocking API Requests",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-3-mocking-api-requests-41ld",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 5): Collecting Coverage",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Week 6 Recap: Integrating Firebase with React 🚀",
-    "link": "https://dev.to/usama_dev/week-6-recap-integrating-firebase-with-react-fo5",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 4): Running Tests in CI",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-4-running-tests-in-ci-10op",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 2): Selectors, Assertions, and User Events",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-2-selectors-assertions-and-user-events-d6p",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
     "title": "I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&A + 185 coding problems + 600 flashcards",
     "link": "https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Studio - 100% Vide Coded React app",
-    "link": "https://dev.to/np_hacks_code/ai-studio-100-vide-coded-react-app-3d08",
     "date": "11/10/2025",
     "site": "dev.to"
   },
@@ -216,56 +414,8 @@
     "site": "dev.to"
   },
   {
-    "title": "How I Built and Deployed 8 Niche Sports Sites as a Developer Side Hustle",
-    "link": "https://dev.to/ffteamnames/how-i-built-and-deployed-8-niche-sports-sites-as-a-developer-side-hustle-3la8",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "My Learnings from Day 1a & 1b of the Google AI Agents Intensive",
-    "link": "https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 3): Mocking API Requests",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-3-mocking-api-requests-41ld",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 5): Collecting Coverage",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Week 6 Recap: Integrating Firebase with React 🚀",
-    "link": "https://dev.to/usama_dev/week-6-recap-integrating-firebase-with-react-fo5",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 4): Running Tests in CI",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-4-running-tests-in-ci-10op",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 2): Selectors, Assertions, and User Events",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-2-selectors-assertions-and-user-events-d6p",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
     "title": "I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&A + 185 coding problems + 600 flashcards",
     "link": "https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Studio - 100% Vide Coded React app",
-    "link": "https://dev.to/np_hacks_code/ai-studio-100-vide-coded-react-app-3d08",
     "date": "11/10/2025",
     "site": "dev.to"
   },
@@ -282,56 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "How I Built and Deployed 8 Niche Sports Sites as a Developer Side Hustle",
-    "link": "https://dev.to/ffteamnames/how-i-built-and-deployed-8-niche-sports-sites-as-a-developer-side-hustle-3la8",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "My Learnings from Day 1a & 1b of the Google AI Agents Intensive",
-    "link": "https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 3): Mocking API Requests",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-3-mocking-api-requests-41ld",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 5): Collecting Coverage",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Week 6 Recap: Integrating Firebase with React 🚀",
-    "link": "https://dev.to/usama_dev/week-6-recap-integrating-firebase-with-react-fo5",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 4): Running Tests in CI",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-4-running-tests-in-ci-10op",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 2): Selectors, Assertions, and User Events",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-2-selectors-assertions-and-user-events-d6p",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
     "title": "I just shipped v2.0 of Frontend Master Prep Series — 1,020+ Q&A + 185 coding problems + 600 flashcards",
     "link": "https://dev.to/maurya-sachin/i-just-shipped-v20-of-frontend-master-prep-series-1020-qa-185-coding-problems-600-33j7",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Studio - 100% Vide Coded React app",
-    "link": "https://dev.to/np_hacks_code/ai-studio-100-vide-coded-react-app-3d08",
     "date": "11/10/2025",
     "site": "dev.to"
   },
@@ -345,108 +447,6 @@
     "title": "Why Baidu's AMIS Framework Is an Excellent Design",
     "link": "https://dev.to/canonical/why-baidus-amis-framework-is-an-excellent-design-5cch",
     "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built and Deployed 8 Niche Sports Sites as a Developer Side Hustle",
-    "link": "https://dev.to/ffteamnames/how-i-built-and-deployed-8-niche-sports-sites-as-a-developer-side-hustle-3la8",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "My Learnings from Day 1a & 1b of the Google AI Agents Intensive",
-    "link": "https://dev.to/pavansai_ponguluri_aef522/my-learnings-from-day-1a-1b-of-the-google-ai-agents-intensive-57hf",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 3): Mocking API Requests",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-3-mocking-api-requests-41ld",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 5): Collecting Coverage",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-5-collecting-coverage-1gom",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Week 6 Recap: Integrating Firebase with React 🚀",
-    "link": "https://dev.to/usama_dev/week-6-recap-integrating-firebase-with-react-fo5",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 4): Running Tests in CI",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-4-running-tests-in-ci-10op",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing While Developing (Part 2): Selectors, Assertions, and User Events",
-    "link": "https://dev.to/kevinccbsg/testing-while-developing-part-2-selectors-assertions-and-user-events-d6p",
-    "date": "11/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Computed and Watchers in Vue: A Deep Dive",
-    "link": "https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd",
-    "date": "11/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "TWD getting started",
-    "link": "https://dev.to/kevinccbsg/twd-getting-started-4hh4",
-    "date": "11/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Computed and Watchers in Vue: A Deep Dive",
-    "link": "https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd",
-    "date": "11/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "TWD getting started",
-    "link": "https://dev.to/kevinccbsg/twd-getting-started-4hh4",
-    "date": "11/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Computed and Watchers in Vue: A Deep Dive",
-    "link": "https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd",
-    "date": "11/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "TWD getting started",
-    "link": "https://dev.to/kevinccbsg/twd-getting-started-4hh4",
-    "date": "11/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Computed and Watchers in Vue: A Deep Dive",
-    "link": "https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd",
-    "date": "11/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "TWD getting started",
-    "link": "https://dev.to/kevinccbsg/twd-getting-started-4hh4",
-    "date": "11/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Computed and Watchers in Vue: A Deep Dive",
-    "link": "https://dev.to/officialbidisha/computed-and-watchers-in-vue-1pfd",
-    "date": "11/9/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "TWD getting started",
-    "link": "https://dev.to/kevinccbsg/twd-getting-started-4hh4",
-    "date": "11/9/2025",
     "site": "dev.to"
   },
   {
@@ -571,7 +571,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
@@ -718,7 +718,7 @@
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
@@ -732,14 +732,14 @@
   {
     "title": "Client-Side Routing In Next.js",
     "link": "https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "6/18/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "How To Implement Authentication In Next.js With Auth0",
     "link": "https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "5/20/2021",
     "site": "smashingmagazine"
   },
@@ -795,7 +795,7 @@
   {
     "title": "Building A Stocks Price Notifier App Using React, Apollo GraphQL And Hasura",
     "link": "https://www.smashingmagazine.com/2020/12/stocks-price-notifier-app-react-apollo-graphql-hasura/",
-    "reading_time": "29 min read",
+    "reading_time": "30 min read",
     "date": "12/21/2020",
     "site": "smashingmagazine"
   }
