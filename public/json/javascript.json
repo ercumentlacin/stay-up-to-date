@@ -1,85 +1,289 @@
 [
   {
+    "title": "The Secret Life of JavaScript: Understanding Closures",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Balanced Camera Quality and Bandwidth in Our Video Meetings",
+    "link": "https://dev.to/iason_paraskevopoulos_77d/how-we-balanced-camera-quality-and-bandwidth-in-our-video-meetings-49bk",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Practical Introduction to AsyncLocalStorage in Node.js (With Real Use Cases)",
+    "link": "https://dev.to/adarshasnah/a-practical-introduction-to-asynclocalstorage-in-nodejs-with-real-use-cases-50mo",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing Real-Time Status Updates with Server-Sent Events in Next.js",
+    "link": "https://dev.to/richardlau/implementing-real-time-status-updates-with-server-sent-events-in-nextjs-4da1",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRITICAL: New React Server Component Vulnerabilities - Denial of Service and Source Code Exposure",
+    "link": "https://dev.to/chaudharidevam/critical-new-react-server-component-vulnerabilities-denial-of-service-and-source-code-exposure-1g2c",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Ditched toString() and Moved to a Pre-Bundled Bridge with Event-Driven CDP Injection",
+    "link": "https://dev.to/johnonline35/why-i-ditched-tostring-and-moved-to-a-pre-bundled-bridge-with-event-driven-cdp-injection-5280",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Verdex Sees Inside Iframes: Event-Driven Multi-Frame Support",
+    "link": "https://dev.to/johnonline35/how-verdex-sees-inside-iframes-event-driven-multi-frame-support-461k",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript",
+    "link": "https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: Understanding Closures",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Balanced Camera Quality and Bandwidth in Our Video Meetings",
+    "link": "https://dev.to/iason_paraskevopoulos_77d/how-we-balanced-camera-quality-and-bandwidth-in-our-video-meetings-49bk",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Practical Introduction to AsyncLocalStorage in Node.js (With Real Use Cases)",
+    "link": "https://dev.to/adarshasnah/a-practical-introduction-to-asynclocalstorage-in-nodejs-with-real-use-cases-50mo",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing Real-Time Status Updates with Server-Sent Events in Next.js",
+    "link": "https://dev.to/richardlau/implementing-real-time-status-updates-with-server-sent-events-in-nextjs-4da1",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRITICAL: New React Server Component Vulnerabilities - Denial of Service and Source Code Exposure",
+    "link": "https://dev.to/chaudharidevam/critical-new-react-server-component-vulnerabilities-denial-of-service-and-source-code-exposure-1g2c",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Ditched toString() and Moved to a Pre-Bundled Bridge with Event-Driven CDP Injection",
+    "link": "https://dev.to/johnonline35/why-i-ditched-tostring-and-moved-to-a-pre-bundled-bridge-with-event-driven-cdp-injection-5280",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Verdex Sees Inside Iframes: Event-Driven Multi-Frame Support",
+    "link": "https://dev.to/johnonline35/how-verdex-sees-inside-iframes-event-driven-multi-frame-support-461k",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript",
+    "link": "https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: Understanding Closures",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Balanced Camera Quality and Bandwidth in Our Video Meetings",
+    "link": "https://dev.to/iason_paraskevopoulos_77d/how-we-balanced-camera-quality-and-bandwidth-in-our-video-meetings-49bk",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Practical Introduction to AsyncLocalStorage in Node.js (With Real Use Cases)",
+    "link": "https://dev.to/adarshasnah/a-practical-introduction-to-asynclocalstorage-in-nodejs-with-real-use-cases-50mo",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing Real-Time Status Updates with Server-Sent Events in Next.js",
+    "link": "https://dev.to/richardlau/implementing-real-time-status-updates-with-server-sent-events-in-nextjs-4da1",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRITICAL: New React Server Component Vulnerabilities - Denial of Service and Source Code Exposure",
+    "link": "https://dev.to/chaudharidevam/critical-new-react-server-component-vulnerabilities-denial-of-service-and-source-code-exposure-1g2c",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Ditched toString() and Moved to a Pre-Bundled Bridge with Event-Driven CDP Injection",
+    "link": "https://dev.to/johnonline35/why-i-ditched-tostring-and-moved-to-a-pre-bundled-bridge-with-event-driven-cdp-injection-5280",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Verdex Sees Inside Iframes: Event-Driven Multi-Frame Support",
+    "link": "https://dev.to/johnonline35/how-verdex-sees-inside-iframes-event-driven-multi-frame-support-461k",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript",
+    "link": "https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: Understanding Closures",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Balanced Camera Quality and Bandwidth in Our Video Meetings",
+    "link": "https://dev.to/iason_paraskevopoulos_77d/how-we-balanced-camera-quality-and-bandwidth-in-our-video-meetings-49bk",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Practical Introduction to AsyncLocalStorage in Node.js (With Real Use Cases)",
+    "link": "https://dev.to/adarshasnah/a-practical-introduction-to-asynclocalstorage-in-nodejs-with-real-use-cases-50mo",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing Real-Time Status Updates with Server-Sent Events in Next.js",
+    "link": "https://dev.to/richardlau/implementing-real-time-status-updates-with-server-sent-events-in-nextjs-4da1",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRITICAL: New React Server Component Vulnerabilities - Denial of Service and Source Code Exposure",
+    "link": "https://dev.to/chaudharidevam/critical-new-react-server-component-vulnerabilities-denial-of-service-and-source-code-exposure-1g2c",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Ditched toString() and Moved to a Pre-Bundled Bridge with Event-Driven CDP Injection",
+    "link": "https://dev.to/johnonline35/why-i-ditched-tostring-and-moved-to-a-pre-bundled-bridge-with-event-driven-cdp-injection-5280",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Verdex Sees Inside Iframes: Event-Driven Multi-Frame Support",
+    "link": "https://dev.to/johnonline35/how-verdex-sees-inside-iframes-event-driven-multi-frame-support-461k",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript",
+    "link": "https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: Understanding Closures",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-closures-40if",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Balanced Camera Quality and Bandwidth in Our Video Meetings",
+    "link": "https://dev.to/iason_paraskevopoulos_77d/how-we-balanced-camera-quality-and-bandwidth-in-our-video-meetings-49bk",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Practical Introduction to AsyncLocalStorage in Node.js (With Real Use Cases)",
+    "link": "https://dev.to/adarshasnah/a-practical-introduction-to-asynclocalstorage-in-nodejs-with-real-use-cases-50mo",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing Real-Time Status Updates with Server-Sent Events in Next.js",
+    "link": "https://dev.to/richardlau/implementing-real-time-status-updates-with-server-sent-events-in-nextjs-4da1",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "CRITICAL: New React Server Component Vulnerabilities - Denial of Service and Source Code Exposure",
+    "link": "https://dev.to/chaudharidevam/critical-new-react-server-component-vulnerabilities-denial-of-service-and-source-code-exposure-1g2c",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Ditched toString() and Moved to a Pre-Bundled Bridge with Event-Driven CDP Injection",
+    "link": "https://dev.to/johnonline35/why-i-ditched-tostring-and-moved-to-a-pre-bundled-bridge-with-event-driven-cdp-injection-5280",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How Verdex Sees Inside Iframes: Event-Driven Multi-Frame Support",
+    "link": "https://dev.to/johnonline35/how-verdex-sees-inside-iframes-event-driven-multi-frame-support-461k",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript",
+    "link": "https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412",
+    "date": "12/12/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Give your AI Studio deployed app a custom URL",
+    "link": "https://dev.to/googleai/give-your-ai-studio-deployed-app-a-custom-url-30f",
+    "date": "12/11/2025",
+    "site": "dev.to"
+  },
+  {
     "title": "The Secret Life of JavaScript: Understanding Prototypes",
     "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Build a Video Calling Application using React , Tailwind and Zegocloud",
-    "link": "https://dev.to/gauravbits/build-a-video-calling-application-using-react-tailwind-and-zegocloud-1nbh",
+    "title": "JavaScript Isn’t Broken — Your Closure Placement Is",
+    "link": "https://dev.to/priya2422/javascript-isnt-broken-your-closure-placement-is-1i21",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Performance Anti-Patterns: 5 Mistakes That Kill Your App's Speed!",
-    "link": "https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j",
+    "title": "Building an AI-Powered Code Editor: A Journey into Structured LLM Integration",
+    "link": "https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Web Frameworks 2026 Future Proofing Enterprise Tech Stack",
-    "link": "https://dev.to/devin-rosario/web-frameworks-2026-future-proofing-enterprise-tech-stack-4l03",
+    "title": "I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa",
+    "link": "https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Why const Doesn’t Freeze Your JavaScript Arrays",
-    "link": "https://dev.to/lubbaa/why-const-doesnt-freeze-your-javascript-arrays-3j93",
+    "title": "I Built Privacy-First Developer Tools That Run 100% in Your Browser",
+    "link": "https://dev.to/domenico_giordano_e441224/i-built-privacy-first-developer-tools-that-run-100-in-your-browser-544i",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Handle Media Queries in React Logic with a Custom Hook",
-    "link": "https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2",
+    "title": "How to Implement Settings in Browser Extensions",
+    "link": "https://dev.to/notearthian/how-to-implement-settings-in-browser-extensions-1fhb",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "From Text Cleaner to Full Toolkit: Building 30+ Free Browser Tools",
-    "link": "https://dev.to/florentcleanuptxt/from-text-cleaner-to-full-toolkit-building-30-free-browser-tools-3mop",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Secret Life of JavaScript: Understanding Prototypes",
-    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Calling Application using React , Tailwind and Zegocloud",
-    "link": "https://dev.to/gauravbits/build-a-video-calling-application-using-react-tailwind-and-zegocloud-1nbh",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Performance Anti-Patterns: 5 Mistakes That Kill Your App's Speed!",
-    "link": "https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Frameworks 2026 Future Proofing Enterprise Tech Stack",
-    "link": "https://dev.to/devin-rosario/web-frameworks-2026-future-proofing-enterprise-tech-stack-4l03",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why const Doesn’t Freeze Your JavaScript Arrays",
-    "link": "https://dev.to/lubbaa/why-const-doesnt-freeze-your-javascript-arrays-3j93",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Handle Media Queries in React Logic with a Custom Hook",
-    "link": "https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Text Cleaner to Full Toolkit: Building 30+ Free Browser Tools",
-    "link": "https://dev.to/florentcleanuptxt/from-text-cleaner-to-full-toolkit-building-30-free-browser-tools-3mop",
+    "title": "Give your AI Studio deployed app a custom URL",
+    "link": "https://dev.to/googleai/give-your-ai-studio-deployed-app-a-custom-url-30f",
     "date": "12/11/2025",
     "site": "dev.to"
   },
@@ -90,80 +294,38 @@
     "site": "dev.to"
   },
   {
-    "title": "Build a Video Calling Application using React , Tailwind and Zegocloud",
-    "link": "https://dev.to/gauravbits/build-a-video-calling-application-using-react-tailwind-and-zegocloud-1nbh",
+    "title": "JavaScript Isn’t Broken — Your Closure Placement Is",
+    "link": "https://dev.to/priya2422/javascript-isnt-broken-your-closure-placement-is-1i21",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Performance Anti-Patterns: 5 Mistakes That Kill Your App's Speed!",
-    "link": "https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j",
+    "title": "Building an AI-Powered Code Editor: A Journey into Structured LLM Integration",
+    "link": "https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Web Frameworks 2026 Future Proofing Enterprise Tech Stack",
-    "link": "https://dev.to/devin-rosario/web-frameworks-2026-future-proofing-enterprise-tech-stack-4l03",
+    "title": "I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa",
+    "link": "https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Why const Doesn’t Freeze Your JavaScript Arrays",
-    "link": "https://dev.to/lubbaa/why-const-doesnt-freeze-your-javascript-arrays-3j93",
+    "title": "I Built Privacy-First Developer Tools That Run 100% in Your Browser",
+    "link": "https://dev.to/domenico_giordano_e441224/i-built-privacy-first-developer-tools-that-run-100-in-your-browser-544i",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Handle Media Queries in React Logic with a Custom Hook",
-    "link": "https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2",
+    "title": "How to Implement Settings in Browser Extensions",
+    "link": "https://dev.to/notearthian/how-to-implement-settings-in-browser-extensions-1fhb",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "From Text Cleaner to Full Toolkit: Building 30+ Free Browser Tools",
-    "link": "https://dev.to/florentcleanuptxt/from-text-cleaner-to-full-toolkit-building-30-free-browser-tools-3mop",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Secret Life of JavaScript: Understanding Prototypes",
-    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Video Calling Application using React , Tailwind and Zegocloud",
-    "link": "https://dev.to/gauravbits/build-a-video-calling-application-using-react-tailwind-and-zegocloud-1nbh",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Performance Anti-Patterns: 5 Mistakes That Kill Your App's Speed!",
-    "link": "https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web Frameworks 2026 Future Proofing Enterprise Tech Stack",
-    "link": "https://dev.to/devin-rosario/web-frameworks-2026-future-proofing-enterprise-tech-stack-4l03",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why const Doesn’t Freeze Your JavaScript Arrays",
-    "link": "https://dev.to/lubbaa/why-const-doesnt-freeze-your-javascript-arrays-3j93",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Handle Media Queries in React Logic with a Custom Hook",
-    "link": "https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2",
-    "date": "12/11/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Text Cleaner to Full Toolkit: Building 30+ Free Browser Tools",
-    "link": "https://dev.to/florentcleanuptxt/from-text-cleaner-to-full-toolkit-building-30-free-browser-tools-3mop",
+    "title": "Give your AI Studio deployed app a custom URL",
+    "link": "https://dev.to/googleai/give-your-ai-studio-deployed-app-a-custom-url-30f",
     "date": "12/11/2025",
     "site": "dev.to"
   },
@@ -174,355 +336,123 @@
     "site": "dev.to"
   },
   {
-    "title": "Build a Video Calling Application using React , Tailwind and Zegocloud",
-    "link": "https://dev.to/gauravbits/build-a-video-calling-application-using-react-tailwind-and-zegocloud-1nbh",
+    "title": "JavaScript Isn’t Broken — Your Closure Placement Is",
+    "link": "https://dev.to/priya2422/javascript-isnt-broken-your-closure-placement-is-1i21",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "React Performance Anti-Patterns: 5 Mistakes That Kill Your App's Speed!",
-    "link": "https://dev.to/myogeshchavan97/react-performance-anti-patterns-5-mistakes-that-kill-your-apps-speed-76j",
+    "title": "Building an AI-Powered Code Editor: A Journey into Structured LLM Integration",
+    "link": "https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Web Frameworks 2026 Future Proofing Enterprise Tech Stack",
-    "link": "https://dev.to/devin-rosario/web-frameworks-2026-future-proofing-enterprise-tech-stack-4l03",
+    "title": "I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa",
+    "link": "https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Why const Doesn’t Freeze Your JavaScript Arrays",
-    "link": "https://dev.to/lubbaa/why-const-doesnt-freeze-your-javascript-arrays-3j93",
+    "title": "I Built Privacy-First Developer Tools That Run 100% in Your Browser",
+    "link": "https://dev.to/domenico_giordano_e441224/i-built-privacy-first-developer-tools-that-run-100-in-your-browser-544i",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Handle Media Queries in React Logic with a Custom Hook",
-    "link": "https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2",
+    "title": "How to Implement Settings in Browser Extensions",
+    "link": "https://dev.to/notearthian/how-to-implement-settings-in-browser-extensions-1fhb",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "From Text Cleaner to Full Toolkit: Building 30+ Free Browser Tools",
-    "link": "https://dev.to/florentcleanuptxt/from-text-cleaner-to-full-toolkit-building-30-free-browser-tools-3mop",
+    "title": "Give your AI Studio deployed app a custom URL",
+    "link": "https://dev.to/googleai/give-your-ai-studio-deployed-app-a-custom-url-30f",
     "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building a \"Bullshit Detector\" for LLMs using Node.js and pgvector",
-    "link": "https://dev.to/the_nortern_dev/building-a-bullshit-detector-for-llms-using-nodejs-and-pgvector-2mik",
-    "date": "12/10/2025",
+    "title": "The Secret Life of JavaScript: Understanding Prototypes",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "5 Secrets to Perfectly Printed Web Pages",
-    "link": "https://dev.to/samuel_ruiz_64604c4d0ba22/5-secrets-to-perfectly-printed-web-pages-3h49",
-    "date": "12/10/2025",
+    "title": "JavaScript Isn’t Broken — Your Closure Placement Is",
+    "link": "https://dev.to/priya2422/javascript-isnt-broken-your-closure-placement-is-1i21",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "CRITICAL Next.js Security Alert: Patch 'React2Shell' RCE Now",
-    "link": "https://dev.to/webmix_studio_3a626e2219e/critical-nextjs-security-alert-patch-react2shell-rce-now-33n2",
-    "date": "12/10/2025",
+    "title": "Building an AI-Powered Code Editor: A Journey into Structured LLM Integration",
+    "link": "https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building Terminal UIs with Svelte 5: Introducing SvelTUI",
-    "link": "https://dev.to/rodrigo_luglio_f63c6051de/building-terminal-uis-with-svelte-5-introducing-sveltui-3k1k",
-    "date": "12/10/2025",
+    "title": "I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa",
+    "link": "https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "O que eu aprendi trabalhando em uma Big Tech: reflexões de um Engenheiro Frontend",
-    "link": "https://dev.to/cristianojr9/o-que-eu-aprendi-trabalhando-em-uma-big-tech-reflexoes-de-um-engenheiro-frontend-mkb",
-    "date": "12/10/2025",
+    "title": "I Built Privacy-First Developer Tools That Run 100% in Your Browser",
+    "link": "https://dev.to/domenico_giordano_e441224/i-built-privacy-first-developer-tools-that-run-100-in-your-browser-544i",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "✨ How to Create SVGs in Figma and Animate Them Using Motion 🚀",
-    "link": "https://dev.to/sushilmagare10/how-to-create-svgs-in-figma-and-animate-them-using-motion-32h1",
-    "date": "12/10/2025",
+    "title": "How to Implement Settings in Browser Extensions",
+    "link": "https://dev.to/notearthian/how-to-implement-settings-in-browser-extensions-1fhb",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Debugging Cloudflare Workers with VS Code: Queue Handlers Edition (Part 4)",
-    "link": "https://dev.to/teaganga/debugging-cloudflare-workers-with-vs-code-queue-handlers-edition-part-4-7i5",
-    "date": "12/10/2025",
+    "title": "Give your AI Studio deployed app a custom URL",
+    "link": "https://dev.to/googleai/give-your-ai-studio-deployed-app-a-custom-url-30f",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Testing Cloudflare Workers Locally: Queues, Cron, and HTTP (Part 3)",
-    "link": "dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp",
-    "date": "12/10/2025",
+    "title": "The Secret Life of JavaScript: Understanding Prototypes",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building a \"Bullshit Detector\" for LLMs using Node.js and pgvector",
-    "link": "https://dev.to/the_nortern_dev/building-a-bullshit-detector-for-llms-using-nodejs-and-pgvector-2mik",
-    "date": "12/10/2025",
+    "title": "JavaScript Isn’t Broken — Your Closure Placement Is",
+    "link": "https://dev.to/priya2422/javascript-isnt-broken-your-closure-placement-is-1i21",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "5 Secrets to Perfectly Printed Web Pages",
-    "link": "https://dev.to/samuel_ruiz_64604c4d0ba22/5-secrets-to-perfectly-printed-web-pages-3h49",
-    "date": "12/10/2025",
+    "title": "Building an AI-Powered Code Editor: A Journey into Structured LLM Integration",
+    "link": "https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "CRITICAL Next.js Security Alert: Patch 'React2Shell' RCE Now",
-    "link": "https://dev.to/webmix_studio_3a626e2219e/critical-nextjs-security-alert-patch-react2shell-rce-now-33n2",
-    "date": "12/10/2025",
+    "title": "I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa",
+    "link": "https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "Building Terminal UIs with Svelte 5: Introducing SvelTUI",
-    "link": "https://dev.to/rodrigo_luglio_f63c6051de/building-terminal-uis-with-svelte-5-introducing-sveltui-3k1k",
-    "date": "12/10/2025",
+    "title": "I Built Privacy-First Developer Tools That Run 100% in Your Browser",
+    "link": "https://dev.to/domenico_giordano_e441224/i-built-privacy-first-developer-tools-that-run-100-in-your-browser-544i",
+    "date": "12/11/2025",
     "site": "dev.to"
   },
   {
-    "title": "O que eu aprendi trabalhando em uma Big Tech: reflexões de um Engenheiro Frontend",
-    "link": "https://dev.to/cristianojr9/o-que-eu-aprendi-trabalhando-em-uma-big-tech-reflexoes-de-um-engenheiro-frontend-mkb",
-    "date": "12/10/2025",
+    "title": "How to Implement Settings in Browser Extensions",
+    "link": "https://dev.to/notearthian/how-to-implement-settings-in-browser-extensions-1fhb",
+    "date": "12/11/2025",
     "site": "dev.to"
-  },
-  {
-    "title": "✨ How to Create SVGs in Figma and Animate Them Using Motion 🚀",
-    "link": "https://dev.to/sushilmagare10/how-to-create-svgs-in-figma-and-animate-them-using-motion-32h1",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging Cloudflare Workers with VS Code: Queue Handlers Edition (Part 4)",
-    "link": "https://dev.to/teaganga/debugging-cloudflare-workers-with-vs-code-queue-handlers-edition-part-4-7i5",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing Cloudflare Workers Locally: Queues, Cron, and HTTP (Part 3)",
-    "link": "dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a \"Bullshit Detector\" for LLMs using Node.js and pgvector",
-    "link": "https://dev.to/the_nortern_dev/building-a-bullshit-detector-for-llms-using-nodejs-and-pgvector-2mik",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Secrets to Perfectly Printed Web Pages",
-    "link": "https://dev.to/samuel_ruiz_64604c4d0ba22/5-secrets-to-perfectly-printed-web-pages-3h49",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "CRITICAL Next.js Security Alert: Patch 'React2Shell' RCE Now",
-    "link": "https://dev.to/webmix_studio_3a626e2219e/critical-nextjs-security-alert-patch-react2shell-rce-now-33n2",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Terminal UIs with Svelte 5: Introducing SvelTUI",
-    "link": "https://dev.to/rodrigo_luglio_f63c6051de/building-terminal-uis-with-svelte-5-introducing-sveltui-3k1k",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "O que eu aprendi trabalhando em uma Big Tech: reflexões de um Engenheiro Frontend",
-    "link": "https://dev.to/cristianojr9/o-que-eu-aprendi-trabalhando-em-uma-big-tech-reflexoes-de-um-engenheiro-frontend-mkb",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "✨ How to Create SVGs in Figma and Animate Them Using Motion 🚀",
-    "link": "https://dev.to/sushilmagare10/how-to-create-svgs-in-figma-and-animate-them-using-motion-32h1",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging Cloudflare Workers with VS Code: Queue Handlers Edition (Part 4)",
-    "link": "https://dev.to/teaganga/debugging-cloudflare-workers-with-vs-code-queue-handlers-edition-part-4-7i5",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing Cloudflare Workers Locally: Queues, Cron, and HTTP (Part 3)",
-    "link": "dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a \"Bullshit Detector\" for LLMs using Node.js and pgvector",
-    "link": "https://dev.to/the_nortern_dev/building-a-bullshit-detector-for-llms-using-nodejs-and-pgvector-2mik",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Secrets to Perfectly Printed Web Pages",
-    "link": "https://dev.to/samuel_ruiz_64604c4d0ba22/5-secrets-to-perfectly-printed-web-pages-3h49",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "CRITICAL Next.js Security Alert: Patch 'React2Shell' RCE Now",
-    "link": "https://dev.to/webmix_studio_3a626e2219e/critical-nextjs-security-alert-patch-react2shell-rce-now-33n2",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Terminal UIs with Svelte 5: Introducing SvelTUI",
-    "link": "https://dev.to/rodrigo_luglio_f63c6051de/building-terminal-uis-with-svelte-5-introducing-sveltui-3k1k",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "O que eu aprendi trabalhando em uma Big Tech: reflexões de um Engenheiro Frontend",
-    "link": "https://dev.to/cristianojr9/o-que-eu-aprendi-trabalhando-em-uma-big-tech-reflexoes-de-um-engenheiro-frontend-mkb",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "✨ How to Create SVGs in Figma and Animate Them Using Motion 🚀",
-    "link": "https://dev.to/sushilmagare10/how-to-create-svgs-in-figma-and-animate-them-using-motion-32h1",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging Cloudflare Workers with VS Code: Queue Handlers Edition (Part 4)",
-    "link": "https://dev.to/teaganga/debugging-cloudflare-workers-with-vs-code-queue-handlers-edition-part-4-7i5",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing Cloudflare Workers Locally: Queues, Cron, and HTTP (Part 3)",
-    "link": "dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a \"Bullshit Detector\" for LLMs using Node.js and pgvector",
-    "link": "https://dev.to/the_nortern_dev/building-a-bullshit-detector-for-llms-using-nodejs-and-pgvector-2mik",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Secrets to Perfectly Printed Web Pages",
-    "link": "https://dev.to/samuel_ruiz_64604c4d0ba22/5-secrets-to-perfectly-printed-web-pages-3h49",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "CRITICAL Next.js Security Alert: Patch 'React2Shell' RCE Now",
-    "link": "https://dev.to/webmix_studio_3a626e2219e/critical-nextjs-security-alert-patch-react2shell-rce-now-33n2",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Terminal UIs with Svelte 5: Introducing SvelTUI",
-    "link": "https://dev.to/rodrigo_luglio_f63c6051de/building-terminal-uis-with-svelte-5-introducing-sveltui-3k1k",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "O que eu aprendi trabalhando em uma Big Tech: reflexões de um Engenheiro Frontend",
-    "link": "https://dev.to/cristianojr9/o-que-eu-aprendi-trabalhando-em-uma-big-tech-reflexoes-de-um-engenheiro-frontend-mkb",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "✨ How to Create SVGs in Figma and Animate Them Using Motion 🚀",
-    "link": "https://dev.to/sushilmagare10/how-to-create-svgs-in-figma-and-animate-them-using-motion-32h1",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging Cloudflare Workers with VS Code: Queue Handlers Edition (Part 4)",
-    "link": "https://dev.to/teaganga/debugging-cloudflare-workers-with-vs-code-queue-handlers-edition-part-4-7i5",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing Cloudflare Workers Locally: Queues, Cron, and HTTP (Part 3)",
-    "link": "dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp",
-    "date": "12/10/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript For Everyone: Iterators",
-    "link": "https://www.smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
-    "reading_time": "9 min read",
-    "date": "10/27/2025",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The Power Of The Intl API: A Definitive Guide To Browser-Native Internationalization",
-    "link": "https://www.smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
-    "reading_time": "7 min read",
-    "date": "8/8/2025",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Handling JavaScript Event Listeners With Parameters",
-    "link": "https://www.smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
-    "reading_time": "5 min read",
-    "date": "7/21/2025",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
-    "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "8 min read",
-    "date": "6/11/2025",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Building An Offline-Friendly Image Upload System",
-    "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-    "reading_time": "10 min read",
-    "date": "4/23/2025",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Creating An Effective Multistep Form For Better User Experience",
-    "link": "https://www.smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
-    "reading_time": "13 min read",
-    "date": "12/3/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
-    "link": "https://www.smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
-    "reading_time": "10 min read",
-    "date": "10/7/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Generating Unique Random Numbers In JavaScript Using Sets",
-    "link": "https://www.smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
-    "reading_time": "6 min read",
-    "date": "8/26/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
-    "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-    "reading_time": "15 min read",
-    "date": "8/20/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "How To Build A Multilingual Website With Nuxt.js",
-    "link": "https://www.smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/",
-    "reading_time": "15 min read",
-    "date": "8/1/2024",
-    "site": "smashingmagazine"
   },
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
@@ -557,7 +487,7 @@
   {
     "title": "The End Of My Gatsby Journey",
     "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "3/6/2024",
     "site": "smashingmagazine"
   },
@@ -641,7 +571,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -655,7 +585,7 @@
   {
     "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
     "link": "https://www.smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "4/21/2023",
     "site": "smashingmagazine"
   },
@@ -676,7 +606,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
