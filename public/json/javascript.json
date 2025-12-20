@@ -1,271 +1,421 @@
 [
   {
-    "title": "Stop Writing Comments: Why Senior Devs Hate \"Stale Lies\"",
-    "link": "https://dev.to/doogal/stop-writing-comments-why-senior-devs-hate-stale-lies-dpi",
+    "title": "The Secret Life of JavaScript: The Power of Function Composition",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "b0nes: The Framework That Actually Fits in Your Head (Yes, Really) Or: How I Learned to Stop Worrying and Love Zero Dependencies",
+    "link": "https://dev.to/iggydotdev/b0nes-the-framework-that-actually-fits-in-your-head-yes-really-or-how-i-learned-to-stop-4mai",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Plyr-react V6",
+    "link": "https://dev.to/chintan121/plyr-react-v6-3o33",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Browser-Based Isometric RPG with Three.js",
+    "link": "https://dev.to/mendolatech/how-i-built-a-browser-based-isometric-rpg-with-threejs-1j82",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ape-to-Human vs Medieval-to-Modern: Why Your Startup Needs Different Engineering Priorities",
+    "link": "https://dev.to/ramkashyap2050/the-ape-to-human-vs-medieval-to-modern-why-your-startup-needs-different-engineering-priorities-2764",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Object⏩to⏩Stream mindset shift",
+    "link": "https://dev.to/dariomannu/the-objecttostream-mindset-shift-3eao",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built an experimental open-source tool to run Node.js and Python without Docker",
+    "link": "https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Power of Function Composition",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "b0nes: The Framework That Actually Fits in Your Head (Yes, Really) Or: How I Learned to Stop Worrying and Love Zero Dependencies",
+    "link": "https://dev.to/iggydotdev/b0nes-the-framework-that-actually-fits-in-your-head-yes-really-or-how-i-learned-to-stop-4mai",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Plyr-react V6",
+    "link": "https://dev.to/chintan121/plyr-react-v6-3o33",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Browser-Based Isometric RPG with Three.js",
+    "link": "https://dev.to/mendolatech/how-i-built-a-browser-based-isometric-rpg-with-threejs-1j82",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ape-to-Human vs Medieval-to-Modern: Why Your Startup Needs Different Engineering Priorities",
+    "link": "https://dev.to/ramkashyap2050/the-ape-to-human-vs-medieval-to-modern-why-your-startup-needs-different-engineering-priorities-2764",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Object⏩to⏩Stream mindset shift",
+    "link": "https://dev.to/dariomannu/the-objecttostream-mindset-shift-3eao",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built an experimental open-source tool to run Node.js and Python without Docker",
+    "link": "https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Power of Function Composition",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "b0nes: The Framework That Actually Fits in Your Head (Yes, Really) Or: How I Learned to Stop Worrying and Love Zero Dependencies",
+    "link": "https://dev.to/iggydotdev/b0nes-the-framework-that-actually-fits-in-your-head-yes-really-or-how-i-learned-to-stop-4mai",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Plyr-react V6",
+    "link": "https://dev.to/chintan121/plyr-react-v6-3o33",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Browser-Based Isometric RPG with Three.js",
+    "link": "https://dev.to/mendolatech/how-i-built-a-browser-based-isometric-rpg-with-threejs-1j82",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ape-to-Human vs Medieval-to-Modern: Why Your Startup Needs Different Engineering Priorities",
+    "link": "https://dev.to/ramkashyap2050/the-ape-to-human-vs-medieval-to-modern-why-your-startup-needs-different-engineering-priorities-2764",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Object⏩to⏩Stream mindset shift",
+    "link": "https://dev.to/dariomannu/the-objecttostream-mindset-shift-3eao",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built an experimental open-source tool to run Node.js and Python without Docker",
+    "link": "https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Power of Function Composition",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "b0nes: The Framework That Actually Fits in Your Head (Yes, Really) Or: How I Learned to Stop Worrying and Love Zero Dependencies",
+    "link": "https://dev.to/iggydotdev/b0nes-the-framework-that-actually-fits-in-your-head-yes-really-or-how-i-learned-to-stop-4mai",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Plyr-react V6",
+    "link": "https://dev.to/chintan121/plyr-react-v6-3o33",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Browser-Based Isometric RPG with Three.js",
+    "link": "https://dev.to/mendolatech/how-i-built-a-browser-based-isometric-rpg-with-threejs-1j82",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ape-to-Human vs Medieval-to-Modern: Why Your Startup Needs Different Engineering Priorities",
+    "link": "https://dev.to/ramkashyap2050/the-ape-to-human-vs-medieval-to-modern-why-your-startup-needs-different-engineering-priorities-2764",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Object⏩to⏩Stream mindset shift",
+    "link": "https://dev.to/dariomannu/the-objecttostream-mindset-shift-3eao",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built an experimental open-source tool to run Node.js and Python without Docker",
+    "link": "https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Power of Function Composition",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-power-of-function-composition-bcb",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "b0nes: The Framework That Actually Fits in Your Head (Yes, Really) Or: How I Learned to Stop Worrying and Love Zero Dependencies",
+    "link": "https://dev.to/iggydotdev/b0nes-the-framework-that-actually-fits-in-your-head-yes-really-or-how-i-learned-to-stop-4mai",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "Plyr-react V6",
+    "link": "https://dev.to/chintan121/plyr-react-v6-3o33",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Browser-Based Isometric RPG with Three.js",
+    "link": "https://dev.to/mendolatech/how-i-built-a-browser-based-isometric-rpg-with-threejs-1j82",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Ape-to-Human vs Medieval-to-Modern: Why Your Startup Needs Different Engineering Priorities",
+    "link": "https://dev.to/ramkashyap2050/the-ape-to-human-vs-medieval-to-modern-why-your-startup-needs-different-engineering-priorities-2764",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Object⏩to⏩Stream mindset shift",
+    "link": "https://dev.to/dariomannu/the-objecttostream-mindset-shift-3eao",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built an experimental open-source tool to run Node.js and Python without Docker",
+    "link": "https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21",
+    "date": "12/20/2025",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!",
+    "link": "https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Debugging IA slop is the future?",
-    "link": "https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6",
+    "title": "I built a CLI that keeps README.md in sync with code (GitHub doesn’t)",
+    "link": "https://dev.to/manish112233/i-built-a-cli-that-keeps-readmemd-in-sync-with-code-github-doesnt-1epp",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production",
-    "link": "https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij",
+    "title": "How to stop OpenAI API credit draining using Client-Side Proof of Work (Node + React)",
+    "link": "https://dev.to/ronald_oloo_d67211d1e6e60/how-to-stop-openai-api-credit-draining-using-client-side-proof-of-work-node-react-5e6g",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Improve JavaScript Code's Performance",
-    "link": "https://dev.to/hellonehha/how-to-improve-javascript-codes-performance-2i7i",
+    "title": "How I Built a Fast, Client-Side JSON Viewer for Developers",
+    "link": "https://dev.to/jsonviewertool/how-i-built-a-fast-client-side-json-viewer-for-developers-32md",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "A story on Frontend Architectures - Back to the Future",
-    "link": "https://dev.to/purnez/a-story-on-frontend-architectures-back-to-the-future-gdc",
+    "title": "Transform System with the new Snap.svg (Basics - part 3)",
+    "link": "https://dev.to/o_vakarelov/transform-system-with-the-new-snapsvg-basics-part-3-3p07",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Tutorial sobre como crear objetos en javascript con programación orientada a objetos",
-    "link": "https://dev.to/oscarolg/tutorial-sobre-como-crear-objetos-en-javascript-con-programacion-orientada-a-objetos-icg",
+    "title": "Guardium- Password Protector (Day-2)",
+    "link": "https://dev.to/debmalyadas007/guardium-password-protector-day-2-46k4",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Create a Contact Form in React.js with Email Notifications",
-    "link": "https://dev.to/davecodes/how-to-create-a-contact-form-in-reactjs-with-email-notifications-4ao7",
+    "title": "2026’da Frontend Gelişiminin Yeni Yönü: Framework’lerin Ötesinde",
+    "link": "https://dev.to/erhanaky/2026da-frontend-gelisiminin-yeni-yonu-frameworklerin-otesinde-1ncd",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "LAN Party",
-    "link": "https://dev.to/rmion/lan-party-1o5h",
+    "title": "I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!",
+    "link": "https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Introducing rn-animation-kit: The Easiest Way to Add Beautiful Animations to Your React Native App",
-    "link": "https://dev.to/noman_akram_6c329a67f88ca/introducing-rn-animation-kit-the-easiest-way-to-add-beautiful-animations-to-your-react-native-app-4ho4",
+    "title": "I built a CLI that keeps README.md in sync with code (GitHub doesn’t)",
+    "link": "https://dev.to/manish112233/i-built-a-cli-that-keeps-readmemd-in-sync-with-code-github-doesnt-1epp",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Stop Writing Comments: Why Senior Devs Hate \"Stale Lies\"",
-    "link": "https://dev.to/doogal/stop-writing-comments-why-senior-devs-hate-stale-lies-dpi",
+    "title": "How to stop OpenAI API credit draining using Client-Side Proof of Work (Node + React)",
+    "link": "https://dev.to/ronald_oloo_d67211d1e6e60/how-to-stop-openai-api-credit-draining-using-client-side-proof-of-work-node-react-5e6g",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Debugging IA slop is the future?",
-    "link": "https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6",
+    "title": "How I Built a Fast, Client-Side JSON Viewer for Developers",
+    "link": "https://dev.to/jsonviewertool/how-i-built-a-fast-client-side-json-viewer-for-developers-32md",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production",
-    "link": "https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij",
+    "title": "Transform System with the new Snap.svg (Basics - part 3)",
+    "link": "https://dev.to/o_vakarelov/transform-system-with-the-new-snapsvg-basics-part-3-3p07",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Improve JavaScript Code's Performance",
-    "link": "https://dev.to/hellonehha/how-to-improve-javascript-codes-performance-2i7i",
+    "title": "Guardium- Password Protector (Day-2)",
+    "link": "https://dev.to/debmalyadas007/guardium-password-protector-day-2-46k4",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "A story on Frontend Architectures - Back to the Future",
-    "link": "https://dev.to/purnez/a-story-on-frontend-architectures-back-to-the-future-gdc",
+    "title": "2026’da Frontend Gelişiminin Yeni Yönü: Framework’lerin Ötesinde",
+    "link": "https://dev.to/erhanaky/2026da-frontend-gelisiminin-yeni-yonu-frameworklerin-otesinde-1ncd",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Tutorial sobre como crear objetos en javascript con programación orientada a objetos",
-    "link": "https://dev.to/oscarolg/tutorial-sobre-como-crear-objetos-en-javascript-con-programacion-orientada-a-objetos-icg",
+    "title": "I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!",
+    "link": "https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Create a Contact Form in React.js with Email Notifications",
-    "link": "https://dev.to/davecodes/how-to-create-a-contact-form-in-reactjs-with-email-notifications-4ao7",
+    "title": "I built a CLI that keeps README.md in sync with code (GitHub doesn’t)",
+    "link": "https://dev.to/manish112233/i-built-a-cli-that-keeps-readmemd-in-sync-with-code-github-doesnt-1epp",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "LAN Party",
-    "link": "https://dev.to/rmion/lan-party-1o5h",
+    "title": "How to stop OpenAI API credit draining using Client-Side Proof of Work (Node + React)",
+    "link": "https://dev.to/ronald_oloo_d67211d1e6e60/how-to-stop-openai-api-credit-draining-using-client-side-proof-of-work-node-react-5e6g",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Introducing rn-animation-kit: The Easiest Way to Add Beautiful Animations to Your React Native App",
-    "link": "https://dev.to/noman_akram_6c329a67f88ca/introducing-rn-animation-kit-the-easiest-way-to-add-beautiful-animations-to-your-react-native-app-4ho4",
+    "title": "How I Built a Fast, Client-Side JSON Viewer for Developers",
+    "link": "https://dev.to/jsonviewertool/how-i-built-a-fast-client-side-json-viewer-for-developers-32md",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Stop Writing Comments: Why Senior Devs Hate \"Stale Lies\"",
-    "link": "https://dev.to/doogal/stop-writing-comments-why-senior-devs-hate-stale-lies-dpi",
+    "title": "Transform System with the new Snap.svg (Basics - part 3)",
+    "link": "https://dev.to/o_vakarelov/transform-system-with-the-new-snapsvg-basics-part-3-3p07",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Debugging IA slop is the future?",
-    "link": "https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6",
+    "title": "Guardium- Password Protector (Day-2)",
+    "link": "https://dev.to/debmalyadas007/guardium-password-protector-day-2-46k4",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production",
-    "link": "https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij",
+    "title": "2026’da Frontend Gelişiminin Yeni Yönü: Framework’lerin Ötesinde",
+    "link": "https://dev.to/erhanaky/2026da-frontend-gelisiminin-yeni-yonu-frameworklerin-otesinde-1ncd",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Improve JavaScript Code's Performance",
-    "link": "https://dev.to/hellonehha/how-to-improve-javascript-codes-performance-2i7i",
+    "title": "I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!",
+    "link": "https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "A story on Frontend Architectures - Back to the Future",
-    "link": "https://dev.to/purnez/a-story-on-frontend-architectures-back-to-the-future-gdc",
+    "title": "I built a CLI that keeps README.md in sync with code (GitHub doesn’t)",
+    "link": "https://dev.to/manish112233/i-built-a-cli-that-keeps-readmemd-in-sync-with-code-github-doesnt-1epp",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Tutorial sobre como crear objetos en javascript con programación orientada a objetos",
-    "link": "https://dev.to/oscarolg/tutorial-sobre-como-crear-objetos-en-javascript-con-programacion-orientada-a-objetos-icg",
+    "title": "How to stop OpenAI API credit draining using Client-Side Proof of Work (Node + React)",
+    "link": "https://dev.to/ronald_oloo_d67211d1e6e60/how-to-stop-openai-api-credit-draining-using-client-side-proof-of-work-node-react-5e6g",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Create a Contact Form in React.js with Email Notifications",
-    "link": "https://dev.to/davecodes/how-to-create-a-contact-form-in-reactjs-with-email-notifications-4ao7",
+    "title": "How I Built a Fast, Client-Side JSON Viewer for Developers",
+    "link": "https://dev.to/jsonviewertool/how-i-built-a-fast-client-side-json-viewer-for-developers-32md",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "LAN Party",
-    "link": "https://dev.to/rmion/lan-party-1o5h",
+    "title": "Transform System with the new Snap.svg (Basics - part 3)",
+    "link": "https://dev.to/o_vakarelov/transform-system-with-the-new-snapsvg-basics-part-3-3p07",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Introducing rn-animation-kit: The Easiest Way to Add Beautiful Animations to Your React Native App",
-    "link": "https://dev.to/noman_akram_6c329a67f88ca/introducing-rn-animation-kit-the-easiest-way-to-add-beautiful-animations-to-your-react-native-app-4ho4",
+    "title": "Guardium- Password Protector (Day-2)",
+    "link": "https://dev.to/debmalyadas007/guardium-password-protector-day-2-46k4",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Stop Writing Comments: Why Senior Devs Hate \"Stale Lies\"",
-    "link": "https://dev.to/doogal/stop-writing-comments-why-senior-devs-hate-stale-lies-dpi",
+    "title": "2026’da Frontend Gelişiminin Yeni Yönü: Framework’lerin Ötesinde",
+    "link": "https://dev.to/erhanaky/2026da-frontend-gelisiminin-yeni-yonu-frameworklerin-otesinde-1ncd",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Debugging IA slop is the future?",
-    "link": "https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6",
+    "title": "I built a free, open-source tool to improve my Chess Vision and Coordinate memory. Looking for feature ideas!",
+    "link": "https://dev.to/ibrahimsezer/i-built-a-free-open-source-tool-to-improve-my-chess-vision-and-coordinate-memory-looking-for-h83",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production",
-    "link": "https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij",
+    "title": "I built a CLI that keeps README.md in sync with code (GitHub doesn’t)",
+    "link": "https://dev.to/manish112233/i-built-a-cli-that-keeps-readmemd-in-sync-with-code-github-doesnt-1epp",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Improve JavaScript Code's Performance",
-    "link": "https://dev.to/hellonehha/how-to-improve-javascript-codes-performance-2i7i",
+    "title": "How to stop OpenAI API credit draining using Client-Side Proof of Work (Node + React)",
+    "link": "https://dev.to/ronald_oloo_d67211d1e6e60/how-to-stop-openai-api-credit-draining-using-client-side-proof-of-work-node-react-5e6g",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "A story on Frontend Architectures - Back to the Future",
-    "link": "https://dev.to/purnez/a-story-on-frontend-architectures-back-to-the-future-gdc",
+    "title": "How I Built a Fast, Client-Side JSON Viewer for Developers",
+    "link": "https://dev.to/jsonviewertool/how-i-built-a-fast-client-side-json-viewer-for-developers-32md",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "Tutorial sobre como crear objetos en javascript con programación orientada a objetos",
-    "link": "https://dev.to/oscarolg/tutorial-sobre-como-crear-objetos-en-javascript-con-programacion-orientada-a-objetos-icg",
+    "title": "Transform System with the new Snap.svg (Basics - part 3)",
+    "link": "https://dev.to/o_vakarelov/transform-system-with-the-new-snapsvg-basics-part-3-3p07",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "How to Create a Contact Form in React.js with Email Notifications",
-    "link": "https://dev.to/davecodes/how-to-create-a-contact-form-in-reactjs-with-email-notifications-4ao7",
+    "title": "Guardium- Password Protector (Day-2)",
+    "link": "https://dev.to/debmalyadas007/guardium-password-protector-day-2-46k4",
     "date": "12/19/2025",
     "site": "dev.to"
   },
   {
-    "title": "LAN Party",
-    "link": "https://dev.to/rmion/lan-party-1o5h",
-    "date": "12/19/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing rn-animation-kit: The Easiest Way to Add Beautiful Animations to Your React Native App",
-    "link": "https://dev.to/noman_akram_6c329a67f88ca/introducing-rn-animation-kit-the-easiest-way-to-add-beautiful-animations-to-your-react-native-app-4ho4",
-    "date": "12/19/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Writing Comments: Why Senior Devs Hate \"Stale Lies\"",
-    "link": "https://dev.to/doogal/stop-writing-comments-why-senior-devs-hate-stale-lies-dpi",
-    "date": "12/19/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Debugging IA slop is the future?",
-    "link": "https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6",
-    "date": "12/19/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production",
-    "link": "https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij",
-    "date": "12/19/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Improve JavaScript Code's Performance",
-    "link": "https://dev.to/hellonehha/how-to-improve-javascript-codes-performance-2i7i",
-    "date": "12/19/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "A story on Frontend Architectures - Back to the Future",
-    "link": "https://dev.to/purnez/a-story-on-frontend-architectures-back-to-the-future-gdc",
-    "date": "12/19/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tutorial sobre como crear objetos en javascript con programación orientada a objetos",
-    "link": "https://dev.to/oscarolg/tutorial-sobre-como-crear-objetos-en-javascript-con-programacion-orientada-a-objetos-icg",
-    "date": "12/19/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Create a Contact Form in React.js with Email Notifications",
-    "link": "https://dev.to/davecodes/how-to-create-a-contact-form-in-reactjs-with-email-notifications-4ao7",
-    "date": "12/19/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "LAN Party",
-    "link": "https://dev.to/rmion/lan-party-1o5h",
-    "date": "12/19/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing rn-animation-kit: The Easiest Way to Add Beautiful Animations to Your React Native App",
-    "link": "https://dev.to/noman_akram_6c329a67f88ca/introducing-rn-animation-kit-the-easiest-way-to-add-beautiful-animations-to-your-react-native-app-4ho4",
+    "title": "2026’da Frontend Gelişiminin Yeni Yönü: Framework’lerin Ötesinde",
+    "link": "https://dev.to/erhanaky/2026da-frontend-gelisiminin-yeni-yonu-frameworklerin-otesinde-1ncd",
     "date": "12/19/2025",
     "site": "dev.to"
   },
@@ -276,32 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Kiro's Agentic IDE: Hype, Hope and Hard Truths",
-    "link": "https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "What the heck Is a Single-Page Application Anyway?",
-    "link": "https://dev.to/shlokaguptaa/what-the-heck-is-a-single-page-application-anyway-47op",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an open-source Chrome Extension to stop my YouTube Shorts addiction (Manifest V3)",
-    "link": "https://dev.to/malekwael/i-built-an-open-source-chrome-extension-to-stop-my-youtube-shorts-addiction-manifest-v3-efp",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Errors encountered with one-shot AI",
-    "link": "https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Praktikum Keamanan Web: Cross-Site Scripting (XSS) 😱💉",
-    "link": "https://dev.to/ahmadasroni38/praktikum-keamanan-web-cross-site-scripting-xss-4h9c",
+    "title": "Congrats to the Frontend Challenge: Halloween Edition Winners!",
+    "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg",
     "date": "12/18/2025",
     "site": "dev.to"
   },
@@ -312,140 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Kiro's Agentic IDE: Hype, Hope and Hard Truths",
-    "link": "https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "What the heck Is a Single-Page Application Anyway?",
-    "link": "https://dev.to/shlokaguptaa/what-the-heck-is-a-single-page-application-anyway-47op",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an open-source Chrome Extension to stop my YouTube Shorts addiction (Manifest V3)",
-    "link": "https://dev.to/malekwael/i-built-an-open-source-chrome-extension-to-stop-my-youtube-shorts-addiction-manifest-v3-efp",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Errors encountered with one-shot AI",
-    "link": "https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Praktikum Keamanan Web: Cross-Site Scripting (XSS) 😱💉",
-    "link": "https://dev.to/ahmadasroni38/praktikum-keamanan-web-cross-site-scripting-xss-4h9c",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
     "title": "Congrats to the Frontend Challenge: Halloween Edition Winners!",
     "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg",
     "date": "12/18/2025",
     "site": "dev.to"
   },
   {
-    "title": "Kiro's Agentic IDE: Hype, Hope and Hard Truths",
-    "link": "https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "What the heck Is a Single-Page Application Anyway?",
-    "link": "https://dev.to/shlokaguptaa/what-the-heck-is-a-single-page-application-anyway-47op",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an open-source Chrome Extension to stop my YouTube Shorts addiction (Manifest V3)",
-    "link": "https://dev.to/malekwael/i-built-an-open-source-chrome-extension-to-stop-my-youtube-shorts-addiction-manifest-v3-efp",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Errors encountered with one-shot AI",
-    "link": "https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Praktikum Keamanan Web: Cross-Site Scripting (XSS) 😱💉",
-    "link": "https://dev.to/ahmadasroni38/praktikum-keamanan-web-cross-site-scripting-xss-4h9c",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
     "title": "Congrats to the Frontend Challenge: Halloween Edition Winners!",
     "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Kiro's Agentic IDE: Hype, Hope and Hard Truths",
-    "link": "https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "What the heck Is a Single-Page Application Anyway?",
-    "link": "https://dev.to/shlokaguptaa/what-the-heck-is-a-single-page-application-anyway-47op",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an open-source Chrome Extension to stop my YouTube Shorts addiction (Manifest V3)",
-    "link": "https://dev.to/malekwael/i-built-an-open-source-chrome-extension-to-stop-my-youtube-shorts-addiction-manifest-v3-efp",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Errors encountered with one-shot AI",
-    "link": "https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Praktikum Keamanan Web: Cross-Site Scripting (XSS) 😱💉",
-    "link": "https://dev.to/ahmadasroni38/praktikum-keamanan-web-cross-site-scripting-xss-4h9c",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Congrats to the Frontend Challenge: Halloween Edition Winners!",
-    "link": "https://dev.to/devteam/congrats-to-the-frontend-challenge-halloween-edition-winners-13pg",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Kiro's Agentic IDE: Hype, Hope and Hard Truths",
-    "link": "https://dev.to/aws-builders/kiros-agentic-ide-hype-hope-and-hard-truths-1dpi",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "What the heck Is a Single-Page Application Anyway?",
-    "link": "https://dev.to/shlokaguptaa/what-the-heck-is-a-single-page-application-anyway-47op",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an open-source Chrome Extension to stop my YouTube Shorts addiction (Manifest V3)",
-    "link": "https://dev.to/malekwael/i-built-an-open-source-chrome-extension-to-stop-my-youtube-shorts-addiction-manifest-v3-efp",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Errors encountered with one-shot AI",
-    "link": "https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l",
-    "date": "12/18/2025",
-    "site": "dev.to"
-  },
-  {
-    "title": "Praktikum Keamanan Web: Cross-Site Scripting (XSS) 😱💉",
-    "link": "https://dev.to/ahmadasroni38/praktikum-keamanan-web-cross-site-scripting-xss-4h9c",
     "date": "12/18/2025",
     "site": "dev.to"
   },
@@ -473,7 +473,7 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
@@ -718,7 +718,7 @@
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -732,7 +732,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "7 min read",
+    "reading_time": "8 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
@@ -746,7 +746,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
