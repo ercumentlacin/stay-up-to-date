@@ -1,272 +1,422 @@
 [
   {
-    "title": "Node.js Events",
-    "link": "https://dev.to/georgiy777/nodejs-events-1f1d",
+    "title": "5 Real-Life Problems Solved with Async Generators in JavaScript",
+    "link": "https://dev.to/jsmanifest/5-real-life-problems-solved-with-async-generators-in-javascript-1ac2",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Beyond if (stock > 0): Handling Race Conditions in High-Traffic E-Commerce Systems",
+    "link": "https://dev.to/aaditya_efec6eedf3319cec3/beyond-if-stock-0-handling-race-conditions-in-high-traffic-e-commerce-systems-481",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RWA New Strategy: A Step-by-Step Guide to Automated US Stock Token Trading with Inventor Workflow",
+    "link": "https://dev.to/chronosquant/rwa-new-strategy-a-step-by-step-guide-to-automated-us-stock-token-trading-with-inventor-workflow-4d2f",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Voice Journaling for Mental Clarity: How to Build Your Own AI-Powered Reflection Tool",
+    "link": "https://dev.to/wellallytech/voice-journaling-for-mental-clarity-how-to-build-your-own-ai-powered-reflection-tool-1fcg",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Real-Life Problems Solved with Async Generators in JavaScript",
+    "link": "https://dev.to/jsmanifest/5-real-life-problems-solved-with-async-generators-in-javascript-1ac2",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Beyond if (stock > 0): Handling Race Conditions in High-Traffic E-Commerce Systems",
+    "link": "https://dev.to/aaditya_efec6eedf3319cec3/beyond-if-stock-0-handling-race-conditions-in-high-traffic-e-commerce-systems-481",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RWA New Strategy: A Step-by-Step Guide to Automated US Stock Token Trading with Inventor Workflow",
+    "link": "https://dev.to/chronosquant/rwa-new-strategy-a-step-by-step-guide-to-automated-us-stock-token-trading-with-inventor-workflow-4d2f",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Voice Journaling for Mental Clarity: How to Build Your Own AI-Powered Reflection Tool",
+    "link": "https://dev.to/wellallytech/voice-journaling-for-mental-clarity-how-to-build-your-own-ai-powered-reflection-tool-1fcg",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Real-Life Problems Solved with Async Generators in JavaScript",
+    "link": "https://dev.to/jsmanifest/5-real-life-problems-solved-with-async-generators-in-javascript-1ac2",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Beyond if (stock > 0): Handling Race Conditions in High-Traffic E-Commerce Systems",
+    "link": "https://dev.to/aaditya_efec6eedf3319cec3/beyond-if-stock-0-handling-race-conditions-in-high-traffic-e-commerce-systems-481",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RWA New Strategy: A Step-by-Step Guide to Automated US Stock Token Trading with Inventor Workflow",
+    "link": "https://dev.to/chronosquant/rwa-new-strategy-a-step-by-step-guide-to-automated-us-stock-token-trading-with-inventor-workflow-4d2f",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Voice Journaling for Mental Clarity: How to Build Your Own AI-Powered Reflection Tool",
+    "link": "https://dev.to/wellallytech/voice-journaling-for-mental-clarity-how-to-build-your-own-ai-powered-reflection-tool-1fcg",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Real-Life Problems Solved with Async Generators in JavaScript",
+    "link": "https://dev.to/jsmanifest/5-real-life-problems-solved-with-async-generators-in-javascript-1ac2",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Beyond if (stock > 0): Handling Race Conditions in High-Traffic E-Commerce Systems",
+    "link": "https://dev.to/aaditya_efec6eedf3319cec3/beyond-if-stock-0-handling-race-conditions-in-high-traffic-e-commerce-systems-481",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RWA New Strategy: A Step-by-Step Guide to Automated US Stock Token Trading with Inventor Workflow",
+    "link": "https://dev.to/chronosquant/rwa-new-strategy-a-step-by-step-guide-to-automated-us-stock-token-trading-with-inventor-workflow-4d2f",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Voice Journaling for Mental Clarity: How to Build Your Own AI-Powered Reflection Tool",
+    "link": "https://dev.to/wellallytech/voice-journaling-for-mental-clarity-how-to-build-your-own-ai-powered-reflection-tool-1fcg",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Real-Life Problems Solved with Async Generators in JavaScript",
+    "link": "https://dev.to/jsmanifest/5-real-life-problems-solved-with-async-generators-in-javascript-1ac2",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Beyond if (stock > 0): Handling Race Conditions in High-Traffic E-Commerce Systems",
+    "link": "https://dev.to/aaditya_efec6eedf3319cec3/beyond-if-stock-0-handling-race-conditions-in-high-traffic-e-commerce-systems-481",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RWA New Strategy: A Step-by-Step Guide to Automated US Stock Token Trading with Inventor Workflow",
+    "link": "https://dev.to/chronosquant/rwa-new-strategy-a-step-by-step-guide-to-automated-us-stock-token-trading-with-inventor-workflow-4d2f",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Voice Journaling for Mental Clarity: How to Build Your Own AI-Powered Reflection Tool",
+    "link": "https://dev.to/wellallytech/voice-journaling-for-mental-clarity-how-to-build-your-own-ai-powered-reflection-tool-1fcg",
+    "date": "1/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Preparando uma API NodeJS para produção",
+    "link": "https://dev.to/matheusgondra/preparando-uma-api-nodejs-para-producao-2eic",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Scaling: Ensure App Stability with a Resilient Microservices Transformation",
-    "link": "https://dev.to/wellallytech/nodejs-scaling-ensure-app-stability-with-a-resilient-microservices-transformation-27e",
+    "title": "🥊 Decorators vs Native TS: Which Won 2026’s TypeScript GraphQL Schema Showdown? (8 Frameworks Head-to-Head)",
+    "link": "https://dev.to/xcfox/decorators-vs-native-ts-which-won-2026s-typescript-graphql-schema-showdown-8-frameworks-c5n",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stay ahead in web development: latest news, tools, and insights #118",
-    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-118-578j",
+    "title": "TypeGraphQL Evaluation Report",
+    "link": "https://dev.to/xcfox/typegraphql-evaluation-report-1lil",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Events",
-    "link": "https://dev.to/georgiy777/nodejs-events-1f1d",
+    "title": "Pothos Evaluation Report",
+    "link": "https://dev.to/xcfox/pothos-evaluation-report-3d91",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Scaling: Ensure App Stability with a Resilient Microservices Transformation",
-    "link": "https://dev.to/wellallytech/nodejs-scaling-ensure-app-stability-with-a-resilient-microservices-transformation-27e",
+    "title": "Nexus Evaluation Report",
+    "link": "https://dev.to/xcfox/nexus-evaluation-report-393k",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stay ahead in web development: latest news, tools, and insights #118",
-    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-118-578j",
+    "title": "# How Express.js Works Behind the Scenes: An Inside Look",
+    "link": "https://dev.to/sudiip__17/-how-expressjs-works-behind-the-scenes-an-inside-look-4h4d",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Events",
-    "link": "https://dev.to/georgiy777/nodejs-events-1f1d",
+    "title": "Grats Evaluation Report",
+    "link": "https://dev.to/xcfox/grats-evaluation-report-p0m",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Scaling: Ensure App Stability with a Resilient Microservices Transformation",
-    "link": "https://dev.to/wellallytech/nodejs-scaling-ensure-app-stability-with-a-resilient-microservices-transformation-27e",
+    "title": "gqtx Evaluation Report",
+    "link": "https://dev.to/xcfox/gqtx-evaluation-report-2p2e",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stay ahead in web development: latest news, tools, and insights #118",
-    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-118-578j",
+    "title": "Architecting Scalable and Maintainable Node.js Applications: Best Practices and Examples",
+    "link": "https://dev.to/jefersoneiji/architecting-scalable-and-maintainable-nodejs-applications-best-practices-and-examples-o16",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Events",
-    "link": "https://dev.to/georgiy777/nodejs-events-1f1d",
+    "title": "Pylon Evaluation Report",
+    "link": "https://dev.to/xcfox/pylon-evaluation-report-26ef",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Scaling: Ensure App Stability with a Resilient Microservices Transformation",
-    "link": "https://dev.to/wellallytech/nodejs-scaling-ensure-app-stability-with-a-resilient-microservices-transformation-27e",
+    "title": "Preparando uma API NodeJS para produção",
+    "link": "https://dev.to/matheusgondra/preparando-uma-api-nodejs-para-producao-2eic",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stay ahead in web development: latest news, tools, and insights #118",
-    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-118-578j",
+    "title": "🥊 Decorators vs Native TS: Which Won 2026’s TypeScript GraphQL Schema Showdown? (8 Frameworks Head-to-Head)",
+    "link": "https://dev.to/xcfox/decorators-vs-native-ts-which-won-2026s-typescript-graphql-schema-showdown-8-frameworks-c5n",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Events",
-    "link": "https://dev.to/georgiy777/nodejs-events-1f1d",
+    "title": "TypeGraphQL Evaluation Report",
+    "link": "https://dev.to/xcfox/typegraphql-evaluation-report-1lil",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Scaling: Ensure App Stability with a Resilient Microservices Transformation",
-    "link": "https://dev.to/wellallytech/nodejs-scaling-ensure-app-stability-with-a-resilient-microservices-transformation-27e",
+    "title": "Pothos Evaluation Report",
+    "link": "https://dev.to/xcfox/pothos-evaluation-report-3d91",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stay ahead in web development: latest news, tools, and insights #118",
-    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-118-578j",
+    "title": "Nexus Evaluation Report",
+    "link": "https://dev.to/xcfox/nexus-evaluation-report-393k",
     "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Yes, true + true === 2. And No, JavaScript Isn’t Broken",
-    "link": "https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7",
-    "date": "1/4/2026",
+    "title": "# How Express.js Works Behind the Scenes: An Inside Look",
+    "link": "https://dev.to/sudiip__17/-how-expressjs-works-behind-the-scenes-an-inside-look-4h4d",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Closures and Scopes in JavaScript",
-    "link": "https://dev.to/lucaspereiradesouzat/closures-and-scopes-in-javascript-154h",
-    "date": "1/4/2026",
+    "title": "Grats Evaluation Report",
+    "link": "https://dev.to/xcfox/grats-evaluation-report-p0m",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Introducing strfi: The Ultimate String Utility Library for JavaScript & TypeScript",
-    "link": "https://dev.to/sepehr/introducing-strfi-the-ultimate-string-utility-library-for-javascript-typescript-4kci",
-    "date": "1/4/2026",
+    "title": "gqtx Evaluation Report",
+    "link": "https://dev.to/xcfox/gqtx-evaluation-report-2p2e",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Iterflow: Lazy Iterators for TypeScript",
-    "link": "https://dev.to/gvsh_maths/iterflow-lazy-iterators-for-typescript-7nf",
-    "date": "1/4/2026",
+    "title": "Architecting Scalable and Maintainable Node.js Applications: Best Practices and Examples",
+    "link": "https://dev.to/jefersoneiji/architecting-scalable-and-maintainable-nodejs-applications-best-practices-and-examples-o16",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Small Free Tool to Make SOQL Queries Less Painful",
-    "link": "https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0",
-    "date": "1/4/2026",
+    "title": "Pylon Evaluation Report",
+    "link": "https://dev.to/xcfox/pylon-evaluation-report-26ef",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "How Structured Thinking Fixed REST API Design",
-    "link": "https://dev.to/ace2504/how-structured-thinking-fixed-my-api-design-a-case-study-i1n",
-    "date": "1/4/2026",
+    "title": "Preparando uma API NodeJS para produção",
+    "link": "https://dev.to/matheusgondra/preparando-uma-api-nodejs-para-producao-2eic",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Yes, true + true === 2. And No, JavaScript Isn’t Broken",
-    "link": "https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7",
-    "date": "1/4/2026",
+    "title": "🥊 Decorators vs Native TS: Which Won 2026’s TypeScript GraphQL Schema Showdown? (8 Frameworks Head-to-Head)",
+    "link": "https://dev.to/xcfox/decorators-vs-native-ts-which-won-2026s-typescript-graphql-schema-showdown-8-frameworks-c5n",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Closures and Scopes in JavaScript",
-    "link": "https://dev.to/lucaspereiradesouzat/closures-and-scopes-in-javascript-154h",
-    "date": "1/4/2026",
+    "title": "TypeGraphQL Evaluation Report",
+    "link": "https://dev.to/xcfox/typegraphql-evaluation-report-1lil",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Introducing strfi: The Ultimate String Utility Library for JavaScript & TypeScript",
-    "link": "https://dev.to/sepehr/introducing-strfi-the-ultimate-string-utility-library-for-javascript-typescript-4kci",
-    "date": "1/4/2026",
+    "title": "Pothos Evaluation Report",
+    "link": "https://dev.to/xcfox/pothos-evaluation-report-3d91",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Iterflow: Lazy Iterators for TypeScript",
-    "link": "https://dev.to/gvsh_maths/iterflow-lazy-iterators-for-typescript-7nf",
-    "date": "1/4/2026",
+    "title": "Nexus Evaluation Report",
+    "link": "https://dev.to/xcfox/nexus-evaluation-report-393k",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Small Free Tool to Make SOQL Queries Less Painful",
-    "link": "https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0",
-    "date": "1/4/2026",
+    "title": "# How Express.js Works Behind the Scenes: An Inside Look",
+    "link": "https://dev.to/sudiip__17/-how-expressjs-works-behind-the-scenes-an-inside-look-4h4d",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "How Structured Thinking Fixed REST API Design",
-    "link": "https://dev.to/ace2504/how-structured-thinking-fixed-my-api-design-a-case-study-i1n",
-    "date": "1/4/2026",
+    "title": "Grats Evaluation Report",
+    "link": "https://dev.to/xcfox/grats-evaluation-report-p0m",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Yes, true + true === 2. And No, JavaScript Isn’t Broken",
-    "link": "https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7",
-    "date": "1/4/2026",
+    "title": "gqtx Evaluation Report",
+    "link": "https://dev.to/xcfox/gqtx-evaluation-report-2p2e",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Closures and Scopes in JavaScript",
-    "link": "https://dev.to/lucaspereiradesouzat/closures-and-scopes-in-javascript-154h",
-    "date": "1/4/2026",
+    "title": "Architecting Scalable and Maintainable Node.js Applications: Best Practices and Examples",
+    "link": "https://dev.to/jefersoneiji/architecting-scalable-and-maintainable-nodejs-applications-best-practices-and-examples-o16",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Introducing strfi: The Ultimate String Utility Library for JavaScript & TypeScript",
-    "link": "https://dev.to/sepehr/introducing-strfi-the-ultimate-string-utility-library-for-javascript-typescript-4kci",
-    "date": "1/4/2026",
+    "title": "Pylon Evaluation Report",
+    "link": "https://dev.to/xcfox/pylon-evaluation-report-26ef",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Iterflow: Lazy Iterators for TypeScript",
-    "link": "https://dev.to/gvsh_maths/iterflow-lazy-iterators-for-typescript-7nf",
-    "date": "1/4/2026",
+    "title": "Preparando uma API NodeJS para produção",
+    "link": "https://dev.to/matheusgondra/preparando-uma-api-nodejs-para-producao-2eic",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Small Free Tool to Make SOQL Queries Less Painful",
-    "link": "https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0",
-    "date": "1/4/2026",
+    "title": "🥊 Decorators vs Native TS: Which Won 2026’s TypeScript GraphQL Schema Showdown? (8 Frameworks Head-to-Head)",
+    "link": "https://dev.to/xcfox/decorators-vs-native-ts-which-won-2026s-typescript-graphql-schema-showdown-8-frameworks-c5n",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "How Structured Thinking Fixed REST API Design",
-    "link": "https://dev.to/ace2504/how-structured-thinking-fixed-my-api-design-a-case-study-i1n",
-    "date": "1/4/2026",
+    "title": "TypeGraphQL Evaluation Report",
+    "link": "https://dev.to/xcfox/typegraphql-evaluation-report-1lil",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Yes, true + true === 2. And No, JavaScript Isn’t Broken",
-    "link": "https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7",
-    "date": "1/4/2026",
+    "title": "Pothos Evaluation Report",
+    "link": "https://dev.to/xcfox/pothos-evaluation-report-3d91",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Closures and Scopes in JavaScript",
-    "link": "https://dev.to/lucaspereiradesouzat/closures-and-scopes-in-javascript-154h",
-    "date": "1/4/2026",
+    "title": "Nexus Evaluation Report",
+    "link": "https://dev.to/xcfox/nexus-evaluation-report-393k",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Introducing strfi: The Ultimate String Utility Library for JavaScript & TypeScript",
-    "link": "https://dev.to/sepehr/introducing-strfi-the-ultimate-string-utility-library-for-javascript-typescript-4kci",
-    "date": "1/4/2026",
+    "title": "# How Express.js Works Behind the Scenes: An Inside Look",
+    "link": "https://dev.to/sudiip__17/-how-expressjs-works-behind-the-scenes-an-inside-look-4h4d",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Iterflow: Lazy Iterators for TypeScript",
-    "link": "https://dev.to/gvsh_maths/iterflow-lazy-iterators-for-typescript-7nf",
-    "date": "1/4/2026",
+    "title": "Grats Evaluation Report",
+    "link": "https://dev.to/xcfox/grats-evaluation-report-p0m",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Small Free Tool to Make SOQL Queries Less Painful",
-    "link": "https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0",
-    "date": "1/4/2026",
+    "title": "gqtx Evaluation Report",
+    "link": "https://dev.to/xcfox/gqtx-evaluation-report-2p2e",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "How Structured Thinking Fixed REST API Design",
-    "link": "https://dev.to/ace2504/how-structured-thinking-fixed-my-api-design-a-case-study-i1n",
-    "date": "1/4/2026",
+    "title": "Architecting Scalable and Maintainable Node.js Applications: Best Practices and Examples",
+    "link": "https://dev.to/jefersoneiji/architecting-scalable-and-maintainable-nodejs-applications-best-practices-and-examples-o16",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Yes, true + true === 2. And No, JavaScript Isn’t Broken",
-    "link": "https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7",
-    "date": "1/4/2026",
+    "title": "Pylon Evaluation Report",
+    "link": "https://dev.to/xcfox/pylon-evaluation-report-26ef",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Closures and Scopes in JavaScript",
-    "link": "https://dev.to/lucaspereiradesouzat/closures-and-scopes-in-javascript-154h",
-    "date": "1/4/2026",
+    "title": "Preparando uma API NodeJS para produção",
+    "link": "https://dev.to/matheusgondra/preparando-uma-api-nodejs-para-producao-2eic",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Introducing strfi: The Ultimate String Utility Library for JavaScript & TypeScript",
-    "link": "https://dev.to/sepehr/introducing-strfi-the-ultimate-string-utility-library-for-javascript-typescript-4kci",
-    "date": "1/4/2026",
+    "title": "🥊 Decorators vs Native TS: Which Won 2026’s TypeScript GraphQL Schema Showdown? (8 Frameworks Head-to-Head)",
+    "link": "https://dev.to/xcfox/decorators-vs-native-ts-which-won-2026s-typescript-graphql-schema-showdown-8-frameworks-c5n",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Iterflow: Lazy Iterators for TypeScript",
-    "link": "https://dev.to/gvsh_maths/iterflow-lazy-iterators-for-typescript-7nf",
-    "date": "1/4/2026",
+    "title": "TypeGraphQL Evaluation Report",
+    "link": "https://dev.to/xcfox/typegraphql-evaluation-report-1lil",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Small Free Tool to Make SOQL Queries Less Painful",
-    "link": "https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0",
-    "date": "1/4/2026",
+    "title": "Pothos Evaluation Report",
+    "link": "https://dev.to/xcfox/pothos-evaluation-report-3d91",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "How Structured Thinking Fixed REST API Design",
-    "link": "https://dev.to/ace2504/how-structured-thinking-fixed-my-api-design-a-case-study-i1n",
-    "date": "1/4/2026",
+    "title": "Nexus Evaluation Report",
+    "link": "https://dev.to/xcfox/nexus-evaluation-report-393k",
+    "date": "1/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# How Express.js Works Behind the Scenes: An Inside Look",
+    "link": "https://dev.to/sudiip__17/-how-expressjs-works-behind-the-scenes-an-inside-look-4h4d",
+    "date": "1/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Grats Evaluation Report",
+    "link": "https://dev.to/xcfox/grats-evaluation-report-p0m",
+    "date": "1/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "gqtx Evaluation Report",
+    "link": "https://dev.to/xcfox/gqtx-evaluation-report-2p2e",
+    "date": "1/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Architecting Scalable and Maintainable Node.js Applications: Best Practices and Examples",
+    "link": "https://dev.to/jefersoneiji/architecting-scalable-and-maintainable-nodejs-applications-best-practices-and-examples-o16",
+    "date": "1/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pylon Evaluation Report",
+    "link": "https://dev.to/xcfox/pylon-evaluation-report-26ef",
+    "date": "1/5/2026",
     "site": "dev.to"
   },
   {
@@ -276,32 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Why setTimeout Returns an Object in Node.js (and Why setInterval Can Break Your App)",
-    "link": "https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 3: Implementing Resolvers & Server Setup",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-3-implementing-resolvers-server-setup-3gn4",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 4: Subscriptions & Redis",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-4-subscriptions-redis-4kgn",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 1: Project Setup & Type Generation",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-1-project-setup-type-generation-5f3n",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Caching Patterns and Strategies for High-Traffic Applications",
-    "link": "https://dev.to/aman_kumar_6d5d23b9b1ed02/caching-patterns-and-strategies-for-high-traffic-applications-3hc6",
+    "title": "🚀 NestJS + RedisOM: Elevando el manejo de Estado a otro nivel",
+    "link": "https://dev.to/alpha018/nestjs-redisom-elevando-el-manejo-de-estado-a-otro-nivel-46bo",
     "date": "1/3/2026",
     "site": "dev.to"
   },
@@ -312,140 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Why setTimeout Returns an Object in Node.js (and Why setInterval Can Break Your App)",
-    "link": "https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 3: Implementing Resolvers & Server Setup",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-3-implementing-resolvers-server-setup-3gn4",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 4: Subscriptions & Redis",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-4-subscriptions-redis-4kgn",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 1: Project Setup & Type Generation",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-1-project-setup-type-generation-5f3n",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Caching Patterns and Strategies for High-Traffic Applications",
-    "link": "https://dev.to/aman_kumar_6d5d23b9b1ed02/caching-patterns-and-strategies-for-high-traffic-applications-3hc6",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "🚀 NestJS + RedisOM: Elevando el manejo de Estado a otro nivel",
     "link": "https://dev.to/alpha018/nestjs-redisom-elevando-el-manejo-de-estado-a-otro-nivel-46bo",
     "date": "1/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why setTimeout Returns an Object in Node.js (and Why setInterval Can Break Your App)",
-    "link": "https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 3: Implementing Resolvers & Server Setup",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-3-implementing-resolvers-server-setup-3gn4",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 4: Subscriptions & Redis",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-4-subscriptions-redis-4kgn",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 1: Project Setup & Type Generation",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-1-project-setup-type-generation-5f3n",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Caching Patterns and Strategies for High-Traffic Applications",
-    "link": "https://dev.to/aman_kumar_6d5d23b9b1ed02/caching-patterns-and-strategies-for-high-traffic-applications-3hc6",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "🚀 NestJS + RedisOM: Elevando el manejo de Estado a otro nivel",
     "link": "https://dev.to/alpha018/nestjs-redisom-elevando-el-manejo-de-estado-a-otro-nivel-46bo",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why setTimeout Returns an Object in Node.js (and Why setInterval Can Break Your App)",
-    "link": "https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 3: Implementing Resolvers & Server Setup",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-3-implementing-resolvers-server-setup-3gn4",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 4: Subscriptions & Redis",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-4-subscriptions-redis-4kgn",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 1: Project Setup & Type Generation",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-1-project-setup-type-generation-5f3n",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Caching Patterns and Strategies for High-Traffic Applications",
-    "link": "https://dev.to/aman_kumar_6d5d23b9b1ed02/caching-patterns-and-strategies-for-high-traffic-applications-3hc6",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 NestJS + RedisOM: Elevando el manejo de Estado a otro nivel",
-    "link": "https://dev.to/alpha018/nestjs-redisom-elevando-el-manejo-de-estado-a-otro-nivel-46bo",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why setTimeout Returns an Object in Node.js (and Why setInterval Can Break Your App)",
-    "link": "https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 3: Implementing Resolvers & Server Setup",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-3-implementing-resolvers-server-setup-3gn4",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 4: Subscriptions & Redis",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-4-subscriptions-redis-4kgn",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Catalog GraphQL API with InversifyJS - Part 1: Project Setup & Type Generation",
-    "link": "https://dev.to/notaphplover/building-a-catalog-graphql-api-with-inversifyjs-part-1-project-setup-type-generation-5f3n",
-    "date": "1/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Caching Patterns and Strategies for High-Traffic Applications",
-    "link": "https://dev.to/aman_kumar_6d5d23b9b1ed02/caching-patterns-and-strategies-for-high-traffic-applications-3hc6",
     "date": "1/3/2026",
     "site": "dev.to"
   },
@@ -508,7 +508,7 @@
   {
     "title": "The Guide To Ethical Scraping Of Dynamic Websites With Node.js And Puppeteer",
     "link": "https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "3/11/2021",
     "site": "smashingmagazine"
   },
@@ -543,7 +543,7 @@
   {
     "title": "Getting Started With Axios In Nuxt",
     "link": "https://www.smashingmagazine.com/2020/05/getting-started-axios-nuxt/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "5/26/2020",
     "site": "smashingmagazine"
   },
@@ -655,7 +655,7 @@
   {
     "title": "How To Build A Skin For Your Web App With React And WordPress",
     "link": "https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "3/7/2018",
     "site": "smashingmagazine"
   },
