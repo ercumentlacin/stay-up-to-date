@@ -1,187 +1,427 @@
 [
   {
-    "title": "Revisiting: Clean Up Your Code by Applying These 7 Rules",
-    "link": "https://dev.to/joachimzeelmaekers/revisiting-clean-up-your-code-by-applying-these-7-rules-5clj",
+    "title": "The Secret Life of JavaScript: The Garbage Collector",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Two JavaScript Fundamentals You Need Before Implementing Signals",
+    "link": "https://dev.to/luciano0322/two-javascript-fundamentals-you-need-before-implementing-signals-3pcn",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Was Still Afraid of useReducer in 2026 — Until I Built This Small Project",
+    "link": "https://dev.to/usama_dev/i-was-still-afraid-of-usereducer-in-2026-until-i-built-this-small-project-27dp",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a 2M ops/sec Job Queue in Rust to Replace Redis",
+    "link": "https://dev.to/egeominotti/i-built-a-2m-opssec-job-queue-in-rust-to-replace-redis-6hg",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Virus While You’re Coding: How AI Can Compromise Your Project",
+    "link": "https://dev.to/rio14/virus-while-youre-coding-how-ai-can-compromise-your-project-30bc",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Inline Event Handlers",
+    "link": "https://dev.to/thiraisuvadu_dev/inline-event-handlers-3oak",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript-ல் Listeners - \"ஒட்டுக்கேட்கும் கருவி\"",
+    "link": "https://dev.to/thiraisuvadu_dev/javascript-l-listeners-ottttukkeettkum-kruvi-499l",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript DOM",
+    "link": "https://dev.to/thiraisuvadu_dev/javascript-dom-2oao",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Stripe Webhook Signature Verification Fails (and When to Stop Debugging)",
+    "link": "https://dev.to/xiaoqing_wang_b7bbaa175e1/why-stripe-webhook-signature-verification-fails-and-when-to-stop-debugging-1okj",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are We All Just Copying Code and Pretending We Know What We're Doing?",
+    "link": "https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer",
+    "link": "https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎢 Beginner-Friendly Guide 'Construct the Minimum Bitwise Array II' - LeetCode 3315 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-construct-the-minimum-bitwise-array-ii-leetcode-3315-c-python-2a2",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js SSR vs CSR vs SSG which is best to use and when to use?",
+    "link": "https://dev.to/athashri_keny/nextjs-ssr-vs-csr-vs-ssg-which-is-best-to-use-and-when-to-use-3ffi",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Garbage Collector",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Two JavaScript Fundamentals You Need Before Implementing Signals",
+    "link": "https://dev.to/luciano0322/two-javascript-fundamentals-you-need-before-implementing-signals-3pcn",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Was Still Afraid of useReducer in 2026 — Until I Built This Small Project",
+    "link": "https://dev.to/usama_dev/i-was-still-afraid-of-usereducer-in-2026-until-i-built-this-small-project-27dp",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a 2M ops/sec Job Queue in Rust to Replace Redis",
+    "link": "https://dev.to/egeominotti/i-built-a-2m-opssec-job-queue-in-rust-to-replace-redis-6hg",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Virus While You’re Coding: How AI Can Compromise Your Project",
+    "link": "https://dev.to/rio14/virus-while-youre-coding-how-ai-can-compromise-your-project-30bc",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Inline Event Handlers",
+    "link": "https://dev.to/thiraisuvadu_dev/inline-event-handlers-3oak",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript-ல் Listeners - \"ஒட்டுக்கேட்கும் கருவி\"",
+    "link": "https://dev.to/thiraisuvadu_dev/javascript-l-listeners-ottttukkeettkum-kruvi-499l",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript DOM",
+    "link": "https://dev.to/thiraisuvadu_dev/javascript-dom-2oao",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Stripe Webhook Signature Verification Fails (and When to Stop Debugging)",
+    "link": "https://dev.to/xiaoqing_wang_b7bbaa175e1/why-stripe-webhook-signature-verification-fails-and-when-to-stop-debugging-1okj",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are We All Just Copying Code and Pretending We Know What We're Doing?",
+    "link": "https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer",
+    "link": "https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎢 Beginner-Friendly Guide 'Construct the Minimum Bitwise Array II' - LeetCode 3315 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-construct-the-minimum-bitwise-array-ii-leetcode-3315-c-python-2a2",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js SSR vs CSR vs SSG which is best to use and when to use?",
+    "link": "https://dev.to/athashri_keny/nextjs-ssr-vs-csr-vs-ssg-which-is-best-to-use-and-when-to-use-3ffi",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Garbage Collector",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Two JavaScript Fundamentals You Need Before Implementing Signals",
+    "link": "https://dev.to/luciano0322/two-javascript-fundamentals-you-need-before-implementing-signals-3pcn",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Was Still Afraid of useReducer in 2026 — Until I Built This Small Project",
+    "link": "https://dev.to/usama_dev/i-was-still-afraid-of-usereducer-in-2026-until-i-built-this-small-project-27dp",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a 2M ops/sec Job Queue in Rust to Replace Redis",
+    "link": "https://dev.to/egeominotti/i-built-a-2m-opssec-job-queue-in-rust-to-replace-redis-6hg",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Virus While You’re Coding: How AI Can Compromise Your Project",
+    "link": "https://dev.to/rio14/virus-while-youre-coding-how-ai-can-compromise-your-project-30bc",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Inline Event Handlers",
+    "link": "https://dev.to/thiraisuvadu_dev/inline-event-handlers-3oak",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript-ல் Listeners - \"ஒட்டுக்கேட்கும் கருவி\"",
+    "link": "https://dev.to/thiraisuvadu_dev/javascript-l-listeners-ottttukkeettkum-kruvi-499l",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript DOM",
+    "link": "https://dev.to/thiraisuvadu_dev/javascript-dom-2oao",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Stripe Webhook Signature Verification Fails (and When to Stop Debugging)",
+    "link": "https://dev.to/xiaoqing_wang_b7bbaa175e1/why-stripe-webhook-signature-verification-fails-and-when-to-stop-debugging-1okj",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are We All Just Copying Code and Pretending We Know What We're Doing?",
+    "link": "https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer",
+    "link": "https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎢 Beginner-Friendly Guide 'Construct the Minimum Bitwise Array II' - LeetCode 3315 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-construct-the-minimum-bitwise-array-ii-leetcode-3315-c-python-2a2",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js SSR vs CSR vs SSG which is best to use and when to use?",
+    "link": "https://dev.to/athashri_keny/nextjs-ssr-vs-csr-vs-ssg-which-is-best-to-use-and-when-to-use-3ffi",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Garbage Collector",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Two JavaScript Fundamentals You Need Before Implementing Signals",
+    "link": "https://dev.to/luciano0322/two-javascript-fundamentals-you-need-before-implementing-signals-3pcn",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Was Still Afraid of useReducer in 2026 — Until I Built This Small Project",
+    "link": "https://dev.to/usama_dev/i-was-still-afraid-of-usereducer-in-2026-until-i-built-this-small-project-27dp",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a 2M ops/sec Job Queue in Rust to Replace Redis",
+    "link": "https://dev.to/egeominotti/i-built-a-2m-opssec-job-queue-in-rust-to-replace-redis-6hg",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Virus While You’re Coding: How AI Can Compromise Your Project",
+    "link": "https://dev.to/rio14/virus-while-youre-coding-how-ai-can-compromise-your-project-30bc",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Inline Event Handlers",
+    "link": "https://dev.to/thiraisuvadu_dev/inline-event-handlers-3oak",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript-ல் Listeners - \"ஒட்டுக்கேட்கும் கருவி\"",
+    "link": "https://dev.to/thiraisuvadu_dev/javascript-l-listeners-ottttukkeettkum-kruvi-499l",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript DOM",
+    "link": "https://dev.to/thiraisuvadu_dev/javascript-dom-2oao",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Stripe Webhook Signature Verification Fails (and When to Stop Debugging)",
+    "link": "https://dev.to/xiaoqing_wang_b7bbaa175e1/why-stripe-webhook-signature-verification-fails-and-when-to-stop-debugging-1okj",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are We All Just Copying Code and Pretending We Know What We're Doing?",
+    "link": "https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer",
+    "link": "https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎢 Beginner-Friendly Guide 'Construct the Minimum Bitwise Array II' - LeetCode 3315 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-construct-the-minimum-bitwise-array-ii-leetcode-3315-c-python-2a2",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js SSR vs CSR vs SSG which is best to use and when to use?",
+    "link": "https://dev.to/athashri_keny/nextjs-ssr-vs-csr-vs-ssg-which-is-best-to-use-and-when-to-use-3ffi",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Garbage Collector",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-garbage-collector-1cok",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Two JavaScript Fundamentals You Need Before Implementing Signals",
+    "link": "https://dev.to/luciano0322/two-javascript-fundamentals-you-need-before-implementing-signals-3pcn",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Was Still Afraid of useReducer in 2026 — Until I Built This Small Project",
+    "link": "https://dev.to/usama_dev/i-was-still-afraid-of-usereducer-in-2026-until-i-built-this-small-project-27dp",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a 2M ops/sec Job Queue in Rust to Replace Redis",
+    "link": "https://dev.to/egeominotti/i-built-a-2m-opssec-job-queue-in-rust-to-replace-redis-6hg",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Virus While You’re Coding: How AI Can Compromise Your Project",
+    "link": "https://dev.to/rio14/virus-while-youre-coding-how-ai-can-compromise-your-project-30bc",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Inline Event Handlers",
+    "link": "https://dev.to/thiraisuvadu_dev/inline-event-handlers-3oak",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript-ல் Listeners - \"ஒட்டுக்கேட்கும் கருவி\"",
+    "link": "https://dev.to/thiraisuvadu_dev/javascript-l-listeners-ottttukkeettkum-kruvi-499l",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript DOM",
+    "link": "https://dev.to/thiraisuvadu_dev/javascript-dom-2oao",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Stripe Webhook Signature Verification Fails (and When to Stop Debugging)",
+    "link": "https://dev.to/xiaoqing_wang_b7bbaa175e1/why-stripe-webhook-signature-verification-fails-and-when-to-stop-debugging-1okj",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Are We All Just Copying Code and Pretending We Know What We're Doing?",
+    "link": "https://dev.to/thebitforge/are-we-all-just-copying-code-and-pretending-we-know-what-were-doing-1cfk",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Week 15 React Learning Recap: Understanding Old React and Finally Respecting useReducer",
+    "link": "https://dev.to/usama_dev/week-15-react-learning-recap-understanding-old-react-and-finally-respecting-usereducer-5bnb",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎢 Beginner-Friendly Guide 'Construct the Minimum Bitwise Array II' - LeetCode 3315 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-construct-the-minimum-bitwise-array-ii-leetcode-3315-c-python-2a2",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js SSR vs CSR vs SSG which is best to use and when to use?",
+    "link": "https://dev.to/athashri_keny/nextjs-ssr-vs-csr-vs-ssg-which-is-best-to-use-and-when-to-use-3ffi",
+    "date": "1/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ng-News 26/02: Frameworks in 2026, Competition among Frameworks, Angular Inside",
+    "link": "https://dev.to/this-is-angular/ng-news-2602-frameworks-in-2026-competition-among-frameworks-angular-inside-1jee",
     "date": "1/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Fault-Tolerant Web Data Ingestion Pipeline with Effect-TS",
-    "link": "https://dev.to/prithwish_nath/building-a-fault-tolerant-web-data-ingestion-pipeline-with-effect-ts-29l1",
+    "title": "Ng-News 26/02: Frameworks in 2026, Competition among Frameworks, Angular Inside",
+    "link": "https://dev.to/this-is-angular/ng-news-2602-frameworks-in-2026-competition-among-frameworks-angular-inside-1jee",
     "date": "1/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "React 2026: Why the All-Client SPA Is Becoming Legacy Code",
-    "link": "https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e",
+    "title": "Ng-News 26/02: Frameworks in 2026, Competition among Frameworks, Angular Inside",
+    "link": "https://dev.to/this-is-angular/ng-news-2602-frameworks-in-2026-competition-among-frameworks-angular-inside-1jee",
     "date": "1/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "Implementing Copy-to-Clipboard in Rails 8: The Modern Way",
-    "link": "https://dev.to/zilton7/implementing-copy-to-clipboard-in-rails-8-the-modern-way-115c",
+    "title": "Ng-News 26/02: Frameworks in 2026, Competition among Frameworks, Angular Inside",
+    "link": "https://dev.to/this-is-angular/ng-news-2602-frameworks-in-2026-competition-among-frameworks-angular-inside-1jee",
     "date": "1/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "Web3 Domains: Building Your Decentralized Digital Identity",
-    "link": "https://dev.to/endlessdoamins/web3-domains-building-your-decentralized-digital-identity-2imh",
+    "title": "Ng-News 26/02: Frameworks in 2026, Competition among Frameworks, Angular Inside",
+    "link": "https://dev.to/this-is-angular/ng-news-2602-frameworks-in-2026-competition-among-frameworks-angular-inside-1jee",
     "date": "1/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "DOM in JS.",
-    "link": "https://dev.to/mohamed_ajmal_222/dom-in-js-12g9",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Revisiting: Clean Up Your Code by Applying These 7 Rules",
-    "link": "https://dev.to/joachimzeelmaekers/revisiting-clean-up-your-code-by-applying-these-7-rules-5clj",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Fault-Tolerant Web Data Ingestion Pipeline with Effect-TS",
-    "link": "https://dev.to/prithwish_nath/building-a-fault-tolerant-web-data-ingestion-pipeline-with-effect-ts-29l1",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 2026: Why the All-Client SPA Is Becoming Legacy Code",
-    "link": "https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Copy-to-Clipboard in Rails 8: The Modern Way",
-    "link": "https://dev.to/zilton7/implementing-copy-to-clipboard-in-rails-8-the-modern-way-115c",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web3 Domains: Building Your Decentralized Digital Identity",
-    "link": "https://dev.to/endlessdoamins/web3-domains-building-your-decentralized-digital-identity-2imh",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM in JS.",
-    "link": "https://dev.to/mohamed_ajmal_222/dom-in-js-12g9",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Revisiting: Clean Up Your Code by Applying These 7 Rules",
-    "link": "https://dev.to/joachimzeelmaekers/revisiting-clean-up-your-code-by-applying-these-7-rules-5clj",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Fault-Tolerant Web Data Ingestion Pipeline with Effect-TS",
-    "link": "https://dev.to/prithwish_nath/building-a-fault-tolerant-web-data-ingestion-pipeline-with-effect-ts-29l1",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 2026: Why the All-Client SPA Is Becoming Legacy Code",
-    "link": "https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Copy-to-Clipboard in Rails 8: The Modern Way",
-    "link": "https://dev.to/zilton7/implementing-copy-to-clipboard-in-rails-8-the-modern-way-115c",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web3 Domains: Building Your Decentralized Digital Identity",
-    "link": "https://dev.to/endlessdoamins/web3-domains-building-your-decentralized-digital-identity-2imh",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM in JS.",
-    "link": "https://dev.to/mohamed_ajmal_222/dom-in-js-12g9",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Revisiting: Clean Up Your Code by Applying These 7 Rules",
-    "link": "https://dev.to/joachimzeelmaekers/revisiting-clean-up-your-code-by-applying-these-7-rules-5clj",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Fault-Tolerant Web Data Ingestion Pipeline with Effect-TS",
-    "link": "https://dev.to/prithwish_nath/building-a-fault-tolerant-web-data-ingestion-pipeline-with-effect-ts-29l1",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 2026: Why the All-Client SPA Is Becoming Legacy Code",
-    "link": "https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Copy-to-Clipboard in Rails 8: The Modern Way",
-    "link": "https://dev.to/zilton7/implementing-copy-to-clipboard-in-rails-8-the-modern-way-115c",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web3 Domains: Building Your Decentralized Digital Identity",
-    "link": "https://dev.to/endlessdoamins/web3-domains-building-your-decentralized-digital-identity-2imh",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM in JS.",
-    "link": "https://dev.to/mohamed_ajmal_222/dom-in-js-12g9",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Revisiting: Clean Up Your Code by Applying These 7 Rules",
-    "link": "https://dev.to/joachimzeelmaekers/revisiting-clean-up-your-code-by-applying-these-7-rules-5clj",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Fault-Tolerant Web Data Ingestion Pipeline with Effect-TS",
-    "link": "https://dev.to/prithwish_nath/building-a-fault-tolerant-web-data-ingestion-pipeline-with-effect-ts-29l1",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 2026: Why the All-Client SPA Is Becoming Legacy Code",
-    "link": "https://dev.to/pritampatil/react-2026-why-the-all-client-spa-is-becoming-legacy-code-3d8e",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Implementing Copy-to-Clipboard in Rails 8: The Modern Way",
-    "link": "https://dev.to/zilton7/implementing-copy-to-clipboard-in-rails-8-the-modern-way-115c",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Web3 Domains: Building Your Decentralized Digital Identity",
-    "link": "https://dev.to/endlessdoamins/web3-domains-building-your-decentralized-digital-identity-2imh",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DOM in JS.",
-    "link": "https://dev.to/mohamed_ajmal_222/dom-in-js-12g9",
-    "date": "1/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built Vercube because benchmarks don’t lie",
-    "link": "https://dev.to/oskarlebuda/i-built-vercube-because-benchmarks-dont-lie-2co7",
+    "title": "Introducing graphql-complexity-validation",
+    "link": "https://dev.to/mateodiaz/introducing-graphql-complexity-validation-5d6d",
     "date": "1/19/2026",
     "site": "dev.to"
   },
@@ -192,50 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Todo App with Vanilla JavaScript",
-    "link": "https://dev.to/amir_dev_amir_dev_amir_dev/building-a-todo-app-with-vanilla-javascript-32k",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Trade-off: Clean Testing vs. Code Brevity in Modern JS",
-    "link": "https://dev.to/hash01/the-trade-off-clean-testing-vs-code-brevity-in-modern-js-12k0",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "SSR vs SPA | Qual usar?",
-    "link": "https://dev.to/cesarpaulomp/ssr-vs-spa-qual-usar-nhh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Taproot part1: Generating P2TR KeyPath Witness Programs 🚀",
-    "link": "https://dev.to/kniraj/taproot-part1-generating-p2tr-keypath-witness-programs-ikh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Part 1 — The Era of the Stack Reconciler",
-    "link": "https://dev.to/nehamalviaaa/part-1-the-era-of-the-stack-reconciler-4jg8",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Cognitive Budget: How I Write Code I Can Actually Maintain",
-    "link": "https://dev.to/doogal/the-cognitive-budget-how-i-write-code-i-can-actually-maintain-llf",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Started with React Accessible Accordion: Building Collapsible Content",
-    "link": "https://dev.to/devchainkit/getting-started-with-react-accessible-accordion-building-collapsible-content-35eh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built Vercube because benchmarks don’t lie",
-    "link": "https://dev.to/oskarlebuda/i-built-vercube-because-benchmarks-dont-lie-2co7",
+    "title": "Introducing graphql-complexity-validation",
+    "link": "https://dev.to/mateodiaz/introducing-graphql-complexity-validation-5d6d",
     "date": "1/19/2026",
     "site": "dev.to"
   },
@@ -246,206 +444,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Todo App with Vanilla JavaScript",
-    "link": "https://dev.to/amir_dev_amir_dev_amir_dev/building-a-todo-app-with-vanilla-javascript-32k",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Trade-off: Clean Testing vs. Code Brevity in Modern JS",
-    "link": "https://dev.to/hash01/the-trade-off-clean-testing-vs-code-brevity-in-modern-js-12k0",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "SSR vs SPA | Qual usar?",
-    "link": "https://dev.to/cesarpaulomp/ssr-vs-spa-qual-usar-nhh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Taproot part1: Generating P2TR KeyPath Witness Programs 🚀",
-    "link": "https://dev.to/kniraj/taproot-part1-generating-p2tr-keypath-witness-programs-ikh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Part 1 — The Era of the Stack Reconciler",
-    "link": "https://dev.to/nehamalviaaa/part-1-the-era-of-the-stack-reconciler-4jg8",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Cognitive Budget: How I Write Code I Can Actually Maintain",
-    "link": "https://dev.to/doogal/the-cognitive-budget-how-i-write-code-i-can-actually-maintain-llf",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Started with React Accessible Accordion: Building Collapsible Content",
-    "link": "https://dev.to/devchainkit/getting-started-with-react-accessible-accordion-building-collapsible-content-35eh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built Vercube because benchmarks don’t lie",
-    "link": "https://dev.to/oskarlebuda/i-built-vercube-because-benchmarks-dont-lie-2co7",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Introducing graphql-complexity-validation",
     "link": "https://dev.to/mateodiaz/introducing-graphql-complexity-validation-5d6d",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Todo App with Vanilla JavaScript",
-    "link": "https://dev.to/amir_dev_amir_dev_amir_dev/building-a-todo-app-with-vanilla-javascript-32k",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Trade-off: Clean Testing vs. Code Brevity in Modern JS",
-    "link": "https://dev.to/hash01/the-trade-off-clean-testing-vs-code-brevity-in-modern-js-12k0",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "SSR vs SPA | Qual usar?",
-    "link": "https://dev.to/cesarpaulomp/ssr-vs-spa-qual-usar-nhh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Taproot part1: Generating P2TR KeyPath Witness Programs 🚀",
-    "link": "https://dev.to/kniraj/taproot-part1-generating-p2tr-keypath-witness-programs-ikh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Part 1 — The Era of the Stack Reconciler",
-    "link": "https://dev.to/nehamalviaaa/part-1-the-era-of-the-stack-reconciler-4jg8",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Cognitive Budget: How I Write Code I Can Actually Maintain",
-    "link": "https://dev.to/doogal/the-cognitive-budget-how-i-write-code-i-can-actually-maintain-llf",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Started with React Accessible Accordion: Building Collapsible Content",
-    "link": "https://dev.to/devchainkit/getting-started-with-react-accessible-accordion-building-collapsible-content-35eh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built Vercube because benchmarks don’t lie",
-    "link": "https://dev.to/oskarlebuda/i-built-vercube-because-benchmarks-dont-lie-2co7",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing graphql-complexity-validation",
-    "link": "https://dev.to/mateodiaz/introducing-graphql-complexity-validation-5d6d",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Todo App with Vanilla JavaScript",
-    "link": "https://dev.to/amir_dev_amir_dev_amir_dev/building-a-todo-app-with-vanilla-javascript-32k",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Trade-off: Clean Testing vs. Code Brevity in Modern JS",
-    "link": "https://dev.to/hash01/the-trade-off-clean-testing-vs-code-brevity-in-modern-js-12k0",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "SSR vs SPA | Qual usar?",
-    "link": "https://dev.to/cesarpaulomp/ssr-vs-spa-qual-usar-nhh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Taproot part1: Generating P2TR KeyPath Witness Programs 🚀",
-    "link": "https://dev.to/kniraj/taproot-part1-generating-p2tr-keypath-witness-programs-ikh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Part 1 — The Era of the Stack Reconciler",
-    "link": "https://dev.to/nehamalviaaa/part-1-the-era-of-the-stack-reconciler-4jg8",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Cognitive Budget: How I Write Code I Can Actually Maintain",
-    "link": "https://dev.to/doogal/the-cognitive-budget-how-i-write-code-i-can-actually-maintain-llf",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Started with React Accessible Accordion: Building Collapsible Content",
-    "link": "https://dev.to/devchainkit/getting-started-with-react-accessible-accordion-building-collapsible-content-35eh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built Vercube because benchmarks don’t lie",
-    "link": "https://dev.to/oskarlebuda/i-built-vercube-because-benchmarks-dont-lie-2co7",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing graphql-complexity-validation",
-    "link": "https://dev.to/mateodiaz/introducing-graphql-complexity-validation-5d6d",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Todo App with Vanilla JavaScript",
-    "link": "https://dev.to/amir_dev_amir_dev_amir_dev/building-a-todo-app-with-vanilla-javascript-32k",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Trade-off: Clean Testing vs. Code Brevity in Modern JS",
-    "link": "https://dev.to/hash01/the-trade-off-clean-testing-vs-code-brevity-in-modern-js-12k0",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "SSR vs SPA | Qual usar?",
-    "link": "https://dev.to/cesarpaulomp/ssr-vs-spa-qual-usar-nhh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Taproot part1: Generating P2TR KeyPath Witness Programs 🚀",
-    "link": "https://dev.to/kniraj/taproot-part1-generating-p2tr-keypath-witness-programs-ikh",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Part 1 — The Era of the Stack Reconciler",
-    "link": "https://dev.to/nehamalviaaa/part-1-the-era-of-the-stack-reconciler-4jg8",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Cognitive Budget: How I Write Code I Can Actually Maintain",
-    "link": "https://dev.to/doogal/the-cognitive-budget-how-i-write-code-i-can-actually-maintain-llf",
-    "date": "1/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Getting Started with React Accessible Accordion: Building Collapsible Content",
-    "link": "https://dev.to/devchainkit/getting-started-with-react-accessible-accordion-building-collapsible-content-35eh",
     "date": "1/19/2026",
     "site": "dev.to"
   },
@@ -473,14 +473,14 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
   {
     "title": "Building An Offline-Friendly Image Upload System",
     "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "4/23/2025",
     "site": "smashingmagazine"
   },
@@ -634,7 +634,7 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
@@ -676,7 +676,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
@@ -711,7 +711,7 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "24 min read",
+    "reading_time": "23 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
