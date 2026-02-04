@@ -1,453 +1,523 @@
 [
   {
-    "title": "Understanding `useState` in React",
-    "link": "https://dev.to/msnmongare/understanding-usestate-in-react-17l4",
+    "title": "The Container & Presentational Pattern: Separation of Concerns in React",
+    "link": "https://dev.to/masudursourav/the-container-presentational-pattern-separation-of-concerns-in-react-38mc",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Improving Accessibility - Tabs Component",
+    "link": "https://dev.to/hritickjaiswal/improving-accessibility-tabs-component-3ceh",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Uncontrolled vs Controlled React Components",
+    "link": "https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scaling Astrolord: Our Journey with Serverless on AWS",
+    "link": "https://dev.to/ujwal240/scaling-astrolord-our-journey-with-serverless-on-aws-2j78",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React Developers Can Add an Interactive Mascot to Their App Using Rive",
+    "link": "https://dev.to/uianimation/how-react-developers-can-add-an-interactive-mascot-to-their-app-using-rive-1f20",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "useCallback: Stop React From Recreating Your Functions (Again)",
+    "link": "https://dev.to/ekaone/usecallback-stop-react-from-recreating-your-functions-again-k5j",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Component",
+    "link": "https://dev.to/sasirekaarumugam/component-4mm8",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Function and Class Components",
+    "link": "https://dev.to/ekaone/react-function-and-class-components-2m51",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What I Covered in the Last Two Months After My First Full-Stack Project",
+    "link": "https://dev.to/tamilselvan1812/what-i-covered-in-the-last-two-months-after-my-first-full-stack-project-18ek",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React handler onChange()",
+    "link": "https://dev.to/ekaone/react-handler-onchange-4di9",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Container & Presentational Pattern: Separation of Concerns in React",
+    "link": "https://dev.to/masudursourav/the-container-presentational-pattern-separation-of-concerns-in-react-38mc",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Improving Accessibility - Tabs Component",
+    "link": "https://dev.to/hritickjaiswal/improving-accessibility-tabs-component-3ceh",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Uncontrolled vs Controlled React Components",
+    "link": "https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scaling Astrolord: Our Journey with Serverless on AWS",
+    "link": "https://dev.to/ujwal240/scaling-astrolord-our-journey-with-serverless-on-aws-2j78",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React Developers Can Add an Interactive Mascot to Their App Using Rive",
+    "link": "https://dev.to/uianimation/how-react-developers-can-add-an-interactive-mascot-to-their-app-using-rive-1f20",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "useCallback: Stop React From Recreating Your Functions (Again)",
+    "link": "https://dev.to/ekaone/usecallback-stop-react-from-recreating-your-functions-again-k5j",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Component",
+    "link": "https://dev.to/sasirekaarumugam/component-4mm8",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Function and Class Components",
+    "link": "https://dev.to/ekaone/react-function-and-class-components-2m51",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What I Covered in the Last Two Months After My First Full-Stack Project",
+    "link": "https://dev.to/tamilselvan1812/what-i-covered-in-the-last-two-months-after-my-first-full-stack-project-18ek",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React handler onChange()",
+    "link": "https://dev.to/ekaone/react-handler-onchange-4di9",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Container & Presentational Pattern: Separation of Concerns in React",
+    "link": "https://dev.to/masudursourav/the-container-presentational-pattern-separation-of-concerns-in-react-38mc",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Improving Accessibility - Tabs Component",
+    "link": "https://dev.to/hritickjaiswal/improving-accessibility-tabs-component-3ceh",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Uncontrolled vs Controlled React Components",
+    "link": "https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scaling Astrolord: Our Journey with Serverless on AWS",
+    "link": "https://dev.to/ujwal240/scaling-astrolord-our-journey-with-serverless-on-aws-2j78",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React Developers Can Add an Interactive Mascot to Their App Using Rive",
+    "link": "https://dev.to/uianimation/how-react-developers-can-add-an-interactive-mascot-to-their-app-using-rive-1f20",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "useCallback: Stop React From Recreating Your Functions (Again)",
+    "link": "https://dev.to/ekaone/usecallback-stop-react-from-recreating-your-functions-again-k5j",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Component",
+    "link": "https://dev.to/sasirekaarumugam/component-4mm8",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Function and Class Components",
+    "link": "https://dev.to/ekaone/react-function-and-class-components-2m51",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What I Covered in the Last Two Months After My First Full-Stack Project",
+    "link": "https://dev.to/tamilselvan1812/what-i-covered-in-the-last-two-months-after-my-first-full-stack-project-18ek",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React handler onChange()",
+    "link": "https://dev.to/ekaone/react-handler-onchange-4di9",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Container & Presentational Pattern: Separation of Concerns in React",
+    "link": "https://dev.to/masudursourav/the-container-presentational-pattern-separation-of-concerns-in-react-38mc",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Improving Accessibility - Tabs Component",
+    "link": "https://dev.to/hritickjaiswal/improving-accessibility-tabs-component-3ceh",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Uncontrolled vs Controlled React Components",
+    "link": "https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scaling Astrolord: Our Journey with Serverless on AWS",
+    "link": "https://dev.to/ujwal240/scaling-astrolord-our-journey-with-serverless-on-aws-2j78",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React Developers Can Add an Interactive Mascot to Their App Using Rive",
+    "link": "https://dev.to/uianimation/how-react-developers-can-add-an-interactive-mascot-to-their-app-using-rive-1f20",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "useCallback: Stop React From Recreating Your Functions (Again)",
+    "link": "https://dev.to/ekaone/usecallback-stop-react-from-recreating-your-functions-again-k5j",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Component",
+    "link": "https://dev.to/sasirekaarumugam/component-4mm8",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Function and Class Components",
+    "link": "https://dev.to/ekaone/react-function-and-class-components-2m51",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What I Covered in the Last Two Months After My First Full-Stack Project",
+    "link": "https://dev.to/tamilselvan1812/what-i-covered-in-the-last-two-months-after-my-first-full-stack-project-18ek",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React handler onChange()",
+    "link": "https://dev.to/ekaone/react-handler-onchange-4di9",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Container & Presentational Pattern: Separation of Concerns in React",
+    "link": "https://dev.to/masudursourav/the-container-presentational-pattern-separation-of-concerns-in-react-38mc",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Improving Accessibility - Tabs Component",
+    "link": "https://dev.to/hritickjaiswal/improving-accessibility-tabs-component-3ceh",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Uncontrolled vs Controlled React Components",
+    "link": "https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scaling Astrolord: Our Journey with Serverless on AWS",
+    "link": "https://dev.to/ujwal240/scaling-astrolord-our-journey-with-serverless-on-aws-2j78",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How React Developers Can Add an Interactive Mascot to Their App Using Rive",
+    "link": "https://dev.to/uianimation/how-react-developers-can-add-an-interactive-mascot-to-their-app-using-rive-1f20",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "useCallback: Stop React From Recreating Your Functions (Again)",
+    "link": "https://dev.to/ekaone/usecallback-stop-react-from-recreating-your-functions-again-k5j",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Component",
+    "link": "https://dev.to/sasirekaarumugam/component-4mm8",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Function and Class Components",
+    "link": "https://dev.to/ekaone/react-function-and-class-components-2m51",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What I Covered in the Last Two Months After My First Full-Stack Project",
+    "link": "https://dev.to/tamilselvan1812/what-i-covered-in-the-last-two-months-after-my-first-full-stack-project-18ek",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React handler onChange()",
+    "link": "https://dev.to/ekaone/react-handler-onchange-4di9",
+    "date": "2/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Streamlining Email Validation Flows in Microservices with React and DevOps Best Practices",
+    "link": "https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-validation-flows-in-microservices-with-react-and-devops-best-practices-4oml",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Production-Ready Portfolio: Phase 3 - Designing a Content System (Day 6)",
-    "link": "https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-designing-a-content-system-day-6-557f",
+    "title": "From Zero to React App in Minutes Nizam Does It All",
+    "link": "https://dev.to/ahmedabdalalim3a/from-zero-to-react-app-in-minutes-nizam-does-it-all-3o59",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code",
-    "link": "https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl",
+    "title": "React Compiler: Stop Manually Optimizing Your React Apps",
+    "link": "https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Understanding `useState` in React",
-    "link": "https://dev.to/msnmongare/understanding-usestate-in-react-17l4",
+    "title": "React Server Components without Next.js - what are the real alternatives today?",
+    "link": "https://dev.to/tomaszszewczyk/react-server-components-without-nextjs-what-are-the-real-alternatives-today-3o8j",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Production-Ready Portfolio: Phase 3 - Designing a Content System (Day 6)",
-    "link": "https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-designing-a-content-system-day-6-557f",
+    "title": "Frontend Coding Challenge — Chat-Like Interface (Part 1)",
+    "link": "https://dev.to/vftiago/frontend-coding-challenge-chat-like-interface-part-1-262g",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code",
-    "link": "https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl",
+    "title": "Streamlining Email Validation Flows in Microservices with React and DevOps Best Practices",
+    "link": "https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-validation-flows-in-microservices-with-react-and-devops-best-practices-4oml",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Understanding `useState` in React",
-    "link": "https://dev.to/msnmongare/understanding-usestate-in-react-17l4",
+    "title": "From Zero to React App in Minutes Nizam Does It All",
+    "link": "https://dev.to/ahmedabdalalim3a/from-zero-to-react-app-in-minutes-nizam-does-it-all-3o59",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Production-Ready Portfolio: Phase 3 - Designing a Content System (Day 6)",
-    "link": "https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-designing-a-content-system-day-6-557f",
+    "title": "React Compiler: Stop Manually Optimizing Your React Apps",
+    "link": "https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code",
-    "link": "https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl",
+    "title": "React Server Components without Next.js - what are the real alternatives today?",
+    "link": "https://dev.to/tomaszszewczyk/react-server-components-without-nextjs-what-are-the-real-alternatives-today-3o8j",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Understanding `useState` in React",
-    "link": "https://dev.to/msnmongare/understanding-usestate-in-react-17l4",
+    "title": "Frontend Coding Challenge — Chat-Like Interface (Part 1)",
+    "link": "https://dev.to/vftiago/frontend-coding-challenge-chat-like-interface-part-1-262g",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Production-Ready Portfolio: Phase 3 - Designing a Content System (Day 6)",
-    "link": "https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-designing-a-content-system-day-6-557f",
+    "title": "Streamlining Email Validation Flows in Microservices with React and DevOps Best Practices",
+    "link": "https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-validation-flows-in-microservices-with-react-and-devops-best-practices-4oml",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code",
-    "link": "https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl",
+    "title": "From Zero to React App in Minutes Nizam Does It All",
+    "link": "https://dev.to/ahmedabdalalim3a/from-zero-to-react-app-in-minutes-nizam-does-it-all-3o59",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Understanding `useState` in React",
-    "link": "https://dev.to/msnmongare/understanding-usestate-in-react-17l4",
+    "title": "React Compiler: Stop Manually Optimizing Your React Apps",
+    "link": "https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Production-Ready Portfolio: Phase 3 - Designing a Content System (Day 6)",
-    "link": "https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-3-designing-a-content-system-day-6-557f",
+    "title": "React Server Components without Next.js - what are the real alternatives today?",
+    "link": "https://dev.to/tomaszszewczyk/react-server-components-without-nextjs-what-are-the-real-alternatives-today-3o8j",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code",
-    "link": "https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl",
+    "title": "Frontend Coding Challenge — Chat-Like Interface (Part 1)",
+    "link": "https://dev.to/vftiago/frontend-coding-challenge-chat-like-interface-part-1-262g",
     "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "React2Shell in the Wild: Tracking and Disrupting Scanner Pipelines",
-    "link": "https://dev.to/user32/react2shell-cve-2025-55182-in-the-wild-analyzing-probing-chains-and-infrastructure-fingerprints-42f3",
-    "date": "2/2/2026",
+    "title": "Streamlining Email Validation Flows in Microservices with React and DevOps Best Practices",
+    "link": "https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-validation-flows-in-microservices-with-react-and-devops-best-practices-4oml",
+    "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "🚀 How I Fixed Canonical & Indexing Issues on My React SPA (Cloudflare Pages + Custom Domain)",
-    "link": "https://dev.to/sujit_chanda_223531a0bf06/how-i-fixed-canonical-indexing-issues-on-my-react-spa-cloudflare-pages-custom-domain-p3g",
-    "date": "2/2/2026",
+    "title": "From Zero to React App in Minutes Nizam Does It All",
+    "link": "https://dev.to/ahmedabdalalim3a/from-zero-to-react-app-in-minutes-nizam-does-it-all-3o59",
+    "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "New Shadcn Landing Page Templates Front-End Developers Will Love",
-    "link": "https://dev.to/isanjayjoshi/shadcn-landing-page-templates-front-end-developers-will-love-11jk",
-    "date": "2/2/2026",
+    "title": "React Compiler: Stop Manually Optimizing Your React Apps",
+    "link": "https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4",
+    "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "The React useEffect Object Dependency Trap: How Cloudflare Accidentally DDoSed Itself",
-    "link": "https://dev.to/vasughanta09/the-react-useeffect-object-dependency-trap-how-cloudflare-accidentally-ddosed-itself-2ge6",
-    "date": "2/2/2026",
+    "title": "React Server Components without Next.js - what are the real alternatives today?",
+    "link": "https://dev.to/tomaszszewczyk/react-server-components-without-nextjs-what-are-the-real-alternatives-today-3o8j",
+    "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a tactical tool for Marvel Rivals using Astro, React, and Open Data",
-    "link": "https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-built-a-tactical-tool-for-marvel-rivals-using-astro-react-and-open-data-2c4o",
-    "date": "2/2/2026",
+    "title": "Frontend Coding Challenge — Chat-Like Interface (Part 1)",
+    "link": "https://dev.to/vftiago/frontend-coding-challenge-chat-like-interface-part-1-262g",
+    "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Deployed a React 19 SPA on Cloudflare Workers — Here’s How",
-    "link": "https://dev.to/jayesh_patil/i-deployed-a-react-19-spa-on-cloudflare-workers-heres-how-5f59",
-    "date": "2/2/2026",
+    "title": "Streamlining Email Validation Flows in Microservices with React and DevOps Best Practices",
+    "link": "https://dev.to/mohammad_waseem_c31f3a26f/streamlining-email-validation-flows-in-microservices-with-react-and-devops-best-practices-4oml",
+    "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Forge Query - A 3KB Alternative to React Query with Built-in DevTools",
-    "link": "https://dev.to/john_yaghobieh_8f294091f6/forge-query-a-3kb-alternative-to-react-query-with-built-in-devtools-5fbb",
-    "date": "2/2/2026",
+    "title": "From Zero to React App in Minutes Nizam Does It All",
+    "link": "https://dev.to/ahmedabdalalim3a/from-zero-to-react-app-in-minutes-nizam-does-it-all-3o59",
+    "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "How We Rebuilt the ChatGPT & YouTube Summary Extensions",
-    "link": "https://dev.to/glasp/how-we-rebuilt-the-chatgpt-youtube-summary-extensions-1010",
-    "date": "2/2/2026",
+    "title": "React Compiler: Stop Manually Optimizing Your React Apps",
+    "link": "https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4",
+    "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "What is React and Why Should We Learn It?",
-    "link": "https://dev.to/harini_magesh_fa40041cf8d/what-is-react-and-why-should-we-learn-it-pka",
-    "date": "2/2/2026",
+    "title": "React Server Components without Next.js - what are the real alternatives today?",
+    "link": "https://dev.to/tomaszszewczyk/react-server-components-without-nextjs-what-are-the-real-alternatives-today-3o8j",
+    "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "React2Shell in the Wild: Tracking and Disrupting Scanner Pipelines",
-    "link": "https://dev.to/user32/react2shell-cve-2025-55182-in-the-wild-analyzing-probing-chains-and-infrastructure-fingerprints-42f3",
-    "date": "2/2/2026",
+    "title": "Frontend Coding Challenge — Chat-Like Interface (Part 1)",
+    "link": "https://dev.to/vftiago/frontend-coding-challenge-chat-like-interface-part-1-262g",
+    "date": "2/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "🚀 How I Fixed Canonical & Indexing Issues on My React SPA (Cloudflare Pages + Custom Domain)",
-    "link": "https://dev.to/sujit_chanda_223531a0bf06/how-i-fixed-canonical-indexing-issues-on-my-react-spa-cloudflare-pages-custom-domain-p3g",
-    "date": "2/2/2026",
-    "site": "dev.to"
+    "title": "Adaptive Video Streaming With Dash.js In React",
+    "link": "https://www.smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+    "reading_time": "9 min read",
+    "date": "3/27/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "New Shadcn Landing Page Templates Front-End Developers Will Love",
-    "link": "https://dev.to/isanjayjoshi/shadcn-landing-page-templates-front-end-developers-will-love-11jk",
-    "date": "2/2/2026",
-    "site": "dev.to"
+    "title": "The Forensics Of React Server Components (RSCs)",
+    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
+    "reading_time": "24 min read",
+    "date": "5/9/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "The React useEffect Object Dependency Trap: How Cloudflare Accidentally DDoSed Itself",
-    "link": "https://dev.to/vasughanta09/the-react-useeffect-object-dependency-trap-how-cloudflare-accidentally-ddosed-itself-2ge6",
-    "date": "2/2/2026",
-    "site": "dev.to"
+    "title": "The End Of My Gatsby Journey",
+    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
+    "reading_time": "16 min read",
+    "date": "3/6/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "I built a tactical tool for Marvel Rivals using Astro, React, and Open Data",
-    "link": "https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-built-a-tactical-tool-for-marvel-rivals-using-astro-react-and-open-data-2c4o",
-    "date": "2/2/2026",
-    "site": "dev.to"
+    "title": "Making Sense Of “Senseless” JavaScript Features",
+    "link": "https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
+    "reading_time": "14 min read",
+    "date": "12/28/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "I Deployed a React 19 SPA on Cloudflare Workers — Here’s How",
-    "link": "https://dev.to/jayesh_patil/i-deployed-a-react-19-spa-on-cloudflare-workers-heres-how-5f59",
-    "date": "2/2/2026",
-    "site": "dev.to"
+    "title": "An Introduction To Full Stack Composability",
+    "link": "https://www.smashingmagazine.com/2023/11/introduction-full-stack-composability/",
+    "reading_time": "9 min read",
+    "date": "11/23/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Forge Query - A 3KB Alternative to React Query with Built-in DevTools",
-    "link": "https://dev.to/john_yaghobieh_8f294091f6/forge-query-a-3kb-alternative-to-react-query-with-built-in-devtools-5fbb",
-    "date": "2/2/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 2)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
+    "reading_time": "22 min read",
+    "date": "10/16/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "How We Rebuilt the ChatGPT & YouTube Summary Extensions",
-    "link": "https://dev.to/glasp/how-we-rebuilt-the-chatgpt-youtube-summary-extensions-1010",
-    "date": "2/2/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 1)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
+    "reading_time": "17 min read",
+    "date": "10/9/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "What is React and Why Should We Learn It?",
-    "link": "https://dev.to/harini_magesh_fa40041cf8d/what-is-react-and-why-should-we-learn-it-pka",
-    "date": "2/2/2026",
-    "site": "dev.to"
+    "title": "Meet Codux: The React Visual Editor That Improves Developer Experience",
+    "link": "https://www.smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
+    "reading_time": "7 min read",
+    "date": "6/15/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "React2Shell in the Wild: Tracking and Disrupting Scanner Pipelines",
-    "link": "https://dev.to/user32/react2shell-cve-2025-55182-in-the-wild-analyzing-probing-chains-and-infrastructure-fingerprints-42f3",
-    "date": "2/2/2026",
-    "site": "dev.to"
+    "title": "A Guide To Redux Toolkit With TypeScript",
+    "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
+    "reading_time": "16 min read",
+    "date": "5/10/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "🚀 How I Fixed Canonical & Indexing Issues on My React SPA (Cloudflare Pages + Custom Domain)",
-    "link": "https://dev.to/sujit_chanda_223531a0bf06/how-i-fixed-canonical-indexing-issues-on-my-react-spa-cloudflare-pages-custom-domain-p3g",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Shadcn Landing Page Templates Front-End Developers Will Love",
-    "link": "https://dev.to/isanjayjoshi/shadcn-landing-page-templates-front-end-developers-will-love-11jk",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The React useEffect Object Dependency Trap: How Cloudflare Accidentally DDoSed Itself",
-    "link": "https://dev.to/vasughanta09/the-react-useeffect-object-dependency-trap-how-cloudflare-accidentally-ddosed-itself-2ge6",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a tactical tool for Marvel Rivals using Astro, React, and Open Data",
-    "link": "https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-built-a-tactical-tool-for-marvel-rivals-using-astro-react-and-open-data-2c4o",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Deployed a React 19 SPA on Cloudflare Workers — Here’s How",
-    "link": "https://dev.to/jayesh_patil/i-deployed-a-react-19-spa-on-cloudflare-workers-heres-how-5f59",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Forge Query - A 3KB Alternative to React Query with Built-in DevTools",
-    "link": "https://dev.to/john_yaghobieh_8f294091f6/forge-query-a-3kb-alternative-to-react-query-with-built-in-devtools-5fbb",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Rebuilt the ChatGPT & YouTube Summary Extensions",
-    "link": "https://dev.to/glasp/how-we-rebuilt-the-chatgpt-youtube-summary-extensions-1010",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is React and Why Should We Learn It?",
-    "link": "https://dev.to/harini_magesh_fa40041cf8d/what-is-react-and-why-should-we-learn-it-pka",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React2Shell in the Wild: Tracking and Disrupting Scanner Pipelines",
-    "link": "https://dev.to/user32/react2shell-cve-2025-55182-in-the-wild-analyzing-probing-chains-and-infrastructure-fingerprints-42f3",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 How I Fixed Canonical & Indexing Issues on My React SPA (Cloudflare Pages + Custom Domain)",
-    "link": "https://dev.to/sujit_chanda_223531a0bf06/how-i-fixed-canonical-indexing-issues-on-my-react-spa-cloudflare-pages-custom-domain-p3g",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Shadcn Landing Page Templates Front-End Developers Will Love",
-    "link": "https://dev.to/isanjayjoshi/shadcn-landing-page-templates-front-end-developers-will-love-11jk",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The React useEffect Object Dependency Trap: How Cloudflare Accidentally DDoSed Itself",
-    "link": "https://dev.to/vasughanta09/the-react-useeffect-object-dependency-trap-how-cloudflare-accidentally-ddosed-itself-2ge6",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a tactical tool for Marvel Rivals using Astro, React, and Open Data",
-    "link": "https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-built-a-tactical-tool-for-marvel-rivals-using-astro-react-and-open-data-2c4o",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Deployed a React 19 SPA on Cloudflare Workers — Here’s How",
-    "link": "https://dev.to/jayesh_patil/i-deployed-a-react-19-spa-on-cloudflare-workers-heres-how-5f59",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Forge Query - A 3KB Alternative to React Query with Built-in DevTools",
-    "link": "https://dev.to/john_yaghobieh_8f294091f6/forge-query-a-3kb-alternative-to-react-query-with-built-in-devtools-5fbb",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Rebuilt the ChatGPT & YouTube Summary Extensions",
-    "link": "https://dev.to/glasp/how-we-rebuilt-the-chatgpt-youtube-summary-extensions-1010",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is React and Why Should We Learn It?",
-    "link": "https://dev.to/harini_magesh_fa40041cf8d/what-is-react-and-why-should-we-learn-it-pka",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React2Shell in the Wild: Tracking and Disrupting Scanner Pipelines",
-    "link": "https://dev.to/user32/react2shell-cve-2025-55182-in-the-wild-analyzing-probing-chains-and-infrastructure-fingerprints-42f3",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 How I Fixed Canonical & Indexing Issues on My React SPA (Cloudflare Pages + Custom Domain)",
-    "link": "https://dev.to/sujit_chanda_223531a0bf06/how-i-fixed-canonical-indexing-issues-on-my-react-spa-cloudflare-pages-custom-domain-p3g",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "New Shadcn Landing Page Templates Front-End Developers Will Love",
-    "link": "https://dev.to/isanjayjoshi/shadcn-landing-page-templates-front-end-developers-will-love-11jk",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The React useEffect Object Dependency Trap: How Cloudflare Accidentally DDoSed Itself",
-    "link": "https://dev.to/vasughanta09/the-react-useeffect-object-dependency-trap-how-cloudflare-accidentally-ddosed-itself-2ge6",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a tactical tool for Marvel Rivals using Astro, React, and Open Data",
-    "link": "https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-built-a-tactical-tool-for-marvel-rivals-using-astro-react-and-open-data-2c4o",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Deployed a React 19 SPA on Cloudflare Workers — Here’s How",
-    "link": "https://dev.to/jayesh_patil/i-deployed-a-react-19-spa-on-cloudflare-workers-heres-how-5f59",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Forge Query - A 3KB Alternative to React Query with Built-in DevTools",
-    "link": "https://dev.to/john_yaghobieh_8f294091f6/forge-query-a-3kb-alternative-to-react-query-with-built-in-devtools-5fbb",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Rebuilt the ChatGPT & YouTube Summary Extensions",
-    "link": "https://dev.to/glasp/how-we-rebuilt-the-chatgpt-youtube-summary-extensions-1010",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What is React and Why Should We Learn It?",
-    "link": "https://dev.to/harini_magesh_fa40041cf8d/what-is-react-and-why-should-we-learn-it-pka",
-    "date": "2/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Best Practices in Cursor",
-    "link": "https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Test Environments: Preventing PII Leaks in React-Based Microservices",
-    "link": "https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Spam Trap Avoidance in React Without Spending a Dime",
-    "link": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Best Practices in Cursor",
-    "link": "https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Test Environments: Preventing PII Leaks in React-Based Microservices",
-    "link": "https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Spam Trap Avoidance in React Without Spending a Dime",
-    "link": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Best Practices in Cursor",
-    "link": "https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Test Environments: Preventing PII Leaks in React-Based Microservices",
-    "link": "https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Spam Trap Avoidance in React Without Spending a Dime",
-    "link": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Best Practices in Cursor",
-    "link": "https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Test Environments: Preventing PII Leaks in React-Based Microservices",
-    "link": "https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Spam Trap Avoidance in React Without Spending a Dime",
-    "link": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Best Practices in Cursor",
-    "link": "https://dev.to/toshiya_matsumoto_ac94abe/react-best-practices-in-cursor-79e",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Securing Test Environments: Preventing PII Leaks in React-Based Microservices",
-    "link": "https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-preventing-pii-leaks-in-react-based-microservices-5cji",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Spam Trap Avoidance in React Without Spending a Dime",
-    "link": "https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-in-react-without-spending-a-dime-31em",
-    "date": "2/1/2026",
-    "site": "dev.to"
+    "title": "The Safest Way To Hide Your API Keys When Using React",
+    "link": "https://www.smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
+    "reading_time": "9 min read",
+    "date": "5/8/2023",
+    "site": "smashingmagazine"
   },
   {
     "title": "Internationalization In Next.js 13 With React Server Components",
@@ -501,7 +571,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
@@ -515,7 +585,7 @@
   {
     "title": "Remix Routes Demystified",
     "link": "https://www.smashingmagazine.com/2022/03/remix-routes-demystified/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "3/25/2022",
     "site": "smashingmagazine"
   },
@@ -620,7 +690,7 @@
   {
     "title": "Compound Components In React",
     "link": "https://www.smashingmagazine.com/2021/08/compound-components-react/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "8/27/2021",
     "site": "smashingmagazine"
   },
@@ -641,7 +711,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -704,14 +774,14 @@
   {
     "title": "Using Grommet In React Applications",
     "link": "https://www.smashingmagazine.com/2021/01/grommet-react-applications/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "1/18/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   },
