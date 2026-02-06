@@ -1,151 +1,421 @@
 [
   {
-    "title": "It Works on My Machine: Debugging Vuex Proxy Traps in Production",
-    "link": "https://dev.to/avsecdongol/it-works-on-my-machine-debugging-vuex-proxy-traps-in-production-5118",
+    "title": "Angular 21.2 New Feature: Arrow Functions in Templates (With Gotchas)",
+    "link": "https://dev.to/brianmtreese/angular-212-new-feature-arrow-functions-in-templates-with-gotchas-4ahg",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "eslint-plugin-security Is Unmaintained. Here's What Nobody Tells You.",
+    "link": "https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚖️ Beginner-Friendly Guide 'Minimum Removals to Balance Array' - Problem 3634 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-removals-to-balance-array-problem-3634-c-python-28d9",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making Your Website Talk (Without Scaring Your Users)",
+    "link": "https://dev.to/j3rry320/making-your-website-talk-without-scaring-your-users-3299",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Started Wrapping Everything in React Native?",
+    "link": "https://dev.to/amareshpati/why-i-started-wrapping-everything-in-react-native-a9c",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Session Management in React",
+    "link": "https://dev.to/shieldstring/session-management-in-react-56e3",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Let Claude Write 60 Functions. 65-75% Had Security Vulnerabilities.",
+    "link": "https://dev.to/ofri-peretz/i-let-claude-write-60-functions-65-75-had-security-vulnerabilities-414o",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Design Pattern ~Guard Clause Rendering~",
+    "link": "https://dev.to/kkr0423/reactjs-design-pattern-guard-clause-rendering-1om",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Form Patterns: Controlled vs. Uncontrolled Components",
+    "link": "https://dev.to/masudursourav/react-form-patterns-controlled-vs-uncontrolled-components-584j",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a YouTube Shorts Generator with AI — Here's How",
+    "link": "https://dev.to/ayyazzafar/i-built-a-youtube-shorts-generator-with-ai-heres-how-36dn",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular 21.2 New Feature: Arrow Functions in Templates (With Gotchas)",
+    "link": "https://dev.to/brianmtreese/angular-212-new-feature-arrow-functions-in-templates-with-gotchas-4ahg",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "eslint-plugin-security Is Unmaintained. Here's What Nobody Tells You.",
+    "link": "https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚖️ Beginner-Friendly Guide 'Minimum Removals to Balance Array' - Problem 3634 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-removals-to-balance-array-problem-3634-c-python-28d9",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making Your Website Talk (Without Scaring Your Users)",
+    "link": "https://dev.to/j3rry320/making-your-website-talk-without-scaring-your-users-3299",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Started Wrapping Everything in React Native?",
+    "link": "https://dev.to/amareshpati/why-i-started-wrapping-everything-in-react-native-a9c",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Session Management in React",
+    "link": "https://dev.to/shieldstring/session-management-in-react-56e3",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Let Claude Write 60 Functions. 65-75% Had Security Vulnerabilities.",
+    "link": "https://dev.to/ofri-peretz/i-let-claude-write-60-functions-65-75-had-security-vulnerabilities-414o",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Design Pattern ~Guard Clause Rendering~",
+    "link": "https://dev.to/kkr0423/reactjs-design-pattern-guard-clause-rendering-1om",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Form Patterns: Controlled vs. Uncontrolled Components",
+    "link": "https://dev.to/masudursourav/react-form-patterns-controlled-vs-uncontrolled-components-584j",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a YouTube Shorts Generator with AI — Here's How",
+    "link": "https://dev.to/ayyazzafar/i-built-a-youtube-shorts-generator-with-ai-heres-how-36dn",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular 21.2 New Feature: Arrow Functions in Templates (With Gotchas)",
+    "link": "https://dev.to/brianmtreese/angular-212-new-feature-arrow-functions-in-templates-with-gotchas-4ahg",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "eslint-plugin-security Is Unmaintained. Here's What Nobody Tells You.",
+    "link": "https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚖️ Beginner-Friendly Guide 'Minimum Removals to Balance Array' - Problem 3634 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-removals-to-balance-array-problem-3634-c-python-28d9",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making Your Website Talk (Without Scaring Your Users)",
+    "link": "https://dev.to/j3rry320/making-your-website-talk-without-scaring-your-users-3299",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Started Wrapping Everything in React Native?",
+    "link": "https://dev.to/amareshpati/why-i-started-wrapping-everything-in-react-native-a9c",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Session Management in React",
+    "link": "https://dev.to/shieldstring/session-management-in-react-56e3",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Let Claude Write 60 Functions. 65-75% Had Security Vulnerabilities.",
+    "link": "https://dev.to/ofri-peretz/i-let-claude-write-60-functions-65-75-had-security-vulnerabilities-414o",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Design Pattern ~Guard Clause Rendering~",
+    "link": "https://dev.to/kkr0423/reactjs-design-pattern-guard-clause-rendering-1om",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Form Patterns: Controlled vs. Uncontrolled Components",
+    "link": "https://dev.to/masudursourav/react-form-patterns-controlled-vs-uncontrolled-components-584j",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a YouTube Shorts Generator with AI — Here's How",
+    "link": "https://dev.to/ayyazzafar/i-built-a-youtube-shorts-generator-with-ai-heres-how-36dn",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular 21.2 New Feature: Arrow Functions in Templates (With Gotchas)",
+    "link": "https://dev.to/brianmtreese/angular-212-new-feature-arrow-functions-in-templates-with-gotchas-4ahg",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "eslint-plugin-security Is Unmaintained. Here's What Nobody Tells You.",
+    "link": "https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚖️ Beginner-Friendly Guide 'Minimum Removals to Balance Array' - Problem 3634 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-removals-to-balance-array-problem-3634-c-python-28d9",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making Your Website Talk (Without Scaring Your Users)",
+    "link": "https://dev.to/j3rry320/making-your-website-talk-without-scaring-your-users-3299",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Started Wrapping Everything in React Native?",
+    "link": "https://dev.to/amareshpati/why-i-started-wrapping-everything-in-react-native-a9c",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Session Management in React",
+    "link": "https://dev.to/shieldstring/session-management-in-react-56e3",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Let Claude Write 60 Functions. 65-75% Had Security Vulnerabilities.",
+    "link": "https://dev.to/ofri-peretz/i-let-claude-write-60-functions-65-75-had-security-vulnerabilities-414o",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Design Pattern ~Guard Clause Rendering~",
+    "link": "https://dev.to/kkr0423/reactjs-design-pattern-guard-clause-rendering-1om",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Form Patterns: Controlled vs. Uncontrolled Components",
+    "link": "https://dev.to/masudursourav/react-form-patterns-controlled-vs-uncontrolled-components-584j",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a YouTube Shorts Generator with AI — Here's How",
+    "link": "https://dev.to/ayyazzafar/i-built-a-youtube-shorts-generator-with-ai-heres-how-36dn",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular 21.2 New Feature: Arrow Functions in Templates (With Gotchas)",
+    "link": "https://dev.to/brianmtreese/angular-212-new-feature-arrow-functions-in-templates-with-gotchas-4ahg",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "eslint-plugin-security Is Unmaintained. Here's What Nobody Tells You.",
+    "link": "https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚖️ Beginner-Friendly Guide 'Minimum Removals to Balance Array' - Problem 3634 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-removals-to-balance-array-problem-3634-c-python-28d9",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Making Your Website Talk (Without Scaring Your Users)",
+    "link": "https://dev.to/j3rry320/making-your-website-talk-without-scaring-your-users-3299",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Started Wrapping Everything in React Native?",
+    "link": "https://dev.to/amareshpati/why-i-started-wrapping-everything-in-react-native-a9c",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Session Management in React",
+    "link": "https://dev.to/shieldstring/session-management-in-react-56e3",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Let Claude Write 60 Functions. 65-75% Had Security Vulnerabilities.",
+    "link": "https://dev.to/ofri-peretz/i-let-claude-write-60-functions-65-75-had-security-vulnerabilities-414o",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "ReactJS Design Pattern ~Guard Clause Rendering~",
+    "link": "https://dev.to/kkr0423/reactjs-design-pattern-guard-clause-rendering-1om",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Form Patterns: Controlled vs. Uncontrolled Components",
+    "link": "https://dev.to/masudursourav/react-form-patterns-controlled-vs-uncontrolled-components-584j",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a YouTube Shorts Generator with AI — Here's How",
+    "link": "https://dev.to/ayyazzafar/i-built-a-youtube-shorts-generator-with-ai-heres-how-36dn",
+    "date": "2/6/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Photo Metadata to 3D Map: Building an Interactive Travel Diary",
+    "link": "https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Real Cost of Misusing React Hooks (and How to Fix It)",
-    "link": "https://dev.to/frozenblood/the-real-cost-of-misusing-react-hooks-and-how-to-fix-it-3j7h",
+    "title": "Why I Built an Anti-Baby-Shower Website",
+    "link": "https://dev.to/yixn_io/why-i-built-an-anti-baby-shower-website-4648",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Backend Development for Beginners: The Brain Behind Every App (Node.js/Express Guide - Part 1)",
-    "link": "https://dev.to/notgetin18/backend-development-for-beginners-the-brain-behind-every-app-nodejsexpress-guide-part-1-1d7j",
+    "title": "The Scaling Gauntlet, Pt. 3: Cache Rules Everything Around Me",
+    "link": "https://dev.to/tawe/the-scaling-gauntlet-pt-3-cache-rules-everything-around-me-aa8",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "const with Object or Array in Javascript",
-    "link": "https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m",
+    "title": "7 Years of Building for the Web, Remotely",
+    "link": "https://dev.to/shiniestar57/7-years-of-building-for-the-web-remotely-3kpe",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why WebSockets Are Overkill for Most Real-Time Apps",
-    "link": "https://dev.to/aitrandingprompt/why-websockets-are-overkill-for-most-real-time-apps-12ga",
+    "title": "From Photo Metadata to 3D Map: Building an Interactive Travel Diary",
+    "link": "https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "It Works on My Machine: Debugging Vuex Proxy Traps in Production",
-    "link": "https://dev.to/avsecdongol/it-works-on-my-machine-debugging-vuex-proxy-traps-in-production-5118",
+    "title": "Why I Built an Anti-Baby-Shower Website",
+    "link": "https://dev.to/yixn_io/why-i-built-an-anti-baby-shower-website-4648",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Real Cost of Misusing React Hooks (and How to Fix It)",
-    "link": "https://dev.to/frozenblood/the-real-cost-of-misusing-react-hooks-and-how-to-fix-it-3j7h",
+    "title": "The Scaling Gauntlet, Pt. 3: Cache Rules Everything Around Me",
+    "link": "https://dev.to/tawe/the-scaling-gauntlet-pt-3-cache-rules-everything-around-me-aa8",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Backend Development for Beginners: The Brain Behind Every App (Node.js/Express Guide - Part 1)",
-    "link": "https://dev.to/notgetin18/backend-development-for-beginners-the-brain-behind-every-app-nodejsexpress-guide-part-1-1d7j",
+    "title": "7 Years of Building for the Web, Remotely",
+    "link": "https://dev.to/shiniestar57/7-years-of-building-for-the-web-remotely-3kpe",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "const with Object or Array in Javascript",
-    "link": "https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m",
+    "title": "From Photo Metadata to 3D Map: Building an Interactive Travel Diary",
+    "link": "https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why WebSockets Are Overkill for Most Real-Time Apps",
-    "link": "https://dev.to/aitrandingprompt/why-websockets-are-overkill-for-most-real-time-apps-12ga",
+    "title": "Why I Built an Anti-Baby-Shower Website",
+    "link": "https://dev.to/yixn_io/why-i-built-an-anti-baby-shower-website-4648",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "It Works on My Machine: Debugging Vuex Proxy Traps in Production",
-    "link": "https://dev.to/avsecdongol/it-works-on-my-machine-debugging-vuex-proxy-traps-in-production-5118",
+    "title": "The Scaling Gauntlet, Pt. 3: Cache Rules Everything Around Me",
+    "link": "https://dev.to/tawe/the-scaling-gauntlet-pt-3-cache-rules-everything-around-me-aa8",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Real Cost of Misusing React Hooks (and How to Fix It)",
-    "link": "https://dev.to/frozenblood/the-real-cost-of-misusing-react-hooks-and-how-to-fix-it-3j7h",
+    "title": "7 Years of Building for the Web, Remotely",
+    "link": "https://dev.to/shiniestar57/7-years-of-building-for-the-web-remotely-3kpe",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Backend Development for Beginners: The Brain Behind Every App (Node.js/Express Guide - Part 1)",
-    "link": "https://dev.to/notgetin18/backend-development-for-beginners-the-brain-behind-every-app-nodejsexpress-guide-part-1-1d7j",
+    "title": "From Photo Metadata to 3D Map: Building an Interactive Travel Diary",
+    "link": "https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "const with Object or Array in Javascript",
-    "link": "https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m",
+    "title": "Why I Built an Anti-Baby-Shower Website",
+    "link": "https://dev.to/yixn_io/why-i-built-an-anti-baby-shower-website-4648",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why WebSockets Are Overkill for Most Real-Time Apps",
-    "link": "https://dev.to/aitrandingprompt/why-websockets-are-overkill-for-most-real-time-apps-12ga",
+    "title": "The Scaling Gauntlet, Pt. 3: Cache Rules Everything Around Me",
+    "link": "https://dev.to/tawe/the-scaling-gauntlet-pt-3-cache-rules-everything-around-me-aa8",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "It Works on My Machine: Debugging Vuex Proxy Traps in Production",
-    "link": "https://dev.to/avsecdongol/it-works-on-my-machine-debugging-vuex-proxy-traps-in-production-5118",
+    "title": "7 Years of Building for the Web, Remotely",
+    "link": "https://dev.to/shiniestar57/7-years-of-building-for-the-web-remotely-3kpe",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Real Cost of Misusing React Hooks (and How to Fix It)",
-    "link": "https://dev.to/frozenblood/the-real-cost-of-misusing-react-hooks-and-how-to-fix-it-3j7h",
+    "title": "From Photo Metadata to 3D Map: Building an Interactive Travel Diary",
+    "link": "https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Backend Development for Beginners: The Brain Behind Every App (Node.js/Express Guide - Part 1)",
-    "link": "https://dev.to/notgetin18/backend-development-for-beginners-the-brain-behind-every-app-nodejsexpress-guide-part-1-1d7j",
+    "title": "Why I Built an Anti-Baby-Shower Website",
+    "link": "https://dev.to/yixn_io/why-i-built-an-anti-baby-shower-website-4648",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "const with Object or Array in Javascript",
-    "link": "https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m",
+    "title": "The Scaling Gauntlet, Pt. 3: Cache Rules Everything Around Me",
+    "link": "https://dev.to/tawe/the-scaling-gauntlet-pt-3-cache-rules-everything-around-me-aa8",
     "date": "2/5/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why WebSockets Are Overkill for Most Real-Time Apps",
-    "link": "https://dev.to/aitrandingprompt/why-websockets-are-overkill-for-most-real-time-apps-12ga",
-    "date": "2/5/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "It Works on My Machine: Debugging Vuex Proxy Traps in Production",
-    "link": "https://dev.to/avsecdongol/it-works-on-my-machine-debugging-vuex-proxy-traps-in-production-5118",
-    "date": "2/5/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Real Cost of Misusing React Hooks (and How to Fix It)",
-    "link": "https://dev.to/frozenblood/the-real-cost-of-misusing-react-hooks-and-how-to-fix-it-3j7h",
-    "date": "2/5/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Backend Development for Beginners: The Brain Behind Every App (Node.js/Express Guide - Part 1)",
-    "link": "https://dev.to/notgetin18/backend-development-for-beginners-the-brain-behind-every-app-nodejsexpress-guide-part-1-1d7j",
-    "date": "2/5/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "const with Object or Array in Javascript",
-    "link": "https://dev.to/rahul1994jh/const-with-object-or-array-in-javascript-c3m",
-    "date": "2/5/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why WebSockets Are Overkill for Most Real-Time Apps",
-    "link": "https://dev.to/aitrandingprompt/why-websockets-are-overkill-for-most-real-time-apps-12ga",
+    "title": "7 Years of Building for the Web, Remotely",
+    "link": "https://dev.to/shiniestar57/7-years-of-building-for-the-web-remotely-3kpe",
     "date": "2/5/2026",
     "site": "dev.to"
   },
@@ -156,44 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)",
-    "link": "https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛩 Beginner-Friendly Guide 'Trionic Array II' - Problem 3640 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-ii-problem-3640-c-python-javascript-52nh",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rebuilding My Static Blog with Build-Time Data and Instant Search",
-    "link": "https://dev.to/ravgeetdhillon/rebuilding-my-static-blog-with-build-time-data-and-instant-search-16db",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Remote Developer Toolkit: Technical Skills That Actually Get You Hired",
-    "link": "https://dev.to/jsgurujobs/the-remote-developer-toolkit-technical-skills-that-actually-get-you-hired-1lnc",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Export Chrome Bookmarks as JSON — and Why I Built a One-Click Extension for It",
-    "link": "https://dev.to/dwasil/how-to-export-chrome-bookmarks-as-json-and-why-i-built-a-one-click-extension-for-it-17b2",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Static HTML Implementation - I built a lightweight Java framework for Japan's \"SI\" projects (third attempt in 10 years) #004",
-    "link": "https://dev.to/sugaiketadao/static-html-implementation-i-built-a-lightweight-java-framework-for-japans-si-projects-third-3cdm",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bun 1.2 Deep Dive: Built-in SQLite, S3, and Why It Might Actually Replace Node.js",
-    "link": "https://dev.to/pockit_tools/bun-12-deep-dive-built-in-sqlite-s3-and-why-it-might-actually-replace-nodejs-4738",
+    "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
+    "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
     "date": "2/4/2026",
     "site": "dev.to"
   },
@@ -204,44 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)",
-    "link": "https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛩 Beginner-Friendly Guide 'Trionic Array II' - Problem 3640 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-ii-problem-3640-c-python-javascript-52nh",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rebuilding My Static Blog with Build-Time Data and Instant Search",
-    "link": "https://dev.to/ravgeetdhillon/rebuilding-my-static-blog-with-build-time-data-and-instant-search-16db",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Remote Developer Toolkit: Technical Skills That Actually Get You Hired",
-    "link": "https://dev.to/jsgurujobs/the-remote-developer-toolkit-technical-skills-that-actually-get-you-hired-1lnc",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Export Chrome Bookmarks as JSON — and Why I Built a One-Click Extension for It",
-    "link": "https://dev.to/dwasil/how-to-export-chrome-bookmarks-as-json-and-why-i-built-a-one-click-extension-for-it-17b2",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Static HTML Implementation - I built a lightweight Java framework for Japan's \"SI\" projects (third attempt in 10 years) #004",
-    "link": "https://dev.to/sugaiketadao/static-html-implementation-i-built-a-lightweight-java-framework-for-japans-si-projects-third-3cdm",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bun 1.2 Deep Dive: Built-in SQLite, S3, and Why It Might Actually Replace Node.js",
-    "link": "https://dev.to/pockit_tools/bun-12-deep-dive-built-in-sqlite-s3-and-why-it-might-actually-replace-nodejs-4738",
+    "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
+    "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
     "date": "2/4/2026",
     "site": "dev.to"
   },
@@ -249,204 +447,6 @@
     "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
     "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
     "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)",
-    "link": "https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛩 Beginner-Friendly Guide 'Trionic Array II' - Problem 3640 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-ii-problem-3640-c-python-javascript-52nh",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rebuilding My Static Blog with Build-Time Data and Instant Search",
-    "link": "https://dev.to/ravgeetdhillon/rebuilding-my-static-blog-with-build-time-data-and-instant-search-16db",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Remote Developer Toolkit: Technical Skills That Actually Get You Hired",
-    "link": "https://dev.to/jsgurujobs/the-remote-developer-toolkit-technical-skills-that-actually-get-you-hired-1lnc",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Export Chrome Bookmarks as JSON — and Why I Built a One-Click Extension for It",
-    "link": "https://dev.to/dwasil/how-to-export-chrome-bookmarks-as-json-and-why-i-built-a-one-click-extension-for-it-17b2",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Static HTML Implementation - I built a lightweight Java framework for Japan's \"SI\" projects (third attempt in 10 years) #004",
-    "link": "https://dev.to/sugaiketadao/static-html-implementation-i-built-a-lightweight-java-framework-for-japans-si-projects-third-3cdm",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bun 1.2 Deep Dive: Built-in SQLite, S3, and Why It Might Actually Replace Node.js",
-    "link": "https://dev.to/pockit_tools/bun-12-deep-dive-built-in-sqlite-s3-and-why-it-might-actually-replace-nodejs-4738",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
-    "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)",
-    "link": "https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛩 Beginner-Friendly Guide 'Trionic Array II' - Problem 3640 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-ii-problem-3640-c-python-javascript-52nh",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rebuilding My Static Blog with Build-Time Data and Instant Search",
-    "link": "https://dev.to/ravgeetdhillon/rebuilding-my-static-blog-with-build-time-data-and-instant-search-16db",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Remote Developer Toolkit: Technical Skills That Actually Get You Hired",
-    "link": "https://dev.to/jsgurujobs/the-remote-developer-toolkit-technical-skills-that-actually-get-you-hired-1lnc",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Export Chrome Bookmarks as JSON — and Why I Built a One-Click Extension for It",
-    "link": "https://dev.to/dwasil/how-to-export-chrome-bookmarks-as-json-and-why-i-built-a-one-click-extension-for-it-17b2",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Static HTML Implementation - I built a lightweight Java framework for Japan's \"SI\" projects (third attempt in 10 years) #004",
-    "link": "https://dev.to/sugaiketadao/static-html-implementation-i-built-a-lightweight-java-framework-for-japans-si-projects-third-3cdm",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bun 1.2 Deep Dive: Built-in SQLite, S3, and Why It Might Actually Replace Node.js",
-    "link": "https://dev.to/pockit_tools/bun-12-deep-dive-built-in-sqlite-s3-and-why-it-might-actually-replace-nodejs-4738",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Installing Libraries: 10 Browser APIs That Already Solve Your Problems",
-    "link": "https://dev.to/sylwia-lask/stop-installing-libraries-10-browser-apis-that-already-solve-your-problems-35bi",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Server-Sent Events Beat WebSockets for 95% of Real-Time Apps (Here's Why)",
-    "link": "https://dev.to/polliog/server-sent-events-beat-websockets-for-95-of-real-time-apps-heres-why-a4l",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛩 Beginner-Friendly Guide 'Trionic Array II' - Problem 3640 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-ii-problem-3640-c-python-javascript-52nh",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rebuilding My Static Blog with Build-Time Data and Instant Search",
-    "link": "https://dev.to/ravgeetdhillon/rebuilding-my-static-blog-with-build-time-data-and-instant-search-16db",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Remote Developer Toolkit: Technical Skills That Actually Get You Hired",
-    "link": "https://dev.to/jsgurujobs/the-remote-developer-toolkit-technical-skills-that-actually-get-you-hired-1lnc",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Export Chrome Bookmarks as JSON — and Why I Built a One-Click Extension for It",
-    "link": "https://dev.to/dwasil/how-to-export-chrome-bookmarks-as-json-and-why-i-built-a-one-click-extension-for-it-17b2",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Static HTML Implementation - I built a lightweight Java framework for Japan's \"SI\" projects (third attempt in 10 years) #004",
-    "link": "https://dev.to/sugaiketadao/static-html-implementation-i-built-a-lightweight-java-framework-for-japans-si-projects-third-3cdm",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bun 1.2 Deep Dive: Built-in SQLite, S3, and Why It Might Actually Replace Node.js",
-    "link": "https://dev.to/pockit_tools/bun-12-deep-dive-built-in-sqlite-s3-and-why-it-might-actually-replace-nodejs-4738",
-    "date": "2/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover",
-    "link": "https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l",
-    "date": "2/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover",
-    "link": "https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l",
-    "date": "2/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover",
-    "link": "https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l",
-    "date": "2/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover",
-    "link": "https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l",
-    "date": "2/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover",
-    "link": "https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l",
-    "date": "2/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
-    "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
-    "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
-    "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
-    "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
-    "date": "2/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Should Junior Developers Still Learn JavaScript the Hard Way?",
-    "link": "https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l",
-    "date": "2/1/2026",
     "site": "dev.to"
   },
   {
@@ -473,14 +473,14 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
   {
     "title": "Building An Offline-Friendly Image Upload System",
     "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "4/23/2025",
     "site": "smashingmagazine"
   },
@@ -522,7 +522,7 @@
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
@@ -564,7 +564,7 @@
   {
     "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
     "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "2/22/2024",
     "site": "smashingmagazine"
   },
@@ -641,7 +641,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -711,7 +711,7 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "24 min read",
+    "reading_time": "23 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
