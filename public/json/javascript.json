@@ -1,271 +1,421 @@
 [
   {
-    "title": "Internal Design Choices for Effects: Implementing Effects (II)",
-    "link": "https://dev.to/luciano0322/internal-design-choices-for-effects-implementing-effects-ii-12g6",
+    "title": "🛌 Beginner-Friendly Guide 'Longest Balanced Substring I' - Leetcode Problem 3713 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-i-leetcode-problem-3713-c-python-51bn",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "10 Cool CodePen Demos (January 2026)",
+    "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-january-2026-406n",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "50 React Interview Coding Challenges",
+    "link": "https://dev.to/myogeshchavan97/50-react-interview-coding-challenges-5coh",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React",
+    "link": "https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Chrome Extension That Runs Llama, DeepSeek, and Mistral Locally Using WebGPU (No Ollama, No Server)",
+    "link": "https://dev.to/psgganesh/how-i-built-a-chrome-extension-that-runs-llama-deepseek-and-mistral-locally-using-webgpu-no-73l",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🕵️‍♂️ I Built a Privacy-First PDF Toolkit Because Most “Free” Tools Are Sketchy",
+    "link": "https://dev.to/aerospace-prog/i-built-a-privacy-first-pdf-toolkit-because-most-free-tools-are-sketchy-26ol",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "[Prototype]Management Screen with LogArea",
+    "link": "https://dev.to/obasho0613/prototypemanagement-screen-with-logarea-3pg7",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Built 7 Websites for a Small Construction Company Using Modern Web Tech",
+    "link": "https://dev.to/inuterr0/how-we-built-7-websites-for-a-small-construction-company-using-modern-web-tech-3n7l",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Fast Websites for Small Businesses: Lessons from Swedish Construction Industry",
+    "link": "https://dev.to/inuterr0/building-fast-websites-for-small-businesses-lessons-from-swedish-construction-industry-9jg",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "HUD Overlays with Canvas 2D",
+    "link": "https://dev.to/emrahg/building-cinematic-sci-fi-hud-overlays-with-canvas-2d-and-mediarecorder-api-1kk1",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to SQL using SQLite: Node SQLite",
+    "link": "https://dev.to/otumianempire/introduction-to-sql-using-sqlite-node-sqlite-24gm",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛌 Beginner-Friendly Guide 'Longest Balanced Substring I' - Leetcode Problem 3713 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-i-leetcode-problem-3713-c-python-51bn",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "10 Cool CodePen Demos (January 2026)",
+    "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-january-2026-406n",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "50 React Interview Coding Challenges",
+    "link": "https://dev.to/myogeshchavan97/50-react-interview-coding-challenges-5coh",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React",
+    "link": "https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Chrome Extension That Runs Llama, DeepSeek, and Mistral Locally Using WebGPU (No Ollama, No Server)",
+    "link": "https://dev.to/psgganesh/how-i-built-a-chrome-extension-that-runs-llama-deepseek-and-mistral-locally-using-webgpu-no-73l",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🕵️‍♂️ I Built a Privacy-First PDF Toolkit Because Most “Free” Tools Are Sketchy",
+    "link": "https://dev.to/aerospace-prog/i-built-a-privacy-first-pdf-toolkit-because-most-free-tools-are-sketchy-26ol",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "[Prototype]Management Screen with LogArea",
+    "link": "https://dev.to/obasho0613/prototypemanagement-screen-with-logarea-3pg7",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Built 7 Websites for a Small Construction Company Using Modern Web Tech",
+    "link": "https://dev.to/inuterr0/how-we-built-7-websites-for-a-small-construction-company-using-modern-web-tech-3n7l",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Fast Websites for Small Businesses: Lessons from Swedish Construction Industry",
+    "link": "https://dev.to/inuterr0/building-fast-websites-for-small-businesses-lessons-from-swedish-construction-industry-9jg",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "HUD Overlays with Canvas 2D",
+    "link": "https://dev.to/emrahg/building-cinematic-sci-fi-hud-overlays-with-canvas-2d-and-mediarecorder-api-1kk1",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to SQL using SQLite: Node SQLite",
+    "link": "https://dev.to/otumianempire/introduction-to-sql-using-sqlite-node-sqlite-24gm",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛌 Beginner-Friendly Guide 'Longest Balanced Substring I' - Leetcode Problem 3713 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-i-leetcode-problem-3713-c-python-51bn",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "10 Cool CodePen Demos (January 2026)",
+    "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-january-2026-406n",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "50 React Interview Coding Challenges",
+    "link": "https://dev.to/myogeshchavan97/50-react-interview-coding-challenges-5coh",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React",
+    "link": "https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Chrome Extension That Runs Llama, DeepSeek, and Mistral Locally Using WebGPU (No Ollama, No Server)",
+    "link": "https://dev.to/psgganesh/how-i-built-a-chrome-extension-that-runs-llama-deepseek-and-mistral-locally-using-webgpu-no-73l",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🕵️‍♂️ I Built a Privacy-First PDF Toolkit Because Most “Free” Tools Are Sketchy",
+    "link": "https://dev.to/aerospace-prog/i-built-a-privacy-first-pdf-toolkit-because-most-free-tools-are-sketchy-26ol",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "[Prototype]Management Screen with LogArea",
+    "link": "https://dev.to/obasho0613/prototypemanagement-screen-with-logarea-3pg7",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Built 7 Websites for a Small Construction Company Using Modern Web Tech",
+    "link": "https://dev.to/inuterr0/how-we-built-7-websites-for-a-small-construction-company-using-modern-web-tech-3n7l",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Fast Websites for Small Businesses: Lessons from Swedish Construction Industry",
+    "link": "https://dev.to/inuterr0/building-fast-websites-for-small-businesses-lessons-from-swedish-construction-industry-9jg",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "HUD Overlays with Canvas 2D",
+    "link": "https://dev.to/emrahg/building-cinematic-sci-fi-hud-overlays-with-canvas-2d-and-mediarecorder-api-1kk1",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to SQL using SQLite: Node SQLite",
+    "link": "https://dev.to/otumianempire/introduction-to-sql-using-sqlite-node-sqlite-24gm",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛌 Beginner-Friendly Guide 'Longest Balanced Substring I' - Leetcode Problem 3713 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-i-leetcode-problem-3713-c-python-51bn",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "10 Cool CodePen Demos (January 2026)",
+    "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-january-2026-406n",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "50 React Interview Coding Challenges",
+    "link": "https://dev.to/myogeshchavan97/50-react-interview-coding-challenges-5coh",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React",
+    "link": "https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Chrome Extension That Runs Llama, DeepSeek, and Mistral Locally Using WebGPU (No Ollama, No Server)",
+    "link": "https://dev.to/psgganesh/how-i-built-a-chrome-extension-that-runs-llama-deepseek-and-mistral-locally-using-webgpu-no-73l",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🕵️‍♂️ I Built a Privacy-First PDF Toolkit Because Most “Free” Tools Are Sketchy",
+    "link": "https://dev.to/aerospace-prog/i-built-a-privacy-first-pdf-toolkit-because-most-free-tools-are-sketchy-26ol",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "[Prototype]Management Screen with LogArea",
+    "link": "https://dev.to/obasho0613/prototypemanagement-screen-with-logarea-3pg7",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Built 7 Websites for a Small Construction Company Using Modern Web Tech",
+    "link": "https://dev.to/inuterr0/how-we-built-7-websites-for-a-small-construction-company-using-modern-web-tech-3n7l",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Fast Websites for Small Businesses: Lessons from Swedish Construction Industry",
+    "link": "https://dev.to/inuterr0/building-fast-websites-for-small-businesses-lessons-from-swedish-construction-industry-9jg",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "HUD Overlays with Canvas 2D",
+    "link": "https://dev.to/emrahg/building-cinematic-sci-fi-hud-overlays-with-canvas-2d-and-mediarecorder-api-1kk1",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to SQL using SQLite: Node SQLite",
+    "link": "https://dev.to/otumianempire/introduction-to-sql-using-sqlite-node-sqlite-24gm",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛌 Beginner-Friendly Guide 'Longest Balanced Substring I' - Leetcode Problem 3713 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-i-leetcode-problem-3713-c-python-51bn",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "10 Cool CodePen Demos (January 2026)",
+    "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-january-2026-406n",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "50 React Interview Coding Challenges",
+    "link": "https://dev.to/myogeshchavan97/50-react-interview-coding-challenges-5coh",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Virtual DOM from Scratch: What I Learned Reverse-Engineering React",
+    "link": "https://dev.to/deep007/building-a-virtual-dom-from-scratch-what-i-learned-reverse-engineering-react-44gc",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Chrome Extension That Runs Llama, DeepSeek, and Mistral Locally Using WebGPU (No Ollama, No Server)",
+    "link": "https://dev.to/psgganesh/how-i-built-a-chrome-extension-that-runs-llama-deepseek-and-mistral-locally-using-webgpu-no-73l",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🕵️‍♂️ I Built a Privacy-First PDF Toolkit Because Most “Free” Tools Are Sketchy",
+    "link": "https://dev.to/aerospace-prog/i-built-a-privacy-first-pdf-toolkit-because-most-free-tools-are-sketchy-26ol",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "[Prototype]Management Screen with LogArea",
+    "link": "https://dev.to/obasho0613/prototypemanagement-screen-with-logarea-3pg7",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Built 7 Websites for a Small Construction Company Using Modern Web Tech",
+    "link": "https://dev.to/inuterr0/how-we-built-7-websites-for-a-small-construction-company-using-modern-web-tech-3n7l",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Fast Websites for Small Businesses: Lessons from Swedish Construction Industry",
+    "link": "https://dev.to/inuterr0/building-fast-websites-for-small-businesses-lessons-from-swedish-construction-industry-9jg",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "HUD Overlays with Canvas 2D",
+    "link": "https://dev.to/emrahg/building-cinematic-sci-fi-hud-overlays-with-canvas-2d-and-mediarecorder-api-1kk1",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introduction to SQL using SQLite: Node SQLite",
+    "link": "https://dev.to/otumianempire/introduction-to-sql-using-sqlite-node-sqlite-24gm",
+    "date": "2/12/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries",
+    "link": "https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "Best Privacy Extension",
-    "link": "https://dev.to/mixaoc/best-privacy-extension-4j7a",
+    "title": "WinClaw: I Built an Open-Source AI Assistant That Connects to All Your Messaging Apps",
+    "link": "https://dev.to/winclawdev/winclaw-i-built-an-open-source-ai-assistant-that-connects-to-all-your-messaging-apps-a0",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "🌌Beginner-Friendly Guide 'Longest Balanced Subarray II' - Leetcode 3721 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-subarray-ii-leetcode-3721-c-python-javascript-2b02",
+    "title": "Scalable SaaS Blueprints: Build Once, Grow Forever (No Regrets)",
+    "link": "https://dev.to/corescent_technologies_/scalable-saas-blueprints-build-once-grow-forever-no-regrets-1h41",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Git Problem That Stalks 87% of Developers",
-    "link": "https://dev.to/vasughanta09/the-git-problem-that-stalks-87-of-developers-57gk",
+    "title": "FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries",
+    "link": "https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "Calendar Feeds: Where It All Started",
-    "link": "https://dev.to/alistairjcbrown/calendar-feeds-where-it-all-started-27o2",
+    "title": "WinClaw: I Built an Open-Source AI Assistant That Connects to All Your Messaging Apps",
+    "link": "https://dev.to/winclawdev/winclaw-i-built-an-open-source-ai-assistant-that-connects-to-all-your-messaging-apps-a0",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "Give Your AI Agent Persistent Memory in 5 Minutes (Free)",
-    "link": "https://dev.to/anajuliabit/give-your-ai-agent-persistent-memory-in-5-minutes-free-599",
+    "title": "Scalable SaaS Blueprints: Build Once, Grow Forever (No Regrets)",
+    "link": "https://dev.to/corescent_technologies_/scalable-saas-blueprints-build-once-grow-forever-no-regrets-1h41",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Free PDF Tool for Students in India — Here’s What I Learned 🚀",
-    "link": "https://dev.to/aerotoolsxas/i-built-a-free-pdf-tool-for-students-in-india-heres-what-i-learned-3k59",
+    "title": "FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries",
+    "link": "https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "ReactJS ~Async Components~",
-    "link": "https://dev.to/kkr0423/reactjs-async-components-2b5f",
+    "title": "WinClaw: I Built an Open-Source AI Assistant That Connects to All Your Messaging Apps",
+    "link": "https://dev.to/winclawdev/winclaw-i-built-an-open-source-ai-assistant-that-connects-to-all-your-messaging-apps-a0",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Evolution of JavaScript: Navigating the Modern Frontend Landscape",
-    "link": "https://dev.to/meet_patel_b41bbf81ec83f2/the-evolution-of-javascript-navigating-the-modern-frontend-landscape-203",
+    "title": "Scalable SaaS Blueprints: Build Once, Grow Forever (No Regrets)",
+    "link": "https://dev.to/corescent_technologies_/scalable-saas-blueprints-build-once-grow-forever-no-regrets-1h41",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "Internal Design Choices for Effects: Implementing Effects (II)",
-    "link": "https://dev.to/luciano0322/internal-design-choices-for-effects-implementing-effects-ii-12g6",
+    "title": "FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries",
+    "link": "https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "Best Privacy Extension",
-    "link": "https://dev.to/mixaoc/best-privacy-extension-4j7a",
+    "title": "WinClaw: I Built an Open-Source AI Assistant That Connects to All Your Messaging Apps",
+    "link": "https://dev.to/winclawdev/winclaw-i-built-an-open-source-ai-assistant-that-connects-to-all-your-messaging-apps-a0",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "🌌Beginner-Friendly Guide 'Longest Balanced Subarray II' - Leetcode 3721 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-subarray-ii-leetcode-3721-c-python-javascript-2b02",
+    "title": "Scalable SaaS Blueprints: Build Once, Grow Forever (No Regrets)",
+    "link": "https://dev.to/corescent_technologies_/scalable-saas-blueprints-build-once-grow-forever-no-regrets-1h41",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Git Problem That Stalks 87% of Developers",
-    "link": "https://dev.to/vasughanta09/the-git-problem-that-stalks-87-of-developers-57gk",
+    "title": "FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries",
+    "link": "https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "Calendar Feeds: Where It All Started",
-    "link": "https://dev.to/alistairjcbrown/calendar-feeds-where-it-all-started-27o2",
+    "title": "WinClaw: I Built an Open-Source AI Assistant That Connects to All Your Messaging Apps",
+    "link": "https://dev.to/winclawdev/winclaw-i-built-an-open-source-ai-assistant-that-connects-to-all-your-messaging-apps-a0",
     "date": "2/11/2026",
     "site": "dev.to"
   },
   {
-    "title": "Give Your AI Agent Persistent Memory in 5 Minutes (Free)",
-    "link": "https://dev.to/anajuliabit/give-your-ai-agent-persistent-memory-in-5-minutes-free-599",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Free PDF Tool for Students in India — Here’s What I Learned 🚀",
-    "link": "https://dev.to/aerotoolsxas/i-built-a-free-pdf-tool-for-students-in-india-heres-what-i-learned-3k59",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "ReactJS ~Async Components~",
-    "link": "https://dev.to/kkr0423/reactjs-async-components-2b5f",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Evolution of JavaScript: Navigating the Modern Frontend Landscape",
-    "link": "https://dev.to/meet_patel_b41bbf81ec83f2/the-evolution-of-javascript-navigating-the-modern-frontend-landscape-203",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Internal Design Choices for Effects: Implementing Effects (II)",
-    "link": "https://dev.to/luciano0322/internal-design-choices-for-effects-implementing-effects-ii-12g6",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Privacy Extension",
-    "link": "https://dev.to/mixaoc/best-privacy-extension-4j7a",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🌌Beginner-Friendly Guide 'Longest Balanced Subarray II' - Leetcode 3721 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-subarray-ii-leetcode-3721-c-python-javascript-2b02",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Git Problem That Stalks 87% of Developers",
-    "link": "https://dev.to/vasughanta09/the-git-problem-that-stalks-87-of-developers-57gk",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Calendar Feeds: Where It All Started",
-    "link": "https://dev.to/alistairjcbrown/calendar-feeds-where-it-all-started-27o2",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Give Your AI Agent Persistent Memory in 5 Minutes (Free)",
-    "link": "https://dev.to/anajuliabit/give-your-ai-agent-persistent-memory-in-5-minutes-free-599",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Free PDF Tool for Students in India — Here’s What I Learned 🚀",
-    "link": "https://dev.to/aerotoolsxas/i-built-a-free-pdf-tool-for-students-in-india-heres-what-i-learned-3k59",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "ReactJS ~Async Components~",
-    "link": "https://dev.to/kkr0423/reactjs-async-components-2b5f",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Evolution of JavaScript: Navigating the Modern Frontend Landscape",
-    "link": "https://dev.to/meet_patel_b41bbf81ec83f2/the-evolution-of-javascript-navigating-the-modern-frontend-landscape-203",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Internal Design Choices for Effects: Implementing Effects (II)",
-    "link": "https://dev.to/luciano0322/internal-design-choices-for-effects-implementing-effects-ii-12g6",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Privacy Extension",
-    "link": "https://dev.to/mixaoc/best-privacy-extension-4j7a",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🌌Beginner-Friendly Guide 'Longest Balanced Subarray II' - Leetcode 3721 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-subarray-ii-leetcode-3721-c-python-javascript-2b02",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Git Problem That Stalks 87% of Developers",
-    "link": "https://dev.to/vasughanta09/the-git-problem-that-stalks-87-of-developers-57gk",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Calendar Feeds: Where It All Started",
-    "link": "https://dev.to/alistairjcbrown/calendar-feeds-where-it-all-started-27o2",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Give Your AI Agent Persistent Memory in 5 Minutes (Free)",
-    "link": "https://dev.to/anajuliabit/give-your-ai-agent-persistent-memory-in-5-minutes-free-599",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Free PDF Tool for Students in India — Here’s What I Learned 🚀",
-    "link": "https://dev.to/aerotoolsxas/i-built-a-free-pdf-tool-for-students-in-india-heres-what-i-learned-3k59",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "ReactJS ~Async Components~",
-    "link": "https://dev.to/kkr0423/reactjs-async-components-2b5f",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Evolution of JavaScript: Navigating the Modern Frontend Landscape",
-    "link": "https://dev.to/meet_patel_b41bbf81ec83f2/the-evolution-of-javascript-navigating-the-modern-frontend-landscape-203",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Internal Design Choices for Effects: Implementing Effects (II)",
-    "link": "https://dev.to/luciano0322/internal-design-choices-for-effects-implementing-effects-ii-12g6",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Privacy Extension",
-    "link": "https://dev.to/mixaoc/best-privacy-extension-4j7a",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🌌Beginner-Friendly Guide 'Longest Balanced Subarray II' - Leetcode 3721 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-subarray-ii-leetcode-3721-c-python-javascript-2b02",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Git Problem That Stalks 87% of Developers",
-    "link": "https://dev.to/vasughanta09/the-git-problem-that-stalks-87-of-developers-57gk",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Calendar Feeds: Where It All Started",
-    "link": "https://dev.to/alistairjcbrown/calendar-feeds-where-it-all-started-27o2",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Give Your AI Agent Persistent Memory in 5 Minutes (Free)",
-    "link": "https://dev.to/anajuliabit/give-your-ai-agent-persistent-memory-in-5-minutes-free-599",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Free PDF Tool for Students in India — Here’s What I Learned 🚀",
-    "link": "https://dev.to/aerotoolsxas/i-built-a-free-pdf-tool-for-students-in-india-heres-what-i-learned-3k59",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "ReactJS ~Async Components~",
-    "link": "https://dev.to/kkr0423/reactjs-async-components-2b5f",
-    "date": "2/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Evolution of JavaScript: Navigating the Modern Frontend Landscape",
-    "link": "https://dev.to/meet_patel_b41bbf81ec83f2/the-evolution-of-javascript-navigating-the-modern-frontend-landscape-203",
+    "title": "Scalable SaaS Blueprints: Build Once, Grow Forever (No Regrets)",
+    "link": "https://dev.to/corescent_technologies_/scalable-saas-blueprints-build-once-grow-forever-no-regrets-1h41",
     "date": "2/11/2026",
     "site": "dev.to"
   },
@@ -276,32 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "How to Manage Website Data Without Touching Frontend Code",
-    "link": "https://dev.to/oneentry/how-to-manage-website-data-without-touching-frontend-code-10nc",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Programming Languages in 2026: A Curious Skeptic’s Take",
-    "link": "https://dev.to/liamjohn122/best-programming-languages-in-2026-a-curious-skeptics-take-1a5l",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪",
-    "link": "https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built 25 Free Developer Tools That Run Entirely in Your Browser",
-    "link": "https://dev.to/kiel_malpass_62f9135724e0/i-built-25-free-developer-tools-that-run-entirely-in-your-browser-4bak",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Running Your Entire Test Suite on Every Commit 🚫🧪",
-    "link": "https://dev.to/schirrel/stop-running-your-entire-test-suite-on-every-commit-44hd",
+    "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
+    "link": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
     "date": "2/10/2026",
     "site": "dev.to"
   },
@@ -312,140 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "How to Manage Website Data Without Touching Frontend Code",
-    "link": "https://dev.to/oneentry/how-to-manage-website-data-without-touching-frontend-code-10nc",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Programming Languages in 2026: A Curious Skeptic’s Take",
-    "link": "https://dev.to/liamjohn122/best-programming-languages-in-2026-a-curious-skeptics-take-1a5l",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪",
-    "link": "https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built 25 Free Developer Tools That Run Entirely in Your Browser",
-    "link": "https://dev.to/kiel_malpass_62f9135724e0/i-built-25-free-developer-tools-that-run-entirely-in-your-browser-4bak",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Running Your Entire Test Suite on Every Commit 🚫🧪",
-    "link": "https://dev.to/schirrel/stop-running-your-entire-test-suite-on-every-commit-44hd",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
     "link": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
     "date": "2/10/2026",
     "site": "dev.to"
   },
   {
-    "title": "How to Manage Website Data Without Touching Frontend Code",
-    "link": "https://dev.to/oneentry/how-to-manage-website-data-without-touching-frontend-code-10nc",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Programming Languages in 2026: A Curious Skeptic’s Take",
-    "link": "https://dev.to/liamjohn122/best-programming-languages-in-2026-a-curious-skeptics-take-1a5l",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪",
-    "link": "https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built 25 Free Developer Tools That Run Entirely in Your Browser",
-    "link": "https://dev.to/kiel_malpass_62f9135724e0/i-built-25-free-developer-tools-that-run-entirely-in-your-browser-4bak",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Running Your Entire Test Suite on Every Commit 🚫🧪",
-    "link": "https://dev.to/schirrel/stop-running-your-entire-test-suite-on-every-commit-44hd",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
     "link": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Manage Website Data Without Touching Frontend Code",
-    "link": "https://dev.to/oneentry/how-to-manage-website-data-without-touching-frontend-code-10nc",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Programming Languages in 2026: A Curious Skeptic’s Take",
-    "link": "https://dev.to/liamjohn122/best-programming-languages-in-2026-a-curious-skeptics-take-1a5l",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪",
-    "link": "https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built 25 Free Developer Tools That Run Entirely in Your Browser",
-    "link": "https://dev.to/kiel_malpass_62f9135724e0/i-built-25-free-developer-tools-that-run-entirely-in-your-browser-4bak",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Running Your Entire Test Suite on Every Commit 🚫🧪",
-    "link": "https://dev.to/schirrel/stop-running-your-entire-test-suite-on-every-commit-44hd",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How Seriously Should We Take State of JS and Other Developer Surveys?",
-    "link": "https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Manage Website Data Without Touching Frontend Code",
-    "link": "https://dev.to/oneentry/how-to-manage-website-data-without-touching-frontend-code-10nc",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Best Programming Languages in 2026: A Curious Skeptic’s Take",
-    "link": "https://dev.to/liamjohn122/best-programming-languages-in-2026-a-curious-skeptics-take-1a5l",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪",
-    "link": "https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built 25 Free Developer Tools That Run Entirely in Your Browser",
-    "link": "https://dev.to/kiel_malpass_62f9135724e0/i-built-25-free-developer-tools-that-run-entirely-in-your-browser-4bak",
-    "date": "2/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Running Your Entire Test Suite on Every Commit 🚫🧪",
-    "link": "https://dev.to/schirrel/stop-running-your-entire-test-suite-on-every-commit-44hd",
     "date": "2/10/2026",
     "site": "dev.to"
   },
@@ -473,14 +473,14 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
   {
     "title": "Building An Offline-Friendly Image Upload System",
     "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "4/23/2025",
     "site": "smashingmagazine"
   },
@@ -634,7 +634,7 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
