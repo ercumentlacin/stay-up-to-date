@@ -1,301 +1,391 @@
 [
   {
-    "title": "Build a Time Tracking App with GitHub Copilot SDK",
-    "link": "https://dev.to/abhirockzz/build-a-time-tracking-app-with-github-copilot-sdk-22b6",
+    "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
+    "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Depmender vNext: Introducing the New Config Folder (Full Custom Control for Your Project)",
+    "link": "https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
+    "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding API and Fetch in JavaScript (Step by Step Explanation)",
+    "link": "https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a voice agent in JavaScript with Vercel AI SDK",
+    "link": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 From Paper to Pixels: How I Built an AI-Powered Exam Platform with Google Gemini",
+    "link": "https://dev.to/naman_dhakad/from-paper-to-pixels-how-i-built-an-ai-powered-exam-platform-with-google-gemini-46mh",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧬 Beginner-Friendly Guide 'Find Kth Bit in Nth Binary String' - Problem 1545 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Credit Card Management Dashboard (And Why Spreadsheets Were Not Cutting It)",
+    "link": "https://dev.to/stackeasy/how-i-built-a-credit-card-management-dashboard-and-why-spreadsheets-were-not-cutting-it-il1",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛑 Stop Wasting Engineering Cycles on Landing Pages: The Framer Playbook for Startups",
+    "link": "https://dev.to/siddhesh_surve/stop-wasting-engineering-cycles-on-landing-pages-the-framer-playbook-for-startups-195d",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "LiVue: Use Vue 3 Directives in Laravel Blade Templates",
+    "link": "https://dev.to/recca0120/livue-use-vue-3-directives-in-laravel-blade-templates-2711",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
+    "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Depmender vNext: Introducing the New Config Folder (Full Custom Control for Your Project)",
+    "link": "https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
+    "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding API and Fetch in JavaScript (Step by Step Explanation)",
+    "link": "https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a voice agent in JavaScript with Vercel AI SDK",
+    "link": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 From Paper to Pixels: How I Built an AI-Powered Exam Platform with Google Gemini",
+    "link": "https://dev.to/naman_dhakad/from-paper-to-pixels-how-i-built-an-ai-powered-exam-platform-with-google-gemini-46mh",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧬 Beginner-Friendly Guide 'Find Kth Bit in Nth Binary String' - Problem 1545 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Credit Card Management Dashboard (And Why Spreadsheets Were Not Cutting It)",
+    "link": "https://dev.to/stackeasy/how-i-built-a-credit-card-management-dashboard-and-why-spreadsheets-were-not-cutting-it-il1",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛑 Stop Wasting Engineering Cycles on Landing Pages: The Framer Playbook for Startups",
+    "link": "https://dev.to/siddhesh_surve/stop-wasting-engineering-cycles-on-landing-pages-the-framer-playbook-for-startups-195d",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "LiVue: Use Vue 3 Directives in Laravel Blade Templates",
+    "link": "https://dev.to/recca0120/livue-use-vue-3-directives-in-laravel-blade-templates-2711",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
+    "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Depmender vNext: Introducing the New Config Folder (Full Custom Control for Your Project)",
+    "link": "https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
+    "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding API and Fetch in JavaScript (Step by Step Explanation)",
+    "link": "https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a voice agent in JavaScript with Vercel AI SDK",
+    "link": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 From Paper to Pixels: How I Built an AI-Powered Exam Platform with Google Gemini",
+    "link": "https://dev.to/naman_dhakad/from-paper-to-pixels-how-i-built-an-ai-powered-exam-platform-with-google-gemini-46mh",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧬 Beginner-Friendly Guide 'Find Kth Bit in Nth Binary String' - Problem 1545 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Credit Card Management Dashboard (And Why Spreadsheets Were Not Cutting It)",
+    "link": "https://dev.to/stackeasy/how-i-built-a-credit-card-management-dashboard-and-why-spreadsheets-were-not-cutting-it-il1",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛑 Stop Wasting Engineering Cycles on Landing Pages: The Framer Playbook for Startups",
+    "link": "https://dev.to/siddhesh_surve/stop-wasting-engineering-cycles-on-landing-pages-the-framer-playbook-for-startups-195d",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "LiVue: Use Vue 3 Directives in Laravel Blade Templates",
+    "link": "https://dev.to/recca0120/livue-use-vue-3-directives-in-laravel-blade-templates-2711",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
+    "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Depmender vNext: Introducing the New Config Folder (Full Custom Control for Your Project)",
+    "link": "https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
+    "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding API and Fetch in JavaScript (Step by Step Explanation)",
+    "link": "https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a voice agent in JavaScript with Vercel AI SDK",
+    "link": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 From Paper to Pixels: How I Built an AI-Powered Exam Platform with Google Gemini",
+    "link": "https://dev.to/naman_dhakad/from-paper-to-pixels-how-i-built-an-ai-powered-exam-platform-with-google-gemini-46mh",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧬 Beginner-Friendly Guide 'Find Kth Bit in Nth Binary String' - Problem 1545 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Credit Card Management Dashboard (And Why Spreadsheets Were Not Cutting It)",
+    "link": "https://dev.to/stackeasy/how-i-built-a-credit-card-management-dashboard-and-why-spreadsheets-were-not-cutting-it-il1",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛑 Stop Wasting Engineering Cycles on Landing Pages: The Framer Playbook for Startups",
+    "link": "https://dev.to/siddhesh_surve/stop-wasting-engineering-cycles-on-landing-pages-the-framer-playbook-for-startups-195d",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "LiVue: Use Vue 3 Directives in Laravel Blade Templates",
+    "link": "https://dev.to/recca0120/livue-use-vue-3-directives-in-laravel-blade-templates-2711",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
+    "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Depmender vNext: Introducing the New Config Folder (Full Custom Control for Your Project)",
+    "link": "https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
+    "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding API and Fetch in JavaScript (Step by Step Explanation)",
+    "link": "https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a voice agent in JavaScript with Vercel AI SDK",
+    "link": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 From Paper to Pixels: How I Built an AI-Powered Exam Platform with Google Gemini",
+    "link": "https://dev.to/naman_dhakad/from-paper-to-pixels-how-i-built-an-ai-powered-exam-platform-with-google-gemini-46mh",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧬 Beginner-Friendly Guide 'Find Kth Bit in Nth Binary String' - Problem 1545 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Credit Card Management Dashboard (And Why Spreadsheets Were Not Cutting It)",
+    "link": "https://dev.to/stackeasy/how-i-built-a-credit-card-management-dashboard-and-why-spreadsheets-were-not-cutting-it-il1",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🛑 Stop Wasting Engineering Cycles on Landing Pages: The Framer Playbook for Startups",
+    "link": "https://dev.to/siddhesh_surve/stop-wasting-engineering-cycles-on-landing-pages-the-framer-playbook-for-startups-195d",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "LiVue: Use Vue 3 Directives in Laravel Blade Templates",
+    "link": "https://dev.to/recca0120/livue-use-vue-3-directives-in-laravel-blade-templates-2711",
+    "date": "3/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
+    "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "data-structure-typed: A Modern Data Structures Library for TypeScript",
-    "link": "https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk",
+    "title": "Moving elements with JavaScript",
+    "link": "https://dev.to/nicm42/moving-elements-with-javascript-f0j",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why Ctrl+P is broken — and how I built a Chrome extension to fix it",
-    "link": "https://dev.to/membershipperfect365/why-ctrlp-is-broken-and-how-i-built-a-chrome-extension-to-fix-it-315i",
+    "title": "🌾 JavaScript Promises Explained Through Panchayat: A Cinematic Guide to Async Programming",
+    "link": "https://dev.to/debashis_das_4deca65ec224/javascript-promises-explained-through-panchayat-a-cinematic-guide-to-async-programming-4486",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built 18 Browser-Based Tools with Zero Server Calls — Here's How",
-    "link": "https://dev.to/popo_suke_5be3fb0d9ce0cf3/i-built-18-browser-based-tools-with-zero-server-calls-heres-how-2pl9",
+    "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
+    "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop Writing Spaghetti API Routes: A Practical Guide to Clean Express.js Architecture",
-    "link": "https://dev.to/teguh_coding/stop-writing-spaghetti-api-routes-a-practical-guide-to-clean-expressjs-architecture-b71",
+    "title": "Moving elements with JavaScript",
+    "link": "https://dev.to/nicm42/moving-elements-with-javascript-f0j",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "7 JavaScript Array Methods That Will Replace Your For Loops Forever",
-    "link": "https://dev.to/harsh2644/7-javascript-array-methods-that-will-replace-your-for-loops-forever-3fm8",
+    "title": "🌾 JavaScript Promises Explained Through Panchayat: A Cinematic Guide to Async Programming",
+    "link": "https://dev.to/debashis_das_4deca65ec224/javascript-promises-explained-through-panchayat-a-cinematic-guide-to-async-programming-4486",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "Protocol Launcher Series: Powering Cursor with MCP Services and AI",
-    "link": "https://dev.to/zhensherlock/protocol-launcher-series-powering-cursor-with-mcp-services-and-ai-3dif",
+    "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
+    "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript: The Beginning",
-    "link": "https://dev.to/chandra_ramu_6ec0a1c1eb59/javascript-the-beginning-4n59",
+    "title": "Moving elements with JavaScript",
+    "link": "https://dev.to/nicm42/moving-elements-with-javascript-f0j",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "How to Build a Developer SaaS with ₹0 Investment",
-    "link": "https://dev.to/raajaryan/how-to-build-a-developer-saas-with-0-investment-53d1",
+    "title": "🌾 JavaScript Promises Explained Through Panchayat: A Cinematic Guide to Async Programming",
+    "link": "https://dev.to/debashis_das_4deca65ec224/javascript-promises-explained-through-panchayat-a-cinematic-guide-to-async-programming-4486",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "Fixing Alpine.js Load Order in devlog-ist/landing",
-    "link": "https://dev.to/geanruca/fixing-alpinejs-load-order-in-devlog-istlanding-516p",
+    "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
+    "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "Build a Time Tracking App with GitHub Copilot SDK",
-    "link": "https://dev.to/abhirockzz/build-a-time-tracking-app-with-github-copilot-sdk-22b6",
+    "title": "Moving elements with JavaScript",
+    "link": "https://dev.to/nicm42/moving-elements-with-javascript-f0j",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "data-structure-typed: A Modern Data Structures Library for TypeScript",
-    "link": "https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk",
+    "title": "🌾 JavaScript Promises Explained Through Panchayat: A Cinematic Guide to Async Programming",
+    "link": "https://dev.to/debashis_das_4deca65ec224/javascript-promises-explained-through-panchayat-a-cinematic-guide-to-async-programming-4486",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why Ctrl+P is broken — and how I built a Chrome extension to fix it",
-    "link": "https://dev.to/membershipperfect365/why-ctrlp-is-broken-and-how-i-built-a-chrome-extension-to-fix-it-315i",
+    "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
+    "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built 18 Browser-Based Tools with Zero Server Calls — Here's How",
-    "link": "https://dev.to/popo_suke_5be3fb0d9ce0cf3/i-built-18-browser-based-tools-with-zero-server-calls-heres-how-2pl9",
+    "title": "Moving elements with JavaScript",
+    "link": "https://dev.to/nicm42/moving-elements-with-javascript-f0j",
     "date": "3/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop Writing Spaghetti API Routes: A Practical Guide to Clean Express.js Architecture",
-    "link": "https://dev.to/teguh_coding/stop-writing-spaghetti-api-routes-a-practical-guide-to-clean-expressjs-architecture-b71",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 JavaScript Array Methods That Will Replace Your For Loops Forever",
-    "link": "https://dev.to/harsh2644/7-javascript-array-methods-that-will-replace-your-for-loops-forever-3fm8",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Protocol Launcher Series: Powering Cursor with MCP Services and AI",
-    "link": "https://dev.to/zhensherlock/protocol-launcher-series-powering-cursor-with-mcp-services-and-ai-3dif",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: The Beginning",
-    "link": "https://dev.to/chandra_ramu_6ec0a1c1eb59/javascript-the-beginning-4n59",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Developer SaaS with ₹0 Investment",
-    "link": "https://dev.to/raajaryan/how-to-build-a-developer-saas-with-0-investment-53d1",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Alpine.js Load Order in devlog-ist/landing",
-    "link": "https://dev.to/geanruca/fixing-alpinejs-load-order-in-devlog-istlanding-516p",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Time Tracking App with GitHub Copilot SDK",
-    "link": "https://dev.to/abhirockzz/build-a-time-tracking-app-with-github-copilot-sdk-22b6",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "data-structure-typed: A Modern Data Structures Library for TypeScript",
-    "link": "https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Ctrl+P is broken — and how I built a Chrome extension to fix it",
-    "link": "https://dev.to/membershipperfect365/why-ctrlp-is-broken-and-how-i-built-a-chrome-extension-to-fix-it-315i",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built 18 Browser-Based Tools with Zero Server Calls — Here's How",
-    "link": "https://dev.to/popo_suke_5be3fb0d9ce0cf3/i-built-18-browser-based-tools-with-zero-server-calls-heres-how-2pl9",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Writing Spaghetti API Routes: A Practical Guide to Clean Express.js Architecture",
-    "link": "https://dev.to/teguh_coding/stop-writing-spaghetti-api-routes-a-practical-guide-to-clean-expressjs-architecture-b71",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 JavaScript Array Methods That Will Replace Your For Loops Forever",
-    "link": "https://dev.to/harsh2644/7-javascript-array-methods-that-will-replace-your-for-loops-forever-3fm8",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Protocol Launcher Series: Powering Cursor with MCP Services and AI",
-    "link": "https://dev.to/zhensherlock/protocol-launcher-series-powering-cursor-with-mcp-services-and-ai-3dif",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: The Beginning",
-    "link": "https://dev.to/chandra_ramu_6ec0a1c1eb59/javascript-the-beginning-4n59",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Developer SaaS with ₹0 Investment",
-    "link": "https://dev.to/raajaryan/how-to-build-a-developer-saas-with-0-investment-53d1",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Alpine.js Load Order in devlog-ist/landing",
-    "link": "https://dev.to/geanruca/fixing-alpinejs-load-order-in-devlog-istlanding-516p",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Time Tracking App with GitHub Copilot SDK",
-    "link": "https://dev.to/abhirockzz/build-a-time-tracking-app-with-github-copilot-sdk-22b6",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "data-structure-typed: A Modern Data Structures Library for TypeScript",
-    "link": "https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Ctrl+P is broken — and how I built a Chrome extension to fix it",
-    "link": "https://dev.to/membershipperfect365/why-ctrlp-is-broken-and-how-i-built-a-chrome-extension-to-fix-it-315i",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built 18 Browser-Based Tools with Zero Server Calls — Here's How",
-    "link": "https://dev.to/popo_suke_5be3fb0d9ce0cf3/i-built-18-browser-based-tools-with-zero-server-calls-heres-how-2pl9",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Writing Spaghetti API Routes: A Practical Guide to Clean Express.js Architecture",
-    "link": "https://dev.to/teguh_coding/stop-writing-spaghetti-api-routes-a-practical-guide-to-clean-expressjs-architecture-b71",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 JavaScript Array Methods That Will Replace Your For Loops Forever",
-    "link": "https://dev.to/harsh2644/7-javascript-array-methods-that-will-replace-your-for-loops-forever-3fm8",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Protocol Launcher Series: Powering Cursor with MCP Services and AI",
-    "link": "https://dev.to/zhensherlock/protocol-launcher-series-powering-cursor-with-mcp-services-and-ai-3dif",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: The Beginning",
-    "link": "https://dev.to/chandra_ramu_6ec0a1c1eb59/javascript-the-beginning-4n59",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Developer SaaS with ₹0 Investment",
-    "link": "https://dev.to/raajaryan/how-to-build-a-developer-saas-with-0-investment-53d1",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Alpine.js Load Order in devlog-ist/landing",
-    "link": "https://dev.to/geanruca/fixing-alpinejs-load-order-in-devlog-istlanding-516p",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Time Tracking App with GitHub Copilot SDK",
-    "link": "https://dev.to/abhirockzz/build-a-time-tracking-app-with-github-copilot-sdk-22b6",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "data-structure-typed: A Modern Data Structures Library for TypeScript",
-    "link": "https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Ctrl+P is broken — and how I built a Chrome extension to fix it",
-    "link": "https://dev.to/membershipperfect365/why-ctrlp-is-broken-and-how-i-built-a-chrome-extension-to-fix-it-315i",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built 18 Browser-Based Tools with Zero Server Calls — Here's How",
-    "link": "https://dev.to/popo_suke_5be3fb0d9ce0cf3/i-built-18-browser-based-tools-with-zero-server-calls-heres-how-2pl9",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Writing Spaghetti API Routes: A Practical Guide to Clean Express.js Architecture",
-    "link": "https://dev.to/teguh_coding/stop-writing-spaghetti-api-routes-a-practical-guide-to-clean-expressjs-architecture-b71",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 JavaScript Array Methods That Will Replace Your For Loops Forever",
-    "link": "https://dev.to/harsh2644/7-javascript-array-methods-that-will-replace-your-for-loops-forever-3fm8",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Protocol Launcher Series: Powering Cursor with MCP Services and AI",
-    "link": "https://dev.to/zhensherlock/protocol-launcher-series-powering-cursor-with-mcp-services-and-ai-3dif",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript: The Beginning",
-    "link": "https://dev.to/chandra_ramu_6ec0a1c1eb59/javascript-the-beginning-4n59",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Developer SaaS with ₹0 Investment",
-    "link": "https://dev.to/raajaryan/how-to-build-a-developer-saas-with-0-investment-53d1",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Alpine.js Load Order in devlog-ist/landing",
-    "link": "https://dev.to/geanruca/fixing-alpinejs-load-order-in-devlog-istlanding-516p",
+    "title": "🌾 JavaScript Promises Explained Through Panchayat: A Cinematic Guide to Async Programming",
+    "link": "https://dev.to/debashis_das_4deca65ec224/javascript-promises-explained-through-panchayat-a-cinematic-guide-to-async-programming-4486",
     "date": "3/2/2026",
     "site": "dev.to"
   },
@@ -312,20 +402,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Progressive Web Apps (PWAs): The Best of Both Worlds",
-    "link": "https://dev.to/odalov/progressive-web-apps-pwas-the-best-of-both-worlds-49gl",
+    "title": "What Arranged Marriage Taught Me About JavaScript Promises",
+    "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
     "date": "3/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Pocket-Sized Developer: Building and Deploying Full-Stack Apps on Android 🤳🏾",
-    "link": "https://dev.to/brighto7700/the-pocket-sized-developer-building-and-deploying-full-stack-apps-on-android-4ohf",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "C# Deserves Better. So We Built It.",
-    "link": "https://dev.to/plsft/c-deserves-better-so-we-built-it-b9m",
+    "title": "Add visual regression testing to your CI/CD without managing infrastructure",
+    "link": "https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m",
     "date": "3/1/2026",
     "site": "dev.to"
   },
@@ -342,24 +426,6 @@
     "site": "dev.to"
   },
   {
-    "title": "Progressive Web Apps (PWAs): The Best of Both Worlds",
-    "link": "https://dev.to/odalov/progressive-web-apps-pwas-the-best-of-both-worlds-49gl",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Pocket-Sized Developer: Building and Deploying Full-Stack Apps on Android 🤳🏾",
-    "link": "https://dev.to/brighto7700/the-pocket-sized-developer-building-and-deploying-full-stack-apps-on-android-4ohf",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "C# Deserves Better. So We Built It.",
-    "link": "https://dev.to/plsft/c-deserves-better-so-we-built-it-b9m",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "What Arranged Marriage Taught Me About JavaScript Promises",
     "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
     "date": "3/1/2026",
@@ -372,24 +438,6 @@
     "site": "dev.to"
   },
   {
-    "title": "Progressive Web Apps (PWAs): The Best of Both Worlds",
-    "link": "https://dev.to/odalov/progressive-web-apps-pwas-the-best-of-both-worlds-49gl",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Pocket-Sized Developer: Building and Deploying Full-Stack Apps on Android 🤳🏾",
-    "link": "https://dev.to/brighto7700/the-pocket-sized-developer-building-and-deploying-full-stack-apps-on-android-4ohf",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "C# Deserves Better. So We Built It.",
-    "link": "https://dev.to/plsft/c-deserves-better-so-we-built-it-b9m",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "What Arranged Marriage Taught Me About JavaScript Promises",
     "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
     "date": "3/1/2026",
@@ -398,54 +446,6 @@
   {
     "title": "Add visual regression testing to your CI/CD without managing infrastructure",
     "link": "https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Progressive Web Apps (PWAs): The Best of Both Worlds",
-    "link": "https://dev.to/odalov/progressive-web-apps-pwas-the-best-of-both-worlds-49gl",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Pocket-Sized Developer: Building and Deploying Full-Stack Apps on Android 🤳🏾",
-    "link": "https://dev.to/brighto7700/the-pocket-sized-developer-building-and-deploying-full-stack-apps-on-android-4ohf",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "C# Deserves Better. So We Built It.",
-    "link": "https://dev.to/plsft/c-deserves-better-so-we-built-it-b9m",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Arranged Marriage Taught Me About JavaScript Promises",
-    "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add visual regression testing to your CI/CD without managing infrastructure",
-    "link": "https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Progressive Web Apps (PWAs): The Best of Both Worlds",
-    "link": "https://dev.to/odalov/progressive-web-apps-pwas-the-best-of-both-worlds-49gl",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Pocket-Sized Developer: Building and Deploying Full-Stack Apps on Android 🤳🏾",
-    "link": "https://dev.to/brighto7700/the-pocket-sized-developer-building-and-deploying-full-stack-apps-on-android-4ohf",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "C# Deserves Better. So We Built It.",
-    "link": "https://dev.to/plsft/c-deserves-better-so-we-built-it-b9m",
     "date": "3/1/2026",
     "site": "dev.to"
   },
@@ -473,7 +473,7 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
@@ -522,7 +522,7 @@
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
@@ -571,7 +571,7 @@
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
@@ -641,7 +641,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -732,7 +732,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "7 min read",
+    "reading_time": "8 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
