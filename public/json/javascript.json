@@ -1,301 +1,421 @@
 [
   {
-    "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
-    "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
+    "title": "Why JSON.parse Fails on Valid JSON (Hidden Unicode Characters)",
+    "link": "https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Batch Belongs to the Scheduler, Not Computed",
+    "link": "https://dev.to/luciano0322/why-batch-belongs-to-the-scheduler-not-computed-47cn",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Microtask",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-microtask-2kn3",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎯 Beginner-Friendly Guide 'Special Positions in a Binary Matrix' - Problem 1582 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-special-positions-in-a-binary-matrix-problem-1582-c-python-10ei",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built tamper-proof audit logs for AI agents at 15",
+    "link": "https://dev.to/ariangogani/how-i-built-tamper-proof-audit-logs-for-ai-agents-at-15-g49",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a SAST Scanner from Scratch and Ran It Against 4 Famous Vulnerable Apps — Here's What It Found",
+    "link": "https://dev.to/pgmpofu/i-built-a-sast-scanner-from-scratch-and-ran-it-against-4-famous-vulnerable-apps-heres-what-it-1ko",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got tired of writing the same axios wrapper on every project, so I built this",
+    "link": "https://dev.to/firekid846/i-got-tired-of-writing-the-same-axios-wrapper-on-every-project-so-i-built-this-2b90",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free JSON formatter that never uploads your data — here's why that matters",
+    "link": "https://dev.to/gokuldas137/i-built-a-free-json-formatter-that-never-uploads-your-data-heres-why-that-matters-344p",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Detection to Resolution: Real world debugging with rage clicks and session replay",
+    "link": "https://dev.to/alexiskroberson/detection-to-resolution-real-world-debugging-with-rage-clicks-and-session-replay-bfp",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Running Headless Chrome at Scale: Production Lessons from Millions of Renders.",
+    "link": "https://dev.to/max_kurz/running-headless-chrome-at-scale-production-lessons-from-millions-of-renders-djg",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Used The Markup's Blacklight to Audit 96 Websites. Here's the Technical Breakdown.",
+    "link": "https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-the-markups-blacklight-to-audit-96-websites-heres-the-technical-breakdown-19a2",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Failed 3 React Interviews Before I Understood What They Actually Want in 2026",
+    "link": "https://dev.to/harsh2644/i-failed-3-react-interviews-before-i-understood-what-they-actually-want-in-2026-2hhf",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JSON.parse Fails on Valid JSON (Hidden Unicode Characters)",
+    "link": "https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Batch Belongs to the Scheduler, Not Computed",
+    "link": "https://dev.to/luciano0322/why-batch-belongs-to-the-scheduler-not-computed-47cn",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Microtask",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-microtask-2kn3",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎯 Beginner-Friendly Guide 'Special Positions in a Binary Matrix' - Problem 1582 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-special-positions-in-a-binary-matrix-problem-1582-c-python-10ei",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built tamper-proof audit logs for AI agents at 15",
+    "link": "https://dev.to/ariangogani/how-i-built-tamper-proof-audit-logs-for-ai-agents-at-15-g49",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a SAST Scanner from Scratch and Ran It Against 4 Famous Vulnerable Apps — Here's What It Found",
+    "link": "https://dev.to/pgmpofu/i-built-a-sast-scanner-from-scratch-and-ran-it-against-4-famous-vulnerable-apps-heres-what-it-1ko",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got tired of writing the same axios wrapper on every project, so I built this",
+    "link": "https://dev.to/firekid846/i-got-tired-of-writing-the-same-axios-wrapper-on-every-project-so-i-built-this-2b90",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free JSON formatter that never uploads your data — here's why that matters",
+    "link": "https://dev.to/gokuldas137/i-built-a-free-json-formatter-that-never-uploads-your-data-heres-why-that-matters-344p",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Detection to Resolution: Real world debugging with rage clicks and session replay",
+    "link": "https://dev.to/alexiskroberson/detection-to-resolution-real-world-debugging-with-rage-clicks-and-session-replay-bfp",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Running Headless Chrome at Scale: Production Lessons from Millions of Renders.",
+    "link": "https://dev.to/max_kurz/running-headless-chrome-at-scale-production-lessons-from-millions-of-renders-djg",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Used The Markup's Blacklight to Audit 96 Websites. Here's the Technical Breakdown.",
+    "link": "https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-the-markups-blacklight-to-audit-96-websites-heres-the-technical-breakdown-19a2",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Failed 3 React Interviews Before I Understood What They Actually Want in 2026",
+    "link": "https://dev.to/harsh2644/i-failed-3-react-interviews-before-i-understood-what-they-actually-want-in-2026-2hhf",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JSON.parse Fails on Valid JSON (Hidden Unicode Characters)",
+    "link": "https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Batch Belongs to the Scheduler, Not Computed",
+    "link": "https://dev.to/luciano0322/why-batch-belongs-to-the-scheduler-not-computed-47cn",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Microtask",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-microtask-2kn3",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎯 Beginner-Friendly Guide 'Special Positions in a Binary Matrix' - Problem 1582 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-special-positions-in-a-binary-matrix-problem-1582-c-python-10ei",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built tamper-proof audit logs for AI agents at 15",
+    "link": "https://dev.to/ariangogani/how-i-built-tamper-proof-audit-logs-for-ai-agents-at-15-g49",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a SAST Scanner from Scratch and Ran It Against 4 Famous Vulnerable Apps — Here's What It Found",
+    "link": "https://dev.to/pgmpofu/i-built-a-sast-scanner-from-scratch-and-ran-it-against-4-famous-vulnerable-apps-heres-what-it-1ko",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got tired of writing the same axios wrapper on every project, so I built this",
+    "link": "https://dev.to/firekid846/i-got-tired-of-writing-the-same-axios-wrapper-on-every-project-so-i-built-this-2b90",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free JSON formatter that never uploads your data — here's why that matters",
+    "link": "https://dev.to/gokuldas137/i-built-a-free-json-formatter-that-never-uploads-your-data-heres-why-that-matters-344p",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Detection to Resolution: Real world debugging with rage clicks and session replay",
+    "link": "https://dev.to/alexiskroberson/detection-to-resolution-real-world-debugging-with-rage-clicks-and-session-replay-bfp",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Running Headless Chrome at Scale: Production Lessons from Millions of Renders.",
+    "link": "https://dev.to/max_kurz/running-headless-chrome-at-scale-production-lessons-from-millions-of-renders-djg",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Used The Markup's Blacklight to Audit 96 Websites. Here's the Technical Breakdown.",
+    "link": "https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-the-markups-blacklight-to-audit-96-websites-heres-the-technical-breakdown-19a2",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Failed 3 React Interviews Before I Understood What They Actually Want in 2026",
+    "link": "https://dev.to/harsh2644/i-failed-3-react-interviews-before-i-understood-what-they-actually-want-in-2026-2hhf",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JSON.parse Fails on Valid JSON (Hidden Unicode Characters)",
+    "link": "https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Batch Belongs to the Scheduler, Not Computed",
+    "link": "https://dev.to/luciano0322/why-batch-belongs-to-the-scheduler-not-computed-47cn",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Microtask",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-microtask-2kn3",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎯 Beginner-Friendly Guide 'Special Positions in a Binary Matrix' - Problem 1582 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-special-positions-in-a-binary-matrix-problem-1582-c-python-10ei",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built tamper-proof audit logs for AI agents at 15",
+    "link": "https://dev.to/ariangogani/how-i-built-tamper-proof-audit-logs-for-ai-agents-at-15-g49",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a SAST Scanner from Scratch and Ran It Against 4 Famous Vulnerable Apps — Here's What It Found",
+    "link": "https://dev.to/pgmpofu/i-built-a-sast-scanner-from-scratch-and-ran-it-against-4-famous-vulnerable-apps-heres-what-it-1ko",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got tired of writing the same axios wrapper on every project, so I built this",
+    "link": "https://dev.to/firekid846/i-got-tired-of-writing-the-same-axios-wrapper-on-every-project-so-i-built-this-2b90",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free JSON formatter that never uploads your data — here's why that matters",
+    "link": "https://dev.to/gokuldas137/i-built-a-free-json-formatter-that-never-uploads-your-data-heres-why-that-matters-344p",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Detection to Resolution: Real world debugging with rage clicks and session replay",
+    "link": "https://dev.to/alexiskroberson/detection-to-resolution-real-world-debugging-with-rage-clicks-and-session-replay-bfp",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Running Headless Chrome at Scale: Production Lessons from Millions of Renders.",
+    "link": "https://dev.to/max_kurz/running-headless-chrome-at-scale-production-lessons-from-millions-of-renders-djg",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Used The Markup's Blacklight to Audit 96 Websites. Here's the Technical Breakdown.",
+    "link": "https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-the-markups-blacklight-to-audit-96-websites-heres-the-technical-breakdown-19a2",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Failed 3 React Interviews Before I Understood What They Actually Want in 2026",
+    "link": "https://dev.to/harsh2644/i-failed-3-react-interviews-before-i-understood-what-they-actually-want-in-2026-2hhf",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why JSON.parse Fails on Valid JSON (Hidden Unicode Characters)",
+    "link": "https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Batch Belongs to the Scheduler, Not Computed",
+    "link": "https://dev.to/luciano0322/why-batch-belongs-to-the-scheduler-not-computed-47cn",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Secret Life of JavaScript: The Microtask",
+    "link": "https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-microtask-2kn3",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🎯 Beginner-Friendly Guide 'Special Positions in a Binary Matrix' - Problem 1582 (C++, Python, JavaScript)",
+    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-special-positions-in-a-binary-matrix-problem-1582-c-python-10ei",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built tamper-proof audit logs for AI agents at 15",
+    "link": "https://dev.to/ariangogani/how-i-built-tamper-proof-audit-logs-for-ai-agents-at-15-g49",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a SAST Scanner from Scratch and Ran It Against 4 Famous Vulnerable Apps — Here's What It Found",
+    "link": "https://dev.to/pgmpofu/i-built-a-sast-scanner-from-scratch-and-ran-it-against-4-famous-vulnerable-apps-heres-what-it-1ko",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got tired of writing the same axios wrapper on every project, so I built this",
+    "link": "https://dev.to/firekid846/i-got-tired-of-writing-the-same-axios-wrapper-on-every-project-so-i-built-this-2b90",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free JSON formatter that never uploads your data — here's why that matters",
+    "link": "https://dev.to/gokuldas137/i-built-a-free-json-formatter-that-never-uploads-your-data-heres-why-that-matters-344p",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Detection to Resolution: Real world debugging with rage clicks and session replay",
+    "link": "https://dev.to/alexiskroberson/detection-to-resolution-real-world-debugging-with-rage-clicks-and-session-replay-bfp",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Running Headless Chrome at Scale: Production Lessons from Millions of Renders.",
+    "link": "https://dev.to/max_kurz/running-headless-chrome-at-scale-production-lessons-from-millions-of-renders-djg",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Used The Markup's Blacklight to Audit 96 Websites. Here's the Technical Breakdown.",
+    "link": "https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-the-markups-blacklight-to-audit-96-websites-heres-the-technical-breakdown-19a2",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Failed 3 React Interviews Before I Understood What They Actually Want in 2026",
+    "link": "https://dev.to/harsh2644/i-failed-3-react-interviews-before-i-understood-what-they-actually-want-in-2026-2hhf",
+    "date": "3/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The CMYK Problem Nobody Warns You About When Building a PDF Editor in the Browser",
+    "link": "https://dev.to/vjmanoj/the-cmyk-problem-nobody-warns-you-about-when-building-a-pdf-editor-in-the-browser-3a02",
     "date": "3/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Depmender vNext: Introducing the New Config Folder (Full Custom Control for Your Project)",
-    "link": "https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa",
+    "title": "Mastering JavaScript Array Methods: A Beginner's Guide",
+    "link": "https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89",
     "date": "3/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
-    "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
+    "title": "The CMYK Problem Nobody Warns You About When Building a PDF Editor in the Browser",
+    "link": "https://dev.to/vjmanoj/the-cmyk-problem-nobody-warns-you-about-when-building-a-pdf-editor-in-the-browser-3a02",
     "date": "3/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Understanding API and Fetch in JavaScript (Step by Step Explanation)",
-    "link": "https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p",
+    "title": "Mastering JavaScript Array Methods: A Beginner's Guide",
+    "link": "https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89",
     "date": "3/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Build a voice agent in JavaScript with Vercel AI SDK",
-    "link": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
+    "title": "The CMYK Problem Nobody Warns You About When Building a PDF Editor in the Browser",
+    "link": "https://dev.to/vjmanoj/the-cmyk-problem-nobody-warns-you-about-when-building-a-pdf-editor-in-the-browser-3a02",
     "date": "3/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "🚀 From Paper to Pixels: How I Built an AI-Powered Exam Platform with Google Gemini",
-    "link": "https://dev.to/naman_dhakad/from-paper-to-pixels-how-i-built-an-ai-powered-exam-platform-with-google-gemini-46mh",
+    "title": "Mastering JavaScript Array Methods: A Beginner's Guide",
+    "link": "https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89",
     "date": "3/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "🧬 Beginner-Friendly Guide 'Find Kth Bit in Nth Binary String' - Problem 1545 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg",
+    "title": "The CMYK Problem Nobody Warns You About When Building a PDF Editor in the Browser",
+    "link": "https://dev.to/vjmanoj/the-cmyk-problem-nobody-warns-you-about-when-building-a-pdf-editor-in-the-browser-3a02",
     "date": "3/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built a Credit Card Management Dashboard (And Why Spreadsheets Were Not Cutting It)",
-    "link": "https://dev.to/stackeasy/how-i-built-a-credit-card-management-dashboard-and-why-spreadsheets-were-not-cutting-it-il1",
+    "title": "Mastering JavaScript Array Methods: A Beginner's Guide",
+    "link": "https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89",
     "date": "3/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "🛑 Stop Wasting Engineering Cycles on Landing Pages: The Framer Playbook for Startups",
-    "link": "https://dev.to/siddhesh_surve/stop-wasting-engineering-cycles-on-landing-pages-the-framer-playbook-for-startups-195d",
+    "title": "The CMYK Problem Nobody Warns You About When Building a PDF Editor in the Browser",
+    "link": "https://dev.to/vjmanoj/the-cmyk-problem-nobody-warns-you-about-when-building-a-pdf-editor-in-the-browser-3a02",
     "date": "3/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "LiVue: Use Vue 3 Directives in Laravel Blade Templates",
-    "link": "https://dev.to/recca0120/livue-use-vue-3-directives-in-laravel-blade-templates-2711",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
-    "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Depmender vNext: Introducing the New Config Folder (Full Custom Control for Your Project)",
-    "link": "https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
-    "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding API and Fetch in JavaScript (Step by Step Explanation)",
-    "link": "https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a voice agent in JavaScript with Vercel AI SDK",
-    "link": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 From Paper to Pixels: How I Built an AI-Powered Exam Platform with Google Gemini",
-    "link": "https://dev.to/naman_dhakad/from-paper-to-pixels-how-i-built-an-ai-powered-exam-platform-with-google-gemini-46mh",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🧬 Beginner-Friendly Guide 'Find Kth Bit in Nth Binary String' - Problem 1545 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Credit Card Management Dashboard (And Why Spreadsheets Were Not Cutting It)",
-    "link": "https://dev.to/stackeasy/how-i-built-a-credit-card-management-dashboard-and-why-spreadsheets-were-not-cutting-it-il1",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛑 Stop Wasting Engineering Cycles on Landing Pages: The Framer Playbook for Startups",
-    "link": "https://dev.to/siddhesh_surve/stop-wasting-engineering-cycles-on-landing-pages-the-framer-playbook-for-startups-195d",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "LiVue: Use Vue 3 Directives in Laravel Blade Templates",
-    "link": "https://dev.to/recca0120/livue-use-vue-3-directives-in-laravel-blade-templates-2711",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
-    "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Depmender vNext: Introducing the New Config Folder (Full Custom Control for Your Project)",
-    "link": "https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
-    "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding API and Fetch in JavaScript (Step by Step Explanation)",
-    "link": "https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a voice agent in JavaScript with Vercel AI SDK",
-    "link": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 From Paper to Pixels: How I Built an AI-Powered Exam Platform with Google Gemini",
-    "link": "https://dev.to/naman_dhakad/from-paper-to-pixels-how-i-built-an-ai-powered-exam-platform-with-google-gemini-46mh",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🧬 Beginner-Friendly Guide 'Find Kth Bit in Nth Binary String' - Problem 1545 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Credit Card Management Dashboard (And Why Spreadsheets Were Not Cutting It)",
-    "link": "https://dev.to/stackeasy/how-i-built-a-credit-card-management-dashboard-and-why-spreadsheets-were-not-cutting-it-il1",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛑 Stop Wasting Engineering Cycles on Landing Pages: The Framer Playbook for Startups",
-    "link": "https://dev.to/siddhesh_surve/stop-wasting-engineering-cycles-on-landing-pages-the-framer-playbook-for-startups-195d",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "LiVue: Use Vue 3 Directives in Laravel Blade Templates",
-    "link": "https://dev.to/recca0120/livue-use-vue-3-directives-in-laravel-blade-templates-2711",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
-    "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Depmender vNext: Introducing the New Config Folder (Full Custom Control for Your Project)",
-    "link": "https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
-    "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding API and Fetch in JavaScript (Step by Step Explanation)",
-    "link": "https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a voice agent in JavaScript with Vercel AI SDK",
-    "link": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 From Paper to Pixels: How I Built an AI-Powered Exam Platform with Google Gemini",
-    "link": "https://dev.to/naman_dhakad/from-paper-to-pixels-how-i-built-an-ai-powered-exam-platform-with-google-gemini-46mh",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🧬 Beginner-Friendly Guide 'Find Kth Bit in Nth Binary String' - Problem 1545 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Credit Card Management Dashboard (And Why Spreadsheets Were Not Cutting It)",
-    "link": "https://dev.to/stackeasy/how-i-built-a-credit-card-management-dashboard-and-why-spreadsheets-were-not-cutting-it-il1",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛑 Stop Wasting Engineering Cycles on Landing Pages: The Framer Playbook for Startups",
-    "link": "https://dev.to/siddhesh_surve/stop-wasting-engineering-cycles-on-landing-pages-the-framer-playbook-for-startups-195d",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "LiVue: Use Vue 3 Directives in Laravel Blade Templates",
-    "link": "https://dev.to/recca0120/livue-use-vue-3-directives-in-laravel-blade-templates-2711",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Spreadsheets to Steroids: The Function Point Counter Gets a Reboot",
-    "link": "https://dev.to/arthurgermano/from-spreadsheets-to-steroids-the-function-point-counter-gets-a-reboot-1h9g",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Depmender vNext: Introducing the New Config Folder (Full Custom Control for Your Project)",
-    "link": "https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "msw-fetch-mock: Undici-Style Fetch Mocking for MSW",
-    "link": "https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Understanding API and Fetch in JavaScript (Step by Step Explanation)",
-    "link": "https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a voice agent in JavaScript with Vercel AI SDK",
-    "link": "https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 From Paper to Pixels: How I Built an AI-Powered Exam Platform with Google Gemini",
-    "link": "https://dev.to/naman_dhakad/from-paper-to-pixels-how-i-built-an-ai-powered-exam-platform-with-google-gemini-46mh",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🧬 Beginner-Friendly Guide 'Find Kth Bit in Nth Binary String' - Problem 1545 (C++, Python, JavaScript)",
-    "link": "https://dev.to/om_shree_0709/beginner-friendly-guide-find-kth-bit-in-nth-binary-string-problem-1545-c-python-21cg",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Credit Card Management Dashboard (And Why Spreadsheets Were Not Cutting It)",
-    "link": "https://dev.to/stackeasy/how-i-built-a-credit-card-management-dashboard-and-why-spreadsheets-were-not-cutting-it-il1",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🛑 Stop Wasting Engineering Cycles on Landing Pages: The Framer Playbook for Startups",
-    "link": "https://dev.to/siddhesh_surve/stop-wasting-engineering-cycles-on-landing-pages-the-framer-playbook-for-startups-195d",
-    "date": "3/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "LiVue: Use Vue 3 Directives in Laravel Blade Templates",
-    "link": "https://dev.to/recca0120/livue-use-vue-3-directives-in-laravel-blade-templates-2711",
+    "title": "Mastering JavaScript Array Methods: A Beginner's Guide",
+    "link": "https://dev.to/ritam369/mastering-javascript-array-methods-a-beginners-guide-3p89",
     "date": "3/3/2026",
     "site": "dev.to"
   },
@@ -306,14 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Moving elements with JavaScript",
-    "link": "https://dev.to/nicm42/moving-elements-with-javascript-f0j",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🌾 JavaScript Promises Explained Through Panchayat: A Cinematic Guide to Async Programming",
-    "link": "https://dev.to/debashis_das_4deca65ec224/javascript-promises-explained-through-panchayat-a-cinematic-guide-to-async-programming-4486",
+    "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
+    "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
     "date": "3/2/2026",
     "site": "dev.to"
   },
@@ -324,14 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Moving elements with JavaScript",
-    "link": "https://dev.to/nicm42/moving-elements-with-javascript-f0j",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🌾 JavaScript Promises Explained Through Panchayat: A Cinematic Guide to Async Programming",
-    "link": "https://dev.to/debashis_das_4deca65ec224/javascript-promises-explained-through-panchayat-a-cinematic-guide-to-async-programming-4486",
+    "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
+    "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
     "date": "3/2/2026",
     "site": "dev.to"
   },
@@ -339,114 +447,6 @@
     "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
     "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
     "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving elements with JavaScript",
-    "link": "https://dev.to/nicm42/moving-elements-with-javascript-f0j",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🌾 JavaScript Promises Explained Through Panchayat: A Cinematic Guide to Async Programming",
-    "link": "https://dev.to/debashis_das_4deca65ec224/javascript-promises-explained-through-panchayat-a-cinematic-guide-to-async-programming-4486",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
-    "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving elements with JavaScript",
-    "link": "https://dev.to/nicm42/moving-elements-with-javascript-f0j",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🌾 JavaScript Promises Explained Through Panchayat: A Cinematic Guide to Async Programming",
-    "link": "https://dev.to/debashis_das_4deca65ec224/javascript-promises-explained-through-panchayat-a-cinematic-guide-to-async-programming-4486",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Meet BlokJS - 9 KB, No Build Step, Standalone, Full FE Framework",
-    "link": "https://dev.to/maleta/meet-blokjs-9-kb-no-build-step-standalone-full-fe-framework-3gfg",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving elements with JavaScript",
-    "link": "https://dev.to/nicm42/moving-elements-with-javascript-f0j",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🌾 JavaScript Promises Explained Through Panchayat: A Cinematic Guide to Async Programming",
-    "link": "https://dev.to/debashis_das_4deca65ec224/javascript-promises-explained-through-panchayat-a-cinematic-guide-to-async-programming-4486",
-    "date": "3/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Arranged Marriage Taught Me About JavaScript Promises",
-    "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add visual regression testing to your CI/CD without managing infrastructure",
-    "link": "https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Arranged Marriage Taught Me About JavaScript Promises",
-    "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add visual regression testing to your CI/CD without managing infrastructure",
-    "link": "https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Arranged Marriage Taught Me About JavaScript Promises",
-    "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add visual regression testing to your CI/CD without managing infrastructure",
-    "link": "https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Arranged Marriage Taught Me About JavaScript Promises",
-    "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add visual regression testing to your CI/CD without managing infrastructure",
-    "link": "https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Arranged Marriage Taught Me About JavaScript Promises",
-    "link": "https://dev.to/shivam_yadav_8e22bf5bf987/what-arranged-marriage-taught-me-about-javascript-promises-211l",
-    "date": "3/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Add visual regression testing to your CI/CD without managing infrastructure",
-    "link": "https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m",
-    "date": "3/1/2026",
     "site": "dev.to"
   },
   {
@@ -473,7 +473,7 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
@@ -508,7 +508,7 @@
   {
     "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
     "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "8/20/2024",
     "site": "smashingmagazine"
   },
@@ -571,7 +571,7 @@
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
@@ -641,7 +641,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -732,7 +732,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "8 min read",
+    "reading_time": "7 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
@@ -746,7 +746,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
