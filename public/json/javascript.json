@@ -1,331 +1,451 @@
 [
   {
-    "title": "How Fast Is Your Code Search Tool? A Benchmark of Five AST Tools",
-    "link": "https://dev.to/herrington_darkholme/how-fast-is-your-code-search-tool-a-benchmark-of-five-ast-tools-590j",
+    "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
+    "link": "https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a zero-dependency validation library for every Indian developer",
+    "link": "https://dev.to/gorupa/i-built-a-zero-dependency-validation-library-for-every-indian-developer-55ck",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Added 15+ Cultural Name Origins to a Baby Name Generator (With SEO Results)",
+    "link": "https://dev.to/yunhan_dev/how-we-added-15-cultural-name-origins-to-a-baby-name-generator-with-seo-results-13n3",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Niche Review Site for Squishy Toys (and What I Learned About SEO)",
+    "link": "https://dev.to/chisha_d5ceeffee4e27/how-i-built-a-niche-review-site-for-squishy-toys-and-what-i-learned-about-seo-2pi1",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Digital Products Marketplace using Next.js for Sellers and Buyers",
+    "link": "https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I reverse-engineered Framer's React runtime to export sites as static HTML",
+    "link": "https://dev.to/ankur_khandlwal/i-reverse-engineered-framers-react-runtime-to-export-sites-as-static-html-b75",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Arrays 101",
+    "link": "https://dev.to/souvik_blog_b790df30e8dea/javascript-arrays-101-nf5",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Object-Oriented Programming in JavaScript",
+    "link": "https://dev.to/satyasootar/understanding-object-oriented-programming-in-javascript-23fl",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Function Declaration vs Function Expression",
+    "link": "https://dev.to/satyasootar/function-declaration-vs-function-expression-4b3k",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Magic of this, call(), apply(), and bind()",
+    "link": "https://dev.to/satyasootar/the-magic-of-this-call-apply-and-bind-e0e",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Objects in JavaScript",
+    "link": "https://dev.to/satyasootar/understanding-objects-in-javascript-1na7",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Arrow Functions in JavaScript: A Simpler Way to Write Functions",
+    "link": "https://dev.to/satyasootar/arrow-functions-in-javascript-a-simpler-way-to-write-functions-532o",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Handling API Data in Next.js: Things I Learned While Working on Real Projects",
+    "link": "https://dev.to/yogesh0333/handling-api-data-in-nextjs-things-i-learned-while-working-on-real-projects-2pic",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
+    "link": "https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a zero-dependency validation library for every Indian developer",
+    "link": "https://dev.to/gorupa/i-built-a-zero-dependency-validation-library-for-every-indian-developer-55ck",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Added 15+ Cultural Name Origins to a Baby Name Generator (With SEO Results)",
+    "link": "https://dev.to/yunhan_dev/how-we-added-15-cultural-name-origins-to-a-baby-name-generator-with-seo-results-13n3",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Niche Review Site for Squishy Toys (and What I Learned About SEO)",
+    "link": "https://dev.to/chisha_d5ceeffee4e27/how-i-built-a-niche-review-site-for-squishy-toys-and-what-i-learned-about-seo-2pi1",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Digital Products Marketplace using Next.js for Sellers and Buyers",
+    "link": "https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I reverse-engineered Framer's React runtime to export sites as static HTML",
+    "link": "https://dev.to/ankur_khandlwal/i-reverse-engineered-framers-react-runtime-to-export-sites-as-static-html-b75",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Arrays 101",
+    "link": "https://dev.to/souvik_blog_b790df30e8dea/javascript-arrays-101-nf5",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Object-Oriented Programming in JavaScript",
+    "link": "https://dev.to/satyasootar/understanding-object-oriented-programming-in-javascript-23fl",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Function Declaration vs Function Expression",
+    "link": "https://dev.to/satyasootar/function-declaration-vs-function-expression-4b3k",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Magic of this, call(), apply(), and bind()",
+    "link": "https://dev.to/satyasootar/the-magic-of-this-call-apply-and-bind-e0e",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Objects in JavaScript",
+    "link": "https://dev.to/satyasootar/understanding-objects-in-javascript-1na7",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Arrow Functions in JavaScript: A Simpler Way to Write Functions",
+    "link": "https://dev.to/satyasootar/arrow-functions-in-javascript-a-simpler-way-to-write-functions-532o",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Handling API Data in Next.js: Things I Learned While Working on Real Projects",
+    "link": "https://dev.to/yogesh0333/handling-api-data-in-nextjs-things-i-learned-while-working-on-real-projects-2pic",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
+    "link": "https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a zero-dependency validation library for every Indian developer",
+    "link": "https://dev.to/gorupa/i-built-a-zero-dependency-validation-library-for-every-indian-developer-55ck",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Added 15+ Cultural Name Origins to a Baby Name Generator (With SEO Results)",
+    "link": "https://dev.to/yunhan_dev/how-we-added-15-cultural-name-origins-to-a-baby-name-generator-with-seo-results-13n3",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Niche Review Site for Squishy Toys (and What I Learned About SEO)",
+    "link": "https://dev.to/chisha_d5ceeffee4e27/how-i-built-a-niche-review-site-for-squishy-toys-and-what-i-learned-about-seo-2pi1",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Digital Products Marketplace using Next.js for Sellers and Buyers",
+    "link": "https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I reverse-engineered Framer's React runtime to export sites as static HTML",
+    "link": "https://dev.to/ankur_khandlwal/i-reverse-engineered-framers-react-runtime-to-export-sites-as-static-html-b75",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Arrays 101",
+    "link": "https://dev.to/souvik_blog_b790df30e8dea/javascript-arrays-101-nf5",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Object-Oriented Programming in JavaScript",
+    "link": "https://dev.to/satyasootar/understanding-object-oriented-programming-in-javascript-23fl",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Function Declaration vs Function Expression",
+    "link": "https://dev.to/satyasootar/function-declaration-vs-function-expression-4b3k",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Magic of this, call(), apply(), and bind()",
+    "link": "https://dev.to/satyasootar/the-magic-of-this-call-apply-and-bind-e0e",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Objects in JavaScript",
+    "link": "https://dev.to/satyasootar/understanding-objects-in-javascript-1na7",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Arrow Functions in JavaScript: A Simpler Way to Write Functions",
+    "link": "https://dev.to/satyasootar/arrow-functions-in-javascript-a-simpler-way-to-write-functions-532o",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Handling API Data in Next.js: Things I Learned While Working on Real Projects",
+    "link": "https://dev.to/yogesh0333/handling-api-data-in-nextjs-things-i-learned-while-working-on-real-projects-2pic",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
+    "link": "https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a zero-dependency validation library for every Indian developer",
+    "link": "https://dev.to/gorupa/i-built-a-zero-dependency-validation-library-for-every-indian-developer-55ck",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Added 15+ Cultural Name Origins to a Baby Name Generator (With SEO Results)",
+    "link": "https://dev.to/yunhan_dev/how-we-added-15-cultural-name-origins-to-a-baby-name-generator-with-seo-results-13n3",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Niche Review Site for Squishy Toys (and What I Learned About SEO)",
+    "link": "https://dev.to/chisha_d5ceeffee4e27/how-i-built-a-niche-review-site-for-squishy-toys-and-what-i-learned-about-seo-2pi1",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Digital Products Marketplace using Next.js for Sellers and Buyers",
+    "link": "https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I reverse-engineered Framer's React runtime to export sites as static HTML",
+    "link": "https://dev.to/ankur_khandlwal/i-reverse-engineered-framers-react-runtime-to-export-sites-as-static-html-b75",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Arrays 101",
+    "link": "https://dev.to/souvik_blog_b790df30e8dea/javascript-arrays-101-nf5",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Object-Oriented Programming in JavaScript",
+    "link": "https://dev.to/satyasootar/understanding-object-oriented-programming-in-javascript-23fl",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Function Declaration vs Function Expression",
+    "link": "https://dev.to/satyasootar/function-declaration-vs-function-expression-4b3k",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Magic of this, call(), apply(), and bind()",
+    "link": "https://dev.to/satyasootar/the-magic-of-this-call-apply-and-bind-e0e",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Objects in JavaScript",
+    "link": "https://dev.to/satyasootar/understanding-objects-in-javascript-1na7",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Arrow Functions in JavaScript: A Simpler Way to Write Functions",
+    "link": "https://dev.to/satyasootar/arrow-functions-in-javascript-a-simpler-way-to-write-functions-532o",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Handling API Data in Next.js: Things I Learned While Working on Real Projects",
+    "link": "https://dev.to/yogesh0333/handling-api-data-in-nextjs-things-i-learned-while-working-on-real-projects-2pic",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems",
+    "link": "https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a zero-dependency validation library for every Indian developer",
+    "link": "https://dev.to/gorupa/i-built-a-zero-dependency-validation-library-for-every-indian-developer-55ck",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Added 15+ Cultural Name Origins to a Baby Name Generator (With SEO Results)",
+    "link": "https://dev.to/yunhan_dev/how-we-added-15-cultural-name-origins-to-a-baby-name-generator-with-seo-results-13n3",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Niche Review Site for Squishy Toys (and What I Learned About SEO)",
+    "link": "https://dev.to/chisha_d5ceeffee4e27/how-i-built-a-niche-review-site-for-squishy-toys-and-what-i-learned-about-seo-2pi1",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Digital Products Marketplace using Next.js for Sellers and Buyers",
+    "link": "https://dev.to/myogeshchavan97/i-built-a-digital-products-marketplace-using-nextjs-for-sellers-and-buyers-3a18",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I reverse-engineered Framer's React runtime to export sites as static HTML",
+    "link": "https://dev.to/ankur_khandlwal/i-reverse-engineered-framers-react-runtime-to-export-sites-as-static-html-b75",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Arrays 101",
+    "link": "https://dev.to/souvik_blog_b790df30e8dea/javascript-arrays-101-nf5",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Object-Oriented Programming in JavaScript",
+    "link": "https://dev.to/satyasootar/understanding-object-oriented-programming-in-javascript-23fl",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Function Declaration vs Function Expression",
+    "link": "https://dev.to/satyasootar/function-declaration-vs-function-expression-4b3k",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Magic of this, call(), apply(), and bind()",
+    "link": "https://dev.to/satyasootar/the-magic-of-this-call-apply-and-bind-e0e",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding Objects in JavaScript",
+    "link": "https://dev.to/satyasootar/understanding-objects-in-javascript-1na7",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Arrow Functions in JavaScript: A Simpler Way to Write Functions",
+    "link": "https://dev.to/satyasootar/arrow-functions-in-javascript-a-simpler-way-to-write-functions-532o",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Handling API Data in Next.js: Things I Learned While Working on Real Projects",
+    "link": "https://dev.to/yogesh0333/handling-api-data-in-nextjs-things-i-learned-while-working-on-real-projects-2pic",
+    "date": "3/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+    "link": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
     "date": "3/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building an Astrology API with 140+ Vedic Endpoints: How We Built Vedika",
-    "link": "https://dev.to/vedikaapi/building-an-astrology-api-with-140-vedic-endpoints-how-we-built-vedika-3bp6",
+    "title": "I built a PDF toolkit that never uploads your files — here's how",
+    "link": "https://dev.to/muath_aljehani_9d9238bb3a/i-built-a-pdf-toolkit-that-never-uploads-your-files-heres-how-5f2o",
     "date": "3/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop Slouching! Build an AI-Powered Posture Monitor with MediaPipe & Electron 🚀",
-    "link": "https://dev.to/wellallytech/stop-slouching-build-an-ai-powered-posture-monitor-with-mediapipe-electron-ide",
+    "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+    "link": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
     "date": "3/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Defeated ProseMirror: The Only Way to Programmatically Insert Text Into Rich Text Editors",
-    "link": "https://dev.to/vesper_finch/how-i-defeated-prosemirror-the-only-way-to-programmatically-insert-text-into-rich-text-editors-1208",
+    "title": "I built a PDF toolkit that never uploads your files — here's how",
+    "link": "https://dev.to/muath_aljehani_9d9238bb3a/i-built-a-pdf-toolkit-that-never-uploads-your-files-heres-how-5f2o",
     "date": "3/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Control Flow in JavaScript: If, Else, and Switch Explained",
-    "link": "https://dev.to/satyasootar/control-flow-in-javascript-if-else-and-switch-explained-5el7",
+    "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+    "link": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
     "date": "3/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop your AI agents from doing stupid things (I open-sourced a React UI for Human-in-the-Loop)",
-    "link": "https://dev.to/rifzankhan/stop-your-ai-agents-from-doing-stupid-things-i-open-sourced-a-react-ui-for-human-in-the-loop-5eek",
+    "title": "I built a PDF toolkit that never uploads your files — here's how",
+    "link": "https://dev.to/muath_aljehani_9d9238bb3a/i-built-a-pdf-toolkit-that-never-uploads-your-files-heres-how-5f2o",
     "date": "3/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Lovable vs Bolt vs v0: Which AI App Builder Should You Use in 2026?",
-    "link": "https://dev.to/rupa_tiwari_dd308948d710f/lovable-vs-bolt-vs-v0-which-ai-app-builder-should-you-use-in-2026-15mp",
+    "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+    "link": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
     "date": "3/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Function Declaration vs Function Expression: What's the Difference?",
-    "link": "https://dev.to/sanjeev_singh_d0e6cd59459/function-declaration-vs-function-expression-whats-the-difference-26j2",
+    "title": "I built a PDF toolkit that never uploads your files — here's how",
+    "link": "https://dev.to/muath_aljehani_9d9238bb3a/i-built-a-pdf-toolkit-that-never-uploads-your-files-heres-how-5f2o",
     "date": "3/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Mastering CSS Scroll Timeline: A Complete Guide to Animation on Scroll in 2026",
-    "link": "https://dev.to/softheartengineer/mastering-css-scroll-timeline-a-complete-guide-to-animation-on-scroll-in-2025-3g7p",
+    "title": "90% of Code Will Be AI-Generated — So What the Hell Do We Actually Do?",
+    "link": "https://dev.to/harsh2644/90-of-code-will-be-ai-generated-so-what-the-hell-do-we-actually-do-2kg3",
     "date": "3/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Day 40 of #100DayOfCode — Building a Mini Auth System",
-    "link": "https://dev.to/m_saad_ahmad/day-40-of-100dayofcode-building-a-mini-auth-system-3i51",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Serve 10,000+ Dynamic Pages for Free with Next.js ISR (and the Mistakes I Made)",
-    "link": "https://dev.to/liam_altie/how-i-serve-10000-dynamic-pages-for-free-with-nextjs-isr-and-the-mistakes-i-made-4il8",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How Fast Is Your Code Search Tool? A Benchmark of Five AST Tools",
-    "link": "https://dev.to/herrington_darkholme/how-fast-is-your-code-search-tool-a-benchmark-of-five-ast-tools-590j",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Astrology API with 140+ Vedic Endpoints: How We Built Vedika",
-    "link": "https://dev.to/vedikaapi/building-an-astrology-api-with-140-vedic-endpoints-how-we-built-vedika-3bp6",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Slouching! Build an AI-Powered Posture Monitor with MediaPipe & Electron 🚀",
-    "link": "https://dev.to/wellallytech/stop-slouching-build-an-ai-powered-posture-monitor-with-mediapipe-electron-ide",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Defeated ProseMirror: The Only Way to Programmatically Insert Text Into Rich Text Editors",
-    "link": "https://dev.to/vesper_finch/how-i-defeated-prosemirror-the-only-way-to-programmatically-insert-text-into-rich-text-editors-1208",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Control Flow in JavaScript: If, Else, and Switch Explained",
-    "link": "https://dev.to/satyasootar/control-flow-in-javascript-if-else-and-switch-explained-5el7",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop your AI agents from doing stupid things (I open-sourced a React UI for Human-in-the-Loop)",
-    "link": "https://dev.to/rifzankhan/stop-your-ai-agents-from-doing-stupid-things-i-open-sourced-a-react-ui-for-human-in-the-loop-5eek",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lovable vs Bolt vs v0: Which AI App Builder Should You Use in 2026?",
-    "link": "https://dev.to/rupa_tiwari_dd308948d710f/lovable-vs-bolt-vs-v0-which-ai-app-builder-should-you-use-in-2026-15mp",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Function Declaration vs Function Expression: What's the Difference?",
-    "link": "https://dev.to/sanjeev_singh_d0e6cd59459/function-declaration-vs-function-expression-whats-the-difference-26j2",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering CSS Scroll Timeline: A Complete Guide to Animation on Scroll in 2026",
-    "link": "https://dev.to/softheartengineer/mastering-css-scroll-timeline-a-complete-guide-to-animation-on-scroll-in-2025-3g7p",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 40 of #100DayOfCode — Building a Mini Auth System",
-    "link": "https://dev.to/m_saad_ahmad/day-40-of-100dayofcode-building-a-mini-auth-system-3i51",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Serve 10,000+ Dynamic Pages for Free with Next.js ISR (and the Mistakes I Made)",
-    "link": "https://dev.to/liam_altie/how-i-serve-10000-dynamic-pages-for-free-with-nextjs-isr-and-the-mistakes-i-made-4il8",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How Fast Is Your Code Search Tool? A Benchmark of Five AST Tools",
-    "link": "https://dev.to/herrington_darkholme/how-fast-is-your-code-search-tool-a-benchmark-of-five-ast-tools-590j",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Astrology API with 140+ Vedic Endpoints: How We Built Vedika",
-    "link": "https://dev.to/vedikaapi/building-an-astrology-api-with-140-vedic-endpoints-how-we-built-vedika-3bp6",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Slouching! Build an AI-Powered Posture Monitor with MediaPipe & Electron 🚀",
-    "link": "https://dev.to/wellallytech/stop-slouching-build-an-ai-powered-posture-monitor-with-mediapipe-electron-ide",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Defeated ProseMirror: The Only Way to Programmatically Insert Text Into Rich Text Editors",
-    "link": "https://dev.to/vesper_finch/how-i-defeated-prosemirror-the-only-way-to-programmatically-insert-text-into-rich-text-editors-1208",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Control Flow in JavaScript: If, Else, and Switch Explained",
-    "link": "https://dev.to/satyasootar/control-flow-in-javascript-if-else-and-switch-explained-5el7",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop your AI agents from doing stupid things (I open-sourced a React UI for Human-in-the-Loop)",
-    "link": "https://dev.to/rifzankhan/stop-your-ai-agents-from-doing-stupid-things-i-open-sourced-a-react-ui-for-human-in-the-loop-5eek",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lovable vs Bolt vs v0: Which AI App Builder Should You Use in 2026?",
-    "link": "https://dev.to/rupa_tiwari_dd308948d710f/lovable-vs-bolt-vs-v0-which-ai-app-builder-should-you-use-in-2026-15mp",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Function Declaration vs Function Expression: What's the Difference?",
-    "link": "https://dev.to/sanjeev_singh_d0e6cd59459/function-declaration-vs-function-expression-whats-the-difference-26j2",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering CSS Scroll Timeline: A Complete Guide to Animation on Scroll in 2026",
-    "link": "https://dev.to/softheartengineer/mastering-css-scroll-timeline-a-complete-guide-to-animation-on-scroll-in-2025-3g7p",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 40 of #100DayOfCode — Building a Mini Auth System",
-    "link": "https://dev.to/m_saad_ahmad/day-40-of-100dayofcode-building-a-mini-auth-system-3i51",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Serve 10,000+ Dynamic Pages for Free with Next.js ISR (and the Mistakes I Made)",
-    "link": "https://dev.to/liam_altie/how-i-serve-10000-dynamic-pages-for-free-with-nextjs-isr-and-the-mistakes-i-made-4il8",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How Fast Is Your Code Search Tool? A Benchmark of Five AST Tools",
-    "link": "https://dev.to/herrington_darkholme/how-fast-is-your-code-search-tool-a-benchmark-of-five-ast-tools-590j",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Astrology API with 140+ Vedic Endpoints: How We Built Vedika",
-    "link": "https://dev.to/vedikaapi/building-an-astrology-api-with-140-vedic-endpoints-how-we-built-vedika-3bp6",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Slouching! Build an AI-Powered Posture Monitor with MediaPipe & Electron 🚀",
-    "link": "https://dev.to/wellallytech/stop-slouching-build-an-ai-powered-posture-monitor-with-mediapipe-electron-ide",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Defeated ProseMirror: The Only Way to Programmatically Insert Text Into Rich Text Editors",
-    "link": "https://dev.to/vesper_finch/how-i-defeated-prosemirror-the-only-way-to-programmatically-insert-text-into-rich-text-editors-1208",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Control Flow in JavaScript: If, Else, and Switch Explained",
-    "link": "https://dev.to/satyasootar/control-flow-in-javascript-if-else-and-switch-explained-5el7",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop your AI agents from doing stupid things (I open-sourced a React UI for Human-in-the-Loop)",
-    "link": "https://dev.to/rifzankhan/stop-your-ai-agents-from-doing-stupid-things-i-open-sourced-a-react-ui-for-human-in-the-loop-5eek",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lovable vs Bolt vs v0: Which AI App Builder Should You Use in 2026?",
-    "link": "https://dev.to/rupa_tiwari_dd308948d710f/lovable-vs-bolt-vs-v0-which-ai-app-builder-should-you-use-in-2026-15mp",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Function Declaration vs Function Expression: What's the Difference?",
-    "link": "https://dev.to/sanjeev_singh_d0e6cd59459/function-declaration-vs-function-expression-whats-the-difference-26j2",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering CSS Scroll Timeline: A Complete Guide to Animation on Scroll in 2026",
-    "link": "https://dev.to/softheartengineer/mastering-css-scroll-timeline-a-complete-guide-to-animation-on-scroll-in-2025-3g7p",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 40 of #100DayOfCode — Building a Mini Auth System",
-    "link": "https://dev.to/m_saad_ahmad/day-40-of-100dayofcode-building-a-mini-auth-system-3i51",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Serve 10,000+ Dynamic Pages for Free with Next.js ISR (and the Mistakes I Made)",
-    "link": "https://dev.to/liam_altie/how-i-serve-10000-dynamic-pages-for-free-with-nextjs-isr-and-the-mistakes-i-made-4il8",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How Fast Is Your Code Search Tool? A Benchmark of Five AST Tools",
-    "link": "https://dev.to/herrington_darkholme/how-fast-is-your-code-search-tool-a-benchmark-of-five-ast-tools-590j",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Astrology API with 140+ Vedic Endpoints: How We Built Vedika",
-    "link": "https://dev.to/vedikaapi/building-an-astrology-api-with-140-vedic-endpoints-how-we-built-vedika-3bp6",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Slouching! Build an AI-Powered Posture Monitor with MediaPipe & Electron 🚀",
-    "link": "https://dev.to/wellallytech/stop-slouching-build-an-ai-powered-posture-monitor-with-mediapipe-electron-ide",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Defeated ProseMirror: The Only Way to Programmatically Insert Text Into Rich Text Editors",
-    "link": "https://dev.to/vesper_finch/how-i-defeated-prosemirror-the-only-way-to-programmatically-insert-text-into-rich-text-editors-1208",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Control Flow in JavaScript: If, Else, and Switch Explained",
-    "link": "https://dev.to/satyasootar/control-flow-in-javascript-if-else-and-switch-explained-5el7",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop your AI agents from doing stupid things (I open-sourced a React UI for Human-in-the-Loop)",
-    "link": "https://dev.to/rifzankhan/stop-your-ai-agents-from-doing-stupid-things-i-open-sourced-a-react-ui-for-human-in-the-loop-5eek",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lovable vs Bolt vs v0: Which AI App Builder Should You Use in 2026?",
-    "link": "https://dev.to/rupa_tiwari_dd308948d710f/lovable-vs-bolt-vs-v0-which-ai-app-builder-should-you-use-in-2026-15mp",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Function Declaration vs Function Expression: What's the Difference?",
-    "link": "https://dev.to/sanjeev_singh_d0e6cd59459/function-declaration-vs-function-expression-whats-the-difference-26j2",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering CSS Scroll Timeline: A Complete Guide to Animation on Scroll in 2026",
-    "link": "https://dev.to/softheartengineer/mastering-css-scroll-timeline-a-complete-guide-to-animation-on-scroll-in-2025-3g7p",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 40 of #100DayOfCode — Building a Mini Auth System",
-    "link": "https://dev.to/m_saad_ahmad/day-40-of-100dayofcode-building-a-mini-auth-system-3i51",
-    "date": "3/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Serve 10,000+ Dynamic Pages for Free with Next.js ISR (and the Mistakes I Made)",
-    "link": "https://dev.to/liam_altie/how-i-serve-10000-dynamic-pages-for-free-with-nextjs-isr-and-the-mistakes-i-made-4il8",
+    "title": "I built a PDF toolkit that never uploads your files — here's how",
+    "link": "https://dev.to/muath_aljehani_9d9238bb3a/i-built-a-pdf-toolkit-that-never-uploads-your-files-heres-how-5f2o",
     "date": "3/14/2026",
     "site": "dev.to"
   },
@@ -335,126 +455,6 @@
     "reading_time": "18 min read",
     "date": "3/13/2026",
     "site": "smashingmagazine"
-  },
-  {
-    "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-    "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Arrays 101",
-    "link": "https://dev.to/hiral/javascript-arrays-101-37oh",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Liquid Glass UI 2026 — CSS @property Morphing Cards, Zero JavaScript",
-    "link": "https://dev.to/ahmod_musa_bd1b2536d20e0e/liquid-glass-ui-2026-css-property-morphing-cards-zero-javascript-24o3",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-    "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Arrays 101",
-    "link": "https://dev.to/hiral/javascript-arrays-101-37oh",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Liquid Glass UI 2026 — CSS @property Morphing Cards, Zero JavaScript",
-    "link": "https://dev.to/ahmod_musa_bd1b2536d20e0e/liquid-glass-ui-2026-css-property-morphing-cards-zero-javascript-24o3",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-    "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Arrays 101",
-    "link": "https://dev.to/hiral/javascript-arrays-101-37oh",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Liquid Glass UI 2026 — CSS @property Morphing Cards, Zero JavaScript",
-    "link": "https://dev.to/ahmod_musa_bd1b2536d20e0e/liquid-glass-ui-2026-css-property-morphing-cards-zero-javascript-24o3",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-    "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Arrays 101",
-    "link": "https://dev.to/hiral/javascript-arrays-101-37oh",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Liquid Glass UI 2026 — CSS @property Morphing Cards, Zero JavaScript",
-    "link": "https://dev.to/ahmod_musa_bd1b2536d20e0e/liquid-glass-ui-2026-css-property-morphing-cards-zero-javascript-24o3",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two React Design Choices Developers Don’t Like—But Can’t Avoid",
-    "link": "https://dev.to/playfulprogramming/two-react-design-choices-developers-dont-like-but-cant-avoid-d6g",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Arrays 101",
-    "link": "https://dev.to/hiral/javascript-arrays-101-37oh",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Liquid Glass UI 2026 — CSS @property Morphing Cards, Zero JavaScript",
-    "link": "https://dev.to/ahmod_musa_bd1b2536d20e0e/liquid-glass-ui-2026-css-property-morphing-cards-zero-javascript-24o3",
-    "date": "3/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-    "link": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-    "date": "3/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-    "link": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-    "date": "3/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-    "link": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-    "date": "3/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-    "link": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-    "date": "3/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Are We Still Doing GPU Work in JavaScript? (Live WebGPU Benchmark & Demo🚀)",
-    "link": "https://dev.to/sylwia-lask/why-are-we-still-doing-gpu-work-in-javascript-live-webgpu-benchmark-demo-4j6i",
-    "date": "3/12/2026",
-    "site": "dev.to"
   },
   {
     "title": "Building Dynamic Forms In React And Next.js",
@@ -578,7 +578,7 @@
   {
     "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
     "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "2/22/2024",
     "site": "smashingmagazine"
   },
@@ -592,7 +592,7 @@
   {
     "title": "SolidStart: A Different Breed Of Meta-Framework",
     "link": "https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "1/8/2024",
     "site": "smashingmagazine"
   },
@@ -648,7 +648,7 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
@@ -725,14 +725,14 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "24 min read",
+    "reading_time": "23 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -760,7 +760,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
