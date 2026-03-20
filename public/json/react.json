@@ -1,7 +1,253 @@
 [
   {
-    "title": "API-First Development, Why It Matters and How to Do It Right",
-    "link": "https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg",
+    "title": "React Hooks Performance: How to Avoid Unnecessary Re-renders",
+    "link": "https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Link Previews to Your React App (With Code Examples)",
+    "link": "https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploying a TanStack Start App with Neon Postgres and Cloudflare Workers",
+    "link": "https://dev.to/isaac-fei/deploying-a-tanstack-start-app-with-neon-postgres-and-cloudflare-workers-2fc0",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Discord-Style Rich Link Previews in React (Without CORS Issues)",
+    "link": "https://dev.to/amajid/build-discord-style-rich-link-previews-in-react-without-cors-issues-2j0o",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing a Simple Text Editor with Auto-Save Using TanStack Start",
+    "link": "https://dev.to/isaac-fei/implementing-a-simple-text-editor-with-auto-save-using-tanstack-start-1g46",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 key capabilities of easy-model (with real-world context)",
+    "link": "https://dev.to/zyf93/5-key-capabilities-of-easy-model-with-real-world-context-40j",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧠 What is JSX in React?",
+    "link": "https://dev.to/aman_kureshi_/what-is-jsx-in-react-48m7",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks Performance: How to Avoid Unnecessary Re-renders",
+    "link": "https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Link Previews to Your React App (With Code Examples)",
+    "link": "https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploying a TanStack Start App with Neon Postgres and Cloudflare Workers",
+    "link": "https://dev.to/isaac-fei/deploying-a-tanstack-start-app-with-neon-postgres-and-cloudflare-workers-2fc0",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Discord-Style Rich Link Previews in React (Without CORS Issues)",
+    "link": "https://dev.to/amajid/build-discord-style-rich-link-previews-in-react-without-cors-issues-2j0o",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing a Simple Text Editor with Auto-Save Using TanStack Start",
+    "link": "https://dev.to/isaac-fei/implementing-a-simple-text-editor-with-auto-save-using-tanstack-start-1g46",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 key capabilities of easy-model (with real-world context)",
+    "link": "https://dev.to/zyf93/5-key-capabilities-of-easy-model-with-real-world-context-40j",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧠 What is JSX in React?",
+    "link": "https://dev.to/aman_kureshi_/what-is-jsx-in-react-48m7",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks Performance: How to Avoid Unnecessary Re-renders",
+    "link": "https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Link Previews to Your React App (With Code Examples)",
+    "link": "https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploying a TanStack Start App with Neon Postgres and Cloudflare Workers",
+    "link": "https://dev.to/isaac-fei/deploying-a-tanstack-start-app-with-neon-postgres-and-cloudflare-workers-2fc0",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Discord-Style Rich Link Previews in React (Without CORS Issues)",
+    "link": "https://dev.to/amajid/build-discord-style-rich-link-previews-in-react-without-cors-issues-2j0o",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing a Simple Text Editor with Auto-Save Using TanStack Start",
+    "link": "https://dev.to/isaac-fei/implementing-a-simple-text-editor-with-auto-save-using-tanstack-start-1g46",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 key capabilities of easy-model (with real-world context)",
+    "link": "https://dev.to/zyf93/5-key-capabilities-of-easy-model-with-real-world-context-40j",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧠 What is JSX in React?",
+    "link": "https://dev.to/aman_kureshi_/what-is-jsx-in-react-48m7",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks Performance: How to Avoid Unnecessary Re-renders",
+    "link": "https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Link Previews to Your React App (With Code Examples)",
+    "link": "https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploying a TanStack Start App with Neon Postgres and Cloudflare Workers",
+    "link": "https://dev.to/isaac-fei/deploying-a-tanstack-start-app-with-neon-postgres-and-cloudflare-workers-2fc0",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Discord-Style Rich Link Previews in React (Without CORS Issues)",
+    "link": "https://dev.to/amajid/build-discord-style-rich-link-previews-in-react-without-cors-issues-2j0o",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing a Simple Text Editor with Auto-Save Using TanStack Start",
+    "link": "https://dev.to/isaac-fei/implementing-a-simple-text-editor-with-auto-save-using-tanstack-start-1g46",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 key capabilities of easy-model (with real-world context)",
+    "link": "https://dev.to/zyf93/5-key-capabilities-of-easy-model-with-real-world-context-40j",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧠 What is JSX in React?",
+    "link": "https://dev.to/aman_kureshi_/what-is-jsx-in-react-48m7",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Hooks Performance: How to Avoid Unnecessary Re-renders",
+    "link": "https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Link Previews to Your React App (With Code Examples)",
+    "link": "https://dev.to/eatyou_eatyou_d79d27e5622/how-to-add-link-previews-to-your-react-app-with-code-examples-4l6d",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploying a TanStack Start App with Neon Postgres and Cloudflare Workers",
+    "link": "https://dev.to/isaac-fei/deploying-a-tanstack-start-app-with-neon-postgres-and-cloudflare-workers-2fc0",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Discord-Style Rich Link Previews in React (Without CORS Issues)",
+    "link": "https://dev.to/amajid/build-discord-style-rich-link-previews-in-react-without-cors-issues-2j0o",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Implementing a Simple Text Editor with Auto-Save Using TanStack Start",
+    "link": "https://dev.to/isaac-fei/implementing-a-simple-text-editor-with-auto-save-using-tanstack-start-1g46",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 key capabilities of easy-model (with real-world context)",
+    "link": "https://dev.to/zyf93/5-key-capabilities-of-easy-model-with-real-world-context-40j",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🧠 What is JSX in React?",
+    "link": "https://dev.to/aman_kureshi_/what-is-jsx-in-react-48m7",
+    "date": "3/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Scheduler API: Prioritising Work on the Main Thread",
+    "link": "https://dev.to/byte-sized-news/the-scheduler-api-prioritising-work-on-the-main-thread-2m66",
+    "date": "3/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a News App That Runs AI Entirely in Your Browser — Here's How",
+    "link": "https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1",
+    "date": "3/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Guide to Precise Age Calculation in React",
+    "link": "https://dev.to/kansoldev/a-guide-to-precise-age-calculation-in-react-1ijh",
+    "date": "3/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Add Google Login to Next.js with Authon in 5 Minutes",
+    "link": "https://dev.to/alanwest/how-to-add-google-login-to-nextjs-with-authon-in-5-minutes-2ojj",
+    "date": "3/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Rewriting This React Form UX Logic",
+    "link": "https://dev.to/sayan_paul/stop-rewriting-this-react-form-ux-logic-225p",
+    "date": "3/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cursor Rules + Claude: stop breaking builds",
+    "link": "https://dev.to/sathish_daggula/cursor-rules-claude-stop-breaking-builds-1e6p",
+    "date": "3/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Custom Multi Select in React",
+    "link": "https://dev.to/kush_bhandari_1/custom-multi-select-in-react-15h8",
     "date": "3/19/2026",
     "site": "dev.to"
   },
@@ -12,50 +258,44 @@
     "site": "dev.to"
   },
   {
-    "title": "I Finally Understood How to Pass Multiple Values in Redux Toolkit (The Right Way)",
-    "link": "https://dev.to/usama_dev/i-finally-understood-how-to-pass-multiple-values-in-redux-toolkit-the-right-way-21k",
+    "title": "The Scheduler API: Prioritising Work on the Main Thread",
+    "link": "https://dev.to/byte-sized-news/the-scheduler-api-prioritising-work-on-the-main-thread-2m66",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building HIPAA-Compliant Web Apps, A Developer's Guide",
-    "link": "https://dev.to/waqarhabib/building-hipaa-compliant-web-apps-a-developers-guide-4pgc",
+    "title": "I Built a News App That Runs AI Entirely in Your Browser — Here's How",
+    "link": "https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Hero with logos + carousel",
-    "link": "https://dev.to/felipe_menezes/hero-with-logos-carousel-35ha",
+    "title": "A Guide to Precise Age Calculation in React",
+    "link": "https://dev.to/kansoldev/a-guide-to-precise-age-calculation-in-react-1ijh",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built an RPG Battle System for a CompTIA Exam Prep App",
-    "link": "https://dev.to/secuspark/how-i-built-an-rpg-battle-system-for-a-comptia-exam-prep-app-5gnp",
+    "title": "How to Add Google Login to Next.js with Authon in 5 Minutes",
+    "link": "https://dev.to/alanwest/how-to-add-google-login-to-nextjs-with-authon-in-5-minutes-2ojj",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "easy-model: model-first state with IoC and deep watching",
-    "link": "https://dev.to/zyf93/easy-model-model-first-state-with-ioc-and-deep-watching-1k2",
+    "title": "Stop Rewriting This React Form UX Logic",
+    "link": "https://dev.to/sayan_paul/stop-rewriting-this-react-form-ux-logic-225p",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Refactoring Legacy Code with React Best Practices: Before and After",
-    "link": "https://dev.to/lufumeiying/refactoring-legacy-code-with-react-best-practices-before-and-after-19c3",
+    "title": "Cursor Rules + Claude: stop breaking builds",
+    "link": "https://dev.to/sathish_daggula/cursor-rules-claude-stop-breaking-builds-1e6p",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "I'm Waqar Habib Khan: A Full-Stack Developer & Fractional CTO for US Startups",
-    "link": "https://dev.to/waqarhabib/im-waqar-habib-khan-a-full-stack-developer-fractional-cto-for-us-startups-4b1a",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "API-First Development, Why It Matters and How to Do It Right",
-    "link": "https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg",
+    "title": "Custom Multi Select in React",
+    "link": "https://dev.to/kush_bhandari_1/custom-multi-select-in-react-15h8",
     "date": "3/19/2026",
     "site": "dev.to"
   },
@@ -66,50 +306,44 @@
     "site": "dev.to"
   },
   {
-    "title": "I Finally Understood How to Pass Multiple Values in Redux Toolkit (The Right Way)",
-    "link": "https://dev.to/usama_dev/i-finally-understood-how-to-pass-multiple-values-in-redux-toolkit-the-right-way-21k",
+    "title": "The Scheduler API: Prioritising Work on the Main Thread",
+    "link": "https://dev.to/byte-sized-news/the-scheduler-api-prioritising-work-on-the-main-thread-2m66",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building HIPAA-Compliant Web Apps, A Developer's Guide",
-    "link": "https://dev.to/waqarhabib/building-hipaa-compliant-web-apps-a-developers-guide-4pgc",
+    "title": "I Built a News App That Runs AI Entirely in Your Browser — Here's How",
+    "link": "https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Hero with logos + carousel",
-    "link": "https://dev.to/felipe_menezes/hero-with-logos-carousel-35ha",
+    "title": "A Guide to Precise Age Calculation in React",
+    "link": "https://dev.to/kansoldev/a-guide-to-precise-age-calculation-in-react-1ijh",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built an RPG Battle System for a CompTIA Exam Prep App",
-    "link": "https://dev.to/secuspark/how-i-built-an-rpg-battle-system-for-a-comptia-exam-prep-app-5gnp",
+    "title": "How to Add Google Login to Next.js with Authon in 5 Minutes",
+    "link": "https://dev.to/alanwest/how-to-add-google-login-to-nextjs-with-authon-in-5-minutes-2ojj",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "easy-model: model-first state with IoC and deep watching",
-    "link": "https://dev.to/zyf93/easy-model-model-first-state-with-ioc-and-deep-watching-1k2",
+    "title": "Stop Rewriting This React Form UX Logic",
+    "link": "https://dev.to/sayan_paul/stop-rewriting-this-react-form-ux-logic-225p",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Refactoring Legacy Code with React Best Practices: Before and After",
-    "link": "https://dev.to/lufumeiying/refactoring-legacy-code-with-react-best-practices-before-and-after-19c3",
+    "title": "Cursor Rules + Claude: stop breaking builds",
+    "link": "https://dev.to/sathish_daggula/cursor-rules-claude-stop-breaking-builds-1e6p",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "I'm Waqar Habib Khan: A Full-Stack Developer & Fractional CTO for US Startups",
-    "link": "https://dev.to/waqarhabib/im-waqar-habib-khan-a-full-stack-developer-fractional-cto-for-us-startups-4b1a",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "API-First Development, Why It Matters and How to Do It Right",
-    "link": "https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg",
+    "title": "Custom Multi Select in React",
+    "link": "https://dev.to/kush_bhandari_1/custom-multi-select-in-react-15h8",
     "date": "3/19/2026",
     "site": "dev.to"
   },
@@ -120,50 +354,44 @@
     "site": "dev.to"
   },
   {
-    "title": "I Finally Understood How to Pass Multiple Values in Redux Toolkit (The Right Way)",
-    "link": "https://dev.to/usama_dev/i-finally-understood-how-to-pass-multiple-values-in-redux-toolkit-the-right-way-21k",
+    "title": "The Scheduler API: Prioritising Work on the Main Thread",
+    "link": "https://dev.to/byte-sized-news/the-scheduler-api-prioritising-work-on-the-main-thread-2m66",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building HIPAA-Compliant Web Apps, A Developer's Guide",
-    "link": "https://dev.to/waqarhabib/building-hipaa-compliant-web-apps-a-developers-guide-4pgc",
+    "title": "I Built a News App That Runs AI Entirely in Your Browser — Here's How",
+    "link": "https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Hero with logos + carousel",
-    "link": "https://dev.to/felipe_menezes/hero-with-logos-carousel-35ha",
+    "title": "A Guide to Precise Age Calculation in React",
+    "link": "https://dev.to/kansoldev/a-guide-to-precise-age-calculation-in-react-1ijh",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built an RPG Battle System for a CompTIA Exam Prep App",
-    "link": "https://dev.to/secuspark/how-i-built-an-rpg-battle-system-for-a-comptia-exam-prep-app-5gnp",
+    "title": "How to Add Google Login to Next.js with Authon in 5 Minutes",
+    "link": "https://dev.to/alanwest/how-to-add-google-login-to-nextjs-with-authon-in-5-minutes-2ojj",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "easy-model: model-first state with IoC and deep watching",
-    "link": "https://dev.to/zyf93/easy-model-model-first-state-with-ioc-and-deep-watching-1k2",
+    "title": "Stop Rewriting This React Form UX Logic",
+    "link": "https://dev.to/sayan_paul/stop-rewriting-this-react-form-ux-logic-225p",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Refactoring Legacy Code with React Best Practices: Before and After",
-    "link": "https://dev.to/lufumeiying/refactoring-legacy-code-with-react-best-practices-before-and-after-19c3",
+    "title": "Cursor Rules + Claude: stop breaking builds",
+    "link": "https://dev.to/sathish_daggula/cursor-rules-claude-stop-breaking-builds-1e6p",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "I'm Waqar Habib Khan: A Full-Stack Developer & Fractional CTO for US Startups",
-    "link": "https://dev.to/waqarhabib/im-waqar-habib-khan-a-full-stack-developer-fractional-cto-for-us-startups-4b1a",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "API-First Development, Why It Matters and How to Do It Right",
-    "link": "https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg",
+    "title": "Custom Multi Select in React",
+    "link": "https://dev.to/kush_bhandari_1/custom-multi-select-in-react-15h8",
     "date": "3/19/2026",
     "site": "dev.to"
   },
@@ -174,50 +402,44 @@
     "site": "dev.to"
   },
   {
-    "title": "I Finally Understood How to Pass Multiple Values in Redux Toolkit (The Right Way)",
-    "link": "https://dev.to/usama_dev/i-finally-understood-how-to-pass-multiple-values-in-redux-toolkit-the-right-way-21k",
+    "title": "The Scheduler API: Prioritising Work on the Main Thread",
+    "link": "https://dev.to/byte-sized-news/the-scheduler-api-prioritising-work-on-the-main-thread-2m66",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building HIPAA-Compliant Web Apps, A Developer's Guide",
-    "link": "https://dev.to/waqarhabib/building-hipaa-compliant-web-apps-a-developers-guide-4pgc",
+    "title": "I Built a News App That Runs AI Entirely in Your Browser — Here's How",
+    "link": "https://dev.to/opennews/i-built-a-news-app-that-runs-ai-entirely-in-your-browser-heres-how-29g1",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Hero with logos + carousel",
-    "link": "https://dev.to/felipe_menezes/hero-with-logos-carousel-35ha",
+    "title": "A Guide to Precise Age Calculation in React",
+    "link": "https://dev.to/kansoldev/a-guide-to-precise-age-calculation-in-react-1ijh",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built an RPG Battle System for a CompTIA Exam Prep App",
-    "link": "https://dev.to/secuspark/how-i-built-an-rpg-battle-system-for-a-comptia-exam-prep-app-5gnp",
+    "title": "How to Add Google Login to Next.js with Authon in 5 Minutes",
+    "link": "https://dev.to/alanwest/how-to-add-google-login-to-nextjs-with-authon-in-5-minutes-2ojj",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "easy-model: model-first state with IoC and deep watching",
-    "link": "https://dev.to/zyf93/easy-model-model-first-state-with-ioc-and-deep-watching-1k2",
+    "title": "Stop Rewriting This React Form UX Logic",
+    "link": "https://dev.to/sayan_paul/stop-rewriting-this-react-form-ux-logic-225p",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Refactoring Legacy Code with React Best Practices: Before and After",
-    "link": "https://dev.to/lufumeiying/refactoring-legacy-code-with-react-best-practices-before-and-after-19c3",
+    "title": "Cursor Rules + Claude: stop breaking builds",
+    "link": "https://dev.to/sathish_daggula/cursor-rules-claude-stop-breaking-builds-1e6p",
     "date": "3/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "I'm Waqar Habib Khan: A Full-Stack Developer & Fractional CTO for US Startups",
-    "link": "https://dev.to/waqarhabib/im-waqar-habib-khan-a-full-stack-developer-fractional-cto-for-us-startups-4b1a",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "API-First Development, Why It Matters and How to Do It Right",
-    "link": "https://dev.to/waqarhabib/api-first-development-why-it-matters-and-how-to-do-it-right-10hg",
+    "title": "Custom Multi Select in React",
+    "link": "https://dev.to/kush_bhandari_1/custom-multi-select-in-react-15h8",
     "date": "3/19/2026",
     "site": "dev.to"
   },
@@ -225,228 +447,6 @@
     "title": "EdTech Platform Architecture, Lessons from Real Builds",
     "link": "https://dev.to/waqarhabib/edtech-platform-architecture-lessons-from-real-builds-3hkm",
     "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Finally Understood How to Pass Multiple Values in Redux Toolkit (The Right Way)",
-    "link": "https://dev.to/usama_dev/i-finally-understood-how-to-pass-multiple-values-in-redux-toolkit-the-right-way-21k",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building HIPAA-Compliant Web Apps, A Developer's Guide",
-    "link": "https://dev.to/waqarhabib/building-hipaa-compliant-web-apps-a-developers-guide-4pgc",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hero with logos + carousel",
-    "link": "https://dev.to/felipe_menezes/hero-with-logos-carousel-35ha",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built an RPG Battle System for a CompTIA Exam Prep App",
-    "link": "https://dev.to/secuspark/how-i-built-an-rpg-battle-system-for-a-comptia-exam-prep-app-5gnp",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "easy-model: model-first state with IoC and deep watching",
-    "link": "https://dev.to/zyf93/easy-model-model-first-state-with-ioc-and-deep-watching-1k2",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Refactoring Legacy Code with React Best Practices: Before and After",
-    "link": "https://dev.to/lufumeiying/refactoring-legacy-code-with-react-best-practices-before-and-after-19c3",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I'm Waqar Habib Khan: A Full-Stack Developer & Fractional CTO for US Startups",
-    "link": "https://dev.to/waqarhabib/im-waqar-habib-khan-a-full-stack-developer-fractional-cto-for-us-startups-4b1a",
-    "date": "3/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Barbershop Web App",
-    "link": "https://dev.to/kyl67899/barbershop-web-app-1nmm",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Filling the Gap in Collaborative Rich Text Editing: A Comprehensive, User-Friendly Toolkit Solution",
-    "link": "https://dev.to/pavkode/filling-the-gap-in-collaborative-rich-text-editing-a-comprehensive-user-friendly-toolkit-solution-229i",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why React State Management Changed - setState to Redux to React Query",
-    "link": "https://dev.to/nagendrababun/why-react-state-management-changed-setstate-redux-react-query-12a4",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Free Location Detection in React — One Hook, Zero Configuration",
-    "link": "https://dev.to/pol_nisenblat/free-location-detection-in-react-one-hook-zero-configuration-24oo",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix React useEffect Infinite Loops in 5 Minutes",
-    "link": "https://dev.to/benriemer/how-to-fix-react-useeffect-infinite-loops-in-5-minutes-g2b",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Cookie Consent Banner Is Probably Breaking Your Analytics",
-    "link": "https://dev.to/anjab/your-cookie-consent-banner-is-probably-breaking-your-analytics-5c4h",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Barbershop Web App",
-    "link": "https://dev.to/kyl67899/barbershop-web-app-1nmm",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Filling the Gap in Collaborative Rich Text Editing: A Comprehensive, User-Friendly Toolkit Solution",
-    "link": "https://dev.to/pavkode/filling-the-gap-in-collaborative-rich-text-editing-a-comprehensive-user-friendly-toolkit-solution-229i",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why React State Management Changed - setState to Redux to React Query",
-    "link": "https://dev.to/nagendrababun/why-react-state-management-changed-setstate-redux-react-query-12a4",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Free Location Detection in React — One Hook, Zero Configuration",
-    "link": "https://dev.to/pol_nisenblat/free-location-detection-in-react-one-hook-zero-configuration-24oo",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix React useEffect Infinite Loops in 5 Minutes",
-    "link": "https://dev.to/benriemer/how-to-fix-react-useeffect-infinite-loops-in-5-minutes-g2b",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Cookie Consent Banner Is Probably Breaking Your Analytics",
-    "link": "https://dev.to/anjab/your-cookie-consent-banner-is-probably-breaking-your-analytics-5c4h",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Barbershop Web App",
-    "link": "https://dev.to/kyl67899/barbershop-web-app-1nmm",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Filling the Gap in Collaborative Rich Text Editing: A Comprehensive, User-Friendly Toolkit Solution",
-    "link": "https://dev.to/pavkode/filling-the-gap-in-collaborative-rich-text-editing-a-comprehensive-user-friendly-toolkit-solution-229i",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why React State Management Changed - setState to Redux to React Query",
-    "link": "https://dev.to/nagendrababun/why-react-state-management-changed-setstate-redux-react-query-12a4",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Free Location Detection in React — One Hook, Zero Configuration",
-    "link": "https://dev.to/pol_nisenblat/free-location-detection-in-react-one-hook-zero-configuration-24oo",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix React useEffect Infinite Loops in 5 Minutes",
-    "link": "https://dev.to/benriemer/how-to-fix-react-useeffect-infinite-loops-in-5-minutes-g2b",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Cookie Consent Banner Is Probably Breaking Your Analytics",
-    "link": "https://dev.to/anjab/your-cookie-consent-banner-is-probably-breaking-your-analytics-5c4h",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Barbershop Web App",
-    "link": "https://dev.to/kyl67899/barbershop-web-app-1nmm",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Filling the Gap in Collaborative Rich Text Editing: A Comprehensive, User-Friendly Toolkit Solution",
-    "link": "https://dev.to/pavkode/filling-the-gap-in-collaborative-rich-text-editing-a-comprehensive-user-friendly-toolkit-solution-229i",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why React State Management Changed - setState to Redux to React Query",
-    "link": "https://dev.to/nagendrababun/why-react-state-management-changed-setstate-redux-react-query-12a4",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Free Location Detection in React — One Hook, Zero Configuration",
-    "link": "https://dev.to/pol_nisenblat/free-location-detection-in-react-one-hook-zero-configuration-24oo",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix React useEffect Infinite Loops in 5 Minutes",
-    "link": "https://dev.to/benriemer/how-to-fix-react-useeffect-infinite-loops-in-5-minutes-g2b",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Cookie Consent Banner Is Probably Breaking Your Analytics",
-    "link": "https://dev.to/anjab/your-cookie-consent-banner-is-probably-breaking-your-analytics-5c4h",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Barbershop Web App",
-    "link": "https://dev.to/kyl67899/barbershop-web-app-1nmm",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Filling the Gap in Collaborative Rich Text Editing: A Comprehensive, User-Friendly Toolkit Solution",
-    "link": "https://dev.to/pavkode/filling-the-gap-in-collaborative-rich-text-editing-a-comprehensive-user-friendly-toolkit-solution-229i",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why React State Management Changed - setState to Redux to React Query",
-    "link": "https://dev.to/nagendrababun/why-react-state-management-changed-setstate-redux-react-query-12a4",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Free Location Detection in React — One Hook, Zero Configuration",
-    "link": "https://dev.to/pol_nisenblat/free-location-detection-in-react-one-hook-zero-configuration-24oo",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Fix React useEffect Infinite Loops in 5 Minutes",
-    "link": "https://dev.to/benriemer/how-to-fix-react-useeffect-infinite-loops-in-5-minutes-g2b",
-    "date": "3/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Cookie Consent Banner Is Probably Breaking Your Analytics",
-    "link": "https://dev.to/anjab/your-cookie-consent-banner-is-probably-breaking-your-analytics-5c4h",
-    "date": "3/18/2026",
     "site": "dev.to"
   },
   {
@@ -494,7 +494,7 @@
   {
     "title": "Gatsby Headaches: Working With Media (Part 2)",
     "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "10/16/2023",
     "site": "smashingmagazine"
   },
@@ -557,7 +557,7 @@
   {
     "title": "The Key To Good Component Design Is Selfishness",
     "link": "https://www.smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "1/20/2023",
     "site": "smashingmagazine"
   },
@@ -690,7 +690,7 @@
   {
     "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
     "link": "https://www.smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "9/9/2021",
     "site": "smashingmagazine"
   },
@@ -746,7 +746,7 @@
   {
     "title": "How To Implement Authentication In Next.js With Auth0",
     "link": "https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "5/20/2021",
     "site": "smashingmagazine"
   },
@@ -788,7 +788,7 @@
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   },
