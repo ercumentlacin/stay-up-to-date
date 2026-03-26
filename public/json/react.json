@@ -1,453 +1,523 @@
 [
   {
-    "title": "📂 Build a Metadata Viewer in React (Audio, Video, Image, PDF, eBook)",
-    "link": "https://dev.to/sarveshupadhyay21/build-a-metadata-viewer-in-react-audio-video-image-pdf-ebook-3pan",
+    "title": "Building Accessible React Components with Hooks",
+    "link": "https://dev.to/childrentime/building-accessible-react-components-with-hooks-g9i",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Full-Stack Data Grid App with Next.js, Prisma, and AG Grid",
+    "link": "https://dev.to/malloc72p/building-a-full-stack-data-grid-app-with-nextjs-prisma-and-ag-grid-1abg",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Signals in React(IV): Separating UI Effects and Data Effects with Signals",
+    "link": "https://dev.to/luciano0322/signals-in-reactiv-separating-ui-effects-and-data-effects-with-signals-ea8",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Contact Form in Next.js (Without Building a Backend)",
+    "link": "https://dev.to/longn561/how-to-build-a-contact-form-in-nextjs-without-building-a-backend-3d74",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+    "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-4np5",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Extended Apollo Cache Persist with Lazy Per-Query Loading",
+    "link": "https://dev.to/abhinay_bathina/why-i-extended-apollo-cache-persist-with-lazy-per-query-loading-4d80",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+    "link": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Config-Driven Resume Template Engine in React",
+    "link": "https://dev.to/thedolceway/building-a-config-driven-resume-template-engine-in-react-30f1",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resend Has a Free API — Send Transactional Emails With React Components (No SMTP, No Templates)",
+    "link": "https://dev.to/0012303/resend-has-a-free-api-send-transactional-emails-with-react-components-no-smtp-no-templates-5be2",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Accessible React Components with Hooks",
+    "link": "https://dev.to/childrentime/building-accessible-react-components-with-hooks-g9i",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Full-Stack Data Grid App with Next.js, Prisma, and AG Grid",
+    "link": "https://dev.to/malloc72p/building-a-full-stack-data-grid-app-with-nextjs-prisma-and-ag-grid-1abg",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Signals in React(IV): Separating UI Effects and Data Effects with Signals",
+    "link": "https://dev.to/luciano0322/signals-in-reactiv-separating-ui-effects-and-data-effects-with-signals-ea8",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Contact Form in Next.js (Without Building a Backend)",
+    "link": "https://dev.to/longn561/how-to-build-a-contact-form-in-nextjs-without-building-a-backend-3d74",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+    "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-4np5",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Extended Apollo Cache Persist with Lazy Per-Query Loading",
+    "link": "https://dev.to/abhinay_bathina/why-i-extended-apollo-cache-persist-with-lazy-per-query-loading-4d80",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+    "link": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Config-Driven Resume Template Engine in React",
+    "link": "https://dev.to/thedolceway/building-a-config-driven-resume-template-engine-in-react-30f1",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resend Has a Free API — Send Transactional Emails With React Components (No SMTP, No Templates)",
+    "link": "https://dev.to/0012303/resend-has-a-free-api-send-transactional-emails-with-react-components-no-smtp-no-templates-5be2",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Accessible React Components with Hooks",
+    "link": "https://dev.to/childrentime/building-accessible-react-components-with-hooks-g9i",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Full-Stack Data Grid App with Next.js, Prisma, and AG Grid",
+    "link": "https://dev.to/malloc72p/building-a-full-stack-data-grid-app-with-nextjs-prisma-and-ag-grid-1abg",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Signals in React(IV): Separating UI Effects and Data Effects with Signals",
+    "link": "https://dev.to/luciano0322/signals-in-reactiv-separating-ui-effects-and-data-effects-with-signals-ea8",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Contact Form in Next.js (Without Building a Backend)",
+    "link": "https://dev.to/longn561/how-to-build-a-contact-form-in-nextjs-without-building-a-backend-3d74",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+    "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-4np5",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Extended Apollo Cache Persist with Lazy Per-Query Loading",
+    "link": "https://dev.to/abhinay_bathina/why-i-extended-apollo-cache-persist-with-lazy-per-query-loading-4d80",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+    "link": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Config-Driven Resume Template Engine in React",
+    "link": "https://dev.to/thedolceway/building-a-config-driven-resume-template-engine-in-react-30f1",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resend Has a Free API — Send Transactional Emails With React Components (No SMTP, No Templates)",
+    "link": "https://dev.to/0012303/resend-has-a-free-api-send-transactional-emails-with-react-components-no-smtp-no-templates-5be2",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Accessible React Components with Hooks",
+    "link": "https://dev.to/childrentime/building-accessible-react-components-with-hooks-g9i",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Full-Stack Data Grid App with Next.js, Prisma, and AG Grid",
+    "link": "https://dev.to/malloc72p/building-a-full-stack-data-grid-app-with-nextjs-prisma-and-ag-grid-1abg",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Signals in React(IV): Separating UI Effects and Data Effects with Signals",
+    "link": "https://dev.to/luciano0322/signals-in-reactiv-separating-ui-effects-and-data-effects-with-signals-ea8",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Contact Form in Next.js (Without Building a Backend)",
+    "link": "https://dev.to/longn561/how-to-build-a-contact-form-in-nextjs-without-building-a-backend-3d74",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+    "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-4np5",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Extended Apollo Cache Persist with Lazy Per-Query Loading",
+    "link": "https://dev.to/abhinay_bathina/why-i-extended-apollo-cache-persist-with-lazy-per-query-loading-4d80",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+    "link": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Config-Driven Resume Template Engine in React",
+    "link": "https://dev.to/thedolceway/building-a-config-driven-resume-template-engine-in-react-30f1",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resend Has a Free API — Send Transactional Emails With React Components (No SMTP, No Templates)",
+    "link": "https://dev.to/0012303/resend-has-a-free-api-send-transactional-emails-with-react-components-no-smtp-no-templates-5be2",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Accessible React Components with Hooks",
+    "link": "https://dev.to/childrentime/building-accessible-react-components-with-hooks-g9i",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Full-Stack Data Grid App with Next.js, Prisma, and AG Grid",
+    "link": "https://dev.to/malloc72p/building-a-full-stack-data-grid-app-with-nextjs-prisma-and-ag-grid-1abg",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Signals in React(IV): Separating UI Effects and Data Effects with Signals",
+    "link": "https://dev.to/luciano0322/signals-in-reactiv-separating-ui-effects-and-data-effects-with-signals-ea8",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Contact Form in Next.js (Without Building a Backend)",
+    "link": "https://dev.to/longn561/how-to-build-a-contact-form-in-nextjs-without-building-a-backend-3d74",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+    "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-4np5",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Extended Apollo Cache Persist with Lazy Per-Query Loading",
+    "link": "https://dev.to/abhinay_bathina/why-i-extended-apollo-cache-persist-with-lazy-per-query-loading-4d80",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free Next.js SaaS boilerplate because I was tired of rebuilding auth and payments from scratch",
+    "link": "https://dev.to/habibjutt/i-built-a-free-nextjs-saas-boilerplate-because-i-was-tired-of-rebuilding-auth-and-payments-from-4k6f",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Config-Driven Resume Template Engine in React",
+    "link": "https://dev.to/thedolceway/building-a-config-driven-resume-template-engine-in-react-30f1",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resend Has a Free API — Send Transactional Emails With React Components (No SMTP, No Templates)",
+    "link": "https://dev.to/0012303/resend-has-a-free-api-send-transactional-emails-with-react-components-no-smtp-no-templates-5be2",
+    "date": "3/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+    "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Drag and Drop Without External Libraries",
-    "link": "https://dev.to/childrentime/react-drag-and-drop-without-external-libraries-1bof",
+    "title": "MCP Apps are hard to test",
+    "link": "https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "ISR vs SSR vs CSR: Performance Lessons from Building a Financial Data App with Next.js 14",
-    "link": "https://dev.to/valuemarkers/isr-vs-ssr-vs-csr-performance-lessons-from-building-a-financial-data-app-with-nextjs-14-3c47",
+    "title": "I got tired of setting up MERN apps… so I built this",
+    "link": "https://dev.to/lazycode/i-got-tired-of-setting-up-mern-apps-so-i-built-this-12kp",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Switched from MobX to easy-model (And Why You Might Too)",
-    "link": "https://dev.to/zyf93/why-i-switched-from-mobx-to-easy-model-and-why-you-might-too-490n",
+    "title": "I created a plugin that simplifies the integration of Google Maps into Vite and React",
+    "link": "https://dev.to/franqsanz/i-created-a-plugin-that-simplifies-the-integration-of-google-maps-into-vite-and-react-1c1l",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "What Makes React a Single Page Application?",
-    "link": "https://dev.to/harini_magesh_fa40041cf8d/what-makes-react-a-single-page-application-38g1",
+    "title": "The UAE Dirham Currency Symbol (U+20C3): Why It Took 18 Years and How to Use It Today",
+    "link": "https://dev.to/pooyagolchian/the-uae-dirham-currency-symbol-u20c3-why-it-took-18-years-and-how-to-use-it-today-5f3h",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "When 4.4MB Is Too Much: Solving the \"Send Everything to Frontend\" Anti-Pattern in React",
-    "link": "https://dev.to/shuicici/when-44mb-is-too-much-solving-the-send-everything-to-frontend-anti-pattern-in-react-4cc6",
+    "title": "Why Your React Scroll is Lagging (and how to fix it with Locomotive v5",
+    "link": "https://dev.to/syedahmedx3/why-your-react-scroll-is-lagging-and-how-to-fix-it-with-locomotive-v5-2dp8",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "How We Built ScholarNet AI: An AI-Powered Study Platform for Students",
-    "link": "https://dev.to/scholarnetai/how-we-built-scholarnet-ai-an-ai-powered-study-platform-for-students-4cfm",
+    "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+    "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Frictionless GPA Calculator: Why Simplicity is Harder Than It Looks",
-    "link": "https://dev.to/getinfotoyou/building-a-frictionless-gpa-calculator-why-simplicity-is-harder-than-it-looks-14bm",
+    "title": "MCP Apps are hard to test",
+    "link": "https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Dark Mode UI Components for SaaS: Button, Input, Card, Badge (Tailwind CSS v4)",
-    "link": "https://dev.to/huangyongshan46a11y/dark-mode-ui-components-for-saas-button-input-card-badge-tailwind-css-v4-1749",
+    "title": "I got tired of setting up MERN apps… so I built this",
+    "link": "https://dev.to/lazycode/i-got-tired-of-setting-up-mern-apps-so-i-built-this-12kp",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "📂 Build a Metadata Viewer in React (Audio, Video, Image, PDF, eBook)",
-    "link": "https://dev.to/sarveshupadhyay21/build-a-metadata-viewer-in-react-audio-video-image-pdf-ebook-3pan",
+    "title": "I created a plugin that simplifies the integration of Google Maps into Vite and React",
+    "link": "https://dev.to/franqsanz/i-created-a-plugin-that-simplifies-the-integration-of-google-maps-into-vite-and-react-1c1l",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Drag and Drop Without External Libraries",
-    "link": "https://dev.to/childrentime/react-drag-and-drop-without-external-libraries-1bof",
+    "title": "The UAE Dirham Currency Symbol (U+20C3): Why It Took 18 Years and How to Use It Today",
+    "link": "https://dev.to/pooyagolchian/the-uae-dirham-currency-symbol-u20c3-why-it-took-18-years-and-how-to-use-it-today-5f3h",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "ISR vs SSR vs CSR: Performance Lessons from Building a Financial Data App with Next.js 14",
-    "link": "https://dev.to/valuemarkers/isr-vs-ssr-vs-csr-performance-lessons-from-building-a-financial-data-app-with-nextjs-14-3c47",
+    "title": "Why Your React Scroll is Lagging (and how to fix it with Locomotive v5",
+    "link": "https://dev.to/syedahmedx3/why-your-react-scroll-is-lagging-and-how-to-fix-it-with-locomotive-v5-2dp8",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Switched from MobX to easy-model (And Why You Might Too)",
-    "link": "https://dev.to/zyf93/why-i-switched-from-mobx-to-easy-model-and-why-you-might-too-490n",
+    "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+    "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "What Makes React a Single Page Application?",
-    "link": "https://dev.to/harini_magesh_fa40041cf8d/what-makes-react-a-single-page-application-38g1",
+    "title": "MCP Apps are hard to test",
+    "link": "https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "When 4.4MB Is Too Much: Solving the \"Send Everything to Frontend\" Anti-Pattern in React",
-    "link": "https://dev.to/shuicici/when-44mb-is-too-much-solving-the-send-everything-to-frontend-anti-pattern-in-react-4cc6",
+    "title": "I got tired of setting up MERN apps… so I built this",
+    "link": "https://dev.to/lazycode/i-got-tired-of-setting-up-mern-apps-so-i-built-this-12kp",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "How We Built ScholarNet AI: An AI-Powered Study Platform for Students",
-    "link": "https://dev.to/scholarnetai/how-we-built-scholarnet-ai-an-ai-powered-study-platform-for-students-4cfm",
+    "title": "I created a plugin that simplifies the integration of Google Maps into Vite and React",
+    "link": "https://dev.to/franqsanz/i-created-a-plugin-that-simplifies-the-integration-of-google-maps-into-vite-and-react-1c1l",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Frictionless GPA Calculator: Why Simplicity is Harder Than It Looks",
-    "link": "https://dev.to/getinfotoyou/building-a-frictionless-gpa-calculator-why-simplicity-is-harder-than-it-looks-14bm",
+    "title": "The UAE Dirham Currency Symbol (U+20C3): Why It Took 18 Years and How to Use It Today",
+    "link": "https://dev.to/pooyagolchian/the-uae-dirham-currency-symbol-u20c3-why-it-took-18-years-and-how-to-use-it-today-5f3h",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Dark Mode UI Components for SaaS: Button, Input, Card, Badge (Tailwind CSS v4)",
-    "link": "https://dev.to/huangyongshan46a11y/dark-mode-ui-components-for-saas-button-input-card-badge-tailwind-css-v4-1749",
+    "title": "Why Your React Scroll is Lagging (and how to fix it with Locomotive v5",
+    "link": "https://dev.to/syedahmedx3/why-your-react-scroll-is-lagging-and-how-to-fix-it-with-locomotive-v5-2dp8",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "📂 Build a Metadata Viewer in React (Audio, Video, Image, PDF, eBook)",
-    "link": "https://dev.to/sarveshupadhyay21/build-a-metadata-viewer-in-react-audio-video-image-pdf-ebook-3pan",
+    "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+    "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Drag and Drop Without External Libraries",
-    "link": "https://dev.to/childrentime/react-drag-and-drop-without-external-libraries-1bof",
+    "title": "MCP Apps are hard to test",
+    "link": "https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "ISR vs SSR vs CSR: Performance Lessons from Building a Financial Data App with Next.js 14",
-    "link": "https://dev.to/valuemarkers/isr-vs-ssr-vs-csr-performance-lessons-from-building-a-financial-data-app-with-nextjs-14-3c47",
+    "title": "I got tired of setting up MERN apps… so I built this",
+    "link": "https://dev.to/lazycode/i-got-tired-of-setting-up-mern-apps-so-i-built-this-12kp",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Switched from MobX to easy-model (And Why You Might Too)",
-    "link": "https://dev.to/zyf93/why-i-switched-from-mobx-to-easy-model-and-why-you-might-too-490n",
+    "title": "I created a plugin that simplifies the integration of Google Maps into Vite and React",
+    "link": "https://dev.to/franqsanz/i-created-a-plugin-that-simplifies-the-integration-of-google-maps-into-vite-and-react-1c1l",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "What Makes React a Single Page Application?",
-    "link": "https://dev.to/harini_magesh_fa40041cf8d/what-makes-react-a-single-page-application-38g1",
+    "title": "The UAE Dirham Currency Symbol (U+20C3): Why It Took 18 Years and How to Use It Today",
+    "link": "https://dev.to/pooyagolchian/the-uae-dirham-currency-symbol-u20c3-why-it-took-18-years-and-how-to-use-it-today-5f3h",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "When 4.4MB Is Too Much: Solving the \"Send Everything to Frontend\" Anti-Pattern in React",
-    "link": "https://dev.to/shuicici/when-44mb-is-too-much-solving-the-send-everything-to-frontend-anti-pattern-in-react-4cc6",
+    "title": "Why Your React Scroll is Lagging (and how to fix it with Locomotive v5",
+    "link": "https://dev.to/syedahmedx3/why-your-react-scroll-is-lagging-and-how-to-fix-it-with-locomotive-v5-2dp8",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "How We Built ScholarNet AI: An AI-Powered Study Platform for Students",
-    "link": "https://dev.to/scholarnetai/how-we-built-scholarnet-ai-an-ai-powered-study-platform-for-students-4cfm",
+    "title": "Code Your Own Virtual DOM in 100 Lines of JavaScript",
+    "link": "https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Frictionless GPA Calculator: Why Simplicity is Harder Than It Looks",
-    "link": "https://dev.to/getinfotoyou/building-a-frictionless-gpa-calculator-why-simplicity-is-harder-than-it-looks-14bm",
+    "title": "MCP Apps are hard to test",
+    "link": "https://dev.to/abewheeler/mcp-apps-are-hard-to-test-52d5",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Dark Mode UI Components for SaaS: Button, Input, Card, Badge (Tailwind CSS v4)",
-    "link": "https://dev.to/huangyongshan46a11y/dark-mode-ui-components-for-saas-button-input-card-badge-tailwind-css-v4-1749",
+    "title": "I got tired of setting up MERN apps… so I built this",
+    "link": "https://dev.to/lazycode/i-got-tired-of-setting-up-mern-apps-so-i-built-this-12kp",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "📂 Build a Metadata Viewer in React (Audio, Video, Image, PDF, eBook)",
-    "link": "https://dev.to/sarveshupadhyay21/build-a-metadata-viewer-in-react-audio-video-image-pdf-ebook-3pan",
+    "title": "I created a plugin that simplifies the integration of Google Maps into Vite and React",
+    "link": "https://dev.to/franqsanz/i-created-a-plugin-that-simplifies-the-integration-of-google-maps-into-vite-and-react-1c1l",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Drag and Drop Without External Libraries",
-    "link": "https://dev.to/childrentime/react-drag-and-drop-without-external-libraries-1bof",
+    "title": "The UAE Dirham Currency Symbol (U+20C3): Why It Took 18 Years and How to Use It Today",
+    "link": "https://dev.to/pooyagolchian/the-uae-dirham-currency-symbol-u20c3-why-it-took-18-years-and-how-to-use-it-today-5f3h",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "ISR vs SSR vs CSR: Performance Lessons from Building a Financial Data App with Next.js 14",
-    "link": "https://dev.to/valuemarkers/isr-vs-ssr-vs-csr-performance-lessons-from-building-a-financial-data-app-with-nextjs-14-3c47",
+    "title": "Why Your React Scroll is Lagging (and how to fix it with Locomotive v5",
+    "link": "https://dev.to/syedahmedx3/why-your-react-scroll-is-lagging-and-how-to-fix-it-with-locomotive-v5-2dp8",
     "date": "3/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Switched from MobX to easy-model (And Why You Might Too)",
-    "link": "https://dev.to/zyf93/why-i-switched-from-mobx-to-easy-model-and-why-you-might-too-490n",
-    "date": "3/25/2026",
-    "site": "dev.to"
+    "title": "Building Dynamic Forms In React And Next.js",
+    "link": "https://www.smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+    "reading_time": "14 min read",
+    "date": "3/10/2026",
+    "site": "smashingmagazine"
   },
   {
-    "title": "What Makes React a Single Page Application?",
-    "link": "https://dev.to/harini_magesh_fa40041cf8d/what-makes-react-a-single-page-application-38g1",
-    "date": "3/25/2026",
-    "site": "dev.to"
+    "title": "Adaptive Video Streaming With Dash.js In React",
+    "link": "https://www.smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+    "reading_time": "9 min read",
+    "date": "3/27/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "When 4.4MB Is Too Much: Solving the \"Send Everything to Frontend\" Anti-Pattern in React",
-    "link": "https://dev.to/shuicici/when-44mb-is-too-much-solving-the-send-everything-to-frontend-anti-pattern-in-react-4cc6",
-    "date": "3/25/2026",
-    "site": "dev.to"
+    "title": "The Forensics Of React Server Components (RSCs)",
+    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
+    "reading_time": "24 min read",
+    "date": "5/9/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "How We Built ScholarNet AI: An AI-Powered Study Platform for Students",
-    "link": "https://dev.to/scholarnetai/how-we-built-scholarnet-ai-an-ai-powered-study-platform-for-students-4cfm",
-    "date": "3/25/2026",
-    "site": "dev.to"
+    "title": "The End Of My Gatsby Journey",
+    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
+    "reading_time": "16 min read",
+    "date": "3/6/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Building a Frictionless GPA Calculator: Why Simplicity is Harder Than It Looks",
-    "link": "https://dev.to/getinfotoyou/building-a-frictionless-gpa-calculator-why-simplicity-is-harder-than-it-looks-14bm",
-    "date": "3/25/2026",
-    "site": "dev.to"
+    "title": "Making Sense Of “Senseless” JavaScript Features",
+    "link": "https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
+    "reading_time": "14 min read",
+    "date": "12/28/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Dark Mode UI Components for SaaS: Button, Input, Card, Badge (Tailwind CSS v4)",
-    "link": "https://dev.to/huangyongshan46a11y/dark-mode-ui-components-for-saas-button-input-card-badge-tailwind-css-v4-1749",
-    "date": "3/25/2026",
-    "site": "dev.to"
+    "title": "An Introduction To Full Stack Composability",
+    "link": "https://www.smashingmagazine.com/2023/11/introduction-full-stack-composability/",
+    "reading_time": "9 min read",
+    "date": "11/23/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "📂 Build a Metadata Viewer in React (Audio, Video, Image, PDF, eBook)",
-    "link": "https://dev.to/sarveshupadhyay21/build-a-metadata-viewer-in-react-audio-video-image-pdf-ebook-3pan",
-    "date": "3/25/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 2)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
+    "reading_time": "23 min read",
+    "date": "10/16/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "React Drag and Drop Without External Libraries",
-    "link": "https://dev.to/childrentime/react-drag-and-drop-without-external-libraries-1bof",
-    "date": "3/25/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 1)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
+    "reading_time": "17 min read",
+    "date": "10/9/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "ISR vs SSR vs CSR: Performance Lessons from Building a Financial Data App with Next.js 14",
-    "link": "https://dev.to/valuemarkers/isr-vs-ssr-vs-csr-performance-lessons-from-building-a-financial-data-app-with-nextjs-14-3c47",
-    "date": "3/25/2026",
-    "site": "dev.to"
+    "title": "Meet Codux: The React Visual Editor That Improves Developer Experience",
+    "link": "https://www.smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
+    "reading_time": "7 min read",
+    "date": "6/15/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Why I Switched from MobX to easy-model (And Why You Might Too)",
-    "link": "https://dev.to/zyf93/why-i-switched-from-mobx-to-easy-model-and-why-you-might-too-490n",
-    "date": "3/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Makes React a Single Page Application?",
-    "link": "https://dev.to/harini_magesh_fa40041cf8d/what-makes-react-a-single-page-application-38g1",
-    "date": "3/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When 4.4MB Is Too Much: Solving the \"Send Everything to Frontend\" Anti-Pattern in React",
-    "link": "https://dev.to/shuicici/when-44mb-is-too-much-solving-the-send-everything-to-frontend-anti-pattern-in-react-4cc6",
-    "date": "3/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built ScholarNet AI: An AI-Powered Study Platform for Students",
-    "link": "https://dev.to/scholarnetai/how-we-built-scholarnet-ai-an-ai-powered-study-platform-for-students-4cfm",
-    "date": "3/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Frictionless GPA Calculator: Why Simplicity is Harder Than It Looks",
-    "link": "https://dev.to/getinfotoyou/building-a-frictionless-gpa-calculator-why-simplicity-is-harder-than-it-looks-14bm",
-    "date": "3/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dark Mode UI Components for SaaS: Button, Input, Card, Badge (Tailwind CSS v4)",
-    "link": "https://dev.to/huangyongshan46a11y/dark-mode-ui-components-for-saas-button-input-card-badge-tailwind-css-v4-1749",
-    "date": "3/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable",
-    "link": "https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop letting your AI repeat mistakes: I built an open-source MCP observability dashboard (React 19 + ECharts) 🚀",
-    "link": "https://dev.to/wentao_long_b5409a04bcfb5/stop-letting-your-ai-repeat-mistakes-i-built-an-open-source-mcp-observability-dashboard-react-19-5674",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Common TypeScript Mistakes in React (And How to Fix Them)",
-    "link": "https://dev.to/benriemer/5-common-typescript-mistakes-in-react-and-how-to-fix-them-52no",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of AG Grid's paywall, so I built a free alternative",
-    "link": "https://dev.to/rajugundu/i-got-tired-of-ag-grids-paywall-so-i-built-a-free-alternative-4dbe",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 19 internals",
-    "link": "https://dev.to/vishalxapp/react-19-internals-15nm",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "useMediaQuery: Complete Guide to Responsive Design in React",
-    "link": "https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable",
-    "link": "https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop letting your AI repeat mistakes: I built an open-source MCP observability dashboard (React 19 + ECharts) 🚀",
-    "link": "https://dev.to/wentao_long_b5409a04bcfb5/stop-letting-your-ai-repeat-mistakes-i-built-an-open-source-mcp-observability-dashboard-react-19-5674",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Common TypeScript Mistakes in React (And How to Fix Them)",
-    "link": "https://dev.to/benriemer/5-common-typescript-mistakes-in-react-and-how-to-fix-them-52no",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of AG Grid's paywall, so I built a free alternative",
-    "link": "https://dev.to/rajugundu/i-got-tired-of-ag-grids-paywall-so-i-built-a-free-alternative-4dbe",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 19 internals",
-    "link": "https://dev.to/vishalxapp/react-19-internals-15nm",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "useMediaQuery: Complete Guide to Responsive Design in React",
-    "link": "https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable",
-    "link": "https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop letting your AI repeat mistakes: I built an open-source MCP observability dashboard (React 19 + ECharts) 🚀",
-    "link": "https://dev.to/wentao_long_b5409a04bcfb5/stop-letting-your-ai-repeat-mistakes-i-built-an-open-source-mcp-observability-dashboard-react-19-5674",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Common TypeScript Mistakes in React (And How to Fix Them)",
-    "link": "https://dev.to/benriemer/5-common-typescript-mistakes-in-react-and-how-to-fix-them-52no",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of AG Grid's paywall, so I built a free alternative",
-    "link": "https://dev.to/rajugundu/i-got-tired-of-ag-grids-paywall-so-i-built-a-free-alternative-4dbe",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 19 internals",
-    "link": "https://dev.to/vishalxapp/react-19-internals-15nm",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "useMediaQuery: Complete Guide to Responsive Design in React",
-    "link": "https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable",
-    "link": "https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop letting your AI repeat mistakes: I built an open-source MCP observability dashboard (React 19 + ECharts) 🚀",
-    "link": "https://dev.to/wentao_long_b5409a04bcfb5/stop-letting-your-ai-repeat-mistakes-i-built-an-open-source-mcp-observability-dashboard-react-19-5674",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Common TypeScript Mistakes in React (And How to Fix Them)",
-    "link": "https://dev.to/benriemer/5-common-typescript-mistakes-in-react-and-how-to-fix-them-52no",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of AG Grid's paywall, so I built a free alternative",
-    "link": "https://dev.to/rajugundu/i-got-tired-of-ag-grids-paywall-so-i-built-a-free-alternative-4dbe",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 19 internals",
-    "link": "https://dev.to/vishalxapp/react-19-internals-15nm",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "useMediaQuery: Complete Guide to Responsive Design in React",
-    "link": "https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable",
-    "link": "https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop letting your AI repeat mistakes: I built an open-source MCP observability dashboard (React 19 + ECharts) 🚀",
-    "link": "https://dev.to/wentao_long_b5409a04bcfb5/stop-letting-your-ai-repeat-mistakes-i-built-an-open-source-mcp-observability-dashboard-react-19-5674",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 Common TypeScript Mistakes in React (And How to Fix Them)",
-    "link": "https://dev.to/benriemer/5-common-typescript-mistakes-in-react-and-how-to-fix-them-52no",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of AG Grid's paywall, so I built a free alternative",
-    "link": "https://dev.to/rajugundu/i-got-tired-of-ag-grids-paywall-so-i-built-a-free-alternative-4dbe",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 19 internals",
-    "link": "https://dev.to/vishalxapp/react-19-internals-15nm",
-    "date": "3/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "useMediaQuery: Complete Guide to Responsive Design in React",
-    "link": "https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k",
-    "date": "3/24/2026",
-    "site": "dev.to"
+    "title": "A Guide To Redux Toolkit With TypeScript",
+    "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
+    "reading_time": "16 min read",
+    "date": "5/10/2023",
+    "site": "smashingmagazine"
   },
   {
     "title": "The Safest Way To Hide Your API Keys When Using React",
@@ -487,7 +557,7 @@
   {
     "title": "The Key To Good Component Design Is Selfishness",
     "link": "https://www.smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "1/20/2023",
     "site": "smashingmagazine"
   },
@@ -571,7 +641,7 @@
   {
     "title": "Building A Web Code Editor",
     "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "1/13/2022",
     "site": "smashingmagazine"
   },
@@ -655,7 +725,7 @@
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
