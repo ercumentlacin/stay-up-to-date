@@ -1,61 +1,391 @@
 [
   {
-    "title": "Node.js Structured Logging in Production: Pino, Correlation IDs, and Log Aggregation",
-    "link": "https://dev.to/axiom_agent/nodejs-structured-logging-in-production-pino-correlation-ids-and-log-aggregation-262m",
+    "title": "How to Implement Graceful Shutdown in Node.js APIs (Zero Dropped Requests on Deploy)",
+    "link": "https://dev.to/1xapi/how-to-implement-graceful-shutdown-in-nodejs-apis-zero-dropped-requests-on-deploy-11a3",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prometheus Metrics for Your Node.js Circuit Breakers (opossum-prom)",
+    "link": "https://dev.to/axiom_agent/prometheus-metrics-for-your-nodejs-circuit-breakers-opossum-prom-3b31",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js vs Python for AI-First Backends: The 2026 Decision Guide",
+    "link": "https://dev.to/krunal_groovy/nodejs-vs-python-for-ai-first-backends-the-2026-decision-guide-1neg",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeForge ⚡ — Stop Writing Boilerplate. Generate a Full Node.js/Express Backend in Seconds",
+    "link": "https://dev.to/sahan_weerasinghe/nodeforge-stop-writing-boilerplate-generate-a-full-nodejsexpress-backend-in-seconds-2kcf",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Track Every Request Across Node.js Services with pino-correlation-id",
+    "link": "https://dev.to/axiom_agent/track-every-request-across-nodejs-services-with-pino-correlation-id-kil",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Implement Graceful Shutdown in Node.js APIs (Zero Dropped Requests on Deploy)",
+    "link": "https://dev.to/1xapi/how-to-implement-graceful-shutdown-in-nodejs-apis-zero-dropped-requests-on-deploy-11a3",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prometheus Metrics for Your Node.js Circuit Breakers (opossum-prom)",
+    "link": "https://dev.to/axiom_agent/prometheus-metrics-for-your-nodejs-circuit-breakers-opossum-prom-3b31",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js vs Python for AI-First Backends: The 2026 Decision Guide",
+    "link": "https://dev.to/krunal_groovy/nodejs-vs-python-for-ai-first-backends-the-2026-decision-guide-1neg",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeForge ⚡ — Stop Writing Boilerplate. Generate a Full Node.js/Express Backend in Seconds",
+    "link": "https://dev.to/sahan_weerasinghe/nodeforge-stop-writing-boilerplate-generate-a-full-nodejsexpress-backend-in-seconds-2kcf",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Track Every Request Across Node.js Services with pino-correlation-id",
+    "link": "https://dev.to/axiom_agent/track-every-request-across-nodejs-services-with-pino-correlation-id-kil",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Implement Graceful Shutdown in Node.js APIs (Zero Dropped Requests on Deploy)",
+    "link": "https://dev.to/1xapi/how-to-implement-graceful-shutdown-in-nodejs-apis-zero-dropped-requests-on-deploy-11a3",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prometheus Metrics for Your Node.js Circuit Breakers (opossum-prom)",
+    "link": "https://dev.to/axiom_agent/prometheus-metrics-for-your-nodejs-circuit-breakers-opossum-prom-3b31",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js vs Python for AI-First Backends: The 2026 Decision Guide",
+    "link": "https://dev.to/krunal_groovy/nodejs-vs-python-for-ai-first-backends-the-2026-decision-guide-1neg",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeForge ⚡ — Stop Writing Boilerplate. Generate a Full Node.js/Express Backend in Seconds",
+    "link": "https://dev.to/sahan_weerasinghe/nodeforge-stop-writing-boilerplate-generate-a-full-nodejsexpress-backend-in-seconds-2kcf",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Track Every Request Across Node.js Services with pino-correlation-id",
+    "link": "https://dev.to/axiom_agent/track-every-request-across-nodejs-services-with-pino-correlation-id-kil",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Implement Graceful Shutdown in Node.js APIs (Zero Dropped Requests on Deploy)",
+    "link": "https://dev.to/1xapi/how-to-implement-graceful-shutdown-in-nodejs-apis-zero-dropped-requests-on-deploy-11a3",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prometheus Metrics for Your Node.js Circuit Breakers (opossum-prom)",
+    "link": "https://dev.to/axiom_agent/prometheus-metrics-for-your-nodejs-circuit-breakers-opossum-prom-3b31",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js vs Python for AI-First Backends: The 2026 Decision Guide",
+    "link": "https://dev.to/krunal_groovy/nodejs-vs-python-for-ai-first-backends-the-2026-decision-guide-1neg",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeForge ⚡ — Stop Writing Boilerplate. Generate a Full Node.js/Express Backend in Seconds",
+    "link": "https://dev.to/sahan_weerasinghe/nodeforge-stop-writing-boilerplate-generate-a-full-nodejsexpress-backend-in-seconds-2kcf",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Track Every Request Across Node.js Services with pino-correlation-id",
+    "link": "https://dev.to/axiom_agent/track-every-request-across-nodejs-services-with-pino-correlation-id-kil",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Implement Graceful Shutdown in Node.js APIs (Zero Dropped Requests on Deploy)",
+    "link": "https://dev.to/1xapi/how-to-implement-graceful-shutdown-in-nodejs-apis-zero-dropped-requests-on-deploy-11a3",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prometheus Metrics for Your Node.js Circuit Breakers (opossum-prom)",
+    "link": "https://dev.to/axiom_agent/prometheus-metrics-for-your-nodejs-circuit-breakers-opossum-prom-3b31",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js vs Python for AI-First Backends: The 2026 Decision Guide",
+    "link": "https://dev.to/krunal_groovy/nodejs-vs-python-for-ai-first-backends-the-2026-decision-guide-1neg",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "NodeForge ⚡ — Stop Writing Boilerplate. Generate a Full Node.js/Express Backend in Seconds",
+    "link": "https://dev.to/sahan_weerasinghe/nodeforge-stop-writing-boilerplate-generate-a-full-nodejsexpress-backend-in-seconds-2kcf",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Track Every Request Across Node.js Services with pino-correlation-id",
+    "link": "https://dev.to/axiom_agent/track-every-request-across-nodejs-services-with-pino-correlation-id-kil",
+    "date": "3/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
+    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-4odb",
     "date": "3/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Real-Time Chat App From Scratch — Then Realized That Wasn't Enough",
-    "link": "https://dev.to/zeroaninea_8bec34a4e7d029/i-built-a-real-time-chat-app-from-scratch-then-realized-that-wasnt-enough-5515",
+    "title": "How to Build Multi-Agent AI Systems with Node.js (2026 Guide)",
+    "link": "https://dev.to/abdullah_faheem_65d133445/how-to-build-multi-agent-ai-systems-with-nodejs-2026-guide-2ebh",
     "date": "3/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Structured Logging in Production: Pino, Correlation IDs, and Log Aggregation",
-    "link": "https://dev.to/axiom_agent/nodejs-structured-logging-in-production-pino-correlation-ids-and-log-aggregation-262m",
+    "title": "Why I Switched from Node.js to Bun for AI Backends (Benchmarks Inside)",
+    "link": "https://dev.to/leandromarcosmoreira/why-i-switched-from-nodejs-to-bun-for-ai-backends-benchmarks-inside-12fb",
     "date": "3/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Real-Time Chat App From Scratch — Then Realized That Wasn't Enough",
-    "link": "https://dev.to/zeroaninea_8bec34a4e7d029/i-built-a-real-time-chat-app-from-scratch-then-realized-that-wasnt-enough-5515",
+    "title": "Safaricom's sandbox STK Query API returns FAILED for successful payments. Here's what's happening.",
+    "link": "https://dev.to/ronnyabuto/safaricoms-sandbox-stk-query-api-returns-failed-for-successful-payments-heres-whats-happening-dio",
     "date": "3/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Structured Logging in Production: Pino, Correlation IDs, and Log Aggregation",
-    "link": "https://dev.to/axiom_agent/nodejs-structured-logging-in-production-pino-correlation-ids-and-log-aggregation-262m",
+    "title": "How I Built a TikTok Analytics Tool Without Their API",
+    "link": "https://dev.to/yifanyifan897645/how-i-built-a-tiktok-analytics-tool-without-their-api-4f28",
     "date": "3/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Real-Time Chat App From Scratch — Then Realized That Wasn't Enough",
-    "link": "https://dev.to/zeroaninea_8bec34a4e7d029/i-built-a-real-time-chat-app-from-scratch-then-realized-that-wasnt-enough-5515",
+    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
+    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-cg6",
     "date": "3/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Structured Logging in Production: Pino, Correlation IDs, and Log Aggregation",
-    "link": "https://dev.to/axiom_agent/nodejs-structured-logging-in-production-pino-correlation-ids-and-log-aggregation-262m",
+    "title": "Your Node.js App Uses 1,000,000x More RAM Than Voyager 1. Fix It.",
+    "link": "https://dev.to/alanwest/your-nodejs-app-uses-1000000x-more-ram-than-voyager-1-fix-it-4hd3",
     "date": "3/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Real-Time Chat App From Scratch — Then Realized That Wasn't Enough",
-    "link": "https://dev.to/zeroaninea_8bec34a4e7d029/i-built-a-real-time-chat-app-from-scratch-then-realized-that-wasnt-enough-5515",
+    "title": "Construindo minha primeira CLI com Node.js (consumindo a API do GitHub)",
+    "link": "https://dev.to/mffdeo/construindo-minha-primeira-cli-com-nodejs-consumindo-a-api-do-github-4m41",
     "date": "3/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Structured Logging in Production: Pino, Correlation IDs, and Log Aggregation",
-    "link": "https://dev.to/axiom_agent/nodejs-structured-logging-in-production-pino-correlation-ids-and-log-aggregation-262m",
+    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
+    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-4odb",
     "date": "3/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Real-Time Chat App From Scratch — Then Realized That Wasn't Enough",
-    "link": "https://dev.to/zeroaninea_8bec34a4e7d029/i-built-a-real-time-chat-app-from-scratch-then-realized-that-wasnt-enough-5515",
+    "title": "How to Build Multi-Agent AI Systems with Node.js (2026 Guide)",
+    "link": "https://dev.to/abdullah_faheem_65d133445/how-to-build-multi-agent-ai-systems-with-nodejs-2026-guide-2ebh",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Switched from Node.js to Bun for AI Backends (Benchmarks Inside)",
+    "link": "https://dev.to/leandromarcosmoreira/why-i-switched-from-nodejs-to-bun-for-ai-backends-benchmarks-inside-12fb",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Safaricom's sandbox STK Query API returns FAILED for successful payments. Here's what's happening.",
+    "link": "https://dev.to/ronnyabuto/safaricoms-sandbox-stk-query-api-returns-failed-for-successful-payments-heres-whats-happening-dio",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a TikTok Analytics Tool Without Their API",
+    "link": "https://dev.to/yifanyifan897645/how-i-built-a-tiktok-analytics-tool-without-their-api-4f28",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
+    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-cg6",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Node.js App Uses 1,000,000x More RAM Than Voyager 1. Fix It.",
+    "link": "https://dev.to/alanwest/your-nodejs-app-uses-1000000x-more-ram-than-voyager-1-fix-it-4hd3",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Construindo minha primeira CLI com Node.js (consumindo a API do GitHub)",
+    "link": "https://dev.to/mffdeo/construindo-minha-primeira-cli-com-nodejs-consumindo-a-api-do-github-4m41",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
+    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-4odb",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build Multi-Agent AI Systems with Node.js (2026 Guide)",
+    "link": "https://dev.to/abdullah_faheem_65d133445/how-to-build-multi-agent-ai-systems-with-nodejs-2026-guide-2ebh",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Switched from Node.js to Bun for AI Backends (Benchmarks Inside)",
+    "link": "https://dev.to/leandromarcosmoreira/why-i-switched-from-nodejs-to-bun-for-ai-backends-benchmarks-inside-12fb",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Safaricom's sandbox STK Query API returns FAILED for successful payments. Here's what's happening.",
+    "link": "https://dev.to/ronnyabuto/safaricoms-sandbox-stk-query-api-returns-failed-for-successful-payments-heres-whats-happening-dio",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a TikTok Analytics Tool Without Their API",
+    "link": "https://dev.to/yifanyifan897645/how-i-built-a-tiktok-analytics-tool-without-their-api-4f28",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
+    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-cg6",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Node.js App Uses 1,000,000x More RAM Than Voyager 1. Fix It.",
+    "link": "https://dev.to/alanwest/your-nodejs-app-uses-1000000x-more-ram-than-voyager-1-fix-it-4hd3",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Construindo minha primeira CLI com Node.js (consumindo a API do GitHub)",
+    "link": "https://dev.to/mffdeo/construindo-minha-primeira-cli-com-nodejs-consumindo-a-api-do-github-4m41",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
+    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-4odb",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build Multi-Agent AI Systems with Node.js (2026 Guide)",
+    "link": "https://dev.to/abdullah_faheem_65d133445/how-to-build-multi-agent-ai-systems-with-nodejs-2026-guide-2ebh",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Switched from Node.js to Bun for AI Backends (Benchmarks Inside)",
+    "link": "https://dev.to/leandromarcosmoreira/why-i-switched-from-nodejs-to-bun-for-ai-backends-benchmarks-inside-12fb",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Safaricom's sandbox STK Query API returns FAILED for successful payments. Here's what's happening.",
+    "link": "https://dev.to/ronnyabuto/safaricoms-sandbox-stk-query-api-returns-failed-for-successful-payments-heres-whats-happening-dio",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a TikTok Analytics Tool Without Their API",
+    "link": "https://dev.to/yifanyifan897645/how-i-built-a-tiktok-analytics-tool-without-their-api-4f28",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
+    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-cg6",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Node.js App Uses 1,000,000x More RAM Than Voyager 1. Fix It.",
+    "link": "https://dev.to/alanwest/your-nodejs-app-uses-1000000x-more-ram-than-voyager-1-fix-it-4hd3",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Construindo minha primeira CLI com Node.js (consumindo a API do GitHub)",
+    "link": "https://dev.to/mffdeo/construindo-minha-primeira-cli-com-nodejs-consumindo-a-api-do-github-4m41",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
+    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-4odb",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build Multi-Agent AI Systems with Node.js (2026 Guide)",
+    "link": "https://dev.to/abdullah_faheem_65d133445/how-to-build-multi-agent-ai-systems-with-nodejs-2026-guide-2ebh",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Switched from Node.js to Bun for AI Backends (Benchmarks Inside)",
+    "link": "https://dev.to/leandromarcosmoreira/why-i-switched-from-nodejs-to-bun-for-ai-backends-benchmarks-inside-12fb",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Safaricom's sandbox STK Query API returns FAILED for successful payments. Here's what's happening.",
+    "link": "https://dev.to/ronnyabuto/safaricoms-sandbox-stk-query-api-returns-failed-for-successful-payments-heres-whats-happening-dio",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a TikTok Analytics Tool Without Their API",
+    "link": "https://dev.to/yifanyifan897645/how-i-built-a-tiktok-analytics-tool-without-their-api-4f28",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
+    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-cg6",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Node.js App Uses 1,000,000x More RAM Than Voyager 1. Fix It.",
+    "link": "https://dev.to/alanwest/your-nodejs-app-uses-1000000x-more-ram-than-voyager-1-fix-it-4hd3",
+    "date": "3/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Construindo minha primeira CLI com Node.js (consumindo a API do GitHub)",
+    "link": "https://dev.to/mffdeo/construindo-minha-primeira-cli-com-nodejs-consumindo-a-api-do-github-4m41",
     "date": "3/30/2026",
     "site": "dev.to"
   },
@@ -72,62 +402,14 @@
     "site": "dev.to"
   },
   {
-    "title": "How to Accept USDC Payments in Node.js Using Web3indo (Stripe-Style Crypto Checkout)",
-    "link": "https://dev.to/masud_suhandi_677020c7dab/how-to-accept-usdc-payments-in-nodejs-using-web3indo-stripe-style-crypto-checkout-3mhn",
+    "title": "Every backend developer has this headache 😩",
+    "link": "https://dev.to/poojan69/every-backend-developer-has-this-headache-1983",
     "date": "3/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "Self-hosting UK address lookup without paying per-query fees",
-    "link": "https://dev.to/thedavidgilbert/self-hosting-uk-address-lookup-without-paying-per-query-fees-3001",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Secret Management in Production: Vault, AWS Secrets Manager, and Zero-Leakage Patterns",
-    "link": "https://dev.to/axiom_agent/nodejs-secret-management-in-production-vault-aws-secrets-manager-and-zero-leakage-patterns-21a6",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "genkode — Random ID & String Generator for Node.js",
-    "link": "https://dev.to/sammitpal/genkode-random-id-string-generator-for-nodejs-1nb6",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of janky nodemailer mocks on every project",
-    "link": "https://dev.to/impruthvi13/i-got-tired-of-janky-nodemailer-mocks-on-every-project-369l",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Auto-Generate PDF Invoices in Your SaaS App with One API Call",
-    "link": "https://dev.to/hichem_bed_46e4c23e87b378/auto-generate-pdf-invoices-in-your-saas-app-with-one-api-call-2o8i",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Set Up Nginx Reverse Proxy for Next.js with a BasePath Under /market Without Causing Redirect Loops or 404s When Sharing Port 80 with Another Site?",
-    "link": "https://dev.to/james_jhon/how-to-set-up-nginx-reverse-proxy-for-nextjs-with-a-basepath-under-market-without-causing-g69",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Scan File Uploads in Express",
-    "link": "https://dev.to/sonotommy/how-to-scan-file-uploads-in-express-1g9o",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Remove Examples from Swagger for API Gateway",
-    "link": "https://dev.to/segur/remove-examples-from-swagger-for-api-gateway-5adk",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a pre-push git hook that catches leaked secrets before they hit GitHub",
-    "link": "https://dev.to/pmaind/i-built-a-pre-push-git-hook-that-catches-leaked-secrets-before-they-hit-github-2n08",
+    "title": "colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos",
+    "link": "https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p",
     "date": "3/29/2026",
     "site": "dev.to"
   },
@@ -144,62 +426,14 @@
     "site": "dev.to"
   },
   {
-    "title": "How to Accept USDC Payments in Node.js Using Web3indo (Stripe-Style Crypto Checkout)",
-    "link": "https://dev.to/masud_suhandi_677020c7dab/how-to-accept-usdc-payments-in-nodejs-using-web3indo-stripe-style-crypto-checkout-3mhn",
+    "title": "Every backend developer has this headache 😩",
+    "link": "https://dev.to/poojan69/every-backend-developer-has-this-headache-1983",
     "date": "3/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "Self-hosting UK address lookup without paying per-query fees",
-    "link": "https://dev.to/thedavidgilbert/self-hosting-uk-address-lookup-without-paying-per-query-fees-3001",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Secret Management in Production: Vault, AWS Secrets Manager, and Zero-Leakage Patterns",
-    "link": "https://dev.to/axiom_agent/nodejs-secret-management-in-production-vault-aws-secrets-manager-and-zero-leakage-patterns-21a6",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "genkode — Random ID & String Generator for Node.js",
-    "link": "https://dev.to/sammitpal/genkode-random-id-string-generator-for-nodejs-1nb6",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of janky nodemailer mocks on every project",
-    "link": "https://dev.to/impruthvi13/i-got-tired-of-janky-nodemailer-mocks-on-every-project-369l",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Auto-Generate PDF Invoices in Your SaaS App with One API Call",
-    "link": "https://dev.to/hichem_bed_46e4c23e87b378/auto-generate-pdf-invoices-in-your-saas-app-with-one-api-call-2o8i",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Set Up Nginx Reverse Proxy for Next.js with a BasePath Under /market Without Causing Redirect Loops or 404s When Sharing Port 80 with Another Site?",
-    "link": "https://dev.to/james_jhon/how-to-set-up-nginx-reverse-proxy-for-nextjs-with-a-basepath-under-market-without-causing-g69",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Scan File Uploads in Express",
-    "link": "https://dev.to/sonotommy/how-to-scan-file-uploads-in-express-1g9o",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Remove Examples from Swagger for API Gateway",
-    "link": "https://dev.to/segur/remove-examples-from-swagger-for-api-gateway-5adk",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a pre-push git hook that catches leaked secrets before they hit GitHub",
-    "link": "https://dev.to/pmaind/i-built-a-pre-push-git-hook-that-catches-leaked-secrets-before-they-hit-github-2n08",
+    "title": "colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos",
+    "link": "https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p",
     "date": "3/29/2026",
     "site": "dev.to"
   },
@@ -213,240 +447,6 @@
     "title": "colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos",
     "link": "https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p",
     "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Accept USDC Payments in Node.js Using Web3indo (Stripe-Style Crypto Checkout)",
-    "link": "https://dev.to/masud_suhandi_677020c7dab/how-to-accept-usdc-payments-in-nodejs-using-web3indo-stripe-style-crypto-checkout-3mhn",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Self-hosting UK address lookup without paying per-query fees",
-    "link": "https://dev.to/thedavidgilbert/self-hosting-uk-address-lookup-without-paying-per-query-fees-3001",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Secret Management in Production: Vault, AWS Secrets Manager, and Zero-Leakage Patterns",
-    "link": "https://dev.to/axiom_agent/nodejs-secret-management-in-production-vault-aws-secrets-manager-and-zero-leakage-patterns-21a6",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "genkode — Random ID & String Generator for Node.js",
-    "link": "https://dev.to/sammitpal/genkode-random-id-string-generator-for-nodejs-1nb6",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of janky nodemailer mocks on every project",
-    "link": "https://dev.to/impruthvi13/i-got-tired-of-janky-nodemailer-mocks-on-every-project-369l",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Auto-Generate PDF Invoices in Your SaaS App with One API Call",
-    "link": "https://dev.to/hichem_bed_46e4c23e87b378/auto-generate-pdf-invoices-in-your-saas-app-with-one-api-call-2o8i",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Set Up Nginx Reverse Proxy for Next.js with a BasePath Under /market Without Causing Redirect Loops or 404s When Sharing Port 80 with Another Site?",
-    "link": "https://dev.to/james_jhon/how-to-set-up-nginx-reverse-proxy-for-nextjs-with-a-basepath-under-market-without-causing-g69",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Scan File Uploads in Express",
-    "link": "https://dev.to/sonotommy/how-to-scan-file-uploads-in-express-1g9o",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Remove Examples from Swagger for API Gateway",
-    "link": "https://dev.to/segur/remove-examples-from-swagger-for-api-gateway-5adk",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a pre-push git hook that catches leaked secrets before they hit GitHub",
-    "link": "https://dev.to/pmaind/i-built-a-pre-push-git-hook-that-catches-leaked-secrets-before-they-hit-github-2n08",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Every backend developer has this headache 😩",
-    "link": "https://dev.to/poojan69/every-backend-developer-has-this-headache-1983",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos",
-    "link": "https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Accept USDC Payments in Node.js Using Web3indo (Stripe-Style Crypto Checkout)",
-    "link": "https://dev.to/masud_suhandi_677020c7dab/how-to-accept-usdc-payments-in-nodejs-using-web3indo-stripe-style-crypto-checkout-3mhn",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Self-hosting UK address lookup without paying per-query fees",
-    "link": "https://dev.to/thedavidgilbert/self-hosting-uk-address-lookup-without-paying-per-query-fees-3001",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Secret Management in Production: Vault, AWS Secrets Manager, and Zero-Leakage Patterns",
-    "link": "https://dev.to/axiom_agent/nodejs-secret-management-in-production-vault-aws-secrets-manager-and-zero-leakage-patterns-21a6",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "genkode — Random ID & String Generator for Node.js",
-    "link": "https://dev.to/sammitpal/genkode-random-id-string-generator-for-nodejs-1nb6",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of janky nodemailer mocks on every project",
-    "link": "https://dev.to/impruthvi13/i-got-tired-of-janky-nodemailer-mocks-on-every-project-369l",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Auto-Generate PDF Invoices in Your SaaS App with One API Call",
-    "link": "https://dev.to/hichem_bed_46e4c23e87b378/auto-generate-pdf-invoices-in-your-saas-app-with-one-api-call-2o8i",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Set Up Nginx Reverse Proxy for Next.js with a BasePath Under /market Without Causing Redirect Loops or 404s When Sharing Port 80 with Another Site?",
-    "link": "https://dev.to/james_jhon/how-to-set-up-nginx-reverse-proxy-for-nextjs-with-a-basepath-under-market-without-causing-g69",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Scan File Uploads in Express",
-    "link": "https://dev.to/sonotommy/how-to-scan-file-uploads-in-express-1g9o",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Remove Examples from Swagger for API Gateway",
-    "link": "https://dev.to/segur/remove-examples-from-swagger-for-api-gateway-5adk",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a pre-push git hook that catches leaked secrets before they hit GitHub",
-    "link": "https://dev.to/pmaind/i-built-a-pre-push-git-hook-that-catches-leaked-secrets-before-they-hit-github-2n08",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Every backend developer has this headache 😩",
-    "link": "https://dev.to/poojan69/every-backend-developer-has-this-headache-1983",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos",
-    "link": "https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Accept USDC Payments in Node.js Using Web3indo (Stripe-Style Crypto Checkout)",
-    "link": "https://dev.to/masud_suhandi_677020c7dab/how-to-accept-usdc-payments-in-nodejs-using-web3indo-stripe-style-crypto-checkout-3mhn",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Self-hosting UK address lookup without paying per-query fees",
-    "link": "https://dev.to/thedavidgilbert/self-hosting-uk-address-lookup-without-paying-per-query-fees-3001",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Secret Management in Production: Vault, AWS Secrets Manager, and Zero-Leakage Patterns",
-    "link": "https://dev.to/axiom_agent/nodejs-secret-management-in-production-vault-aws-secrets-manager-and-zero-leakage-patterns-21a6",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "genkode — Random ID & String Generator for Node.js",
-    "link": "https://dev.to/sammitpal/genkode-random-id-string-generator-for-nodejs-1nb6",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of janky nodemailer mocks on every project",
-    "link": "https://dev.to/impruthvi13/i-got-tired-of-janky-nodemailer-mocks-on-every-project-369l",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Auto-Generate PDF Invoices in Your SaaS App with One API Call",
-    "link": "https://dev.to/hichem_bed_46e4c23e87b378/auto-generate-pdf-invoices-in-your-saas-app-with-one-api-call-2o8i",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Set Up Nginx Reverse Proxy for Next.js with a BasePath Under /market Without Causing Redirect Loops or 404s When Sharing Port 80 with Another Site?",
-    "link": "https://dev.to/james_jhon/how-to-set-up-nginx-reverse-proxy-for-nextjs-with-a-basepath-under-market-without-causing-g69",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Scan File Uploads in Express",
-    "link": "https://dev.to/sonotommy/how-to-scan-file-uploads-in-express-1g9o",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Remove Examples from Swagger for API Gateway",
-    "link": "https://dev.to/segur/remove-examples-from-swagger-for-api-gateway-5adk",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a pre-push git hook that catches leaked secrets before they hit GitHub",
-    "link": "https://dev.to/pmaind/i-built-a-pre-push-git-hook-that-catches-leaked-secrets-before-they-hit-github-2n08",
-    "date": "3/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Circuit Breaker Pattern in Production: Opossum, Fallbacks, and Resilience Engineering",
-    "link": "https://dev.to/axiom_agent/nodejs-circuit-breaker-pattern-in-production-opossum-fallbacks-and-resilience-engineering-1mj4",
-    "date": "3/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Circuit Breaker Pattern in Production: Opossum, Fallbacks, and Resilience Engineering",
-    "link": "https://dev.to/axiom_agent/nodejs-circuit-breaker-pattern-in-production-opossum-fallbacks-and-resilience-engineering-1mj4",
-    "date": "3/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Circuit Breaker Pattern in Production: Opossum, Fallbacks, and Resilience Engineering",
-    "link": "https://dev.to/axiom_agent/nodejs-circuit-breaker-pattern-in-production-opossum-fallbacks-and-resilience-engineering-1mj4",
-    "date": "3/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Circuit Breaker Pattern in Production: Opossum, Fallbacks, and Resilience Engineering",
-    "link": "https://dev.to/axiom_agent/nodejs-circuit-breaker-pattern-in-production-opossum-fallbacks-and-resilience-engineering-1mj4",
-    "date": "3/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Circuit Breaker Pattern in Production: Opossum, Fallbacks, and Resilience Engineering",
-    "link": "https://dev.to/axiom_agent/nodejs-circuit-breaker-pattern-in-production-opossum-fallbacks-and-resilience-engineering-1mj4",
-    "date": "3/28/2026",
     "site": "dev.to"
   },
   {
@@ -466,7 +466,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -536,14 +536,14 @@
   {
     "title": "Better Error Handling In NodeJS With Error Classes",
     "link": "https://www.smashingmagazine.com/2020/08/error-handling-nodejs-error-classes/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "8/10/2020",
     "site": "smashingmagazine"
   },
   {
     "title": "Getting Started With Axios In Nuxt",
     "link": "https://www.smashingmagazine.com/2020/05/getting-started-axios-nuxt/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "5/26/2020",
     "site": "smashingmagazine"
   },
@@ -690,7 +690,7 @@
   {
     "title": "How To Develop An Interactive Command Line Application Using Node.js",
     "link": "https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "3/14/2017",
     "site": "smashingmagazine"
   },
