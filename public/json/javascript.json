@@ -1,253 +1,427 @@
 [
   {
-    "title": "Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser",
-    "link": "https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2",
+    "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
+    "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "One security alert changed how I think about dependencies",
+    "link": "https://dev.to/siti_aisyahmatzainal_73/one-security-alert-changed-how-i-think-about-dependencies-5bgf",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quickly detecting JSON Escapes with SWAR",
+    "link": "https://dev.to/jairussw/quickly-detecting-json-escapes-with-swar-52p5",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built MCP Apps based Sales Analytics Agentic UI & deployed it on Amazon Bedrock AgentCore",
+    "link": "https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Lessons from the Axios Hack",
+    "link": "https://dev.to/labeeb-ahmad/lessons-from-the-axios-hack-98i",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My AI Coding Assistant Misapplied the Design Principle I Gave It",
+    "link": "https://dev.to/odakin/my-ai-coding-assistant-misapplied-the-design-principle-i-gave-it-olh",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Infinite Scroll Galleries with GSAP and Three.js Shaders",
+    "link": "https://dev.to/jjangik/building-infinite-scroll-galleries-with-gsap-and-threejs-shaders-bgj",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Discriminated Unions: Safe API Response Handling",
+    "link": "https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built an npm Package to Scrape and Slim Down YAML Files",
+    "link": "https://dev.to/segur/i-built-an-npm-package-to-scrape-and-slim-down-yaml-files-3c3k",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top 5 Enterprise AI Gateways to Reduce LLM Cost and Latency",
+    "link": "https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-reduce-llm-cost-and-latency-24cg",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
+    "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "One security alert changed how I think about dependencies",
+    "link": "https://dev.to/siti_aisyahmatzainal_73/one-security-alert-changed-how-i-think-about-dependencies-5bgf",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quickly detecting JSON Escapes with SWAR",
+    "link": "https://dev.to/jairussw/quickly-detecting-json-escapes-with-swar-52p5",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built MCP Apps based Sales Analytics Agentic UI & deployed it on Amazon Bedrock AgentCore",
+    "link": "https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Lessons from the Axios Hack",
+    "link": "https://dev.to/labeeb-ahmad/lessons-from-the-axios-hack-98i",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My AI Coding Assistant Misapplied the Design Principle I Gave It",
+    "link": "https://dev.to/odakin/my-ai-coding-assistant-misapplied-the-design-principle-i-gave-it-olh",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Infinite Scroll Galleries with GSAP and Three.js Shaders",
+    "link": "https://dev.to/jjangik/building-infinite-scroll-galleries-with-gsap-and-threejs-shaders-bgj",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Discriminated Unions: Safe API Response Handling",
+    "link": "https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built an npm Package to Scrape and Slim Down YAML Files",
+    "link": "https://dev.to/segur/i-built-an-npm-package-to-scrape-and-slim-down-yaml-files-3c3k",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top 5 Enterprise AI Gateways to Reduce LLM Cost and Latency",
+    "link": "https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-reduce-llm-cost-and-latency-24cg",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
+    "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "One security alert changed how I think about dependencies",
+    "link": "https://dev.to/siti_aisyahmatzainal_73/one-security-alert-changed-how-i-think-about-dependencies-5bgf",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quickly detecting JSON Escapes with SWAR",
+    "link": "https://dev.to/jairussw/quickly-detecting-json-escapes-with-swar-52p5",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built MCP Apps based Sales Analytics Agentic UI & deployed it on Amazon Bedrock AgentCore",
+    "link": "https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Lessons from the Axios Hack",
+    "link": "https://dev.to/labeeb-ahmad/lessons-from-the-axios-hack-98i",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My AI Coding Assistant Misapplied the Design Principle I Gave It",
+    "link": "https://dev.to/odakin/my-ai-coding-assistant-misapplied-the-design-principle-i-gave-it-olh",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Infinite Scroll Galleries with GSAP and Three.js Shaders",
+    "link": "https://dev.to/jjangik/building-infinite-scroll-galleries-with-gsap-and-threejs-shaders-bgj",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Discriminated Unions: Safe API Response Handling",
+    "link": "https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built an npm Package to Scrape and Slim Down YAML Files",
+    "link": "https://dev.to/segur/i-built-an-npm-package-to-scrape-and-slim-down-yaml-files-3c3k",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top 5 Enterprise AI Gateways to Reduce LLM Cost and Latency",
+    "link": "https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-reduce-llm-cost-and-latency-24cg",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
+    "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "One security alert changed how I think about dependencies",
+    "link": "https://dev.to/siti_aisyahmatzainal_73/one-security-alert-changed-how-i-think-about-dependencies-5bgf",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quickly detecting JSON Escapes with SWAR",
+    "link": "https://dev.to/jairussw/quickly-detecting-json-escapes-with-swar-52p5",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built MCP Apps based Sales Analytics Agentic UI & deployed it on Amazon Bedrock AgentCore",
+    "link": "https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Lessons from the Axios Hack",
+    "link": "https://dev.to/labeeb-ahmad/lessons-from-the-axios-hack-98i",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My AI Coding Assistant Misapplied the Design Principle I Gave It",
+    "link": "https://dev.to/odakin/my-ai-coding-assistant-misapplied-the-design-principle-i-gave-it-olh",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Infinite Scroll Galleries with GSAP and Three.js Shaders",
+    "link": "https://dev.to/jjangik/building-infinite-scroll-galleries-with-gsap-and-threejs-shaders-bgj",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Discriminated Unions: Safe API Response Handling",
+    "link": "https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built an npm Package to Scrape and Slim Down YAML Files",
+    "link": "https://dev.to/segur/i-built-an-npm-package-to-scrape-and-slim-down-yaml-files-3c3k",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top 5 Enterprise AI Gateways to Reduce LLM Cost and Latency",
+    "link": "https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-reduce-llm-cost-and-latency-24cg",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
+    "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "One security alert changed how I think about dependencies",
+    "link": "https://dev.to/siti_aisyahmatzainal_73/one-security-alert-changed-how-i-think-about-dependencies-5bgf",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Quickly detecting JSON Escapes with SWAR",
+    "link": "https://dev.to/jairussw/quickly-detecting-json-escapes-with-swar-52p5",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built MCP Apps based Sales Analytics Agentic UI & deployed it on Amazon Bedrock AgentCore",
+    "link": "https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Lessons from the Axios Hack",
+    "link": "https://dev.to/labeeb-ahmad/lessons-from-the-axios-hack-98i",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My AI Coding Assistant Misapplied the Design Principle I Gave It",
+    "link": "https://dev.to/odakin/my-ai-coding-assistant-misapplied-the-design-principle-i-gave-it-olh",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Infinite Scroll Galleries with GSAP and Three.js Shaders",
+    "link": "https://dev.to/jjangik/building-infinite-scroll-galleries-with-gsap-and-threejs-shaders-bgj",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript Discriminated Unions: Safe API Response Handling",
+    "link": "https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built an npm Package to Scrape and Slim Down YAML Files",
+    "link": "https://dev.to/segur/i-built-an-npm-package-to-scrape-and-slim-down-yaml-files-3c3k",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Top 5 Enterprise AI Gateways to Reduce LLM Cost and Latency",
+    "link": "https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-reduce-llm-cost-and-latency-24cg",
+    "date": "4/1/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI agents shouldn't control your apps; they should be the app",
+    "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built an AI That Teaches You DSA Through Faded Parsons Problems and Spaced Repetition",
-    "link": "https://dev.to/prtkmhn/i-built-an-ai-that-teaches-you-dsa-through-faded-parsons-problems-and-spaced-repetition-391m",
+    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
+    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Turned Flashcards Into a Zombie FPS, a Runner Game, and Tetris — Here's How",
-    "link": "https://dev.to/prtkmhn/i-turned-flashcards-into-a-zombie-fps-a-runner-game-and-tetris-heres-how-12ho",
+    "title": "How prefix-sum binary search makes text line-breaking O(log n) with zero allocation",
+    "link": "https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Problem No One Talks About",
-    "link": "https://dev.to/yanan_wei_1f47482c2627544/the-problem-no-one-talks-about-306g",
+    "title": "Welcome to Transitive Dependency Hell",
+    "link": "https://dev.to/rosesecurity/welcome-to-transitive-dependency-hell-1cjn",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building Real AI in 24 Hours: KrishiAI with GitHub Copilot",
-    "link": "https://dev.to/manish_kumawat_0202f769e7/building-real-ai-in-24-hours-krishiai-with-github-copilot-9ml",
+    "title": "AI agents shouldn't control your apps; they should be the app",
+    "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Scroll Effects Without External Libraries",
-    "link": "https://dev.to/childrentime/react-scroll-effects-without-external-libraries-2k12",
+    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
+    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "\"I Made AI Coding Tools Free (For Real This Time)\"",
-    "link": "https://dev.to/yiyaoai/i-made-ai-coding-tools-free-for-real-this-time-1fj4",
+    "title": "How prefix-sum binary search makes text line-breaking O(log n) with zero allocation",
+    "link": "https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "Cancel JavaScript Async Ops with AbortController",
-    "link": "https://dev.to/maanu07/cancel-javascript-async-ops-with-abortcontroller-3g87",
+    "title": "Welcome to Transitive Dependency Hell",
+    "link": "https://dev.to/rosesecurity/welcome-to-transitive-dependency-hell-1cjn",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser",
-    "link": "https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2",
+    "title": "AI agents shouldn't control your apps; they should be the app",
+    "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built an AI That Teaches You DSA Through Faded Parsons Problems and Spaced Repetition",
-    "link": "https://dev.to/prtkmhn/i-built-an-ai-that-teaches-you-dsa-through-faded-parsons-problems-and-spaced-repetition-391m",
+    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
+    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Turned Flashcards Into a Zombie FPS, a Runner Game, and Tetris — Here's How",
-    "link": "https://dev.to/prtkmhn/i-turned-flashcards-into-a-zombie-fps-a-runner-game-and-tetris-heres-how-12ho",
+    "title": "How prefix-sum binary search makes text line-breaking O(log n) with zero allocation",
+    "link": "https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Problem No One Talks About",
-    "link": "https://dev.to/yanan_wei_1f47482c2627544/the-problem-no-one-talks-about-306g",
+    "title": "Welcome to Transitive Dependency Hell",
+    "link": "https://dev.to/rosesecurity/welcome-to-transitive-dependency-hell-1cjn",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building Real AI in 24 Hours: KrishiAI with GitHub Copilot",
-    "link": "https://dev.to/manish_kumawat_0202f769e7/building-real-ai-in-24-hours-krishiai-with-github-copilot-9ml",
+    "title": "AI agents shouldn't control your apps; they should be the app",
+    "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Scroll Effects Without External Libraries",
-    "link": "https://dev.to/childrentime/react-scroll-effects-without-external-libraries-2k12",
+    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
+    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "\"I Made AI Coding Tools Free (For Real This Time)\"",
-    "link": "https://dev.to/yiyaoai/i-made-ai-coding-tools-free-for-real-this-time-1fj4",
+    "title": "How prefix-sum binary search makes text line-breaking O(log n) with zero allocation",
+    "link": "https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "Cancel JavaScript Async Ops with AbortController",
-    "link": "https://dev.to/maanu07/cancel-javascript-async-ops-with-abortcontroller-3g87",
+    "title": "Welcome to Transitive Dependency Hell",
+    "link": "https://dev.to/rosesecurity/welcome-to-transitive-dependency-hell-1cjn",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser",
-    "link": "https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2",
+    "title": "AI agents shouldn't control your apps; they should be the app",
+    "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built an AI That Teaches You DSA Through Faded Parsons Problems and Spaced Repetition",
-    "link": "https://dev.to/prtkmhn/i-built-an-ai-that-teaches-you-dsa-through-faded-parsons-problems-and-spaced-repetition-391m",
+    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
+    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Turned Flashcards Into a Zombie FPS, a Runner Game, and Tetris — Here's How",
-    "link": "https://dev.to/prtkmhn/i-turned-flashcards-into-a-zombie-fps-a-runner-game-and-tetris-heres-how-12ho",
+    "title": "How prefix-sum binary search makes text line-breaking O(log n) with zero allocation",
+    "link": "https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Problem No One Talks About",
-    "link": "https://dev.to/yanan_wei_1f47482c2627544/the-problem-no-one-talks-about-306g",
+    "title": "Welcome to Transitive Dependency Hell",
+    "link": "https://dev.to/rosesecurity/welcome-to-transitive-dependency-hell-1cjn",
     "date": "3/31/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building Real AI in 24 Hours: KrishiAI with GitHub Copilot",
-    "link": "https://dev.to/manish_kumawat_0202f769e7/building-real-ai-in-24-hours-krishiai-with-github-copilot-9ml",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Scroll Effects Without External Libraries",
-    "link": "https://dev.to/childrentime/react-scroll-effects-without-external-libraries-2k12",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"I Made AI Coding Tools Free (For Real This Time)\"",
-    "link": "https://dev.to/yiyaoai/i-made-ai-coding-tools-free-for-real-this-time-1fj4",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cancel JavaScript Async Ops with AbortController",
-    "link": "https://dev.to/maanu07/cancel-javascript-async-ops-with-abortcontroller-3g87",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser",
-    "link": "https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an AI That Teaches You DSA Through Faded Parsons Problems and Spaced Repetition",
-    "link": "https://dev.to/prtkmhn/i-built-an-ai-that-teaches-you-dsa-through-faded-parsons-problems-and-spaced-repetition-391m",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Turned Flashcards Into a Zombie FPS, a Runner Game, and Tetris — Here's How",
-    "link": "https://dev.to/prtkmhn/i-turned-flashcards-into-a-zombie-fps-a-runner-game-and-tetris-heres-how-12ho",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Problem No One Talks About",
-    "link": "https://dev.to/yanan_wei_1f47482c2627544/the-problem-no-one-talks-about-306g",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Real AI in 24 Hours: KrishiAI with GitHub Copilot",
-    "link": "https://dev.to/manish_kumawat_0202f769e7/building-real-ai-in-24-hours-krishiai-with-github-copilot-9ml",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Scroll Effects Without External Libraries",
-    "link": "https://dev.to/childrentime/react-scroll-effects-without-external-libraries-2k12",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"I Made AI Coding Tools Free (For Real This Time)\"",
-    "link": "https://dev.to/yiyaoai/i-made-ai-coding-tools-free-for-real-this-time-1fj4",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cancel JavaScript Async Ops with AbortController",
-    "link": "https://dev.to/maanu07/cancel-javascript-async-ops-with-abortcontroller-3g87",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Privacy-First PDF Toolkit That Runs Entirely in Your Browser",
-    "link": "https://dev.to/xinping_cheng_1a9ed488fcf/building-a-privacy-first-pdf-toolkit-that-runs-entirely-in-your-browser-41f2",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an AI That Teaches You DSA Through Faded Parsons Problems and Spaced Repetition",
-    "link": "https://dev.to/prtkmhn/i-built-an-ai-that-teaches-you-dsa-through-faded-parsons-problems-and-spaced-repetition-391m",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Turned Flashcards Into a Zombie FPS, a Runner Game, and Tetris — Here's How",
-    "link": "https://dev.to/prtkmhn/i-turned-flashcards-into-a-zombie-fps-a-runner-game-and-tetris-heres-how-12ho",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Problem No One Talks About",
-    "link": "https://dev.to/yanan_wei_1f47482c2627544/the-problem-no-one-talks-about-306g",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Real AI in 24 Hours: KrishiAI with GitHub Copilot",
-    "link": "https://dev.to/manish_kumawat_0202f769e7/building-real-ai-in-24-hours-krishiai-with-github-copilot-9ml",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Scroll Effects Without External Libraries",
-    "link": "https://dev.to/childrentime/react-scroll-effects-without-external-libraries-2k12",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"I Made AI Coding Tools Free (For Real This Time)\"",
-    "link": "https://dev.to/yiyaoai/i-made-ai-coding-tools-free-for-real-this-time-1fj4",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cancel JavaScript Async Ops with AbortController",
-    "link": "https://dev.to/maanu07/cancel-javascript-async-ops-with-abortcontroller-3g87",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced salt-theme-gen",
-    "link": "https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Engine Under the Hood: How V8 Compiles Your Code",
-    "link": "https://dev.to/alex_aslam/javascript-engine-under-the-hood-how-v8-compiles-your-code-27ie",
+    "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
+    "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
     "date": "3/30/2026",
     "site": "dev.to"
   },
@@ -258,38 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Crow Docs Evolving: Stability, UX, and a New Community Channel 🚀",
-    "link": "https://dev.to/zengkkj/crow-docs-evolving-stability-ux-and-a-new-community-channel-4omb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
-    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-4odb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Switched from Node.js to Bun for AI Backends (Benchmarks Inside)",
-    "link": "https://dev.to/leandromarcosmoreira/why-i-switched-from-nodejs-to-bun-for-ai-backends-benchmarks-inside-12fb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native vs Flutter vs Expo vs Lynx 2026: Which to Choose for Your App?",
-    "link": "https://dev.to/krunal_groovy/react-native-vs-flutter-vs-expo-vs-lynx-2026-which-to-choose-for-your-app-30h6",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced salt-theme-gen",
-    "link": "https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Engine Under the Hood: How V8 Compiles Your Code",
-    "link": "https://dev.to/alex_aslam/javascript-engine-under-the-hood-how-v8-compiles-your-code-27ie",
+    "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
+    "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
     "date": "3/30/2026",
     "site": "dev.to"
   },
@@ -300,152 +444,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Crow Docs Evolving: Stability, UX, and a New Community Channel 🚀",
-    "link": "https://dev.to/zengkkj/crow-docs-evolving-stability-ux-and-a-new-community-channel-4omb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
-    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-4odb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Switched from Node.js to Bun for AI Backends (Benchmarks Inside)",
-    "link": "https://dev.to/leandromarcosmoreira/why-i-switched-from-nodejs-to-bun-for-ai-backends-benchmarks-inside-12fb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native vs Flutter vs Expo vs Lynx 2026: Which to Choose for Your App?",
-    "link": "https://dev.to/krunal_groovy/react-native-vs-flutter-vs-expo-vs-lynx-2026-which-to-choose-for-your-app-30h6",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced salt-theme-gen",
-    "link": "https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Engine Under the Hood: How V8 Compiles Your Code",
-    "link": "https://dev.to/alex_aslam/javascript-engine-under-the-hood-how-v8-compiles-your-code-27ie",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
     "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Crow Docs Evolving: Stability, UX, and a New Community Channel 🚀",
-    "link": "https://dev.to/zengkkj/crow-docs-evolving-stability-ux-and-a-new-community-channel-4omb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
-    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-4odb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Switched from Node.js to Bun for AI Backends (Benchmarks Inside)",
-    "link": "https://dev.to/leandromarcosmoreira/why-i-switched-from-nodejs-to-bun-for-ai-backends-benchmarks-inside-12fb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native vs Flutter vs Expo vs Lynx 2026: Which to Choose for Your App?",
-    "link": "https://dev.to/krunal_groovy/react-native-vs-flutter-vs-expo-vs-lynx-2026-which-to-choose-for-your-app-30h6",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced salt-theme-gen",
-    "link": "https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Engine Under the Hood: How V8 Compiles Your Code",
-    "link": "https://dev.to/alex_aslam/javascript-engine-under-the-hood-how-v8-compiles-your-code-27ie",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
-    "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Crow Docs Evolving: Stability, UX, and a New Community Channel 🚀",
-    "link": "https://dev.to/zengkkj/crow-docs-evolving-stability-ux-and-a-new-community-channel-4omb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
-    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-4odb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Switched from Node.js to Bun for AI Backends (Benchmarks Inside)",
-    "link": "https://dev.to/leandromarcosmoreira/why-i-switched-from-nodejs-to-bun-for-ai-backends-benchmarks-inside-12fb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native vs Flutter vs Expo vs Lynx 2026: Which to Choose for Your App?",
-    "link": "https://dev.to/krunal_groovy/react-native-vs-flutter-vs-expo-vs-lynx-2026-which-to-choose-for-your-app-30h6",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced salt-theme-gen",
-    "link": "https://dev.to/hasansarwer/i-open-sourced-salt-theme-gen-2dph",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Engine Under the Hood: How V8 Compiles Your Code",
-    "link": "https://dev.to/alex_aslam/javascript-engine-under-the-hood-how-v8-compiles-your-code-27ie",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
-    "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Crow Docs Evolving: Stability, UX, and a New Community Channel 🚀",
-    "link": "https://dev.to/zengkkj/crow-docs-evolving-stability-ux-and-a-new-community-channel-4omb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Tried Scraping LinkedIn Posts with Puppeteer and This Is What Actually Worked",
-    "link": "https://dev.to/rehan_sayyed_56704d24727b/i-tried-scraping-linkedin-posts-with-puppeteer-and-this-is-what-actually-worked-4odb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Switched from Node.js to Bun for AI Backends (Benchmarks Inside)",
-    "link": "https://dev.to/leandromarcosmoreira/why-i-switched-from-nodejs-to-bun-for-ai-backends-benchmarks-inside-12fb",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native vs Flutter vs Expo vs Lynx 2026: Which to Choose for Your App?",
-    "link": "https://dev.to/krunal_groovy/react-native-vs-flutter-vs-expo-vs-lynx-2026-which-to-choose-for-your-app-30h6",
     "date": "3/30/2026",
     "site": "dev.to"
   },
@@ -494,7 +494,7 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
@@ -543,7 +543,7 @@
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
@@ -662,7 +662,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -697,7 +697,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
