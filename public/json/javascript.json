@@ -1,307 +1,427 @@
 [
   {
-    "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
-    "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
+    "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
+    "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
+    "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "sudo make me coffee — An AI Agent Builds the World's Most Stubborn Teapot",
+    "link": "https://dev.to/deadbyapril/sudo-make-me-coffee-an-ai-agent-builds-the-worlds-most-stubborn-teapot-56lb",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "npm, March 31: RAT in Axios and Half a Million Lines of Claude Code on GitHub",
+    "link": "https://dev.to/naderevo/npm-march-31-rat-in-axios-and-half-a-million-lines-of-claude-code-on-github-26k4",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ad-Free YouTube With a Custom Player",
+    "link": "https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
+    "link": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a CLI That Shows the Real Cost of Your node_modules (Size + Security + Age)",
+    "link": "https://dev.to/profiterole/i-built-a-cli-that-shows-the-real-cost-of-your-nodemodules-size-security-age-2c6d",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Real-Time Features in React Without WebSocket Libraries",
+    "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "YouTube Changed How Comments Work Internally — Here's What Broke",
+    "link": "https://dev.to/_b5c55d74e876409d257ca/youtube-changed-how-comments-work-internally-heres-what-broke-1klg",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "This Tool Turns Confusing Errors into Actionable Fixes",
+    "link": "https://dev.to/darshan1005/this-tool-turns-confusing-errors-into-actionable-fixes-5blh",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
+    "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
+    "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "sudo make me coffee — An AI Agent Builds the World's Most Stubborn Teapot",
+    "link": "https://dev.to/deadbyapril/sudo-make-me-coffee-an-ai-agent-builds-the-worlds-most-stubborn-teapot-56lb",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "npm, March 31: RAT in Axios and Half a Million Lines of Claude Code on GitHub",
+    "link": "https://dev.to/naderevo/npm-march-31-rat-in-axios-and-half-a-million-lines-of-claude-code-on-github-26k4",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ad-Free YouTube With a Custom Player",
+    "link": "https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
+    "link": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a CLI That Shows the Real Cost of Your node_modules (Size + Security + Age)",
+    "link": "https://dev.to/profiterole/i-built-a-cli-that-shows-the-real-cost-of-your-nodemodules-size-security-age-2c6d",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Real-Time Features in React Without WebSocket Libraries",
+    "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "YouTube Changed How Comments Work Internally — Here's What Broke",
+    "link": "https://dev.to/_b5c55d74e876409d257ca/youtube-changed-how-comments-work-internally-heres-what-broke-1klg",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "This Tool Turns Confusing Errors into Actionable Fixes",
+    "link": "https://dev.to/darshan1005/this-tool-turns-confusing-errors-into-actionable-fixes-5blh",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
+    "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
+    "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "sudo make me coffee — An AI Agent Builds the World's Most Stubborn Teapot",
+    "link": "https://dev.to/deadbyapril/sudo-make-me-coffee-an-ai-agent-builds-the-worlds-most-stubborn-teapot-56lb",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "npm, March 31: RAT in Axios and Half a Million Lines of Claude Code on GitHub",
+    "link": "https://dev.to/naderevo/npm-march-31-rat-in-axios-and-half-a-million-lines-of-claude-code-on-github-26k4",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ad-Free YouTube With a Custom Player",
+    "link": "https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
+    "link": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a CLI That Shows the Real Cost of Your node_modules (Size + Security + Age)",
+    "link": "https://dev.to/profiterole/i-built-a-cli-that-shows-the-real-cost-of-your-nodemodules-size-security-age-2c6d",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Real-Time Features in React Without WebSocket Libraries",
+    "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "YouTube Changed How Comments Work Internally — Here's What Broke",
+    "link": "https://dev.to/_b5c55d74e876409d257ca/youtube-changed-how-comments-work-internally-heres-what-broke-1klg",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "This Tool Turns Confusing Errors into Actionable Fixes",
+    "link": "https://dev.to/darshan1005/this-tool-turns-confusing-errors-into-actionable-fixes-5blh",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
+    "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
+    "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "sudo make me coffee — An AI Agent Builds the World's Most Stubborn Teapot",
+    "link": "https://dev.to/deadbyapril/sudo-make-me-coffee-an-ai-agent-builds-the-worlds-most-stubborn-teapot-56lb",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "npm, March 31: RAT in Axios and Half a Million Lines of Claude Code on GitHub",
+    "link": "https://dev.to/naderevo/npm-march-31-rat-in-axios-and-half-a-million-lines-of-claude-code-on-github-26k4",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ad-Free YouTube With a Custom Player",
+    "link": "https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
+    "link": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a CLI That Shows the Real Cost of Your node_modules (Size + Security + Age)",
+    "link": "https://dev.to/profiterole/i-built-a-cli-that-shows-the-real-cost-of-your-nodemodules-size-security-age-2c6d",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Real-Time Features in React Without WebSocket Libraries",
+    "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "YouTube Changed How Comments Work Internally — Here's What Broke",
+    "link": "https://dev.to/_b5c55d74e876409d257ca/youtube-changed-how-comments-work-internally-heres-what-broke-1klg",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "This Tool Turns Confusing Errors into Actionable Fixes",
+    "link": "https://dev.to/darshan1005/this-tool-turns-confusing-errors-into-actionable-fixes-5blh",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
+    "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
+    "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "sudo make me coffee — An AI Agent Builds the World's Most Stubborn Teapot",
+    "link": "https://dev.to/deadbyapril/sudo-make-me-coffee-an-ai-agent-builds-the-worlds-most-stubborn-teapot-56lb",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "npm, March 31: RAT in Axios and Half a Million Lines of Claude Code on GitHub",
+    "link": "https://dev.to/naderevo/npm-march-31-rat-in-axios-and-half-a-million-lines-of-claude-code-on-github-26k4",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ad-Free YouTube With a Custom Player",
+    "link": "https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
+    "link": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a CLI That Shows the Real Cost of Your node_modules (Size + Security + Age)",
+    "link": "https://dev.to/profiterole/i-built-a-cli-that-shows-the-real-cost-of-your-nodemodules-size-security-age-2c6d",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Real-Time Features in React Without WebSocket Libraries",
+    "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "YouTube Changed How Comments Work Internally — Here's What Broke",
+    "link": "https://dev.to/_b5c55d74e876409d257ca/youtube-changed-how-comments-work-internally-heres-what-broke-1klg",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "This Tool Turns Confusing Errors into Actionable Fixes",
+    "link": "https://dev.to/darshan1005/this-tool-turns-confusing-errors-into-actionable-fixes-5blh",
+    "date": "4/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
+    "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "One security alert changed how I think about dependencies",
-    "link": "https://dev.to/siti_aisyahmatzainal_73/one-security-alert-changed-how-i-think-about-dependencies-5bgf",
+    "title": "AI Writes Better UI Without React Than With It",
+    "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Quickly detecting JSON Escapes with SWAR",
-    "link": "https://dev.to/jairussw/quickly-detecting-json-escapes-with-swar-52p5",
+    "title": "Building an Engineering & Security News Aggregator (10 Sources, No APIs)",
+    "link": "https://dev.to/jefferyhus/building-an-engineering-security-news-aggregator-10-sources-no-apis-1dc9",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I built MCP Apps based Sales Analytics Agentic UI & deployed it on Amazon Bedrock AgentCore",
-    "link": "https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i",
+    "title": "Why Next.js is the Ultimate Tool for the BFF (Backend-for-Frontend) Pattern?",
+    "link": "https://dev.to/carlosorioli/why-nextjs-is-the-ultimate-tool-for-the-bff-backend-for-frontend-pattern-4lej",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Lessons from the Axios Hack",
-    "link": "https://dev.to/labeeb-ahmad/lessons-from-the-axios-hack-98i",
+    "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
+    "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "My AI Coding Assistant Misapplied the Design Principle I Gave It",
-    "link": "https://dev.to/odakin/my-ai-coding-assistant-misapplied-the-design-principle-i-gave-it-olh",
+    "title": "AI Writes Better UI Without React Than With It",
+    "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building Infinite Scroll Galleries with GSAP and Three.js Shaders",
-    "link": "https://dev.to/jjangik/building-infinite-scroll-galleries-with-gsap-and-threejs-shaders-bgj",
+    "title": "Building an Engineering & Security News Aggregator (10 Sources, No APIs)",
+    "link": "https://dev.to/jefferyhus/building-an-engineering-security-news-aggregator-10-sources-no-apis-1dc9",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "TypeScript Discriminated Unions: Safe API Response Handling",
-    "link": "https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca",
+    "title": "Why Next.js is the Ultimate Tool for the BFF (Backend-for-Frontend) Pattern?",
+    "link": "https://dev.to/carlosorioli/why-nextjs-is-the-ultimate-tool-for-the-bff-backend-for-frontend-pattern-4lej",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built an npm Package to Scrape and Slim Down YAML Files",
-    "link": "https://dev.to/segur/i-built-an-npm-package-to-scrape-and-slim-down-yaml-files-3c3k",
+    "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
+    "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Top 5 Enterprise AI Gateways to Reduce LLM Cost and Latency",
-    "link": "https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-reduce-llm-cost-and-latency-24cg",
+    "title": "AI Writes Better UI Without React Than With It",
+    "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
-    "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
+    "title": "Building an Engineering & Security News Aggregator (10 Sources, No APIs)",
+    "link": "https://dev.to/jefferyhus/building-an-engineering-security-news-aggregator-10-sources-no-apis-1dc9",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "One security alert changed how I think about dependencies",
-    "link": "https://dev.to/siti_aisyahmatzainal_73/one-security-alert-changed-how-i-think-about-dependencies-5bgf",
+    "title": "Why Next.js is the Ultimate Tool for the BFF (Backend-for-Frontend) Pattern?",
+    "link": "https://dev.to/carlosorioli/why-nextjs-is-the-ultimate-tool-for-the-bff-backend-for-frontend-pattern-4lej",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Quickly detecting JSON Escapes with SWAR",
-    "link": "https://dev.to/jairussw/quickly-detecting-json-escapes-with-swar-52p5",
+    "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
+    "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I built MCP Apps based Sales Analytics Agentic UI & deployed it on Amazon Bedrock AgentCore",
-    "link": "https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i",
+    "title": "AI Writes Better UI Without React Than With It",
+    "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Lessons from the Axios Hack",
-    "link": "https://dev.to/labeeb-ahmad/lessons-from-the-axios-hack-98i",
+    "title": "Building an Engineering & Security News Aggregator (10 Sources, No APIs)",
+    "link": "https://dev.to/jefferyhus/building-an-engineering-security-news-aggregator-10-sources-no-apis-1dc9",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "My AI Coding Assistant Misapplied the Design Principle I Gave It",
-    "link": "https://dev.to/odakin/my-ai-coding-assistant-misapplied-the-design-principle-i-gave-it-olh",
+    "title": "Why Next.js is the Ultimate Tool for the BFF (Backend-for-Frontend) Pattern?",
+    "link": "https://dev.to/carlosorioli/why-nextjs-is-the-ultimate-tool-for-the-bff-backend-for-frontend-pattern-4lej",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building Infinite Scroll Galleries with GSAP and Three.js Shaders",
-    "link": "https://dev.to/jjangik/building-infinite-scroll-galleries-with-gsap-and-threejs-shaders-bgj",
+    "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
+    "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "TypeScript Discriminated Unions: Safe API Response Handling",
-    "link": "https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca",
+    "title": "AI Writes Better UI Without React Than With It",
+    "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built an npm Package to Scrape and Slim Down YAML Files",
-    "link": "https://dev.to/segur/i-built-an-npm-package-to-scrape-and-slim-down-yaml-files-3c3k",
+    "title": "Building an Engineering & Security News Aggregator (10 Sources, No APIs)",
+    "link": "https://dev.to/jefferyhus/building-an-engineering-security-news-aggregator-10-sources-no-apis-1dc9",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Top 5 Enterprise AI Gateways to Reduce LLM Cost and Latency",
-    "link": "https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-reduce-llm-cost-and-latency-24cg",
+    "title": "Why Next.js is the Ultimate Tool for the BFF (Backend-for-Frontend) Pattern?",
+    "link": "https://dev.to/carlosorioli/why-nextjs-is-the-ultimate-tool-for-the-bff-backend-for-frontend-pattern-4lej",
     "date": "4/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
-    "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "One security alert changed how I think about dependencies",
-    "link": "https://dev.to/siti_aisyahmatzainal_73/one-security-alert-changed-how-i-think-about-dependencies-5bgf",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quickly detecting JSON Escapes with SWAR",
-    "link": "https://dev.to/jairussw/quickly-detecting-json-escapes-with-swar-52p5",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built MCP Apps based Sales Analytics Agentic UI & deployed it on Amazon Bedrock AgentCore",
-    "link": "https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lessons from the Axios Hack",
-    "link": "https://dev.to/labeeb-ahmad/lessons-from-the-axios-hack-98i",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My AI Coding Assistant Misapplied the Design Principle I Gave It",
-    "link": "https://dev.to/odakin/my-ai-coding-assistant-misapplied-the-design-principle-i-gave-it-olh",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Infinite Scroll Galleries with GSAP and Three.js Shaders",
-    "link": "https://dev.to/jjangik/building-infinite-scroll-galleries-with-gsap-and-threejs-shaders-bgj",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript Discriminated Unions: Safe API Response Handling",
-    "link": "https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an npm Package to Scrape and Slim Down YAML Files",
-    "link": "https://dev.to/segur/i-built-an-npm-package-to-scrape-and-slim-down-yaml-files-3c3k",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 5 Enterprise AI Gateways to Reduce LLM Cost and Latency",
-    "link": "https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-reduce-llm-cost-and-latency-24cg",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
-    "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "One security alert changed how I think about dependencies",
-    "link": "https://dev.to/siti_aisyahmatzainal_73/one-security-alert-changed-how-i-think-about-dependencies-5bgf",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quickly detecting JSON Escapes with SWAR",
-    "link": "https://dev.to/jairussw/quickly-detecting-json-escapes-with-swar-52p5",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built MCP Apps based Sales Analytics Agentic UI & deployed it on Amazon Bedrock AgentCore",
-    "link": "https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lessons from the Axios Hack",
-    "link": "https://dev.to/labeeb-ahmad/lessons-from-the-axios-hack-98i",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My AI Coding Assistant Misapplied the Design Principle I Gave It",
-    "link": "https://dev.to/odakin/my-ai-coding-assistant-misapplied-the-design-principle-i-gave-it-olh",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Infinite Scroll Galleries with GSAP and Three.js Shaders",
-    "link": "https://dev.to/jjangik/building-infinite-scroll-galleries-with-gsap-and-threejs-shaders-bgj",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript Discriminated Unions: Safe API Response Handling",
-    "link": "https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an npm Package to Scrape and Slim Down YAML Files",
-    "link": "https://dev.to/segur/i-built-an-npm-package-to-scrape-and-slim-down-yaml-files-3c3k",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 5 Enterprise AI Gateways to Reduce LLM Cost and Latency",
-    "link": "https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-reduce-llm-cost-and-latency-24cg",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your npm Package Is Leaking Source Code (And You Probably Don't Know It)",
-    "link": "https://dev.to/alanwest/your-npm-package-is-leaking-source-code-and-you-probably-dont-know-it-4kf5",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "One security alert changed how I think about dependencies",
-    "link": "https://dev.to/siti_aisyahmatzainal_73/one-security-alert-changed-how-i-think-about-dependencies-5bgf",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Quickly detecting JSON Escapes with SWAR",
-    "link": "https://dev.to/jairussw/quickly-detecting-json-escapes-with-swar-52p5",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built MCP Apps based Sales Analytics Agentic UI & deployed it on Amazon Bedrock AgentCore",
-    "link": "https://dev.to/aws/how-i-built-mcp-apps-based-sales-analytics-agentic-ui-deployed-it-on-amazon-bedrock-agentcore-4e9i",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lessons from the Axios Hack",
-    "link": "https://dev.to/labeeb-ahmad/lessons-from-the-axios-hack-98i",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My AI Coding Assistant Misapplied the Design Principle I Gave It",
-    "link": "https://dev.to/odakin/my-ai-coding-assistant-misapplied-the-design-principle-i-gave-it-olh",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Infinite Scroll Galleries with GSAP and Three.js Shaders",
-    "link": "https://dev.to/jjangik/building-infinite-scroll-galleries-with-gsap-and-threejs-shaders-bgj",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript Discriminated Unions: Safe API Response Handling",
-    "link": "https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an npm Package to Scrape and Slim Down YAML Files",
-    "link": "https://dev.to/segur/i-built-an-npm-package-to-scrape-and-slim-down-yaml-files-3c3k",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Top 5 Enterprise AI Gateways to Reduce LLM Cost and Latency",
-    "link": "https://dev.to/debmckinney/top-5-enterprise-ai-gateways-to-reduce-llm-cost-and-latency-24cg",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI agents shouldn't control your apps; they should be the app",
-    "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
+    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
+    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
     "date": "3/31/2026",
     "site": "dev.to"
   },
@@ -312,20 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "How prefix-sum binary search makes text line-breaking O(log n) with zero allocation",
-    "link": "https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Welcome to Transitive Dependency Hell",
-    "link": "https://dev.to/rosesecurity/welcome-to-transitive-dependency-hell-1cjn",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI agents shouldn't control your apps; they should be the app",
-    "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
+    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
+    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
     "date": "3/31/2026",
     "site": "dev.to"
   },
@@ -336,117 +444,9 @@
     "site": "dev.to"
   },
   {
-    "title": "How prefix-sum binary search makes text line-breaking O(log n) with zero allocation",
-    "link": "https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Welcome to Transitive Dependency Hell",
-    "link": "https://dev.to/rosesecurity/welcome-to-transitive-dependency-hell-1cjn",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI agents shouldn't control your apps; they should be the app",
-    "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
     "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
     "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How prefix-sum binary search makes text line-breaking O(log n) with zero allocation",
-    "link": "https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Welcome to Transitive Dependency Hell",
-    "link": "https://dev.to/rosesecurity/welcome-to-transitive-dependency-hell-1cjn",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI agents shouldn't control your apps; they should be the app",
-    "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How prefix-sum binary search makes text line-breaking O(log n) with zero allocation",
-    "link": "https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Welcome to Transitive Dependency Hell",
-    "link": "https://dev.to/rosesecurity/welcome-to-transitive-dependency-hell-1cjn",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI agents shouldn't control your apps; they should be the app",
-    "link": "https://dev.to/aralroca/from-maintaining-open-source-libraries-to-building-an-ai-powered-tools-os-with-rust-and-webassembly-3eg4",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How prefix-sum binary search makes text line-breaking O(log n) with zero allocation",
-    "link": "https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Welcome to Transitive Dependency Hell",
-    "link": "https://dev.to/rosesecurity/welcome-to-transitive-dependency-hell-1cjn",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
-    "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
-    "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
-    "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
-    "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
-    "date": "3/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I added AI to Stack Universe — your GitHub profile now has a narrator, a roast mode, and a weekly horoscope",
-    "link": "https://dev.to/mabdullah06/i-added-ai-to-stack-universe-your-github-profile-now-has-a-narrator-a-roast-mode-and-a-weekly-2fkp",
-    "date": "3/30/2026",
     "site": "dev.to"
   },
   {
@@ -494,7 +494,7 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
@@ -543,7 +543,7 @@
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
@@ -697,7 +697,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
