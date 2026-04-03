@@ -1,61 +1,355 @@
 [
   {
+    "title": "Do You Actually Need an AI Gateway? (And When a Simple LLM Wrapper Isn't Enough)",
+    "link": "https://dev.to/therealmrmumba/do-you-actually-need-an-ai-gateway-and-when-a-simple-llm-wrapper-isnt-enough-589d",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why We Don’t Use React",
+    "link": "https://dev.to/designrai/why-we-dont-use-react-33b8",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a trading dashboard UI with zero JavaScript — just st-core.fscss",
+    "link": "https://dev.to/fscss/building-a-trading-dashboard-ui-with-zero-javascript-just-st-corefscss-o7f",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prediction Cone | Safe triangle",
+    "link": "https://dev.to/pavlusha311245/prediction-cone-safe-triangle-4ki0",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Getting Started with Claude Code - A Complete Beginner's Guide",
+    "link": "https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cómo recorrer arrays en React (La forma correcta)",
+    "link": "https://dev.to/adamsnxt/como-recorrer-arrays-en-react-la-forma-correcta-18e8",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular 22's New Built-in Debounce for Async Validation Explained",
+    "link": "https://dev.to/brianmtreese/angular-22s-new-built-in-debounce-for-async-validation-explained-j9k",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compressing PDFs in the Browser: A WebAssembly-Powered Solution",
+    "link": "https://dev.to/linmingren/compressing-pdfs-in-the-browser-a-webassembly-powered-solution-3mp2",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Backend: The Full-Stack Tax",
+    "link": "https://dev.to/vivian-voss/javascript-backend-the-full-stack-tax-3o0i",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here are the hard parts",
+    "link": "https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Next.js to Pareto: What Changes and What Stays the Same",
+    "link": "https://dev.to/childrentime/from-nextjs-to-pareto-what-changes-and-what-stays-the-same-1ehc",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do You Actually Need an AI Gateway? (And When a Simple LLM Wrapper Isn't Enough)",
+    "link": "https://dev.to/therealmrmumba/do-you-actually-need-an-ai-gateway-and-when-a-simple-llm-wrapper-isnt-enough-589d",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why We Don’t Use React",
+    "link": "https://dev.to/designrai/why-we-dont-use-react-33b8",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a trading dashboard UI with zero JavaScript — just st-core.fscss",
+    "link": "https://dev.to/fscss/building-a-trading-dashboard-ui-with-zero-javascript-just-st-corefscss-o7f",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prediction Cone | Safe triangle",
+    "link": "https://dev.to/pavlusha311245/prediction-cone-safe-triangle-4ki0",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Getting Started with Claude Code - A Complete Beginner's Guide",
+    "link": "https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cómo recorrer arrays en React (La forma correcta)",
+    "link": "https://dev.to/adamsnxt/como-recorrer-arrays-en-react-la-forma-correcta-18e8",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular 22's New Built-in Debounce for Async Validation Explained",
+    "link": "https://dev.to/brianmtreese/angular-22s-new-built-in-debounce-for-async-validation-explained-j9k",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compressing PDFs in the Browser: A WebAssembly-Powered Solution",
+    "link": "https://dev.to/linmingren/compressing-pdfs-in-the-browser-a-webassembly-powered-solution-3mp2",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Backend: The Full-Stack Tax",
+    "link": "https://dev.to/vivian-voss/javascript-backend-the-full-stack-tax-3o0i",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here are the hard parts",
+    "link": "https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Next.js to Pareto: What Changes and What Stays the Same",
+    "link": "https://dev.to/childrentime/from-nextjs-to-pareto-what-changes-and-what-stays-the-same-1ehc",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do You Actually Need an AI Gateway? (And When a Simple LLM Wrapper Isn't Enough)",
+    "link": "https://dev.to/therealmrmumba/do-you-actually-need-an-ai-gateway-and-when-a-simple-llm-wrapper-isnt-enough-589d",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why We Don’t Use React",
+    "link": "https://dev.to/designrai/why-we-dont-use-react-33b8",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a trading dashboard UI with zero JavaScript — just st-core.fscss",
+    "link": "https://dev.to/fscss/building-a-trading-dashboard-ui-with-zero-javascript-just-st-corefscss-o7f",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prediction Cone | Safe triangle",
+    "link": "https://dev.to/pavlusha311245/prediction-cone-safe-triangle-4ki0",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Getting Started with Claude Code - A Complete Beginner's Guide",
+    "link": "https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cómo recorrer arrays en React (La forma correcta)",
+    "link": "https://dev.to/adamsnxt/como-recorrer-arrays-en-react-la-forma-correcta-18e8",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular 22's New Built-in Debounce for Async Validation Explained",
+    "link": "https://dev.to/brianmtreese/angular-22s-new-built-in-debounce-for-async-validation-explained-j9k",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compressing PDFs in the Browser: A WebAssembly-Powered Solution",
+    "link": "https://dev.to/linmingren/compressing-pdfs-in-the-browser-a-webassembly-powered-solution-3mp2",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Backend: The Full-Stack Tax",
+    "link": "https://dev.to/vivian-voss/javascript-backend-the-full-stack-tax-3o0i",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here are the hard parts",
+    "link": "https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Next.js to Pareto: What Changes and What Stays the Same",
+    "link": "https://dev.to/childrentime/from-nextjs-to-pareto-what-changes-and-what-stays-the-same-1ehc",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do You Actually Need an AI Gateway? (And When a Simple LLM Wrapper Isn't Enough)",
+    "link": "https://dev.to/therealmrmumba/do-you-actually-need-an-ai-gateway-and-when-a-simple-llm-wrapper-isnt-enough-589d",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why We Don’t Use React",
+    "link": "https://dev.to/designrai/why-we-dont-use-react-33b8",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a trading dashboard UI with zero JavaScript — just st-core.fscss",
+    "link": "https://dev.to/fscss/building-a-trading-dashboard-ui-with-zero-javascript-just-st-corefscss-o7f",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prediction Cone | Safe triangle",
+    "link": "https://dev.to/pavlusha311245/prediction-cone-safe-triangle-4ki0",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Getting Started with Claude Code - A Complete Beginner's Guide",
+    "link": "https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cómo recorrer arrays en React (La forma correcta)",
+    "link": "https://dev.to/adamsnxt/como-recorrer-arrays-en-react-la-forma-correcta-18e8",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular 22's New Built-in Debounce for Async Validation Explained",
+    "link": "https://dev.to/brianmtreese/angular-22s-new-built-in-debounce-for-async-validation-explained-j9k",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compressing PDFs in the Browser: A WebAssembly-Powered Solution",
+    "link": "https://dev.to/linmingren/compressing-pdfs-in-the-browser-a-webassembly-powered-solution-3mp2",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Backend: The Full-Stack Tax",
+    "link": "https://dev.to/vivian-voss/javascript-backend-the-full-stack-tax-3o0i",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here are the hard parts",
+    "link": "https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Next.js to Pareto: What Changes and What Stays the Same",
+    "link": "https://dev.to/childrentime/from-nextjs-to-pareto-what-changes-and-what-stays-the-same-1ehc",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Do You Actually Need an AI Gateway? (And When a Simple LLM Wrapper Isn't Enough)",
+    "link": "https://dev.to/therealmrmumba/do-you-actually-need-an-ai-gateway-and-when-a-simple-llm-wrapper-isnt-enough-589d",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why We Don’t Use React",
+    "link": "https://dev.to/designrai/why-we-dont-use-react-33b8",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a trading dashboard UI with zero JavaScript — just st-core.fscss",
+    "link": "https://dev.to/fscss/building-a-trading-dashboard-ui-with-zero-javascript-just-st-corefscss-o7f",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Prediction Cone | Safe triangle",
+    "link": "https://dev.to/pavlusha311245/prediction-cone-safe-triangle-4ki0",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Getting Started with Claude Code - A Complete Beginner's Guide",
+    "link": "https://dev.to/myogeshchavan97/getting-started-with-claude-code-a-complete-beginners-guide-3o8j",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cómo recorrer arrays en React (La forma correcta)",
+    "link": "https://dev.to/adamsnxt/como-recorrer-arrays-en-react-la-forma-correcta-18e8",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular 22's New Built-in Debounce for Async Validation Explained",
+    "link": "https://dev.to/brianmtreese/angular-22s-new-built-in-debounce-for-async-validation-explained-j9k",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compressing PDFs in the Browser: A WebAssembly-Powered Solution",
+    "link": "https://dev.to/linmingren/compressing-pdfs-in-the-browser-a-webassembly-powered-solution-3mp2",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript Backend: The Full-Stack Tax",
+    "link": "https://dev.to/vivian-voss/javascript-backend-the-full-stack-tax-3o0i",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I spent 6 months building a Chrome extension with Vue 3 and Shadow DOM -- here are the hard parts",
+    "link": "https://dev.to/cs_alishopping/i-spent-6-months-building-a-chrome-extension-with-vue-3-and-shadow-dom-here-are-the-hard-parts-p2m",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Next.js to Pareto: What Changes and What Stays the Same",
+    "link": "https://dev.to/childrentime/from-nextjs-to-pareto-what-changes-and-what-stays-the-same-1ehc",
+    "date": "4/3/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "9 Things You’re Overengineering (The Browser Already Solved Them)",
     "link": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
-    "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+    "title": "The Type System: What You Know, What's New, and What's Weird",
+    "link": "https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "sudo make me coffee — An AI Agent Builds the World's Most Stubborn Teapot",
-    "link": "https://dev.to/deadbyapril/sudo-make-me-coffee-an-ai-agent-builds-the-worlds-most-stubborn-teapot-56lb",
+    "title": "Functions, Generics, and the Stuff That Looks Familiar But Isn't",
+    "link": "https://dev.to/gabrielanhaia/functions-generics-and-the-stuff-that-looks-familiar-but-isnt-2phf",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "npm, March 31: RAT in Axios and Half a Million Lines of Claude Code on GitHub",
-    "link": "https://dev.to/naderevo/npm-march-31-rat-in-axios-and-half-a-million-lines-of-claude-code-on-github-26k4",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ad-Free YouTube With a Custom Player",
-    "link": "https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
-    "link": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a CLI That Shows the Real Cost of Your node_modules (Size + Security + Age)",
-    "link": "https://dev.to/profiterole/i-built-a-cli-that-shows-the-real-cost-of-your-nodemodules-size-security-age-2c6d",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Real-Time Features in React Without WebSocket Libraries",
-    "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "YouTube Changed How Comments Work Internally — Here's What Broke",
-    "link": "https://dev.to/_b5c55d74e876409d257ca/youtube-changed-how-comments-work-internally-heres-what-broke-1klg",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "This Tool Turns Confusing Errors into Actionable Fixes",
-    "link": "https://dev.to/darshan1005/this-tool-turns-confusing-errors-into-actionable-fixes-5blh",
+    "title": "getElementBy... ...destructuring",
+    "link": "https://dev.to/efpage/getelementby-destructuring-1ajc",
     "date": "4/2/2026",
     "site": "dev.to"
   },
@@ -66,56 +360,20 @@
     "site": "dev.to"
   },
   {
-    "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
-    "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+    "title": "The Type System: What You Know, What's New, and What's Weird",
+    "link": "https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "sudo make me coffee — An AI Agent Builds the World's Most Stubborn Teapot",
-    "link": "https://dev.to/deadbyapril/sudo-make-me-coffee-an-ai-agent-builds-the-worlds-most-stubborn-teapot-56lb",
+    "title": "Functions, Generics, and the Stuff That Looks Familiar But Isn't",
+    "link": "https://dev.to/gabrielanhaia/functions-generics-and-the-stuff-that-looks-familiar-but-isnt-2phf",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "npm, March 31: RAT in Axios and Half a Million Lines of Claude Code on GitHub",
-    "link": "https://dev.to/naderevo/npm-march-31-rat-in-axios-and-half-a-million-lines-of-claude-code-on-github-26k4",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ad-Free YouTube With a Custom Player",
-    "link": "https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
-    "link": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a CLI That Shows the Real Cost of Your node_modules (Size + Security + Age)",
-    "link": "https://dev.to/profiterole/i-built-a-cli-that-shows-the-real-cost-of-your-nodemodules-size-security-age-2c6d",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Real-Time Features in React Without WebSocket Libraries",
-    "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "YouTube Changed How Comments Work Internally — Here's What Broke",
-    "link": "https://dev.to/_b5c55d74e876409d257ca/youtube-changed-how-comments-work-internally-heres-what-broke-1klg",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "This Tool Turns Confusing Errors into Actionable Fixes",
-    "link": "https://dev.to/darshan1005/this-tool-turns-confusing-errors-into-actionable-fixes-5blh",
+    "title": "getElementBy... ...destructuring",
+    "link": "https://dev.to/efpage/getelementby-destructuring-1ajc",
     "date": "4/2/2026",
     "site": "dev.to"
   },
@@ -126,56 +384,20 @@
     "site": "dev.to"
   },
   {
-    "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
-    "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+    "title": "The Type System: What You Know, What's New, and What's Weird",
+    "link": "https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "sudo make me coffee — An AI Agent Builds the World's Most Stubborn Teapot",
-    "link": "https://dev.to/deadbyapril/sudo-make-me-coffee-an-ai-agent-builds-the-worlds-most-stubborn-teapot-56lb",
+    "title": "Functions, Generics, and the Stuff That Looks Familiar But Isn't",
+    "link": "https://dev.to/gabrielanhaia/functions-generics-and-the-stuff-that-looks-familiar-but-isnt-2phf",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "npm, March 31: RAT in Axios and Half a Million Lines of Claude Code on GitHub",
-    "link": "https://dev.to/naderevo/npm-march-31-rat-in-axios-and-half-a-million-lines-of-claude-code-on-github-26k4",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ad-Free YouTube With a Custom Player",
-    "link": "https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
-    "link": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a CLI That Shows the Real Cost of Your node_modules (Size + Security + Age)",
-    "link": "https://dev.to/profiterole/i-built-a-cli-that-shows-the-real-cost-of-your-nodemodules-size-security-age-2c6d",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Real-Time Features in React Without WebSocket Libraries",
-    "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "YouTube Changed How Comments Work Internally — Here's What Broke",
-    "link": "https://dev.to/_b5c55d74e876409d257ca/youtube-changed-how-comments-work-internally-heres-what-broke-1klg",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "This Tool Turns Confusing Errors into Actionable Fixes",
-    "link": "https://dev.to/darshan1005/this-tool-turns-confusing-errors-into-actionable-fixes-5blh",
+    "title": "getElementBy... ...destructuring",
+    "link": "https://dev.to/efpage/getelementby-destructuring-1ajc",
     "date": "4/2/2026",
     "site": "dev.to"
   },
@@ -186,56 +408,20 @@
     "site": "dev.to"
   },
   {
-    "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
-    "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+    "title": "The Type System: What You Know, What's New, and What's Weird",
+    "link": "https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "sudo make me coffee — An AI Agent Builds the World's Most Stubborn Teapot",
-    "link": "https://dev.to/deadbyapril/sudo-make-me-coffee-an-ai-agent-builds-the-worlds-most-stubborn-teapot-56lb",
+    "title": "Functions, Generics, and the Stuff That Looks Familiar But Isn't",
+    "link": "https://dev.to/gabrielanhaia/functions-generics-and-the-stuff-that-looks-familiar-but-isnt-2phf",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "npm, March 31: RAT in Axios and Half a Million Lines of Claude Code on GitHub",
-    "link": "https://dev.to/naderevo/npm-march-31-rat-in-axios-and-half-a-million-lines-of-claude-code-on-github-26k4",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ad-Free YouTube With a Custom Player",
-    "link": "https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
-    "link": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a CLI That Shows the Real Cost of Your node_modules (Size + Security + Age)",
-    "link": "https://dev.to/profiterole/i-built-a-cli-that-shows-the-real-cost-of-your-nodemodules-size-security-age-2c6d",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Real-Time Features in React Without WebSocket Libraries",
-    "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "YouTube Changed How Comments Work Internally — Here's What Broke",
-    "link": "https://dev.to/_b5c55d74e876409d257ca/youtube-changed-how-comments-work-internally-heres-what-broke-1klg",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "This Tool Turns Confusing Errors into Actionable Fixes",
-    "link": "https://dev.to/darshan1005/this-tool-turns-confusing-errors-into-actionable-fixes-5blh",
+    "title": "getElementBy... ...destructuring",
+    "link": "https://dev.to/efpage/getelementby-destructuring-1ajc",
     "date": "4/2/2026",
     "site": "dev.to"
   },
@@ -246,207 +432,21 @@
     "site": "dev.to"
   },
   {
-    "title": "🚀 I Built an API Documentation Generator That Works in 5 Seconds",
-    "link": "https://dev.to/jarvis_684002c699f9a6a63e/i-built-an-api-documentation-generator-that-works-in-5-seconds-4a0h",
+    "title": "The Type System: What You Know, What's New, and What's Weird",
+    "link": "https://dev.to/gabrielanhaia/the-type-system-what-you-know-whats-new-and-whats-weird-3ojd",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "sudo make me coffee — An AI Agent Builds the World's Most Stubborn Teapot",
-    "link": "https://dev.to/deadbyapril/sudo-make-me-coffee-an-ai-agent-builds-the-worlds-most-stubborn-teapot-56lb",
+    "title": "Functions, Generics, and the Stuff That Looks Familiar But Isn't",
+    "link": "https://dev.to/gabrielanhaia/functions-generics-and-the-stuff-that-looks-familiar-but-isnt-2phf",
     "date": "4/2/2026",
     "site": "dev.to"
   },
   {
-    "title": "npm, March 31: RAT in Axios and Half a Million Lines of Claude Code on GitHub",
-    "link": "https://dev.to/naderevo/npm-march-31-rat-in-axios-and-half-a-million-lines-of-claude-code-on-github-26k4",
+    "title": "getElementBy... ...destructuring",
+    "link": "https://dev.to/efpage/getelementby-destructuring-1ajc",
     "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ad-Free YouTube With a Custom Player",
-    "link": "https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What I Learned from Reading Claude Code’s Reconstructed Source",
-    "link": "https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a CLI That Shows the Real Cost of Your node_modules (Size + Security + Age)",
-    "link": "https://dev.to/profiterole/i-built-a-cli-that-shows-the-real-cost-of-your-nodemodules-size-security-age-2c6d",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Real-Time Features in React Without WebSocket Libraries",
-    "link": "https://dev.to/childrentime/building-real-time-features-in-react-without-websocket-libraries-4lm8",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "YouTube Changed How Comments Work Internally — Here's What Broke",
-    "link": "https://dev.to/_b5c55d74e876409d257ca/youtube-changed-how-comments-work-internally-heres-what-broke-1klg",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "This Tool Turns Confusing Errors into Actionable Fixes",
-    "link": "https://dev.to/darshan1005/this-tool-turns-confusing-errors-into-actionable-fixes-5blh",
-    "date": "4/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
-    "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Writes Better UI Without React Than With It",
-    "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Engineering & Security News Aggregator (10 Sources, No APIs)",
-    "link": "https://dev.to/jefferyhus/building-an-engineering-security-news-aggregator-10-sources-no-apis-1dc9",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js is the Ultimate Tool for the BFF (Backend-for-Frontend) Pattern?",
-    "link": "https://dev.to/carlosorioli/why-nextjs-is-the-ultimate-tool-for-the-bff-backend-for-frontend-pattern-4lej",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
-    "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Writes Better UI Without React Than With It",
-    "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Engineering & Security News Aggregator (10 Sources, No APIs)",
-    "link": "https://dev.to/jefferyhus/building-an-engineering-security-news-aggregator-10-sources-no-apis-1dc9",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js is the Ultimate Tool for the BFF (Backend-for-Frontend) Pattern?",
-    "link": "https://dev.to/carlosorioli/why-nextjs-is-the-ultimate-tool-for-the-bff-backend-for-frontend-pattern-4lej",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
-    "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Writes Better UI Without React Than With It",
-    "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Engineering & Security News Aggregator (10 Sources, No APIs)",
-    "link": "https://dev.to/jefferyhus/building-an-engineering-security-news-aggregator-10-sources-no-apis-1dc9",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js is the Ultimate Tool for the BFF (Backend-for-Frontend) Pattern?",
-    "link": "https://dev.to/carlosorioli/why-nextjs-is-the-ultimate-tool-for-the-bff-backend-for-frontend-pattern-4lej",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
-    "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Writes Better UI Without React Than With It",
-    "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Engineering & Security News Aggregator (10 Sources, No APIs)",
-    "link": "https://dev.to/jefferyhus/building-an-engineering-security-news-aggregator-10-sources-no-apis-1dc9",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js is the Ultimate Tool for the BFF (Backend-for-Frontend) Pattern?",
-    "link": "https://dev.to/carlosorioli/why-nextjs-is-the-ultimate-tool-for-the-bff-backend-for-frontend-pattern-4lej",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blazor WASM's Deputy Thread Model Will Break JavaScript Interop - Here's Why That Matters",
-    "link": "https://dev.to/lostbeard/blazor-wasms-deputy-thread-model-will-break-javascript-interop-heres-why-that-matters-1n9n",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AI Writes Better UI Without React Than With It",
-    "link": "https://dev.to/endenwer/ai-writes-better-ui-without-react-than-with-it-26fl",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Engineering & Security News Aggregator (10 Sources, No APIs)",
-    "link": "https://dev.to/jefferyhus/building-an-engineering-security-news-aggregator-10-sources-no-apis-1dc9",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js is the Ultimate Tool for the BFF (Backend-for-Frontend) Pattern?",
-    "link": "https://dev.to/carlosorioli/why-nextjs-is-the-ultimate-tool-for-the-bff-backend-for-frontend-pattern-4lej",
-    "date": "4/1/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-    "date": "3/31/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt My JavaScript Database From Scratch for the AI Agent Era",
-    "link": "https://dev.to/tarekraafat/i-rebuilt-my-javascript-database-from-scratch-for-the-ai-agent-era-h62",
-    "date": "3/31/2026",
     "site": "dev.to"
   },
   {
@@ -662,7 +662,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
