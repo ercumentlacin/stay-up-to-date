@@ -1,91 +1,421 @@
 [
   {
-    "title": "Less Is More: Why We Added a Flag to Disable Our Best Feature",
-    "link": "https://dev.to/iwtxokhtd83/less-is-more-why-we-added-a-flag-to-disable-our-best-feature-jc9",
+    "title": "\"I Pointed Claude Code at My Local Ollama Models — Here's the 3-Minute Setup\"",
+    "link": "https://dev.to/yiyaoai/i-pointed-claude-code-at-my-local-ollama-models-heres-the-3-minute-setup-4hha",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Flight Was Cancelled. Here's How I Built a Tool That Finds Every EU261 Claim at Any Airport",
+    "link": "https://dev.to/jfcaba/your-flight-was-cancelled-heres-how-i-built-a-tool-that-finds-every-eu261-claim-at-any-airport-2e9k",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Shareable Diagnostics: Generating HTML Reports From Production Profiling",
+    "link": "https://dev.to/iwtxokhtd83/shareable-diagnostics-generating-html-reports-from-production-profiling-4cnm",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Profiling the Threads You Forgot About: Worker Thread Diagnostics in Node.js",
+    "link": "https://dev.to/iwtxokhtd83/profiling-the-threads-you-forgot-about-worker-thread-diagnostics-in-nodejs-30ii",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why One Second Wasn't Enough: Adding Retry Logic to a Diagnostic Tool",
+    "link": "https://dev.to/iwtxokhtd83/why-one-second-wasnt-enough-adding-retry-logic-to-a-diagnostic-tool-4ah9",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Built a live chat platform entirely from Termux on my Android phone — no laptop needed",
+    "link": "https://dev.to/jesus_miguel_24e6e677cfb0/built-a-live-chat-platform-entirely-from-termux-on-my-android-phone-no-laptop-needed-2plh",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"I Pointed Claude Code at My Local Ollama Models — Here's the 3-Minute Setup\"",
+    "link": "https://dev.to/yiyaoai/i-pointed-claude-code-at-my-local-ollama-models-heres-the-3-minute-setup-4hha",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Flight Was Cancelled. Here's How I Built a Tool That Finds Every EU261 Claim at Any Airport",
+    "link": "https://dev.to/jfcaba/your-flight-was-cancelled-heres-how-i-built-a-tool-that-finds-every-eu261-claim-at-any-airport-2e9k",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Shareable Diagnostics: Generating HTML Reports From Production Profiling",
+    "link": "https://dev.to/iwtxokhtd83/shareable-diagnostics-generating-html-reports-from-production-profiling-4cnm",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Profiling the Threads You Forgot About: Worker Thread Diagnostics in Node.js",
+    "link": "https://dev.to/iwtxokhtd83/profiling-the-threads-you-forgot-about-worker-thread-diagnostics-in-nodejs-30ii",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why One Second Wasn't Enough: Adding Retry Logic to a Diagnostic Tool",
+    "link": "https://dev.to/iwtxokhtd83/why-one-second-wasnt-enough-adding-retry-logic-to-a-diagnostic-tool-4ah9",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Built a live chat platform entirely from Termux on my Android phone — no laptop needed",
+    "link": "https://dev.to/jesus_miguel_24e6e677cfb0/built-a-live-chat-platform-entirely-from-termux-on-my-android-phone-no-laptop-needed-2plh",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"I Pointed Claude Code at My Local Ollama Models — Here's the 3-Minute Setup\"",
+    "link": "https://dev.to/yiyaoai/i-pointed-claude-code-at-my-local-ollama-models-heres-the-3-minute-setup-4hha",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Flight Was Cancelled. Here's How I Built a Tool That Finds Every EU261 Claim at Any Airport",
+    "link": "https://dev.to/jfcaba/your-flight-was-cancelled-heres-how-i-built-a-tool-that-finds-every-eu261-claim-at-any-airport-2e9k",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Shareable Diagnostics: Generating HTML Reports From Production Profiling",
+    "link": "https://dev.to/iwtxokhtd83/shareable-diagnostics-generating-html-reports-from-production-profiling-4cnm",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Profiling the Threads You Forgot About: Worker Thread Diagnostics in Node.js",
+    "link": "https://dev.to/iwtxokhtd83/profiling-the-threads-you-forgot-about-worker-thread-diagnostics-in-nodejs-30ii",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why One Second Wasn't Enough: Adding Retry Logic to a Diagnostic Tool",
+    "link": "https://dev.to/iwtxokhtd83/why-one-second-wasnt-enough-adding-retry-logic-to-a-diagnostic-tool-4ah9",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Built a live chat platform entirely from Termux on my Android phone — no laptop needed",
+    "link": "https://dev.to/jesus_miguel_24e6e677cfb0/built-a-live-chat-platform-entirely-from-termux-on-my-android-phone-no-laptop-needed-2plh",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"I Pointed Claude Code at My Local Ollama Models — Here's the 3-Minute Setup\"",
+    "link": "https://dev.to/yiyaoai/i-pointed-claude-code-at-my-local-ollama-models-heres-the-3-minute-setup-4hha",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Flight Was Cancelled. Here's How I Built a Tool That Finds Every EU261 Claim at Any Airport",
+    "link": "https://dev.to/jfcaba/your-flight-was-cancelled-heres-how-i-built-a-tool-that-finds-every-eu261-claim-at-any-airport-2e9k",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Shareable Diagnostics: Generating HTML Reports From Production Profiling",
+    "link": "https://dev.to/iwtxokhtd83/shareable-diagnostics-generating-html-reports-from-production-profiling-4cnm",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Profiling the Threads You Forgot About: Worker Thread Diagnostics in Node.js",
+    "link": "https://dev.to/iwtxokhtd83/profiling-the-threads-you-forgot-about-worker-thread-diagnostics-in-nodejs-30ii",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why One Second Wasn't Enough: Adding Retry Logic to a Diagnostic Tool",
+    "link": "https://dev.to/iwtxokhtd83/why-one-second-wasnt-enough-adding-retry-logic-to-a-diagnostic-tool-4ah9",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Built a live chat platform entirely from Termux on my Android phone — no laptop needed",
+    "link": "https://dev.to/jesus_miguel_24e6e677cfb0/built-a-live-chat-platform-entirely-from-termux-on-my-android-phone-no-laptop-needed-2plh",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"I Pointed Claude Code at My Local Ollama Models — Here's the 3-Minute Setup\"",
+    "link": "https://dev.to/yiyaoai/i-pointed-claude-code-at-my-local-ollama-models-heres-the-3-minute-setup-4hha",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Flight Was Cancelled. Here's How I Built a Tool That Finds Every EU261 Claim at Any Airport",
+    "link": "https://dev.to/jfcaba/your-flight-was-cancelled-heres-how-i-built-a-tool-that-finds-every-eu261-claim-at-any-airport-2e9k",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Shareable Diagnostics: Generating HTML Reports From Production Profiling",
+    "link": "https://dev.to/iwtxokhtd83/shareable-diagnostics-generating-html-reports-from-production-profiling-4cnm",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Profiling the Threads You Forgot About: Worker Thread Diagnostics in Node.js",
+    "link": "https://dev.to/iwtxokhtd83/profiling-the-threads-you-forgot-about-worker-thread-diagnostics-in-nodejs-30ii",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why One Second Wasn't Enough: Adding Retry Logic to a Diagnostic Tool",
+    "link": "https://dev.to/iwtxokhtd83/why-one-second-wasnt-enough-adding-retry-logic-to-a-diagnostic-tool-4ah9",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Built a live chat platform entirely from Termux on my Android phone — no laptop needed",
+    "link": "https://dev.to/jesus_miguel_24e6e677cfb0/built-a-live-chat-platform-entirely-from-termux-on-my-android-phone-no-laptop-needed-2plh",
+    "date": "4/10/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "layercache: Stop Paying Redis Latency on Every Hot Read",
+    "link": "https://dev.to/flyingsquirrel0419/layercache-stop-paying-redis-latency-on-every-hot-read-m8l",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building High-Performance Vector Search in Node.js with FAISS — Without Blocking the Event Loop",
-    "link": "https://dev.to/anupammaurya6767/building-high-performance-vector-search-in-nodejs-with-faiss-without-blocking-the-event-loop-34mg",
+    "title": "I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.",
+    "link": "https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
-    "link": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
+    "title": "YINI (config format) RC.5 and yini-parser 1.5.0: making configuration stricter, clearer, and easier to trust",
+    "link": "https://dev.to/marko_kseppnen_6250a7f/yini-config-format-rc5-and-yini-parser-150-making-configuration-stricter-clearer-and-easier-29na",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "Less Is More: Why We Added a Flag to Disable Our Best Feature",
-    "link": "https://dev.to/iwtxokhtd83/less-is-more-why-we-added-a-flag-to-disable-our-best-feature-jc9",
+    "title": "How to Run A2A-Compatible Agents on a Single VPS (No Docker, No Kubernetes)",
+    "link": "https://dev.to/maretto/how-to-run-a2a-compatible-agents-on-a-single-vps-no-docker-no-kubernetes-143n",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building High-Performance Vector Search in Node.js with FAISS — Without Blocking the Event Loop",
-    "link": "https://dev.to/anupammaurya6767/building-high-performance-vector-search-in-nodejs-with-faiss-without-blocking-the-event-loop-34mg",
+    "title": "Optimizing Complex Sequelize Queries: Search, Sorting & Pagination Done Right",
+    "link": "https://dev.to/muhammad_usman_35b52e4f04/optimizing-complex-sequelize-queries-search-sorting-pagination-done-right-1ond",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
-    "link": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
+    "title": "When the Patient Dies on the Table: Handling Target Process Exit During Profiling",
+    "link": "https://dev.to/iwtxokhtd83/when-the-patient-dies-on-the-table-handling-target-process-exit-during-profiling-269f",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "Less Is More: Why We Added a Flag to Disable Our Best Feature",
-    "link": "https://dev.to/iwtxokhtd83/less-is-more-why-we-added-a-flag-to-disable-our-best-feature-jc9",
+    "title": "🚀 I Built QNVS — A Node.js Version Manager That Doesn't Need Admin Rights (Yes, Even on Windows)",
+    "link": "https://dev.to/rp01/i-built-qnvs-a-nodejs-version-manager-that-doesnt-need-admin-rights-yes-even-on-windows-20k1",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building High-Performance Vector Search in Node.js with FAISS — Without Blocking the Event Loop",
-    "link": "https://dev.to/anupammaurya6767/building-high-performance-vector-search-in-nodejs-with-faiss-without-blocking-the-event-loop-34mg",
+    "title": "Saving yourself from npm",
+    "link": "https://dev.to/chinmaymoghe/saving-yourself-from-npm-4hle",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
-    "link": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
+    "title": "layercache: Stop Paying Redis Latency on Every Hot Read",
+    "link": "https://dev.to/flyingsquirrel0419/layercache-stop-paying-redis-latency-on-every-hot-read-m8l",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "Less Is More: Why We Added a Flag to Disable Our Best Feature",
-    "link": "https://dev.to/iwtxokhtd83/less-is-more-why-we-added-a-flag-to-disable-our-best-feature-jc9",
+    "title": "I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.",
+    "link": "https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building High-Performance Vector Search in Node.js with FAISS — Without Blocking the Event Loop",
-    "link": "https://dev.to/anupammaurya6767/building-high-performance-vector-search-in-nodejs-with-faiss-without-blocking-the-event-loop-34mg",
+    "title": "YINI (config format) RC.5 and yini-parser 1.5.0: making configuration stricter, clearer, and easier to trust",
+    "link": "https://dev.to/marko_kseppnen_6250a7f/yini-config-format-rc5-and-yini-parser-150-making-configuration-stricter-clearer-and-easier-29na",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
-    "link": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
+    "title": "How to Run A2A-Compatible Agents on a Single VPS (No Docker, No Kubernetes)",
+    "link": "https://dev.to/maretto/how-to-run-a2a-compatible-agents-on-a-single-vps-no-docker-no-kubernetes-143n",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "Less Is More: Why We Added a Flag to Disable Our Best Feature",
-    "link": "https://dev.to/iwtxokhtd83/less-is-more-why-we-added-a-flag-to-disable-our-best-feature-jc9",
+    "title": "Optimizing Complex Sequelize Queries: Search, Sorting & Pagination Done Right",
+    "link": "https://dev.to/muhammad_usman_35b52e4f04/optimizing-complex-sequelize-queries-search-sorting-pagination-done-right-1ond",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building High-Performance Vector Search in Node.js with FAISS — Without Blocking the Event Loop",
-    "link": "https://dev.to/anupammaurya6767/building-high-performance-vector-search-in-nodejs-with-faiss-without-blocking-the-event-loop-34mg",
+    "title": "When the Patient Dies on the Table: Handling Target Process Exit During Profiling",
+    "link": "https://dev.to/iwtxokhtd83/when-the-patient-dies-on-the-table-handling-target-process-exit-during-profiling-269f",
     "date": "4/9/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a 1.6M-Parameter Offline Text-to-Speech Engine for Node.js — Here's How",
-    "link": "https://dev.to/tronghieuit/i-built-a-16m-parameter-offline-text-to-speech-engine-for-nodejs-heres-how-3dp8",
+    "title": "🚀 I Built QNVS — A Node.js Version Manager That Doesn't Need Admin Rights (Yes, Even on Windows)",
+    "link": "https://dev.to/rp01/i-built-qnvs-a-nodejs-version-manager-that-doesnt-need-admin-rights-yes-even-on-windows-20k1",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Saving yourself from npm",
+    "link": "https://dev.to/chinmaymoghe/saving-yourself-from-npm-4hle",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "layercache: Stop Paying Redis Latency on Every Hot Read",
+    "link": "https://dev.to/flyingsquirrel0419/layercache-stop-paying-redis-latency-on-every-hot-read-m8l",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.",
+    "link": "https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "YINI (config format) RC.5 and yini-parser 1.5.0: making configuration stricter, clearer, and easier to trust",
+    "link": "https://dev.to/marko_kseppnen_6250a7f/yini-config-format-rc5-and-yini-parser-150-making-configuration-stricter-clearer-and-easier-29na",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Run A2A-Compatible Agents on a Single VPS (No Docker, No Kubernetes)",
+    "link": "https://dev.to/maretto/how-to-run-a2a-compatible-agents-on-a-single-vps-no-docker-no-kubernetes-143n",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Optimizing Complex Sequelize Queries: Search, Sorting & Pagination Done Right",
+    "link": "https://dev.to/muhammad_usman_35b52e4f04/optimizing-complex-sequelize-queries-search-sorting-pagination-done-right-1ond",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When the Patient Dies on the Table: Handling Target Process Exit During Profiling",
+    "link": "https://dev.to/iwtxokhtd83/when-the-patient-dies-on-the-table-handling-target-process-exit-during-profiling-269f",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 I Built QNVS — A Node.js Version Manager That Doesn't Need Admin Rights (Yes, Even on Windows)",
+    "link": "https://dev.to/rp01/i-built-qnvs-a-nodejs-version-manager-that-doesnt-need-admin-rights-yes-even-on-windows-20k1",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Saving yourself from npm",
+    "link": "https://dev.to/chinmaymoghe/saving-yourself-from-npm-4hle",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "layercache: Stop Paying Redis Latency on Every Hot Read",
+    "link": "https://dev.to/flyingsquirrel0419/layercache-stop-paying-redis-latency-on-every-hot-read-m8l",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.",
+    "link": "https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "YINI (config format) RC.5 and yini-parser 1.5.0: making configuration stricter, clearer, and easier to trust",
+    "link": "https://dev.to/marko_kseppnen_6250a7f/yini-config-format-rc5-and-yini-parser-150-making-configuration-stricter-clearer-and-easier-29na",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Run A2A-Compatible Agents on a Single VPS (No Docker, No Kubernetes)",
+    "link": "https://dev.to/maretto/how-to-run-a2a-compatible-agents-on-a-single-vps-no-docker-no-kubernetes-143n",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Optimizing Complex Sequelize Queries: Search, Sorting & Pagination Done Right",
+    "link": "https://dev.to/muhammad_usman_35b52e4f04/optimizing-complex-sequelize-queries-search-sorting-pagination-done-right-1ond",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When the Patient Dies on the Table: Handling Target Process Exit During Profiling",
+    "link": "https://dev.to/iwtxokhtd83/when-the-patient-dies-on-the-table-handling-target-process-exit-during-profiling-269f",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 I Built QNVS — A Node.js Version Manager That Doesn't Need Admin Rights (Yes, Even on Windows)",
+    "link": "https://dev.to/rp01/i-built-qnvs-a-nodejs-version-manager-that-doesnt-need-admin-rights-yes-even-on-windows-20k1",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Saving yourself from npm",
+    "link": "https://dev.to/chinmaymoghe/saving-yourself-from-npm-4hle",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "layercache: Stop Paying Redis Latency on Every Hot Read",
+    "link": "https://dev.to/flyingsquirrel0419/layercache-stop-paying-redis-latency-on-every-hot-read-m8l",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.",
+    "link": "https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "YINI (config format) RC.5 and yini-parser 1.5.0: making configuration stricter, clearer, and easier to trust",
+    "link": "https://dev.to/marko_kseppnen_6250a7f/yini-config-format-rc5-and-yini-parser-150-making-configuration-stricter-clearer-and-easier-29na",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Run A2A-Compatible Agents on a Single VPS (No Docker, No Kubernetes)",
+    "link": "https://dev.to/maretto/how-to-run-a2a-compatible-agents-on-a-single-vps-no-docker-no-kubernetes-143n",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Optimizing Complex Sequelize Queries: Search, Sorting & Pagination Done Right",
+    "link": "https://dev.to/muhammad_usman_35b52e4f04/optimizing-complex-sequelize-queries-search-sorting-pagination-done-right-1ond",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When the Patient Dies on the Table: Handling Target Process Exit During Profiling",
+    "link": "https://dev.to/iwtxokhtd83/when-the-patient-dies-on-the-table-handling-target-process-exit-during-profiling-269f",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 I Built QNVS — A Node.js Version Manager That Doesn't Need Admin Rights (Yes, Even on Windows)",
+    "link": "https://dev.to/rp01/i-built-qnvs-a-nodejs-version-manager-that-doesnt-need-admin-rights-yes-even-on-windows-20k1",
+    "date": "4/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Saving yourself from npm",
+    "link": "https://dev.to/chinmaymoghe/saving-yourself-from-npm-4hle",
     "date": "4/9/2026",
     "site": "dev.to"
   },
@@ -96,62 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Stop Writing Types Twice: A Fullstack TypeScript Playbook",
-    "link": "https://dev.to/kshyatisekhar_panda_a6076/stop-writing-types-twice-a-fullstack-typescript-playbook-3dch",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Invisible Network Calls: Tracking fetch() and dns.promises in Node.js",
-    "link": "https://dev.to/iwtxokhtd83/the-invisible-network-calls-tracking-fetch-and-dnspromises-in-nodejs-4cph",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Migrating a Legacy Codebase Across 15+ Modules Without Downtime: An Engineering Transformation Story",
-    "link": "https://dev.to/oluwatosinolamilekan/migrating-a-legacy-codebase-across-15-modules-without-downtime-an-engineering-transformation-story-776",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "pnpm vs npm vs Yarn 2026: Which Package Manager Should You Use?",
-    "link": "https://dev.to/jake_kim_bd3065a6816799db/pnpm-vs-npm-vs-yarn-2026-which-package-manager-should-you-use-1hb7",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Terminal to Flame Graph: Exporting CPU Profiles From Production",
-    "link": "https://dev.to/iwtxokhtd83/from-terminal-to-flame-graph-exporting-cpu-profiles-from-production-3eel",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Memory and Payments to Your AI Agent in 5 Minutes",
-    "link": "https://dev.to/t49qnsx7qtkpanks/how-to-add-memory-and-payments-to-your-ai-agent-in-5-minutes-3ca9",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "SQL Injection Prevention in Python and Node.js: Parameterized Queries Guide",
-    "link": "https://dev.to/roymorken/sql-injection-prevention-in-python-and-nodejs-parameterized-queries-guide-3bi8",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lightweight, Offline Text-to-Speech Solution for Node.js Applications",
-    "link": "https://dev.to/pavkode/lightweight-offline-text-to-speech-solution-for-nodejs-applications-4n68",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AdonisJS vs Ruby on Rails: Which MVC Framework Wins?",
-    "link": "https://dev.to/zilton7/adonisjs-vs-ruby-on-rails-which-mvc-framework-wins-4bgn",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Most Companies Hire the Wrong Node.js Developer and How to Avoid It",
-    "link": "https://dev.to/sysgears/why-most-companies-hire-the-wrong-nodejs-developer-and-how-to-avoid-it-43c",
+    "title": "Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)",
+    "link": "https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f",
     "date": "4/8/2026",
     "site": "dev.to"
   },
@@ -162,62 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Stop Writing Types Twice: A Fullstack TypeScript Playbook",
-    "link": "https://dev.to/kshyatisekhar_panda_a6076/stop-writing-types-twice-a-fullstack-typescript-playbook-3dch",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Invisible Network Calls: Tracking fetch() and dns.promises in Node.js",
-    "link": "https://dev.to/iwtxokhtd83/the-invisible-network-calls-tracking-fetch-and-dnspromises-in-nodejs-4cph",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Migrating a Legacy Codebase Across 15+ Modules Without Downtime: An Engineering Transformation Story",
-    "link": "https://dev.to/oluwatosinolamilekan/migrating-a-legacy-codebase-across-15-modules-without-downtime-an-engineering-transformation-story-776",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "pnpm vs npm vs Yarn 2026: Which Package Manager Should You Use?",
-    "link": "https://dev.to/jake_kim_bd3065a6816799db/pnpm-vs-npm-vs-yarn-2026-which-package-manager-should-you-use-1hb7",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Terminal to Flame Graph: Exporting CPU Profiles From Production",
-    "link": "https://dev.to/iwtxokhtd83/from-terminal-to-flame-graph-exporting-cpu-profiles-from-production-3eel",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Memory and Payments to Your AI Agent in 5 Minutes",
-    "link": "https://dev.to/t49qnsx7qtkpanks/how-to-add-memory-and-payments-to-your-ai-agent-in-5-minutes-3ca9",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "SQL Injection Prevention in Python and Node.js: Parameterized Queries Guide",
-    "link": "https://dev.to/roymorken/sql-injection-prevention-in-python-and-nodejs-parameterized-queries-guide-3bi8",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lightweight, Offline Text-to-Speech Solution for Node.js Applications",
-    "link": "https://dev.to/pavkode/lightweight-offline-text-to-speech-solution-for-nodejs-applications-4n68",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AdonisJS vs Ruby on Rails: Which MVC Framework Wins?",
-    "link": "https://dev.to/zilton7/adonisjs-vs-ruby-on-rails-which-mvc-framework-wins-4bgn",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Most Companies Hire the Wrong Node.js Developer and How to Avoid It",
-    "link": "https://dev.to/sysgears/why-most-companies-hire-the-wrong-nodejs-developer-and-how-to-avoid-it-43c",
+    "title": "Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)",
+    "link": "https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f",
     "date": "4/8/2026",
     "site": "dev.to"
   },
@@ -225,228 +447,6 @@
     "title": "Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)",
     "link": "https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f",
     "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Writing Types Twice: A Fullstack TypeScript Playbook",
-    "link": "https://dev.to/kshyatisekhar_panda_a6076/stop-writing-types-twice-a-fullstack-typescript-playbook-3dch",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Invisible Network Calls: Tracking fetch() and dns.promises in Node.js",
-    "link": "https://dev.to/iwtxokhtd83/the-invisible-network-calls-tracking-fetch-and-dnspromises-in-nodejs-4cph",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Migrating a Legacy Codebase Across 15+ Modules Without Downtime: An Engineering Transformation Story",
-    "link": "https://dev.to/oluwatosinolamilekan/migrating-a-legacy-codebase-across-15-modules-without-downtime-an-engineering-transformation-story-776",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "pnpm vs npm vs Yarn 2026: Which Package Manager Should You Use?",
-    "link": "https://dev.to/jake_kim_bd3065a6816799db/pnpm-vs-npm-vs-yarn-2026-which-package-manager-should-you-use-1hb7",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Terminal to Flame Graph: Exporting CPU Profiles From Production",
-    "link": "https://dev.to/iwtxokhtd83/from-terminal-to-flame-graph-exporting-cpu-profiles-from-production-3eel",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Memory and Payments to Your AI Agent in 5 Minutes",
-    "link": "https://dev.to/t49qnsx7qtkpanks/how-to-add-memory-and-payments-to-your-ai-agent-in-5-minutes-3ca9",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "SQL Injection Prevention in Python and Node.js: Parameterized Queries Guide",
-    "link": "https://dev.to/roymorken/sql-injection-prevention-in-python-and-nodejs-parameterized-queries-guide-3bi8",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lightweight, Offline Text-to-Speech Solution for Node.js Applications",
-    "link": "https://dev.to/pavkode/lightweight-offline-text-to-speech-solution-for-nodejs-applications-4n68",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AdonisJS vs Ruby on Rails: Which MVC Framework Wins?",
-    "link": "https://dev.to/zilton7/adonisjs-vs-ruby-on-rails-which-mvc-framework-wins-4bgn",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Most Companies Hire the Wrong Node.js Developer and How to Avoid It",
-    "link": "https://dev.to/sysgears/why-most-companies-hire-the-wrong-nodejs-developer-and-how-to-avoid-it-43c",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)",
-    "link": "https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Writing Types Twice: A Fullstack TypeScript Playbook",
-    "link": "https://dev.to/kshyatisekhar_panda_a6076/stop-writing-types-twice-a-fullstack-typescript-playbook-3dch",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Invisible Network Calls: Tracking fetch() and dns.promises in Node.js",
-    "link": "https://dev.to/iwtxokhtd83/the-invisible-network-calls-tracking-fetch-and-dnspromises-in-nodejs-4cph",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Migrating a Legacy Codebase Across 15+ Modules Without Downtime: An Engineering Transformation Story",
-    "link": "https://dev.to/oluwatosinolamilekan/migrating-a-legacy-codebase-across-15-modules-without-downtime-an-engineering-transformation-story-776",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "pnpm vs npm vs Yarn 2026: Which Package Manager Should You Use?",
-    "link": "https://dev.to/jake_kim_bd3065a6816799db/pnpm-vs-npm-vs-yarn-2026-which-package-manager-should-you-use-1hb7",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Terminal to Flame Graph: Exporting CPU Profiles From Production",
-    "link": "https://dev.to/iwtxokhtd83/from-terminal-to-flame-graph-exporting-cpu-profiles-from-production-3eel",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Memory and Payments to Your AI Agent in 5 Minutes",
-    "link": "https://dev.to/t49qnsx7qtkpanks/how-to-add-memory-and-payments-to-your-ai-agent-in-5-minutes-3ca9",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "SQL Injection Prevention in Python and Node.js: Parameterized Queries Guide",
-    "link": "https://dev.to/roymorken/sql-injection-prevention-in-python-and-nodejs-parameterized-queries-guide-3bi8",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lightweight, Offline Text-to-Speech Solution for Node.js Applications",
-    "link": "https://dev.to/pavkode/lightweight-offline-text-to-speech-solution-for-nodejs-applications-4n68",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AdonisJS vs Ruby on Rails: Which MVC Framework Wins?",
-    "link": "https://dev.to/zilton7/adonisjs-vs-ruby-on-rails-which-mvc-framework-wins-4bgn",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Most Companies Hire the Wrong Node.js Developer and How to Avoid It",
-    "link": "https://dev.to/sysgears/why-most-companies-hire-the-wrong-nodejs-developer-and-how-to-avoid-it-43c",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Four Bugs We Found in Our Node.js Rate Limiter (And How We Fixed Them)",
-    "link": "https://dev.to/iwtxokhtd83/four-bugs-we-found-in-our-nodejs-rate-limiter-and-how-we-fixed-them-2c0f",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Writing Types Twice: A Fullstack TypeScript Playbook",
-    "link": "https://dev.to/kshyatisekhar_panda_a6076/stop-writing-types-twice-a-fullstack-typescript-playbook-3dch",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Invisible Network Calls: Tracking fetch() and dns.promises in Node.js",
-    "link": "https://dev.to/iwtxokhtd83/the-invisible-network-calls-tracking-fetch-and-dnspromises-in-nodejs-4cph",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Migrating a Legacy Codebase Across 15+ Modules Without Downtime: An Engineering Transformation Story",
-    "link": "https://dev.to/oluwatosinolamilekan/migrating-a-legacy-codebase-across-15-modules-without-downtime-an-engineering-transformation-story-776",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "pnpm vs npm vs Yarn 2026: Which Package Manager Should You Use?",
-    "link": "https://dev.to/jake_kim_bd3065a6816799db/pnpm-vs-npm-vs-yarn-2026-which-package-manager-should-you-use-1hb7",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From Terminal to Flame Graph: Exporting CPU Profiles From Production",
-    "link": "https://dev.to/iwtxokhtd83/from-terminal-to-flame-graph-exporting-cpu-profiles-from-production-3eel",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Add Memory and Payments to Your AI Agent in 5 Minutes",
-    "link": "https://dev.to/t49qnsx7qtkpanks/how-to-add-memory-and-payments-to-your-ai-agent-in-5-minutes-3ca9",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "SQL Injection Prevention in Python and Node.js: Parameterized Queries Guide",
-    "link": "https://dev.to/roymorken/sql-injection-prevention-in-python-and-nodejs-parameterized-queries-guide-3bi8",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lightweight, Offline Text-to-Speech Solution for Node.js Applications",
-    "link": "https://dev.to/pavkode/lightweight-offline-text-to-speech-solution-for-nodejs-applications-4n68",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AdonisJS vs Ruby on Rails: Which MVC Framework Wins?",
-    "link": "https://dev.to/zilton7/adonisjs-vs-ruby-on-rails-which-mvc-framework-wins-4bgn",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Most Companies Hire the Wrong Node.js Developer and How to Avoid It",
-    "link": "https://dev.to/sysgears/why-most-companies-hire-the-wrong-nodejs-developer-and-how-to-avoid-it-43c",
-    "date": "4/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "dotenv-audit v1.1.0 — now with .env.example auto-sync",
-    "link": "https://dev.to/akashguptasky/dotenv-audit-v110-now-with-envexample-auto-sync-18ei",
-    "date": "4/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "dotenv-audit v1.1.0 — now with .env.example auto-sync",
-    "link": "https://dev.to/akashguptasky/dotenv-audit-v110-now-with-envexample-auto-sync-18ei",
-    "date": "4/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "dotenv-audit v1.1.0 — now with .env.example auto-sync",
-    "link": "https://dev.to/akashguptasky/dotenv-audit-v110-now-with-envexample-auto-sync-18ei",
-    "date": "4/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "dotenv-audit v1.1.0 — now with .env.example auto-sync",
-    "link": "https://dev.to/akashguptasky/dotenv-audit-v110-now-with-envexample-auto-sync-18ei",
-    "date": "4/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "dotenv-audit v1.1.0 — now with .env.example auto-sync",
-    "link": "https://dev.to/akashguptasky/dotenv-audit-v110-now-with-envexample-auto-sync-18ei",
-    "date": "4/7/2026",
     "site": "dev.to"
   },
   {
@@ -466,7 +466,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -480,7 +480,7 @@
   {
     "title": "How To Protect Your API Key In Production With Next.js API Route",
     "link": "https://www.smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "12/2/2021",
     "site": "smashingmagazine"
   },
@@ -508,7 +508,7 @@
   {
     "title": "The Guide To Ethical Scraping Of Dynamic Websites With Node.js And Puppeteer",
     "link": "https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "3/11/2021",
     "site": "smashingmagazine"
   },
@@ -543,7 +543,7 @@
   {
     "title": "Getting Started With Axios In Nuxt",
     "link": "https://www.smashingmagazine.com/2020/05/getting-started-axios-nuxt/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "5/26/2020",
     "site": "smashingmagazine"
   },
@@ -592,7 +592,7 @@
   {
     "title": "Building A Node.js Express API To Convert Markdown To HTML",
     "link": "https://www.smashingmagazine.com/2019/04/nodejs-express-api-markdown-html/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "4/23/2019",
     "site": "smashingmagazine"
   },
@@ -655,14 +655,14 @@
   {
     "title": "How To Build A Skin For Your Web App With React And WordPress",
     "link": "https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "3/7/2018",
     "site": "smashingmagazine"
   },
   {
     "title": "Creating Secure Password Resets With JSON Web Tokens",
     "link": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "11/9/2017",
     "site": "smashingmagazine"
   },
@@ -746,7 +746,7 @@
   {
     "title": "React To The Future With Isomorphic Apps",
     "link": "https://www.smashingmagazine.com/2015/04/react-to-the-future-with-isomorphic-apps/",
-    "reading_time": "13 min read",
+    "reading_time": "12 min read",
     "date": "4/21/2015",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Useful Node.js Tools, Tutorials And Resources",
     "link": "https://www.smashingmagazine.com/2011/09/useful-node-js-tools-tutorials-and-resources/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "9/16/2011",
     "site": "smashingmagazine"
   }
