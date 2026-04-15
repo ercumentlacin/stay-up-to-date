@@ -1,331 +1,421 @@
 [
   {
-    "title": "Build a Full-Stack React App with Vite SSR in 5 Minutes",
-    "link": "https://dev.to/childrentime/build-a-full-stack-react-app-with-vite-ssr-in-5-minutes-1jp",
+    "title": "Confessions of a Dev #1:I Went Blank When Asked \"What's an API?\"",
+    "link": "https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Github as Infrastructure",
+    "link": "https://dev.to/alistairjcbrown/github-as-infrastructure-4a4i",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "SSE with fetch + ReadableStream: authenticated streaming without EventSource",
+    "link": "https://dev.to/ohugonnot/sse-with-fetch-readablestream-authenticated-streaming-without-eventsource-604",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Deep Clone You Never Had to Install",
+    "link": "https://dev.to/vivian-voss/the-deep-clone-you-never-had-to-install-3fa4",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Lightweight Embeddable Widget in Vanilla JS (Under 30KB)",
+    "link": "https://dev.to/alex_boykov/how-to-build-a-lightweight-embeddable-widget-in-vanilla-js-under-30kb-5f4b",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built an AI Job Board That Auto-Updates from 164+ Companies",
+    "link": "https://dev.to/guyruvio/how-i-built-an-ai-job-board-that-auto-updates-from-164-companies-23lo",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced Puppeteer with a Zig library and went from 18 to 17,000 PDFs per second",
+    "link": "https://dev.to/johnsoto90/i-replaced-puppeteer-with-a-zig-engine-and-went-from-18-to-17000-pdfs-per-second-3ga5",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Testing Library - Queries",
+    "link": "https://dev.to/focused_dot_io/testing-library-queries-2c9k",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Sentiment Analysis API in Node.js (and Making It Free)",
+    "link": "https://dev.to/apollo_ag/building-a-sentiment-analysis-api-in-nodejs-and-making-it-free-cd0",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built 23,000 SEO Pages in 20 Days (Programmatic SEO + 4 Languages)",
+    "link": "https://dev.to/skool_ora_7633c751fe0804b/how-i-built-23000-seo-pages-in-20-days-programmatic-seo-4-languages-51gn",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a React Dashboard with SciChart.js, SciChart-React and Deepseek AI",
+    "link": "https://dev.to/andyb1979/creating-a-react-dashboard-with-scichartjs-scichart-react-and-deepseek-ai-36b6",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Confessions of a Dev #1:I Went Blank When Asked \"What's an API?\"",
+    "link": "https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Github as Infrastructure",
+    "link": "https://dev.to/alistairjcbrown/github-as-infrastructure-4a4i",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "SSE with fetch + ReadableStream: authenticated streaming without EventSource",
+    "link": "https://dev.to/ohugonnot/sse-with-fetch-readablestream-authenticated-streaming-without-eventsource-604",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Deep Clone You Never Had to Install",
+    "link": "https://dev.to/vivian-voss/the-deep-clone-you-never-had-to-install-3fa4",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Lightweight Embeddable Widget in Vanilla JS (Under 30KB)",
+    "link": "https://dev.to/alex_boykov/how-to-build-a-lightweight-embeddable-widget-in-vanilla-js-under-30kb-5f4b",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built an AI Job Board That Auto-Updates from 164+ Companies",
+    "link": "https://dev.to/guyruvio/how-i-built-an-ai-job-board-that-auto-updates-from-164-companies-23lo",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced Puppeteer with a Zig library and went from 18 to 17,000 PDFs per second",
+    "link": "https://dev.to/johnsoto90/i-replaced-puppeteer-with-a-zig-engine-and-went-from-18-to-17000-pdfs-per-second-3ga5",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Testing Library - Queries",
+    "link": "https://dev.to/focused_dot_io/testing-library-queries-2c9k",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Sentiment Analysis API in Node.js (and Making It Free)",
+    "link": "https://dev.to/apollo_ag/building-a-sentiment-analysis-api-in-nodejs-and-making-it-free-cd0",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built 23,000 SEO Pages in 20 Days (Programmatic SEO + 4 Languages)",
+    "link": "https://dev.to/skool_ora_7633c751fe0804b/how-i-built-23000-seo-pages-in-20-days-programmatic-seo-4-languages-51gn",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a React Dashboard with SciChart.js, SciChart-React and Deepseek AI",
+    "link": "https://dev.to/andyb1979/creating-a-react-dashboard-with-scichartjs-scichart-react-and-deepseek-ai-36b6",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Confessions of a Dev #1:I Went Blank When Asked \"What's an API?\"",
+    "link": "https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Github as Infrastructure",
+    "link": "https://dev.to/alistairjcbrown/github-as-infrastructure-4a4i",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "SSE with fetch + ReadableStream: authenticated streaming without EventSource",
+    "link": "https://dev.to/ohugonnot/sse-with-fetch-readablestream-authenticated-streaming-without-eventsource-604",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Deep Clone You Never Had to Install",
+    "link": "https://dev.to/vivian-voss/the-deep-clone-you-never-had-to-install-3fa4",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Lightweight Embeddable Widget in Vanilla JS (Under 30KB)",
+    "link": "https://dev.to/alex_boykov/how-to-build-a-lightweight-embeddable-widget-in-vanilla-js-under-30kb-5f4b",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built an AI Job Board That Auto-Updates from 164+ Companies",
+    "link": "https://dev.to/guyruvio/how-i-built-an-ai-job-board-that-auto-updates-from-164-companies-23lo",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced Puppeteer with a Zig library and went from 18 to 17,000 PDFs per second",
+    "link": "https://dev.to/johnsoto90/i-replaced-puppeteer-with-a-zig-engine-and-went-from-18-to-17000-pdfs-per-second-3ga5",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Testing Library - Queries",
+    "link": "https://dev.to/focused_dot_io/testing-library-queries-2c9k",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Sentiment Analysis API in Node.js (and Making It Free)",
+    "link": "https://dev.to/apollo_ag/building-a-sentiment-analysis-api-in-nodejs-and-making-it-free-cd0",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built 23,000 SEO Pages in 20 Days (Programmatic SEO + 4 Languages)",
+    "link": "https://dev.to/skool_ora_7633c751fe0804b/how-i-built-23000-seo-pages-in-20-days-programmatic-seo-4-languages-51gn",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a React Dashboard with SciChart.js, SciChart-React and Deepseek AI",
+    "link": "https://dev.to/andyb1979/creating-a-react-dashboard-with-scichartjs-scichart-react-and-deepseek-ai-36b6",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Confessions of a Dev #1:I Went Blank When Asked \"What's an API?\"",
+    "link": "https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Github as Infrastructure",
+    "link": "https://dev.to/alistairjcbrown/github-as-infrastructure-4a4i",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "SSE with fetch + ReadableStream: authenticated streaming without EventSource",
+    "link": "https://dev.to/ohugonnot/sse-with-fetch-readablestream-authenticated-streaming-without-eventsource-604",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Deep Clone You Never Had to Install",
+    "link": "https://dev.to/vivian-voss/the-deep-clone-you-never-had-to-install-3fa4",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Lightweight Embeddable Widget in Vanilla JS (Under 30KB)",
+    "link": "https://dev.to/alex_boykov/how-to-build-a-lightweight-embeddable-widget-in-vanilla-js-under-30kb-5f4b",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built an AI Job Board That Auto-Updates from 164+ Companies",
+    "link": "https://dev.to/guyruvio/how-i-built-an-ai-job-board-that-auto-updates-from-164-companies-23lo",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced Puppeteer with a Zig library and went from 18 to 17,000 PDFs per second",
+    "link": "https://dev.to/johnsoto90/i-replaced-puppeteer-with-a-zig-engine-and-went-from-18-to-17000-pdfs-per-second-3ga5",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Testing Library - Queries",
+    "link": "https://dev.to/focused_dot_io/testing-library-queries-2c9k",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Sentiment Analysis API in Node.js (and Making It Free)",
+    "link": "https://dev.to/apollo_ag/building-a-sentiment-analysis-api-in-nodejs-and-making-it-free-cd0",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built 23,000 SEO Pages in 20 Days (Programmatic SEO + 4 Languages)",
+    "link": "https://dev.to/skool_ora_7633c751fe0804b/how-i-built-23000-seo-pages-in-20-days-programmatic-seo-4-languages-51gn",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a React Dashboard with SciChart.js, SciChart-React and Deepseek AI",
+    "link": "https://dev.to/andyb1979/creating-a-react-dashboard-with-scichartjs-scichart-react-and-deepseek-ai-36b6",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Confessions of a Dev #1:I Went Blank When Asked \"What's an API?\"",
+    "link": "https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Github as Infrastructure",
+    "link": "https://dev.to/alistairjcbrown/github-as-infrastructure-4a4i",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "SSE with fetch + ReadableStream: authenticated streaming without EventSource",
+    "link": "https://dev.to/ohugonnot/sse-with-fetch-readablestream-authenticated-streaming-without-eventsource-604",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Deep Clone You Never Had to Install",
+    "link": "https://dev.to/vivian-voss/the-deep-clone-you-never-had-to-install-3fa4",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Lightweight Embeddable Widget in Vanilla JS (Under 30KB)",
+    "link": "https://dev.to/alex_boykov/how-to-build-a-lightweight-embeddable-widget-in-vanilla-js-under-30kb-5f4b",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built an AI Job Board That Auto-Updates from 164+ Companies",
+    "link": "https://dev.to/guyruvio/how-i-built-an-ai-job-board-that-auto-updates-from-164-companies-23lo",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced Puppeteer with a Zig library and went from 18 to 17,000 PDFs per second",
+    "link": "https://dev.to/johnsoto90/i-replaced-puppeteer-with-a-zig-engine-and-went-from-18-to-17000-pdfs-per-second-3ga5",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Testing Library - Queries",
+    "link": "https://dev.to/focused_dot_io/testing-library-queries-2c9k",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Sentiment Analysis API in Node.js (and Making It Free)",
+    "link": "https://dev.to/apollo_ag/building-a-sentiment-analysis-api-in-nodejs-and-making-it-free-cd0",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built 23,000 SEO Pages in 20 Days (Programmatic SEO + 4 Languages)",
+    "link": "https://dev.to/skool_ora_7633c751fe0804b/how-i-built-23000-seo-pages-in-20-days-programmatic-seo-4-languages-51gn",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Creating a React Dashboard with SciChart.js, SciChart-React and Deepseek AI",
+    "link": "https://dev.to/andyb1979/creating-a-react-dashboard-with-scichartjs-scichart-react-and-deepseek-ai-36b6",
+    "date": "4/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+    "link": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building the DEV Community Homepage with Pure Canvas",
-    "link": "https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0",
+    "title": "# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code",
+    "link": "https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Node.js Event Loop — Finally Explained Right",
-    "link": "https://dev.to/robins163/the-nodejs-event-loop-finally-explained-right-2c98",
+    "title": "AVIF in 2026: The Complete Guide to the Image Format That Beat JPEG, PNG, and WebP",
+    "link": "https://dev.to/aralroca/avif-in-2026-the-complete-guide-to-the-image-format-that-beat-jpeg-png-and-webp-34n2",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "White-Label Comparison Widgets: How We Turned Our Data Into an Embeddable Revenue Stream",
-    "link": "https://dev.to/danie_rozin/white-label-comparison-widgets-how-we-turned-our-data-into-an-embeddable-revenue-stream-2mo6",
+    "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+    "link": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built an Email Validator & Disposable Email Checker API - Day 5 of 21",
-    "link": "https://dev.to/ruanmuller04/i-built-an-email-validator-disposable-email-checker-api-day-5-of-21-1pnc",
+    "title": "# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code",
+    "link": "https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Composition vs Compound Components in React",
-    "link": "https://dev.to/duffmancc/composition-vs-compound-components-in-react-2ffp",
+    "title": "AVIF in 2026: The Complete Guide to the Image Format That Beat JPEG, PNG, and WebP",
+    "link": "https://dev.to/aralroca/avif-in-2026-the-complete-guide-to-the-image-format-that-beat-jpeg-png-and-webp-34n2",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "BDO Scraper: Polish Waste Registry (674K+)",
-    "link": "https://dev.to/ucptools/bdo-scraper-polish-waste-registry-674k-1cal",
+    "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+    "link": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a virtual-scroll custom element that behaves like a normal scroll container",
-    "link": "https://dev.to/joshuaamaju/i-built-a-virtual-scroll-custom-element-that-behaves-like-a-normal-scroll-container-51pk",
+    "title": "# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code",
+    "link": "https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "BDO Scraper: Rejestr Odpadów (674 000+)",
-    "link": "https://dev.to/ucptools/bdo-scraper-rejestr-odpadow-674-000-2ikc",
+    "title": "AVIF in 2026: The Complete Guide to the Image Format That Beat JPEG, PNG, and WebP",
+    "link": "https://dev.to/aralroca/avif-in-2026-the-complete-guide-to-the-image-format-that-beat-jpeg-png-and-webp-34n2",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "ubigeo-fns: Librería TypeScript para UBIGEO del Perú",
-    "link": "https://dev.to/hansgianfranco/ubigeo-fns-libreria-typescript-para-ubigeo-del-peru-3mbe",
+    "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+    "link": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built an API That Gives AI Agents Persistent Memory - Here's How",
-    "link": "https://dev.to/timbassler/i-built-an-api-that-gives-ai-agents-persistent-memory-heres-how-1jjb",
+    "title": "# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code",
+    "link": "https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Build a Full-Stack React App with Vite SSR in 5 Minutes",
-    "link": "https://dev.to/childrentime/build-a-full-stack-react-app-with-vite-ssr-in-5-minutes-1jp",
+    "title": "AVIF in 2026: The Complete Guide to the Image Format That Beat JPEG, PNG, and WebP",
+    "link": "https://dev.to/aralroca/avif-in-2026-the-complete-guide-to-the-image-format-that-beat-jpeg-png-and-webp-34n2",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building the DEV Community Homepage with Pure Canvas",
-    "link": "https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0",
+    "title": "Things You're Overengineering in Your AI Agent (The LLM Already Handles Them)",
+    "link": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Node.js Event Loop — Finally Explained Right",
-    "link": "https://dev.to/robins163/the-nodejs-event-loop-finally-explained-right-2c98",
+    "title": "# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code",
+    "link": "https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16",
     "date": "4/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "White-Label Comparison Widgets: How We Turned Our Data Into an Embeddable Revenue Stream",
-    "link": "https://dev.to/danie_rozin/white-label-comparison-widgets-how-we-turned-our-data-into-an-embeddable-revenue-stream-2mo6",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an Email Validator & Disposable Email Checker API - Day 5 of 21",
-    "link": "https://dev.to/ruanmuller04/i-built-an-email-validator-disposable-email-checker-api-day-5-of-21-1pnc",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Composition vs Compound Components in React",
-    "link": "https://dev.to/duffmancc/composition-vs-compound-components-in-react-2ffp",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "BDO Scraper: Polish Waste Registry (674K+)",
-    "link": "https://dev.to/ucptools/bdo-scraper-polish-waste-registry-674k-1cal",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a virtual-scroll custom element that behaves like a normal scroll container",
-    "link": "https://dev.to/joshuaamaju/i-built-a-virtual-scroll-custom-element-that-behaves-like-a-normal-scroll-container-51pk",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "BDO Scraper: Rejestr Odpadów (674 000+)",
-    "link": "https://dev.to/ucptools/bdo-scraper-rejestr-odpadow-674-000-2ikc",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "ubigeo-fns: Librería TypeScript para UBIGEO del Perú",
-    "link": "https://dev.to/hansgianfranco/ubigeo-fns-libreria-typescript-para-ubigeo-del-peru-3mbe",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an API That Gives AI Agents Persistent Memory - Here's How",
-    "link": "https://dev.to/timbassler/i-built-an-api-that-gives-ai-agents-persistent-memory-heres-how-1jjb",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Full-Stack React App with Vite SSR in 5 Minutes",
-    "link": "https://dev.to/childrentime/build-a-full-stack-react-app-with-vite-ssr-in-5-minutes-1jp",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building the DEV Community Homepage with Pure Canvas",
-    "link": "https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Node.js Event Loop — Finally Explained Right",
-    "link": "https://dev.to/robins163/the-nodejs-event-loop-finally-explained-right-2c98",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "White-Label Comparison Widgets: How We Turned Our Data Into an Embeddable Revenue Stream",
-    "link": "https://dev.to/danie_rozin/white-label-comparison-widgets-how-we-turned-our-data-into-an-embeddable-revenue-stream-2mo6",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an Email Validator & Disposable Email Checker API - Day 5 of 21",
-    "link": "https://dev.to/ruanmuller04/i-built-an-email-validator-disposable-email-checker-api-day-5-of-21-1pnc",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Composition vs Compound Components in React",
-    "link": "https://dev.to/duffmancc/composition-vs-compound-components-in-react-2ffp",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "BDO Scraper: Polish Waste Registry (674K+)",
-    "link": "https://dev.to/ucptools/bdo-scraper-polish-waste-registry-674k-1cal",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a virtual-scroll custom element that behaves like a normal scroll container",
-    "link": "https://dev.to/joshuaamaju/i-built-a-virtual-scroll-custom-element-that-behaves-like-a-normal-scroll-container-51pk",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "BDO Scraper: Rejestr Odpadów (674 000+)",
-    "link": "https://dev.to/ucptools/bdo-scraper-rejestr-odpadow-674-000-2ikc",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "ubigeo-fns: Librería TypeScript para UBIGEO del Perú",
-    "link": "https://dev.to/hansgianfranco/ubigeo-fns-libreria-typescript-para-ubigeo-del-peru-3mbe",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an API That Gives AI Agents Persistent Memory - Here's How",
-    "link": "https://dev.to/timbassler/i-built-an-api-that-gives-ai-agents-persistent-memory-heres-how-1jjb",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Full-Stack React App with Vite SSR in 5 Minutes",
-    "link": "https://dev.to/childrentime/build-a-full-stack-react-app-with-vite-ssr-in-5-minutes-1jp",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building the DEV Community Homepage with Pure Canvas",
-    "link": "https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Node.js Event Loop — Finally Explained Right",
-    "link": "https://dev.to/robins163/the-nodejs-event-loop-finally-explained-right-2c98",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "White-Label Comparison Widgets: How We Turned Our Data Into an Embeddable Revenue Stream",
-    "link": "https://dev.to/danie_rozin/white-label-comparison-widgets-how-we-turned-our-data-into-an-embeddable-revenue-stream-2mo6",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an Email Validator & Disposable Email Checker API - Day 5 of 21",
-    "link": "https://dev.to/ruanmuller04/i-built-an-email-validator-disposable-email-checker-api-day-5-of-21-1pnc",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Composition vs Compound Components in React",
-    "link": "https://dev.to/duffmancc/composition-vs-compound-components-in-react-2ffp",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "BDO Scraper: Polish Waste Registry (674K+)",
-    "link": "https://dev.to/ucptools/bdo-scraper-polish-waste-registry-674k-1cal",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a virtual-scroll custom element that behaves like a normal scroll container",
-    "link": "https://dev.to/joshuaamaju/i-built-a-virtual-scroll-custom-element-that-behaves-like-a-normal-scroll-container-51pk",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "BDO Scraper: Rejestr Odpadów (674 000+)",
-    "link": "https://dev.to/ucptools/bdo-scraper-rejestr-odpadow-674-000-2ikc",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "ubigeo-fns: Librería TypeScript para UBIGEO del Perú",
-    "link": "https://dev.to/hansgianfranco/ubigeo-fns-libreria-typescript-para-ubigeo-del-peru-3mbe",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an API That Gives AI Agents Persistent Memory - Here's How",
-    "link": "https://dev.to/timbassler/i-built-an-api-that-gives-ai-agents-persistent-memory-heres-how-1jjb",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Full-Stack React App with Vite SSR in 5 Minutes",
-    "link": "https://dev.to/childrentime/build-a-full-stack-react-app-with-vite-ssr-in-5-minutes-1jp",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building the DEV Community Homepage with Pure Canvas",
-    "link": "https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Node.js Event Loop — Finally Explained Right",
-    "link": "https://dev.to/robins163/the-nodejs-event-loop-finally-explained-right-2c98",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "White-Label Comparison Widgets: How We Turned Our Data Into an Embeddable Revenue Stream",
-    "link": "https://dev.to/danie_rozin/white-label-comparison-widgets-how-we-turned-our-data-into-an-embeddable-revenue-stream-2mo6",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an Email Validator & Disposable Email Checker API - Day 5 of 21",
-    "link": "https://dev.to/ruanmuller04/i-built-an-email-validator-disposable-email-checker-api-day-5-of-21-1pnc",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Composition vs Compound Components in React",
-    "link": "https://dev.to/duffmancc/composition-vs-compound-components-in-react-2ffp",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "BDO Scraper: Polish Waste Registry (674K+)",
-    "link": "https://dev.to/ucptools/bdo-scraper-polish-waste-registry-674k-1cal",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a virtual-scroll custom element that behaves like a normal scroll container",
-    "link": "https://dev.to/joshuaamaju/i-built-a-virtual-scroll-custom-element-that-behaves-like-a-normal-scroll-container-51pk",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "BDO Scraper: Rejestr Odpadów (674 000+)",
-    "link": "https://dev.to/ucptools/bdo-scraper-rejestr-odpadow-674-000-2ikc",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "ubigeo-fns: Librería TypeScript para UBIGEO del Perú",
-    "link": "https://dev.to/hansgianfranco/ubigeo-fns-libreria-typescript-para-ubigeo-del-peru-3mbe",
-    "date": "4/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an API That Gives AI Agents Persistent Memory - Here's How",
-    "link": "https://dev.to/timbassler/i-built-an-api-that-gives-ai-agents-persistent-memory-heres-how-1jjb",
+    "title": "AVIF in 2026: The Complete Guide to the Image Format That Beat JPEG, PNG, and WebP",
+    "link": "https://dev.to/aralroca/avif-in-2026-the-complete-guide-to-the-image-format-that-beat-jpeg-png-and-webp-34n2",
     "date": "4/14/2026",
     "site": "dev.to"
   },
@@ -336,14 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "\"My AI Coding Tools Were Running Up a Tab I Couldn't See — So I Fixed That\"",
-    "link": "https://dev.to/yiyaoai/my-ai-coding-tools-were-running-up-a-tab-i-couldnt-see-so-i-fixed-that-1g67",
-    "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-    "link": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
+    "title": "I built a browser-based coding education platform as a CS student, here's how",
+    "link": "https://dev.to/delfinobiang/i-built-a-browser-based-coding-education-platform-as-a-cs-student-heres-how-9k9",
     "date": "4/13/2026",
     "site": "dev.to"
   },
@@ -354,14 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "\"My AI Coding Tools Were Running Up a Tab I Couldn't See — So I Fixed That\"",
-    "link": "https://dev.to/yiyaoai/my-ai-coding-tools-were-running-up-a-tab-i-couldnt-see-so-i-fixed-that-1g67",
-    "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-    "link": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
+    "title": "I built a browser-based coding education platform as a CS student, here's how",
+    "link": "https://dev.to/delfinobiang/i-built-a-browser-based-coding-education-platform-as-a-cs-student-heres-how-9k9",
     "date": "4/13/2026",
     "site": "dev.to"
   },
@@ -369,84 +447,6 @@
     "title": "I built a browser-based coding education platform as a CS student, here's how",
     "link": "https://dev.to/delfinobiang/i-built-a-browser-based-coding-education-platform-as-a-cs-student-heres-how-9k9",
     "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Coding Tools Were Running Up a Tab I Couldn't See — So I Fixed That\"",
-    "link": "https://dev.to/yiyaoai/my-ai-coding-tools-were-running-up-a-tab-i-couldnt-see-so-i-fixed-that-1g67",
-    "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-    "link": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
-    "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a browser-based coding education platform as a CS student, here's how",
-    "link": "https://dev.to/delfinobiang/i-built-a-browser-based-coding-education-platform-as-a-cs-student-heres-how-9k9",
-    "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Coding Tools Were Running Up a Tab I Couldn't See — So I Fixed That\"",
-    "link": "https://dev.to/yiyaoai/my-ai-coding-tools-were-running-up-a-tab-i-couldnt-see-so-i-fixed-that-1g67",
-    "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-    "link": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
-    "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a browser-based coding education platform as a CS student, here's how",
-    "link": "https://dev.to/delfinobiang/i-built-a-browser-based-coding-education-platform-as-a-cs-student-heres-how-9k9",
-    "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Coding Tools Were Running Up a Tab I Couldn't See — So I Fixed That\"",
-    "link": "https://dev.to/yiyaoai/my-ai-coding-tools-were-running-up-a-tab-i-couldnt-see-so-i-fixed-that-1g67",
-    "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Don’t Always Need React — Sometimes You Just Need Structure",
-    "link": "https://dev.to/schukai/you-dont-always-need-react-sometimes-you-just-need-structure-m9j",
-    "date": "4/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It",
-    "link": "https://dev.to/sendotltd/why-1100-11-9999999-is-a-tax-calculator-bug-and-two-ways-to-fix-it-3d38",
-    "date": "4/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It",
-    "link": "https://dev.to/sendotltd/why-1100-11-9999999-is-a-tax-calculator-bug-and-two-ways-to-fix-it-3d38",
-    "date": "4/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It",
-    "link": "https://dev.to/sendotltd/why-1100-11-9999999-is-a-tax-calculator-bug-and-two-ways-to-fix-it-3d38",
-    "date": "4/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It",
-    "link": "https://dev.to/sendotltd/why-1100-11-9999999-is-a-tax-calculator-bug-and-two-ways-to-fix-it-3d38",
-    "date": "4/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why 1100 / 1.1 = 999.9999… Is a Tax Calculator Bug, and Two Ways to Fix It",
-    "link": "https://dev.to/sendotltd/why-1100-11-9999999-is-a-tax-calculator-bug-and-two-ways-to-fix-it-3d38",
-    "date": "4/12/2026",
     "site": "dev.to"
   },
   {
@@ -487,7 +487,7 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
@@ -571,14 +571,14 @@
   {
     "title": "The End Of My Gatsby Journey",
     "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "3/6/2024",
     "site": "smashingmagazine"
   },
   {
     "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
     "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "2/22/2024",
     "site": "smashingmagazine"
   },
@@ -669,7 +669,7 @@
   {
     "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
     "link": "https://www.smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "4/21/2023",
     "site": "smashingmagazine"
   },
