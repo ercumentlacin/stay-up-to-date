@@ -1,271 +1,421 @@
 [
   {
-    "title": "Deploy: App Nextjs + Docker + VPS",
-    "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7",
+    "title": "Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App",
+    "link": "https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How PP15.ONE became 14x faster than before",
+    "link": "https://dev.to/philipppp15one/how-pp15one-became-14x-faster-than-before-2120",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Rebuilding Multi-Step Forms in React (A Better Approach)",
+    "link": "https://dev.to/devsam7t3/stop-rebuilding-multi-step-forms-in-react-a-better-approach-4hee",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Free TypeScript & React Quiz with 125 Questions – Test Your Real Skills",
+    "link": "https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React architecture: what nobody tells you when your app starts growing",
+    "link": "https://dev.to/0xtanzim/react-architecture-what-nobody-tells-you-when-your-app-starts-growing-201m",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Performance: Series Hub and Quick Reference Guide",
+    "link": "https://dev.to/helloashish99/frontend-performance-series-hub-and-quick-reference-guide-2jgo",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google OAuth 2.0 PKCE flow in a React/Next.js app — no backend, no client secret",
+    "link": "https://dev.to/deeshansharma/google-oauth-20-pkce-flow-in-a-reactnextjs-app-no-backend-no-client-secret-hgm",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 New Challenge: File Explorer",
+    "link": "https://dev.to/reactchallenges/new-challenge-file-explorer-o6f",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App",
+    "link": "https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How PP15.ONE became 14x faster than before",
+    "link": "https://dev.to/philipppp15one/how-pp15one-became-14x-faster-than-before-2120",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Rebuilding Multi-Step Forms in React (A Better Approach)",
+    "link": "https://dev.to/devsam7t3/stop-rebuilding-multi-step-forms-in-react-a-better-approach-4hee",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Free TypeScript & React Quiz with 125 Questions – Test Your Real Skills",
+    "link": "https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React architecture: what nobody tells you when your app starts growing",
+    "link": "https://dev.to/0xtanzim/react-architecture-what-nobody-tells-you-when-your-app-starts-growing-201m",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Performance: Series Hub and Quick Reference Guide",
+    "link": "https://dev.to/helloashish99/frontend-performance-series-hub-and-quick-reference-guide-2jgo",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google OAuth 2.0 PKCE flow in a React/Next.js app — no backend, no client secret",
+    "link": "https://dev.to/deeshansharma/google-oauth-20-pkce-flow-in-a-reactnextjs-app-no-backend-no-client-secret-hgm",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 New Challenge: File Explorer",
+    "link": "https://dev.to/reactchallenges/new-challenge-file-explorer-o6f",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App",
+    "link": "https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How PP15.ONE became 14x faster than before",
+    "link": "https://dev.to/philipppp15one/how-pp15one-became-14x-faster-than-before-2120",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Rebuilding Multi-Step Forms in React (A Better Approach)",
+    "link": "https://dev.to/devsam7t3/stop-rebuilding-multi-step-forms-in-react-a-better-approach-4hee",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Free TypeScript & React Quiz with 125 Questions – Test Your Real Skills",
+    "link": "https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React architecture: what nobody tells you when your app starts growing",
+    "link": "https://dev.to/0xtanzim/react-architecture-what-nobody-tells-you-when-your-app-starts-growing-201m",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Performance: Series Hub and Quick Reference Guide",
+    "link": "https://dev.to/helloashish99/frontend-performance-series-hub-and-quick-reference-guide-2jgo",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google OAuth 2.0 PKCE flow in a React/Next.js app — no backend, no client secret",
+    "link": "https://dev.to/deeshansharma/google-oauth-20-pkce-flow-in-a-reactnextjs-app-no-backend-no-client-secret-hgm",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 New Challenge: File Explorer",
+    "link": "https://dev.to/reactchallenges/new-challenge-file-explorer-o6f",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App",
+    "link": "https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How PP15.ONE became 14x faster than before",
+    "link": "https://dev.to/philipppp15one/how-pp15one-became-14x-faster-than-before-2120",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Rebuilding Multi-Step Forms in React (A Better Approach)",
+    "link": "https://dev.to/devsam7t3/stop-rebuilding-multi-step-forms-in-react-a-better-approach-4hee",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Free TypeScript & React Quiz with 125 Questions – Test Your Real Skills",
+    "link": "https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React architecture: what nobody tells you when your app starts growing",
+    "link": "https://dev.to/0xtanzim/react-architecture-what-nobody-tells-you-when-your-app-starts-growing-201m",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Performance: Series Hub and Quick Reference Guide",
+    "link": "https://dev.to/helloashish99/frontend-performance-series-hub-and-quick-reference-guide-2jgo",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google OAuth 2.0 PKCE flow in a React/Next.js app — no backend, no client secret",
+    "link": "https://dev.to/deeshansharma/google-oauth-20-pkce-flow-in-a-reactnextjs-app-no-backend-no-client-secret-hgm",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 New Challenge: File Explorer",
+    "link": "https://dev.to/reactchallenges/new-challenge-file-explorer-o6f",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App",
+    "link": "https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How PP15.ONE became 14x faster than before",
+    "link": "https://dev.to/philipppp15one/how-pp15one-became-14x-faster-than-before-2120",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Rebuilding Multi-Step Forms in React (A Better Approach)",
+    "link": "https://dev.to/devsam7t3/stop-rebuilding-multi-step-forms-in-react-a-better-approach-4hee",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Free TypeScript & React Quiz with 125 Questions – Test Your Real Skills",
+    "link": "https://dev.to/a_ts_dev/i-built-a-free-typescript-react-quiz-with-125-questions-test-your-real-skills-1ci9",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React architecture: what nobody tells you when your app starts growing",
+    "link": "https://dev.to/0xtanzim/react-architecture-what-nobody-tells-you-when-your-app-starts-growing-201m",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Frontend Performance: Series Hub and Quick Reference Guide",
+    "link": "https://dev.to/helloashish99/frontend-performance-series-hub-and-quick-reference-guide-2jgo",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Google OAuth 2.0 PKCE flow in a React/Next.js app — no backend, no client secret",
+    "link": "https://dev.to/deeshansharma/google-oauth-20-pkce-flow-in-a-reactnextjs-app-no-backend-no-client-secret-hgm",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 New Challenge: File Explorer",
+    "link": "https://dev.to/reactchallenges/new-challenge-file-explorer-o6f",
+    "date": "5/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built and deployed my first full stack SaaS in 5 weeks while working full time",
+    "link": "https://dev.to/vaibhav_pratapsingh_b4c2/i-built-and-deployed-my-first-full-stack-saas-in-5-weeks-while-working-full-time-2ci",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Deploy: App Nextjs + Docker + VPS",
-    "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-5c44",
+    "title": "I Built an Open Source GitHub Dashboard Because My Repositories Were Becoming Unmanageable",
+    "link": "https://dev.to/debba/i-built-an-open-source-github-dashboard-because-my-repositories-were-becoming-unmanageable-1hdk",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Full-Stack Habit Tracker with Claude Code - Part 2: Polish, Testing & Deployment",
-    "link": "https://dev.to/anirseven/building-a-full-stack-habit-tracker-with-claude-code-part-2-polish-testing-deployment-e7b",
+    "title": "Your game HUD is just React: overlay UI over a CarverJS game canvas",
+    "link": "https://dev.to/thephoenix229/your-game-hud-is-just-react-overlay-ui-over-a-carverjs-game-canvas-45mo",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop Trapping React State: Sync Your Filters to the URL 🔗",
-    "link": "https://dev.to/iprajapatiparesh/stop-trapping-react-state-sync-your-filters-to-the-url-32bb",
+    "title": "Country Dropdown for Tailwind / shadcn — Drop-In Component",
+    "link": "https://dev.to/apogeoapi/country-dropdown-for-tailwind-shadcn-drop-in-component-57b9",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "We Rewrote Our Angular 18 App in React 20 and Increased Developer Velocity by 40%",
-    "link": "https://dev.to/johalputt/we-rewrote-our-angular-18-app-in-react-20-and-increased-developer-velocity-by-40-l3h",
+    "title": "How to Localize Prices in React Using Exchange Rates",
+    "link": "https://dev.to/apogeoapi/how-to-localize-prices-in-react-using-exchange-rates-250j",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Browser Router in React JS — Why It Exists, What It Solves, and How to Actually Use It",
-    "link": "https://dev.to/kathirvel-s/browser-router-in-react-js-why-it-exists-what-it-solves-and-how-to-actually-use-it-40ig",
+    "title": "How to Build a Phone + Flag Selector in React (with Country Codes)",
+    "link": "https://dev.to/apogeoapi/how-to-build-a-phone-flag-selector-in-react-with-country-codes-13hn",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built a Simple File Sharing Tool Using Cloudflare R2 (No Login, Fast Uploads)",
-    "link": "https://dev.to/ihor_ko_22089351e9/how-i-built-a-simple-file-sharing-tool-using-cloudflare-r2-no-login-fast-uploads-374",
+    "title": "I built and deployed my first full stack SaaS in 5 weeks while working full time",
+    "link": "https://dev.to/vaibhav_pratapsingh_b4c2/i-built-and-deployed-my-first-full-stack-saas-in-5-weeks-while-working-full-time-2ci",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "State Management in React with Redux Toolkit (Beginner-Friendly Guide)",
-    "link": "https://dev.to/dibyajyoti_0750/state-management-in-react-with-redux-toolkit-beginner-friendly-guide-oph",
+    "title": "I Built an Open Source GitHub Dashboard Because My Repositories Were Becoming Unmanageable",
+    "link": "https://dev.to/debba/i-built-an-open-source-github-dashboard-because-my-repositories-were-becoming-unmanageable-1hdk",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "5 React Performance Mistakes That Are Slowing Your App Down",
-    "link": "https://dev.to/khris_breezy/5-react-performance-mistakes-that-are-slowing-your-app-down-4b2n",
+    "title": "Your game HUD is just React: overlay UI over a CarverJS game canvas",
+    "link": "https://dev.to/thephoenix229/your-game-hud-is-just-react-overlay-ui-over-a-carverjs-game-canvas-45mo",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Deploy: App Nextjs + Docker + VPS",
-    "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7",
+    "title": "Country Dropdown for Tailwind / shadcn — Drop-In Component",
+    "link": "https://dev.to/apogeoapi/country-dropdown-for-tailwind-shadcn-drop-in-component-57b9",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Deploy: App Nextjs + Docker + VPS",
-    "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-5c44",
+    "title": "How to Localize Prices in React Using Exchange Rates",
+    "link": "https://dev.to/apogeoapi/how-to-localize-prices-in-react-using-exchange-rates-250j",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Full-Stack Habit Tracker with Claude Code - Part 2: Polish, Testing & Deployment",
-    "link": "https://dev.to/anirseven/building-a-full-stack-habit-tracker-with-claude-code-part-2-polish-testing-deployment-e7b",
+    "title": "How to Build a Phone + Flag Selector in React (with Country Codes)",
+    "link": "https://dev.to/apogeoapi/how-to-build-a-phone-flag-selector-in-react-with-country-codes-13hn",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop Trapping React State: Sync Your Filters to the URL 🔗",
-    "link": "https://dev.to/iprajapatiparesh/stop-trapping-react-state-sync-your-filters-to-the-url-32bb",
+    "title": "I built and deployed my first full stack SaaS in 5 weeks while working full time",
+    "link": "https://dev.to/vaibhav_pratapsingh_b4c2/i-built-and-deployed-my-first-full-stack-saas-in-5-weeks-while-working-full-time-2ci",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "We Rewrote Our Angular 18 App in React 20 and Increased Developer Velocity by 40%",
-    "link": "https://dev.to/johalputt/we-rewrote-our-angular-18-app-in-react-20-and-increased-developer-velocity-by-40-l3h",
+    "title": "I Built an Open Source GitHub Dashboard Because My Repositories Were Becoming Unmanageable",
+    "link": "https://dev.to/debba/i-built-an-open-source-github-dashboard-because-my-repositories-were-becoming-unmanageable-1hdk",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Browser Router in React JS — Why It Exists, What It Solves, and How to Actually Use It",
-    "link": "https://dev.to/kathirvel-s/browser-router-in-react-js-why-it-exists-what-it-solves-and-how-to-actually-use-it-40ig",
+    "title": "Your game HUD is just React: overlay UI over a CarverJS game canvas",
+    "link": "https://dev.to/thephoenix229/your-game-hud-is-just-react-overlay-ui-over-a-carverjs-game-canvas-45mo",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built a Simple File Sharing Tool Using Cloudflare R2 (No Login, Fast Uploads)",
-    "link": "https://dev.to/ihor_ko_22089351e9/how-i-built-a-simple-file-sharing-tool-using-cloudflare-r2-no-login-fast-uploads-374",
+    "title": "Country Dropdown for Tailwind / shadcn — Drop-In Component",
+    "link": "https://dev.to/apogeoapi/country-dropdown-for-tailwind-shadcn-drop-in-component-57b9",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "State Management in React with Redux Toolkit (Beginner-Friendly Guide)",
-    "link": "https://dev.to/dibyajyoti_0750/state-management-in-react-with-redux-toolkit-beginner-friendly-guide-oph",
+    "title": "How to Localize Prices in React Using Exchange Rates",
+    "link": "https://dev.to/apogeoapi/how-to-localize-prices-in-react-using-exchange-rates-250j",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "5 React Performance Mistakes That Are Slowing Your App Down",
-    "link": "https://dev.to/khris_breezy/5-react-performance-mistakes-that-are-slowing-your-app-down-4b2n",
+    "title": "How to Build a Phone + Flag Selector in React (with Country Codes)",
+    "link": "https://dev.to/apogeoapi/how-to-build-a-phone-flag-selector-in-react-with-country-codes-13hn",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Deploy: App Nextjs + Docker + VPS",
-    "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7",
+    "title": "I built and deployed my first full stack SaaS in 5 weeks while working full time",
+    "link": "https://dev.to/vaibhav_pratapsingh_b4c2/i-built-and-deployed-my-first-full-stack-saas-in-5-weeks-while-working-full-time-2ci",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Deploy: App Nextjs + Docker + VPS",
-    "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-5c44",
+    "title": "I Built an Open Source GitHub Dashboard Because My Repositories Were Becoming Unmanageable",
+    "link": "https://dev.to/debba/i-built-an-open-source-github-dashboard-because-my-repositories-were-becoming-unmanageable-1hdk",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Full-Stack Habit Tracker with Claude Code - Part 2: Polish, Testing & Deployment",
-    "link": "https://dev.to/anirseven/building-a-full-stack-habit-tracker-with-claude-code-part-2-polish-testing-deployment-e7b",
+    "title": "Your game HUD is just React: overlay UI over a CarverJS game canvas",
+    "link": "https://dev.to/thephoenix229/your-game-hud-is-just-react-overlay-ui-over-a-carverjs-game-canvas-45mo",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop Trapping React State: Sync Your Filters to the URL 🔗",
-    "link": "https://dev.to/iprajapatiparesh/stop-trapping-react-state-sync-your-filters-to-the-url-32bb",
+    "title": "Country Dropdown for Tailwind / shadcn — Drop-In Component",
+    "link": "https://dev.to/apogeoapi/country-dropdown-for-tailwind-shadcn-drop-in-component-57b9",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "We Rewrote Our Angular 18 App in React 20 and Increased Developer Velocity by 40%",
-    "link": "https://dev.to/johalputt/we-rewrote-our-angular-18-app-in-react-20-and-increased-developer-velocity-by-40-l3h",
+    "title": "How to Localize Prices in React Using Exchange Rates",
+    "link": "https://dev.to/apogeoapi/how-to-localize-prices-in-react-using-exchange-rates-250j",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Browser Router in React JS — Why It Exists, What It Solves, and How to Actually Use It",
-    "link": "https://dev.to/kathirvel-s/browser-router-in-react-js-why-it-exists-what-it-solves-and-how-to-actually-use-it-40ig",
+    "title": "How to Build a Phone + Flag Selector in React (with Country Codes)",
+    "link": "https://dev.to/apogeoapi/how-to-build-a-phone-flag-selector-in-react-with-country-codes-13hn",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built a Simple File Sharing Tool Using Cloudflare R2 (No Login, Fast Uploads)",
-    "link": "https://dev.to/ihor_ko_22089351e9/how-i-built-a-simple-file-sharing-tool-using-cloudflare-r2-no-login-fast-uploads-374",
+    "title": "I built and deployed my first full stack SaaS in 5 weeks while working full time",
+    "link": "https://dev.to/vaibhav_pratapsingh_b4c2/i-built-and-deployed-my-first-full-stack-saas-in-5-weeks-while-working-full-time-2ci",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "State Management in React with Redux Toolkit (Beginner-Friendly Guide)",
-    "link": "https://dev.to/dibyajyoti_0750/state-management-in-react-with-redux-toolkit-beginner-friendly-guide-oph",
+    "title": "I Built an Open Source GitHub Dashboard Because My Repositories Were Becoming Unmanageable",
+    "link": "https://dev.to/debba/i-built-an-open-source-github-dashboard-because-my-repositories-were-becoming-unmanageable-1hdk",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "5 React Performance Mistakes That Are Slowing Your App Down",
-    "link": "https://dev.to/khris_breezy/5-react-performance-mistakes-that-are-slowing-your-app-down-4b2n",
+    "title": "Your game HUD is just React: overlay UI over a CarverJS game canvas",
+    "link": "https://dev.to/thephoenix229/your-game-hud-is-just-react-overlay-ui-over-a-carverjs-game-canvas-45mo",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Deploy: App Nextjs + Docker + VPS",
-    "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7",
+    "title": "Country Dropdown for Tailwind / shadcn — Drop-In Component",
+    "link": "https://dev.to/apogeoapi/country-dropdown-for-tailwind-shadcn-drop-in-component-57b9",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Deploy: App Nextjs + Docker + VPS",
-    "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-5c44",
+    "title": "How to Localize Prices in React Using Exchange Rates",
+    "link": "https://dev.to/apogeoapi/how-to-localize-prices-in-react-using-exchange-rates-250j",
     "date": "5/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Full-Stack Habit Tracker with Claude Code - Part 2: Polish, Testing & Deployment",
-    "link": "https://dev.to/anirseven/building-a-full-stack-habit-tracker-with-claude-code-part-2-polish-testing-deployment-e7b",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Trapping React State: Sync Your Filters to the URL 🔗",
-    "link": "https://dev.to/iprajapatiparesh/stop-trapping-react-state-sync-your-filters-to-the-url-32bb",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Rewrote Our Angular 18 App in React 20 and Increased Developer Velocity by 40%",
-    "link": "https://dev.to/johalputt/we-rewrote-our-angular-18-app-in-react-20-and-increased-developer-velocity-by-40-l3h",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser Router in React JS — Why It Exists, What It Solves, and How to Actually Use It",
-    "link": "https://dev.to/kathirvel-s/browser-router-in-react-js-why-it-exists-what-it-solves-and-how-to-actually-use-it-40ig",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Simple File Sharing Tool Using Cloudflare R2 (No Login, Fast Uploads)",
-    "link": "https://dev.to/ihor_ko_22089351e9/how-i-built-a-simple-file-sharing-tool-using-cloudflare-r2-no-login-fast-uploads-374",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "State Management in React with Redux Toolkit (Beginner-Friendly Guide)",
-    "link": "https://dev.to/dibyajyoti_0750/state-management-in-react-with-redux-toolkit-beginner-friendly-guide-oph",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 React Performance Mistakes That Are Slowing Your App Down",
-    "link": "https://dev.to/khris_breezy/5-react-performance-mistakes-that-are-slowing-your-app-down-4b2n",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy: App Nextjs + Docker + VPS",
-    "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-17p7",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Deploy: App Nextjs + Docker + VPS",
-    "link": "https://dev.to/victorzarzar/deploy-app-nextjs-docker-vps-5c44",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Full-Stack Habit Tracker with Claude Code - Part 2: Polish, Testing & Deployment",
-    "link": "https://dev.to/anirseven/building-a-full-stack-habit-tracker-with-claude-code-part-2-polish-testing-deployment-e7b",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Trapping React State: Sync Your Filters to the URL 🔗",
-    "link": "https://dev.to/iprajapatiparesh/stop-trapping-react-state-sync-your-filters-to-the-url-32bb",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Rewrote Our Angular 18 App in React 20 and Increased Developer Velocity by 40%",
-    "link": "https://dev.to/johalputt/we-rewrote-our-angular-18-app-in-react-20-and-increased-developer-velocity-by-40-l3h",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser Router in React JS — Why It Exists, What It Solves, and How to Actually Use It",
-    "link": "https://dev.to/kathirvel-s/browser-router-in-react-js-why-it-exists-what-it-solves-and-how-to-actually-use-it-40ig",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Simple File Sharing Tool Using Cloudflare R2 (No Login, Fast Uploads)",
-    "link": "https://dev.to/ihor_ko_22089351e9/how-i-built-a-simple-file-sharing-tool-using-cloudflare-r2-no-login-fast-uploads-374",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "State Management in React with Redux Toolkit (Beginner-Friendly Guide)",
-    "link": "https://dev.to/dibyajyoti_0750/state-management-in-react-with-redux-toolkit-beginner-friendly-guide-oph",
-    "date": "5/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 React Performance Mistakes That Are Slowing Your App Down",
-    "link": "https://dev.to/khris_breezy/5-react-performance-mistakes-that-are-slowing-your-app-down-4b2n",
+    "title": "How to Build a Phone + Flag Selector in React (with Country Codes)",
+    "link": "https://dev.to/apogeoapi/how-to-build-a-phone-flag-selector-in-react-with-country-codes-13hn",
     "date": "5/4/2026",
     "site": "dev.to"
   },
@@ -276,32 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Case Study: Automating React Router v6 v7 Migration",
-    "link": "https://dev.to/arpit_32f636ff2309b0a6234/case-study-automating-react-router-v6-v7-migration-543j",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "VotePath",
-    "link": "https://dev.to/arikatla_harshitha_938810/votepath-2ghh",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Real-Time on the Frontend - SSE, WebSockets & Polling",
-    "link": "https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js is the Future of Web Development (A Practical Guide for Developers)",
-    "link": "https://dev.to/amarpreetbhatia/why-nextjs-is-the-future-of-web-development-a-practical-guide-for-developers-2i76",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "shadcn vs Radix vs Base UI: Which One Should a Junior Pick in 2026?",
-    "link": "https://dev.to/edriso/shadcn-vs-radix-vs-base-ui-which-one-should-a-junior-pick-in-2026-1jml",
+    "title": "Mathematically Prohibiting 'Cheating' in On-Chain RPS: A Midnight ZK dApp Case Study",
+    "link": "https://dev.to/midnight-aliit/mathematically-prohibiting-cheating-in-on-chain-rps-a-midnight-x-zk-dapp-case-study-3l9g",
     "date": "5/3/2026",
     "site": "dev.to"
   },
@@ -312,140 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Case Study: Automating React Router v6 v7 Migration",
-    "link": "https://dev.to/arpit_32f636ff2309b0a6234/case-study-automating-react-router-v6-v7-migration-543j",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "VotePath",
-    "link": "https://dev.to/arikatla_harshitha_938810/votepath-2ghh",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Real-Time on the Frontend - SSE, WebSockets & Polling",
-    "link": "https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js is the Future of Web Development (A Practical Guide for Developers)",
-    "link": "https://dev.to/amarpreetbhatia/why-nextjs-is-the-future-of-web-development-a-practical-guide-for-developers-2i76",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "shadcn vs Radix vs Base UI: Which One Should a Junior Pick in 2026?",
-    "link": "https://dev.to/edriso/shadcn-vs-radix-vs-base-ui-which-one-should-a-junior-pick-in-2026-1jml",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Mathematically Prohibiting 'Cheating' in On-Chain RPS: A Midnight ZK dApp Case Study",
     "link": "https://dev.to/midnight-aliit/mathematically-prohibiting-cheating-in-on-chain-rps-a-midnight-x-zk-dapp-case-study-3l9g",
     "date": "5/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Case Study: Automating React Router v6 v7 Migration",
-    "link": "https://dev.to/arpit_32f636ff2309b0a6234/case-study-automating-react-router-v6-v7-migration-543j",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "VotePath",
-    "link": "https://dev.to/arikatla_harshitha_938810/votepath-2ghh",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Real-Time on the Frontend - SSE, WebSockets & Polling",
-    "link": "https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js is the Future of Web Development (A Practical Guide for Developers)",
-    "link": "https://dev.to/amarpreetbhatia/why-nextjs-is-the-future-of-web-development-a-practical-guide-for-developers-2i76",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "shadcn vs Radix vs Base UI: Which One Should a Junior Pick in 2026?",
-    "link": "https://dev.to/edriso/shadcn-vs-radix-vs-base-ui-which-one-should-a-junior-pick-in-2026-1jml",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Mathematically Prohibiting 'Cheating' in On-Chain RPS: A Midnight ZK dApp Case Study",
     "link": "https://dev.to/midnight-aliit/mathematically-prohibiting-cheating-in-on-chain-rps-a-midnight-x-zk-dapp-case-study-3l9g",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Case Study: Automating React Router v6 v7 Migration",
-    "link": "https://dev.to/arpit_32f636ff2309b0a6234/case-study-automating-react-router-v6-v7-migration-543j",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "VotePath",
-    "link": "https://dev.to/arikatla_harshitha_938810/votepath-2ghh",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Real-Time on the Frontend - SSE, WebSockets & Polling",
-    "link": "https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js is the Future of Web Development (A Practical Guide for Developers)",
-    "link": "https://dev.to/amarpreetbhatia/why-nextjs-is-the-future-of-web-development-a-practical-guide-for-developers-2i76",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "shadcn vs Radix vs Base UI: Which One Should a Junior Pick in 2026?",
-    "link": "https://dev.to/edriso/shadcn-vs-radix-vs-base-ui-which-one-should-a-junior-pick-in-2026-1jml",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mathematically Prohibiting 'Cheating' in On-Chain RPS: A Midnight ZK dApp Case Study",
-    "link": "https://dev.to/midnight-aliit/mathematically-prohibiting-cheating-in-on-chain-rps-a-midnight-x-zk-dapp-case-study-3l9g",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Case Study: Automating React Router v6 v7 Migration",
-    "link": "https://dev.to/arpit_32f636ff2309b0a6234/case-study-automating-react-router-v6-v7-migration-543j",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "VotePath",
-    "link": "https://dev.to/arikatla_harshitha_938810/votepath-2ghh",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Real-Time on the Frontend - SSE, WebSockets & Polling",
-    "link": "https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Next.js is the Future of Web Development (A Practical Guide for Developers)",
-    "link": "https://dev.to/amarpreetbhatia/why-nextjs-is-the-future-of-web-development-a-practical-guide-for-developers-2i76",
-    "date": "5/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "shadcn vs Radix vs Base UI: Which One Should a Junior Pick in 2026?",
-    "link": "https://dev.to/edriso/shadcn-vs-radix-vs-base-ui-which-one-should-a-junior-pick-in-2026-1jml",
     "date": "5/3/2026",
     "site": "dev.to"
   },
@@ -599,7 +599,7 @@
   {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
     "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "3/9/2022",
     "site": "smashingmagazine"
   },
@@ -690,14 +690,14 @@
   {
     "title": "Using SWR React Hooks With Next.js’ Incremental Static Regeneration (ISR)",
     "link": "https://www.smashingmagazine.com/2021/09/useswr-react-hook-library-incremental-static-regeneration-nextjs/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "9/9/2021",
     "site": "smashingmagazine"
   },
   {
     "title": "Compound Components In React",
     "link": "https://www.smashingmagazine.com/2021/08/compound-components-react/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "8/27/2021",
     "site": "smashingmagazine"
   },
@@ -739,7 +739,7 @@
   {
     "title": "Client-Side Routing In Next.js",
     "link": "https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "6/18/2021",
     "site": "smashingmagazine"
   },
