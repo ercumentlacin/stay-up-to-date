@@ -1,49 +1,355 @@
 [
   {
+    "title": "Why I built tmpdrop: a self-hosted, expiring file drop",
+    "link": "https://dev.to/kin_panho_319240e9b3688c/why-i-built-tmpdrop-a-self-hosted-expiring-file-drop-2fc6",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Claude Wrote a NestJS Service. TypeScript Was Happy. ESLint Found 6 Security Holes.",
+    "link": "https://dev.to/ofri-peretz/claude-wrote-a-nestjs-service-typescript-was-happy-eslint-found-6-security-holes-51nj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supply Chains, Zombie OSS, and Agent Firewalls",
+    "link": "https://dev.to/urbanisierung/supply-chains-zombie-oss-and-agent-firewalls-543",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We Replaced Jest With node:test in 12 Services — Here's What Broke and What Didn't",
+    "link": "https://dev.to/dineshgowtham/we-replaced-jest-with-nodetest-in-12-services-heres-what-broke-and-what-didnt-6nl",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built My First npm Package — A CLI for Scaffolding Modular Node.js Projects",
+    "link": "https://dev.to/yash_hadade_83abbb43fa06a/i-built-my-first-npm-package-a-cli-for-scaffolding-modular-nodejs-projects-180j",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your .env file has been in 6 places it shouldn't be",
+    "link": "https://dev.to/tlw_c91a7f30a7a1be3158afe/your-env-file-has-been-in-6-places-it-shouldnt-be-3d6k",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Scanned 200 Public GitHub Repos for Leaked .env Files — Then Built a CLI to Stop It",
+    "link": "https://dev.to/sulthonzh/i-scanned-200-public-github-repos-for-leaked-env-files-then-built-a-cli-to-stop-it-3fb4",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "rendermw — Zero-Dependency Dynamic Rendering Middleware for Express SPAs",
+    "link": "https://dev.to/brighteyekid/rendermw-zero-dependency-dynamic-rendering-middleware-for-express-spas-5bh5",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I shipped 30+ releases of an AI job-search dashboard through vibecoding — here's the doctrine",
+    "link": "https://dev.to/sergey_emelyanov/i-shipped-30-releases-of-an-ai-job-search-dashboard-through-vibecoding-heres-the-doctrine-2dpm",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Validating ads with an AI Video Ad Generator under a $100 budget",
+    "link": "https://dev.to/savielyamani_videoai/validating-ads-with-an-ai-video-ad-generator-under-a-100-budget-1obg",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built tmpdrop: a self-hosted, expiring file drop",
+    "link": "https://dev.to/kin_panho_319240e9b3688c/why-i-built-tmpdrop-a-self-hosted-expiring-file-drop-2fc6",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Claude Wrote a NestJS Service. TypeScript Was Happy. ESLint Found 6 Security Holes.",
+    "link": "https://dev.to/ofri-peretz/claude-wrote-a-nestjs-service-typescript-was-happy-eslint-found-6-security-holes-51nj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supply Chains, Zombie OSS, and Agent Firewalls",
+    "link": "https://dev.to/urbanisierung/supply-chains-zombie-oss-and-agent-firewalls-543",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We Replaced Jest With node:test in 12 Services — Here's What Broke and What Didn't",
+    "link": "https://dev.to/dineshgowtham/we-replaced-jest-with-nodetest-in-12-services-heres-what-broke-and-what-didnt-6nl",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built My First npm Package — A CLI for Scaffolding Modular Node.js Projects",
+    "link": "https://dev.to/yash_hadade_83abbb43fa06a/i-built-my-first-npm-package-a-cli-for-scaffolding-modular-nodejs-projects-180j",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your .env file has been in 6 places it shouldn't be",
+    "link": "https://dev.to/tlw_c91a7f30a7a1be3158afe/your-env-file-has-been-in-6-places-it-shouldnt-be-3d6k",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Scanned 200 Public GitHub Repos for Leaked .env Files — Then Built a CLI to Stop It",
+    "link": "https://dev.to/sulthonzh/i-scanned-200-public-github-repos-for-leaked-env-files-then-built-a-cli-to-stop-it-3fb4",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "rendermw — Zero-Dependency Dynamic Rendering Middleware for Express SPAs",
+    "link": "https://dev.to/brighteyekid/rendermw-zero-dependency-dynamic-rendering-middleware-for-express-spas-5bh5",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I shipped 30+ releases of an AI job-search dashboard through vibecoding — here's the doctrine",
+    "link": "https://dev.to/sergey_emelyanov/i-shipped-30-releases-of-an-ai-job-search-dashboard-through-vibecoding-heres-the-doctrine-2dpm",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Validating ads with an AI Video Ad Generator under a $100 budget",
+    "link": "https://dev.to/savielyamani_videoai/validating-ads-with-an-ai-video-ad-generator-under-a-100-budget-1obg",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built tmpdrop: a self-hosted, expiring file drop",
+    "link": "https://dev.to/kin_panho_319240e9b3688c/why-i-built-tmpdrop-a-self-hosted-expiring-file-drop-2fc6",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Claude Wrote a NestJS Service. TypeScript Was Happy. ESLint Found 6 Security Holes.",
+    "link": "https://dev.to/ofri-peretz/claude-wrote-a-nestjs-service-typescript-was-happy-eslint-found-6-security-holes-51nj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supply Chains, Zombie OSS, and Agent Firewalls",
+    "link": "https://dev.to/urbanisierung/supply-chains-zombie-oss-and-agent-firewalls-543",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We Replaced Jest With node:test in 12 Services — Here's What Broke and What Didn't",
+    "link": "https://dev.to/dineshgowtham/we-replaced-jest-with-nodetest-in-12-services-heres-what-broke-and-what-didnt-6nl",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built My First npm Package — A CLI for Scaffolding Modular Node.js Projects",
+    "link": "https://dev.to/yash_hadade_83abbb43fa06a/i-built-my-first-npm-package-a-cli-for-scaffolding-modular-nodejs-projects-180j",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your .env file has been in 6 places it shouldn't be",
+    "link": "https://dev.to/tlw_c91a7f30a7a1be3158afe/your-env-file-has-been-in-6-places-it-shouldnt-be-3d6k",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Scanned 200 Public GitHub Repos for Leaked .env Files — Then Built a CLI to Stop It",
+    "link": "https://dev.to/sulthonzh/i-scanned-200-public-github-repos-for-leaked-env-files-then-built-a-cli-to-stop-it-3fb4",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "rendermw — Zero-Dependency Dynamic Rendering Middleware for Express SPAs",
+    "link": "https://dev.to/brighteyekid/rendermw-zero-dependency-dynamic-rendering-middleware-for-express-spas-5bh5",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I shipped 30+ releases of an AI job-search dashboard through vibecoding — here's the doctrine",
+    "link": "https://dev.to/sergey_emelyanov/i-shipped-30-releases-of-an-ai-job-search-dashboard-through-vibecoding-heres-the-doctrine-2dpm",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Validating ads with an AI Video Ad Generator under a $100 budget",
+    "link": "https://dev.to/savielyamani_videoai/validating-ads-with-an-ai-video-ad-generator-under-a-100-budget-1obg",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built tmpdrop: a self-hosted, expiring file drop",
+    "link": "https://dev.to/kin_panho_319240e9b3688c/why-i-built-tmpdrop-a-self-hosted-expiring-file-drop-2fc6",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Claude Wrote a NestJS Service. TypeScript Was Happy. ESLint Found 6 Security Holes.",
+    "link": "https://dev.to/ofri-peretz/claude-wrote-a-nestjs-service-typescript-was-happy-eslint-found-6-security-holes-51nj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supply Chains, Zombie OSS, and Agent Firewalls",
+    "link": "https://dev.to/urbanisierung/supply-chains-zombie-oss-and-agent-firewalls-543",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We Replaced Jest With node:test in 12 Services — Here's What Broke and What Didn't",
+    "link": "https://dev.to/dineshgowtham/we-replaced-jest-with-nodetest-in-12-services-heres-what-broke-and-what-didnt-6nl",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built My First npm Package — A CLI for Scaffolding Modular Node.js Projects",
+    "link": "https://dev.to/yash_hadade_83abbb43fa06a/i-built-my-first-npm-package-a-cli-for-scaffolding-modular-nodejs-projects-180j",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your .env file has been in 6 places it shouldn't be",
+    "link": "https://dev.to/tlw_c91a7f30a7a1be3158afe/your-env-file-has-been-in-6-places-it-shouldnt-be-3d6k",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Scanned 200 Public GitHub Repos for Leaked .env Files — Then Built a CLI to Stop It",
+    "link": "https://dev.to/sulthonzh/i-scanned-200-public-github-repos-for-leaked-env-files-then-built-a-cli-to-stop-it-3fb4",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "rendermw — Zero-Dependency Dynamic Rendering Middleware for Express SPAs",
+    "link": "https://dev.to/brighteyekid/rendermw-zero-dependency-dynamic-rendering-middleware-for-express-spas-5bh5",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I shipped 30+ releases of an AI job-search dashboard through vibecoding — here's the doctrine",
+    "link": "https://dev.to/sergey_emelyanov/i-shipped-30-releases-of-an-ai-job-search-dashboard-through-vibecoding-heres-the-doctrine-2dpm",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Validating ads with an AI Video Ad Generator under a $100 budget",
+    "link": "https://dev.to/savielyamani_videoai/validating-ads-with-an-ai-video-ad-generator-under-a-100-budget-1obg",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built tmpdrop: a self-hosted, expiring file drop",
+    "link": "https://dev.to/kin_panho_319240e9b3688c/why-i-built-tmpdrop-a-self-hosted-expiring-file-drop-2fc6",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Claude Wrote a NestJS Service. TypeScript Was Happy. ESLint Found 6 Security Holes.",
+    "link": "https://dev.to/ofri-peretz/claude-wrote-a-nestjs-service-typescript-was-happy-eslint-found-6-security-holes-51nj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supply Chains, Zombie OSS, and Agent Firewalls",
+    "link": "https://dev.to/urbanisierung/supply-chains-zombie-oss-and-agent-firewalls-543",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We Replaced Jest With node:test in 12 Services — Here's What Broke and What Didn't",
+    "link": "https://dev.to/dineshgowtham/we-replaced-jest-with-nodetest-in-12-services-heres-what-broke-and-what-didnt-6nl",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built My First npm Package — A CLI for Scaffolding Modular Node.js Projects",
+    "link": "https://dev.to/yash_hadade_83abbb43fa06a/i-built-my-first-npm-package-a-cli-for-scaffolding-modular-nodejs-projects-180j",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your .env file has been in 6 places it shouldn't be",
+    "link": "https://dev.to/tlw_c91a7f30a7a1be3158afe/your-env-file-has-been-in-6-places-it-shouldnt-be-3d6k",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Scanned 200 Public GitHub Repos for Leaked .env Files — Then Built a CLI to Stop It",
+    "link": "https://dev.to/sulthonzh/i-scanned-200-public-github-repos-for-leaked-env-files-then-built-a-cli-to-stop-it-3fb4",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "rendermw — Zero-Dependency Dynamic Rendering Middleware for Express SPAs",
+    "link": "https://dev.to/brighteyekid/rendermw-zero-dependency-dynamic-rendering-middleware-for-express-spas-5bh5",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I shipped 30+ releases of an AI job-search dashboard through vibecoding — here's the doctrine",
+    "link": "https://dev.to/sergey_emelyanov/i-shipped-30-releases-of-an-ai-job-search-dashboard-through-vibecoding-heres-the-doctrine-2dpm",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Validating ads with an AI Video Ad Generator under a $100 budget",
+    "link": "https://dev.to/savielyamani_videoai/validating-ads-with-an-ai-video-ad-generator-under-a-100-budget-1obg",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Migrating a MERN app to AWS serverless (and what broke)",
+    "link": "https://dev.to/suletete/migrating-a-mern-app-to-aws-serverless-and-what-broke-318m",
+    "date": "5/28/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I scraped the CQC Care Register without hitting the API auth wall",
+    "link": "https://dev.to/danielainsworth/how-i-scraped-the-cqc-care-register-without-hitting-the-api-auth-wall-180p",
+    "date": "5/28/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How My Team from Risevest Academy and I Built an End-to-End Encrypted Messaging App in 3 Weeks",
+    "link": "https://dev.to/lowlifehighway/how-my-team-from-risevest-academy-and-i-built-an-end-to-end-encrypted-messaging-app-in-3-weeks-2ib5",
+    "date": "5/28/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built an AI Agent That Guards Your Credit Cards 24/7",
+    "link": "https://dev.to/prathyusha_kilaru/i-built-an-ai-agent-that-guards-your-credit-cards-247-2g9f",
+    "date": "5/28/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "Le projet qui fonctionnait… mais que je détestais modifier",
     "link": "https://dev.to/_notbu7ch/le-projet-qui-fonctionnait-mais-que-je-detestais-modifier-5d8p",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building an SEO crawler in TypeScript: what I learned",
-    "link": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo",
+    "title": "Migrating a MERN app to AWS serverless (and what broke)",
+    "link": "https://dev.to/suletete/migrating-a-mern-app-to-aws-serverless-and-what-broke-318m",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a Node script that turns Google Search Console into a daily dashboard",
-    "link": "https://dev.to/gaspricecheck/i-built-a-node-script-that-turns-google-search-console-into-a-daily-dashboard-dpo",
+    "title": "How I scraped the CQC Care Register without hitting the API auth wall",
+    "link": "https://dev.to/danielainsworth/how-i-scraped-the-cqc-care-register-without-hitting-the-api-auth-wall-180p",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "All off-session payments are rejected with network_decline_code: 59",
-    "link": "https://dev.to/casimir_knight/all-off-session-payments-are-rejected-with-networkdeclinecode-59-27nh",
+    "title": "How My Team from Risevest Academy and I Built an End-to-End Encrypted Messaging App in 3 Weeks",
+    "link": "https://dev.to/lowlifehighway/how-my-team-from-risevest-academy-and-i-built-an-end-to-end-encrypted-messaging-app-in-3-weeks-2ib5",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "@flare-ts - a TypeScript HTTP framework for Node and Cloudflare Workers",
-    "link": "dev.to/lmx_jch/flare-ts-a-typescript-http-framework-for-node-and-cloudflare-workers-2n2c",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Replaced Redis with ElastiCache and Got 3x Better Performance for 20% of the Cost",
-    "link": "https://dev.to/dineshgowtham/we-replaced-redis-with-elasticache-and-got-3x-better-performance-for-20-of-the-cost-1314",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why We Migrated from npm to pnpm — and It Wasn't About Speed",
-    "link": "https://dev.to/alfchee/why-we-migrated-from-npm-to-pnpm-and-it-wasnt-about-speed-mgo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I was drowning in stale git branches, so I built an interactive TUI to bulk-delete them",
-    "link": "https://dev.to/mumicrotools/i-was-drowning-in-stale-git-branches-so-i-built-an-interactive-tui-to-bulk-delete-them-15h2",
+    "title": "I Built an AI Agent That Guards Your Credit Cards 24/7",
+    "link": "https://dev.to/prathyusha_kilaru/i-built-an-ai-agent-that-guards-your-credit-cards-247-2g9f",
     "date": "5/28/2026",
     "site": "dev.to"
   },
@@ -54,44 +360,26 @@
     "site": "dev.to"
   },
   {
-    "title": "Building an SEO crawler in TypeScript: what I learned",
-    "link": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo",
+    "title": "Migrating a MERN app to AWS serverless (and what broke)",
+    "link": "https://dev.to/suletete/migrating-a-mern-app-to-aws-serverless-and-what-broke-318m",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a Node script that turns Google Search Console into a daily dashboard",
-    "link": "https://dev.to/gaspricecheck/i-built-a-node-script-that-turns-google-search-console-into-a-daily-dashboard-dpo",
+    "title": "How I scraped the CQC Care Register without hitting the API auth wall",
+    "link": "https://dev.to/danielainsworth/how-i-scraped-the-cqc-care-register-without-hitting-the-api-auth-wall-180p",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "All off-session payments are rejected with network_decline_code: 59",
-    "link": "https://dev.to/casimir_knight/all-off-session-payments-are-rejected-with-networkdeclinecode-59-27nh",
+    "title": "How My Team from Risevest Academy and I Built an End-to-End Encrypted Messaging App in 3 Weeks",
+    "link": "https://dev.to/lowlifehighway/how-my-team-from-risevest-academy-and-i-built-an-end-to-end-encrypted-messaging-app-in-3-weeks-2ib5",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "@flare-ts - a TypeScript HTTP framework for Node and Cloudflare Workers",
-    "link": "dev.to/lmx_jch/flare-ts-a-typescript-http-framework-for-node-and-cloudflare-workers-2n2c",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Replaced Redis with ElastiCache and Got 3x Better Performance for 20% of the Cost",
-    "link": "https://dev.to/dineshgowtham/we-replaced-redis-with-elasticache-and-got-3x-better-performance-for-20-of-the-cost-1314",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why We Migrated from npm to pnpm — and It Wasn't About Speed",
-    "link": "https://dev.to/alfchee/why-we-migrated-from-npm-to-pnpm-and-it-wasnt-about-speed-mgo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I was drowning in stale git branches, so I built an interactive TUI to bulk-delete them",
-    "link": "https://dev.to/mumicrotools/i-was-drowning-in-stale-git-branches-so-i-built-an-interactive-tui-to-bulk-delete-them-15h2",
+    "title": "I Built an AI Agent That Guards Your Credit Cards 24/7",
+    "link": "https://dev.to/prathyusha_kilaru/i-built-an-ai-agent-that-guards-your-credit-cards-247-2g9f",
     "date": "5/28/2026",
     "site": "dev.to"
   },
@@ -102,44 +390,26 @@
     "site": "dev.to"
   },
   {
-    "title": "Building an SEO crawler in TypeScript: what I learned",
-    "link": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo",
+    "title": "Migrating a MERN app to AWS serverless (and what broke)",
+    "link": "https://dev.to/suletete/migrating-a-mern-app-to-aws-serverless-and-what-broke-318m",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a Node script that turns Google Search Console into a daily dashboard",
-    "link": "https://dev.to/gaspricecheck/i-built-a-node-script-that-turns-google-search-console-into-a-daily-dashboard-dpo",
+    "title": "How I scraped the CQC Care Register without hitting the API auth wall",
+    "link": "https://dev.to/danielainsworth/how-i-scraped-the-cqc-care-register-without-hitting-the-api-auth-wall-180p",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "All off-session payments are rejected with network_decline_code: 59",
-    "link": "https://dev.to/casimir_knight/all-off-session-payments-are-rejected-with-networkdeclinecode-59-27nh",
+    "title": "How My Team from Risevest Academy and I Built an End-to-End Encrypted Messaging App in 3 Weeks",
+    "link": "https://dev.to/lowlifehighway/how-my-team-from-risevest-academy-and-i-built-an-end-to-end-encrypted-messaging-app-in-3-weeks-2ib5",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "@flare-ts - a TypeScript HTTP framework for Node and Cloudflare Workers",
-    "link": "dev.to/lmx_jch/flare-ts-a-typescript-http-framework-for-node-and-cloudflare-workers-2n2c",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Replaced Redis with ElastiCache and Got 3x Better Performance for 20% of the Cost",
-    "link": "https://dev.to/dineshgowtham/we-replaced-redis-with-elasticache-and-got-3x-better-performance-for-20-of-the-cost-1314",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why We Migrated from npm to pnpm — and It Wasn't About Speed",
-    "link": "https://dev.to/alfchee/why-we-migrated-from-npm-to-pnpm-and-it-wasnt-about-speed-mgo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I was drowning in stale git branches, so I built an interactive TUI to bulk-delete them",
-    "link": "https://dev.to/mumicrotools/i-was-drowning-in-stale-git-branches-so-i-built-an-interactive-tui-to-bulk-delete-them-15h2",
+    "title": "I Built an AI Agent That Guards Your Credit Cards 24/7",
+    "link": "https://dev.to/prathyusha_kilaru/i-built-an-ai-agent-that-guards-your-credit-cards-247-2g9f",
     "date": "5/28/2026",
     "site": "dev.to"
   },
@@ -150,44 +420,26 @@
     "site": "dev.to"
   },
   {
-    "title": "Building an SEO crawler in TypeScript: what I learned",
-    "link": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo",
+    "title": "Migrating a MERN app to AWS serverless (and what broke)",
+    "link": "https://dev.to/suletete/migrating-a-mern-app-to-aws-serverless-and-what-broke-318m",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a Node script that turns Google Search Console into a daily dashboard",
-    "link": "https://dev.to/gaspricecheck/i-built-a-node-script-that-turns-google-search-console-into-a-daily-dashboard-dpo",
+    "title": "How I scraped the CQC Care Register without hitting the API auth wall",
+    "link": "https://dev.to/danielainsworth/how-i-scraped-the-cqc-care-register-without-hitting-the-api-auth-wall-180p",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "All off-session payments are rejected with network_decline_code: 59",
-    "link": "https://dev.to/casimir_knight/all-off-session-payments-are-rejected-with-networkdeclinecode-59-27nh",
+    "title": "How My Team from Risevest Academy and I Built an End-to-End Encrypted Messaging App in 3 Weeks",
+    "link": "https://dev.to/lowlifehighway/how-my-team-from-risevest-academy-and-i-built-an-end-to-end-encrypted-messaging-app-in-3-weeks-2ib5",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "@flare-ts - a TypeScript HTTP framework for Node and Cloudflare Workers",
-    "link": "dev.to/lmx_jch/flare-ts-a-typescript-http-framework-for-node-and-cloudflare-workers-2n2c",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Replaced Redis with ElastiCache and Got 3x Better Performance for 20% of the Cost",
-    "link": "https://dev.to/dineshgowtham/we-replaced-redis-with-elasticache-and-got-3x-better-performance-for-20-of-the-cost-1314",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why We Migrated from npm to pnpm — and It Wasn't About Speed",
-    "link": "https://dev.to/alfchee/why-we-migrated-from-npm-to-pnpm-and-it-wasnt-about-speed-mgo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I was drowning in stale git branches, so I built an interactive TUI to bulk-delete them",
-    "link": "https://dev.to/mumicrotools/i-was-drowning-in-stale-git-branches-so-i-built-an-interactive-tui-to-bulk-delete-them-15h2",
+    "title": "I Built an AI Agent That Guards Your Credit Cards 24/7",
+    "link": "https://dev.to/prathyusha_kilaru/i-built-an-ai-agent-that-guards-your-credit-cards-247-2g9f",
     "date": "5/28/2026",
     "site": "dev.to"
   },
@@ -195,258 +447,6 @@
     "title": "Le projet qui fonctionnait… mais que je détestais modifier",
     "link": "https://dev.to/_notbu7ch/le-projet-qui-fonctionnait-mais-que-je-detestais-modifier-5d8p",
     "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an SEO crawler in TypeScript: what I learned",
-    "link": "https://dev.to/codepurse/building-an-seo-crawler-in-typescript-what-i-learned-1doo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a Node script that turns Google Search Console into a daily dashboard",
-    "link": "https://dev.to/gaspricecheck/i-built-a-node-script-that-turns-google-search-console-into-a-daily-dashboard-dpo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "All off-session payments are rejected with network_decline_code: 59",
-    "link": "https://dev.to/casimir_knight/all-off-session-payments-are-rejected-with-networkdeclinecode-59-27nh",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "@flare-ts - a TypeScript HTTP framework for Node and Cloudflare Workers",
-    "link": "dev.to/lmx_jch/flare-ts-a-typescript-http-framework-for-node-and-cloudflare-workers-2n2c",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Replaced Redis with ElastiCache and Got 3x Better Performance for 20% of the Cost",
-    "link": "https://dev.to/dineshgowtham/we-replaced-redis-with-elasticache-and-got-3x-better-performance-for-20-of-the-cost-1314",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why We Migrated from npm to pnpm — and It Wasn't About Speed",
-    "link": "https://dev.to/alfchee/why-we-migrated-from-npm-to-pnpm-and-it-wasnt-about-speed-mgo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I was drowning in stale git branches, so I built an interactive TUI to bulk-delete them",
-    "link": "https://dev.to/mumicrotools/i-was-drowning-in-stale-git-branches-so-i-built-an-interactive-tui-to-bulk-delete-them-15h2",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
-    "link": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Multi-Architecture Docker Builds for Node.js: From Apple Silicon to AWS Graviton",
-    "link": "https://dev.to/raju_dandigam/multi-architecture-docker-builds-for-nodejs-from-apple-silicon-to-aws-graviton-34dn",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built a 3-Tier Node.js Cache That Hits 2.8M ops/sec (And Never Drops a Key on Eviction)",
-    "link": "https://dev.to/kareem411/how-we-built-a-3-tier-nodejs-cache-that-hits-28m-opssec-and-never-drops-a-key-on-eviction-1bkb",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Backend Secrets Leak More Often Than Developers Think: A Deep Dive into Runtime Security with XyPriss",
-    "link": "https://dev.to/nehonix/why-backend-secrets-leak-more-often-than-developers-think-a-deep-dive-into-runtime-security-with-4lg2",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node streams aren't hard anymore",
-    "link": "https://dev.to/r9v/node-streams-arent-hard-anymore-5794",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "logfx v1.0.0: One Logger for Development and Production",
-    "link": "https://dev.to/chintanshah35/logfx-v100-one-logger-for-development-and-production-4cj5",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Automated Invoice Processing Pipeline with Node.js",
-    "link": "https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-di5",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
-    "link": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Multi-Architecture Docker Builds for Node.js: From Apple Silicon to AWS Graviton",
-    "link": "https://dev.to/raju_dandigam/multi-architecture-docker-builds-for-nodejs-from-apple-silicon-to-aws-graviton-34dn",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built a 3-Tier Node.js Cache That Hits 2.8M ops/sec (And Never Drops a Key on Eviction)",
-    "link": "https://dev.to/kareem411/how-we-built-a-3-tier-nodejs-cache-that-hits-28m-opssec-and-never-drops-a-key-on-eviction-1bkb",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Backend Secrets Leak More Often Than Developers Think: A Deep Dive into Runtime Security with XyPriss",
-    "link": "https://dev.to/nehonix/why-backend-secrets-leak-more-often-than-developers-think-a-deep-dive-into-runtime-security-with-4lg2",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node streams aren't hard anymore",
-    "link": "https://dev.to/r9v/node-streams-arent-hard-anymore-5794",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "logfx v1.0.0: One Logger for Development and Production",
-    "link": "https://dev.to/chintanshah35/logfx-v100-one-logger-for-development-and-production-4cj5",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Automated Invoice Processing Pipeline with Node.js",
-    "link": "https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-di5",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
-    "link": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Multi-Architecture Docker Builds for Node.js: From Apple Silicon to AWS Graviton",
-    "link": "https://dev.to/raju_dandigam/multi-architecture-docker-builds-for-nodejs-from-apple-silicon-to-aws-graviton-34dn",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built a 3-Tier Node.js Cache That Hits 2.8M ops/sec (And Never Drops a Key on Eviction)",
-    "link": "https://dev.to/kareem411/how-we-built-a-3-tier-nodejs-cache-that-hits-28m-opssec-and-never-drops-a-key-on-eviction-1bkb",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Backend Secrets Leak More Often Than Developers Think: A Deep Dive into Runtime Security with XyPriss",
-    "link": "https://dev.to/nehonix/why-backend-secrets-leak-more-often-than-developers-think-a-deep-dive-into-runtime-security-with-4lg2",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node streams aren't hard anymore",
-    "link": "https://dev.to/r9v/node-streams-arent-hard-anymore-5794",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "logfx v1.0.0: One Logger for Development and Production",
-    "link": "https://dev.to/chintanshah35/logfx-v100-one-logger-for-development-and-production-4cj5",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Automated Invoice Processing Pipeline with Node.js",
-    "link": "https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-di5",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
-    "link": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Multi-Architecture Docker Builds for Node.js: From Apple Silicon to AWS Graviton",
-    "link": "https://dev.to/raju_dandigam/multi-architecture-docker-builds-for-nodejs-from-apple-silicon-to-aws-graviton-34dn",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built a 3-Tier Node.js Cache That Hits 2.8M ops/sec (And Never Drops a Key on Eviction)",
-    "link": "https://dev.to/kareem411/how-we-built-a-3-tier-nodejs-cache-that-hits-28m-opssec-and-never-drops-a-key-on-eviction-1bkb",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Backend Secrets Leak More Often Than Developers Think: A Deep Dive into Runtime Security with XyPriss",
-    "link": "https://dev.to/nehonix/why-backend-secrets-leak-more-often-than-developers-think-a-deep-dive-into-runtime-security-with-4lg2",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node streams aren't hard anymore",
-    "link": "https://dev.to/r9v/node-streams-arent-hard-anymore-5794",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "logfx v1.0.0: One Logger for Development and Production",
-    "link": "https://dev.to/chintanshah35/logfx-v100-one-logger-for-development-and-production-4cj5",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Automated Invoice Processing Pipeline with Node.js",
-    "link": "https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-di5",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Found a Fake Job Assessment Repo Hiding Malware Inside SVG Files",
-    "link": "https://dev.to/arsen1c/how-i-found-a-fake-job-assessment-repo-hiding-malware-inside-svg-files-13oi",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Multi-Architecture Docker Builds for Node.js: From Apple Silicon to AWS Graviton",
-    "link": "https://dev.to/raju_dandigam/multi-architecture-docker-builds-for-nodejs-from-apple-silicon-to-aws-graviton-34dn",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built a 3-Tier Node.js Cache That Hits 2.8M ops/sec (And Never Drops a Key on Eviction)",
-    "link": "https://dev.to/kareem411/how-we-built-a-3-tier-nodejs-cache-that-hits-28m-opssec-and-never-drops-a-key-on-eviction-1bkb",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Backend Secrets Leak More Often Than Developers Think: A Deep Dive into Runtime Security with XyPriss",
-    "link": "https://dev.to/nehonix/why-backend-secrets-leak-more-often-than-developers-think-a-deep-dive-into-runtime-security-with-4lg2",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node streams aren't hard anymore",
-    "link": "https://dev.to/r9v/node-streams-arent-hard-anymore-5794",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "logfx v1.0.0: One Logger for Development and Production",
-    "link": "https://dev.to/chintanshah35/logfx-v100-one-logger-for-development-and-production-4cj5",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Automated Invoice Processing Pipeline with Node.js",
-    "link": "https://dev.to/toolkitonline/building-an-automated-invoice-processing-pipeline-with-nodejs-di5",
-    "date": "5/27/2026",
     "site": "dev.to"
   },
   {
@@ -697,7 +697,7 @@
   {
     "title": "How To Develop A Chat Bot With Node.js",
     "link": "https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "10/17/2016",
     "site": "smashingmagazine"
   },
@@ -725,7 +725,7 @@
   {
     "title": "Building A Real-Time Retrospective Board With Video Chat",
     "link": "https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/8/2016",
     "site": "smashingmagazine"
   },

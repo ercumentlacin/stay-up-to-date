@@ -1,453 +1,523 @@
 [
   {
-    "title": "My static site's visitor counter reset to 1. Here is the deploy checklist I wish I had",
-    "link": "https://dev.to/dngzihng114379/my-static-sites-visitor-counter-reset-to-1-here-is-the-deploy-checklist-i-wish-i-had-5aoh",
+    "title": "A self-hosted Google reCAPTCHA alternative (we ship it)",
+    "link": "https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.",
+    "link": "https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Angular @switch Upgrades You Should Know About",
+    "link": "https://dev.to/brianmtreese/the-angular-switch-upgrades-you-should-know-about-102c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RSC Component Architecture, Next.js Dev MCP, Interactive Apps Guide, React Doctor, Bklit UI, Chat SDK Community Agent, Prefetch App Shells",
+    "link": "https://dev.to/erfanebrahimnia/rsc-component-architecture-nextjs-dev-mcp-interactive-apps-guide-react-doctor-bklit-ui-chat-g6m",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built an open-source tool that reverse-engineers any GitHub repo in 10 seconds",
+    "link": "https://dev.to/sidhant0707/i-built-an-open-source-tool-that-reverse-engineers-any-github-repo-in-10-seconds-323c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supply Chains, Zombie OSS, and Agent Firewalls",
+    "link": "https://dev.to/urbanisierung/supply-chains-zombie-oss-and-agent-firewalls-543",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a one-button game in vanilla JS Canvas — single file, no engine, plays in your browser",
+    "link": "https://dev.to/crushforce/i-built-a-one-button-game-in-vanilla-js-canvas-single-file-no-engine-plays-in-your-browser-2gn0",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced TanStack Query with alova and cut my code by 70%",
+    "link": "https://dev.to/coderhu/i-replaced-tanstack-query-with-alova-and-cut-my-code-by-70-5563",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useContext + useNavigate Scenarios",
+    "link": "https://dev.to/athithya_sivasankarar/react-usecontext-usenavigate-scenarios-1n9m",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop the Lag: Optimizing Heavy Browser-Based PDF Image Extraction",
+    "link": "https://dev.to/will_indie/stop-the-lag-optimizing-heavy-browser-based-pdf-image-extraction-6gj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why tests pass but the system is still broken",
+    "link": "https://dev.to/ariless/why-tests-pass-but-the-system-is-still-broken-31n6",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Under the Hood of EngConvert: Solving Floating-Point Precision in Web-Based Engineering Tools",
+    "link": "https://dev.to/lyyluca/under-the-hood-of-engconvert-solving-floating-point-precision-in-web-based-engineering-tools-4fnj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A self-hosted Google reCAPTCHA alternative (we ship it)",
+    "link": "https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.",
+    "link": "https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Angular @switch Upgrades You Should Know About",
+    "link": "https://dev.to/brianmtreese/the-angular-switch-upgrades-you-should-know-about-102c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RSC Component Architecture, Next.js Dev MCP, Interactive Apps Guide, React Doctor, Bklit UI, Chat SDK Community Agent, Prefetch App Shells",
+    "link": "https://dev.to/erfanebrahimnia/rsc-component-architecture-nextjs-dev-mcp-interactive-apps-guide-react-doctor-bklit-ui-chat-g6m",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built an open-source tool that reverse-engineers any GitHub repo in 10 seconds",
+    "link": "https://dev.to/sidhant0707/i-built-an-open-source-tool-that-reverse-engineers-any-github-repo-in-10-seconds-323c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supply Chains, Zombie OSS, and Agent Firewalls",
+    "link": "https://dev.to/urbanisierung/supply-chains-zombie-oss-and-agent-firewalls-543",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a one-button game in vanilla JS Canvas — single file, no engine, plays in your browser",
+    "link": "https://dev.to/crushforce/i-built-a-one-button-game-in-vanilla-js-canvas-single-file-no-engine-plays-in-your-browser-2gn0",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced TanStack Query with alova and cut my code by 70%",
+    "link": "https://dev.to/coderhu/i-replaced-tanstack-query-with-alova-and-cut-my-code-by-70-5563",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useContext + useNavigate Scenarios",
+    "link": "https://dev.to/athithya_sivasankarar/react-usecontext-usenavigate-scenarios-1n9m",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop the Lag: Optimizing Heavy Browser-Based PDF Image Extraction",
+    "link": "https://dev.to/will_indie/stop-the-lag-optimizing-heavy-browser-based-pdf-image-extraction-6gj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why tests pass but the system is still broken",
+    "link": "https://dev.to/ariless/why-tests-pass-but-the-system-is-still-broken-31n6",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Under the Hood of EngConvert: Solving Floating-Point Precision in Web-Based Engineering Tools",
+    "link": "https://dev.to/lyyluca/under-the-hood-of-engconvert-solving-floating-point-precision-in-web-based-engineering-tools-4fnj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A self-hosted Google reCAPTCHA alternative (we ship it)",
+    "link": "https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.",
+    "link": "https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Angular @switch Upgrades You Should Know About",
+    "link": "https://dev.to/brianmtreese/the-angular-switch-upgrades-you-should-know-about-102c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RSC Component Architecture, Next.js Dev MCP, Interactive Apps Guide, React Doctor, Bklit UI, Chat SDK Community Agent, Prefetch App Shells",
+    "link": "https://dev.to/erfanebrahimnia/rsc-component-architecture-nextjs-dev-mcp-interactive-apps-guide-react-doctor-bklit-ui-chat-g6m",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built an open-source tool that reverse-engineers any GitHub repo in 10 seconds",
+    "link": "https://dev.to/sidhant0707/i-built-an-open-source-tool-that-reverse-engineers-any-github-repo-in-10-seconds-323c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supply Chains, Zombie OSS, and Agent Firewalls",
+    "link": "https://dev.to/urbanisierung/supply-chains-zombie-oss-and-agent-firewalls-543",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a one-button game in vanilla JS Canvas — single file, no engine, plays in your browser",
+    "link": "https://dev.to/crushforce/i-built-a-one-button-game-in-vanilla-js-canvas-single-file-no-engine-plays-in-your-browser-2gn0",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced TanStack Query with alova and cut my code by 70%",
+    "link": "https://dev.to/coderhu/i-replaced-tanstack-query-with-alova-and-cut-my-code-by-70-5563",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useContext + useNavigate Scenarios",
+    "link": "https://dev.to/athithya_sivasankarar/react-usecontext-usenavigate-scenarios-1n9m",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop the Lag: Optimizing Heavy Browser-Based PDF Image Extraction",
+    "link": "https://dev.to/will_indie/stop-the-lag-optimizing-heavy-browser-based-pdf-image-extraction-6gj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why tests pass but the system is still broken",
+    "link": "https://dev.to/ariless/why-tests-pass-but-the-system-is-still-broken-31n6",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Under the Hood of EngConvert: Solving Floating-Point Precision in Web-Based Engineering Tools",
+    "link": "https://dev.to/lyyluca/under-the-hood-of-engconvert-solving-floating-point-precision-in-web-based-engineering-tools-4fnj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A self-hosted Google reCAPTCHA alternative (we ship it)",
+    "link": "https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.",
+    "link": "https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Angular @switch Upgrades You Should Know About",
+    "link": "https://dev.to/brianmtreese/the-angular-switch-upgrades-you-should-know-about-102c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RSC Component Architecture, Next.js Dev MCP, Interactive Apps Guide, React Doctor, Bklit UI, Chat SDK Community Agent, Prefetch App Shells",
+    "link": "https://dev.to/erfanebrahimnia/rsc-component-architecture-nextjs-dev-mcp-interactive-apps-guide-react-doctor-bklit-ui-chat-g6m",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built an open-source tool that reverse-engineers any GitHub repo in 10 seconds",
+    "link": "https://dev.to/sidhant0707/i-built-an-open-source-tool-that-reverse-engineers-any-github-repo-in-10-seconds-323c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supply Chains, Zombie OSS, and Agent Firewalls",
+    "link": "https://dev.to/urbanisierung/supply-chains-zombie-oss-and-agent-firewalls-543",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a one-button game in vanilla JS Canvas — single file, no engine, plays in your browser",
+    "link": "https://dev.to/crushforce/i-built-a-one-button-game-in-vanilla-js-canvas-single-file-no-engine-plays-in-your-browser-2gn0",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced TanStack Query with alova and cut my code by 70%",
+    "link": "https://dev.to/coderhu/i-replaced-tanstack-query-with-alova-and-cut-my-code-by-70-5563",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useContext + useNavigate Scenarios",
+    "link": "https://dev.to/athithya_sivasankarar/react-usecontext-usenavigate-scenarios-1n9m",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop the Lag: Optimizing Heavy Browser-Based PDF Image Extraction",
+    "link": "https://dev.to/will_indie/stop-the-lag-optimizing-heavy-browser-based-pdf-image-extraction-6gj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why tests pass but the system is still broken",
+    "link": "https://dev.to/ariless/why-tests-pass-but-the-system-is-still-broken-31n6",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Under the Hood of EngConvert: Solving Floating-Point Precision in Web-Based Engineering Tools",
+    "link": "https://dev.to/lyyluca/under-the-hood-of-engconvert-solving-floating-point-precision-in-web-based-engineering-tools-4fnj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A self-hosted Google reCAPTCHA alternative (we ship it)",
+    "link": "https://dev.to/ianqqu/a-self-hosted-google-recaptcha-alternative-we-ship-it-276h",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.",
+    "link": "https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Angular @switch Upgrades You Should Know About",
+    "link": "https://dev.to/brianmtreese/the-angular-switch-upgrades-you-should-know-about-102c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RSC Component Architecture, Next.js Dev MCP, Interactive Apps Guide, React Doctor, Bklit UI, Chat SDK Community Agent, Prefetch App Shells",
+    "link": "https://dev.to/erfanebrahimnia/rsc-component-architecture-nextjs-dev-mcp-interactive-apps-guide-react-doctor-bklit-ui-chat-g6m",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built an open-source tool that reverse-engineers any GitHub repo in 10 seconds",
+    "link": "https://dev.to/sidhant0707/i-built-an-open-source-tool-that-reverse-engineers-any-github-repo-in-10-seconds-323c",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Supply Chains, Zombie OSS, and Agent Firewalls",
+    "link": "https://dev.to/urbanisierung/supply-chains-zombie-oss-and-agent-firewalls-543",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a one-button game in vanilla JS Canvas — single file, no engine, plays in your browser",
+    "link": "https://dev.to/crushforce/i-built-a-one-button-game-in-vanilla-js-canvas-single-file-no-engine-plays-in-your-browser-2gn0",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced TanStack Query with alova and cut my code by 70%",
+    "link": "https://dev.to/coderhu/i-replaced-tanstack-query-with-alova-and-cut-my-code-by-70-5563",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useContext + useNavigate Scenarios",
+    "link": "https://dev.to/athithya_sivasankarar/react-usecontext-usenavigate-scenarios-1n9m",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop the Lag: Optimizing Heavy Browser-Based PDF Image Extraction",
+    "link": "https://dev.to/will_indie/stop-the-lag-optimizing-heavy-browser-based-pdf-image-extraction-6gj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why tests pass but the system is still broken",
+    "link": "https://dev.to/ariless/why-tests-pass-but-the-system-is-still-broken-31n6",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Under the Hood of EngConvert: Solving Floating-Point Precision in Web-Based Engineering Tools",
+    "link": "https://dev.to/lyyluca/under-the-hood-of-engconvert-solving-floating-point-precision-in-web-based-engineering-tools-4fnj",
+    "date": "5/29/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let Equals Equal Equals",
+    "link": "https://dev.to/bennypowers/let-equals-equal-equals-3imc",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I built a fast, client-side puzzle solver suite using Next.js and Web Workers",
-    "link": "https://dev.to/lyyluca/how-i-built-a-fast-client-side-puzzle-solver-suite-using-nextjs-and-web-workers-4pgo",
+    "title": "Recovering a gift card code from its createdAt with a 10-line LCG",
+    "link": "https://dev.to/oopssec-store/recovering-a-gift-card-code-from-its-createdat-with-a-10-line-lcg-327j",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building Metadata Capabilities in Apache SeaTunnel: A Committer’s Journey",
-    "link": "https://dev.to/seatunnel/building-metadata-capabilities-in-apache-seatunnel-a-committers-journey-o5l",
+    "title": "How I scraped the CQC Care Register without hitting the API auth wall",
+    "link": "https://dev.to/danielainsworth/how-i-scraped-the-cqc-care-register-without-hitting-the-api-auth-wall-180p",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "We Built an AI Voice Agent That Calls Real Estate Leads in Under 5 Minutes. Here's How",
-    "link": "https://dev.to/cizo/we-built-an-ai-voice-agent-that-calls-real-estate-leads-in-under-5-minutes-heres-how-7dd",
+    "title": "Let Equals Equal Equals",
+    "link": "https://dev.to/bennypowers/let-equals-equal-equals-3imc",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "React is nothing. And that's the point.",
-    "link": "https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b",
+    "title": "Recovering a gift card code from its createdAt with a 10-line LCG",
+    "link": "https://dev.to/oopssec-store/recovering-a-gift-card-code-from-its-createdat-with-a-10-line-lcg-327j",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a Node script that turns Google Search Console into a daily dashboard",
-    "link": "https://dev.to/gaspricecheck/i-built-a-node-script-that-turns-google-search-console-into-a-daily-dashboard-dpo",
+    "title": "How I scraped the CQC Care Register without hitting the API auth wall",
+    "link": "https://dev.to/danielainsworth/how-i-scraped-the-cqc-care-register-without-hitting-the-api-auth-wall-180p",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built the most feature-complete React Native drum picker — native Fabric, 10+ features, zero compromises",
-    "link": "https://dev.to/scroll_4027c50f79d327807d/i-built-the-most-feature-complete-react-native-drum-picker-native-fabric-10-features-zero-254b",
+    "title": "Let Equals Equal Equals",
+    "link": "https://dev.to/bennypowers/let-equals-equal-equals-3imc",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "How to Debug Complex Regex Patterns Offline Without Leaking Proprietary Data",
-    "link": "https://dev.to/aitranxuan/how-to-debug-complex-regex-patterns-offline-without-leaking-proprietary-data-7dm",
+    "title": "Recovering a gift card code from its createdAt with a 10-line LCG",
+    "link": "https://dev.to/oopssec-store/recovering-a-gift-card-code-from-its-createdat-with-a-10-line-lcg-327j",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "I coded an Air Hockey game where a local SLM hacks the DOM to cheat (and trash-talks you) 🤖🏓",
-    "link": "https://dev.to/quentin_merle/i-coded-an-air-hockey-game-where-a-local-slm-hacks-the-dom-to-cheat-and-trash-talks-you-306h",
+    "title": "How I scraped the CQC Care Register without hitting the API auth wall",
+    "link": "https://dev.to/danielainsworth/how-i-scraped-the-cqc-care-register-without-hitting-the-api-auth-wall-180p",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "My static site's visitor counter reset to 1. Here is the deploy checklist I wish I had",
-    "link": "https://dev.to/dngzihng114379/my-static-sites-visitor-counter-reset-to-1-here-is-the-deploy-checklist-i-wish-i-had-5aoh",
+    "title": "Let Equals Equal Equals",
+    "link": "https://dev.to/bennypowers/let-equals-equal-equals-3imc",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I built a fast, client-side puzzle solver suite using Next.js and Web Workers",
-    "link": "https://dev.to/lyyluca/how-i-built-a-fast-client-side-puzzle-solver-suite-using-nextjs-and-web-workers-4pgo",
+    "title": "Recovering a gift card code from its createdAt with a 10-line LCG",
+    "link": "https://dev.to/oopssec-store/recovering-a-gift-card-code-from-its-createdat-with-a-10-line-lcg-327j",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building Metadata Capabilities in Apache SeaTunnel: A Committer’s Journey",
-    "link": "https://dev.to/seatunnel/building-metadata-capabilities-in-apache-seatunnel-a-committers-journey-o5l",
+    "title": "How I scraped the CQC Care Register without hitting the API auth wall",
+    "link": "https://dev.to/danielainsworth/how-i-scraped-the-cqc-care-register-without-hitting-the-api-auth-wall-180p",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "We Built an AI Voice Agent That Calls Real Estate Leads in Under 5 Minutes. Here's How",
-    "link": "https://dev.to/cizo/we-built-an-ai-voice-agent-that-calls-real-estate-leads-in-under-5-minutes-heres-how-7dd",
+    "title": "Let Equals Equal Equals",
+    "link": "https://dev.to/bennypowers/let-equals-equal-equals-3imc",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "React is nothing. And that's the point.",
-    "link": "https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b",
+    "title": "Recovering a gift card code from its createdAt with a 10-line LCG",
+    "link": "https://dev.to/oopssec-store/recovering-a-gift-card-code-from-its-createdat-with-a-10-line-lcg-327j",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a Node script that turns Google Search Console into a daily dashboard",
-    "link": "https://dev.to/gaspricecheck/i-built-a-node-script-that-turns-google-search-console-into-a-daily-dashboard-dpo",
+    "title": "How I scraped the CQC Care Register without hitting the API auth wall",
+    "link": "https://dev.to/danielainsworth/how-i-scraped-the-cqc-care-register-without-hitting-the-api-auth-wall-180p",
     "date": "5/28/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built the most feature-complete React Native drum picker — native Fabric, 10+ features, zero compromises",
-    "link": "https://dev.to/scroll_4027c50f79d327807d/i-built-the-most-feature-complete-react-native-drum-picker-native-fabric-10-features-zero-254b",
-    "date": "5/28/2026",
-    "site": "dev.to"
+    "title": "Moving From Moment.js To The JS Temporal API",
+    "link": "https://www.smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
+    "reading_time": "18 min read",
+    "date": "3/13/2026",
+    "site": "smashingmagazine"
   },
   {
-    "title": "How to Debug Complex Regex Patterns Offline Without Leaking Proprietary Data",
-    "link": "https://dev.to/aitranxuan/how-to-debug-complex-regex-patterns-offline-without-leaking-proprietary-data-7dm",
-    "date": "5/28/2026",
-    "site": "dev.to"
+    "title": "Building Dynamic Forms In React And Next.js",
+    "link": "https://www.smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+    "reading_time": "14 min read",
+    "date": "3/10/2026",
+    "site": "smashingmagazine"
   },
   {
-    "title": "I coded an Air Hockey game where a local SLM hacks the DOM to cheat (and trash-talks you) 🤖🏓",
-    "link": "https://dev.to/quentin_merle/i-coded-an-air-hockey-game-where-a-local-slm-hacks-the-dom-to-cheat-and-trash-talks-you-306h",
-    "date": "5/28/2026",
-    "site": "dev.to"
+    "title": "JavaScript For Everyone: Iterators",
+    "link": "https://www.smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
+    "reading_time": "9 min read",
+    "date": "10/27/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "My static site's visitor counter reset to 1. Here is the deploy checklist I wish I had",
-    "link": "https://dev.to/dngzihng114379/my-static-sites-visitor-counter-reset-to-1-here-is-the-deploy-checklist-i-wish-i-had-5aoh",
-    "date": "5/28/2026",
-    "site": "dev.to"
+    "title": "The Power Of The Intl API: A Definitive Guide To Browser-Native Internationalization",
+    "link": "https://www.smashingmagazine.com/2025/08/power-intl-api-guide-browser-native-internationalization/",
+    "reading_time": "7 min read",
+    "date": "8/8/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "How I built a fast, client-side puzzle solver suite using Next.js and Web Workers",
-    "link": "https://dev.to/lyyluca/how-i-built-a-fast-client-side-puzzle-solver-suite-using-nextjs-and-web-workers-4pgo",
-    "date": "5/28/2026",
-    "site": "dev.to"
+    "title": "Handling JavaScript Event Listeners With Parameters",
+    "link": "https://www.smashingmagazine.com/2025/07/handling-javascript-event-listeners-parameters/",
+    "reading_time": "5 min read",
+    "date": "7/21/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Building Metadata Capabilities in Apache SeaTunnel: A Committer’s Journey",
-    "link": "https://dev.to/seatunnel/building-metadata-capabilities-in-apache-seatunnel-a-committers-journey-o5l",
-    "date": "5/28/2026",
-    "site": "dev.to"
+    "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
+    "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
+    "reading_time": "8 min read",
+    "date": "6/11/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "We Built an AI Voice Agent That Calls Real Estate Leads in Under 5 Minutes. Here's How",
-    "link": "https://dev.to/cizo/we-built-an-ai-voice-agent-that-calls-real-estate-leads-in-under-5-minutes-heres-how-7dd",
-    "date": "5/28/2026",
-    "site": "dev.to"
+    "title": "Building An Offline-Friendly Image Upload System",
+    "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
+    "reading_time": "9 min read",
+    "date": "4/23/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "React is nothing. And that's the point.",
-    "link": "https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b",
-    "date": "5/28/2026",
-    "site": "dev.to"
+    "title": "Creating An Effective Multistep Form For Better User Experience",
+    "link": "https://www.smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
+    "reading_time": "13 min read",
+    "date": "12/3/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "I built a Node script that turns Google Search Console into a daily dashboard",
-    "link": "https://dev.to/gaspricecheck/i-built-a-node-script-that-turns-google-search-console-into-a-daily-dashboard-dpo",
-    "date": "5/28/2026",
-    "site": "dev.to"
+    "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
+    "link": "https://www.smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
+    "reading_time": "10 min read",
+    "date": "10/7/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "I built the most feature-complete React Native drum picker — native Fabric, 10+ features, zero compromises",
-    "link": "https://dev.to/scroll_4027c50f79d327807d/i-built-the-most-feature-complete-react-native-drum-picker-native-fabric-10-features-zero-254b",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Debug Complex Regex Patterns Offline Without Leaking Proprietary Data",
-    "link": "https://dev.to/aitranxuan/how-to-debug-complex-regex-patterns-offline-without-leaking-proprietary-data-7dm",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I coded an Air Hockey game where a local SLM hacks the DOM to cheat (and trash-talks you) 🤖🏓",
-    "link": "https://dev.to/quentin_merle/i-coded-an-air-hockey-game-where-a-local-slm-hacks-the-dom-to-cheat-and-trash-talks-you-306h",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My static site's visitor counter reset to 1. Here is the deploy checklist I wish I had",
-    "link": "https://dev.to/dngzihng114379/my-static-sites-visitor-counter-reset-to-1-here-is-the-deploy-checklist-i-wish-i-had-5aoh",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built a fast, client-side puzzle solver suite using Next.js and Web Workers",
-    "link": "https://dev.to/lyyluca/how-i-built-a-fast-client-side-puzzle-solver-suite-using-nextjs-and-web-workers-4pgo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Metadata Capabilities in Apache SeaTunnel: A Committer’s Journey",
-    "link": "https://dev.to/seatunnel/building-metadata-capabilities-in-apache-seatunnel-a-committers-journey-o5l",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Built an AI Voice Agent That Calls Real Estate Leads in Under 5 Minutes. Here's How",
-    "link": "https://dev.to/cizo/we-built-an-ai-voice-agent-that-calls-real-estate-leads-in-under-5-minutes-heres-how-7dd",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React is nothing. And that's the point.",
-    "link": "https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a Node script that turns Google Search Console into a daily dashboard",
-    "link": "https://dev.to/gaspricecheck/i-built-a-node-script-that-turns-google-search-console-into-a-daily-dashboard-dpo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built the most feature-complete React Native drum picker — native Fabric, 10+ features, zero compromises",
-    "link": "https://dev.to/scroll_4027c50f79d327807d/i-built-the-most-feature-complete-react-native-drum-picker-native-fabric-10-features-zero-254b",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Debug Complex Regex Patterns Offline Without Leaking Proprietary Data",
-    "link": "https://dev.to/aitranxuan/how-to-debug-complex-regex-patterns-offline-without-leaking-proprietary-data-7dm",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I coded an Air Hockey game where a local SLM hacks the DOM to cheat (and trash-talks you) 🤖🏓",
-    "link": "https://dev.to/quentin_merle/i-coded-an-air-hockey-game-where-a-local-slm-hacks-the-dom-to-cheat-and-trash-talks-you-306h",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My static site's visitor counter reset to 1. Here is the deploy checklist I wish I had",
-    "link": "https://dev.to/dngzihng114379/my-static-sites-visitor-counter-reset-to-1-here-is-the-deploy-checklist-i-wish-i-had-5aoh",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built a fast, client-side puzzle solver suite using Next.js and Web Workers",
-    "link": "https://dev.to/lyyluca/how-i-built-a-fast-client-side-puzzle-solver-suite-using-nextjs-and-web-workers-4pgo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Metadata Capabilities in Apache SeaTunnel: A Committer’s Journey",
-    "link": "https://dev.to/seatunnel/building-metadata-capabilities-in-apache-seatunnel-a-committers-journey-o5l",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Built an AI Voice Agent That Calls Real Estate Leads in Under 5 Minutes. Here's How",
-    "link": "https://dev.to/cizo/we-built-an-ai-voice-agent-that-calls-real-estate-leads-in-under-5-minutes-heres-how-7dd",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React is nothing. And that's the point.",
-    "link": "https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a Node script that turns Google Search Console into a daily dashboard",
-    "link": "https://dev.to/gaspricecheck/i-built-a-node-script-that-turns-google-search-console-into-a-daily-dashboard-dpo",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built the most feature-complete React Native drum picker — native Fabric, 10+ features, zero compromises",
-    "link": "https://dev.to/scroll_4027c50f79d327807d/i-built-the-most-feature-complete-react-native-drum-picker-native-fabric-10-features-zero-254b",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Debug Complex Regex Patterns Offline Without Leaking Proprietary Data",
-    "link": "https://dev.to/aitranxuan/how-to-debug-complex-regex-patterns-offline-without-leaking-proprietary-data-7dm",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I coded an Air Hockey game where a local SLM hacks the DOM to cheat (and trash-talks you) 🤖🏓",
-    "link": "https://dev.to/quentin_merle/i-coded-an-air-hockey-game-where-a-local-slm-hacks-the-dom-to-cheat-and-trash-talks-you-306h",
-    "date": "5/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js 16 Broke My App in 4 Places and None of Them Threw an Error",
-    "link": "https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blockless Scope: JavaScript Shenanigans",
-    "link": "https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 39 free browser-based dev tools — here's every decision I made and why",
-    "link": "https://dev.to/mathew777/i-built-39-free-browser-based-dev-tools-heres-every-decision-i-made-and-why-51o3",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "INP in production: what we wish we had measured earlier",
-    "link": "https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Free Spelling Bee Solver and Analysis Tool — Here's What It Does",
-    "link": "https://dev.to/sbsolvers/i-built-a-free-spelling-bee-solver-and-analysis-tool-heres-what-it-does-368j",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js 16 Broke My App in 4 Places and None of Them Threw an Error",
-    "link": "https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blockless Scope: JavaScript Shenanigans",
-    "link": "https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 39 free browser-based dev tools — here's every decision I made and why",
-    "link": "https://dev.to/mathew777/i-built-39-free-browser-based-dev-tools-heres-every-decision-i-made-and-why-51o3",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "INP in production: what we wish we had measured earlier",
-    "link": "https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Free Spelling Bee Solver and Analysis Tool — Here's What It Does",
-    "link": "https://dev.to/sbsolvers/i-built-a-free-spelling-bee-solver-and-analysis-tool-heres-what-it-does-368j",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js 16 Broke My App in 4 Places and None of Them Threw an Error",
-    "link": "https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blockless Scope: JavaScript Shenanigans",
-    "link": "https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 39 free browser-based dev tools — here's every decision I made and why",
-    "link": "https://dev.to/mathew777/i-built-39-free-browser-based-dev-tools-heres-every-decision-i-made-and-why-51o3",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "INP in production: what we wish we had measured earlier",
-    "link": "https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Free Spelling Bee Solver and Analysis Tool — Here's What It Does",
-    "link": "https://dev.to/sbsolvers/i-built-a-free-spelling-bee-solver-and-analysis-tool-heres-what-it-does-368j",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js 16 Broke My App in 4 Places and None of Them Threw an Error",
-    "link": "https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blockless Scope: JavaScript Shenanigans",
-    "link": "https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 39 free browser-based dev tools — here's every decision I made and why",
-    "link": "https://dev.to/mathew777/i-built-39-free-browser-based-dev-tools-heres-every-decision-i-made-and-why-51o3",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "INP in production: what we wish we had measured earlier",
-    "link": "https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Free Spelling Bee Solver and Analysis Tool — Here's What It Does",
-    "link": "https://dev.to/sbsolvers/i-built-a-free-spelling-bee-solver-and-analysis-tool-heres-what-it-does-368j",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js 16 Broke My App in 4 Places and None of Them Threw an Error",
-    "link": "https://dev.to/shubhradev/nextjs-16-broke-my-app-in-4-places-and-none-of-them-threw-an-error-51mn",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Blockless Scope: JavaScript Shenanigans",
-    "link": "https://dev.to/oculus42/blockless-scope-javascript-shenanigans-561f",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 39 free browser-based dev tools — here's every decision I made and why",
-    "link": "https://dev.to/mathew777/i-built-39-free-browser-based-dev-tools-heres-every-decision-i-made-and-why-51o3",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "INP in production: what we wish we had measured earlier",
-    "link": "https://dev.to/apogeewatcher/inp-in-production-what-we-wish-we-had-measured-earlier-7jk",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Free Spelling Bee Solver and Analysis Tool — Here's What It Does",
-    "link": "https://dev.to/sbsolvers/i-built-a-free-spelling-bee-solver-and-analysis-tool-heres-what-it-does-368j",
-    "date": "5/27/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An LLM API call, in 4 GIFs",
-    "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-    "date": "5/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An LLM API call, in 4 GIFs",
-    "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-    "date": "5/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An LLM API call, in 4 GIFs",
-    "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-    "date": "5/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An LLM API call, in 4 GIFs",
-    "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-    "date": "5/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An LLM API call, in 4 GIFs",
-    "link": "https://dev.to/jasmin/an-llm-api-call-in-4-gifs-33b1",
-    "date": "5/26/2026",
-    "site": "dev.to"
+    "title": "Generating Unique Random Numbers In JavaScript Using Sets",
+    "link": "https://www.smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
+    "reading_time": "6 min read",
+    "date": "8/26/2024",
+    "site": "smashingmagazine"
   },
   {
     "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
@@ -515,7 +585,7 @@
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
@@ -585,7 +655,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
