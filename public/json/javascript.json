@@ -1,85 +1,433 @@
 [
   {
+    "title": "How to Replace a Page in a PDF Programmatically with pdf-lib (No Backend Required)",
+    "link": "https://dev.to/ahmadfarazcrypto/how-to-replace-a-page-in-a-pdf-programmatically-with-pdf-lib-no-backend-required-42fa",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "SafeTrackHer : From a 2024 Hackathon Pitch Deck to a Live Women's Safety App",
+    "link": "https://dev.to/gowri213/safetrackher-from-a-2024-hackathon-pitch-deck-to-a-live-womens-safety-app-432l",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Integrated Apple Pay in React Native — After Every Package Failed Me",
+    "link": "https://dev.to/barathe/how-i-integrated-apple-pay-in-react-native-after-every-package-failed-me-1bf1",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My browser tool returned \"[object Promise]\" as a webpage. One grep later, 10 more tools had the same bug.",
+    "link": "https://dev.to/achiya-automation/my-browser-tool-returned-object-promise-as-a-webpage-one-grep-later-10-more-tools-had-the-37p8",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Premium micro-interactions in React 19 (without the jank)",
+    "link": "https://dev.to/markyu/premium-micro-interactions-in-react-19-without-the-jank-230b",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rendering scannable barcodes in the browser with JsBarcode (no backend)",
+    "link": "https://dev.to/jvancedev/rendering-scannable-barcodes-in-the-browser-with-jsbarcode-no-backend-3j28",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Geocode Thousands of Addresses for Free",
+    "link": "https://dev.to/geoapify-maps-api/how-to-geocode-thousands-of-addresses-for-free-35ka",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your JWT Tokens Are Not as Safe as You Think — Here's Why",
+    "link": "https://dev.to/zohaib_hassan_1fdedd55e7d/your-jwt-tokens-are-not-as-safe-as-you-think-heres-why-13hc",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You Shipped a Great Product. Nobody Found It. Here's Why",
+    "link": "https://dev.to/sureshcodes/you-shipped-a-great-product-nobody-found-it-heres-why-4e90",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Secure Bridges: Safe postMessage Iframe Sync in React ⚡",
+    "link": "https://dev.to/iprajapatiparesh/secure-bridges-safe-postmessage-iframe-sync-in-react-143g",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management: When to Use What (A Simple Guide)",
+    "link": "https://dev.to/zeeshan_farooq_4ead3782d8/react-state-management-when-to-use-what-a-simple-guide-1cf1",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Metric-Mint: Reversing the Attention Economy with Manifest V3 and Local ONNX",
+    "link": "https://dev.to/clownsh0e22/building-metric-mint-reversing-the-attention-economy-with-manifest-v3-and-local-onnx-34hd",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance Optimization & Advanced Patterns in React",
+    "link": "https://dev.to/kushang_tailor/performance-optimization-advanced-patterns-in-react-39mj",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Docker for Web Developers: A Practical Guide",
+    "link": "https://dev.to/the_beyond_horizon/docker-for-web-developers-a-practical-guide-3944",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Replace a Page in a PDF Programmatically with pdf-lib (No Backend Required)",
+    "link": "https://dev.to/ahmadfarazcrypto/how-to-replace-a-page-in-a-pdf-programmatically-with-pdf-lib-no-backend-required-42fa",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "SafeTrackHer : From a 2024 Hackathon Pitch Deck to a Live Women's Safety App",
+    "link": "https://dev.to/gowri213/safetrackher-from-a-2024-hackathon-pitch-deck-to-a-live-womens-safety-app-432l",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Integrated Apple Pay in React Native — After Every Package Failed Me",
+    "link": "https://dev.to/barathe/how-i-integrated-apple-pay-in-react-native-after-every-package-failed-me-1bf1",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My browser tool returned \"[object Promise]\" as a webpage. One grep later, 10 more tools had the same bug.",
+    "link": "https://dev.to/achiya-automation/my-browser-tool-returned-object-promise-as-a-webpage-one-grep-later-10-more-tools-had-the-37p8",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Premium micro-interactions in React 19 (without the jank)",
+    "link": "https://dev.to/markyu/premium-micro-interactions-in-react-19-without-the-jank-230b",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rendering scannable barcodes in the browser with JsBarcode (no backend)",
+    "link": "https://dev.to/jvancedev/rendering-scannable-barcodes-in-the-browser-with-jsbarcode-no-backend-3j28",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Geocode Thousands of Addresses for Free",
+    "link": "https://dev.to/geoapify-maps-api/how-to-geocode-thousands-of-addresses-for-free-35ka",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your JWT Tokens Are Not as Safe as You Think — Here's Why",
+    "link": "https://dev.to/zohaib_hassan_1fdedd55e7d/your-jwt-tokens-are-not-as-safe-as-you-think-heres-why-13hc",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You Shipped a Great Product. Nobody Found It. Here's Why",
+    "link": "https://dev.to/sureshcodes/you-shipped-a-great-product-nobody-found-it-heres-why-4e90",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Secure Bridges: Safe postMessage Iframe Sync in React ⚡",
+    "link": "https://dev.to/iprajapatiparesh/secure-bridges-safe-postmessage-iframe-sync-in-react-143g",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management: When to Use What (A Simple Guide)",
+    "link": "https://dev.to/zeeshan_farooq_4ead3782d8/react-state-management-when-to-use-what-a-simple-guide-1cf1",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Metric-Mint: Reversing the Attention Economy with Manifest V3 and Local ONNX",
+    "link": "https://dev.to/clownsh0e22/building-metric-mint-reversing-the-attention-economy-with-manifest-v3-and-local-onnx-34hd",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance Optimization & Advanced Patterns in React",
+    "link": "https://dev.to/kushang_tailor/performance-optimization-advanced-patterns-in-react-39mj",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Docker for Web Developers: A Practical Guide",
+    "link": "https://dev.to/the_beyond_horizon/docker-for-web-developers-a-practical-guide-3944",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Replace a Page in a PDF Programmatically with pdf-lib (No Backend Required)",
+    "link": "https://dev.to/ahmadfarazcrypto/how-to-replace-a-page-in-a-pdf-programmatically-with-pdf-lib-no-backend-required-42fa",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "SafeTrackHer : From a 2024 Hackathon Pitch Deck to a Live Women's Safety App",
+    "link": "https://dev.to/gowri213/safetrackher-from-a-2024-hackathon-pitch-deck-to-a-live-womens-safety-app-432l",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Integrated Apple Pay in React Native — After Every Package Failed Me",
+    "link": "https://dev.to/barathe/how-i-integrated-apple-pay-in-react-native-after-every-package-failed-me-1bf1",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My browser tool returned \"[object Promise]\" as a webpage. One grep later, 10 more tools had the same bug.",
+    "link": "https://dev.to/achiya-automation/my-browser-tool-returned-object-promise-as-a-webpage-one-grep-later-10-more-tools-had-the-37p8",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Premium micro-interactions in React 19 (without the jank)",
+    "link": "https://dev.to/markyu/premium-micro-interactions-in-react-19-without-the-jank-230b",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rendering scannable barcodes in the browser with JsBarcode (no backend)",
+    "link": "https://dev.to/jvancedev/rendering-scannable-barcodes-in-the-browser-with-jsbarcode-no-backend-3j28",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Geocode Thousands of Addresses for Free",
+    "link": "https://dev.to/geoapify-maps-api/how-to-geocode-thousands-of-addresses-for-free-35ka",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your JWT Tokens Are Not as Safe as You Think — Here's Why",
+    "link": "https://dev.to/zohaib_hassan_1fdedd55e7d/your-jwt-tokens-are-not-as-safe-as-you-think-heres-why-13hc",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You Shipped a Great Product. Nobody Found It. Here's Why",
+    "link": "https://dev.to/sureshcodes/you-shipped-a-great-product-nobody-found-it-heres-why-4e90",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Secure Bridges: Safe postMessage Iframe Sync in React ⚡",
+    "link": "https://dev.to/iprajapatiparesh/secure-bridges-safe-postmessage-iframe-sync-in-react-143g",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management: When to Use What (A Simple Guide)",
+    "link": "https://dev.to/zeeshan_farooq_4ead3782d8/react-state-management-when-to-use-what-a-simple-guide-1cf1",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Metric-Mint: Reversing the Attention Economy with Manifest V3 and Local ONNX",
+    "link": "https://dev.to/clownsh0e22/building-metric-mint-reversing-the-attention-economy-with-manifest-v3-and-local-onnx-34hd",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance Optimization & Advanced Patterns in React",
+    "link": "https://dev.to/kushang_tailor/performance-optimization-advanced-patterns-in-react-39mj",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Docker for Web Developers: A Practical Guide",
+    "link": "https://dev.to/the_beyond_horizon/docker-for-web-developers-a-practical-guide-3944",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Replace a Page in a PDF Programmatically with pdf-lib (No Backend Required)",
+    "link": "https://dev.to/ahmadfarazcrypto/how-to-replace-a-page-in-a-pdf-programmatically-with-pdf-lib-no-backend-required-42fa",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "SafeTrackHer : From a 2024 Hackathon Pitch Deck to a Live Women's Safety App",
+    "link": "https://dev.to/gowri213/safetrackher-from-a-2024-hackathon-pitch-deck-to-a-live-womens-safety-app-432l",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Integrated Apple Pay in React Native — After Every Package Failed Me",
+    "link": "https://dev.to/barathe/how-i-integrated-apple-pay-in-react-native-after-every-package-failed-me-1bf1",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My browser tool returned \"[object Promise]\" as a webpage. One grep later, 10 more tools had the same bug.",
+    "link": "https://dev.to/achiya-automation/my-browser-tool-returned-object-promise-as-a-webpage-one-grep-later-10-more-tools-had-the-37p8",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Premium micro-interactions in React 19 (without the jank)",
+    "link": "https://dev.to/markyu/premium-micro-interactions-in-react-19-without-the-jank-230b",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rendering scannable barcodes in the browser with JsBarcode (no backend)",
+    "link": "https://dev.to/jvancedev/rendering-scannable-barcodes-in-the-browser-with-jsbarcode-no-backend-3j28",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Geocode Thousands of Addresses for Free",
+    "link": "https://dev.to/geoapify-maps-api/how-to-geocode-thousands-of-addresses-for-free-35ka",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your JWT Tokens Are Not as Safe as You Think — Here's Why",
+    "link": "https://dev.to/zohaib_hassan_1fdedd55e7d/your-jwt-tokens-are-not-as-safe-as-you-think-heres-why-13hc",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You Shipped a Great Product. Nobody Found It. Here's Why",
+    "link": "https://dev.to/sureshcodes/you-shipped-a-great-product-nobody-found-it-heres-why-4e90",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Secure Bridges: Safe postMessage Iframe Sync in React ⚡",
+    "link": "https://dev.to/iprajapatiparesh/secure-bridges-safe-postmessage-iframe-sync-in-react-143g",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management: When to Use What (A Simple Guide)",
+    "link": "https://dev.to/zeeshan_farooq_4ead3782d8/react-state-management-when-to-use-what-a-simple-guide-1cf1",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Metric-Mint: Reversing the Attention Economy with Manifest V3 and Local ONNX",
+    "link": "https://dev.to/clownsh0e22/building-metric-mint-reversing-the-attention-economy-with-manifest-v3-and-local-onnx-34hd",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance Optimization & Advanced Patterns in React",
+    "link": "https://dev.to/kushang_tailor/performance-optimization-advanced-patterns-in-react-39mj",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Docker for Web Developers: A Practical Guide",
+    "link": "https://dev.to/the_beyond_horizon/docker-for-web-developers-a-practical-guide-3944",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Replace a Page in a PDF Programmatically with pdf-lib (No Backend Required)",
+    "link": "https://dev.to/ahmadfarazcrypto/how-to-replace-a-page-in-a-pdf-programmatically-with-pdf-lib-no-backend-required-42fa",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "SafeTrackHer : From a 2024 Hackathon Pitch Deck to a Live Women's Safety App",
+    "link": "https://dev.to/gowri213/safetrackher-from-a-2024-hackathon-pitch-deck-to-a-live-womens-safety-app-432l",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Integrated Apple Pay in React Native — After Every Package Failed Me",
+    "link": "https://dev.to/barathe/how-i-integrated-apple-pay-in-react-native-after-every-package-failed-me-1bf1",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My browser tool returned \"[object Promise]\" as a webpage. One grep later, 10 more tools had the same bug.",
+    "link": "https://dev.to/achiya-automation/my-browser-tool-returned-object-promise-as-a-webpage-one-grep-later-10-more-tools-had-the-37p8",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Premium micro-interactions in React 19 (without the jank)",
+    "link": "https://dev.to/markyu/premium-micro-interactions-in-react-19-without-the-jank-230b",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rendering scannable barcodes in the browser with JsBarcode (no backend)",
+    "link": "https://dev.to/jvancedev/rendering-scannable-barcodes-in-the-browser-with-jsbarcode-no-backend-3j28",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Geocode Thousands of Addresses for Free",
+    "link": "https://dev.to/geoapify-maps-api/how-to-geocode-thousands-of-addresses-for-free-35ka",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your JWT Tokens Are Not as Safe as You Think — Here's Why",
+    "link": "https://dev.to/zohaib_hassan_1fdedd55e7d/your-jwt-tokens-are-not-as-safe-as-you-think-heres-why-13hc",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You Shipped a Great Product. Nobody Found It. Here's Why",
+    "link": "https://dev.to/sureshcodes/you-shipped-a-great-product-nobody-found-it-heres-why-4e90",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Secure Bridges: Safe postMessage Iframe Sync in React ⚡",
+    "link": "https://dev.to/iprajapatiparesh/secure-bridges-safe-postmessage-iframe-sync-in-react-143g",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React State Management: When to Use What (A Simple Guide)",
+    "link": "https://dev.to/zeeshan_farooq_4ead3782d8/react-state-management-when-to-use-what-a-simple-guide-1cf1",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Metric-Mint: Reversing the Attention Economy with Manifest V3 and Local ONNX",
+    "link": "https://dev.to/clownsh0e22/building-metric-mint-reversing-the-attention-economy-with-manifest-v3-and-local-onnx-34hd",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Performance Optimization & Advanced Patterns in React",
+    "link": "https://dev.to/kushang_tailor/performance-optimization-advanced-patterns-in-react-39mj",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Docker for Web Developers: A Practical Guide",
+    "link": "https://dev.to/the_beyond_horizon/docker-for-web-developers-a-practical-guide-3944",
+    "date": "6/4/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
     "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
     "date": "6/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built an App That Puts You Anywhere in the World — Without Leaving Your Room",
-    "link": "https://dev.to/myogeshchavan97/i-built-an-app-that-puts-you-anywhere-in-the-world-without-leaving-your-room-20he",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Was Asked to Add a Simple Classifier to a Website. Then I Saw the 250 MB Download.",
-    "link": "https://dev.to/xzdes/i-was-asked-to-add-a-simple-classifier-to-a-website-then-i-saw-the-250-mb-download-1id",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Assistant Needed a Control Plane, Not a Bigger Loop\"",
-    "link": "https://dev.to/codekingai/my-ai-assistant-needed-a-control-plane-not-a-bigger-loop-15aa",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I fixed a silent hang in the XDG Desktop Portal and turned it into an npm package",
-    "link": "https://dev.to/a1909/how-i-fixed-a-silent-hang-in-the-xdg-desktop-portal-and-turned-it-into-an-npm-package-602",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Sandbox for Neal.fun's Cursor Camp — Here's What Happened",
-    "link": "https://dev.to/dundunup/i-built-a-sandbox-for-nealfuns-cursor-camp-heres-what-happened-276k",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free Glassmorphism CSS Generator to speed up UI design 🎨",
-    "link": "https://dev.to/koushikshyamala/i-built-a-free-glassmorphism-css-generator-to-speed-up-ui-design-2i0e",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop pasting JWTs into jwt.io",
-    "link": "https://dev.to/rmb_37/stop-pasting-jwts-into-jwtio-12kn",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why JWT Exists - What I Figured Out by Looking at Real Numbers",
-    "link": "https://dev.to/vikrant_98a676bd9e7ba34/why-jwt-exists-what-i-figured-out-by-looking-at-real-numbers-4gm8",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I launched my typing test on Product Hunt today — it has a Song mode for some reason",
-    "link": "https://dev.to/mademethedev/i-launched-my-typing-test-on-product-hunt-today-it-has-a-song-mode-for-some-reason-1f8p",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Redux Thunk vs Saga: Choosing the Best Middleware",
-    "link": "https://dev.to/sahil_khurana_486f374ecf2/redux-thunk-vs-saga-choosing-the-best-middleware-nn7",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I bundled 80 boring-but-essential dev utilities into one API (QR, invoices, JWT, i18n, Japanese text)",
-    "link": "https://dev.to/_dekopon13455/i-bundled-80-boring-but-essential-dev-utilities-into-one-api-qr-invoices-jwt-i18n-japanese-5799",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Twitter-style Collapsible Tabs in React Native (the easy way)",
-    "link": "https://dev.to/yanan_web/building-twitter-style-collapsible-tabs-in-react-native-the-easy-way-43pi",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your AI agent shouldn't need to understand crypto to pay for APIs",
-    "link": "https://dev.to/tufti/your-ai-agent-shouldnt-need-to-understand-crypto-to-pay-for-apis-53in",
+    "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+    "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
     "date": "6/3/2026",
     "site": "dev.to"
   },
@@ -90,80 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "I Built an App That Puts You Anywhere in the World — Without Leaving Your Room",
-    "link": "https://dev.to/myogeshchavan97/i-built-an-app-that-puts-you-anywhere-in-the-world-without-leaving-your-room-20he",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Was Asked to Add a Simple Classifier to a Website. Then I Saw the 250 MB Download.",
-    "link": "https://dev.to/xzdes/i-was-asked-to-add-a-simple-classifier-to-a-website-then-i-saw-the-250-mb-download-1id",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Assistant Needed a Control Plane, Not a Bigger Loop\"",
-    "link": "https://dev.to/codekingai/my-ai-assistant-needed-a-control-plane-not-a-bigger-loop-15aa",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I fixed a silent hang in the XDG Desktop Portal and turned it into an npm package",
-    "link": "https://dev.to/a1909/how-i-fixed-a-silent-hang-in-the-xdg-desktop-portal-and-turned-it-into-an-npm-package-602",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Sandbox for Neal.fun's Cursor Camp — Here's What Happened",
-    "link": "https://dev.to/dundunup/i-built-a-sandbox-for-nealfuns-cursor-camp-heres-what-happened-276k",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free Glassmorphism CSS Generator to speed up UI design 🎨",
-    "link": "https://dev.to/koushikshyamala/i-built-a-free-glassmorphism-css-generator-to-speed-up-ui-design-2i0e",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop pasting JWTs into jwt.io",
-    "link": "https://dev.to/rmb_37/stop-pasting-jwts-into-jwtio-12kn",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why JWT Exists - What I Figured Out by Looking at Real Numbers",
-    "link": "https://dev.to/vikrant_98a676bd9e7ba34/why-jwt-exists-what-i-figured-out-by-looking-at-real-numbers-4gm8",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I launched my typing test on Product Hunt today — it has a Song mode for some reason",
-    "link": "https://dev.to/mademethedev/i-launched-my-typing-test-on-product-hunt-today-it-has-a-song-mode-for-some-reason-1f8p",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Redux Thunk vs Saga: Choosing the Best Middleware",
-    "link": "https://dev.to/sahil_khurana_486f374ecf2/redux-thunk-vs-saga-choosing-the-best-middleware-nn7",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I bundled 80 boring-but-essential dev utilities into one API (QR, invoices, JWT, i18n, Japanese text)",
-    "link": "https://dev.to/_dekopon13455/i-bundled-80-boring-but-essential-dev-utilities-into-one-api-qr-invoices-jwt-i18n-japanese-5799",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Twitter-style Collapsible Tabs in React Native (the easy way)",
-    "link": "https://dev.to/yanan_web/building-twitter-style-collapsible-tabs-in-react-native-the-easy-way-43pi",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your AI agent shouldn't need to understand crypto to pay for APIs",
-    "link": "https://dev.to/tufti/your-ai-agent-shouldnt-need-to-understand-crypto-to-pay-for-apis-53in",
+    "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
+    "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
     "date": "6/3/2026",
     "site": "dev.to"
   },
@@ -171,282 +447,6 @@
     "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
     "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
     "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an App That Puts You Anywhere in the World — Without Leaving Your Room",
-    "link": "https://dev.to/myogeshchavan97/i-built-an-app-that-puts-you-anywhere-in-the-world-without-leaving-your-room-20he",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Was Asked to Add a Simple Classifier to a Website. Then I Saw the 250 MB Download.",
-    "link": "https://dev.to/xzdes/i-was-asked-to-add-a-simple-classifier-to-a-website-then-i-saw-the-250-mb-download-1id",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Assistant Needed a Control Plane, Not a Bigger Loop\"",
-    "link": "https://dev.to/codekingai/my-ai-assistant-needed-a-control-plane-not-a-bigger-loop-15aa",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I fixed a silent hang in the XDG Desktop Portal and turned it into an npm package",
-    "link": "https://dev.to/a1909/how-i-fixed-a-silent-hang-in-the-xdg-desktop-portal-and-turned-it-into-an-npm-package-602",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Sandbox for Neal.fun's Cursor Camp — Here's What Happened",
-    "link": "https://dev.to/dundunup/i-built-a-sandbox-for-nealfuns-cursor-camp-heres-what-happened-276k",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free Glassmorphism CSS Generator to speed up UI design 🎨",
-    "link": "https://dev.to/koushikshyamala/i-built-a-free-glassmorphism-css-generator-to-speed-up-ui-design-2i0e",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop pasting JWTs into jwt.io",
-    "link": "https://dev.to/rmb_37/stop-pasting-jwts-into-jwtio-12kn",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why JWT Exists - What I Figured Out by Looking at Real Numbers",
-    "link": "https://dev.to/vikrant_98a676bd9e7ba34/why-jwt-exists-what-i-figured-out-by-looking-at-real-numbers-4gm8",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I launched my typing test on Product Hunt today — it has a Song mode for some reason",
-    "link": "https://dev.to/mademethedev/i-launched-my-typing-test-on-product-hunt-today-it-has-a-song-mode-for-some-reason-1f8p",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Redux Thunk vs Saga: Choosing the Best Middleware",
-    "link": "https://dev.to/sahil_khurana_486f374ecf2/redux-thunk-vs-saga-choosing-the-best-middleware-nn7",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I bundled 80 boring-but-essential dev utilities into one API (QR, invoices, JWT, i18n, Japanese text)",
-    "link": "https://dev.to/_dekopon13455/i-bundled-80-boring-but-essential-dev-utilities-into-one-api-qr-invoices-jwt-i18n-japanese-5799",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Twitter-style Collapsible Tabs in React Native (the easy way)",
-    "link": "https://dev.to/yanan_web/building-twitter-style-collapsible-tabs-in-react-native-the-easy-way-43pi",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your AI agent shouldn't need to understand crypto to pay for APIs",
-    "link": "https://dev.to/tufti/your-ai-agent-shouldnt-need-to-understand-crypto-to-pay-for-apis-53in",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-    "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an App That Puts You Anywhere in the World — Without Leaving Your Room",
-    "link": "https://dev.to/myogeshchavan97/i-built-an-app-that-puts-you-anywhere-in-the-world-without-leaving-your-room-20he",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Was Asked to Add a Simple Classifier to a Website. Then I Saw the 250 MB Download.",
-    "link": "https://dev.to/xzdes/i-was-asked-to-add-a-simple-classifier-to-a-website-then-i-saw-the-250-mb-download-1id",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Assistant Needed a Control Plane, Not a Bigger Loop\"",
-    "link": "https://dev.to/codekingai/my-ai-assistant-needed-a-control-plane-not-a-bigger-loop-15aa",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I fixed a silent hang in the XDG Desktop Portal and turned it into an npm package",
-    "link": "https://dev.to/a1909/how-i-fixed-a-silent-hang-in-the-xdg-desktop-portal-and-turned-it-into-an-npm-package-602",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Sandbox for Neal.fun's Cursor Camp — Here's What Happened",
-    "link": "https://dev.to/dundunup/i-built-a-sandbox-for-nealfuns-cursor-camp-heres-what-happened-276k",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free Glassmorphism CSS Generator to speed up UI design 🎨",
-    "link": "https://dev.to/koushikshyamala/i-built-a-free-glassmorphism-css-generator-to-speed-up-ui-design-2i0e",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop pasting JWTs into jwt.io",
-    "link": "https://dev.to/rmb_37/stop-pasting-jwts-into-jwtio-12kn",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why JWT Exists - What I Figured Out by Looking at Real Numbers",
-    "link": "https://dev.to/vikrant_98a676bd9e7ba34/why-jwt-exists-what-i-figured-out-by-looking-at-real-numbers-4gm8",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I launched my typing test on Product Hunt today — it has a Song mode for some reason",
-    "link": "https://dev.to/mademethedev/i-launched-my-typing-test-on-product-hunt-today-it-has-a-song-mode-for-some-reason-1f8p",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Redux Thunk vs Saga: Choosing the Best Middleware",
-    "link": "https://dev.to/sahil_khurana_486f374ecf2/redux-thunk-vs-saga-choosing-the-best-middleware-nn7",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I bundled 80 boring-but-essential dev utilities into one API (QR, invoices, JWT, i18n, Japanese text)",
-    "link": "https://dev.to/_dekopon13455/i-bundled-80-boring-but-essential-dev-utilities-into-one-api-qr-invoices-jwt-i18n-japanese-5799",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Twitter-style Collapsible Tabs in React Native (the easy way)",
-    "link": "https://dev.to/yanan_web/building-twitter-style-collapsible-tabs-in-react-native-the-easy-way-43pi",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your AI agent shouldn't need to understand crypto to pay for APIs",
-    "link": "https://dev.to/tufti/your-ai-agent-shouldnt-need-to-understand-crypto-to-pay-for-apis-53in",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Is This How We'll Build Websites Soon? (webMCP Live Demo 🚀)",
-    "link": "https://dev.to/sylwia-lask/is-this-how-well-build-websites-soon-webmcp-live-demo--2e33",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built an App That Puts You Anywhere in the World — Without Leaving Your Room",
-    "link": "https://dev.to/myogeshchavan97/i-built-an-app-that-puts-you-anywhere-in-the-world-without-leaving-your-room-20he",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Was Asked to Add a Simple Classifier to a Website. Then I Saw the 250 MB Download.",
-    "link": "https://dev.to/xzdes/i-was-asked-to-add-a-simple-classifier-to-a-website-then-i-saw-the-250-mb-download-1id",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Assistant Needed a Control Plane, Not a Bigger Loop\"",
-    "link": "https://dev.to/codekingai/my-ai-assistant-needed-a-control-plane-not-a-bigger-loop-15aa",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I fixed a silent hang in the XDG Desktop Portal and turned it into an npm package",
-    "link": "https://dev.to/a1909/how-i-fixed-a-silent-hang-in-the-xdg-desktop-portal-and-turned-it-into-an-npm-package-602",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Sandbox for Neal.fun's Cursor Camp — Here's What Happened",
-    "link": "https://dev.to/dundunup/i-built-a-sandbox-for-nealfuns-cursor-camp-heres-what-happened-276k",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free Glassmorphism CSS Generator to speed up UI design 🎨",
-    "link": "https://dev.to/koushikshyamala/i-built-a-free-glassmorphism-css-generator-to-speed-up-ui-design-2i0e",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop pasting JWTs into jwt.io",
-    "link": "https://dev.to/rmb_37/stop-pasting-jwts-into-jwtio-12kn",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why JWT Exists - What I Figured Out by Looking at Real Numbers",
-    "link": "https://dev.to/vikrant_98a676bd9e7ba34/why-jwt-exists-what-i-figured-out-by-looking-at-real-numbers-4gm8",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I launched my typing test on Product Hunt today — it has a Song mode for some reason",
-    "link": "https://dev.to/mademethedev/i-launched-my-typing-test-on-product-hunt-today-it-has-a-song-mode-for-some-reason-1f8p",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Redux Thunk vs Saga: Choosing the Best Middleware",
-    "link": "https://dev.to/sahil_khurana_486f374ecf2/redux-thunk-vs-saga-choosing-the-best-middleware-nn7",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I bundled 80 boring-but-essential dev utilities into one API (QR, invoices, JWT, i18n, Japanese text)",
-    "link": "https://dev.to/_dekopon13455/i-bundled-80-boring-but-essential-dev-utilities-into-one-api-qr-invoices-jwt-i18n-japanese-5799",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Twitter-style Collapsible Tabs in React Native (the easy way)",
-    "link": "https://dev.to/yanan_web/building-twitter-style-collapsible-tabs-in-react-native-the-easy-way-43pi",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your AI agent shouldn't need to understand crypto to pay for APIs",
-    "link": "https://dev.to/tufti/your-ai-agent-shouldnt-need-to-understand-crypto-to-pay-for-apis-53in",
-    "date": "6/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Content Virtualization using the HTML <template> Element",
-    "link": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-    "date": "6/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Content Virtualization using the HTML <template> Element",
-    "link": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-    "date": "6/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Content Virtualization using the HTML <template> Element",
-    "link": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-    "date": "6/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Content Virtualization using the HTML <template> Element",
-    "link": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-    "date": "6/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Content Virtualization using the HTML <template> Element",
-    "link": "https://dev.to/stuffbreaker/content-virtualization-using-the-html-element-2gn7",
-    "date": "6/2/2026",
     "site": "dev.to"
   },
   {
@@ -466,7 +466,7 @@
   {
     "title": "JavaScript For Everyone: Iterators",
     "link": "https://www.smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "10/27/2025",
     "site": "smashingmagazine"
   },
@@ -517,76 +517,6 @@
     "link": "https://www.smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
     "reading_time": "6 min read",
     "date": "8/26/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
-    "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-    "reading_time": "15 min read",
-    "date": "8/20/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "How To Build A Multilingual Website With Nuxt.js",
-    "link": "https://www.smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/",
-    "reading_time": "15 min read",
-    "date": "8/1/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
-    "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "11 min read",
-    "date": "6/20/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The Era Of Platform Primitives Is Finally Here",
-    "link": "https://www.smashingmagazine.com/2024/05/netlify-platform-primitives/",
-    "reading_time": "8 min read",
-    "date": "5/28/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The Forensics Of React Server Components (RSCs)",
-    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
-    "reading_time": "24 min read",
-    "date": "5/9/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Converting Plain Text To Encoded HTML With Vanilla JavaScript",
-    "link": "https://www.smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
-    "reading_time": "16 min read",
-    "date": "4/17/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
-    "link": "https://www.smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
-    "reading_time": "9 min read",
-    "date": "3/25/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The End Of My Gatsby Journey",
-    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "16 min read",
-    "date": "3/6/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
-    "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "10 min read",
-    "date": "2/22/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
-    "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "22 min read",
-    "date": "2/7/2024",
     "site": "smashingmagazine"
   },
   {
@@ -655,7 +585,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -746,7 +676,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "8 min read",
+    "reading_time": "7 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
