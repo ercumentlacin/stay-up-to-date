@@ -1,523 +1,453 @@
 [
   {
-    "title": "I Built the Same Hash Utility for Browser, Node, and Python",
-    "link": "https://dev.to/altrepo/i-built-the-same-hash-utility-for-browser-node-and-python-1546",
+    "title": "Build a video webhook handler that survives duplicates (Express + Postgres)",
+    "link": "https://dev.to/masonwritescode/build-a-video-webhook-handler-that-survives-duplicates-express-postgres-2bl2",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging a Production Memory Leak: A Step-by-Step Walkthrough",
+    "link": "https://dev.to/paradane/debugging-a-production-memory-leak-a-step-by-step-walkthrough-42dn",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CI/CD for Modern Applications: From Manual Deployments to Reliable Delivery Pipelines",
+    "link": "https://dev.to/damir-karimov/cicd-for-modern-applications-from-manual-deployments-to-reliable-delivery-pipelines-52j5",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a REST API with Node.js and Express from Scratch",
+    "link": "https://dev.to/onlyeugene/how-to-build-a-rest-api-with-nodejs-and-express-from-scratch-3hfa",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Ships Your Code in Minutes. Your Team Pays for It for Months. Here's Why.",
+    "link": "https://dev.to/aidevbuilds/ai-ships-your-code-in-minutes-your-team-pays-for-it-for-months-heres-why-30oo",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "LLM Cost Optimization: How We Cut Reply Generation from $0.011 to $0.0009",
+    "link": "https://dev.to/helperx/llm-cost-optimization-how-we-cut-reply-generation-from-0011-to-00009-2a9",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Reduced API Response Time by 80% for a Client — A Real-World Optimization Walkthrough",
+    "link": "https://dev.to/paradane/how-we-reduced-api-response-time-by-80-for-a-client-a-real-world-optimization-walkthrough-37b6",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Content API for Shopping shuts down Aug 18, 2026 — here's what actually breaks",
+    "link": "https://dev.to/yasserstudio/the-content-api-for-shopping-shuts-down-aug-18-2026-heres-what-actually-breaks-1bf5",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# I Built a Full Stack Academic Management System for My College — Here's How",
+    "link": "https://dev.to/skrajput/-i-built-a-full-stack-academic-management-system-for-my-college-heres-how-2fnh",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got burned by an EOL Node.js version in prod. So I built a tracker.",
+    "link": "https://dev.to/nico_devai_340e6812b165b2/i-got-burned-by-an-eol-nodejs-version-in-prod-so-i-built-a-tracker-5e5e",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Demystifying the Node.js Event Loop: From Hardware Realities to Runtime Truth",
+    "link": "https://dev.to/aabiskar/demystifying-the-nodejs-event-loop-from-hardware-realities-to-runtime-truth-4b8c",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a video webhook handler that survives duplicates (Express + Postgres)",
+    "link": "https://dev.to/masonwritescode/build-a-video-webhook-handler-that-survives-duplicates-express-postgres-2bl2",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging a Production Memory Leak: A Step-by-Step Walkthrough",
+    "link": "https://dev.to/paradane/debugging-a-production-memory-leak-a-step-by-step-walkthrough-42dn",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CI/CD for Modern Applications: From Manual Deployments to Reliable Delivery Pipelines",
+    "link": "https://dev.to/damir-karimov/cicd-for-modern-applications-from-manual-deployments-to-reliable-delivery-pipelines-52j5",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a REST API with Node.js and Express from Scratch",
+    "link": "https://dev.to/onlyeugene/how-to-build-a-rest-api-with-nodejs-and-express-from-scratch-3hfa",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Ships Your Code in Minutes. Your Team Pays for It for Months. Here's Why.",
+    "link": "https://dev.to/aidevbuilds/ai-ships-your-code-in-minutes-your-team-pays-for-it-for-months-heres-why-30oo",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "LLM Cost Optimization: How We Cut Reply Generation from $0.011 to $0.0009",
+    "link": "https://dev.to/helperx/llm-cost-optimization-how-we-cut-reply-generation-from-0011-to-00009-2a9",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Reduced API Response Time by 80% for a Client — A Real-World Optimization Walkthrough",
+    "link": "https://dev.to/paradane/how-we-reduced-api-response-time-by-80-for-a-client-a-real-world-optimization-walkthrough-37b6",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Content API for Shopping shuts down Aug 18, 2026 — here's what actually breaks",
+    "link": "https://dev.to/yasserstudio/the-content-api-for-shopping-shuts-down-aug-18-2026-heres-what-actually-breaks-1bf5",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# I Built a Full Stack Academic Management System for My College — Here's How",
+    "link": "https://dev.to/skrajput/-i-built-a-full-stack-academic-management-system-for-my-college-heres-how-2fnh",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got burned by an EOL Node.js version in prod. So I built a tracker.",
+    "link": "https://dev.to/nico_devai_340e6812b165b2/i-got-burned-by-an-eol-nodejs-version-in-prod-so-i-built-a-tracker-5e5e",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Demystifying the Node.js Event Loop: From Hardware Realities to Runtime Truth",
+    "link": "https://dev.to/aabiskar/demystifying-the-nodejs-event-loop-from-hardware-realities-to-runtime-truth-4b8c",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a video webhook handler that survives duplicates (Express + Postgres)",
+    "link": "https://dev.to/masonwritescode/build-a-video-webhook-handler-that-survives-duplicates-express-postgres-2bl2",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging a Production Memory Leak: A Step-by-Step Walkthrough",
+    "link": "https://dev.to/paradane/debugging-a-production-memory-leak-a-step-by-step-walkthrough-42dn",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CI/CD for Modern Applications: From Manual Deployments to Reliable Delivery Pipelines",
+    "link": "https://dev.to/damir-karimov/cicd-for-modern-applications-from-manual-deployments-to-reliable-delivery-pipelines-52j5",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a REST API with Node.js and Express from Scratch",
+    "link": "https://dev.to/onlyeugene/how-to-build-a-rest-api-with-nodejs-and-express-from-scratch-3hfa",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Ships Your Code in Minutes. Your Team Pays for It for Months. Here's Why.",
+    "link": "https://dev.to/aidevbuilds/ai-ships-your-code-in-minutes-your-team-pays-for-it-for-months-heres-why-30oo",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "LLM Cost Optimization: How We Cut Reply Generation from $0.011 to $0.0009",
+    "link": "https://dev.to/helperx/llm-cost-optimization-how-we-cut-reply-generation-from-0011-to-00009-2a9",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Reduced API Response Time by 80% for a Client — A Real-World Optimization Walkthrough",
+    "link": "https://dev.to/paradane/how-we-reduced-api-response-time-by-80-for-a-client-a-real-world-optimization-walkthrough-37b6",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Content API for Shopping shuts down Aug 18, 2026 — here's what actually breaks",
+    "link": "https://dev.to/yasserstudio/the-content-api-for-shopping-shuts-down-aug-18-2026-heres-what-actually-breaks-1bf5",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# I Built a Full Stack Academic Management System for My College — Here's How",
+    "link": "https://dev.to/skrajput/-i-built-a-full-stack-academic-management-system-for-my-college-heres-how-2fnh",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got burned by an EOL Node.js version in prod. So I built a tracker.",
+    "link": "https://dev.to/nico_devai_340e6812b165b2/i-got-burned-by-an-eol-nodejs-version-in-prod-so-i-built-a-tracker-5e5e",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Demystifying the Node.js Event Loop: From Hardware Realities to Runtime Truth",
+    "link": "https://dev.to/aabiskar/demystifying-the-nodejs-event-loop-from-hardware-realities-to-runtime-truth-4b8c",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a video webhook handler that survives duplicates (Express + Postgres)",
+    "link": "https://dev.to/masonwritescode/build-a-video-webhook-handler-that-survives-duplicates-express-postgres-2bl2",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging a Production Memory Leak: A Step-by-Step Walkthrough",
+    "link": "https://dev.to/paradane/debugging-a-production-memory-leak-a-step-by-step-walkthrough-42dn",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CI/CD for Modern Applications: From Manual Deployments to Reliable Delivery Pipelines",
+    "link": "https://dev.to/damir-karimov/cicd-for-modern-applications-from-manual-deployments-to-reliable-delivery-pipelines-52j5",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a REST API with Node.js and Express from Scratch",
+    "link": "https://dev.to/onlyeugene/how-to-build-a-rest-api-with-nodejs-and-express-from-scratch-3hfa",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Ships Your Code in Minutes. Your Team Pays for It for Months. Here's Why.",
+    "link": "https://dev.to/aidevbuilds/ai-ships-your-code-in-minutes-your-team-pays-for-it-for-months-heres-why-30oo",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "LLM Cost Optimization: How We Cut Reply Generation from $0.011 to $0.0009",
+    "link": "https://dev.to/helperx/llm-cost-optimization-how-we-cut-reply-generation-from-0011-to-00009-2a9",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Reduced API Response Time by 80% for a Client — A Real-World Optimization Walkthrough",
+    "link": "https://dev.to/paradane/how-we-reduced-api-response-time-by-80-for-a-client-a-real-world-optimization-walkthrough-37b6",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Content API for Shopping shuts down Aug 18, 2026 — here's what actually breaks",
+    "link": "https://dev.to/yasserstudio/the-content-api-for-shopping-shuts-down-aug-18-2026-heres-what-actually-breaks-1bf5",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# I Built a Full Stack Academic Management System for My College — Here's How",
+    "link": "https://dev.to/skrajput/-i-built-a-full-stack-academic-management-system-for-my-college-heres-how-2fnh",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got burned by an EOL Node.js version in prod. So I built a tracker.",
+    "link": "https://dev.to/nico_devai_340e6812b165b2/i-got-burned-by-an-eol-nodejs-version-in-prod-so-i-built-a-tracker-5e5e",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Demystifying the Node.js Event Loop: From Hardware Realities to Runtime Truth",
+    "link": "https://dev.to/aabiskar/demystifying-the-nodejs-event-loop-from-hardware-realities-to-runtime-truth-4b8c",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a video webhook handler that survives duplicates (Express + Postgres)",
+    "link": "https://dev.to/masonwritescode/build-a-video-webhook-handler-that-survives-duplicates-express-postgres-2bl2",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Debugging a Production Memory Leak: A Step-by-Step Walkthrough",
+    "link": "https://dev.to/paradane/debugging-a-production-memory-leak-a-step-by-step-walkthrough-42dn",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CI/CD for Modern Applications: From Manual Deployments to Reliable Delivery Pipelines",
+    "link": "https://dev.to/damir-karimov/cicd-for-modern-applications-from-manual-deployments-to-reliable-delivery-pipelines-52j5",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a REST API with Node.js and Express from Scratch",
+    "link": "https://dev.to/onlyeugene/how-to-build-a-rest-api-with-nodejs-and-express-from-scratch-3hfa",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Ships Your Code in Minutes. Your Team Pays for It for Months. Here's Why.",
+    "link": "https://dev.to/aidevbuilds/ai-ships-your-code-in-minutes-your-team-pays-for-it-for-months-heres-why-30oo",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "LLM Cost Optimization: How We Cut Reply Generation from $0.011 to $0.0009",
+    "link": "https://dev.to/helperx/llm-cost-optimization-how-we-cut-reply-generation-from-0011-to-00009-2a9",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How We Reduced API Response Time by 80% for a Client — A Real-World Optimization Walkthrough",
+    "link": "https://dev.to/paradane/how-we-reduced-api-response-time-by-80-for-a-client-a-real-world-optimization-walkthrough-37b6",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Content API for Shopping shuts down Aug 18, 2026 — here's what actually breaks",
+    "link": "https://dev.to/yasserstudio/the-content-api-for-shopping-shuts-down-aug-18-2026-heres-what-actually-breaks-1bf5",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# I Built a Full Stack Academic Management System for My College — Here's How",
+    "link": "https://dev.to/skrajput/-i-built-a-full-stack-academic-management-system-for-my-college-heres-how-2fnh",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got burned by an EOL Node.js version in prod. So I built a tracker.",
+    "link": "https://dev.to/nico_devai_340e6812b165b2/i-got-burned-by-an-eol-nodejs-version-in-prod-so-i-built-a-tracker-5e5e",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Demystifying the Node.js Event Loop: From Hardware Realities to Runtime Truth",
+    "link": "https://dev.to/aabiskar/demystifying-the-nodejs-event-loop-from-hardware-realities-to-runtime-truth-4b8c",
+    "date": "6/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Running Obsidian Community Plugins in Flatpak — Battle Notes and a Move to AppImage",
+    "link": "https://dev.to/rbcn/running-obsidian-community-plugins-in-flatpak-battle-notes-and-a-move-to-appimage-4c1f",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Fixing Fablize Claude Opus Agent Skips: Node.js Blueprint",
-    "link": "https://dev.to/umair24171/fixing-fablize-claude-opus-agent-skips-nodejs-blueprint-1d7h",
+    "title": "Why p-retry isn't enough for production and what to do instead",
+    "link": "https://dev.to/rajatdh27/why-p-retry-isnt-enough-for-production-and-what-to-do-instead-5go2",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Replaced a Node.js Service with 30 Lines of Bash — and When You Shouldn't",
-    "link": "https://dev.to/tkpdx01/why-i-replaced-a-nodejs-service-with-30-lines-of-bash-and-when-you-shouldnt-4eip",
+    "title": "Redesigning Webpack's Documentation: My GSoC 2026 Journey",
+    "link": "https://dev.to/moshams272/redesigning-webpacks-documentation-my-gsoc-2026-journey-5afd",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Browser Fingerprint Randomization: Beyond User-Agent Rotation",
-    "link": "https://dev.to/helperx/browser-fingerprint-randomization-beyond-user-agent-rotation-58e",
+    "title": "Build a Local RAG AI App with Ollama, Mistral, and Node.js",
+    "link": "https://dev.to/gaurav101/build-a-local-rag-ai-app-with-ollama-mistral-and-nodejs-4bk9",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Smart Query-Aware Cache Invalidation: Solving Mongoose Performance at Scale",
-    "link": "https://dev.to/victor_ajadi_21b5913f79f6/smart-query-aware-cache-invalidation-solving-mongoose-performance-at-scale-59ic",
+    "title": "Running Obsidian Community Plugins in Flatpak — Battle Notes and a Move to AppImage",
+    "link": "https://dev.to/rbcn/running-obsidian-community-plugins-in-flatpak-battle-notes-and-a-move-to-appimage-4c1f",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "The React Hooks Adventure: How I Turned `useState` and `useEffect` Into My Jedi Powers",
-    "link": "https://dev.to/timevolt/the-react-hooks-adventure-how-i-turned-usestate-and-useeffect-into-my-jedi-powers-nm7",
+    "title": "Why p-retry isn't enough for production and what to do instead",
+    "link": "https://dev.to/rajatdh27/why-p-retry-isnt-enough-for-production-and-what-to-do-instead-5go2",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Async APIs: The 202 Accepted + Polling Pattern for Long-Running Operations",
-    "link": "https://dev.to/apikumo/async-apis-the-202-accepted-polling-pattern-for-long-running-operations-5e37",
+    "title": "Redesigning Webpack's Documentation: My GSoC 2026 Journey",
+    "link": "https://dev.to/moshams272/redesigning-webpacks-documentation-my-gsoc-2026-journey-5afd",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "An Open-Source SEO + GEO Audit Toolkit in Plain Node",
-    "link": "https://dev.to/cloudapp_dev/an-open-source-seo-geo-audit-toolkit-in-plain-node-4foc",
+    "title": "Build a Local RAG AI App with Ollama, Mistral, and Node.js",
+    "link": "https://dev.to/gaurav101/build-a-local-rag-ai-app-with-ollama-mistral-and-nodejs-4bk9",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built the Same Hash Utility for Browser, Node, and Python",
-    "link": "https://dev.to/altrepo/i-built-the-same-hash-utility-for-browser-node-and-python-1546",
+    "title": "Running Obsidian Community Plugins in Flatpak — Battle Notes and a Move to AppImage",
+    "link": "https://dev.to/rbcn/running-obsidian-community-plugins-in-flatpak-battle-notes-and-a-move-to-appimage-4c1f",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Fixing Fablize Claude Opus Agent Skips: Node.js Blueprint",
-    "link": "https://dev.to/umair24171/fixing-fablize-claude-opus-agent-skips-nodejs-blueprint-1d7h",
+    "title": "Why p-retry isn't enough for production and what to do instead",
+    "link": "https://dev.to/rajatdh27/why-p-retry-isnt-enough-for-production-and-what-to-do-instead-5go2",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Replaced a Node.js Service with 30 Lines of Bash — and When You Shouldn't",
-    "link": "https://dev.to/tkpdx01/why-i-replaced-a-nodejs-service-with-30-lines-of-bash-and-when-you-shouldnt-4eip",
+    "title": "Redesigning Webpack's Documentation: My GSoC 2026 Journey",
+    "link": "https://dev.to/moshams272/redesigning-webpacks-documentation-my-gsoc-2026-journey-5afd",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Browser Fingerprint Randomization: Beyond User-Agent Rotation",
-    "link": "https://dev.to/helperx/browser-fingerprint-randomization-beyond-user-agent-rotation-58e",
+    "title": "Build a Local RAG AI App with Ollama, Mistral, and Node.js",
+    "link": "https://dev.to/gaurav101/build-a-local-rag-ai-app-with-ollama-mistral-and-nodejs-4bk9",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Smart Query-Aware Cache Invalidation: Solving Mongoose Performance at Scale",
-    "link": "https://dev.to/victor_ajadi_21b5913f79f6/smart-query-aware-cache-invalidation-solving-mongoose-performance-at-scale-59ic",
+    "title": "Running Obsidian Community Plugins in Flatpak — Battle Notes and a Move to AppImage",
+    "link": "https://dev.to/rbcn/running-obsidian-community-plugins-in-flatpak-battle-notes-and-a-move-to-appimage-4c1f",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "The React Hooks Adventure: How I Turned `useState` and `useEffect` Into My Jedi Powers",
-    "link": "https://dev.to/timevolt/the-react-hooks-adventure-how-i-turned-usestate-and-useeffect-into-my-jedi-powers-nm7",
+    "title": "Why p-retry isn't enough for production and what to do instead",
+    "link": "https://dev.to/rajatdh27/why-p-retry-isnt-enough-for-production-and-what-to-do-instead-5go2",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Async APIs: The 202 Accepted + Polling Pattern for Long-Running Operations",
-    "link": "https://dev.to/apikumo/async-apis-the-202-accepted-polling-pattern-for-long-running-operations-5e37",
+    "title": "Redesigning Webpack's Documentation: My GSoC 2026 Journey",
+    "link": "https://dev.to/moshams272/redesigning-webpacks-documentation-my-gsoc-2026-journey-5afd",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "An Open-Source SEO + GEO Audit Toolkit in Plain Node",
-    "link": "https://dev.to/cloudapp_dev/an-open-source-seo-geo-audit-toolkit-in-plain-node-4foc",
+    "title": "Build a Local RAG AI App with Ollama, Mistral, and Node.js",
+    "link": "https://dev.to/gaurav101/build-a-local-rag-ai-app-with-ollama-mistral-and-nodejs-4bk9",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built the Same Hash Utility for Browser, Node, and Python",
-    "link": "https://dev.to/altrepo/i-built-the-same-hash-utility-for-browser-node-and-python-1546",
+    "title": "Running Obsidian Community Plugins in Flatpak — Battle Notes and a Move to AppImage",
+    "link": "https://dev.to/rbcn/running-obsidian-community-plugins-in-flatpak-battle-notes-and-a-move-to-appimage-4c1f",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Fixing Fablize Claude Opus Agent Skips: Node.js Blueprint",
-    "link": "https://dev.to/umair24171/fixing-fablize-claude-opus-agent-skips-nodejs-blueprint-1d7h",
+    "title": "Why p-retry isn't enough for production and what to do instead",
+    "link": "https://dev.to/rajatdh27/why-p-retry-isnt-enough-for-production-and-what-to-do-instead-5go2",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Replaced a Node.js Service with 30 Lines of Bash — and When You Shouldn't",
-    "link": "https://dev.to/tkpdx01/why-i-replaced-a-nodejs-service-with-30-lines-of-bash-and-when-you-shouldnt-4eip",
+    "title": "Redesigning Webpack's Documentation: My GSoC 2026 Journey",
+    "link": "https://dev.to/moshams272/redesigning-webpacks-documentation-my-gsoc-2026-journey-5afd",
     "date": "6/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Browser Fingerprint Randomization: Beyond User-Agent Rotation",
-    "link": "https://dev.to/helperx/browser-fingerprint-randomization-beyond-user-agent-rotation-58e",
+    "title": "Build a Local RAG AI App with Ollama, Mistral, and Node.js",
+    "link": "https://dev.to/gaurav101/build-a-local-rag-ai-app-with-ollama-mistral-and-nodejs-4bk9",
     "date": "6/14/2026",
     "site": "dev.to"
-  },
-  {
-    "title": "Smart Query-Aware Cache Invalidation: Solving Mongoose Performance at Scale",
-    "link": "https://dev.to/victor_ajadi_21b5913f79f6/smart-query-aware-cache-invalidation-solving-mongoose-performance-at-scale-59ic",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The React Hooks Adventure: How I Turned `useState` and `useEffect` Into My Jedi Powers",
-    "link": "https://dev.to/timevolt/the-react-hooks-adventure-how-i-turned-usestate-and-useeffect-into-my-jedi-powers-nm7",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async APIs: The 202 Accepted + Polling Pattern for Long-Running Operations",
-    "link": "https://dev.to/apikumo/async-apis-the-202-accepted-polling-pattern-for-long-running-operations-5e37",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Open-Source SEO + GEO Audit Toolkit in Plain Node",
-    "link": "https://dev.to/cloudapp_dev/an-open-source-seo-geo-audit-toolkit-in-plain-node-4foc",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built the Same Hash Utility for Browser, Node, and Python",
-    "link": "https://dev.to/altrepo/i-built-the-same-hash-utility-for-browser-node-and-python-1546",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Fablize Claude Opus Agent Skips: Node.js Blueprint",
-    "link": "https://dev.to/umair24171/fixing-fablize-claude-opus-agent-skips-nodejs-blueprint-1d7h",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Replaced a Node.js Service with 30 Lines of Bash — and When You Shouldn't",
-    "link": "https://dev.to/tkpdx01/why-i-replaced-a-nodejs-service-with-30-lines-of-bash-and-when-you-shouldnt-4eip",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser Fingerprint Randomization: Beyond User-Agent Rotation",
-    "link": "https://dev.to/helperx/browser-fingerprint-randomization-beyond-user-agent-rotation-58e",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Smart Query-Aware Cache Invalidation: Solving Mongoose Performance at Scale",
-    "link": "https://dev.to/victor_ajadi_21b5913f79f6/smart-query-aware-cache-invalidation-solving-mongoose-performance-at-scale-59ic",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The React Hooks Adventure: How I Turned `useState` and `useEffect` Into My Jedi Powers",
-    "link": "https://dev.to/timevolt/the-react-hooks-adventure-how-i-turned-usestate-and-useeffect-into-my-jedi-powers-nm7",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async APIs: The 202 Accepted + Polling Pattern for Long-Running Operations",
-    "link": "https://dev.to/apikumo/async-apis-the-202-accepted-polling-pattern-for-long-running-operations-5e37",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Open-Source SEO + GEO Audit Toolkit in Plain Node",
-    "link": "https://dev.to/cloudapp_dev/an-open-source-seo-geo-audit-toolkit-in-plain-node-4foc",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built the Same Hash Utility for Browser, Node, and Python",
-    "link": "https://dev.to/altrepo/i-built-the-same-hash-utility-for-browser-node-and-python-1546",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fixing Fablize Claude Opus Agent Skips: Node.js Blueprint",
-    "link": "https://dev.to/umair24171/fixing-fablize-claude-opus-agent-skips-nodejs-blueprint-1d7h",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Replaced a Node.js Service with 30 Lines of Bash — and When You Shouldn't",
-    "link": "https://dev.to/tkpdx01/why-i-replaced-a-nodejs-service-with-30-lines-of-bash-and-when-you-shouldnt-4eip",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Browser Fingerprint Randomization: Beyond User-Agent Rotation",
-    "link": "https://dev.to/helperx/browser-fingerprint-randomization-beyond-user-agent-rotation-58e",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Smart Query-Aware Cache Invalidation: Solving Mongoose Performance at Scale",
-    "link": "https://dev.to/victor_ajadi_21b5913f79f6/smart-query-aware-cache-invalidation-solving-mongoose-performance-at-scale-59ic",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The React Hooks Adventure: How I Turned `useState` and `useEffect` Into My Jedi Powers",
-    "link": "https://dev.to/timevolt/the-react-hooks-adventure-how-i-turned-usestate-and-useeffect-into-my-jedi-powers-nm7",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Async APIs: The 202 Accepted + Polling Pattern for Long-Running Operations",
-    "link": "https://dev.to/apikumo/async-apis-the-202-accepted-polling-pattern-for-long-running-operations-5e37",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An Open-Source SEO + GEO Audit Toolkit in Plain Node",
-    "link": "https://dev.to/cloudapp_dev/an-open-source-seo-geo-audit-toolkit-in-plain-node-4foc",
-    "date": "6/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Deploy a Full-Stack Node.js App on Azure: A Step-by-Step Guide",
-    "link": "https://dev.to/zia_ullah_zia/how-to-deploy-a-full-stack-nodejs-app-on-azure-a-step-by-step-guide-5535",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reading a Paginated API Without Holding the Whole Thing in Memory",
-    "link": "https://dev.to/coded_parts/reading-a-paginated-api-without-holding-the-whole-thing-in-memory-1iip",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fill a PDF in Node.js — one fetch, no headless browser",
-    "link": "https://dev.to/pdfops/fill-a-pdf-in-nodejs-one-fetch-no-headless-browser-5h4d",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Kaupang: deploy the same config to Docker Compose, Swarm, or Kubernetes",
-    "link": "https://dev.to/clownay/kaupang-deploy-the-same-config-to-docker-compose-swarm-or-kubernetes-1a08",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent 30 Days Building a Complete Node.js Learning Path (Free for Everyone)",
-    "link": "https://dev.to/mohinsheikh/i-spent-30-days-building-a-complete-nodejs-learning-path-free-for-everyone-55dm",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I almost burned ₹4,000 on Claude API overnight — so I built llm-cost-guard",
-    "link": "https://dev.to/advik_9a1a8f80accc0f7364f/i-almost-burned-4000-on-claude-api-overnight-so-i-built-llm-cost-guard-4ch1",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AltiVerse — Fork a decision. Watch the worlds it creates. 🌱",
-    "link": "https://dev.to/leotheaidev/altiverse-fork-a-decision-watch-the-worlds-it-creates-3ca",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Deploy a Full-Stack Node.js App on Azure: A Step-by-Step Guide",
-    "link": "https://dev.to/zia_ullah_zia/how-to-deploy-a-full-stack-nodejs-app-on-azure-a-step-by-step-guide-5535",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reading a Paginated API Without Holding the Whole Thing in Memory",
-    "link": "https://dev.to/coded_parts/reading-a-paginated-api-without-holding-the-whole-thing-in-memory-1iip",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fill a PDF in Node.js — one fetch, no headless browser",
-    "link": "https://dev.to/pdfops/fill-a-pdf-in-nodejs-one-fetch-no-headless-browser-5h4d",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Kaupang: deploy the same config to Docker Compose, Swarm, or Kubernetes",
-    "link": "https://dev.to/clownay/kaupang-deploy-the-same-config-to-docker-compose-swarm-or-kubernetes-1a08",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent 30 Days Building a Complete Node.js Learning Path (Free for Everyone)",
-    "link": "https://dev.to/mohinsheikh/i-spent-30-days-building-a-complete-nodejs-learning-path-free-for-everyone-55dm",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I almost burned ₹4,000 on Claude API overnight — so I built llm-cost-guard",
-    "link": "https://dev.to/advik_9a1a8f80accc0f7364f/i-almost-burned-4000-on-claude-api-overnight-so-i-built-llm-cost-guard-4ch1",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AltiVerse — Fork a decision. Watch the worlds it creates. 🌱",
-    "link": "https://dev.to/leotheaidev/altiverse-fork-a-decision-watch-the-worlds-it-creates-3ca",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Deploy a Full-Stack Node.js App on Azure: A Step-by-Step Guide",
-    "link": "https://dev.to/zia_ullah_zia/how-to-deploy-a-full-stack-nodejs-app-on-azure-a-step-by-step-guide-5535",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reading a Paginated API Without Holding the Whole Thing in Memory",
-    "link": "https://dev.to/coded_parts/reading-a-paginated-api-without-holding-the-whole-thing-in-memory-1iip",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fill a PDF in Node.js — one fetch, no headless browser",
-    "link": "https://dev.to/pdfops/fill-a-pdf-in-nodejs-one-fetch-no-headless-browser-5h4d",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Kaupang: deploy the same config to Docker Compose, Swarm, or Kubernetes",
-    "link": "https://dev.to/clownay/kaupang-deploy-the-same-config-to-docker-compose-swarm-or-kubernetes-1a08",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent 30 Days Building a Complete Node.js Learning Path (Free for Everyone)",
-    "link": "https://dev.to/mohinsheikh/i-spent-30-days-building-a-complete-nodejs-learning-path-free-for-everyone-55dm",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I almost burned ₹4,000 on Claude API overnight — so I built llm-cost-guard",
-    "link": "https://dev.to/advik_9a1a8f80accc0f7364f/i-almost-burned-4000-on-claude-api-overnight-so-i-built-llm-cost-guard-4ch1",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AltiVerse — Fork a decision. Watch the worlds it creates. 🌱",
-    "link": "https://dev.to/leotheaidev/altiverse-fork-a-decision-watch-the-worlds-it-creates-3ca",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Deploy a Full-Stack Node.js App on Azure: A Step-by-Step Guide",
-    "link": "https://dev.to/zia_ullah_zia/how-to-deploy-a-full-stack-nodejs-app-on-azure-a-step-by-step-guide-5535",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reading a Paginated API Without Holding the Whole Thing in Memory",
-    "link": "https://dev.to/coded_parts/reading-a-paginated-api-without-holding-the-whole-thing-in-memory-1iip",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fill a PDF in Node.js — one fetch, no headless browser",
-    "link": "https://dev.to/pdfops/fill-a-pdf-in-nodejs-one-fetch-no-headless-browser-5h4d",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Kaupang: deploy the same config to Docker Compose, Swarm, or Kubernetes",
-    "link": "https://dev.to/clownay/kaupang-deploy-the-same-config-to-docker-compose-swarm-or-kubernetes-1a08",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent 30 Days Building a Complete Node.js Learning Path (Free for Everyone)",
-    "link": "https://dev.to/mohinsheikh/i-spent-30-days-building-a-complete-nodejs-learning-path-free-for-everyone-55dm",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I almost burned ₹4,000 on Claude API overnight — so I built llm-cost-guard",
-    "link": "https://dev.to/advik_9a1a8f80accc0f7364f/i-almost-burned-4000-on-claude-api-overnight-so-i-built-llm-cost-guard-4ch1",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AltiVerse — Fork a decision. Watch the worlds it creates. 🌱",
-    "link": "https://dev.to/leotheaidev/altiverse-fork-a-decision-watch-the-worlds-it-creates-3ca",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Deploy a Full-Stack Node.js App on Azure: A Step-by-Step Guide",
-    "link": "https://dev.to/zia_ullah_zia/how-to-deploy-a-full-stack-nodejs-app-on-azure-a-step-by-step-guide-5535",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reading a Paginated API Without Holding the Whole Thing in Memory",
-    "link": "https://dev.to/coded_parts/reading-a-paginated-api-without-holding-the-whole-thing-in-memory-1iip",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Fill a PDF in Node.js — one fetch, no headless browser",
-    "link": "https://dev.to/pdfops/fill-a-pdf-in-nodejs-one-fetch-no-headless-browser-5h4d",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Kaupang: deploy the same config to Docker Compose, Swarm, or Kubernetes",
-    "link": "https://dev.to/clownay/kaupang-deploy-the-same-config-to-docker-compose-swarm-or-kubernetes-1a08",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent 30 Days Building a Complete Node.js Learning Path (Free for Everyone)",
-    "link": "https://dev.to/mohinsheikh/i-spent-30-days-building-a-complete-nodejs-learning-path-free-for-everyone-55dm",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I almost burned ₹4,000 on Claude API overnight — so I built llm-cost-guard",
-    "link": "https://dev.to/advik_9a1a8f80accc0f7364f/i-almost-burned-4000-on-claude-api-overnight-so-i-built-llm-cost-guard-4ch1",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AltiVerse — Fork a decision. Watch the worlds it creates. 🌱",
-    "link": "https://dev.to/leotheaidev/altiverse-fork-a-decision-watch-the-worlds-it-creates-3ca",
-    "date": "6/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building And Dockerizing A Node.js App With Stateless Architecture With Help From Kinsta",
-    "link": "https://www.smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/",
-    "reading_time": "8 min read",
-    "date": "4/20/2023",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "A Guide To Test-Driven Development Using Node.js",
-    "link": "https://www.smashingmagazine.com/2022/11/guide-test-driven-development-nodejs/",
-    "reading_time": "11 min read",
-    "date": "11/12/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Node.js Authentication With Twilio Verify",
-    "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
-    "date": "10/7/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
-    "link": "https://www.smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
-    "reading_time": "21 min read",
-    "date": "6/2/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "How To Protect Your API Key In Production With Next.js API Route",
-    "link": "https://www.smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
-    "reading_time": "8 min read",
-    "date": "12/2/2021",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "How To Build An Amazon Product Scraper With Node.js",
-    "link": "https://www.smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
-    "reading_time": "14 min read",
-    "date": "10/28/2021",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Building A Video Streaming App With Nuxt.js, Node And Express",
-    "link": "https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-    "reading_time": "16 min read",
-    "date": "4/13/2021",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "A Deep Dive Into Eleventy Static Site Generator",
-    "link": "https://www.smashingmagazine.com/2021/03/eleventy-static-site-generator/",
-    "reading_time": "20 min read",
-    "date": "3/24/2021",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The Guide To Ethical Scraping Of Dynamic Websites With Node.js And Puppeteer",
-    "link": "https://www.smashingmagazine.com/2021/03/ethical-scraping-dynamic-websites-nodejs-puppeteer/",
-    "reading_time": "13 min read",
-    "date": "3/11/2021",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "How To Build A Node.js API For Ethereum Blockchain",
-    "link": "https://www.smashingmagazine.com/2021/01/nodejs-api-ethereum-blockchain/",
-    "reading_time": "28 min read",
-    "date": "1/19/2021",
-    "site": "smashingmagazine"
   },
   {
     "title": "Creating A Continuous Integration Test Workflow Using GitHub Actions",
@@ -536,14 +466,14 @@
   {
     "title": "Better Error Handling In NodeJS With Error Classes",
     "link": "https://www.smashingmagazine.com/2020/08/error-handling-nodejs-error-classes/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "8/10/2020",
     "site": "smashingmagazine"
   },
   {
     "title": "Getting Started With Axios In Nuxt",
     "link": "https://www.smashingmagazine.com/2020/05/getting-started-axios-nuxt/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "5/26/2020",
     "site": "smashingmagazine"
   },
@@ -590,6 +520,76 @@
     "site": "smashingmagazine"
   },
   {
+    "title": "Building A Node.js Express API To Convert Markdown To HTML",
+    "link": "https://www.smashingmagazine.com/2019/04/nodejs-express-api-markdown-html/",
+    "reading_time": "13 min read",
+    "date": "4/23/2019",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Get Started With Node: An Introduction To APIs, HTTP And ES6+ JavaScript",
+    "link": "https://www.smashingmagazine.com/2019/02/node-api-http-es6-javascript/",
+    "reading_time": "46 min read",
+    "date": "2/20/2019",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Using Slack To Monitor Your App",
+    "link": "https://www.smashingmagazine.com/2019/02/using-slack-monitor-app/",
+    "reading_time": "11 min read",
+    "date": "2/15/2019",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Writing A Multiplayer Text Adventure Engine In Node.js (Part 1)",
+    "link": "https://www.smashingmagazine.com/2018/12/multiplayer-text-adventure-engine-node-js/",
+    "reading_time": "24 min read",
+    "date": "12/20/2018",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Building A Room Detector For IoT Devices On Mac OS",
+    "link": "https://www.smashingmagazine.com/2018/08/building-room-detector-iot-devices-mac-os/",
+    "reading_time": "24 min read",
+    "date": "8/29/2018",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Building A Pub/Sub Service In-House Using Node.js And Redis",
+    "link": "https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/",
+    "reading_time": "11 min read",
+    "date": "6/12/2018",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers",
+    "link": "https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/",
+    "reading_time": "19 min read",
+    "date": "6/7/2018",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Sharing Code Between Projects: Lessons Learned In The Trenches",
+    "link": "https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/",
+    "reading_time": "10 min read",
+    "date": "4/25/2018",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Analyzing Your Company’s Social Media Presence With IBM Watson And Node.js",
+    "link": "https://www.smashingmagazine.com/2018/04/analyzing-social-media-presence-ibm-watson-nodejs/",
+    "reading_time": "14 min read",
+    "date": "4/4/2018",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "How To Build A Skin For Your Web App With React And WordPress",
+    "link": "https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/",
+    "reading_time": "18 min read",
+    "date": "3/7/2018",
+    "site": "smashingmagazine"
+  },
+  {
     "title": "Creating Secure Password Resets With JSON Web Tokens",
     "link": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/",
     "reading_time": "18 min read",
@@ -613,7 +613,7 @@
   {
     "title": "Beyond The Browser: From Web Apps To Desktop Apps",
     "link": "https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/",
-    "reading_time": "39 min read",
+    "reading_time": "40 min read",
     "date": "3/21/2017",
     "site": "smashingmagazine"
   },
@@ -627,14 +627,14 @@
   {
     "title": "How To Develop A Chat Bot With Node.js",
     "link": "https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "10/17/2016",
     "site": "smashingmagazine"
   },
   {
     "title": "Next Generation Server Compression With Brotli",
     "link": "https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "10/5/2016",
     "site": "smashingmagazine"
   },
