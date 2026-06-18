@@ -1,79 +1,403 @@
 [
   {
+    "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+    "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step",
+    "link": "https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 41 of Learning MERN stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-41-of-learning-mern-stack-5hke",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚔️ Limn Engine vs Phaser 3 — The Honest Comparison",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-vs-phaser-3-the-honest-comparison-26na",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚡ What Makes Limn Engine Performance Special",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/what-makes-limn-engine-performance-special-16im",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Testing & Debugging React Apps — Write Code You Can Actually Trust",
+    "link": "https://dev.to/kushang_tailor/testing-debugging-react-apps-write-code-you-can-actually-trust-5334",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚔️ Limn Engine vs Other 2D Game Engines — The Honest Comparison",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-vs-other-2d-game-engines-the-honest-comparison-5dp0",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `vitest --changed` misses some tests (and how runtime coverage fixes it)",
+    "link": "https://dev.to/kazutaka-dev/why-vitest-changed-misses-some-tests-and-how-runtime-coverage-fixes-it-jjm",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Routing around Google Maps in Korea: Naver & Kakao deep links, weird coordinates, and iOS clipboard",
+    "link": "https://dev.to/piyaklabs/routing-around-google-maps-in-korea-naver-kakao-deep-links-weird-coordinates-and-ios-clipboard-25mf",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding RESP: The Protocol Behind Redis",
+    "link": "https://dev.to/abhinov007/understanding-resp-the-protocol-behind-redis-50p4",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Validate Email Addresses in JavaScript / Node.js (Beyond Regex)",
+    "link": "https://dev.to/atek/how-to-validate-email-addresses-in-javascript-nodejs-beyond-regex-fk4",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A roof calculator that multiplies length by width is lying to you",
+    "link": "https://dev.to/mark_b5f4ffdd8e7cd58/a-roof-calculator-that-multiplies-length-by-width-is-lying-to-you-4ibb",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js vs Bun vs Deno 2 in 2026: Which JavaScript Runtime Should You Actually Use?",
+    "link": "https://dev.to/moksh/nodejs-vs-bun-vs-deno-2-in-2026-which-javascript-runtime-should-you-actually-use-260e",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+    "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step",
+    "link": "https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 41 of Learning MERN stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-41-of-learning-mern-stack-5hke",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚔️ Limn Engine vs Phaser 3 — The Honest Comparison",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-vs-phaser-3-the-honest-comparison-26na",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚡ What Makes Limn Engine Performance Special",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/what-makes-limn-engine-performance-special-16im",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Testing & Debugging React Apps — Write Code You Can Actually Trust",
+    "link": "https://dev.to/kushang_tailor/testing-debugging-react-apps-write-code-you-can-actually-trust-5334",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚔️ Limn Engine vs Other 2D Game Engines — The Honest Comparison",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-vs-other-2d-game-engines-the-honest-comparison-5dp0",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `vitest --changed` misses some tests (and how runtime coverage fixes it)",
+    "link": "https://dev.to/kazutaka-dev/why-vitest-changed-misses-some-tests-and-how-runtime-coverage-fixes-it-jjm",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Routing around Google Maps in Korea: Naver & Kakao deep links, weird coordinates, and iOS clipboard",
+    "link": "https://dev.to/piyaklabs/routing-around-google-maps-in-korea-naver-kakao-deep-links-weird-coordinates-and-ios-clipboard-25mf",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding RESP: The Protocol Behind Redis",
+    "link": "https://dev.to/abhinov007/understanding-resp-the-protocol-behind-redis-50p4",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Validate Email Addresses in JavaScript / Node.js (Beyond Regex)",
+    "link": "https://dev.to/atek/how-to-validate-email-addresses-in-javascript-nodejs-beyond-regex-fk4",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A roof calculator that multiplies length by width is lying to you",
+    "link": "https://dev.to/mark_b5f4ffdd8e7cd58/a-roof-calculator-that-multiplies-length-by-width-is-lying-to-you-4ibb",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js vs Bun vs Deno 2 in 2026: Which JavaScript Runtime Should You Actually Use?",
+    "link": "https://dev.to/moksh/nodejs-vs-bun-vs-deno-2-in-2026-which-javascript-runtime-should-you-actually-use-260e",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+    "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step",
+    "link": "https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 41 of Learning MERN stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-41-of-learning-mern-stack-5hke",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚔️ Limn Engine vs Phaser 3 — The Honest Comparison",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-vs-phaser-3-the-honest-comparison-26na",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚡ What Makes Limn Engine Performance Special",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/what-makes-limn-engine-performance-special-16im",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Testing & Debugging React Apps — Write Code You Can Actually Trust",
+    "link": "https://dev.to/kushang_tailor/testing-debugging-react-apps-write-code-you-can-actually-trust-5334",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚔️ Limn Engine vs Other 2D Game Engines — The Honest Comparison",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-vs-other-2d-game-engines-the-honest-comparison-5dp0",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `vitest --changed` misses some tests (and how runtime coverage fixes it)",
+    "link": "https://dev.to/kazutaka-dev/why-vitest-changed-misses-some-tests-and-how-runtime-coverage-fixes-it-jjm",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Routing around Google Maps in Korea: Naver & Kakao deep links, weird coordinates, and iOS clipboard",
+    "link": "https://dev.to/piyaklabs/routing-around-google-maps-in-korea-naver-kakao-deep-links-weird-coordinates-and-ios-clipboard-25mf",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding RESP: The Protocol Behind Redis",
+    "link": "https://dev.to/abhinov007/understanding-resp-the-protocol-behind-redis-50p4",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Validate Email Addresses in JavaScript / Node.js (Beyond Regex)",
+    "link": "https://dev.to/atek/how-to-validate-email-addresses-in-javascript-nodejs-beyond-regex-fk4",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A roof calculator that multiplies length by width is lying to you",
+    "link": "https://dev.to/mark_b5f4ffdd8e7cd58/a-roof-calculator-that-multiplies-length-by-width-is-lying-to-you-4ibb",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js vs Bun vs Deno 2 in 2026: Which JavaScript Runtime Should You Actually Use?",
+    "link": "https://dev.to/moksh/nodejs-vs-bun-vs-deno-2-in-2026-which-javascript-runtime-should-you-actually-use-260e",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+    "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step",
+    "link": "https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 41 of Learning MERN stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-41-of-learning-mern-stack-5hke",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚔️ Limn Engine vs Phaser 3 — The Honest Comparison",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-vs-phaser-3-the-honest-comparison-26na",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚡ What Makes Limn Engine Performance Special",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/what-makes-limn-engine-performance-special-16im",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Testing & Debugging React Apps — Write Code You Can Actually Trust",
+    "link": "https://dev.to/kushang_tailor/testing-debugging-react-apps-write-code-you-can-actually-trust-5334",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚔️ Limn Engine vs Other 2D Game Engines — The Honest Comparison",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-vs-other-2d-game-engines-the-honest-comparison-5dp0",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `vitest --changed` misses some tests (and how runtime coverage fixes it)",
+    "link": "https://dev.to/kazutaka-dev/why-vitest-changed-misses-some-tests-and-how-runtime-coverage-fixes-it-jjm",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Routing around Google Maps in Korea: Naver & Kakao deep links, weird coordinates, and iOS clipboard",
+    "link": "https://dev.to/piyaklabs/routing-around-google-maps-in-korea-naver-kakao-deep-links-weird-coordinates-and-ios-clipboard-25mf",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding RESP: The Protocol Behind Redis",
+    "link": "https://dev.to/abhinov007/understanding-resp-the-protocol-behind-redis-50p4",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Validate Email Addresses in JavaScript / Node.js (Beyond Regex)",
+    "link": "https://dev.to/atek/how-to-validate-email-addresses-in-javascript-nodejs-beyond-regex-fk4",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A roof calculator that multiplies length by width is lying to you",
+    "link": "https://dev.to/mark_b5f4ffdd8e7cd58/a-roof-calculator-that-multiplies-length-by-width-is-lying-to-you-4ibb",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js vs Bun vs Deno 2 in 2026: Which JavaScript Runtime Should You Actually Use?",
+    "link": "https://dev.to/moksh/nodejs-vs-bun-vs-deno-2-in-2026-which-javascript-runtime-should-you-actually-use-260e",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Who Here Has Worked with Legacy? The Longer You Wait, the Worse It Gets",
+    "link": "https://dev.to/sylwia-lask/who-here-has-worked-with-legacy-the-longer-you-wait-the-worse-it-gets-58bk",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step",
+    "link": "https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 41 of Learning MERN stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-41-of-learning-mern-stack-5hke",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚔️ Limn Engine vs Phaser 3 — The Honest Comparison",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-vs-phaser-3-the-honest-comparison-26na",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚡ What Makes Limn Engine Performance Special",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/what-makes-limn-engine-performance-special-16im",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Testing & Debugging React Apps — Write Code You Can Actually Trust",
+    "link": "https://dev.to/kushang_tailor/testing-debugging-react-apps-write-code-you-can-actually-trust-5334",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "⚔️ Limn Engine vs Other 2D Game Engines — The Honest Comparison",
+    "link": "https://dev.to/kehinde_owolabi_e2e54567a/limn-engine-vs-other-2d-game-engines-the-honest-comparison-5dp0",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `vitest --changed` misses some tests (and how runtime coverage fixes it)",
+    "link": "https://dev.to/kazutaka-dev/why-vitest-changed-misses-some-tests-and-how-runtime-coverage-fixes-it-jjm",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Routing around Google Maps in Korea: Naver & Kakao deep links, weird coordinates, and iOS clipboard",
+    "link": "https://dev.to/piyaklabs/routing-around-google-maps-in-korea-naver-kakao-deep-links-weird-coordinates-and-ios-clipboard-25mf",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Understanding RESP: The Protocol Behind Redis",
+    "link": "https://dev.to/abhinov007/understanding-resp-the-protocol-behind-redis-50p4",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Validate Email Addresses in JavaScript / Node.js (Beyond Regex)",
+    "link": "https://dev.to/atek/how-to-validate-email-addresses-in-javascript-nodejs-beyond-regex-fk4",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A roof calculator that multiplies length by width is lying to you",
+    "link": "https://dev.to/mark_b5f4ffdd8e7cd58/a-roof-calculator-that-multiplies-length-by-width-is-lying-to-you-4ibb",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js vs Bun vs Deno 2 in 2026: Which JavaScript Runtime Should You Actually Use?",
+    "link": "https://dev.to/moksh/nodejs-vs-bun-vs-deno-2-in-2026-which-javascript-runtime-should-you-actually-use-260e",
+    "date": "6/18/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why",
     "link": "https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c",
     "date": "6/17/2026",
     "site": "dev.to"
   },
   {
-    "title": "Add rug-pull protection to your Ethereum bot in 5 lines",
-    "link": "https://dev.to/mik3fly__/add-rug-pull-protection-to-your-ethereum-bot-in-5-lines-2kbf",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 39 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-39-of-learning-mern-stack-hkp",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Object-Oriented Programming (OOP) in JavaScript: A Complete Guide with Real-World Examples",
-    "link": "https://dev.to/rafsan-jany-ratul/object-oriented-programming-oop-in-javascript-a-complete-guide-with-real-world-examples-4l54",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "EU VAT validation API's: a practical comparison",
-    "link": "https://dev.to/bitowl/eu-vat-validation-apis-a-practical-comparison-595m",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "PackVault: Cache npm Packages Once. Install Forever — Even Offline.",
-    "link": "https://dev.to/rishibyte/packvault-cache-npm-packages-once-install-forever-even-offline-36oj",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your MERN CRUD App Works, But Would It Survive Real Users?",
-    "link": "https://dev.to/zestmindsacademy/your-mern-crud-app-works-but-would-it-survive-real-users-3bof",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Free Client-Side Tools Every Developer Needs in 2026 (Zero Latency & No Signups)",
-    "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/7-free-client-side-tools-every-developer-needs-in-2026-zero-latency-no-signups-22kg",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DivineEast — Explore Chinese Mythology Through an Interactive Digital Temple",
-    "link": "https://dev.to/fan_ye_6ae49c11680f660770/divineeast-explore-chinese-mythology-through-an-interactive-digital-temple-11kj",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The worked example that disagreed with its own calculator",
-    "link": "https://dev.to/mark_b5f4ffdd8e7cd58/the-worked-example-that-disagreed-with-its-own-calculator-4cp9",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 38 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-38-of-learning-mern-stack-opl",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 37 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-37-of-learning-mern-stack-4758",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 36 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-36-of-learning-mern-stack-183m",
+    "title": "Pinion: Resumable File Uploads for PHP",
+    "link": "https://dev.to/yoosefap/pinion-resumable-file-uploads-for-php-189p",
     "date": "6/17/2026",
     "site": "dev.to"
   },
@@ -84,74 +408,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Add rug-pull protection to your Ethereum bot in 5 lines",
-    "link": "https://dev.to/mik3fly__/add-rug-pull-protection-to-your-ethereum-bot-in-5-lines-2kbf",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 39 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-39-of-learning-mern-stack-hkp",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Object-Oriented Programming (OOP) in JavaScript: A Complete Guide with Real-World Examples",
-    "link": "https://dev.to/rafsan-jany-ratul/object-oriented-programming-oop-in-javascript-a-complete-guide-with-real-world-examples-4l54",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "EU VAT validation API's: a practical comparison",
-    "link": "https://dev.to/bitowl/eu-vat-validation-apis-a-practical-comparison-595m",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "PackVault: Cache npm Packages Once. Install Forever — Even Offline.",
-    "link": "https://dev.to/rishibyte/packvault-cache-npm-packages-once-install-forever-even-offline-36oj",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your MERN CRUD App Works, But Would It Survive Real Users?",
-    "link": "https://dev.to/zestmindsacademy/your-mern-crud-app-works-but-would-it-survive-real-users-3bof",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Free Client-Side Tools Every Developer Needs in 2026 (Zero Latency & No Signups)",
-    "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/7-free-client-side-tools-every-developer-needs-in-2026-zero-latency-no-signups-22kg",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DivineEast — Explore Chinese Mythology Through an Interactive Digital Temple",
-    "link": "https://dev.to/fan_ye_6ae49c11680f660770/divineeast-explore-chinese-mythology-through-an-interactive-digital-temple-11kj",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The worked example that disagreed with its own calculator",
-    "link": "https://dev.to/mark_b5f4ffdd8e7cd58/the-worked-example-that-disagreed-with-its-own-calculator-4cp9",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 38 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-38-of-learning-mern-stack-opl",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 37 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-37-of-learning-mern-stack-4758",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 36 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-36-of-learning-mern-stack-183m",
+    "title": "Pinion: Resumable File Uploads for PHP",
+    "link": "https://dev.to/yoosefap/pinion-resumable-file-uploads-for-php-189p",
     "date": "6/17/2026",
     "site": "dev.to"
   },
@@ -162,74 +420,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Add rug-pull protection to your Ethereum bot in 5 lines",
-    "link": "https://dev.to/mik3fly__/add-rug-pull-protection-to-your-ethereum-bot-in-5-lines-2kbf",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 39 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-39-of-learning-mern-stack-hkp",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Object-Oriented Programming (OOP) in JavaScript: A Complete Guide with Real-World Examples",
-    "link": "https://dev.to/rafsan-jany-ratul/object-oriented-programming-oop-in-javascript-a-complete-guide-with-real-world-examples-4l54",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "EU VAT validation API's: a practical comparison",
-    "link": "https://dev.to/bitowl/eu-vat-validation-apis-a-practical-comparison-595m",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "PackVault: Cache npm Packages Once. Install Forever — Even Offline.",
-    "link": "https://dev.to/rishibyte/packvault-cache-npm-packages-once-install-forever-even-offline-36oj",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your MERN CRUD App Works, But Would It Survive Real Users?",
-    "link": "https://dev.to/zestmindsacademy/your-mern-crud-app-works-but-would-it-survive-real-users-3bof",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Free Client-Side Tools Every Developer Needs in 2026 (Zero Latency & No Signups)",
-    "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/7-free-client-side-tools-every-developer-needs-in-2026-zero-latency-no-signups-22kg",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DivineEast — Explore Chinese Mythology Through an Interactive Digital Temple",
-    "link": "https://dev.to/fan_ye_6ae49c11680f660770/divineeast-explore-chinese-mythology-through-an-interactive-digital-temple-11kj",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The worked example that disagreed with its own calculator",
-    "link": "https://dev.to/mark_b5f4ffdd8e7cd58/the-worked-example-that-disagreed-with-its-own-calculator-4cp9",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 38 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-38-of-learning-mern-stack-opl",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 37 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-37-of-learning-mern-stack-4758",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 36 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-36-of-learning-mern-stack-183m",
+    "title": "Pinion: Resumable File Uploads for PHP",
+    "link": "https://dev.to/yoosefap/pinion-resumable-file-uploads-for-php-189p",
     "date": "6/17/2026",
     "site": "dev.to"
   },
@@ -240,74 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Add rug-pull protection to your Ethereum bot in 5 lines",
-    "link": "https://dev.to/mik3fly__/add-rug-pull-protection-to-your-ethereum-bot-in-5-lines-2kbf",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 39 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-39-of-learning-mern-stack-hkp",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Object-Oriented Programming (OOP) in JavaScript: A Complete Guide with Real-World Examples",
-    "link": "https://dev.to/rafsan-jany-ratul/object-oriented-programming-oop-in-javascript-a-complete-guide-with-real-world-examples-4l54",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "EU VAT validation API's: a practical comparison",
-    "link": "https://dev.to/bitowl/eu-vat-validation-apis-a-practical-comparison-595m",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "PackVault: Cache npm Packages Once. Install Forever — Even Offline.",
-    "link": "https://dev.to/rishibyte/packvault-cache-npm-packages-once-install-forever-even-offline-36oj",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your MERN CRUD App Works, But Would It Survive Real Users?",
-    "link": "https://dev.to/zestmindsacademy/your-mern-crud-app-works-but-would-it-survive-real-users-3bof",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Free Client-Side Tools Every Developer Needs in 2026 (Zero Latency & No Signups)",
-    "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/7-free-client-side-tools-every-developer-needs-in-2026-zero-latency-no-signups-22kg",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DivineEast — Explore Chinese Mythology Through an Interactive Digital Temple",
-    "link": "https://dev.to/fan_ye_6ae49c11680f660770/divineeast-explore-chinese-mythology-through-an-interactive-digital-temple-11kj",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The worked example that disagreed with its own calculator",
-    "link": "https://dev.to/mark_b5f4ffdd8e7cd58/the-worked-example-that-disagreed-with-its-own-calculator-4cp9",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 38 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-38-of-learning-mern-stack-opl",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 37 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-37-of-learning-mern-stack-4758",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 36 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-36-of-learning-mern-stack-183m",
+    "title": "Pinion: Resumable File Uploads for PHP",
+    "link": "https://dev.to/yoosefap/pinion-resumable-file-uploads-for-php-189p",
     "date": "6/17/2026",
     "site": "dev.to"
   },
@@ -318,135 +444,9 @@
     "site": "dev.to"
   },
   {
-    "title": "Add rug-pull protection to your Ethereum bot in 5 lines",
-    "link": "https://dev.to/mik3fly__/add-rug-pull-protection-to-your-ethereum-bot-in-5-lines-2kbf",
+    "title": "Pinion: Resumable File Uploads for PHP",
+    "link": "https://dev.to/yoosefap/pinion-resumable-file-uploads-for-php-189p",
     "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 39 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-39-of-learning-mern-stack-hkp",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Object-Oriented Programming (OOP) in JavaScript: A Complete Guide with Real-World Examples",
-    "link": "https://dev.to/rafsan-jany-ratul/object-oriented-programming-oop-in-javascript-a-complete-guide-with-real-world-examples-4l54",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "EU VAT validation API's: a practical comparison",
-    "link": "https://dev.to/bitowl/eu-vat-validation-apis-a-practical-comparison-595m",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "PackVault: Cache npm Packages Once. Install Forever — Even Offline.",
-    "link": "https://dev.to/rishibyte/packvault-cache-npm-packages-once-install-forever-even-offline-36oj",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your MERN CRUD App Works, But Would It Survive Real Users?",
-    "link": "https://dev.to/zestmindsacademy/your-mern-crud-app-works-but-would-it-survive-real-users-3bof",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Free Client-Side Tools Every Developer Needs in 2026 (Zero Latency & No Signups)",
-    "link": "https://dev.to/ajay_kumar_a1b062d94e22dc/7-free-client-side-tools-every-developer-needs-in-2026-zero-latency-no-signups-22kg",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DivineEast — Explore Chinese Mythology Through an Interactive Digital Temple",
-    "link": "https://dev.to/fan_ye_6ae49c11680f660770/divineeast-explore-chinese-mythology-through-an-interactive-digital-temple-11kj",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The worked example that disagreed with its own calculator",
-    "link": "https://dev.to/mark_b5f4ffdd8e7cd58/the-worked-example-that-disagreed-with-its-own-calculator-4cp9",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 38 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-38-of-learning-mern-stack-opl",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 37 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-37-of-learning-mern-stack-4758",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Day 36 of Learning MERN Stack",
-    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-36-of-learning-mern-stack-183m",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Java Collections Force: Mastering the Hidden Gems Like a Jedi",
-    "link": "https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438",
-    "date": "6/16/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Go Concurrency: The Jedi’s Guide to Goroutines & Channels (May the Fork Be With You)",
-    "link": "https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79",
-    "date": "6/16/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Java Collections Force: Mastering the Hidden Gems Like a Jedi",
-    "link": "https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438",
-    "date": "6/16/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Go Concurrency: The Jedi’s Guide to Goroutines & Channels (May the Fork Be With You)",
-    "link": "https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79",
-    "date": "6/16/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Java Collections Force: Mastering the Hidden Gems Like a Jedi",
-    "link": "https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438",
-    "date": "6/16/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Go Concurrency: The Jedi’s Guide to Goroutines & Channels (May the Fork Be With You)",
-    "link": "https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79",
-    "date": "6/16/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Java Collections Force: Mastering the Hidden Gems Like a Jedi",
-    "link": "https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438",
-    "date": "6/16/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Go Concurrency: The Jedi’s Guide to Goroutines & Channels (May the Fork Be With You)",
-    "link": "https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79",
-    "date": "6/16/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Java Collections Force: Mastering the Hidden Gems Like a Jedi",
-    "link": "https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438",
-    "date": "6/16/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Go Concurrency: The Jedi’s Guide to Goroutines & Channels (May the Fork Be With You)",
-    "link": "https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79",
-    "date": "6/16/2026",
     "site": "dev.to"
   },
   {
@@ -494,7 +494,7 @@
   {
     "title": "Building An Offline-Friendly Image Upload System",
     "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "4/23/2025",
     "site": "smashingmagazine"
   },
@@ -571,7 +571,7 @@
   {
     "title": "The End Of My Gatsby Journey",
     "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "3/6/2024",
     "site": "smashingmagazine"
   },
@@ -655,7 +655,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -725,7 +725,7 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "23 min read",
+    "reading_time": "24 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
