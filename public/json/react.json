@@ -1,453 +1,523 @@
 [
   {
-    "title": "Beyond the Div: Leveraging Semantic HTML to Solve Complex ARIA Failures in Modern React Applications",
-    "link": "https://dev.to/priya_nair/beyond-the-div-leveraging-semantic-html-to-solve-complex-aria-failures-in-modern-react-applications-1d59",
+    "title": "We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.",
+    "link": "https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)",
+    "link": "https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Multi-Vendor Marketplace From Scratch: Lessons From 30,000 Lines of React",
+    "link": "https://dev.to/faizullahpk/building-a-multi-vendor-marketplace-from-scratch-lessons-from-30000-lines-of-react-22ch",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scalable Frontend Architectures for Enterprise Next.js Applications",
+    "link": "https://dev.to/ufomadu_nnaemeka_89/scalable-frontend-architectures-for-enterprise-nextjs-applications-40pd",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting React Native File Systems: Meet rn-file-toolkit",
+    "link": "https://dev.to/rohit_chavan_ee3aebf1d592/stop-fighting-react-native-file-systems-meet-rn-file-toolkit-3aag",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Jedi's Guide to Scaling Node.js APIs with Express: From Padawan to Master",
+    "link": "https://dev.to/timevolt/the-jedis-guide-to-scaling-nodejs-apis-with-express-from-padawan-to-master-2939",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bulletproof React Forms: Zod & React Hook Form ⚡",
+    "link": "https://dev.to/iprajapatiparesh/bulletproof-react-forms-zod-react-hook-form-205j",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I open-sourced the financial charting library we use in production",
+    "link": "https://dev.to/katomek/i-open-sourced-the-financial-charting-library-we-use-in-production-1hh9",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Create Pixel Launcher Style App Open Animations in React Native",
+    "link": "https://dev.to/sourabh_09_04/how-to-create-pixel-launcher-style-app-open-animations-in-react-native-5b52",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you",
+    "link": "https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-5coc",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Hardcoding SVGs in Your Components. Here's a Better Workflow.",
+    "link": "https://dev.to/pooja_verma_1e3855946e114/stop-hardcoding-svgs-in-your-components-heres-a-better-workflow-4c7f",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From MERN to Next.js: My Journey as a Full Stack Developer",
+    "link": "https://dev.to/pawan_vishwakarma_54577b8/from-mern-to-nextjs-my-journey-as-a-full-stack-developer-4dib",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.",
+    "link": "https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)",
+    "link": "https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Multi-Vendor Marketplace From Scratch: Lessons From 30,000 Lines of React",
+    "link": "https://dev.to/faizullahpk/building-a-multi-vendor-marketplace-from-scratch-lessons-from-30000-lines-of-react-22ch",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scalable Frontend Architectures for Enterprise Next.js Applications",
+    "link": "https://dev.to/ufomadu_nnaemeka_89/scalable-frontend-architectures-for-enterprise-nextjs-applications-40pd",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting React Native File Systems: Meet rn-file-toolkit",
+    "link": "https://dev.to/rohit_chavan_ee3aebf1d592/stop-fighting-react-native-file-systems-meet-rn-file-toolkit-3aag",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Jedi's Guide to Scaling Node.js APIs with Express: From Padawan to Master",
+    "link": "https://dev.to/timevolt/the-jedis-guide-to-scaling-nodejs-apis-with-express-from-padawan-to-master-2939",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bulletproof React Forms: Zod & React Hook Form ⚡",
+    "link": "https://dev.to/iprajapatiparesh/bulletproof-react-forms-zod-react-hook-form-205j",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I open-sourced the financial charting library we use in production",
+    "link": "https://dev.to/katomek/i-open-sourced-the-financial-charting-library-we-use-in-production-1hh9",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Create Pixel Launcher Style App Open Animations in React Native",
+    "link": "https://dev.to/sourabh_09_04/how-to-create-pixel-launcher-style-app-open-animations-in-react-native-5b52",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you",
+    "link": "https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-5coc",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Hardcoding SVGs in Your Components. Here's a Better Workflow.",
+    "link": "https://dev.to/pooja_verma_1e3855946e114/stop-hardcoding-svgs-in-your-components-heres-a-better-workflow-4c7f",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From MERN to Next.js: My Journey as a Full Stack Developer",
+    "link": "https://dev.to/pawan_vishwakarma_54577b8/from-mern-to-nextjs-my-journey-as-a-full-stack-developer-4dib",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.",
+    "link": "https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)",
+    "link": "https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Multi-Vendor Marketplace From Scratch: Lessons From 30,000 Lines of React",
+    "link": "https://dev.to/faizullahpk/building-a-multi-vendor-marketplace-from-scratch-lessons-from-30000-lines-of-react-22ch",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scalable Frontend Architectures for Enterprise Next.js Applications",
+    "link": "https://dev.to/ufomadu_nnaemeka_89/scalable-frontend-architectures-for-enterprise-nextjs-applications-40pd",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting React Native File Systems: Meet rn-file-toolkit",
+    "link": "https://dev.to/rohit_chavan_ee3aebf1d592/stop-fighting-react-native-file-systems-meet-rn-file-toolkit-3aag",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Jedi's Guide to Scaling Node.js APIs with Express: From Padawan to Master",
+    "link": "https://dev.to/timevolt/the-jedis-guide-to-scaling-nodejs-apis-with-express-from-padawan-to-master-2939",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bulletproof React Forms: Zod & React Hook Form ⚡",
+    "link": "https://dev.to/iprajapatiparesh/bulletproof-react-forms-zod-react-hook-form-205j",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I open-sourced the financial charting library we use in production",
+    "link": "https://dev.to/katomek/i-open-sourced-the-financial-charting-library-we-use-in-production-1hh9",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Create Pixel Launcher Style App Open Animations in React Native",
+    "link": "https://dev.to/sourabh_09_04/how-to-create-pixel-launcher-style-app-open-animations-in-react-native-5b52",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you",
+    "link": "https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-5coc",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Hardcoding SVGs in Your Components. Here's a Better Workflow.",
+    "link": "https://dev.to/pooja_verma_1e3855946e114/stop-hardcoding-svgs-in-your-components-heres-a-better-workflow-4c7f",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From MERN to Next.js: My Journey as a Full Stack Developer",
+    "link": "https://dev.to/pawan_vishwakarma_54577b8/from-mern-to-nextjs-my-journey-as-a-full-stack-developer-4dib",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.",
+    "link": "https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)",
+    "link": "https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Multi-Vendor Marketplace From Scratch: Lessons From 30,000 Lines of React",
+    "link": "https://dev.to/faizullahpk/building-a-multi-vendor-marketplace-from-scratch-lessons-from-30000-lines-of-react-22ch",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scalable Frontend Architectures for Enterprise Next.js Applications",
+    "link": "https://dev.to/ufomadu_nnaemeka_89/scalable-frontend-architectures-for-enterprise-nextjs-applications-40pd",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting React Native File Systems: Meet rn-file-toolkit",
+    "link": "https://dev.to/rohit_chavan_ee3aebf1d592/stop-fighting-react-native-file-systems-meet-rn-file-toolkit-3aag",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Jedi's Guide to Scaling Node.js APIs with Express: From Padawan to Master",
+    "link": "https://dev.to/timevolt/the-jedis-guide-to-scaling-nodejs-apis-with-express-from-padawan-to-master-2939",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bulletproof React Forms: Zod & React Hook Form ⚡",
+    "link": "https://dev.to/iprajapatiparesh/bulletproof-react-forms-zod-react-hook-form-205j",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I open-sourced the financial charting library we use in production",
+    "link": "https://dev.to/katomek/i-open-sourced-the-financial-charting-library-we-use-in-production-1hh9",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Create Pixel Launcher Style App Open Animations in React Native",
+    "link": "https://dev.to/sourabh_09_04/how-to-create-pixel-launcher-style-app-open-animations-in-react-native-5b52",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you",
+    "link": "https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-5coc",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Hardcoding SVGs in Your Components. Here's a Better Workflow.",
+    "link": "https://dev.to/pooja_verma_1e3855946e114/stop-hardcoding-svgs-in-your-components-heres-a-better-workflow-4c7f",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From MERN to Next.js: My Journey as a Full Stack Developer",
+    "link": "https://dev.to/pawan_vishwakarma_54577b8/from-mern-to-nextjs-my-journey-as-a-full-stack-developer-4dib",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We Added React Doctor to Our UI Kit Monorepo. Here's What It Found.",
+    "link": "https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I built a mind map that's just a Markdown list (and why that makes AI streaming almost free)",
+    "link": "https://dev.to/amery2010/how-i-built-a-mind-map-thats-just-a-markdown-list-and-why-that-makes-ai-streaming-almost-free-5g30",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Multi-Vendor Marketplace From Scratch: Lessons From 30,000 Lines of React",
+    "link": "https://dev.to/faizullahpk/building-a-multi-vendor-marketplace-from-scratch-lessons-from-30000-lines-of-react-22ch",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Scalable Frontend Architectures for Enterprise Next.js Applications",
+    "link": "https://dev.to/ufomadu_nnaemeka_89/scalable-frontend-architectures-for-enterprise-nextjs-applications-40pd",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting React Native File Systems: Meet rn-file-toolkit",
+    "link": "https://dev.to/rohit_chavan_ee3aebf1d592/stop-fighting-react-native-file-systems-meet-rn-file-toolkit-3aag",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Jedi's Guide to Scaling Node.js APIs with Express: From Padawan to Master",
+    "link": "https://dev.to/timevolt/the-jedis-guide-to-scaling-nodejs-apis-with-express-from-padawan-to-master-2939",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bulletproof React Forms: Zod & React Hook Form ⚡",
+    "link": "https://dev.to/iprajapatiparesh/bulletproof-react-forms-zod-react-hook-form-205j",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I open-sourced the financial charting library we use in production",
+    "link": "https://dev.to/katomek/i-open-sourced-the-financial-charting-library-we-use-in-production-1hh9",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Create Pixel Launcher Style App Open Animations in React Native",
+    "link": "https://dev.to/sourabh_09_04/how-to-create-pixel-launcher-style-app-open-animations-in-react-native-5b52",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js 14: 'Could not find the module in the React Client Manifest' — the real cause nobody tells you",
+    "link": "https://dev.to/junhee916/nextjs-14-could-not-find-the-module-in-the-react-client-manifest-the-real-cause-nobody-tells-5coc",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Hardcoding SVGs in Your Components. Here's a Better Workflow.",
+    "link": "https://dev.to/pooja_verma_1e3855946e114/stop-hardcoding-svgs-in-your-components-heres-a-better-workflow-4c7f",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From MERN to Next.js: My Journey as a Full Stack Developer",
+    "link": "https://dev.to/pawan_vishwakarma_54577b8/from-mern-to-nextjs-my-journey-as-a-full-stack-developer-4dib",
+    "date": "6/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a timezone-safe 52-week planning grid in React",
+    "link": "https://dev.to/asef_ratul_39de51d6fc05e6/building-a-timezone-safe-52-week-planning-grid-in-react-1438",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a free AI nutrition tracker as a solo dev — here's what I learned",
-    "link": "https://dev.to/ikoft1/i-built-a-free-ai-nutrition-tracker-as-a-solo-dev-heres-what-i-learned-1c29",
+    "title": "The Ins and Outs of Closings",
+    "link": "https://dev.to/shaynaproductions/the-ins-and-outs-of-closings-3kl7",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Loading State That Doesn't Feel Slow — Lessons From an AI Generation Tool",
-    "link": "https://dev.to/aon_infotech_3a1b6ff525fc/building-a-loading-state-that-doesnt-feel-slow-lessons-from-an-ai-generation-tool-4ed",
+    "title": "React 19 Concurrent Rendering Deep Dive: Actions, Transitions, and Suspense in Production",
+    "link": "https://dev.to/jsmanifest/react-19-concurrent-rendering-deep-dive-actions-transitions-and-suspense-in-production-4kc1",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "Testing & Debugging React Apps — Write Code You Can Actually Trust",
-    "link": "https://dev.to/kushang_tailor/testing-debugging-react-apps-write-code-you-can-actually-trust-5334",
+    "title": "Building a timezone-safe 52-week planning grid in React",
+    "link": "https://dev.to/asef_ratul_39de51d6fc05e6/building-a-timezone-safe-52-week-planning-grid-in-react-1438",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "5 TypeScript Patterns Every Large React Application Should Use",
-    "link": "https://dev.to/sharma572/5-typescript-patterns-every-large-react-application-should-use-52pd",
+    "title": "The Ins and Outs of Closings",
+    "link": "https://dev.to/shaynaproductions/the-ins-and-outs-of-closings-3kl7",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "How We Render 1 Million Rows Without Breaking a Sweat — Inside EliteGrid's Virtual Scrolling Engine",
-    "link": "https://dev.to/elitegrid/how-we-render-1-million-rows-without-breaking-a-sweat-inside-elitegrids-virtual-scrolling-engine-4j79",
+    "title": "React 19 Concurrent Rendering Deep Dive: Actions, Transitions, and Suspense in Production",
+    "link": "https://dev.to/jsmanifest/react-19-concurrent-rendering-deep-dive-actions-transitions-and-suspense-in-production-4kc1",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "Single-page Claude writes beautifully. At 5 pages it drifts. Here's the harness I built.",
-    "link": "https://dev.to/xiaolangtizi/single-page-claude-writes-beautifully-at-5-pages-it-drifts-heres-the-harness-i-built-4cdn",
+    "title": "Building a timezone-safe 52-week planning grid in React",
+    "link": "https://dev.to/asef_ratul_39de51d6fc05e6/building-a-timezone-safe-52-week-planning-grid-in-react-1438",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop Blocking the UI: Interruptible Rendering in React ⚡",
-    "link": "https://dev.to/iprajapatiparesh/stop-blocking-the-ui-interruptible-rendering-in-react-32mb",
+    "title": "The Ins and Outs of Closings",
+    "link": "https://dev.to/shaynaproductions/the-ins-and-outs-of-closings-3kl7",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "How we built a medicine-substitution engine that refuses to be clever",
-    "link": "https://dev.to/aman_sachan_126d19c4a2773/how-we-built-a-medicine-substitution-engine-that-refuses-to-be-clever-3khd",
+    "title": "React 19 Concurrent Rendering Deep Dive: Actions, Transitions, and Suspense in Production",
+    "link": "https://dev.to/jsmanifest/react-19-concurrent-rendering-deep-dive-actions-transitions-and-suspense-in-production-4kc1",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "Build a Real-Time Crypto Trading Dashboard with Python, React, and WebSockets",
-    "link": "https://dev.to/marketmastersai/build-a-real-time-crypto-trading-dashboard-with-python-react-and-websockets-4i9h",
+    "title": "Building a timezone-safe 52-week planning grid in React",
+    "link": "https://dev.to/asef_ratul_39de51d6fc05e6/building-a-timezone-safe-52-week-planning-grid-in-react-1438",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "Beyond the Div: Leveraging Semantic HTML to Solve Complex ARIA Failures in Modern React Applications",
-    "link": "https://dev.to/priya_nair/beyond-the-div-leveraging-semantic-html-to-solve-complex-aria-failures-in-modern-react-applications-1d59",
+    "title": "The Ins and Outs of Closings",
+    "link": "https://dev.to/shaynaproductions/the-ins-and-outs-of-closings-3kl7",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a free AI nutrition tracker as a solo dev — here's what I learned",
-    "link": "https://dev.to/ikoft1/i-built-a-free-ai-nutrition-tracker-as-a-solo-dev-heres-what-i-learned-1c29",
+    "title": "React 19 Concurrent Rendering Deep Dive: Actions, Transitions, and Suspense in Production",
+    "link": "https://dev.to/jsmanifest/react-19-concurrent-rendering-deep-dive-actions-transitions-and-suspense-in-production-4kc1",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building a Loading State That Doesn't Feel Slow — Lessons From an AI Generation Tool",
-    "link": "https://dev.to/aon_infotech_3a1b6ff525fc/building-a-loading-state-that-doesnt-feel-slow-lessons-from-an-ai-generation-tool-4ed",
+    "title": "Building a timezone-safe 52-week planning grid in React",
+    "link": "https://dev.to/asef_ratul_39de51d6fc05e6/building-a-timezone-safe-52-week-planning-grid-in-react-1438",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "Testing & Debugging React Apps — Write Code You Can Actually Trust",
-    "link": "https://dev.to/kushang_tailor/testing-debugging-react-apps-write-code-you-can-actually-trust-5334",
+    "title": "The Ins and Outs of Closings",
+    "link": "https://dev.to/shaynaproductions/the-ins-and-outs-of-closings-3kl7",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "5 TypeScript Patterns Every Large React Application Should Use",
-    "link": "https://dev.to/sharma572/5-typescript-patterns-every-large-react-application-should-use-52pd",
+    "title": "React 19 Concurrent Rendering Deep Dive: Actions, Transitions, and Suspense in Production",
+    "link": "https://dev.to/jsmanifest/react-19-concurrent-rendering-deep-dive-actions-transitions-and-suspense-in-production-4kc1",
     "date": "6/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "How We Render 1 Million Rows Without Breaking a Sweat — Inside EliteGrid's Virtual Scrolling Engine",
-    "link": "https://dev.to/elitegrid/how-we-render-1-million-rows-without-breaking-a-sweat-inside-elitegrids-virtual-scrolling-engine-4j79",
-    "date": "6/18/2026",
-    "site": "dev.to"
+    "title": "Building Dynamic Forms In React And Next.js",
+    "link": "https://www.smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+    "reading_time": "14 min read",
+    "date": "3/10/2026",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Single-page Claude writes beautifully. At 5 pages it drifts. Here's the harness I built.",
-    "link": "https://dev.to/xiaolangtizi/single-page-claude-writes-beautifully-at-5-pages-it-drifts-heres-the-harness-i-built-4cdn",
-    "date": "6/18/2026",
-    "site": "dev.to"
+    "title": "Adaptive Video Streaming With Dash.js In React",
+    "link": "https://www.smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+    "reading_time": "9 min read",
+    "date": "3/27/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Stop Blocking the UI: Interruptible Rendering in React ⚡",
-    "link": "https://dev.to/iprajapatiparesh/stop-blocking-the-ui-interruptible-rendering-in-react-32mb",
-    "date": "6/18/2026",
-    "site": "dev.to"
+    "title": "The Forensics Of React Server Components (RSCs)",
+    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
+    "reading_time": "24 min read",
+    "date": "5/9/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "How we built a medicine-substitution engine that refuses to be clever",
-    "link": "https://dev.to/aman_sachan_126d19c4a2773/how-we-built-a-medicine-substitution-engine-that-refuses-to-be-clever-3khd",
-    "date": "6/18/2026",
-    "site": "dev.to"
+    "title": "The End Of My Gatsby Journey",
+    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
+    "reading_time": "16 min read",
+    "date": "3/6/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Build a Real-Time Crypto Trading Dashboard with Python, React, and WebSockets",
-    "link": "https://dev.to/marketmastersai/build-a-real-time-crypto-trading-dashboard-with-python-react-and-websockets-4i9h",
-    "date": "6/18/2026",
-    "site": "dev.to"
+    "title": "Making Sense Of “Senseless” JavaScript Features",
+    "link": "https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
+    "reading_time": "14 min read",
+    "date": "12/28/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Beyond the Div: Leveraging Semantic HTML to Solve Complex ARIA Failures in Modern React Applications",
-    "link": "https://dev.to/priya_nair/beyond-the-div-leveraging-semantic-html-to-solve-complex-aria-failures-in-modern-react-applications-1d59",
-    "date": "6/18/2026",
-    "site": "dev.to"
+    "title": "An Introduction To Full Stack Composability",
+    "link": "https://www.smashingmagazine.com/2023/11/introduction-full-stack-composability/",
+    "reading_time": "9 min read",
+    "date": "11/23/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "I built a free AI nutrition tracker as a solo dev — here's what I learned",
-    "link": "https://dev.to/ikoft1/i-built-a-free-ai-nutrition-tracker-as-a-solo-dev-heres-what-i-learned-1c29",
-    "date": "6/18/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 2)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
+    "reading_time": "23 min read",
+    "date": "10/16/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Building a Loading State That Doesn't Feel Slow — Lessons From an AI Generation Tool",
-    "link": "https://dev.to/aon_infotech_3a1b6ff525fc/building-a-loading-state-that-doesnt-feel-slow-lessons-from-an-ai-generation-tool-4ed",
-    "date": "6/18/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 1)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
+    "reading_time": "17 min read",
+    "date": "10/9/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Testing & Debugging React Apps — Write Code You Can Actually Trust",
-    "link": "https://dev.to/kushang_tailor/testing-debugging-react-apps-write-code-you-can-actually-trust-5334",
-    "date": "6/18/2026",
-    "site": "dev.to"
+    "title": "Meet Codux: The React Visual Editor That Improves Developer Experience",
+    "link": "https://www.smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
+    "reading_time": "7 min read",
+    "date": "6/15/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "5 TypeScript Patterns Every Large React Application Should Use",
-    "link": "https://dev.to/sharma572/5-typescript-patterns-every-large-react-application-should-use-52pd",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Render 1 Million Rows Without Breaking a Sweat — Inside EliteGrid's Virtual Scrolling Engine",
-    "link": "https://dev.to/elitegrid/how-we-render-1-million-rows-without-breaking-a-sweat-inside-elitegrids-virtual-scrolling-engine-4j79",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single-page Claude writes beautifully. At 5 pages it drifts. Here's the harness I built.",
-    "link": "https://dev.to/xiaolangtizi/single-page-claude-writes-beautifully-at-5-pages-it-drifts-heres-the-harness-i-built-4cdn",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Blocking the UI: Interruptible Rendering in React ⚡",
-    "link": "https://dev.to/iprajapatiparesh/stop-blocking-the-ui-interruptible-rendering-in-react-32mb",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How we built a medicine-substitution engine that refuses to be clever",
-    "link": "https://dev.to/aman_sachan_126d19c4a2773/how-we-built-a-medicine-substitution-engine-that-refuses-to-be-clever-3khd",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Real-Time Crypto Trading Dashboard with Python, React, and WebSockets",
-    "link": "https://dev.to/marketmastersai/build-a-real-time-crypto-trading-dashboard-with-python-react-and-websockets-4i9h",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Beyond the Div: Leveraging Semantic HTML to Solve Complex ARIA Failures in Modern React Applications",
-    "link": "https://dev.to/priya_nair/beyond-the-div-leveraging-semantic-html-to-solve-complex-aria-failures-in-modern-react-applications-1d59",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free AI nutrition tracker as a solo dev — here's what I learned",
-    "link": "https://dev.to/ikoft1/i-built-a-free-ai-nutrition-tracker-as-a-solo-dev-heres-what-i-learned-1c29",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Loading State That Doesn't Feel Slow — Lessons From an AI Generation Tool",
-    "link": "https://dev.to/aon_infotech_3a1b6ff525fc/building-a-loading-state-that-doesnt-feel-slow-lessons-from-an-ai-generation-tool-4ed",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing & Debugging React Apps — Write Code You Can Actually Trust",
-    "link": "https://dev.to/kushang_tailor/testing-debugging-react-apps-write-code-you-can-actually-trust-5334",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 TypeScript Patterns Every Large React Application Should Use",
-    "link": "https://dev.to/sharma572/5-typescript-patterns-every-large-react-application-should-use-52pd",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Render 1 Million Rows Without Breaking a Sweat — Inside EliteGrid's Virtual Scrolling Engine",
-    "link": "https://dev.to/elitegrid/how-we-render-1-million-rows-without-breaking-a-sweat-inside-elitegrids-virtual-scrolling-engine-4j79",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single-page Claude writes beautifully. At 5 pages it drifts. Here's the harness I built.",
-    "link": "https://dev.to/xiaolangtizi/single-page-claude-writes-beautifully-at-5-pages-it-drifts-heres-the-harness-i-built-4cdn",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Blocking the UI: Interruptible Rendering in React ⚡",
-    "link": "https://dev.to/iprajapatiparesh/stop-blocking-the-ui-interruptible-rendering-in-react-32mb",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How we built a medicine-substitution engine that refuses to be clever",
-    "link": "https://dev.to/aman_sachan_126d19c4a2773/how-we-built-a-medicine-substitution-engine-that-refuses-to-be-clever-3khd",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Real-Time Crypto Trading Dashboard with Python, React, and WebSockets",
-    "link": "https://dev.to/marketmastersai/build-a-real-time-crypto-trading-dashboard-with-python-react-and-websockets-4i9h",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Beyond the Div: Leveraging Semantic HTML to Solve Complex ARIA Failures in Modern React Applications",
-    "link": "https://dev.to/priya_nair/beyond-the-div-leveraging-semantic-html-to-solve-complex-aria-failures-in-modern-react-applications-1d59",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free AI nutrition tracker as a solo dev — here's what I learned",
-    "link": "https://dev.to/ikoft1/i-built-a-free-ai-nutrition-tracker-as-a-solo-dev-heres-what-i-learned-1c29",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Loading State That Doesn't Feel Slow — Lessons From an AI Generation Tool",
-    "link": "https://dev.to/aon_infotech_3a1b6ff525fc/building-a-loading-state-that-doesnt-feel-slow-lessons-from-an-ai-generation-tool-4ed",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Testing & Debugging React Apps — Write Code You Can Actually Trust",
-    "link": "https://dev.to/kushang_tailor/testing-debugging-react-apps-write-code-you-can-actually-trust-5334",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "5 TypeScript Patterns Every Large React Application Should Use",
-    "link": "https://dev.to/sharma572/5-typescript-patterns-every-large-react-application-should-use-52pd",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Render 1 Million Rows Without Breaking a Sweat — Inside EliteGrid's Virtual Scrolling Engine",
-    "link": "https://dev.to/elitegrid/how-we-render-1-million-rows-without-breaking-a-sweat-inside-elitegrids-virtual-scrolling-engine-4j79",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Single-page Claude writes beautifully. At 5 pages it drifts. Here's the harness I built.",
-    "link": "https://dev.to/xiaolangtizi/single-page-claude-writes-beautifully-at-5-pages-it-drifts-heres-the-harness-i-built-4cdn",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Blocking the UI: Interruptible Rendering in React ⚡",
-    "link": "https://dev.to/iprajapatiparesh/stop-blocking-the-ui-interruptible-rendering-in-react-32mb",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How we built a medicine-substitution engine that refuses to be clever",
-    "link": "https://dev.to/aman_sachan_126d19c4a2773/how-we-built-a-medicine-substitution-engine-that-refuses-to-be-clever-3khd",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Real-Time Crypto Trading Dashboard with Python, React, and WebSockets",
-    "link": "https://dev.to/marketmastersai/build-a-real-time-crypto-trading-dashboard-with-python-react-and-websockets-4i9h",
-    "date": "6/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building the Frontend of POS Lite with React, Next.js and Material UI",
-    "link": "https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DRY is not for UI",
-    "link": "https://dev.to/oleks_samurai/dry-is-not-for-ui-9eb",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent",
-    "link": "https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I've worked on this side project for over a year now: ZemDomu, a semantic linter for HTML/JSX/TSX and Vue",
-    "link": "https://dev.to/zemdomu/ive-worked-on-this-side-project-for-over-a-year-now-zemdomu-a-semantic-linter-for-htmljsxtsx-ij7",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-4kgp",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building the Frontend of POS Lite with React, Next.js and Material UI",
-    "link": "https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DRY is not for UI",
-    "link": "https://dev.to/oleks_samurai/dry-is-not-for-ui-9eb",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent",
-    "link": "https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I've worked on this side project for over a year now: ZemDomu, a semantic linter for HTML/JSX/TSX and Vue",
-    "link": "https://dev.to/zemdomu/ive-worked-on-this-side-project-for-over-a-year-now-zemdomu-a-semantic-linter-for-htmljsxtsx-ij7",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-4kgp",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building the Frontend of POS Lite with React, Next.js and Material UI",
-    "link": "https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DRY is not for UI",
-    "link": "https://dev.to/oleks_samurai/dry-is-not-for-ui-9eb",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent",
-    "link": "https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I've worked on this side project for over a year now: ZemDomu, a semantic linter for HTML/JSX/TSX and Vue",
-    "link": "https://dev.to/zemdomu/ive-worked-on-this-side-project-for-over-a-year-now-zemdomu-a-semantic-linter-for-htmljsxtsx-ij7",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-4kgp",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building the Frontend of POS Lite with React, Next.js and Material UI",
-    "link": "https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DRY is not for UI",
-    "link": "https://dev.to/oleks_samurai/dry-is-not-for-ui-9eb",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent",
-    "link": "https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I've worked on this side project for over a year now: ZemDomu, a semantic linter for HTML/JSX/TSX and Vue",
-    "link": "https://dev.to/zemdomu/ive-worked-on-this-side-project-for-over-a-year-now-zemdomu-a-semantic-linter-for-htmljsxtsx-ij7",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-4kgp",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building the Frontend of POS Lite with React, Next.js and Material UI",
-    "link": "https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "DRY is not for UI",
-    "link": "https://dev.to/oleks_samurai/dry-is-not-for-ui-9eb",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent",
-    "link": "https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I've worked on this side project for over a year now: ZemDomu, a semantic linter for HTML/JSX/TSX and Vue",
-    "link": "https://dev.to/zemdomu/ive-worked-on-this-side-project-for-over-a-year-now-zemdomu-a-semantic-linter-for-htmljsxtsx-ij7",
-    "date": "6/17/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-4kgp",
-    "date": "6/17/2026",
-    "site": "dev.to"
+    "title": "A Guide To Redux Toolkit With TypeScript",
+    "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
+    "reading_time": "16 min read",
+    "date": "5/10/2023",
+    "site": "smashingmagazine"
   },
   {
     "title": "The Safest Way To Hide Your API Keys When Using React",
@@ -508,7 +578,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
@@ -517,76 +587,6 @@
     "link": "https://www.smashingmagazine.com/2022/07/testable-frontend-architecture/",
     "reading_time": "12 min read",
     "date": "7/28/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Remix Routes Demystified",
-    "link": "https://www.smashingmagazine.com/2022/03/remix-routes-demystified/",
-    "reading_time": "13 min read",
-    "date": "3/25/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
-    "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
-    "reading_time": "21 min read",
-    "date": "3/9/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 1)",
-    "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/",
-    "reading_time": "24 min read",
-    "date": "3/2/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "What Web Frameworks Solve: The Vanilla Alternative (Part 2)",
-    "link": "https://www.smashingmagazine.com/2022/02/web-frameworks-guide-part2/",
-    "reading_time": "17 min read",
-    "date": "2/4/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "React State Management Using Easy Peasy",
-    "link": "https://www.smashingmagazine.com/2022/02/react-state-management-easy-peasy/",
-    "reading_time": "19 min read",
-    "date": "2/1/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "What Web Frameworks Solve And How To Do Without Them (Part 1)",
-    "link": "https://www.smashingmagazine.com/2022/01/web-frameworks-guide-part1/",
-    "reading_time": "9 min read",
-    "date": "1/28/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Building The Real App With React Query",
-    "link": "https://www.smashingmagazine.com/2022/01/building-real-app-react-query/",
-    "reading_time": "24 min read",
-    "date": "1/20/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Building A Web Code Editor",
-    "link": "https://www.smashingmagazine.com/2022/01/building-web-code-editor/",
-    "reading_time": "22 min read",
-    "date": "1/13/2022",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
-    "link": "https://www.smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
-    "reading_time": "24 min read",
-    "date": "12/17/2021",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "3D CSS Flippy Snaps With React And GreenSock",
-    "link": "https://www.smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
-    "reading_time": "14 min read",
-    "date": "11/29/2021",
     "site": "smashingmagazine"
   },
   {
@@ -627,7 +627,7 @@
   {
     "title": "Compound Components In React",
     "link": "https://www.smashingmagazine.com/2021/08/compound-components-react/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "8/27/2021",
     "site": "smashingmagazine"
   },
@@ -648,7 +648,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -697,7 +697,7 @@
   {
     "title": "Building A Web App With React, Redux And Sanity.io",
     "link": "https://www.smashingmagazine.com/2021/02/web-app-react-redux-sanity-io/",
-    "reading_time": "34 min read",
+    "reading_time": "35 min read",
     "date": "2/11/2021",
     "site": "smashingmagazine"
   },
