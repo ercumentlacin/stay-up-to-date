@@ -1,85 +1,433 @@
 [
   {
+    "title": "Everyone's migrating to Playwright. But why, actually?",
+    "link": "https://dev.to/srinath_qa/everyones-migrating-to-playwright-but-why-actually-1l09",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# Understanding JavaScript Closures Through Call Stack, Heap Memory & `[[Scopes]]`",
+    "link": "https://dev.to/gauravsingh7x/-understanding-javascript-closures-through-call-stack-heap-memory-scopes-5gha",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Free AI Grammar Checker That Runs Entirely in the Browser",
+    "link": "https://dev.to/dayu2333jinyul/i-built-a-free-ai-grammar-checker-that-runs-entirely-in-the-browser-cec",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Destructuring in JavaScript",
+    "link": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-43an",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Development Best Practices That Actually Matter in Production",
+    "link": "https://dev.to/jas_duenas/web-development-best-practices-that-actually-matter-in-production-7e5",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Converting WebP to PNG Isn't Just Save As",
+    "link": "https://dev.to/jamiepark-design/why-converting-webp-to-png-isnt-just-save-as-1alj",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Destructuring in JavaScript",
+    "link": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-4f6o",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I lost months of Google indexing to a single missing UA pattern",
+    "link": "https://dev.to/noctias/i-lost-months-of-google-indexing-to-a-single-missing-ua-pattern-9a9",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Impossible States: State Machines in React ⚡",
+    "link": "https://dev.to/iprajapatiparesh/stop-impossible-states-state-machines-in-react-3djn",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Looping in JS",
+    "link": "https://dev.to/gunalan22082002/looping-in-js-140m",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Free Online PDF Converter with Next.js: What I Learned",
+    "link": "https://dev.to/basit_chingisi/building-a-free-online-pdf-converter-with-nextjs-what-i-learned-3i0c",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Everyone's migrating to Playwright. But why, actually?",
+    "link": "https://dev.to/srinath_qa/everyones-migrating-to-playwright-but-why-actually-1l09",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# Understanding JavaScript Closures Through Call Stack, Heap Memory & `[[Scopes]]`",
+    "link": "https://dev.to/gauravsingh7x/-understanding-javascript-closures-through-call-stack-heap-memory-scopes-5gha",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Free AI Grammar Checker That Runs Entirely in the Browser",
+    "link": "https://dev.to/dayu2333jinyul/i-built-a-free-ai-grammar-checker-that-runs-entirely-in-the-browser-cec",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Destructuring in JavaScript",
+    "link": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-43an",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Development Best Practices That Actually Matter in Production",
+    "link": "https://dev.to/jas_duenas/web-development-best-practices-that-actually-matter-in-production-7e5",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Converting WebP to PNG Isn't Just Save As",
+    "link": "https://dev.to/jamiepark-design/why-converting-webp-to-png-isnt-just-save-as-1alj",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Destructuring in JavaScript",
+    "link": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-4f6o",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I lost months of Google indexing to a single missing UA pattern",
+    "link": "https://dev.to/noctias/i-lost-months-of-google-indexing-to-a-single-missing-ua-pattern-9a9",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Impossible States: State Machines in React ⚡",
+    "link": "https://dev.to/iprajapatiparesh/stop-impossible-states-state-machines-in-react-3djn",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Looping in JS",
+    "link": "https://dev.to/gunalan22082002/looping-in-js-140m",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Free Online PDF Converter with Next.js: What I Learned",
+    "link": "https://dev.to/basit_chingisi/building-a-free-online-pdf-converter-with-nextjs-what-i-learned-3i0c",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Everyone's migrating to Playwright. But why, actually?",
+    "link": "https://dev.to/srinath_qa/everyones-migrating-to-playwright-but-why-actually-1l09",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# Understanding JavaScript Closures Through Call Stack, Heap Memory & `[[Scopes]]`",
+    "link": "https://dev.to/gauravsingh7x/-understanding-javascript-closures-through-call-stack-heap-memory-scopes-5gha",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Free AI Grammar Checker That Runs Entirely in the Browser",
+    "link": "https://dev.to/dayu2333jinyul/i-built-a-free-ai-grammar-checker-that-runs-entirely-in-the-browser-cec",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Destructuring in JavaScript",
+    "link": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-43an",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Development Best Practices That Actually Matter in Production",
+    "link": "https://dev.to/jas_duenas/web-development-best-practices-that-actually-matter-in-production-7e5",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Converting WebP to PNG Isn't Just Save As",
+    "link": "https://dev.to/jamiepark-design/why-converting-webp-to-png-isnt-just-save-as-1alj",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Destructuring in JavaScript",
+    "link": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-4f6o",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I lost months of Google indexing to a single missing UA pattern",
+    "link": "https://dev.to/noctias/i-lost-months-of-google-indexing-to-a-single-missing-ua-pattern-9a9",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Impossible States: State Machines in React ⚡",
+    "link": "https://dev.to/iprajapatiparesh/stop-impossible-states-state-machines-in-react-3djn",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Looping in JS",
+    "link": "https://dev.to/gunalan22082002/looping-in-js-140m",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Free Online PDF Converter with Next.js: What I Learned",
+    "link": "https://dev.to/basit_chingisi/building-a-free-online-pdf-converter-with-nextjs-what-i-learned-3i0c",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Everyone's migrating to Playwright. But why, actually?",
+    "link": "https://dev.to/srinath_qa/everyones-migrating-to-playwright-but-why-actually-1l09",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# Understanding JavaScript Closures Through Call Stack, Heap Memory & `[[Scopes]]`",
+    "link": "https://dev.to/gauravsingh7x/-understanding-javascript-closures-through-call-stack-heap-memory-scopes-5gha",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Free AI Grammar Checker That Runs Entirely in the Browser",
+    "link": "https://dev.to/dayu2333jinyul/i-built-a-free-ai-grammar-checker-that-runs-entirely-in-the-browser-cec",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Destructuring in JavaScript",
+    "link": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-43an",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Development Best Practices That Actually Matter in Production",
+    "link": "https://dev.to/jas_duenas/web-development-best-practices-that-actually-matter-in-production-7e5",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Converting WebP to PNG Isn't Just Save As",
+    "link": "https://dev.to/jamiepark-design/why-converting-webp-to-png-isnt-just-save-as-1alj",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Destructuring in JavaScript",
+    "link": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-4f6o",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I lost months of Google indexing to a single missing UA pattern",
+    "link": "https://dev.to/noctias/i-lost-months-of-google-indexing-to-a-single-missing-ua-pattern-9a9",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Impossible States: State Machines in React ⚡",
+    "link": "https://dev.to/iprajapatiparesh/stop-impossible-states-state-machines-in-react-3djn",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Looping in JS",
+    "link": "https://dev.to/gunalan22082002/looping-in-js-140m",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Free Online PDF Converter with Next.js: What I Learned",
+    "link": "https://dev.to/basit_chingisi/building-a-free-online-pdf-converter-with-nextjs-what-i-learned-3i0c",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Everyone's migrating to Playwright. But why, actually?",
+    "link": "https://dev.to/srinath_qa/everyones-migrating-to-playwright-but-why-actually-1l09",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "# Understanding JavaScript Closures Through Call Stack, Heap Memory & `[[Scopes]]`",
+    "link": "https://dev.to/gauravsingh7x/-understanding-javascript-closures-through-call-stack-heap-memory-scopes-5gha",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Free AI Grammar Checker That Runs Entirely in the Browser",
+    "link": "https://dev.to/dayu2333jinyul/i-built-a-free-ai-grammar-checker-that-runs-entirely-in-the-browser-cec",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Destructuring in JavaScript",
+    "link": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-43an",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Web Development Best Practices That Actually Matter in Production",
+    "link": "https://dev.to/jas_duenas/web-development-best-practices-that-actually-matter-in-production-7e5",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Converting WebP to PNG Isn't Just Save As",
+    "link": "https://dev.to/jamiepark-design/why-converting-webp-to-png-isnt-just-save-as-1alj",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Destructuring in JavaScript",
+    "link": "https://dev.to/akash_kumar_50635a0669992/destructuring-in-javascript-4f6o",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I lost months of Google indexing to a single missing UA pattern",
+    "link": "https://dev.to/noctias/i-lost-months-of-google-indexing-to-a-single-missing-ua-pattern-9a9",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Impossible States: State Machines in React ⚡",
+    "link": "https://dev.to/iprajapatiparesh/stop-impossible-states-state-machines-in-react-3djn",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Looping in JS",
+    "link": "https://dev.to/gunalan22082002/looping-in-js-140m",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Free Online PDF Converter with Next.js: What I Learned",
+    "link": "https://dev.to/basit_chingisi/building-a-free-online-pdf-converter-with-nextjs-what-i-learned-3i0c",
+    "date": "6/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "_action: Declarative Event Handlers in an Attribute",
+    "link": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 JSON Mistakes Every Developer Makes",
+    "link": "https://dev.to/jsdevspace/25-json-mistakes-every-developer-makes-36e6",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets",
+    "link": "https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "_action: Declarative Event Handlers in an Attribute",
+    "link": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 JSON Mistakes Every Developer Makes",
+    "link": "https://dev.to/jsdevspace/25-json-mistakes-every-developer-makes-36e6",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets",
+    "link": "https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "_action: Declarative Event Handlers in an Attribute",
+    "link": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 JSON Mistakes Every Developer Makes",
+    "link": "https://dev.to/jsdevspace/25-json-mistakes-every-developer-makes-36e6",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets",
+    "link": "https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "_action: Declarative Event Handlers in an Attribute",
+    "link": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 JSON Mistakes Every Developer Makes",
+    "link": "https://dev.to/jsdevspace/25-json-mistakes-every-developer-makes-36e6",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets",
+    "link": "https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "_action: Declarative Event Handlers in an Attribute",
+    "link": "https://dev.to/jon49/action-declarative-event-handlers-in-an-attribute-3b35",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "25 JSON Mistakes Every Developer Makes",
+    "link": "https://dev.to/jsdevspace/25-json-mistakes-every-developer-makes-36e6",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets",
+    "link": "https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d",
+    "date": "6/25/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
     "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
     "date": "6/24/2026",
     "site": "dev.to"
   },
   {
-    "title": "The SEC has a free financial data API that nobody talks about",
-    "link": "https://dev.to/m0dus/the-sec-has-a-free-financial-data-api-that-nobody-talks-about-dfi",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Human-in-the-Loop Approval for AI Agent Crypto Payments",
-    "link": "https://dev.to/loai17/building-human-in-the-loop-approval-for-ai-agent-crypto-payments-49jd",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Client-Side Video Transcoding with FFmpeg.wasm — No Server Required",
-    "link": "https://dev.to/northbeamtech/client-side-video-transcoding-with-ffmpegwasm-no-server-required-4lj9",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Didn't Use an AST Parser in My AI Code Commenter (And Why That's the Right Call)",
-    "link": "https://dev.to/mwahaj36/why-i-didnt-use-an-ast-parser-in-my-ai-code-commenter-and-why-thats-the-right-call-233j",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Eclipse mechanics for programmers: turning ephemeris data into a \"next eclipse from here\" countdown",
-    "link": "https://dev.to/furiosastudio/eclipse-mechanics-for-programmers-turning-ephemeris-data-into-a-next-eclipse-from-here-countdown-2dbp",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your contrast checker probably lies about rgba() text",
-    "link": "https://dev.to/sgbp/your-contrast-checker-probably-lies-about-rgba-text-5h3i",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Git Commit Message Generator with AI (Here's What I Learned)",
-    "link": "https://dev.to/__c1b9e06dc90a7e0a676b/i-built-a-git-commit-message-generator-with-ai-heres-what-i-learned-2534",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lucide 1.0 removes brand icons and optimizes bundle size for millions of projects",
-    "link": "https://dev.to/davekurian/lucide-10-removes-brand-icons-and-optimizes-bundle-size-for-millions-of-projects-3n96",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What the JSON Formatter Leaks Taught Me About Browser-Side Tools",
-    "link": "https://dev.to/m-naoki-m/what-the-json-formatter-leaks-taught-me-about-browser-side-tools-38ao",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "camelCase vs PascalCase vs snake_case — The Complete Developer Decision Guide",
-    "link": "https://dev.to/techmind-click/camelcase-vs-pascalcase-vs-snakecase-the-complete-developer-decision-guide-2h19",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Free ACS Citation Generator for Chemistry Papers",
-    "link": "https://dev.to/david_bob/how-i-built-a-free-acs-citation-generator-for-chemistry-papers-4l26",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Array Iterations",
-    "link": "https://dev.to/madhanraj/javascript-array-iterations-4811",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "MetaMask, Wallets, and Why Ownership Actually Matters",
-    "link": "https://dev.to/srashti_a3904fc69ca75e7dd/metamask-wallets-and-why-ownership-actually-matters-5ejf",
+    "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
+    "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
     "date": "6/24/2026",
     "site": "dev.to"
   },
@@ -90,80 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "The SEC has a free financial data API that nobody talks about",
-    "link": "https://dev.to/m0dus/the-sec-has-a-free-financial-data-api-that-nobody-talks-about-dfi",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Human-in-the-Loop Approval for AI Agent Crypto Payments",
-    "link": "https://dev.to/loai17/building-human-in-the-loop-approval-for-ai-agent-crypto-payments-49jd",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Client-Side Video Transcoding with FFmpeg.wasm — No Server Required",
-    "link": "https://dev.to/northbeamtech/client-side-video-transcoding-with-ffmpegwasm-no-server-required-4lj9",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Didn't Use an AST Parser in My AI Code Commenter (And Why That's the Right Call)",
-    "link": "https://dev.to/mwahaj36/why-i-didnt-use-an-ast-parser-in-my-ai-code-commenter-and-why-thats-the-right-call-233j",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Eclipse mechanics for programmers: turning ephemeris data into a \"next eclipse from here\" countdown",
-    "link": "https://dev.to/furiosastudio/eclipse-mechanics-for-programmers-turning-ephemeris-data-into-a-next-eclipse-from-here-countdown-2dbp",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your contrast checker probably lies about rgba() text",
-    "link": "https://dev.to/sgbp/your-contrast-checker-probably-lies-about-rgba-text-5h3i",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Git Commit Message Generator with AI (Here's What I Learned)",
-    "link": "https://dev.to/__c1b9e06dc90a7e0a676b/i-built-a-git-commit-message-generator-with-ai-heres-what-i-learned-2534",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lucide 1.0 removes brand icons and optimizes bundle size for millions of projects",
-    "link": "https://dev.to/davekurian/lucide-10-removes-brand-icons-and-optimizes-bundle-size-for-millions-of-projects-3n96",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What the JSON Formatter Leaks Taught Me About Browser-Side Tools",
-    "link": "https://dev.to/m-naoki-m/what-the-json-formatter-leaks-taught-me-about-browser-side-tools-38ao",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "camelCase vs PascalCase vs snake_case — The Complete Developer Decision Guide",
-    "link": "https://dev.to/techmind-click/camelcase-vs-pascalcase-vs-snakecase-the-complete-developer-decision-guide-2h19",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Free ACS Citation Generator for Chemistry Papers",
-    "link": "https://dev.to/david_bob/how-i-built-a-free-acs-citation-generator-for-chemistry-papers-4l26",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Array Iterations",
-    "link": "https://dev.to/madhanraj/javascript-array-iterations-4811",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "MetaMask, Wallets, and Why Ownership Actually Matters",
-    "link": "https://dev.to/srashti_a3904fc69ca75e7dd/metamask-wallets-and-why-ownership-actually-matters-5ejf",
+    "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
+    "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
     "date": "6/24/2026",
     "site": "dev.to"
   },
@@ -172,352 +448,6 @@
     "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
     "date": "6/24/2026",
     "site": "dev.to"
-  },
-  {
-    "title": "The SEC has a free financial data API that nobody talks about",
-    "link": "https://dev.to/m0dus/the-sec-has-a-free-financial-data-api-that-nobody-talks-about-dfi",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Human-in-the-Loop Approval for AI Agent Crypto Payments",
-    "link": "https://dev.to/loai17/building-human-in-the-loop-approval-for-ai-agent-crypto-payments-49jd",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Client-Side Video Transcoding with FFmpeg.wasm — No Server Required",
-    "link": "https://dev.to/northbeamtech/client-side-video-transcoding-with-ffmpegwasm-no-server-required-4lj9",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Didn't Use an AST Parser in My AI Code Commenter (And Why That's the Right Call)",
-    "link": "https://dev.to/mwahaj36/why-i-didnt-use-an-ast-parser-in-my-ai-code-commenter-and-why-thats-the-right-call-233j",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Eclipse mechanics for programmers: turning ephemeris data into a \"next eclipse from here\" countdown",
-    "link": "https://dev.to/furiosastudio/eclipse-mechanics-for-programmers-turning-ephemeris-data-into-a-next-eclipse-from-here-countdown-2dbp",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your contrast checker probably lies about rgba() text",
-    "link": "https://dev.to/sgbp/your-contrast-checker-probably-lies-about-rgba-text-5h3i",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Git Commit Message Generator with AI (Here's What I Learned)",
-    "link": "https://dev.to/__c1b9e06dc90a7e0a676b/i-built-a-git-commit-message-generator-with-ai-heres-what-i-learned-2534",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lucide 1.0 removes brand icons and optimizes bundle size for millions of projects",
-    "link": "https://dev.to/davekurian/lucide-10-removes-brand-icons-and-optimizes-bundle-size-for-millions-of-projects-3n96",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What the JSON Formatter Leaks Taught Me About Browser-Side Tools",
-    "link": "https://dev.to/m-naoki-m/what-the-json-formatter-leaks-taught-me-about-browser-side-tools-38ao",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "camelCase vs PascalCase vs snake_case — The Complete Developer Decision Guide",
-    "link": "https://dev.to/techmind-click/camelcase-vs-pascalcase-vs-snakecase-the-complete-developer-decision-guide-2h19",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Free ACS Citation Generator for Chemistry Papers",
-    "link": "https://dev.to/david_bob/how-i-built-a-free-acs-citation-generator-for-chemistry-papers-4l26",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Array Iterations",
-    "link": "https://dev.to/madhanraj/javascript-array-iterations-4811",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "MetaMask, Wallets, and Why Ownership Actually Matters",
-    "link": "https://dev.to/srashti_a3904fc69ca75e7dd/metamask-wallets-and-why-ownership-actually-matters-5ejf",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
-    "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The SEC has a free financial data API that nobody talks about",
-    "link": "https://dev.to/m0dus/the-sec-has-a-free-financial-data-api-that-nobody-talks-about-dfi",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Human-in-the-Loop Approval for AI Agent Crypto Payments",
-    "link": "https://dev.to/loai17/building-human-in-the-loop-approval-for-ai-agent-crypto-payments-49jd",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Client-Side Video Transcoding with FFmpeg.wasm — No Server Required",
-    "link": "https://dev.to/northbeamtech/client-side-video-transcoding-with-ffmpegwasm-no-server-required-4lj9",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Didn't Use an AST Parser in My AI Code Commenter (And Why That's the Right Call)",
-    "link": "https://dev.to/mwahaj36/why-i-didnt-use-an-ast-parser-in-my-ai-code-commenter-and-why-thats-the-right-call-233j",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Eclipse mechanics for programmers: turning ephemeris data into a \"next eclipse from here\" countdown",
-    "link": "https://dev.to/furiosastudio/eclipse-mechanics-for-programmers-turning-ephemeris-data-into-a-next-eclipse-from-here-countdown-2dbp",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your contrast checker probably lies about rgba() text",
-    "link": "https://dev.to/sgbp/your-contrast-checker-probably-lies-about-rgba-text-5h3i",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Git Commit Message Generator with AI (Here's What I Learned)",
-    "link": "https://dev.to/__c1b9e06dc90a7e0a676b/i-built-a-git-commit-message-generator-with-ai-heres-what-i-learned-2534",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lucide 1.0 removes brand icons and optimizes bundle size for millions of projects",
-    "link": "https://dev.to/davekurian/lucide-10-removes-brand-icons-and-optimizes-bundle-size-for-millions-of-projects-3n96",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What the JSON Formatter Leaks Taught Me About Browser-Side Tools",
-    "link": "https://dev.to/m-naoki-m/what-the-json-formatter-leaks-taught-me-about-browser-side-tools-38ao",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "camelCase vs PascalCase vs snake_case — The Complete Developer Decision Guide",
-    "link": "https://dev.to/techmind-click/camelcase-vs-pascalcase-vs-snakecase-the-complete-developer-decision-guide-2h19",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Free ACS Citation Generator for Chemistry Papers",
-    "link": "https://dev.to/david_bob/how-i-built-a-free-acs-citation-generator-for-chemistry-papers-4l26",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Array Iterations",
-    "link": "https://dev.to/madhanraj/javascript-array-iterations-4811",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "MetaMask, Wallets, and Why Ownership Actually Matters",
-    "link": "https://dev.to/srashti_a3904fc69ca75e7dd/metamask-wallets-and-why-ownership-actually-matters-5ejf",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 New JavaScript Features (And 2 I'm Still Waiting For)",
-    "link": "https://dev.to/sylwia-lask/7-new-javascript-features-and-2-im-still-waiting-for-2ck8",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The SEC has a free financial data API that nobody talks about",
-    "link": "https://dev.to/m0dus/the-sec-has-a-free-financial-data-api-that-nobody-talks-about-dfi",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Human-in-the-Loop Approval for AI Agent Crypto Payments",
-    "link": "https://dev.to/loai17/building-human-in-the-loop-approval-for-ai-agent-crypto-payments-49jd",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Client-Side Video Transcoding with FFmpeg.wasm — No Server Required",
-    "link": "https://dev.to/northbeamtech/client-side-video-transcoding-with-ffmpegwasm-no-server-required-4lj9",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Didn't Use an AST Parser in My AI Code Commenter (And Why That's the Right Call)",
-    "link": "https://dev.to/mwahaj36/why-i-didnt-use-an-ast-parser-in-my-ai-code-commenter-and-why-thats-the-right-call-233j",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Eclipse mechanics for programmers: turning ephemeris data into a \"next eclipse from here\" countdown",
-    "link": "https://dev.to/furiosastudio/eclipse-mechanics-for-programmers-turning-ephemeris-data-into-a-next-eclipse-from-here-countdown-2dbp",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your contrast checker probably lies about rgba() text",
-    "link": "https://dev.to/sgbp/your-contrast-checker-probably-lies-about-rgba-text-5h3i",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Git Commit Message Generator with AI (Here's What I Learned)",
-    "link": "https://dev.to/__c1b9e06dc90a7e0a676b/i-built-a-git-commit-message-generator-with-ai-heres-what-i-learned-2534",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Lucide 1.0 removes brand icons and optimizes bundle size for millions of projects",
-    "link": "https://dev.to/davekurian/lucide-10-removes-brand-icons-and-optimizes-bundle-size-for-millions-of-projects-3n96",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What the JSON Formatter Leaks Taught Me About Browser-Side Tools",
-    "link": "https://dev.to/m-naoki-m/what-the-json-formatter-leaks-taught-me-about-browser-side-tools-38ao",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "camelCase vs PascalCase vs snake_case — The Complete Developer Decision Guide",
-    "link": "https://dev.to/techmind-click/camelcase-vs-pascalcase-vs-snakecase-the-complete-developer-decision-guide-2h19",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Free ACS Citation Generator for Chemistry Papers",
-    "link": "https://dev.to/david_bob/how-i-built-a-free-acs-citation-generator-for-chemistry-papers-4l26",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Array Iterations",
-    "link": "https://dev.to/madhanraj/javascript-array-iterations-4811",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "MetaMask, Wallets, and Why Ownership Actually Matters",
-    "link": "https://dev.to/srashti_a3904fc69ca75e7dd/metamask-wallets-and-why-ownership-actually-matters-5ejf",
-    "date": "6/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Node.js Mistake That Cost My Client $3,000 in AWS Bills",
-    "link": "https://dev.to/manolito99/the-nodejs-mistake-that-cost-my-client-3000-in-aws-bills-30a5",
-    "date": "6/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Node.js Mistake That Cost My Client $3,000 in AWS Bills",
-    "link": "https://dev.to/manolito99/the-nodejs-mistake-that-cost-my-client-3000-in-aws-bills-30a5",
-    "date": "6/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Node.js Mistake That Cost My Client $3,000 in AWS Bills",
-    "link": "https://dev.to/manolito99/the-nodejs-mistake-that-cost-my-client-3000-in-aws-bills-30a5",
-    "date": "6/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Node.js Mistake That Cost My Client $3,000 in AWS Bills",
-    "link": "https://dev.to/manolito99/the-nodejs-mistake-that-cost-my-client-3000-in-aws-bills-30a5",
-    "date": "6/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Node.js Mistake That Cost My Client $3,000 in AWS Bills",
-    "link": "https://dev.to/manolito99/the-nodejs-mistake-that-cost-my-client-3000-in-aws-bills-30a5",
-    "date": "6/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
-    "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-    "reading_time": "16 min read",
-    "date": "8/20/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "How To Build A Multilingual Website With Nuxt.js",
-    "link": "https://www.smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/",
-    "reading_time": "15 min read",
-    "date": "8/1/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
-    "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "11 min read",
-    "date": "6/20/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The Era Of Platform Primitives Is Finally Here",
-    "link": "https://www.smashingmagazine.com/2024/05/netlify-platform-primitives/",
-    "reading_time": "8 min read",
-    "date": "5/28/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The Forensics Of React Server Components (RSCs)",
-    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
-    "reading_time": "24 min read",
-    "date": "5/9/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Converting Plain Text To Encoded HTML With Vanilla JavaScript",
-    "link": "https://www.smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
-    "reading_time": "16 min read",
-    "date": "4/17/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
-    "link": "https://www.smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
-    "reading_time": "9 min read",
-    "date": "3/25/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "The End Of My Gatsby Journey",
-    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "17 min read",
-    "date": "3/6/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
-    "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "10 min read",
-    "date": "2/22/2024",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
-    "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "22 min read",
-    "date": "2/7/2024",
-    "site": "smashingmagazine"
   },
   {
     "title": "SolidStart: A Different Breed Of Meta-Framework",
@@ -578,14 +508,14 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
