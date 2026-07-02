@@ -1,453 +1,523 @@
 [
   {
-    "title": "What the React 19 codemod doesn't tell you",
-    "link": "https://dev.to/yj00793049/what-the-react-19-codemod-doesnt-tell-you-4lik",
+    "title": "The Invisible Frontend: Small Decisions That Quietly Save a Product",
+    "link": "https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router",
+    "link": "https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Asking \"React or Angular?\" Until You Can Answer This First",
+    "link": "https://dev.to/jessaa_dzn/stop-asking-react-or-angular-until-you-can-answer-this-first-o76",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Detect Google Indexing Issues Before They Hurt Your SEO",
+    "link": "https://dev.to/davitparkltd/how-to-detect-google-indexing-issues-before-they-hurt-your-seo-42fa",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Offline-First SaaS: IndexedDB in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/build-offline-first-saas-indexeddb-in-nextjs-d85",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Men's Summer Fashion Tips: Finding the Right Shorts Fit",
+    "link": "https://dev.to/davitparkltd/mens-summer-fashion-tips-finding-the-right-shorts-fit-o9d",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Invisible Frontend: Small Decisions That Quietly Save a Product",
+    "link": "https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router",
+    "link": "https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Asking \"React or Angular?\" Until You Can Answer This First",
+    "link": "https://dev.to/jessaa_dzn/stop-asking-react-or-angular-until-you-can-answer-this-first-o76",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Detect Google Indexing Issues Before They Hurt Your SEO",
+    "link": "https://dev.to/davitparkltd/how-to-detect-google-indexing-issues-before-they-hurt-your-seo-42fa",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Offline-First SaaS: IndexedDB in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/build-offline-first-saas-indexeddb-in-nextjs-d85",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Men's Summer Fashion Tips: Finding the Right Shorts Fit",
+    "link": "https://dev.to/davitparkltd/mens-summer-fashion-tips-finding-the-right-shorts-fit-o9d",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Invisible Frontend: Small Decisions That Quietly Save a Product",
+    "link": "https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router",
+    "link": "https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Asking \"React or Angular?\" Until You Can Answer This First",
+    "link": "https://dev.to/jessaa_dzn/stop-asking-react-or-angular-until-you-can-answer-this-first-o76",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Detect Google Indexing Issues Before They Hurt Your SEO",
+    "link": "https://dev.to/davitparkltd/how-to-detect-google-indexing-issues-before-they-hurt-your-seo-42fa",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Offline-First SaaS: IndexedDB in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/build-offline-first-saas-indexeddb-in-nextjs-d85",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Men's Summer Fashion Tips: Finding the Right Shorts Fit",
+    "link": "https://dev.to/davitparkltd/mens-summer-fashion-tips-finding-the-right-shorts-fit-o9d",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Invisible Frontend: Small Decisions That Quietly Save a Product",
+    "link": "https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router",
+    "link": "https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Asking \"React or Angular?\" Until You Can Answer This First",
+    "link": "https://dev.to/jessaa_dzn/stop-asking-react-or-angular-until-you-can-answer-this-first-o76",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Detect Google Indexing Issues Before They Hurt Your SEO",
+    "link": "https://dev.to/davitparkltd/how-to-detect-google-indexing-issues-before-they-hurt-your-seo-42fa",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Offline-First SaaS: IndexedDB in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/build-offline-first-saas-indexeddb-in-nextjs-d85",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Men's Summer Fashion Tips: Finding the Right Shorts Fit",
+    "link": "https://dev.to/davitparkltd/mens-summer-fashion-tips-finding-the-right-shorts-fit-o9d",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Invisible Frontend: Small Decisions That Quietly Save a Product",
+    "link": "https://dev.to/virendra2902/the-invisible-frontend-small-decisions-that-quietly-save-a-product-1pkl",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Share Everything Except the Route Tree: A Multi-Customer Monorepo with TanStack Router",
+    "link": "https://dev.to/cengizdonmez/share-everything-except-the-route-tree-a-multi-customer-monorepo-with-tanstack-router-2o5d",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Asking \"React or Angular?\" Until You Can Answer This First",
+    "link": "https://dev.to/jessaa_dzn/stop-asking-react-or-angular-until-you-can-answer-this-first-o76",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Detect Google Indexing Issues Before They Hurt Your SEO",
+    "link": "https://dev.to/davitparkltd/how-to-detect-google-indexing-issues-before-they-hurt-your-seo-42fa",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build Offline-First SaaS: IndexedDB in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/build-offline-first-saas-indexeddb-in-nextjs-d85",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Men's Summer Fashion Tips: Finding the Right Shorts Fit",
+    "link": "https://dev.to/davitparkltd/mens-summer-fashion-tips-finding-the-right-shorts-fit-o9d",
+    "date": "7/2/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates",
+    "link": "https://dev.to/bismay-exe/day-5-of-learning-react-understanding-automatic-batching-functional-updates-397k",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "A sign-up flow that writes itself — then hands you the pen",
-    "link": "https://dev.to/vivek_singh_india/a-sign-up-flow-that-writes-itself-then-hands-you-the-pen-492o",
+    "title": "Show Dev: Ergo-AI — 100% private 3D ergonomics RULA/REBA assessment in the browser",
+    "link": "https://dev.to/oldhero07/show-dev-ergo-ai-100-private-3d-ergonomics-rulareba-assessment-in-the-browser-4ddm",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js vs Remix vs SvelteKit: Which Framework Should You Learn?",
-    "link": "https://dev.to/etriti00_19/nextjs-vs-remix-vs-sveltekit-which-framework-should-you-learn-4e9i",
+    "title": "Global State in Next.js App Router — Zustand Over Context for Most Use Cases",
+    "link": "https://dev.to/aon_infotech_3a1b6ff525fc/global-state-in-nextjs-app-router-zustand-over-context-for-most-use-cases-1047",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "React's architectural accessibility gaps",
-    "link": "https://dev.to/chris_devto/reacts-architectural-accessibility-gaps-2d40",
+    "title": "I built a drop-in AI chatbot widget for React that works with any provider — here's why",
+    "link": "https://dev.to/pramith_vidusara_6c6880ec/i-built-a-drop-in-ai-chatbot-widget-for-react-that-works-with-any-provider-heres-why-2dl5",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Processing Millions of Rows: Web Workers in Next.js ⚡",
-    "link": "https://dev.to/iprajapatiparesh/processing-millions-of-rows-web-workers-in-nextjs-13j6",
+    "title": "I Built a Zero-Dependency React Rich Text Editor — Here's How to Use It",
+    "link": "https://dev.to/elango_13_a0b94c8e9b8dc65/i-built-a-zero-dependency-react-rich-text-editor-heres-how-to-use-it-92p",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Performance Optimization: From 3s to 0.8s Load Time",
-    "link": "https://dev.to/uaslimcreate/react-performance-optimization-from-3s-to-08s-load-time-1h0n",
+    "title": "Debugging React: From Taking a Deep Breath to Finding the Root Cause",
+    "link": "https://dev.to/bishoy_bishai/debugging-react-from-taking-a-deep-breath-to-finding-the-root-cause-124l",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Launching TOK: A 3D Interactive Tree of Knowledge Mapping Human Science (R3F + D3-Force)",
-    "link": "https://dev.to/japa_ringo_126a3bdea5fc37/launching-tok-a-3d-interactive-tree-of-knowledge-mapping-human-science-r3f-d3-force-38bl",
+    "title": "Backpropagation Is Just Dynamic Programming (I Animated It to Prove It)",
+    "link": "https://dev.to/amargul/backpropagation-is-just-dynamic-programming-i-animated-it-to-prove-it-4jhj",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js in 2026: App Router vs Pages Router — When to Migrate and How to Do It Safely",
-    "link": "https://dev.to/endurance-softwares/nextjs-in-2026-app-router-vs-pages-router-when-to-migrate-and-how-to-do-it-safely-31mh",
+    "title": "Debugging React: From Taking a Deep Breath to Finding the Root Cause",
+    "link": "https://dev.to/surajrkhonde/debugging-react-from-taking-a-deep-breath-to-finding-the-root-cause-4and",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Men's Footwear Guide: Sneakers, Loafers, Boots, and Dress Shoes Explained",
-    "link": "https://dev.to/davitparkltd/mens-footwear-guide-sneakers-loafers-boots-and-dress-shoes-explained-72b",
+    "title": "From Scratch to a Million Users: An Uncle Teaches React Architecture",
+    "link": "https://dev.to/surajrkhonde/from-scratch-to-a-million-users-an-uncle-teaches-react-architecture-4887",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "What the React 19 codemod doesn't tell you",
-    "link": "https://dev.to/yj00793049/what-the-react-19-codemod-doesnt-tell-you-4lik",
+    "title": "🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates",
+    "link": "https://dev.to/bismay-exe/day-5-of-learning-react-understanding-automatic-batching-functional-updates-397k",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "A sign-up flow that writes itself — then hands you the pen",
-    "link": "https://dev.to/vivek_singh_india/a-sign-up-flow-that-writes-itself-then-hands-you-the-pen-492o",
+    "title": "Show Dev: Ergo-AI — 100% private 3D ergonomics RULA/REBA assessment in the browser",
+    "link": "https://dev.to/oldhero07/show-dev-ergo-ai-100-private-3d-ergonomics-rulareba-assessment-in-the-browser-4ddm",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js vs Remix vs SvelteKit: Which Framework Should You Learn?",
-    "link": "https://dev.to/etriti00_19/nextjs-vs-remix-vs-sveltekit-which-framework-should-you-learn-4e9i",
+    "title": "Global State in Next.js App Router — Zustand Over Context for Most Use Cases",
+    "link": "https://dev.to/aon_infotech_3a1b6ff525fc/global-state-in-nextjs-app-router-zustand-over-context-for-most-use-cases-1047",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "React's architectural accessibility gaps",
-    "link": "https://dev.to/chris_devto/reacts-architectural-accessibility-gaps-2d40",
+    "title": "I built a drop-in AI chatbot widget for React that works with any provider — here's why",
+    "link": "https://dev.to/pramith_vidusara_6c6880ec/i-built-a-drop-in-ai-chatbot-widget-for-react-that-works-with-any-provider-heres-why-2dl5",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Processing Millions of Rows: Web Workers in Next.js ⚡",
-    "link": "https://dev.to/iprajapatiparesh/processing-millions-of-rows-web-workers-in-nextjs-13j6",
+    "title": "I Built a Zero-Dependency React Rich Text Editor — Here's How to Use It",
+    "link": "https://dev.to/elango_13_a0b94c8e9b8dc65/i-built-a-zero-dependency-react-rich-text-editor-heres-how-to-use-it-92p",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Performance Optimization: From 3s to 0.8s Load Time",
-    "link": "https://dev.to/uaslimcreate/react-performance-optimization-from-3s-to-08s-load-time-1h0n",
+    "title": "Debugging React: From Taking a Deep Breath to Finding the Root Cause",
+    "link": "https://dev.to/bishoy_bishai/debugging-react-from-taking-a-deep-breath-to-finding-the-root-cause-124l",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Launching TOK: A 3D Interactive Tree of Knowledge Mapping Human Science (R3F + D3-Force)",
-    "link": "https://dev.to/japa_ringo_126a3bdea5fc37/launching-tok-a-3d-interactive-tree-of-knowledge-mapping-human-science-r3f-d3-force-38bl",
+    "title": "Backpropagation Is Just Dynamic Programming (I Animated It to Prove It)",
+    "link": "https://dev.to/amargul/backpropagation-is-just-dynamic-programming-i-animated-it-to-prove-it-4jhj",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js in 2026: App Router vs Pages Router — When to Migrate and How to Do It Safely",
-    "link": "https://dev.to/endurance-softwares/nextjs-in-2026-app-router-vs-pages-router-when-to-migrate-and-how-to-do-it-safely-31mh",
+    "title": "Debugging React: From Taking a Deep Breath to Finding the Root Cause",
+    "link": "https://dev.to/surajrkhonde/debugging-react-from-taking-a-deep-breath-to-finding-the-root-cause-4and",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Men's Footwear Guide: Sneakers, Loafers, Boots, and Dress Shoes Explained",
-    "link": "https://dev.to/davitparkltd/mens-footwear-guide-sneakers-loafers-boots-and-dress-shoes-explained-72b",
+    "title": "From Scratch to a Million Users: An Uncle Teaches React Architecture",
+    "link": "https://dev.to/surajrkhonde/from-scratch-to-a-million-users-an-uncle-teaches-react-architecture-4887",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "What the React 19 codemod doesn't tell you",
-    "link": "https://dev.to/yj00793049/what-the-react-19-codemod-doesnt-tell-you-4lik",
+    "title": "🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates",
+    "link": "https://dev.to/bismay-exe/day-5-of-learning-react-understanding-automatic-batching-functional-updates-397k",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "A sign-up flow that writes itself — then hands you the pen",
-    "link": "https://dev.to/vivek_singh_india/a-sign-up-flow-that-writes-itself-then-hands-you-the-pen-492o",
+    "title": "Show Dev: Ergo-AI — 100% private 3D ergonomics RULA/REBA assessment in the browser",
+    "link": "https://dev.to/oldhero07/show-dev-ergo-ai-100-private-3d-ergonomics-rulareba-assessment-in-the-browser-4ddm",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js vs Remix vs SvelteKit: Which Framework Should You Learn?",
-    "link": "https://dev.to/etriti00_19/nextjs-vs-remix-vs-sveltekit-which-framework-should-you-learn-4e9i",
+    "title": "Global State in Next.js App Router — Zustand Over Context for Most Use Cases",
+    "link": "https://dev.to/aon_infotech_3a1b6ff525fc/global-state-in-nextjs-app-router-zustand-over-context-for-most-use-cases-1047",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "React's architectural accessibility gaps",
-    "link": "https://dev.to/chris_devto/reacts-architectural-accessibility-gaps-2d40",
+    "title": "I built a drop-in AI chatbot widget for React that works with any provider — here's why",
+    "link": "https://dev.to/pramith_vidusara_6c6880ec/i-built-a-drop-in-ai-chatbot-widget-for-react-that-works-with-any-provider-heres-why-2dl5",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Processing Millions of Rows: Web Workers in Next.js ⚡",
-    "link": "https://dev.to/iprajapatiparesh/processing-millions-of-rows-web-workers-in-nextjs-13j6",
+    "title": "I Built a Zero-Dependency React Rich Text Editor — Here's How to Use It",
+    "link": "https://dev.to/elango_13_a0b94c8e9b8dc65/i-built-a-zero-dependency-react-rich-text-editor-heres-how-to-use-it-92p",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Performance Optimization: From 3s to 0.8s Load Time",
-    "link": "https://dev.to/uaslimcreate/react-performance-optimization-from-3s-to-08s-load-time-1h0n",
+    "title": "Debugging React: From Taking a Deep Breath to Finding the Root Cause",
+    "link": "https://dev.to/bishoy_bishai/debugging-react-from-taking-a-deep-breath-to-finding-the-root-cause-124l",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Launching TOK: A 3D Interactive Tree of Knowledge Mapping Human Science (R3F + D3-Force)",
-    "link": "https://dev.to/japa_ringo_126a3bdea5fc37/launching-tok-a-3d-interactive-tree-of-knowledge-mapping-human-science-r3f-d3-force-38bl",
+    "title": "Backpropagation Is Just Dynamic Programming (I Animated It to Prove It)",
+    "link": "https://dev.to/amargul/backpropagation-is-just-dynamic-programming-i-animated-it-to-prove-it-4jhj",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js in 2026: App Router vs Pages Router — When to Migrate and How to Do It Safely",
-    "link": "https://dev.to/endurance-softwares/nextjs-in-2026-app-router-vs-pages-router-when-to-migrate-and-how-to-do-it-safely-31mh",
+    "title": "Debugging React: From Taking a Deep Breath to Finding the Root Cause",
+    "link": "https://dev.to/surajrkhonde/debugging-react-from-taking-a-deep-breath-to-finding-the-root-cause-4and",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Men's Footwear Guide: Sneakers, Loafers, Boots, and Dress Shoes Explained",
-    "link": "https://dev.to/davitparkltd/mens-footwear-guide-sneakers-loafers-boots-and-dress-shoes-explained-72b",
+    "title": "From Scratch to a Million Users: An Uncle Teaches React Architecture",
+    "link": "https://dev.to/surajrkhonde/from-scratch-to-a-million-users-an-uncle-teaches-react-architecture-4887",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "What the React 19 codemod doesn't tell you",
-    "link": "https://dev.to/yj00793049/what-the-react-19-codemod-doesnt-tell-you-4lik",
+    "title": "🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates",
+    "link": "https://dev.to/bismay-exe/day-5-of-learning-react-understanding-automatic-batching-functional-updates-397k",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "A sign-up flow that writes itself — then hands you the pen",
-    "link": "https://dev.to/vivek_singh_india/a-sign-up-flow-that-writes-itself-then-hands-you-the-pen-492o",
+    "title": "Show Dev: Ergo-AI — 100% private 3D ergonomics RULA/REBA assessment in the browser",
+    "link": "https://dev.to/oldhero07/show-dev-ergo-ai-100-private-3d-ergonomics-rulareba-assessment-in-the-browser-4ddm",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js vs Remix vs SvelteKit: Which Framework Should You Learn?",
-    "link": "https://dev.to/etriti00_19/nextjs-vs-remix-vs-sveltekit-which-framework-should-you-learn-4e9i",
+    "title": "Global State in Next.js App Router — Zustand Over Context for Most Use Cases",
+    "link": "https://dev.to/aon_infotech_3a1b6ff525fc/global-state-in-nextjs-app-router-zustand-over-context-for-most-use-cases-1047",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "React's architectural accessibility gaps",
-    "link": "https://dev.to/chris_devto/reacts-architectural-accessibility-gaps-2d40",
+    "title": "I built a drop-in AI chatbot widget for React that works with any provider — here's why",
+    "link": "https://dev.to/pramith_vidusara_6c6880ec/i-built-a-drop-in-ai-chatbot-widget-for-react-that-works-with-any-provider-heres-why-2dl5",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Processing Millions of Rows: Web Workers in Next.js ⚡",
-    "link": "https://dev.to/iprajapatiparesh/processing-millions-of-rows-web-workers-in-nextjs-13j6",
+    "title": "I Built a Zero-Dependency React Rich Text Editor — Here's How to Use It",
+    "link": "https://dev.to/elango_13_a0b94c8e9b8dc65/i-built-a-zero-dependency-react-rich-text-editor-heres-how-to-use-it-92p",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Performance Optimization: From 3s to 0.8s Load Time",
-    "link": "https://dev.to/uaslimcreate/react-performance-optimization-from-3s-to-08s-load-time-1h0n",
+    "title": "Debugging React: From Taking a Deep Breath to Finding the Root Cause",
+    "link": "https://dev.to/bishoy_bishai/debugging-react-from-taking-a-deep-breath-to-finding-the-root-cause-124l",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Launching TOK: A 3D Interactive Tree of Knowledge Mapping Human Science (R3F + D3-Force)",
-    "link": "https://dev.to/japa_ringo_126a3bdea5fc37/launching-tok-a-3d-interactive-tree-of-knowledge-mapping-human-science-r3f-d3-force-38bl",
+    "title": "Backpropagation Is Just Dynamic Programming (I Animated It to Prove It)",
+    "link": "https://dev.to/amargul/backpropagation-is-just-dynamic-programming-i-animated-it-to-prove-it-4jhj",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js in 2026: App Router vs Pages Router — When to Migrate and How to Do It Safely",
-    "link": "https://dev.to/endurance-softwares/nextjs-in-2026-app-router-vs-pages-router-when-to-migrate-and-how-to-do-it-safely-31mh",
+    "title": "Debugging React: From Taking a Deep Breath to Finding the Root Cause",
+    "link": "https://dev.to/surajrkhonde/debugging-react-from-taking-a-deep-breath-to-finding-the-root-cause-4and",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Men's Footwear Guide: Sneakers, Loafers, Boots, and Dress Shoes Explained",
-    "link": "https://dev.to/davitparkltd/mens-footwear-guide-sneakers-loafers-boots-and-dress-shoes-explained-72b",
+    "title": "From Scratch to a Million Users: An Uncle Teaches React Architecture",
+    "link": "https://dev.to/surajrkhonde/from-scratch-to-a-million-users-an-uncle-teaches-react-architecture-4887",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "What the React 19 codemod doesn't tell you",
-    "link": "https://dev.to/yj00793049/what-the-react-19-codemod-doesnt-tell-you-4lik",
+    "title": "🚀 Day 5 of Learning React: Understanding Automatic Batching & Functional Updates",
+    "link": "https://dev.to/bismay-exe/day-5-of-learning-react-understanding-automatic-batching-functional-updates-397k",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "A sign-up flow that writes itself — then hands you the pen",
-    "link": "https://dev.to/vivek_singh_india/a-sign-up-flow-that-writes-itself-then-hands-you-the-pen-492o",
+    "title": "Show Dev: Ergo-AI — 100% private 3D ergonomics RULA/REBA assessment in the browser",
+    "link": "https://dev.to/oldhero07/show-dev-ergo-ai-100-private-3d-ergonomics-rulareba-assessment-in-the-browser-4ddm",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js vs Remix vs SvelteKit: Which Framework Should You Learn?",
-    "link": "https://dev.to/etriti00_19/nextjs-vs-remix-vs-sveltekit-which-framework-should-you-learn-4e9i",
+    "title": "Global State in Next.js App Router — Zustand Over Context for Most Use Cases",
+    "link": "https://dev.to/aon_infotech_3a1b6ff525fc/global-state-in-nextjs-app-router-zustand-over-context-for-most-use-cases-1047",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "React's architectural accessibility gaps",
-    "link": "https://dev.to/chris_devto/reacts-architectural-accessibility-gaps-2d40",
+    "title": "I built a drop-in AI chatbot widget for React that works with any provider — here's why",
+    "link": "https://dev.to/pramith_vidusara_6c6880ec/i-built-a-drop-in-ai-chatbot-widget-for-react-that-works-with-any-provider-heres-why-2dl5",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Processing Millions of Rows: Web Workers in Next.js ⚡",
-    "link": "https://dev.to/iprajapatiparesh/processing-millions-of-rows-web-workers-in-nextjs-13j6",
+    "title": "I Built a Zero-Dependency React Rich Text Editor — Here's How to Use It",
+    "link": "https://dev.to/elango_13_a0b94c8e9b8dc65/i-built-a-zero-dependency-react-rich-text-editor-heres-how-to-use-it-92p",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Performance Optimization: From 3s to 0.8s Load Time",
-    "link": "https://dev.to/uaslimcreate/react-performance-optimization-from-3s-to-08s-load-time-1h0n",
+    "title": "Debugging React: From Taking a Deep Breath to Finding the Root Cause",
+    "link": "https://dev.to/bishoy_bishai/debugging-react-from-taking-a-deep-breath-to-finding-the-root-cause-124l",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Launching TOK: A 3D Interactive Tree of Knowledge Mapping Human Science (R3F + D3-Force)",
-    "link": "https://dev.to/japa_ringo_126a3bdea5fc37/launching-tok-a-3d-interactive-tree-of-knowledge-mapping-human-science-r3f-d3-force-38bl",
+    "title": "Backpropagation Is Just Dynamic Programming (I Animated It to Prove It)",
+    "link": "https://dev.to/amargul/backpropagation-is-just-dynamic-programming-i-animated-it-to-prove-it-4jhj",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js in 2026: App Router vs Pages Router — When to Migrate and How to Do It Safely",
-    "link": "https://dev.to/endurance-softwares/nextjs-in-2026-app-router-vs-pages-router-when-to-migrate-and-how-to-do-it-safely-31mh",
+    "title": "Debugging React: From Taking a Deep Breath to Finding the Root Cause",
+    "link": "https://dev.to/surajrkhonde/debugging-react-from-taking-a-deep-breath-to-finding-the-root-cause-4and",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "Men's Footwear Guide: Sneakers, Loafers, Boots, and Dress Shoes Explained",
-    "link": "https://dev.to/davitparkltd/mens-footwear-guide-sneakers-loafers-boots-and-dress-shoes-explained-72b",
+    "title": "From Scratch to a Million Users: An Uncle Teaches React Architecture",
+    "link": "https://dev.to/surajrkhonde/from-scratch-to-a-million-users-an-uncle-teaches-react-architecture-4887",
     "date": "7/1/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built a Native Home Assistant Dashboard Editor with React and Capacitor",
-    "link": "https://dev.to/troy_johnson_9c736984764a/how-i-built-a-native-home-assistant-dashboard-editor-with-react-and-capacitor-57jc",
-    "date": "6/30/2026",
-    "site": "dev.to"
+    "title": "Building Dynamic Forms In React And Next.js",
+    "link": "https://www.smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+    "reading_time": "14 min read",
+    "date": "3/10/2026",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Passwords are not necessary, a Oauth/OIDC approach",
-    "link": "https://dev.to/joaosalles/passwords-are-not-necessary-a-oauthoidc-approach-hep",
-    "date": "6/30/2026",
-    "site": "dev.to"
+    "title": "Adaptive Video Streaming With Dash.js In React",
+    "link": "https://www.smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+    "reading_time": "9 min read",
+    "date": "3/27/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Common Next.js Errors (and How I Solved Them)",
-    "link": "https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o",
-    "date": "6/30/2026",
-    "site": "dev.to"
+    "title": "The Forensics Of React Server Components (RSCs)",
+    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
+    "reading_time": "24 min read",
+    "date": "5/9/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "We wanted a simple forms API, so I built my own library",
-    "link": "https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248",
-    "date": "6/30/2026",
-    "site": "dev.to"
+    "title": "The End Of My Gatsby Journey",
+    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
+    "reading_time": "16 min read",
+    "date": "3/6/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Rebuilding the Windows 98 Defrag Simulator",
-    "link": "https://dev.to/morellodev/rebuilding-the-windows-98-defrag-simulator-i2p",
-    "date": "6/30/2026",
-    "site": "dev.to"
+    "title": "Making Sense Of “Senseless” JavaScript Features",
+    "link": "https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
+    "reading_time": "14 min read",
+    "date": "12/28/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "AbortController is how fetch learned to clean up after itself",
-    "link": "https://dev.to/robinvdvleuten/abortcontroller-is-how-fetch-learned-to-clean-up-after-itself-2kj3",
-    "date": "6/30/2026",
-    "site": "dev.to"
+    "title": "An Introduction To Full Stack Composability",
+    "link": "https://www.smashingmagazine.com/2023/11/introduction-full-stack-composability/",
+    "reading_time": "9 min read",
+    "date": "11/23/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "How I Built a Native Home Assistant Dashboard Editor with React and Capacitor",
-    "link": "https://dev.to/troy_johnson_9c736984764a/how-i-built-a-native-home-assistant-dashboard-editor-with-react-and-capacitor-57jc",
-    "date": "6/30/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 2)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
+    "reading_time": "22 min read",
+    "date": "10/16/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Passwords are not necessary, a Oauth/OIDC approach",
-    "link": "https://dev.to/joaosalles/passwords-are-not-necessary-a-oauthoidc-approach-hep",
-    "date": "6/30/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 1)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
+    "reading_time": "17 min read",
+    "date": "10/9/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Common Next.js Errors (and How I Solved Them)",
-    "link": "https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o",
-    "date": "6/30/2026",
-    "site": "dev.to"
+    "title": "Meet Codux: The React Visual Editor That Improves Developer Experience",
+    "link": "https://www.smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
+    "reading_time": "7 min read",
+    "date": "6/15/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "We wanted a simple forms API, so I built my own library",
-    "link": "https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rebuilding the Windows 98 Defrag Simulator",
-    "link": "https://dev.to/morellodev/rebuilding-the-windows-98-defrag-simulator-i2p",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AbortController is how fetch learned to clean up after itself",
-    "link": "https://dev.to/robinvdvleuten/abortcontroller-is-how-fetch-learned-to-clean-up-after-itself-2kj3",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Native Home Assistant Dashboard Editor with React and Capacitor",
-    "link": "https://dev.to/troy_johnson_9c736984764a/how-i-built-a-native-home-assistant-dashboard-editor-with-react-and-capacitor-57jc",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Passwords are not necessary, a Oauth/OIDC approach",
-    "link": "https://dev.to/joaosalles/passwords-are-not-necessary-a-oauthoidc-approach-hep",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Common Next.js Errors (and How I Solved Them)",
-    "link": "https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We wanted a simple forms API, so I built my own library",
-    "link": "https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rebuilding the Windows 98 Defrag Simulator",
-    "link": "https://dev.to/morellodev/rebuilding-the-windows-98-defrag-simulator-i2p",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AbortController is how fetch learned to clean up after itself",
-    "link": "https://dev.to/robinvdvleuten/abortcontroller-is-how-fetch-learned-to-clean-up-after-itself-2kj3",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Native Home Assistant Dashboard Editor with React and Capacitor",
-    "link": "https://dev.to/troy_johnson_9c736984764a/how-i-built-a-native-home-assistant-dashboard-editor-with-react-and-capacitor-57jc",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Passwords are not necessary, a Oauth/OIDC approach",
-    "link": "https://dev.to/joaosalles/passwords-are-not-necessary-a-oauthoidc-approach-hep",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Common Next.js Errors (and How I Solved Them)",
-    "link": "https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We wanted a simple forms API, so I built my own library",
-    "link": "https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rebuilding the Windows 98 Defrag Simulator",
-    "link": "https://dev.to/morellodev/rebuilding-the-windows-98-defrag-simulator-i2p",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AbortController is how fetch learned to clean up after itself",
-    "link": "https://dev.to/robinvdvleuten/abortcontroller-is-how-fetch-learned-to-clean-up-after-itself-2kj3",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Native Home Assistant Dashboard Editor with React and Capacitor",
-    "link": "https://dev.to/troy_johnson_9c736984764a/how-i-built-a-native-home-assistant-dashboard-editor-with-react-and-capacitor-57jc",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Passwords are not necessary, a Oauth/OIDC approach",
-    "link": "https://dev.to/joaosalles/passwords-are-not-necessary-a-oauthoidc-approach-hep",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Common Next.js Errors (and How I Solved Them)",
-    "link": "https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We wanted a simple forms API, so I built my own library",
-    "link": "https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rebuilding the Windows 98 Defrag Simulator",
-    "link": "https://dev.to/morellodev/rebuilding-the-windows-98-defrag-simulator-i2p",
-    "date": "6/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AbortController is how fetch learned to clean up after itself",
-    "link": "https://dev.to/robinvdvleuten/abortcontroller-is-how-fetch-learned-to-clean-up-after-itself-2kj3",
-    "date": "6/30/2026",
-    "site": "dev.to"
+    "title": "A Guide To Redux Toolkit With TypeScript",
+    "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
+    "reading_time": "16 min read",
+    "date": "5/10/2023",
+    "site": "smashingmagazine"
   },
   {
     "title": "The Safest Way To Hide Your API Keys When Using React",
@@ -487,7 +557,7 @@
   {
     "title": "The Key To Good Component Design Is Selfishness",
     "link": "https://www.smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "1/20/2023",
     "site": "smashingmagazine"
   },
@@ -606,7 +676,7 @@
   {
     "title": "Optimizing Next.js Applications With Nx",
     "link": "https://www.smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "10/26/2021",
     "site": "smashingmagazine"
   },
@@ -655,7 +725,7 @@
   {
     "title": "Gatsby Serverless Functions And The International Space Station",
     "link": "https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "7/26/2021",
     "site": "smashingmagazine"
   },
