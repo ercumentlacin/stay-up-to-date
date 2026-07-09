@@ -1,91 +1,403 @@
 [
   {
+    "title": "JavaScript ES2026 - 10 New Features That Will Change How Developers Write Code",
+    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/javascript-es2026-10-new-features-that-will-change-how-developers-write-code-44fb",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Modern Ember as an electron-vite blueprint",
+    "link": "https://dev.to/ignace/modern-ember-as-an-electron-vite-blueprint-5ce7",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Copying Is Inevitable. Copying Flaws Is Not.",
+    "link": "https://dev.to/cinfinitedev_engine/copying-is-inevitable-copying-flaws-is-not-2op3",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhancement: Implement coreFilterEngine for objUtils (Good First Issue)🚀",
+    "link": "https://dev.to/__563eb2c1cdb2e22e/enhancement-implement-corefilterengine-for-objutils-good-first-issue-34ik",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can my DOM library build a real working social media app?",
+    "link": "https://dev.to/codemaster_121482/can-my-dom-library-build-a-real-working-social-media-app-4ic7",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun's Rust Rewrite: Why Your Next.js App (and the JS Ecosystem) Should Care",
+    "link": "https://dev.to/hanzla/buns-rust-rewrite-why-your-nextjs-app-and-the-js-ecosystem-should-care-1kj1",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vercel AI SDK 6: Production Patterns for Autonomous Loops",
+    "link": "https://dev.to/koenig_academy_9a8f35ff4b/vercel-ai-sdk-6-production-patterns-for-autonomous-loops-2n6f",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Internals Explained by Uncle to Nephew — Part 3: The Complete Journey (Request Lifecycle, Traffic Bursts & WebSockets)",
+    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-3-the-complete-journey-request-lifecycle-gje",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Browser-Based YouTube Frame Extractor (No FFmpeg Required)",
+    "link": "https://dev.to/ismail-benali/i-built-a-browser-based-youtube-frame-extractor-no-ffmpeg-required-3f4a",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useLocalStorage Hook: SSR-Safe Persistent State (2026)",
+    "link": "https://dev.to/childrentime/react-uselocalstorage-hook-ssr-safe-persistent-state-2026-k43",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun's Rust Rewrite: Beyond the Hype, What it *Really* Means for Us",
+    "link": "https://dev.to/hanzla/buns-rust-rewrite-beyond-the-hype-what-it-really-means-for-us-5h31",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Game genetics without Mendel: continuous traits, skewed mutation, and backend-free genome codes",
+    "link": "https://dev.to/fernforge/game-genetics-without-mendel-continuous-traits-skewed-mutation-and-backend-free-genome-codes-a0j",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I wanted to edit DOCX files without uploading them anywhere",
+    "link": "https://dev.to/editdocx/i-wanted-to-edit-docx-files-without-uploading-them-anywhere-34mc",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript ES2026 - 10 New Features That Will Change How Developers Write Code",
+    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/javascript-es2026-10-new-features-that-will-change-how-developers-write-code-44fb",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Modern Ember as an electron-vite blueprint",
+    "link": "https://dev.to/ignace/modern-ember-as-an-electron-vite-blueprint-5ce7",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Copying Is Inevitable. Copying Flaws Is Not.",
+    "link": "https://dev.to/cinfinitedev_engine/copying-is-inevitable-copying-flaws-is-not-2op3",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhancement: Implement coreFilterEngine for objUtils (Good First Issue)🚀",
+    "link": "https://dev.to/__563eb2c1cdb2e22e/enhancement-implement-corefilterengine-for-objutils-good-first-issue-34ik",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can my DOM library build a real working social media app?",
+    "link": "https://dev.to/codemaster_121482/can-my-dom-library-build-a-real-working-social-media-app-4ic7",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun's Rust Rewrite: Why Your Next.js App (and the JS Ecosystem) Should Care",
+    "link": "https://dev.to/hanzla/buns-rust-rewrite-why-your-nextjs-app-and-the-js-ecosystem-should-care-1kj1",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vercel AI SDK 6: Production Patterns for Autonomous Loops",
+    "link": "https://dev.to/koenig_academy_9a8f35ff4b/vercel-ai-sdk-6-production-patterns-for-autonomous-loops-2n6f",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Internals Explained by Uncle to Nephew — Part 3: The Complete Journey (Request Lifecycle, Traffic Bursts & WebSockets)",
+    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-3-the-complete-journey-request-lifecycle-gje",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Browser-Based YouTube Frame Extractor (No FFmpeg Required)",
+    "link": "https://dev.to/ismail-benali/i-built-a-browser-based-youtube-frame-extractor-no-ffmpeg-required-3f4a",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useLocalStorage Hook: SSR-Safe Persistent State (2026)",
+    "link": "https://dev.to/childrentime/react-uselocalstorage-hook-ssr-safe-persistent-state-2026-k43",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun's Rust Rewrite: Beyond the Hype, What it *Really* Means for Us",
+    "link": "https://dev.to/hanzla/buns-rust-rewrite-beyond-the-hype-what-it-really-means-for-us-5h31",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Game genetics without Mendel: continuous traits, skewed mutation, and backend-free genome codes",
+    "link": "https://dev.to/fernforge/game-genetics-without-mendel-continuous-traits-skewed-mutation-and-backend-free-genome-codes-a0j",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I wanted to edit DOCX files without uploading them anywhere",
+    "link": "https://dev.to/editdocx/i-wanted-to-edit-docx-files-without-uploading-them-anywhere-34mc",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript ES2026 - 10 New Features That Will Change How Developers Write Code",
+    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/javascript-es2026-10-new-features-that-will-change-how-developers-write-code-44fb",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Modern Ember as an electron-vite blueprint",
+    "link": "https://dev.to/ignace/modern-ember-as-an-electron-vite-blueprint-5ce7",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Copying Is Inevitable. Copying Flaws Is Not.",
+    "link": "https://dev.to/cinfinitedev_engine/copying-is-inevitable-copying-flaws-is-not-2op3",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhancement: Implement coreFilterEngine for objUtils (Good First Issue)🚀",
+    "link": "https://dev.to/__563eb2c1cdb2e22e/enhancement-implement-corefilterengine-for-objutils-good-first-issue-34ik",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can my DOM library build a real working social media app?",
+    "link": "https://dev.to/codemaster_121482/can-my-dom-library-build-a-real-working-social-media-app-4ic7",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun's Rust Rewrite: Why Your Next.js App (and the JS Ecosystem) Should Care",
+    "link": "https://dev.to/hanzla/buns-rust-rewrite-why-your-nextjs-app-and-the-js-ecosystem-should-care-1kj1",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vercel AI SDK 6: Production Patterns for Autonomous Loops",
+    "link": "https://dev.to/koenig_academy_9a8f35ff4b/vercel-ai-sdk-6-production-patterns-for-autonomous-loops-2n6f",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Internals Explained by Uncle to Nephew — Part 3: The Complete Journey (Request Lifecycle, Traffic Bursts & WebSockets)",
+    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-3-the-complete-journey-request-lifecycle-gje",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Browser-Based YouTube Frame Extractor (No FFmpeg Required)",
+    "link": "https://dev.to/ismail-benali/i-built-a-browser-based-youtube-frame-extractor-no-ffmpeg-required-3f4a",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useLocalStorage Hook: SSR-Safe Persistent State (2026)",
+    "link": "https://dev.to/childrentime/react-uselocalstorage-hook-ssr-safe-persistent-state-2026-k43",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun's Rust Rewrite: Beyond the Hype, What it *Really* Means for Us",
+    "link": "https://dev.to/hanzla/buns-rust-rewrite-beyond-the-hype-what-it-really-means-for-us-5h31",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Game genetics without Mendel: continuous traits, skewed mutation, and backend-free genome codes",
+    "link": "https://dev.to/fernforge/game-genetics-without-mendel-continuous-traits-skewed-mutation-and-backend-free-genome-codes-a0j",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I wanted to edit DOCX files without uploading them anywhere",
+    "link": "https://dev.to/editdocx/i-wanted-to-edit-docx-files-without-uploading-them-anywhere-34mc",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript ES2026 - 10 New Features That Will Change How Developers Write Code",
+    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/javascript-es2026-10-new-features-that-will-change-how-developers-write-code-44fb",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Modern Ember as an electron-vite blueprint",
+    "link": "https://dev.to/ignace/modern-ember-as-an-electron-vite-blueprint-5ce7",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Copying Is Inevitable. Copying Flaws Is Not.",
+    "link": "https://dev.to/cinfinitedev_engine/copying-is-inevitable-copying-flaws-is-not-2op3",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhancement: Implement coreFilterEngine for objUtils (Good First Issue)🚀",
+    "link": "https://dev.to/__563eb2c1cdb2e22e/enhancement-implement-corefilterengine-for-objutils-good-first-issue-34ik",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can my DOM library build a real working social media app?",
+    "link": "https://dev.to/codemaster_121482/can-my-dom-library-build-a-real-working-social-media-app-4ic7",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun's Rust Rewrite: Why Your Next.js App (and the JS Ecosystem) Should Care",
+    "link": "https://dev.to/hanzla/buns-rust-rewrite-why-your-nextjs-app-and-the-js-ecosystem-should-care-1kj1",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vercel AI SDK 6: Production Patterns for Autonomous Loops",
+    "link": "https://dev.to/koenig_academy_9a8f35ff4b/vercel-ai-sdk-6-production-patterns-for-autonomous-loops-2n6f",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Internals Explained by Uncle to Nephew — Part 3: The Complete Journey (Request Lifecycle, Traffic Bursts & WebSockets)",
+    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-3-the-complete-journey-request-lifecycle-gje",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Browser-Based YouTube Frame Extractor (No FFmpeg Required)",
+    "link": "https://dev.to/ismail-benali/i-built-a-browser-based-youtube-frame-extractor-no-ffmpeg-required-3f4a",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useLocalStorage Hook: SSR-Safe Persistent State (2026)",
+    "link": "https://dev.to/childrentime/react-uselocalstorage-hook-ssr-safe-persistent-state-2026-k43",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun's Rust Rewrite: Beyond the Hype, What it *Really* Means for Us",
+    "link": "https://dev.to/hanzla/buns-rust-rewrite-beyond-the-hype-what-it-really-means-for-us-5h31",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Game genetics without Mendel: continuous traits, skewed mutation, and backend-free genome codes",
+    "link": "https://dev.to/fernforge/game-genetics-without-mendel-continuous-traits-skewed-mutation-and-backend-free-genome-codes-a0j",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I wanted to edit DOCX files without uploading them anywhere",
+    "link": "https://dev.to/editdocx/i-wanted-to-edit-docx-files-without-uploading-them-anywhere-34mc",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript ES2026 - 10 New Features That Will Change How Developers Write Code",
+    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/javascript-es2026-10-new-features-that-will-change-how-developers-write-code-44fb",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Modern Ember as an electron-vite blueprint",
+    "link": "https://dev.to/ignace/modern-ember-as-an-electron-vite-blueprint-5ce7",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Copying Is Inevitable. Copying Flaws Is Not.",
+    "link": "https://dev.to/cinfinitedev_engine/copying-is-inevitable-copying-flaws-is-not-2op3",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enhancement: Implement coreFilterEngine for objUtils (Good First Issue)🚀",
+    "link": "https://dev.to/__563eb2c1cdb2e22e/enhancement-implement-corefilterengine-for-objutils-good-first-issue-34ik",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Can my DOM library build a real working social media app?",
+    "link": "https://dev.to/codemaster_121482/can-my-dom-library-build-a-real-working-social-media-app-4ic7",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun's Rust Rewrite: Why Your Next.js App (and the JS Ecosystem) Should Care",
+    "link": "https://dev.to/hanzla/buns-rust-rewrite-why-your-nextjs-app-and-the-js-ecosystem-should-care-1kj1",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vercel AI SDK 6: Production Patterns for Autonomous Loops",
+    "link": "https://dev.to/koenig_academy_9a8f35ff4b/vercel-ai-sdk-6-production-patterns-for-autonomous-loops-2n6f",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Internals Explained by Uncle to Nephew — Part 3: The Complete Journey (Request Lifecycle, Traffic Bursts & WebSockets)",
+    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-3-the-complete-journey-request-lifecycle-gje",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Browser-Based YouTube Frame Extractor (No FFmpeg Required)",
+    "link": "https://dev.to/ismail-benali/i-built-a-browser-based-youtube-frame-extractor-no-ffmpeg-required-3f4a",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useLocalStorage Hook: SSR-Safe Persistent State (2026)",
+    "link": "https://dev.to/childrentime/react-uselocalstorage-hook-ssr-safe-persistent-state-2026-k43",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun's Rust Rewrite: Beyond the Hype, What it *Really* Means for Us",
+    "link": "https://dev.to/hanzla/buns-rust-rewrite-beyond-the-hype-what-it-really-means-for-us-5h31",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Game genetics without Mendel: continuous traits, skewed mutation, and backend-free genome codes",
+    "link": "https://dev.to/fernforge/game-genetics-without-mendel-continuous-traits-skewed-mutation-and-backend-free-genome-codes-a0j",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I wanted to edit DOCX files without uploading them anywhere",
+    "link": "https://dev.to/editdocx/i-wanted-to-edit-docx-files-without-uploading-them-anywhere-34mc",
+    "date": "7/9/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "My Next.js 16 Optimistic UI Looked Perfect. Then Someone Clicked It Five Times Fast",
     "link": "https://dev.to/shubhradev/my-nextjs-16-optimistic-ui-looked-perfect-then-someone-clicked-it-five-times-fast-b2c",
     "date": "7/8/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew",
-    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My GSoC 2026 Mid-Term: How Building Webpack's Blog Led Me to Patch Node.js Core Tools 👀",
-    "link": "https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Google Shopping Scraper (and why it's so hard)",
-    "link": "https://dev.to/abinash_sonowal_64176dc95/how-to-build-a-google-shopping-scraper-and-why-its-so-hard-10hd",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top",
-    "link": "https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Assistant Could See the Screenshot. Feishu Still Got No Image\"",
-    "link": "https://dev.to/codekingai/my-ai-assistant-could-see-the-screenshot-feishu-still-got-no-image-2pej",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React, Explained Directly — Part 2: Production, Performance, and Modern Patterns",
-    "link": "https://dev.to/surajrkhonde/react-explained-directly-part-2-production-performance-and-modern-patterns-5bfi",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Doctor marcó 1,249 problemas en una SPA de React. Cinco valían la pena arreglar",
-    "link": "https://dev.to/aws-builders/react-doctor-marco-1249-problemas-en-una-spa-de-react-cinco-valian-la-pena-arreglar-391f",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop validating emails with regex: here's what to do instead",
-    "link": "https://dev.to/choi_changhwan_a8cf9f164f/stop-validating-emails-with-regex-heres-what-to-do-instead-45ci",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "我学会了做咨询风格 PPT，因为主人说「我不要模板」",
-    "link": "https://dev.to/yaner/wo-xue-hui-liao-zuo-zi-xun-feng-ge-pptyin-wei-zhu-ren-shuo-wo-bu-yao-mo-ban--m94",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useReducedMotion Hook: Respect prefers-reduced-motion (2026)",
-    "link": "https://dev.to/childrentime/react-usereducedmotion-hook-respect-prefers-reduced-motion-2026-58i8",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "idmix: A Better Alternative to Sqids for Structured Access Keys",
-    "link": "https://dev.to/vanni_fan/idmix-a-better-alternative-to-sqids-for-structured-access-keys-4a75",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Optimizing Network Interception in Manifest V3: Inside the Architecture of an Asynchronous Blocklist Extension",
-    "link": "https://dev.to/m_aleem_naveed/optimizing-network-interception-in-manifest-v3-inside-the-architecture-of-an-asynchronous-5c8p",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Functional Code Can Be Slower",
-    "link": "https://dev.to/amrishkhan05/why-functional-code-can-be-slower-579b",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When a `for...of` Loop Is Better Than `reduce()`",
-    "link": "https://dev.to/amrishkhan05/when-a-forof-loop-is-better-than-reduce-1f3j",
+    "title": "10 React Native Libraries You Should Try on Fire TV",
+    "link": "https://dev.to/amazonappdev/10-new-libraries-for-fire-tv-49i8",
     "date": "7/8/2026",
     "site": "dev.to"
   },
@@ -96,86 +408,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew",
-    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My GSoC 2026 Mid-Term: How Building Webpack's Blog Led Me to Patch Node.js Core Tools 👀",
-    "link": "https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Google Shopping Scraper (and why it's so hard)",
-    "link": "https://dev.to/abinash_sonowal_64176dc95/how-to-build-a-google-shopping-scraper-and-why-its-so-hard-10hd",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top",
-    "link": "https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Assistant Could See the Screenshot. Feishu Still Got No Image\"",
-    "link": "https://dev.to/codekingai/my-ai-assistant-could-see-the-screenshot-feishu-still-got-no-image-2pej",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React, Explained Directly — Part 2: Production, Performance, and Modern Patterns",
-    "link": "https://dev.to/surajrkhonde/react-explained-directly-part-2-production-performance-and-modern-patterns-5bfi",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Doctor marcó 1,249 problemas en una SPA de React. Cinco valían la pena arreglar",
-    "link": "https://dev.to/aws-builders/react-doctor-marco-1249-problemas-en-una-spa-de-react-cinco-valian-la-pena-arreglar-391f",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop validating emails with regex: here's what to do instead",
-    "link": "https://dev.to/choi_changhwan_a8cf9f164f/stop-validating-emails-with-regex-heres-what-to-do-instead-45ci",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "我学会了做咨询风格 PPT，因为主人说「我不要模板」",
-    "link": "https://dev.to/yaner/wo-xue-hui-liao-zuo-zi-xun-feng-ge-pptyin-wei-zhu-ren-shuo-wo-bu-yao-mo-ban--m94",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useReducedMotion Hook: Respect prefers-reduced-motion (2026)",
-    "link": "https://dev.to/childrentime/react-usereducedmotion-hook-respect-prefers-reduced-motion-2026-58i8",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "idmix: A Better Alternative to Sqids for Structured Access Keys",
-    "link": "https://dev.to/vanni_fan/idmix-a-better-alternative-to-sqids-for-structured-access-keys-4a75",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Optimizing Network Interception in Manifest V3: Inside the Architecture of an Asynchronous Blocklist Extension",
-    "link": "https://dev.to/m_aleem_naveed/optimizing-network-interception-in-manifest-v3-inside-the-architecture-of-an-asynchronous-5c8p",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Functional Code Can Be Slower",
-    "link": "https://dev.to/amrishkhan05/why-functional-code-can-be-slower-579b",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When a `for...of` Loop Is Better Than `reduce()`",
-    "link": "https://dev.to/amrishkhan05/when-a-forof-loop-is-better-than-reduce-1f3j",
+    "title": "10 React Native Libraries You Should Try on Fire TV",
+    "link": "https://dev.to/amazonappdev/10-new-libraries-for-fire-tv-49i8",
     "date": "7/8/2026",
     "site": "dev.to"
   },
@@ -186,86 +420,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew",
-    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My GSoC 2026 Mid-Term: How Building Webpack's Blog Led Me to Patch Node.js Core Tools 👀",
-    "link": "https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Google Shopping Scraper (and why it's so hard)",
-    "link": "https://dev.to/abinash_sonowal_64176dc95/how-to-build-a-google-shopping-scraper-and-why-its-so-hard-10hd",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top",
-    "link": "https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Assistant Could See the Screenshot. Feishu Still Got No Image\"",
-    "link": "https://dev.to/codekingai/my-ai-assistant-could-see-the-screenshot-feishu-still-got-no-image-2pej",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React, Explained Directly — Part 2: Production, Performance, and Modern Patterns",
-    "link": "https://dev.to/surajrkhonde/react-explained-directly-part-2-production-performance-and-modern-patterns-5bfi",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Doctor marcó 1,249 problemas en una SPA de React. Cinco valían la pena arreglar",
-    "link": "https://dev.to/aws-builders/react-doctor-marco-1249-problemas-en-una-spa-de-react-cinco-valian-la-pena-arreglar-391f",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop validating emails with regex: here's what to do instead",
-    "link": "https://dev.to/choi_changhwan_a8cf9f164f/stop-validating-emails-with-regex-heres-what-to-do-instead-45ci",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "我学会了做咨询风格 PPT，因为主人说「我不要模板」",
-    "link": "https://dev.to/yaner/wo-xue-hui-liao-zuo-zi-xun-feng-ge-pptyin-wei-zhu-ren-shuo-wo-bu-yao-mo-ban--m94",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useReducedMotion Hook: Respect prefers-reduced-motion (2026)",
-    "link": "https://dev.to/childrentime/react-usereducedmotion-hook-respect-prefers-reduced-motion-2026-58i8",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "idmix: A Better Alternative to Sqids for Structured Access Keys",
-    "link": "https://dev.to/vanni_fan/idmix-a-better-alternative-to-sqids-for-structured-access-keys-4a75",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Optimizing Network Interception in Manifest V3: Inside the Architecture of an Asynchronous Blocklist Extension",
-    "link": "https://dev.to/m_aleem_naveed/optimizing-network-interception-in-manifest-v3-inside-the-architecture-of-an-asynchronous-5c8p",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Functional Code Can Be Slower",
-    "link": "https://dev.to/amrishkhan05/why-functional-code-can-be-slower-579b",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When a `for...of` Loop Is Better Than `reduce()`",
-    "link": "https://dev.to/amrishkhan05/when-a-forof-loop-is-better-than-reduce-1f3j",
+    "title": "10 React Native Libraries You Should Try on Fire TV",
+    "link": "https://dev.to/amazonappdev/10-new-libraries-for-fire-tv-49i8",
     "date": "7/8/2026",
     "site": "dev.to"
   },
@@ -276,86 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew",
-    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My GSoC 2026 Mid-Term: How Building Webpack's Blog Led Me to Patch Node.js Core Tools 👀",
-    "link": "https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Google Shopping Scraper (and why it's so hard)",
-    "link": "https://dev.to/abinash_sonowal_64176dc95/how-to-build-a-google-shopping-scraper-and-why-its-so-hard-10hd",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top",
-    "link": "https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Assistant Could See the Screenshot. Feishu Still Got No Image\"",
-    "link": "https://dev.to/codekingai/my-ai-assistant-could-see-the-screenshot-feishu-still-got-no-image-2pej",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React, Explained Directly — Part 2: Production, Performance, and Modern Patterns",
-    "link": "https://dev.to/surajrkhonde/react-explained-directly-part-2-production-performance-and-modern-patterns-5bfi",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Doctor marcó 1,249 problemas en una SPA de React. Cinco valían la pena arreglar",
-    "link": "https://dev.to/aws-builders/react-doctor-marco-1249-problemas-en-una-spa-de-react-cinco-valian-la-pena-arreglar-391f",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop validating emails with regex: here's what to do instead",
-    "link": "https://dev.to/choi_changhwan_a8cf9f164f/stop-validating-emails-with-regex-heres-what-to-do-instead-45ci",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "我学会了做咨询风格 PPT，因为主人说「我不要模板」",
-    "link": "https://dev.to/yaner/wo-xue-hui-liao-zuo-zi-xun-feng-ge-pptyin-wei-zhu-ren-shuo-wo-bu-yao-mo-ban--m94",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useReducedMotion Hook: Respect prefers-reduced-motion (2026)",
-    "link": "https://dev.to/childrentime/react-usereducedmotion-hook-respect-prefers-reduced-motion-2026-58i8",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "idmix: A Better Alternative to Sqids for Structured Access Keys",
-    "link": "https://dev.to/vanni_fan/idmix-a-better-alternative-to-sqids-for-structured-access-keys-4a75",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Optimizing Network Interception in Manifest V3: Inside the Architecture of an Asynchronous Blocklist Extension",
-    "link": "https://dev.to/m_aleem_naveed/optimizing-network-interception-in-manifest-v3-inside-the-architecture-of-an-asynchronous-5c8p",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Functional Code Can Be Slower",
-    "link": "https://dev.to/amrishkhan05/why-functional-code-can-be-slower-579b",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When a `for...of` Loop Is Better Than `reduce()`",
-    "link": "https://dev.to/amrishkhan05/when-a-forof-loop-is-better-than-reduce-1f3j",
+    "title": "10 React Native Libraries You Should Try on Fire TV",
+    "link": "https://dev.to/amazonappdev/10-new-libraries-for-fire-tv-49i8",
     "date": "7/8/2026",
     "site": "dev.to"
   },
@@ -366,86 +444,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Node.js Internals Explained by Uncle to Nephew — Part 1: Why Node Exists, Modules, and the JS You Never Knew",
-    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-1-why-node-exists-modules-and-the-js-you-2d8b",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My GSoC 2026 Mid-Term: How Building Webpack's Blog Led Me to Patch Node.js Core Tools 👀",
-    "link": "https://dev.to/moshams272/my-gsoc-2026-mid-term-how-building-webpacks-blog-led-me-to-patch-nodejs-core-tools-2bjk",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Google Shopping Scraper (and why it's so hard)",
-    "link": "https://dev.to/abinash_sonowal_64176dc95/how-to-build-a-google-shopping-scraper-and-why-its-so-hard-10hd",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top",
-    "link": "https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"My AI Assistant Could See the Screenshot. Feishu Still Got No Image\"",
-    "link": "https://dev.to/codekingai/my-ai-assistant-could-see-the-screenshot-feishu-still-got-no-image-2pej",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React, Explained Directly — Part 2: Production, Performance, and Modern Patterns",
-    "link": "https://dev.to/surajrkhonde/react-explained-directly-part-2-production-performance-and-modern-patterns-5bfi",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Doctor marcó 1,249 problemas en una SPA de React. Cinco valían la pena arreglar",
-    "link": "https://dev.to/aws-builders/react-doctor-marco-1249-problemas-en-una-spa-de-react-cinco-valian-la-pena-arreglar-391f",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop validating emails with regex: here's what to do instead",
-    "link": "https://dev.to/choi_changhwan_a8cf9f164f/stop-validating-emails-with-regex-heres-what-to-do-instead-45ci",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "我学会了做咨询风格 PPT，因为主人说「我不要模板」",
-    "link": "https://dev.to/yaner/wo-xue-hui-liao-zuo-zi-xun-feng-ge-pptyin-wei-zhu-ren-shuo-wo-bu-yao-mo-ban--m94",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useReducedMotion Hook: Respect prefers-reduced-motion (2026)",
-    "link": "https://dev.to/childrentime/react-usereducedmotion-hook-respect-prefers-reduced-motion-2026-58i8",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "idmix: A Better Alternative to Sqids for Structured Access Keys",
-    "link": "https://dev.to/vanni_fan/idmix-a-better-alternative-to-sqids-for-structured-access-keys-4a75",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Optimizing Network Interception in Manifest V3: Inside the Architecture of an Asynchronous Blocklist Extension",
-    "link": "https://dev.to/m_aleem_naveed/optimizing-network-interception-in-manifest-v3-inside-the-architecture-of-an-asynchronous-5c8p",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Functional Code Can Be Slower",
-    "link": "https://dev.to/amrishkhan05/why-functional-code-can-be-slower-579b",
-    "date": "7/8/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When a `for...of` Loop Is Better Than `reduce()`",
-    "link": "https://dev.to/amrishkhan05/when-a-forof-loop-is-better-than-reduce-1f3j",
+    "title": "10 React Native Libraries You Should Try on Fire TV",
+    "link": "https://dev.to/amazonappdev/10-new-libraries-for-fire-tv-49i8",
     "date": "7/8/2026",
     "site": "dev.to"
   },
@@ -487,14 +487,14 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
   {
     "title": "Building An Offline-Friendly Image Upload System",
     "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "4/23/2025",
     "site": "smashingmagazine"
   },
@@ -522,7 +522,7 @@
   {
     "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
     "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "8/20/2024",
     "site": "smashingmagazine"
   },
@@ -571,14 +571,14 @@
   {
     "title": "The End Of My Gatsby Journey",
     "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "3/6/2024",
     "site": "smashingmagazine"
   },
   {
     "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
     "link": "https://www.smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "2/22/2024",
     "site": "smashingmagazine"
   },
@@ -732,7 +732,7 @@
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
