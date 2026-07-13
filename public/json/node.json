@@ -1,31 +1,403 @@
 [
   {
+    "title": "You reach for `Promise.all` for every concurrent request. Here's when to use the other three.",
+    "link": "https://dev.to/parsajiravand/you-reach-for-promiseall-for-every-concurrent-request-heres-when-to-use-the-other-three-31d6",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 150 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-150-of-learning-mern-stack-5d48",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 148 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-148-of-learning-mern-stack-406m",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brute forcing my way to better HTML > DOCX conversion",
+    "link": "https://dev.to/blair_googer_8e41a7d338d2/brute-forcing-my-way-to-better-html-docx-conversion-4ffj",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun v1.3.14: The Update That Brings Speed and Power to the Table",
+    "link": "https://dev.to/frank_signorini/bun-v1314-the-update-that-brings-speed-and-power-to-the-table-4pmc",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Failure Engineering Explained by Uncle to Nephew — Episode 4: Failure Handling",
+    "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-4-failure-handling-1foe",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We're Hiring: Remote Full-Stack Developer (Node.js & Firebase) at IP-Meta",
+    "link": "https://dev.to/ip-meta/were-hiring-remote-full-stack-developer-nodejs-firebase-at-ip-meta-20l5",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"error:0308010C:digital envelope routines::unsupported — why Lambda runtime upgrades break your webpack build\"",
+    "link": "https://dev.to/ntoledo319/error0308010cdigital-envelope-routinesunsupported-why-lambda-runtime-upgrades-break-your-18dh",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 149 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-149-of-learning-mern-stack-4ef0",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 147 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-147-of-learning-mern-stack-2jai",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Real-Time Online Ludo Game Using React, Node.js, Socket.IO, and MongoDB",
+    "link": "https://dev.to/diwakar_fd73ab841fafc36eb/how-i-built-a-real-time-online-ludo-game-using-react-nodejs-socketio-and-mongodb-1dgk",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 145 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-145-of-learning-mern-stack-472p",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 144 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-144-of-learning-mern-stack-1ad0",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You reach for `Promise.all` for every concurrent request. Here's when to use the other three.",
+    "link": "https://dev.to/parsajiravand/you-reach-for-promiseall-for-every-concurrent-request-heres-when-to-use-the-other-three-31d6",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 150 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-150-of-learning-mern-stack-5d48",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 148 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-148-of-learning-mern-stack-406m",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brute forcing my way to better HTML > DOCX conversion",
+    "link": "https://dev.to/blair_googer_8e41a7d338d2/brute-forcing-my-way-to-better-html-docx-conversion-4ffj",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun v1.3.14: The Update That Brings Speed and Power to the Table",
+    "link": "https://dev.to/frank_signorini/bun-v1314-the-update-that-brings-speed-and-power-to-the-table-4pmc",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Failure Engineering Explained by Uncle to Nephew — Episode 4: Failure Handling",
+    "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-4-failure-handling-1foe",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We're Hiring: Remote Full-Stack Developer (Node.js & Firebase) at IP-Meta",
+    "link": "https://dev.to/ip-meta/were-hiring-remote-full-stack-developer-nodejs-firebase-at-ip-meta-20l5",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"error:0308010C:digital envelope routines::unsupported — why Lambda runtime upgrades break your webpack build\"",
+    "link": "https://dev.to/ntoledo319/error0308010cdigital-envelope-routinesunsupported-why-lambda-runtime-upgrades-break-your-18dh",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 149 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-149-of-learning-mern-stack-4ef0",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 147 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-147-of-learning-mern-stack-2jai",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Real-Time Online Ludo Game Using React, Node.js, Socket.IO, and MongoDB",
+    "link": "https://dev.to/diwakar_fd73ab841fafc36eb/how-i-built-a-real-time-online-ludo-game-using-react-nodejs-socketio-and-mongodb-1dgk",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 145 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-145-of-learning-mern-stack-472p",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 144 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-144-of-learning-mern-stack-1ad0",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You reach for `Promise.all` for every concurrent request. Here's when to use the other three.",
+    "link": "https://dev.to/parsajiravand/you-reach-for-promiseall-for-every-concurrent-request-heres-when-to-use-the-other-three-31d6",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 150 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-150-of-learning-mern-stack-5d48",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 148 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-148-of-learning-mern-stack-406m",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brute forcing my way to better HTML > DOCX conversion",
+    "link": "https://dev.to/blair_googer_8e41a7d338d2/brute-forcing-my-way-to-better-html-docx-conversion-4ffj",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun v1.3.14: The Update That Brings Speed and Power to the Table",
+    "link": "https://dev.to/frank_signorini/bun-v1314-the-update-that-brings-speed-and-power-to-the-table-4pmc",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Failure Engineering Explained by Uncle to Nephew — Episode 4: Failure Handling",
+    "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-4-failure-handling-1foe",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We're Hiring: Remote Full-Stack Developer (Node.js & Firebase) at IP-Meta",
+    "link": "https://dev.to/ip-meta/were-hiring-remote-full-stack-developer-nodejs-firebase-at-ip-meta-20l5",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"error:0308010C:digital envelope routines::unsupported — why Lambda runtime upgrades break your webpack build\"",
+    "link": "https://dev.to/ntoledo319/error0308010cdigital-envelope-routinesunsupported-why-lambda-runtime-upgrades-break-your-18dh",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 149 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-149-of-learning-mern-stack-4ef0",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 147 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-147-of-learning-mern-stack-2jai",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Real-Time Online Ludo Game Using React, Node.js, Socket.IO, and MongoDB",
+    "link": "https://dev.to/diwakar_fd73ab841fafc36eb/how-i-built-a-real-time-online-ludo-game-using-react-nodejs-socketio-and-mongodb-1dgk",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 145 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-145-of-learning-mern-stack-472p",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 144 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-144-of-learning-mern-stack-1ad0",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You reach for `Promise.all` for every concurrent request. Here's when to use the other three.",
+    "link": "https://dev.to/parsajiravand/you-reach-for-promiseall-for-every-concurrent-request-heres-when-to-use-the-other-three-31d6",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 150 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-150-of-learning-mern-stack-5d48",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 148 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-148-of-learning-mern-stack-406m",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brute forcing my way to better HTML > DOCX conversion",
+    "link": "https://dev.to/blair_googer_8e41a7d338d2/brute-forcing-my-way-to-better-html-docx-conversion-4ffj",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun v1.3.14: The Update That Brings Speed and Power to the Table",
+    "link": "https://dev.to/frank_signorini/bun-v1314-the-update-that-brings-speed-and-power-to-the-table-4pmc",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Failure Engineering Explained by Uncle to Nephew — Episode 4: Failure Handling",
+    "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-4-failure-handling-1foe",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We're Hiring: Remote Full-Stack Developer (Node.js & Firebase) at IP-Meta",
+    "link": "https://dev.to/ip-meta/were-hiring-remote-full-stack-developer-nodejs-firebase-at-ip-meta-20l5",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"error:0308010C:digital envelope routines::unsupported — why Lambda runtime upgrades break your webpack build\"",
+    "link": "https://dev.to/ntoledo319/error0308010cdigital-envelope-routinesunsupported-why-lambda-runtime-upgrades-break-your-18dh",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 149 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-149-of-learning-mern-stack-4ef0",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 147 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-147-of-learning-mern-stack-2jai",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Real-Time Online Ludo Game Using React, Node.js, Socket.IO, and MongoDB",
+    "link": "https://dev.to/diwakar_fd73ab841fafc36eb/how-i-built-a-real-time-online-ludo-game-using-react-nodejs-socketio-and-mongodb-1dgk",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 145 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-145-of-learning-mern-stack-472p",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 144 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-144-of-learning-mern-stack-1ad0",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You reach for `Promise.all` for every concurrent request. Here's when to use the other three.",
+    "link": "https://dev.to/parsajiravand/you-reach-for-promiseall-for-every-concurrent-request-heres-when-to-use-the-other-three-31d6",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 150 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-150-of-learning-mern-stack-5d48",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 148 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-148-of-learning-mern-stack-406m",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Brute forcing my way to better HTML > DOCX conversion",
+    "link": "https://dev.to/blair_googer_8e41a7d338d2/brute-forcing-my-way-to-better-html-docx-conversion-4ffj",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bun v1.3.14: The Update That Brings Speed and Power to the Table",
+    "link": "https://dev.to/frank_signorini/bun-v1314-the-update-that-brings-speed-and-power-to-the-table-4pmc",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Failure Engineering Explained by Uncle to Nephew — Episode 4: Failure Handling",
+    "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-4-failure-handling-1foe",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We're Hiring: Remote Full-Stack Developer (Node.js & Firebase) at IP-Meta",
+    "link": "https://dev.to/ip-meta/were-hiring-remote-full-stack-developer-nodejs-firebase-at-ip-meta-20l5",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "\"error:0308010C:digital envelope routines::unsupported — why Lambda runtime upgrades break your webpack build\"",
+    "link": "https://dev.to/ntoledo319/error0308010cdigital-envelope-routinesunsupported-why-lambda-runtime-upgrades-break-your-18dh",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 149 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-149-of-learning-mern-stack-4ef0",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 147 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-147-of-learning-mern-stack-2jai",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Real-Time Online Ludo Game Using React, Node.js, Socket.IO, and MongoDB",
+    "link": "https://dev.to/diwakar_fd73ab841fafc36eb/how-i-built-a-real-time-online-ludo-game-using-react-nodejs-socketio-and-mongodb-1dgk",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 145 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-145-of-learning-mern-stack-472p",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Day 144 of Learning MERN Stack",
+    "link": "https://dev.to/ali_hamza_589ec7b3eb6688d/day-144-of-learning-mern-stack-1ad0",
+    "date": "7/13/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "Failure Engineering Explained by Uncle to Nephew — Episode 2: Types of Failures",
     "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-2-types-of-failures-35p6",
     "date": "7/12/2026",
     "site": "dev.to"
   },
   {
-    "title": "Leveling Up My MERN Stack Observability with SigNoz",
-    "link": "https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping Async Video Background Removal at $0.10/sec",
-    "link": "https://dev.to/troyjl_/shipping-async-video-background-removal-at-010sec-1pa4",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A stranger fixed my bug. Then I found out he fixed the wrong half — and it still worked.",
-    "link": "https://dev.to/achiya-automation/a-stranger-fixed-my-bug-then-i-found-out-he-fixed-the-wrong-half-and-it-still-worked-309g",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop logging PII: a configurable Node.js sanitizer logger",
-    "link": "https://dev.to/saschadev/stop-logging-pii-a-configurable-nodejs-sanitizer-logger-3c99",
+    "title": "I Built a Free Shadow API Scanner and Found 269 Forgotten Routes in Ghost CMS",
+    "link": "https://dev.to/darkmaster0345/i-built-a-free-shadow-api-scanner-and-found-269-forgotten-routes-in-ghost-cms-11eg",
     "date": "7/12/2026",
     "site": "dev.to"
   },
@@ -36,26 +408,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Leveling Up My MERN Stack Observability with SigNoz",
-    "link": "https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping Async Video Background Removal at $0.10/sec",
-    "link": "https://dev.to/troyjl_/shipping-async-video-background-removal-at-010sec-1pa4",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A stranger fixed my bug. Then I found out he fixed the wrong half — and it still worked.",
-    "link": "https://dev.to/achiya-automation/a-stranger-fixed-my-bug-then-i-found-out-he-fixed-the-wrong-half-and-it-still-worked-309g",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop logging PII: a configurable Node.js sanitizer logger",
-    "link": "https://dev.to/saschadev/stop-logging-pii-a-configurable-nodejs-sanitizer-logger-3c99",
+    "title": "I Built a Free Shadow API Scanner and Found 269 Forgotten Routes in Ghost CMS",
+    "link": "https://dev.to/darkmaster0345/i-built-a-free-shadow-api-scanner-and-found-269-forgotten-routes-in-ghost-cms-11eg",
     "date": "7/12/2026",
     "site": "dev.to"
   },
@@ -66,26 +420,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Leveling Up My MERN Stack Observability with SigNoz",
-    "link": "https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping Async Video Background Removal at $0.10/sec",
-    "link": "https://dev.to/troyjl_/shipping-async-video-background-removal-at-010sec-1pa4",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A stranger fixed my bug. Then I found out he fixed the wrong half — and it still worked.",
-    "link": "https://dev.to/achiya-automation/a-stranger-fixed-my-bug-then-i-found-out-he-fixed-the-wrong-half-and-it-still-worked-309g",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop logging PII: a configurable Node.js sanitizer logger",
-    "link": "https://dev.to/saschadev/stop-logging-pii-a-configurable-nodejs-sanitizer-logger-3c99",
+    "title": "I Built a Free Shadow API Scanner and Found 269 Forgotten Routes in Ghost CMS",
+    "link": "https://dev.to/darkmaster0345/i-built-a-free-shadow-api-scanner-and-found-269-forgotten-routes-in-ghost-cms-11eg",
     "date": "7/12/2026",
     "site": "dev.to"
   },
@@ -96,26 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Leveling Up My MERN Stack Observability with SigNoz",
-    "link": "https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping Async Video Background Removal at $0.10/sec",
-    "link": "https://dev.to/troyjl_/shipping-async-video-background-removal-at-010sec-1pa4",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A stranger fixed my bug. Then I found out he fixed the wrong half — and it still worked.",
-    "link": "https://dev.to/achiya-automation/a-stranger-fixed-my-bug-then-i-found-out-he-fixed-the-wrong-half-and-it-still-worked-309g",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop logging PII: a configurable Node.js sanitizer logger",
-    "link": "https://dev.to/saschadev/stop-logging-pii-a-configurable-nodejs-sanitizer-logger-3c99",
+    "title": "I Built a Free Shadow API Scanner and Found 269 Forgotten Routes in Ghost CMS",
+    "link": "https://dev.to/darkmaster0345/i-built-a-free-shadow-api-scanner-and-found-269-forgotten-routes-in-ghost-cms-11eg",
     "date": "7/12/2026",
     "site": "dev.to"
   },
@@ -126,327 +444,9 @@
     "site": "dev.to"
   },
   {
-    "title": "Leveling Up My MERN Stack Observability with SigNoz",
-    "link": "https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb",
+    "title": "I Built a Free Shadow API Scanner and Found 269 Forgotten Routes in Ghost CMS",
+    "link": "https://dev.to/darkmaster0345/i-built-a-free-shadow-api-scanner-and-found-269-forgotten-routes-in-ghost-cms-11eg",
     "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping Async Video Background Removal at $0.10/sec",
-    "link": "https://dev.to/troyjl_/shipping-async-video-background-removal-at-010sec-1pa4",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A stranger fixed my bug. Then I found out he fixed the wrong half — and it still worked.",
-    "link": "https://dev.to/achiya-automation/a-stranger-fixed-my-bug-then-i-found-out-he-fixed-the-wrong-half-and-it-still-worked-309g",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop logging PII: a configurable Node.js sanitizer logger",
-    "link": "https://dev.to/saschadev/stop-logging-pii-a-configurable-nodejs-sanitizer-logger-3c99",
-    "date": "7/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a bedtime-story app with AI and clear guardrails",
-    "link": "https://dev.to/msc2601/building-a-bedtime-story-app-with-ai-and-clear-guardrails-45nf",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Resilient Web Scraping Pipeline for B2B Lead Generation: Architecture Patterns with Node.js and n8n",
-    "link": "https://dev.to/shahdinsalman/building-a-resilient-web-scraping-pipeline-for-b2b-lead-generation-architecture-patterns-with-2e67",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to clone a Keycloak realm on the same instance (fixing \"duplicate key value violates unique constraint\")",
-    "link": "https://dev.to/vimukthishohanjay/how-to-clone-a-keycloak-realm-on-the-same-instance-fixing-duplicate-key-value-violates-unique-25ja",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Failure Engineering Explained by Uncle to Nephew — Episode 1: Why Failures Are Normal",
-    "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-1-why-failures-are-normal-4048",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Approval Emails Without Effect Loops",
-    "link": "https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building for Bursty Traffic: Queues and Real-Time Design for a World Cup App July 11, 2026",
-    "link": "https://dev.to/danishrazabangash/building-for-bursty-traffic-queues-and-real-time-design-for-a-world-cup-appjuly-11-2026-2fm9",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Backend is Making Users Wait 7 Seconds. Here's the Fix.",
-    "link": "https://dev.to/rick13211/your-backend-is-making-users-wait-7-seconds-heres-the-fix-42e6",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "cordless v0.6: Going CLI-First — Run It, Scan the QR, You're Paired",
-    "link": "https://dev.to/naveenneog/cordless-v06-going-cli-first-run-it-scan-the-qr-youre-paired-4lmo",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Matrix: Building Real-Time Chat, Notifications, and Live Updates with WebSockets",
-    "link": "https://dev.to/timevolt/the-matrix-building-real-time-chat-notifications-and-live-updates-with-websockets-57km",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a bedtime-story app with AI and clear guardrails",
-    "link": "https://dev.to/msc2601/building-a-bedtime-story-app-with-ai-and-clear-guardrails-45nf",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Resilient Web Scraping Pipeline for B2B Lead Generation: Architecture Patterns with Node.js and n8n",
-    "link": "https://dev.to/shahdinsalman/building-a-resilient-web-scraping-pipeline-for-b2b-lead-generation-architecture-patterns-with-2e67",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to clone a Keycloak realm on the same instance (fixing \"duplicate key value violates unique constraint\")",
-    "link": "https://dev.to/vimukthishohanjay/how-to-clone-a-keycloak-realm-on-the-same-instance-fixing-duplicate-key-value-violates-unique-25ja",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Failure Engineering Explained by Uncle to Nephew — Episode 1: Why Failures Are Normal",
-    "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-1-why-failures-are-normal-4048",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Approval Emails Without Effect Loops",
-    "link": "https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building for Bursty Traffic: Queues and Real-Time Design for a World Cup App July 11, 2026",
-    "link": "https://dev.to/danishrazabangash/building-for-bursty-traffic-queues-and-real-time-design-for-a-world-cup-appjuly-11-2026-2fm9",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Backend is Making Users Wait 7 Seconds. Here's the Fix.",
-    "link": "https://dev.to/rick13211/your-backend-is-making-users-wait-7-seconds-heres-the-fix-42e6",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "cordless v0.6: Going CLI-First — Run It, Scan the QR, You're Paired",
-    "link": "https://dev.to/naveenneog/cordless-v06-going-cli-first-run-it-scan-the-qr-youre-paired-4lmo",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Matrix: Building Real-Time Chat, Notifications, and Live Updates with WebSockets",
-    "link": "https://dev.to/timevolt/the-matrix-building-real-time-chat-notifications-and-live-updates-with-websockets-57km",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a bedtime-story app with AI and clear guardrails",
-    "link": "https://dev.to/msc2601/building-a-bedtime-story-app-with-ai-and-clear-guardrails-45nf",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Resilient Web Scraping Pipeline for B2B Lead Generation: Architecture Patterns with Node.js and n8n",
-    "link": "https://dev.to/shahdinsalman/building-a-resilient-web-scraping-pipeline-for-b2b-lead-generation-architecture-patterns-with-2e67",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to clone a Keycloak realm on the same instance (fixing \"duplicate key value violates unique constraint\")",
-    "link": "https://dev.to/vimukthishohanjay/how-to-clone-a-keycloak-realm-on-the-same-instance-fixing-duplicate-key-value-violates-unique-25ja",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Failure Engineering Explained by Uncle to Nephew — Episode 1: Why Failures Are Normal",
-    "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-1-why-failures-are-normal-4048",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Approval Emails Without Effect Loops",
-    "link": "https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building for Bursty Traffic: Queues and Real-Time Design for a World Cup App July 11, 2026",
-    "link": "https://dev.to/danishrazabangash/building-for-bursty-traffic-queues-and-real-time-design-for-a-world-cup-appjuly-11-2026-2fm9",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Backend is Making Users Wait 7 Seconds. Here's the Fix.",
-    "link": "https://dev.to/rick13211/your-backend-is-making-users-wait-7-seconds-heres-the-fix-42e6",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "cordless v0.6: Going CLI-First — Run It, Scan the QR, You're Paired",
-    "link": "https://dev.to/naveenneog/cordless-v06-going-cli-first-run-it-scan-the-qr-youre-paired-4lmo",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Matrix: Building Real-Time Chat, Notifications, and Live Updates with WebSockets",
-    "link": "https://dev.to/timevolt/the-matrix-building-real-time-chat-notifications-and-live-updates-with-websockets-57km",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a bedtime-story app with AI and clear guardrails",
-    "link": "https://dev.to/msc2601/building-a-bedtime-story-app-with-ai-and-clear-guardrails-45nf",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Resilient Web Scraping Pipeline for B2B Lead Generation: Architecture Patterns with Node.js and n8n",
-    "link": "https://dev.to/shahdinsalman/building-a-resilient-web-scraping-pipeline-for-b2b-lead-generation-architecture-patterns-with-2e67",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to clone a Keycloak realm on the same instance (fixing \"duplicate key value violates unique constraint\")",
-    "link": "https://dev.to/vimukthishohanjay/how-to-clone-a-keycloak-realm-on-the-same-instance-fixing-duplicate-key-value-violates-unique-25ja",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Failure Engineering Explained by Uncle to Nephew — Episode 1: Why Failures Are Normal",
-    "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-1-why-failures-are-normal-4048",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Approval Emails Without Effect Loops",
-    "link": "https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building for Bursty Traffic: Queues and Real-Time Design for a World Cup App July 11, 2026",
-    "link": "https://dev.to/danishrazabangash/building-for-bursty-traffic-queues-and-real-time-design-for-a-world-cup-appjuly-11-2026-2fm9",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Backend is Making Users Wait 7 Seconds. Here's the Fix.",
-    "link": "https://dev.to/rick13211/your-backend-is-making-users-wait-7-seconds-heres-the-fix-42e6",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "cordless v0.6: Going CLI-First — Run It, Scan the QR, You're Paired",
-    "link": "https://dev.to/naveenneog/cordless-v06-going-cli-first-run-it-scan-the-qr-youre-paired-4lmo",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Matrix: Building Real-Time Chat, Notifications, and Live Updates with WebSockets",
-    "link": "https://dev.to/timevolt/the-matrix-building-real-time-chat-notifications-and-live-updates-with-websockets-57km",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a bedtime-story app with AI and clear guardrails",
-    "link": "https://dev.to/msc2601/building-a-bedtime-story-app-with-ai-and-clear-guardrails-45nf",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Resilient Web Scraping Pipeline for B2B Lead Generation: Architecture Patterns with Node.js and n8n",
-    "link": "https://dev.to/shahdinsalman/building-a-resilient-web-scraping-pipeline-for-b2b-lead-generation-architecture-patterns-with-2e67",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to clone a Keycloak realm on the same instance (fixing \"duplicate key value violates unique constraint\")",
-    "link": "https://dev.to/vimukthishohanjay/how-to-clone-a-keycloak-realm-on-the-same-instance-fixing-duplicate-key-value-violates-unique-25ja",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Failure Engineering Explained by Uncle to Nephew — Episode 1: Why Failures Are Normal",
-    "link": "https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-1-why-failures-are-normal-4048",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Approval Emails Without Effect Loops",
-    "link": "https://dev.to/ryanlee91/react-approval-emails-without-effect-loops-3afp",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building for Bursty Traffic: Queues and Real-Time Design for a World Cup App July 11, 2026",
-    "link": "https://dev.to/danishrazabangash/building-for-bursty-traffic-queues-and-real-time-design-for-a-world-cup-appjuly-11-2026-2fm9",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Backend is Making Users Wait 7 Seconds. Here's the Fix.",
-    "link": "https://dev.to/rick13211/your-backend-is-making-users-wait-7-seconds-heres-the-fix-42e6",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "cordless v0.6: Going CLI-First — Run It, Scan the QR, You're Paired",
-    "link": "https://dev.to/naveenneog/cordless-v06-going-cli-first-run-it-scan-the-qr-youre-paired-4lmo",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Matrix: Building Real-Time Chat, Notifications, and Live Updates with WebSockets",
-    "link": "https://dev.to/timevolt/the-matrix-building-real-time-chat-notifications-and-live-updates-with-websockets-57km",
-    "date": "7/11/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap",
-    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n",
-    "date": "7/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap",
-    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n",
-    "date": "7/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap",
-    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n",
-    "date": "7/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap",
-    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n",
-    "date": "7/10/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Internals Explained by Uncle to Nephew — Part 4: Express Plumbing, Error Handling & The Full Roadmap",
-    "link": "https://dev.to/surajrkhonde/nodejs-internals-explained-by-uncle-to-nephew-part-4-express-plumbing-error-handling-the-4c3n",
-    "date": "7/10/2026",
     "site": "dev.to"
   },
   {
@@ -466,7 +466,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -557,7 +557,7 @@
   {
     "title": "Creating Secure Password Flows With NodeJS And MySQL",
     "link": "https://www.smashingmagazine.com/2020/03/creating-secure-password-flows-nodejs-mysql/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "3/11/2020",
     "site": "smashingmagazine"
   },
@@ -634,14 +634,14 @@
   {
     "title": "Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers",
     "link": "https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "6/7/2018",
     "site": "smashingmagazine"
   },
   {
     "title": "Sharing Code Between Projects: Lessons Learned In The Trenches",
     "link": "https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "4/25/2018",
     "site": "smashingmagazine"
   },
@@ -657,6 +657,76 @@
     "link": "https://www.smashingmagazine.com/2018/03/react-wordpress-web-app/",
     "reading_time": "18 min read",
     "date": "3/7/2018",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Creating Secure Password Resets With JSON Web Tokens",
+    "link": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/",
+    "reading_time": "18 min read",
+    "date": "11/9/2017",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Developing A Chatbot Using Microsoft’s Bot Framework, LUIS And Node.js (Part 1)",
+    "link": "https://www.smashingmagazine.com/2017/05/chatbot-microsoft-bot-framework-luis-nodejs-part1/",
+    "reading_time": "13 min read",
+    "date": "5/30/2017",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "How To Secure Your Web App With HTTP Headers",
+    "link": "https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/",
+    "reading_time": "15 min read",
+    "date": "4/3/2017",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Beyond The Browser: From Web Apps To Desktop Apps",
+    "link": "https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/",
+    "reading_time": "40 min read",
+    "date": "3/21/2017",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "How To Develop An Interactive Command Line Application Using Node.js",
+    "link": "https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/",
+    "reading_time": "14 min read",
+    "date": "3/14/2017",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "How To Develop A Chat Bot With Node.js",
+    "link": "https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/",
+    "reading_time": "9 min read",
+    "date": "10/17/2016",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Next Generation Server Compression With Brotli",
+    "link": "https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/",
+    "reading_time": "18 min read",
+    "date": "10/5/2016",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Optimizing Critical-Path Performance With Express Server And Handlebars",
+    "link": "https://www.smashingmagazine.com/2016/08/optimizing-critical-path-performance-with-express-server-and-handlebars/",
+    "reading_time": "12 min read",
+    "date": "8/3/2016",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "How To Harness The Machines: Being Productive With Task Runners",
+    "link": "https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/",
+    "reading_time": "17 min read",
+    "date": "6/22/2016",
+    "site": "smashingmagazine"
+  },
+  {
+    "title": "Building A Real-Time Retrospective Board With Video Chat",
+    "link": "https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/",
+    "reading_time": "14 min read",
+    "date": "3/8/2016",
     "site": "smashingmagazine"
   },
   {
