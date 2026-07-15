@@ -1,43 +1,337 @@
 [
   {
+    "title": "Cleanup Functions in useEffect: Stop Leaks Before They Start",
+    "link": "https://dev.to/naserrasouli/cleanup-functions-in-useeffect-stop-leaks-before-they-start-5h54",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How the 2024 European Accessibility Act Enforcement and ARIA 1.3 Live Region Updates Reshape aria‑live Strategies for React 18 SPAs",
+    "link": "https://dev.to/priya_nair/how-the-2024-european-accessibility-act-enforcement-and-aria-13-live-region-updates-reshape-4le8",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing GeoIcons: 422 tree-shakable geographic icons",
+    "link": "https://dev.to/rushan123/introducing-geoicons-422-tree-shakable-geographic-icons-43i",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Liquid to Hydrogen: A Developer's Honest Guide to Going Headless on Shopify",
+    "link": "https://dev.to/lucy1/from-liquid-to-hydrogen-a-developers-honest-guide-to-going-headless-on-shopify-2k98",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From MERN to Modern Full Stack: Everything That Changed",
+    "link": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `npm audit` Isn't Enough to Secure Your React or Next.js App",
+    "link": "https://dev.to/pruthvidarji1993/why-npm-audit-isnt-enough-to-secure-your-react-or-nextjs-app-3k58",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
+    "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Splitting: Dynamic Imports in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/code-splitting-dynamic-imports-in-nextjs-4f10",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Part 2: Stop Fetching Data Inside useEffect (what modern React apps do instead)",
+    "link": "https://dev.to/alejandrodeveloper/part-2-stop-fetching-data-inside-useeffect-what-modern-react-apps-do-instead-lg",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your `.sort()` is mutating state. JavaScript finally gave you the fix.",
+    "link": "https://dev.to/parsajiravand/your-sort-is-mutating-state-javascript-finally-gave-you-the-fix-12i2",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cleanup Functions in useEffect: Stop Leaks Before They Start",
+    "link": "https://dev.to/naserrasouli/cleanup-functions-in-useeffect-stop-leaks-before-they-start-5h54",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How the 2024 European Accessibility Act Enforcement and ARIA 1.3 Live Region Updates Reshape aria‑live Strategies for React 18 SPAs",
+    "link": "https://dev.to/priya_nair/how-the-2024-european-accessibility-act-enforcement-and-aria-13-live-region-updates-reshape-4le8",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing GeoIcons: 422 tree-shakable geographic icons",
+    "link": "https://dev.to/rushan123/introducing-geoicons-422-tree-shakable-geographic-icons-43i",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Liquid to Hydrogen: A Developer's Honest Guide to Going Headless on Shopify",
+    "link": "https://dev.to/lucy1/from-liquid-to-hydrogen-a-developers-honest-guide-to-going-headless-on-shopify-2k98",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From MERN to Modern Full Stack: Everything That Changed",
+    "link": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `npm audit` Isn't Enough to Secure Your React or Next.js App",
+    "link": "https://dev.to/pruthvidarji1993/why-npm-audit-isnt-enough-to-secure-your-react-or-nextjs-app-3k58",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
+    "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Splitting: Dynamic Imports in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/code-splitting-dynamic-imports-in-nextjs-4f10",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Part 2: Stop Fetching Data Inside useEffect (what modern React apps do instead)",
+    "link": "https://dev.to/alejandrodeveloper/part-2-stop-fetching-data-inside-useeffect-what-modern-react-apps-do-instead-lg",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your `.sort()` is mutating state. JavaScript finally gave you the fix.",
+    "link": "https://dev.to/parsajiravand/your-sort-is-mutating-state-javascript-finally-gave-you-the-fix-12i2",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cleanup Functions in useEffect: Stop Leaks Before They Start",
+    "link": "https://dev.to/naserrasouli/cleanup-functions-in-useeffect-stop-leaks-before-they-start-5h54",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How the 2024 European Accessibility Act Enforcement and ARIA 1.3 Live Region Updates Reshape aria‑live Strategies for React 18 SPAs",
+    "link": "https://dev.to/priya_nair/how-the-2024-european-accessibility-act-enforcement-and-aria-13-live-region-updates-reshape-4le8",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing GeoIcons: 422 tree-shakable geographic icons",
+    "link": "https://dev.to/rushan123/introducing-geoicons-422-tree-shakable-geographic-icons-43i",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Liquid to Hydrogen: A Developer's Honest Guide to Going Headless on Shopify",
+    "link": "https://dev.to/lucy1/from-liquid-to-hydrogen-a-developers-honest-guide-to-going-headless-on-shopify-2k98",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From MERN to Modern Full Stack: Everything That Changed",
+    "link": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `npm audit` Isn't Enough to Secure Your React or Next.js App",
+    "link": "https://dev.to/pruthvidarji1993/why-npm-audit-isnt-enough-to-secure-your-react-or-nextjs-app-3k58",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
+    "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Splitting: Dynamic Imports in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/code-splitting-dynamic-imports-in-nextjs-4f10",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Part 2: Stop Fetching Data Inside useEffect (what modern React apps do instead)",
+    "link": "https://dev.to/alejandrodeveloper/part-2-stop-fetching-data-inside-useeffect-what-modern-react-apps-do-instead-lg",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your `.sort()` is mutating state. JavaScript finally gave you the fix.",
+    "link": "https://dev.to/parsajiravand/your-sort-is-mutating-state-javascript-finally-gave-you-the-fix-12i2",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cleanup Functions in useEffect: Stop Leaks Before They Start",
+    "link": "https://dev.to/naserrasouli/cleanup-functions-in-useeffect-stop-leaks-before-they-start-5h54",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How the 2024 European Accessibility Act Enforcement and ARIA 1.3 Live Region Updates Reshape aria‑live Strategies for React 18 SPAs",
+    "link": "https://dev.to/priya_nair/how-the-2024-european-accessibility-act-enforcement-and-aria-13-live-region-updates-reshape-4le8",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing GeoIcons: 422 tree-shakable geographic icons",
+    "link": "https://dev.to/rushan123/introducing-geoicons-422-tree-shakable-geographic-icons-43i",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Liquid to Hydrogen: A Developer's Honest Guide to Going Headless on Shopify",
+    "link": "https://dev.to/lucy1/from-liquid-to-hydrogen-a-developers-honest-guide-to-going-headless-on-shopify-2k98",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From MERN to Modern Full Stack: Everything That Changed",
+    "link": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `npm audit` Isn't Enough to Secure Your React or Next.js App",
+    "link": "https://dev.to/pruthvidarji1993/why-npm-audit-isnt-enough-to-secure-your-react-or-nextjs-app-3k58",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
+    "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Splitting: Dynamic Imports in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/code-splitting-dynamic-imports-in-nextjs-4f10",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Part 2: Stop Fetching Data Inside useEffect (what modern React apps do instead)",
+    "link": "https://dev.to/alejandrodeveloper/part-2-stop-fetching-data-inside-useeffect-what-modern-react-apps-do-instead-lg",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your `.sort()` is mutating state. JavaScript finally gave you the fix.",
+    "link": "https://dev.to/parsajiravand/your-sort-is-mutating-state-javascript-finally-gave-you-the-fix-12i2",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cleanup Functions in useEffect: Stop Leaks Before They Start",
+    "link": "https://dev.to/naserrasouli/cleanup-functions-in-useeffect-stop-leaks-before-they-start-5h54",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How the 2024 European Accessibility Act Enforcement and ARIA 1.3 Live Region Updates Reshape aria‑live Strategies for React 18 SPAs",
+    "link": "https://dev.to/priya_nair/how-the-2024-european-accessibility-act-enforcement-and-aria-13-live-region-updates-reshape-4le8",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Introducing GeoIcons: 422 tree-shakable geographic icons",
+    "link": "https://dev.to/rushan123/introducing-geoicons-422-tree-shakable-geographic-icons-43i",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Liquid to Hydrogen: A Developer's Honest Guide to Going Headless on Shopify",
+    "link": "https://dev.to/lucy1/from-liquid-to-hydrogen-a-developers-honest-guide-to-going-headless-on-shopify-2k98",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From MERN to Modern Full Stack: Everything That Changed",
+    "link": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `npm audit` Isn't Enough to Secure Your React or Next.js App",
+    "link": "https://dev.to/pruthvidarji1993/why-npm-audit-isnt-enough-to-secure-your-react-or-nextjs-app-3k58",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
+    "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Code Splitting: Dynamic Imports in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/code-splitting-dynamic-imports-in-nextjs-4f10",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Part 2: Stop Fetching Data Inside useEffect (what modern React apps do instead)",
+    "link": "https://dev.to/alejandrodeveloper/part-2-stop-fetching-data-inside-useeffect-what-modern-react-apps-do-instead-lg",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your `.sort()` is mutating state. JavaScript finally gave you the fix.",
+    "link": "https://dev.to/parsajiravand/your-sort-is-mutating-state-javascript-finally-gave-you-the-fix-12i2",
+    "date": "7/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Stunning Developer Portfolio with Next.js 16, Tailwind CSS v4 & Framer Motion",
+    "link": "https://dev.to/codebucks/build-a-stunning-developer-portfolio-with-nextjs-16-tailwind-css-v4-framer-motion-5h76",
+    "date": "7/14/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "nuqs: URL State Management in Next.js (2026)",
     "link": "https://dev.to/stacknotice/nuqs-url-state-management-in-nextjs-2026-31fn",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Managing i18n keys in React without losing your mind (without leaving your IDE)",
-    "link": "https://dev.to/ibrahimdans/managing-i18n-keys-in-react-without-losing-your-mind-without-leaving-your-ide-5fc7",
+    "title": "Storybook 8 with Next.js: Complete Guide (2026)",
+    "link": "https://dev.to/stacknotice/storybook-8-with-nextjs-complete-guide-2026-51d5",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Best SEO npm Package for React in 2026 (Tested on a Real App)",
-    "link": "https://dev.to/mitudas/the-best-seo-npm-package-for-react-in-2026-tested-on-a-real-app-3bc6",
+    "title": "Day 7 - Revision",
+    "link": "https://dev.to/faizan-nazir/day-7-revision-53g3",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop DOM Freezes: Virtualized Lists in React ⚡",
-    "link": "https://dev.to/iprajapatiparesh/stop-dom-freezes-virtualized-lists-in-react-59on",
+    "title": "Users reloaded my homepage three times before it rendered and the fix was one line",
+    "link": "https://dev.to/mjmirza/users-reloaded-my-homepage-three-times-before-it-rendered-and-the-fix-was-one-line-3510",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I built RuntimeVault: replay production bugs with full runtime state",
-    "link": "https://dev.to/giovanne_sartor/how-i-built-runtimevault-replay-production-bugs-with-full-runtime-state-1mdb",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent the Past Few Weeks Building a Cinema App with React & Firebase 🎬",
-    "link": "https://dev.to/japam28/i-spent-the-past-few-weeks-building-a-cinema-app-with-react-firebase-5f0l",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Gamified EdTech App with Next.js & Supabase 🧠🔥",
-    "link": "https://dev.to/priyanshu_singh_a546c21fc/i-built-a-gamified-edtech-app-with-nextjs-supabase-36j9",
+    "title": "Build a Stunning Developer Portfolio with Next.js 16, Tailwind CSS v4 & Framer Motion",
+    "link": "https://dev.to/codebucks/build-a-stunning-developer-portfolio-with-nextjs-16-tailwind-css-v4-framer-motion-5h76",
     "date": "7/14/2026",
     "site": "dev.to"
   },
@@ -48,38 +342,26 @@
     "site": "dev.to"
   },
   {
-    "title": "Managing i18n keys in React without losing your mind (without leaving your IDE)",
-    "link": "https://dev.to/ibrahimdans/managing-i18n-keys-in-react-without-losing-your-mind-without-leaving-your-ide-5fc7",
+    "title": "Storybook 8 with Next.js: Complete Guide (2026)",
+    "link": "https://dev.to/stacknotice/storybook-8-with-nextjs-complete-guide-2026-51d5",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Best SEO npm Package for React in 2026 (Tested on a Real App)",
-    "link": "https://dev.to/mitudas/the-best-seo-npm-package-for-react-in-2026-tested-on-a-real-app-3bc6",
+    "title": "Day 7 - Revision",
+    "link": "https://dev.to/faizan-nazir/day-7-revision-53g3",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop DOM Freezes: Virtualized Lists in React ⚡",
-    "link": "https://dev.to/iprajapatiparesh/stop-dom-freezes-virtualized-lists-in-react-59on",
+    "title": "Users reloaded my homepage three times before it rendered and the fix was one line",
+    "link": "https://dev.to/mjmirza/users-reloaded-my-homepage-three-times-before-it-rendered-and-the-fix-was-one-line-3510",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I built RuntimeVault: replay production bugs with full runtime state",
-    "link": "https://dev.to/giovanne_sartor/how-i-built-runtimevault-replay-production-bugs-with-full-runtime-state-1mdb",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent the Past Few Weeks Building a Cinema App with React & Firebase 🎬",
-    "link": "https://dev.to/japam28/i-spent-the-past-few-weeks-building-a-cinema-app-with-react-firebase-5f0l",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Gamified EdTech App with Next.js & Supabase 🧠🔥",
-    "link": "https://dev.to/priyanshu_singh_a546c21fc/i-built-a-gamified-edtech-app-with-nextjs-supabase-36j9",
+    "title": "Build a Stunning Developer Portfolio with Next.js 16, Tailwind CSS v4 & Framer Motion",
+    "link": "https://dev.to/codebucks/build-a-stunning-developer-portfolio-with-nextjs-16-tailwind-css-v4-framer-motion-5h76",
     "date": "7/14/2026",
     "site": "dev.to"
   },
@@ -90,38 +372,26 @@
     "site": "dev.to"
   },
   {
-    "title": "Managing i18n keys in React without losing your mind (without leaving your IDE)",
-    "link": "https://dev.to/ibrahimdans/managing-i18n-keys-in-react-without-losing-your-mind-without-leaving-your-ide-5fc7",
+    "title": "Storybook 8 with Next.js: Complete Guide (2026)",
+    "link": "https://dev.to/stacknotice/storybook-8-with-nextjs-complete-guide-2026-51d5",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Best SEO npm Package for React in 2026 (Tested on a Real App)",
-    "link": "https://dev.to/mitudas/the-best-seo-npm-package-for-react-in-2026-tested-on-a-real-app-3bc6",
+    "title": "Day 7 - Revision",
+    "link": "https://dev.to/faizan-nazir/day-7-revision-53g3",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop DOM Freezes: Virtualized Lists in React ⚡",
-    "link": "https://dev.to/iprajapatiparesh/stop-dom-freezes-virtualized-lists-in-react-59on",
+    "title": "Users reloaded my homepage three times before it rendered and the fix was one line",
+    "link": "https://dev.to/mjmirza/users-reloaded-my-homepage-three-times-before-it-rendered-and-the-fix-was-one-line-3510",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I built RuntimeVault: replay production bugs with full runtime state",
-    "link": "https://dev.to/giovanne_sartor/how-i-built-runtimevault-replay-production-bugs-with-full-runtime-state-1mdb",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent the Past Few Weeks Building a Cinema App with React & Firebase 🎬",
-    "link": "https://dev.to/japam28/i-spent-the-past-few-weeks-building-a-cinema-app-with-react-firebase-5f0l",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Gamified EdTech App with Next.js & Supabase 🧠🔥",
-    "link": "https://dev.to/priyanshu_singh_a546c21fc/i-built-a-gamified-edtech-app-with-nextjs-supabase-36j9",
+    "title": "Build a Stunning Developer Portfolio with Next.js 16, Tailwind CSS v4 & Framer Motion",
+    "link": "https://dev.to/codebucks/build-a-stunning-developer-portfolio-with-nextjs-16-tailwind-css-v4-framer-motion-5h76",
     "date": "7/14/2026",
     "site": "dev.to"
   },
@@ -132,38 +402,26 @@
     "site": "dev.to"
   },
   {
-    "title": "Managing i18n keys in React without losing your mind (without leaving your IDE)",
-    "link": "https://dev.to/ibrahimdans/managing-i18n-keys-in-react-without-losing-your-mind-without-leaving-your-ide-5fc7",
+    "title": "Storybook 8 with Next.js: Complete Guide (2026)",
+    "link": "https://dev.to/stacknotice/storybook-8-with-nextjs-complete-guide-2026-51d5",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Best SEO npm Package for React in 2026 (Tested on a Real App)",
-    "link": "https://dev.to/mitudas/the-best-seo-npm-package-for-react-in-2026-tested-on-a-real-app-3bc6",
+    "title": "Day 7 - Revision",
+    "link": "https://dev.to/faizan-nazir/day-7-revision-53g3",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop DOM Freezes: Virtualized Lists in React ⚡",
-    "link": "https://dev.to/iprajapatiparesh/stop-dom-freezes-virtualized-lists-in-react-59on",
+    "title": "Users reloaded my homepage three times before it rendered and the fix was one line",
+    "link": "https://dev.to/mjmirza/users-reloaded-my-homepage-three-times-before-it-rendered-and-the-fix-was-one-line-3510",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I built RuntimeVault: replay production bugs with full runtime state",
-    "link": "https://dev.to/giovanne_sartor/how-i-built-runtimevault-replay-production-bugs-with-full-runtime-state-1mdb",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent the Past Few Weeks Building a Cinema App with React & Firebase 🎬",
-    "link": "https://dev.to/japam28/i-spent-the-past-few-weeks-building-a-cinema-app-with-react-firebase-5f0l",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Gamified EdTech App with Next.js & Supabase 🧠🔥",
-    "link": "https://dev.to/priyanshu_singh_a546c21fc/i-built-a-gamified-edtech-app-with-nextjs-supabase-36j9",
+    "title": "Build a Stunning Developer Portfolio with Next.js 16, Tailwind CSS v4 & Framer Motion",
+    "link": "https://dev.to/codebucks/build-a-stunning-developer-portfolio-with-nextjs-16-tailwind-css-v4-framer-motion-5h76",
     "date": "7/14/2026",
     "site": "dev.to"
   },
@@ -174,279 +432,21 @@
     "site": "dev.to"
   },
   {
-    "title": "Managing i18n keys in React without losing your mind (without leaving your IDE)",
-    "link": "https://dev.to/ibrahimdans/managing-i18n-keys-in-react-without-losing-your-mind-without-leaving-your-ide-5fc7",
+    "title": "Storybook 8 with Next.js: Complete Guide (2026)",
+    "link": "https://dev.to/stacknotice/storybook-8-with-nextjs-complete-guide-2026-51d5",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Best SEO npm Package for React in 2026 (Tested on a Real App)",
-    "link": "https://dev.to/mitudas/the-best-seo-npm-package-for-react-in-2026-tested-on-a-real-app-3bc6",
+    "title": "Day 7 - Revision",
+    "link": "https://dev.to/faizan-nazir/day-7-revision-53g3",
     "date": "7/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "Stop DOM Freezes: Virtualized Lists in React ⚡",
-    "link": "https://dev.to/iprajapatiparesh/stop-dom-freezes-virtualized-lists-in-react-59on",
+    "title": "Users reloaded my homepage three times before it rendered and the fix was one line",
+    "link": "https://dev.to/mjmirza/users-reloaded-my-homepage-three-times-before-it-rendered-and-the-fix-was-one-line-3510",
     "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built RuntimeVault: replay production bugs with full runtime state",
-    "link": "https://dev.to/giovanne_sartor/how-i-built-runtimevault-replay-production-bugs-with-full-runtime-state-1mdb",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent the Past Few Weeks Building a Cinema App with React & Firebase 🎬",
-    "link": "https://dev.to/japam28/i-spent-the-past-few-weeks-building-a-cinema-app-with-react-firebase-5f0l",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Gamified EdTech App with Next.js & Supabase 🧠🔥",
-    "link": "https://dev.to/priyanshu_singh_a546c21fc/i-built-a-gamified-edtech-app-with-nextjs-supabase-36j9",
-    "date": "7/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
-    "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Atomics and SharedArrayBuffer in 2026: Practical Patterns for Cross-Worker State",
-    "link": "https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform",
-    "link": "https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Production Leap: Scaling Agent Workflows Globally on thingd.cloud (Part 4)",
-    "link": "https://dev.to/sayanmohsin/the-production-leap-scaling-agent-workflows-globally-on-thingdcloud-part-4-1cai",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Letting AI Write Your Entire Component",
-    "link": "https://dev.to/ntty/stop-letting-ai-write-your-entire-component-280",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "3 bugs que encontré auditando mi propio portafolio en React (y que Lighthouse no te explica bien)",
-    "link": "https://dev.to/efrenmunoz/3-bugs-que-encontre-auditando-mi-propio-portafolio-en-react-y-que-lighthouse-no-te-explica-bien-3fmo",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "next-safe-action: Type-Safe Server Actions in Next.js (2026)",
-    "link": "https://dev.to/stacknotice/next-safe-action-type-safe-server-actions-in-nextjs-2026-4mhl",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Editing React components that never rendered",
-    "link": "https://dev.to/linb/editing-react-components-that-never-rendered-3dol",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
-    "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Atomics and SharedArrayBuffer in 2026: Practical Patterns for Cross-Worker State",
-    "link": "https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform",
-    "link": "https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Production Leap: Scaling Agent Workflows Globally on thingd.cloud (Part 4)",
-    "link": "https://dev.to/sayanmohsin/the-production-leap-scaling-agent-workflows-globally-on-thingdcloud-part-4-1cai",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Letting AI Write Your Entire Component",
-    "link": "https://dev.to/ntty/stop-letting-ai-write-your-entire-component-280",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "3 bugs que encontré auditando mi propio portafolio en React (y que Lighthouse no te explica bien)",
-    "link": "https://dev.to/efrenmunoz/3-bugs-que-encontre-auditando-mi-propio-portafolio-en-react-y-que-lighthouse-no-te-explica-bien-3fmo",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "next-safe-action: Type-Safe Server Actions in Next.js (2026)",
-    "link": "https://dev.to/stacknotice/next-safe-action-type-safe-server-actions-in-nextjs-2026-4mhl",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Editing React components that never rendered",
-    "link": "https://dev.to/linb/editing-react-components-that-never-rendered-3dol",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
-    "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Atomics and SharedArrayBuffer in 2026: Practical Patterns for Cross-Worker State",
-    "link": "https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform",
-    "link": "https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Production Leap: Scaling Agent Workflows Globally on thingd.cloud (Part 4)",
-    "link": "https://dev.to/sayanmohsin/the-production-leap-scaling-agent-workflows-globally-on-thingdcloud-part-4-1cai",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Letting AI Write Your Entire Component",
-    "link": "https://dev.to/ntty/stop-letting-ai-write-your-entire-component-280",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "3 bugs que encontré auditando mi propio portafolio en React (y que Lighthouse no te explica bien)",
-    "link": "https://dev.to/efrenmunoz/3-bugs-que-encontre-auditando-mi-propio-portafolio-en-react-y-que-lighthouse-no-te-explica-bien-3fmo",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "next-safe-action: Type-Safe Server Actions in Next.js (2026)",
-    "link": "https://dev.to/stacknotice/next-safe-action-type-safe-server-actions-in-nextjs-2026-4mhl",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Editing React components that never rendered",
-    "link": "https://dev.to/linb/editing-react-components-that-never-rendered-3dol",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
-    "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Atomics and SharedArrayBuffer in 2026: Practical Patterns for Cross-Worker State",
-    "link": "https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform",
-    "link": "https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Production Leap: Scaling Agent Workflows Globally on thingd.cloud (Part 4)",
-    "link": "https://dev.to/sayanmohsin/the-production-leap-scaling-agent-workflows-globally-on-thingdcloud-part-4-1cai",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Letting AI Write Your Entire Component",
-    "link": "https://dev.to/ntty/stop-letting-ai-write-your-entire-component-280",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "3 bugs que encontré auditando mi propio portafolio en React (y que Lighthouse no te explica bien)",
-    "link": "https://dev.to/efrenmunoz/3-bugs-que-encontre-auditando-mi-propio-portafolio-en-react-y-que-lighthouse-no-te-explica-bien-3fmo",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "next-safe-action: Type-Safe Server Actions in Next.js (2026)",
-    "link": "https://dev.to/stacknotice/next-safe-action-type-safe-server-actions-in-nextjs-2026-4mhl",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Editing React components that never rendered",
-    "link": "https://dev.to/linb/editing-react-components-that-never-rendered-3dol",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 Day 7 of Learning React: How Do Components Share Data? Understanding Lifting State Up",
-    "link": "https://dev.to/bismay-exe/day-7-of-learning-react-how-do-components-share-data-understanding-lifting-state-up-3eek",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JavaScript Atomics and SharedArrayBuffer in 2026: Practical Patterns for Cross-Worker State",
-    "link": "https://dev.to/jsmanifest/javascript-atomics-and-sharedarraybuffer-in-2026-practical-patterns-for-cross-worker-state-2p07",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform",
-    "link": "https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Production Leap: Scaling Agent Workflows Globally on thingd.cloud (Part 4)",
-    "link": "https://dev.to/sayanmohsin/the-production-leap-scaling-agent-workflows-globally-on-thingdcloud-part-4-1cai",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop Letting AI Write Your Entire Component",
-    "link": "https://dev.to/ntty/stop-letting-ai-write-your-entire-component-280",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "3 bugs que encontré auditando mi propio portafolio en React (y que Lighthouse no te explica bien)",
-    "link": "https://dev.to/efrenmunoz/3-bugs-que-encontre-auditando-mi-propio-portafolio-en-react-y-que-lighthouse-no-te-explica-bien-3fmo",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "next-safe-action: Type-Safe Server Actions in Next.js (2026)",
-    "link": "https://dev.to/stacknotice/next-safe-action-type-safe-server-actions-in-nextjs-2026-4mhl",
-    "date": "7/13/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Editing React components that never rendered",
-    "link": "https://dev.to/linb/editing-react-components-that-never-rendered-3dol",
-    "date": "7/13/2026",
     "site": "dev.to"
   },
   {
@@ -578,7 +578,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
@@ -676,7 +676,7 @@
   {
     "title": "Optimizing Next.js Applications With Nx",
     "link": "https://www.smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "10/26/2021",
     "site": "smashingmagazine"
   },
@@ -788,7 +788,7 @@
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   },
