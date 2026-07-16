@@ -1,91 +1,379 @@
 [
   {
+    "title": "Why I built SVOCS: Svelte-first docs in 2026",
+    "link": "https://dev.to/juddisjudd/why-i-built-svocs-svelte-first-docs-in-2026-13mk",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Programming language quirks",
+    "link": "https://dev.to/chocoscoding/programming-language-quirks-5159",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular Addicts #51: spartan/ui 1.0, A2UI, Signal Debouncing & more",
+    "link": "https://dev.to/playfulprogramming-angular/angular-addicts-51-spartanui-10-a2ui-signal-debouncing-more-48kb",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why does my React component crash on the first render when using data fetched inside useEffect()?",
+    "link": "https://dev.to/codesmithnazim/why-does-my-react-component-crash-on-the-first-render-when-using-data-fetched-inside-useeffect-1cp3",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Can Write Your React Code. It Still Can't Tell You Why It's Wrong.",
+    "link": "https://dev.to/gautam_f015817a44372df414/ai-can-write-your-react-code-it-still-cant-tell-you-why-its-wrong-19oc",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got tired of uploading private files to random servers, so I built a 100% client-side tool suite 🛠️",
+    "link": "https://dev.to/purnomosidi/i-got-tired-of-uploading-private-files-to-random-servers-so-i-built-a-100-client-side-tool-suite-4dan",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Reddit Comment Never Posted. The Button Click Returned Success.",
+    "link": "https://dev.to/cwsaibuddy/my-reddit-comment-never-posted-the-button-click-returned-success-5c58",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fixing INP: Field Notes on Interaction to Next Paint in a React App",
+    "link": "https://dev.to/ahmed_mahmoud360/fixing-inp-field-notes-on-interaction-to-next-paint-in-a-react-app-32fa",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Speechify's Scalability Secret: A Deep Dive into Vercel's Edge Network",
+    "link": "https://dev.to/frank_signorini/speechifys-scalability-secret-a-deep-dive-into-vercels-edge-network-27bo",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I benchmarked 3 ways to detect slide changes in video — fixed-interval screenshots, pixel diff, and block diff",
+    "link": "https://dev.to/larryxue/i-benchmarked-3-ways-to-detect-slide-changes-in-video-fixed-interval-screenshots-pixel-diff-and-3o11",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "มองข้าม TypeScript: ทำไม Type Safety ที่แท้จริงต้องไปไกลกว่าแค่ compile time",
+    "link": "https://dev.to/11_thanyathonr1ack__b2/mngkhaam-typescript-thamaim-type-safety-thiiaethcchringtngaipaiklkwaaaekh-compile-time-503i",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Payment Calculations Break at Scale (And How to Fix It)",
+    "link": "https://dev.to/saith_ibraheem_3282/why-your-payment-calculations-break-at-scale-and-how-to-fix-it-44p4",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built SVOCS: Svelte-first docs in 2026",
+    "link": "https://dev.to/juddisjudd/why-i-built-svocs-svelte-first-docs-in-2026-13mk",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Programming language quirks",
+    "link": "https://dev.to/chocoscoding/programming-language-quirks-5159",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular Addicts #51: spartan/ui 1.0, A2UI, Signal Debouncing & more",
+    "link": "https://dev.to/playfulprogramming-angular/angular-addicts-51-spartanui-10-a2ui-signal-debouncing-more-48kb",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why does my React component crash on the first render when using data fetched inside useEffect()?",
+    "link": "https://dev.to/codesmithnazim/why-does-my-react-component-crash-on-the-first-render-when-using-data-fetched-inside-useeffect-1cp3",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Can Write Your React Code. It Still Can't Tell You Why It's Wrong.",
+    "link": "https://dev.to/gautam_f015817a44372df414/ai-can-write-your-react-code-it-still-cant-tell-you-why-its-wrong-19oc",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got tired of uploading private files to random servers, so I built a 100% client-side tool suite 🛠️",
+    "link": "https://dev.to/purnomosidi/i-got-tired-of-uploading-private-files-to-random-servers-so-i-built-a-100-client-side-tool-suite-4dan",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Reddit Comment Never Posted. The Button Click Returned Success.",
+    "link": "https://dev.to/cwsaibuddy/my-reddit-comment-never-posted-the-button-click-returned-success-5c58",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fixing INP: Field Notes on Interaction to Next Paint in a React App",
+    "link": "https://dev.to/ahmed_mahmoud360/fixing-inp-field-notes-on-interaction-to-next-paint-in-a-react-app-32fa",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Speechify's Scalability Secret: A Deep Dive into Vercel's Edge Network",
+    "link": "https://dev.to/frank_signorini/speechifys-scalability-secret-a-deep-dive-into-vercels-edge-network-27bo",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I benchmarked 3 ways to detect slide changes in video — fixed-interval screenshots, pixel diff, and block diff",
+    "link": "https://dev.to/larryxue/i-benchmarked-3-ways-to-detect-slide-changes-in-video-fixed-interval-screenshots-pixel-diff-and-3o11",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "มองข้าม TypeScript: ทำไม Type Safety ที่แท้จริงต้องไปไกลกว่าแค่ compile time",
+    "link": "https://dev.to/11_thanyathonr1ack__b2/mngkhaam-typescript-thamaim-type-safety-thiiaethcchringtngaipaiklkwaaaekh-compile-time-503i",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Payment Calculations Break at Scale (And How to Fix It)",
+    "link": "https://dev.to/saith_ibraheem_3282/why-your-payment-calculations-break-at-scale-and-how-to-fix-it-44p4",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built SVOCS: Svelte-first docs in 2026",
+    "link": "https://dev.to/juddisjudd/why-i-built-svocs-svelte-first-docs-in-2026-13mk",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Programming language quirks",
+    "link": "https://dev.to/chocoscoding/programming-language-quirks-5159",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular Addicts #51: spartan/ui 1.0, A2UI, Signal Debouncing & more",
+    "link": "https://dev.to/playfulprogramming-angular/angular-addicts-51-spartanui-10-a2ui-signal-debouncing-more-48kb",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why does my React component crash on the first render when using data fetched inside useEffect()?",
+    "link": "https://dev.to/codesmithnazim/why-does-my-react-component-crash-on-the-first-render-when-using-data-fetched-inside-useeffect-1cp3",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Can Write Your React Code. It Still Can't Tell You Why It's Wrong.",
+    "link": "https://dev.to/gautam_f015817a44372df414/ai-can-write-your-react-code-it-still-cant-tell-you-why-its-wrong-19oc",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got tired of uploading private files to random servers, so I built a 100% client-side tool suite 🛠️",
+    "link": "https://dev.to/purnomosidi/i-got-tired-of-uploading-private-files-to-random-servers-so-i-built-a-100-client-side-tool-suite-4dan",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Reddit Comment Never Posted. The Button Click Returned Success.",
+    "link": "https://dev.to/cwsaibuddy/my-reddit-comment-never-posted-the-button-click-returned-success-5c58",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fixing INP: Field Notes on Interaction to Next Paint in a React App",
+    "link": "https://dev.to/ahmed_mahmoud360/fixing-inp-field-notes-on-interaction-to-next-paint-in-a-react-app-32fa",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Speechify's Scalability Secret: A Deep Dive into Vercel's Edge Network",
+    "link": "https://dev.to/frank_signorini/speechifys-scalability-secret-a-deep-dive-into-vercels-edge-network-27bo",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I benchmarked 3 ways to detect slide changes in video — fixed-interval screenshots, pixel diff, and block diff",
+    "link": "https://dev.to/larryxue/i-benchmarked-3-ways-to-detect-slide-changes-in-video-fixed-interval-screenshots-pixel-diff-and-3o11",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "มองข้าม TypeScript: ทำไม Type Safety ที่แท้จริงต้องไปไกลกว่าแค่ compile time",
+    "link": "https://dev.to/11_thanyathonr1ack__b2/mngkhaam-typescript-thamaim-type-safety-thiiaethcchringtngaipaiklkwaaaekh-compile-time-503i",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Payment Calculations Break at Scale (And How to Fix It)",
+    "link": "https://dev.to/saith_ibraheem_3282/why-your-payment-calculations-break-at-scale-and-how-to-fix-it-44p4",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built SVOCS: Svelte-first docs in 2026",
+    "link": "https://dev.to/juddisjudd/why-i-built-svocs-svelte-first-docs-in-2026-13mk",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Programming language quirks",
+    "link": "https://dev.to/chocoscoding/programming-language-quirks-5159",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular Addicts #51: spartan/ui 1.0, A2UI, Signal Debouncing & more",
+    "link": "https://dev.to/playfulprogramming-angular/angular-addicts-51-spartanui-10-a2ui-signal-debouncing-more-48kb",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why does my React component crash on the first render when using data fetched inside useEffect()?",
+    "link": "https://dev.to/codesmithnazim/why-does-my-react-component-crash-on-the-first-render-when-using-data-fetched-inside-useeffect-1cp3",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Can Write Your React Code. It Still Can't Tell You Why It's Wrong.",
+    "link": "https://dev.to/gautam_f015817a44372df414/ai-can-write-your-react-code-it-still-cant-tell-you-why-its-wrong-19oc",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got tired of uploading private files to random servers, so I built a 100% client-side tool suite 🛠️",
+    "link": "https://dev.to/purnomosidi/i-got-tired-of-uploading-private-files-to-random-servers-so-i-built-a-100-client-side-tool-suite-4dan",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Reddit Comment Never Posted. The Button Click Returned Success.",
+    "link": "https://dev.to/cwsaibuddy/my-reddit-comment-never-posted-the-button-click-returned-success-5c58",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fixing INP: Field Notes on Interaction to Next Paint in a React App",
+    "link": "https://dev.to/ahmed_mahmoud360/fixing-inp-field-notes-on-interaction-to-next-paint-in-a-react-app-32fa",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Speechify's Scalability Secret: A Deep Dive into Vercel's Edge Network",
+    "link": "https://dev.to/frank_signorini/speechifys-scalability-secret-a-deep-dive-into-vercels-edge-network-27bo",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I benchmarked 3 ways to detect slide changes in video — fixed-interval screenshots, pixel diff, and block diff",
+    "link": "https://dev.to/larryxue/i-benchmarked-3-ways-to-detect-slide-changes-in-video-fixed-interval-screenshots-pixel-diff-and-3o11",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "มองข้าม TypeScript: ทำไม Type Safety ที่แท้จริงต้องไปไกลกว่าแค่ compile time",
+    "link": "https://dev.to/11_thanyathonr1ack__b2/mngkhaam-typescript-thamaim-type-safety-thiiaethcchringtngaipaiklkwaaaekh-compile-time-503i",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Payment Calculations Break at Scale (And How to Fix It)",
+    "link": "https://dev.to/saith_ibraheem_3282/why-your-payment-calculations-break-at-scale-and-how-to-fix-it-44p4",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built SVOCS: Svelte-first docs in 2026",
+    "link": "https://dev.to/juddisjudd/why-i-built-svocs-svelte-first-docs-in-2026-13mk",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Programming language quirks",
+    "link": "https://dev.to/chocoscoding/programming-language-quirks-5159",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Angular Addicts #51: spartan/ui 1.0, A2UI, Signal Debouncing & more",
+    "link": "https://dev.to/playfulprogramming-angular/angular-addicts-51-spartanui-10-a2ui-signal-debouncing-more-48kb",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why does my React component crash on the first render when using data fetched inside useEffect()?",
+    "link": "https://dev.to/codesmithnazim/why-does-my-react-component-crash-on-the-first-render-when-using-data-fetched-inside-useeffect-1cp3",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Can Write Your React Code. It Still Can't Tell You Why It's Wrong.",
+    "link": "https://dev.to/gautam_f015817a44372df414/ai-can-write-your-react-code-it-still-cant-tell-you-why-its-wrong-19oc",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I got tired of uploading private files to random servers, so I built a 100% client-side tool suite 🛠️",
+    "link": "https://dev.to/purnomosidi/i-got-tired-of-uploading-private-files-to-random-servers-so-i-built-a-100-client-side-tool-suite-4dan",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My Reddit Comment Never Posted. The Button Click Returned Success.",
+    "link": "https://dev.to/cwsaibuddy/my-reddit-comment-never-posted-the-button-click-returned-success-5c58",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Fixing INP: Field Notes on Interaction to Next Paint in a React App",
+    "link": "https://dev.to/ahmed_mahmoud360/fixing-inp-field-notes-on-interaction-to-next-paint-in-a-react-app-32fa",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Speechify's Scalability Secret: A Deep Dive into Vercel's Edge Network",
+    "link": "https://dev.to/frank_signorini/speechifys-scalability-secret-a-deep-dive-into-vercels-edge-network-27bo",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I benchmarked 3 ways to detect slide changes in video — fixed-interval screenshots, pixel diff, and block diff",
+    "link": "https://dev.to/larryxue/i-benchmarked-3-ways-to-detect-slide-changes-in-video-fixed-interval-screenshots-pixel-diff-and-3o11",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "มองข้าม TypeScript: ทำไม Type Safety ที่แท้จริงต้องไปไกลกว่าแค่ compile time",
+    "link": "https://dev.to/11_thanyathonr1ack__b2/mngkhaam-typescript-thamaim-type-safety-thiiaethcchringtngaipaiklkwaaaekh-compile-time-503i",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Payment Calculations Break at Scale (And How to Fix It)",
+    "link": "https://dev.to/saith_ibraheem_3282/why-your-payment-calculations-break-at-scale-and-how-to-fix-it-44p4",
+    "date": "7/16/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "How We Cut Our Browser Video Renderer's Frame Time by 80%",
     "link": "https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1",
     "date": "7/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "auto-animate now speaks marko",
-    "link": "https://dev.to/defunktdev/auto-animate-now-speaks-marko-5c7",
+    "title": "I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.",
+    "link": "https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah",
     "date": "7/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Architecture Explained from First Principles (The Mental Model Every Backend Developer Should Know)",
-    "link": "https://dev.to/aabiskar/nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-1lm2",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Film Format Searchable",
-    "link": "https://dev.to/alistairjcbrown/making-film-format-searchable-cgi",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to evaluate a slide-change detector without fooling yourself",
-    "link": "https://dev.to/larryxue/how-to-evaluate-a-slide-change-detector-without-fooling-yourself-2558",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where Should You Store Your JWT?",
-    "link": "https://dev.to/aymaneldawy/where-should-you-store-your-jwt-19ad",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Make Every Scheduled Job Safe to Re-Run",
-    "link": "https://dev.to/savage_solutions/how-we-make-every-scheduled-job-safe-to-re-run-48o8",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From MERN to Modern Full Stack: Everything That Changed",
-    "link": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built the Bluesky follow-growth automation with ramp-up and quality filters",
-    "link": "https://dev.to/morinaga/how-i-built-the-bluesky-follow-growth-automation-with-ramp-up-and-quality-filters-27kp",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your TypeScript 7 Upgrade Broke ESLint, ts-jest, and ts-morph",
-    "link": "https://dev.to/dev_encyclopedia/why-your-typescript-7-upgrade-broke-eslint-ts-jest-and-ts-morph-385k",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why `npm audit` Isn't Enough to Secure Your React or Next.js App",
-    "link": "https://dev.to/pruthvidarji1993/why-npm-audit-isnt-enough-to-secure-your-react-or-nextjs-app-3k58",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "# Building a Lightweight Product Filter with Vanilla JavaScript",
-    "link": "https://dev.to/rock-randy/-building-a-lightweight-product-filter-with-vanilla-javascript-4gl4",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
-    "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to check Core Web Vitals for hundreds of URLs at once (API + code)",
-    "link": "https://dev.to/quantoracle/how-to-check-core-web-vitals-for-hundreds-of-urls-at-once-api-code-45ni",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How PWA (Progressive Web Apps) are Changing the Mobile Gaming Landscape",
-    "link": "https://dev.to/no_momo_f91fc40d15fd8f213/how-pwa-progressive-web-apps-are-changing-the-mobile-gaming-landscape-444g",
+    "title": "I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.",
+    "link": "https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc",
     "date": "7/15/2026",
     "site": "dev.to"
   },
@@ -96,86 +384,14 @@
     "site": "dev.to"
   },
   {
-    "title": "auto-animate now speaks marko",
-    "link": "https://dev.to/defunktdev/auto-animate-now-speaks-marko-5c7",
+    "title": "I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.",
+    "link": "https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah",
     "date": "7/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Architecture Explained from First Principles (The Mental Model Every Backend Developer Should Know)",
-    "link": "https://dev.to/aabiskar/nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-1lm2",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Film Format Searchable",
-    "link": "https://dev.to/alistairjcbrown/making-film-format-searchable-cgi",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to evaluate a slide-change detector without fooling yourself",
-    "link": "https://dev.to/larryxue/how-to-evaluate-a-slide-change-detector-without-fooling-yourself-2558",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where Should You Store Your JWT?",
-    "link": "https://dev.to/aymaneldawy/where-should-you-store-your-jwt-19ad",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Make Every Scheduled Job Safe to Re-Run",
-    "link": "https://dev.to/savage_solutions/how-we-make-every-scheduled-job-safe-to-re-run-48o8",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From MERN to Modern Full Stack: Everything That Changed",
-    "link": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built the Bluesky follow-growth automation with ramp-up and quality filters",
-    "link": "https://dev.to/morinaga/how-i-built-the-bluesky-follow-growth-automation-with-ramp-up-and-quality-filters-27kp",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your TypeScript 7 Upgrade Broke ESLint, ts-jest, and ts-morph",
-    "link": "https://dev.to/dev_encyclopedia/why-your-typescript-7-upgrade-broke-eslint-ts-jest-and-ts-morph-385k",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why `npm audit` Isn't Enough to Secure Your React or Next.js App",
-    "link": "https://dev.to/pruthvidarji1993/why-npm-audit-isnt-enough-to-secure-your-react-or-nextjs-app-3k58",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "# Building a Lightweight Product Filter with Vanilla JavaScript",
-    "link": "https://dev.to/rock-randy/-building-a-lightweight-product-filter-with-vanilla-javascript-4gl4",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
-    "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to check Core Web Vitals for hundreds of URLs at once (API + code)",
-    "link": "https://dev.to/quantoracle/how-to-check-core-web-vitals-for-hundreds-of-urls-at-once-api-code-45ni",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How PWA (Progressive Web Apps) are Changing the Mobile Gaming Landscape",
-    "link": "https://dev.to/no_momo_f91fc40d15fd8f213/how-pwa-progressive-web-apps-are-changing-the-mobile-gaming-landscape-444g",
+    "title": "I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.",
+    "link": "https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc",
     "date": "7/15/2026",
     "site": "dev.to"
   },
@@ -186,86 +402,14 @@
     "site": "dev.to"
   },
   {
-    "title": "auto-animate now speaks marko",
-    "link": "https://dev.to/defunktdev/auto-animate-now-speaks-marko-5c7",
+    "title": "I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.",
+    "link": "https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah",
     "date": "7/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Architecture Explained from First Principles (The Mental Model Every Backend Developer Should Know)",
-    "link": "https://dev.to/aabiskar/nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-1lm2",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Film Format Searchable",
-    "link": "https://dev.to/alistairjcbrown/making-film-format-searchable-cgi",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to evaluate a slide-change detector without fooling yourself",
-    "link": "https://dev.to/larryxue/how-to-evaluate-a-slide-change-detector-without-fooling-yourself-2558",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where Should You Store Your JWT?",
-    "link": "https://dev.to/aymaneldawy/where-should-you-store-your-jwt-19ad",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Make Every Scheduled Job Safe to Re-Run",
-    "link": "https://dev.to/savage_solutions/how-we-make-every-scheduled-job-safe-to-re-run-48o8",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From MERN to Modern Full Stack: Everything That Changed",
-    "link": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built the Bluesky follow-growth automation with ramp-up and quality filters",
-    "link": "https://dev.to/morinaga/how-i-built-the-bluesky-follow-growth-automation-with-ramp-up-and-quality-filters-27kp",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your TypeScript 7 Upgrade Broke ESLint, ts-jest, and ts-morph",
-    "link": "https://dev.to/dev_encyclopedia/why-your-typescript-7-upgrade-broke-eslint-ts-jest-and-ts-morph-385k",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why `npm audit` Isn't Enough to Secure Your React or Next.js App",
-    "link": "https://dev.to/pruthvidarji1993/why-npm-audit-isnt-enough-to-secure-your-react-or-nextjs-app-3k58",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "# Building a Lightweight Product Filter with Vanilla JavaScript",
-    "link": "https://dev.to/rock-randy/-building-a-lightweight-product-filter-with-vanilla-javascript-4gl4",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
-    "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to check Core Web Vitals for hundreds of URLs at once (API + code)",
-    "link": "https://dev.to/quantoracle/how-to-check-core-web-vitals-for-hundreds-of-urls-at-once-api-code-45ni",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How PWA (Progressive Web Apps) are Changing the Mobile Gaming Landscape",
-    "link": "https://dev.to/no_momo_f91fc40d15fd8f213/how-pwa-progressive-web-apps-are-changing-the-mobile-gaming-landscape-444g",
+    "title": "I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.",
+    "link": "https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc",
     "date": "7/15/2026",
     "site": "dev.to"
   },
@@ -276,86 +420,14 @@
     "site": "dev.to"
   },
   {
-    "title": "auto-animate now speaks marko",
-    "link": "https://dev.to/defunktdev/auto-animate-now-speaks-marko-5c7",
+    "title": "I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.",
+    "link": "https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah",
     "date": "7/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Architecture Explained from First Principles (The Mental Model Every Backend Developer Should Know)",
-    "link": "https://dev.to/aabiskar/nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-1lm2",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Film Format Searchable",
-    "link": "https://dev.to/alistairjcbrown/making-film-format-searchable-cgi",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to evaluate a slide-change detector without fooling yourself",
-    "link": "https://dev.to/larryxue/how-to-evaluate-a-slide-change-detector-without-fooling-yourself-2558",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where Should You Store Your JWT?",
-    "link": "https://dev.to/aymaneldawy/where-should-you-store-your-jwt-19ad",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Make Every Scheduled Job Safe to Re-Run",
-    "link": "https://dev.to/savage_solutions/how-we-make-every-scheduled-job-safe-to-re-run-48o8",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From MERN to Modern Full Stack: Everything That Changed",
-    "link": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built the Bluesky follow-growth automation with ramp-up and quality filters",
-    "link": "https://dev.to/morinaga/how-i-built-the-bluesky-follow-growth-automation-with-ramp-up-and-quality-filters-27kp",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your TypeScript 7 Upgrade Broke ESLint, ts-jest, and ts-morph",
-    "link": "https://dev.to/dev_encyclopedia/why-your-typescript-7-upgrade-broke-eslint-ts-jest-and-ts-morph-385k",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why `npm audit` Isn't Enough to Secure Your React or Next.js App",
-    "link": "https://dev.to/pruthvidarji1993/why-npm-audit-isnt-enough-to-secure-your-react-or-nextjs-app-3k58",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "# Building a Lightweight Product Filter with Vanilla JavaScript",
-    "link": "https://dev.to/rock-randy/-building-a-lightweight-product-filter-with-vanilla-javascript-4gl4",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
-    "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to check Core Web Vitals for hundreds of URLs at once (API + code)",
-    "link": "https://dev.to/quantoracle/how-to-check-core-web-vitals-for-hundreds-of-urls-at-once-api-code-45ni",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How PWA (Progressive Web Apps) are Changing the Mobile Gaming Landscape",
-    "link": "https://dev.to/no_momo_f91fc40d15fd8f213/how-pwa-progressive-web-apps-are-changing-the-mobile-gaming-landscape-444g",
+    "title": "I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.",
+    "link": "https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc",
     "date": "7/15/2026",
     "site": "dev.to"
   },
@@ -366,86 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "auto-animate now speaks marko",
-    "link": "https://dev.to/defunktdev/auto-animate-now-speaks-marko-5c7",
+    "title": "I audited my own AI-generated refactor and found 46 bugs. Here's what that taught me.",
+    "link": "https://dev.to/cesarbr2025/i-audited-my-own-ai-generated-refactor-and-found-46-bugs-heres-what-that-taught-me-14ah",
     "date": "7/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Node.js Architecture Explained from First Principles (The Mental Model Every Backend Developer Should Know)",
-    "link": "https://dev.to/aabiskar/nodejs-architecture-explained-from-first-principles-the-mental-model-every-backend-developer-1lm2",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Making Film Format Searchable",
-    "link": "https://dev.to/alistairjcbrown/making-film-format-searchable-cgi",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to evaluate a slide-change detector without fooling yourself",
-    "link": "https://dev.to/larryxue/how-to-evaluate-a-slide-change-detector-without-fooling-yourself-2558",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where Should You Store Your JWT?",
-    "link": "https://dev.to/aymaneldawy/where-should-you-store-your-jwt-19ad",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How We Make Every Scheduled Job Safe to Re-Run",
-    "link": "https://dev.to/savage_solutions/how-we-make-every-scheduled-job-safe-to-re-run-48o8",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From MERN to Modern Full Stack: Everything That Changed",
-    "link": "https://dev.to/bilalshahdev/from-mern-to-modern-full-stack-everything-that-changed-4p98",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I built the Bluesky follow-growth automation with ramp-up and quality filters",
-    "link": "https://dev.to/morinaga/how-i-built-the-bluesky-follow-growth-automation-with-ramp-up-and-quality-filters-27kp",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your TypeScript 7 Upgrade Broke ESLint, ts-jest, and ts-morph",
-    "link": "https://dev.to/dev_encyclopedia/why-your-typescript-7-upgrade-broke-eslint-ts-jest-and-ts-morph-385k",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why `npm audit` Isn't Enough to Secure Your React or Next.js App",
-    "link": "https://dev.to/pruthvidarji1993/why-npm-audit-isnt-enough-to-secure-your-react-or-nextjs-app-3k58",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "# Building a Lightweight Product Filter with Vanilla JavaScript",
-    "link": "https://dev.to/rock-randy/-building-a-lightweight-product-filter-with-vanilla-javascript-4gl4",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Part 1: Why I Rarely Use useEffect Anymore (and what I use instead)",
-    "link": "https://dev.to/alejandrodeveloper/why-i-rarely-use-useeffect-anymore-and-what-i-use-instead-ep1-423f",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to check Core Web Vitals for hundreds of URLs at once (API + code)",
-    "link": "https://dev.to/quantoracle/how-to-check-core-web-vitals-for-hundreds-of-urls-at-once-api-code-45ni",
-    "date": "7/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How PWA (Progressive Web Apps) are Changing the Mobile Gaming Landscape",
-    "link": "https://dev.to/no_momo_f91fc40d15fd8f213/how-pwa-progressive-web-apps-are-changing-the-mobile-gaming-landscape-444g",
+    "title": "I spent a week trying to intercept Slack push notifications from a Chrome extension. Here's why it's impossible.",
+    "link": "https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc",
     "date": "7/15/2026",
     "site": "dev.to"
   },
@@ -585,14 +585,14 @@
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
   {
     "title": "SolidStart: A Different Breed Of Meta-Framework",
     "link": "https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "1/8/2024",
     "site": "smashingmagazine"
   },
@@ -732,7 +732,7 @@
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
