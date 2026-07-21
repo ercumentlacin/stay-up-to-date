@@ -1,523 +1,453 @@
 [
   {
-    "title": "We Were Wrong About sls remove",
-    "link": "https://dev.to/ofri-peretz/we-were-wrong-about-sls-remove-keo",
+    "title": "You're rethrowing errors and losing context. `Error.cause` fixes that.",
+    "link": "https://dev.to/parsajiravand/youre-rethrowing-errors-and-losing-context-errorcause-fixes-that-4l97",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Managing Environment Variables and Secrets",
+    "link": "https://dev.to/moose978/managing-environment-variables-and-secrets-342f",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Slot-Filling Onboarding Bot. It Leaked a Validation Error Into the Chat",
+    "link": "https://dev.to/yatindavra23/i-built-a-slot-filling-onboarding-bot-it-leaked-a-validation-error-into-the-chat-e4g",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setting Up Docker for Local Development",
+    "link": "https://dev.to/moose978/setting-up-docker-for-local-development-3n4e",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A valid ISBN checksum is not a catalog record",
+    "link": "https://dev.to/nekoautomata/a-valid-isbn-checksum-is-not-a-catalog-record-5b25",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tutorial: Role-Based Access Control for a Node/Express API, Backed by Keycloak",
+    "link": "https://dev.to/pilgrim2go/tutorial-role-based-access-control-for-a-nodeexpress-api-backed-by-keycloak-15h3",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Put AI Agent Permissions in Code, Not in the Prompt",
+    "link": "https://dev.to/radhakishanjangid404/put-ai-agent-permissions-in-code-not-in-the-prompt-55h",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Structured Logging in Node.js: How a Business ID Became My correlationId",
+    "link": "https://dev.to/rafao1991/structured-logging-in-nodejs-how-a-business-id-became-my-correlationid-2go3",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Structured Logging em Node.js: Como um ID de Negócio Virou Meu correlationId",
+    "link": "https://dev.to/rafao1991/structured-logging-em-nodejs-como-um-id-de-negocio-virou-meu-correlationid-3oah",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RBAC for APIs with Keycloak — Local JWT vs. Introspection, and Two Bugs That Taught Me More Than the Code Did",
+    "link": "https://dev.to/pilgrim2go/rbac-for-apis-with-keycloak-local-jwt-vs-introspection-and-two-bugs-that-taught-me-more-than-58li",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setting Up NestJS the Right Way",
+    "link": "https://dev.to/moose978/setting-up-nestjs-the-right-way-30d",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why AI Agents Can't Touch Corporate Ledgers Without a Deterministic Circuit Breaker",
+    "link": "https://dev.to/ramn_cortez_8e1ed2c075fc/why-ai-agents-cant-touch-corporate-ledgers-without-a-deterministic-circuit-breaker-f9p",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Normalize the copy, not the source: a local text-tree preflight with TextSuture",
+    "link": "https://dev.to/nekoautomata/normalize-the-copy-not-the-source-a-local-text-tree-preflight-with-textsuture-3ce8",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You're rethrowing errors and losing context. `Error.cause` fixes that.",
+    "link": "https://dev.to/parsajiravand/youre-rethrowing-errors-and-losing-context-errorcause-fixes-that-4l97",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Managing Environment Variables and Secrets",
+    "link": "https://dev.to/moose978/managing-environment-variables-and-secrets-342f",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Slot-Filling Onboarding Bot. It Leaked a Validation Error Into the Chat",
+    "link": "https://dev.to/yatindavra23/i-built-a-slot-filling-onboarding-bot-it-leaked-a-validation-error-into-the-chat-e4g",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setting Up Docker for Local Development",
+    "link": "https://dev.to/moose978/setting-up-docker-for-local-development-3n4e",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A valid ISBN checksum is not a catalog record",
+    "link": "https://dev.to/nekoautomata/a-valid-isbn-checksum-is-not-a-catalog-record-5b25",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tutorial: Role-Based Access Control for a Node/Express API, Backed by Keycloak",
+    "link": "https://dev.to/pilgrim2go/tutorial-role-based-access-control-for-a-nodeexpress-api-backed-by-keycloak-15h3",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Put AI Agent Permissions in Code, Not in the Prompt",
+    "link": "https://dev.to/radhakishanjangid404/put-ai-agent-permissions-in-code-not-in-the-prompt-55h",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Structured Logging in Node.js: How a Business ID Became My correlationId",
+    "link": "https://dev.to/rafao1991/structured-logging-in-nodejs-how-a-business-id-became-my-correlationid-2go3",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Structured Logging em Node.js: Como um ID de Negócio Virou Meu correlationId",
+    "link": "https://dev.to/rafao1991/structured-logging-em-nodejs-como-um-id-de-negocio-virou-meu-correlationid-3oah",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RBAC for APIs with Keycloak — Local JWT vs. Introspection, and Two Bugs That Taught Me More Than the Code Did",
+    "link": "https://dev.to/pilgrim2go/rbac-for-apis-with-keycloak-local-jwt-vs-introspection-and-two-bugs-that-taught-me-more-than-58li",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setting Up NestJS the Right Way",
+    "link": "https://dev.to/moose978/setting-up-nestjs-the-right-way-30d",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why AI Agents Can't Touch Corporate Ledgers Without a Deterministic Circuit Breaker",
+    "link": "https://dev.to/ramn_cortez_8e1ed2c075fc/why-ai-agents-cant-touch-corporate-ledgers-without-a-deterministic-circuit-breaker-f9p",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Normalize the copy, not the source: a local text-tree preflight with TextSuture",
+    "link": "https://dev.to/nekoautomata/normalize-the-copy-not-the-source-a-local-text-tree-preflight-with-textsuture-3ce8",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You're rethrowing errors and losing context. `Error.cause` fixes that.",
+    "link": "https://dev.to/parsajiravand/youre-rethrowing-errors-and-losing-context-errorcause-fixes-that-4l97",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Managing Environment Variables and Secrets",
+    "link": "https://dev.to/moose978/managing-environment-variables-and-secrets-342f",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Slot-Filling Onboarding Bot. It Leaked a Validation Error Into the Chat",
+    "link": "https://dev.to/yatindavra23/i-built-a-slot-filling-onboarding-bot-it-leaked-a-validation-error-into-the-chat-e4g",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setting Up Docker for Local Development",
+    "link": "https://dev.to/moose978/setting-up-docker-for-local-development-3n4e",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A valid ISBN checksum is not a catalog record",
+    "link": "https://dev.to/nekoautomata/a-valid-isbn-checksum-is-not-a-catalog-record-5b25",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tutorial: Role-Based Access Control for a Node/Express API, Backed by Keycloak",
+    "link": "https://dev.to/pilgrim2go/tutorial-role-based-access-control-for-a-nodeexpress-api-backed-by-keycloak-15h3",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Put AI Agent Permissions in Code, Not in the Prompt",
+    "link": "https://dev.to/radhakishanjangid404/put-ai-agent-permissions-in-code-not-in-the-prompt-55h",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Structured Logging in Node.js: How a Business ID Became My correlationId",
+    "link": "https://dev.to/rafao1991/structured-logging-in-nodejs-how-a-business-id-became-my-correlationid-2go3",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Structured Logging em Node.js: Como um ID de Negócio Virou Meu correlationId",
+    "link": "https://dev.to/rafao1991/structured-logging-em-nodejs-como-um-id-de-negocio-virou-meu-correlationid-3oah",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RBAC for APIs with Keycloak — Local JWT vs. Introspection, and Two Bugs That Taught Me More Than the Code Did",
+    "link": "https://dev.to/pilgrim2go/rbac-for-apis-with-keycloak-local-jwt-vs-introspection-and-two-bugs-that-taught-me-more-than-58li",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setting Up NestJS the Right Way",
+    "link": "https://dev.to/moose978/setting-up-nestjs-the-right-way-30d",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why AI Agents Can't Touch Corporate Ledgers Without a Deterministic Circuit Breaker",
+    "link": "https://dev.to/ramn_cortez_8e1ed2c075fc/why-ai-agents-cant-touch-corporate-ledgers-without-a-deterministic-circuit-breaker-f9p",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Normalize the copy, not the source: a local text-tree preflight with TextSuture",
+    "link": "https://dev.to/nekoautomata/normalize-the-copy-not-the-source-a-local-text-tree-preflight-with-textsuture-3ce8",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You're rethrowing errors and losing context. `Error.cause` fixes that.",
+    "link": "https://dev.to/parsajiravand/youre-rethrowing-errors-and-losing-context-errorcause-fixes-that-4l97",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Managing Environment Variables and Secrets",
+    "link": "https://dev.to/moose978/managing-environment-variables-and-secrets-342f",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Slot-Filling Onboarding Bot. It Leaked a Validation Error Into the Chat",
+    "link": "https://dev.to/yatindavra23/i-built-a-slot-filling-onboarding-bot-it-leaked-a-validation-error-into-the-chat-e4g",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setting Up Docker for Local Development",
+    "link": "https://dev.to/moose978/setting-up-docker-for-local-development-3n4e",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A valid ISBN checksum is not a catalog record",
+    "link": "https://dev.to/nekoautomata/a-valid-isbn-checksum-is-not-a-catalog-record-5b25",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tutorial: Role-Based Access Control for a Node/Express API, Backed by Keycloak",
+    "link": "https://dev.to/pilgrim2go/tutorial-role-based-access-control-for-a-nodeexpress-api-backed-by-keycloak-15h3",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Put AI Agent Permissions in Code, Not in the Prompt",
+    "link": "https://dev.to/radhakishanjangid404/put-ai-agent-permissions-in-code-not-in-the-prompt-55h",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Structured Logging in Node.js: How a Business ID Became My correlationId",
+    "link": "https://dev.to/rafao1991/structured-logging-in-nodejs-how-a-business-id-became-my-correlationid-2go3",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Structured Logging em Node.js: Como um ID de Negócio Virou Meu correlationId",
+    "link": "https://dev.to/rafao1991/structured-logging-em-nodejs-como-um-id-de-negocio-virou-meu-correlationid-3oah",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RBAC for APIs with Keycloak — Local JWT vs. Introspection, and Two Bugs That Taught Me More Than the Code Did",
+    "link": "https://dev.to/pilgrim2go/rbac-for-apis-with-keycloak-local-jwt-vs-introspection-and-two-bugs-that-taught-me-more-than-58li",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setting Up NestJS the Right Way",
+    "link": "https://dev.to/moose978/setting-up-nestjs-the-right-way-30d",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why AI Agents Can't Touch Corporate Ledgers Without a Deterministic Circuit Breaker",
+    "link": "https://dev.to/ramn_cortez_8e1ed2c075fc/why-ai-agents-cant-touch-corporate-ledgers-without-a-deterministic-circuit-breaker-f9p",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Normalize the copy, not the source: a local text-tree preflight with TextSuture",
+    "link": "https://dev.to/nekoautomata/normalize-the-copy-not-the-source-a-local-text-tree-preflight-with-textsuture-3ce8",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You're rethrowing errors and losing context. `Error.cause` fixes that.",
+    "link": "https://dev.to/parsajiravand/youre-rethrowing-errors-and-losing-context-errorcause-fixes-that-4l97",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Managing Environment Variables and Secrets",
+    "link": "https://dev.to/moose978/managing-environment-variables-and-secrets-342f",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Slot-Filling Onboarding Bot. It Leaked a Validation Error Into the Chat",
+    "link": "https://dev.to/yatindavra23/i-built-a-slot-filling-onboarding-bot-it-leaked-a-validation-error-into-the-chat-e4g",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setting Up Docker for Local Development",
+    "link": "https://dev.to/moose978/setting-up-docker-for-local-development-3n4e",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A valid ISBN checksum is not a catalog record",
+    "link": "https://dev.to/nekoautomata/a-valid-isbn-checksum-is-not-a-catalog-record-5b25",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Tutorial: Role-Based Access Control for a Node/Express API, Backed by Keycloak",
+    "link": "https://dev.to/pilgrim2go/tutorial-role-based-access-control-for-a-nodeexpress-api-backed-by-keycloak-15h3",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Put AI Agent Permissions in Code, Not in the Prompt",
+    "link": "https://dev.to/radhakishanjangid404/put-ai-agent-permissions-in-code-not-in-the-prompt-55h",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Structured Logging in Node.js: How a Business ID Became My correlationId",
+    "link": "https://dev.to/rafao1991/structured-logging-in-nodejs-how-a-business-id-became-my-correlationid-2go3",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Structured Logging em Node.js: Como um ID de Negócio Virou Meu correlationId",
+    "link": "https://dev.to/rafao1991/structured-logging-em-nodejs-como-um-id-de-negocio-virou-meu-correlationid-3oah",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RBAC for APIs with Keycloak — Local JWT vs. Introspection, and Two Bugs That Taught Me More Than the Code Did",
+    "link": "https://dev.to/pilgrim2go/rbac-for-apis-with-keycloak-local-jwt-vs-introspection-and-two-bugs-that-taught-me-more-than-58li",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Setting Up NestJS the Right Way",
+    "link": "https://dev.to/moose978/setting-up-nestjs-the-right-way-30d",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why AI Agents Can't Touch Corporate Ledgers Without a Deterministic Circuit Breaker",
+    "link": "https://dev.to/ramn_cortez_8e1ed2c075fc/why-ai-agents-cant-touch-corporate-ledgers-without-a-deterministic-circuit-breaker-f9p",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Normalize the copy, not the source: a local text-tree preflight with TextSuture",
+    "link": "https://dev.to/nekoautomata/normalize-the-copy-not-the-source-a-local-text-tree-preflight-with-textsuture-3ce8",
+    "date": "7/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Marketing Pages Rot Silently. Mine Print an Expiry Date on Every Claim.",
+    "link": "https://dev.to/ofri-peretz/marketing-pages-rot-silently-mine-print-an-expiry-date-on-every-claim-1km4",
     "date": "7/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "25% of My Benchmark Verdict Is an Opinion. Here's the Anatomy.",
-    "link": "https://dev.to/ofri-peretz/25-of-my-benchmark-verdict-is-an-opinion-heres-the-anatomy-294d",
+    "title": "How to Verify Shopify Webhook Signatures (and the Base64 Raw-Body Trap)",
+    "link": "https://dev.to/eventdock/how-to-verify-shopify-webhook-signatures-and-the-base64-raw-body-trap-6nj",
     "date": "7/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "WebSockets Explained with Practical Examples: Build Real-Time Apps with Node.js",
-    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/websockets-explained-with-practical-examples-build-real-time-apps-with-nodejs-1nfk",
+    "title": "Marketing Pages Rot Silently. Mine Print an Expiry Date on Every Claim.",
+    "link": "https://dev.to/ofri-peretz/marketing-pages-rot-silently-mine-print-an-expiry-date-on-every-claim-1km4",
     "date": "7/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "The LLM Response Looked Fine. My Parser Disagreed.",
-    "link": "https://dev.to/plasma_01/the-llm-response-looked-fine-my-parser-disagreed-1c56",
+    "title": "How to Verify Shopify Webhook Signatures (and the Base64 Raw-Body Trap)",
+    "link": "https://dev.to/eventdock/how-to-verify-shopify-webhook-signatures-and-the-base64-raw-body-trap-6nj",
     "date": "7/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "We Were Wrong About sls remove",
-    "link": "https://dev.to/ofri-peretz/we-were-wrong-about-sls-remove-keo",
+    "title": "Marketing Pages Rot Silently. Mine Print an Expiry Date on Every Claim.",
+    "link": "https://dev.to/ofri-peretz/marketing-pages-rot-silently-mine-print-an-expiry-date-on-every-claim-1km4",
     "date": "7/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "25% of My Benchmark Verdict Is an Opinion. Here's the Anatomy.",
-    "link": "https://dev.to/ofri-peretz/25-of-my-benchmark-verdict-is-an-opinion-heres-the-anatomy-294d",
+    "title": "How to Verify Shopify Webhook Signatures (and the Base64 Raw-Body Trap)",
+    "link": "https://dev.to/eventdock/how-to-verify-shopify-webhook-signatures-and-the-base64-raw-body-trap-6nj",
     "date": "7/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "WebSockets Explained with Practical Examples: Build Real-Time Apps with Node.js",
-    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/websockets-explained-with-practical-examples-build-real-time-apps-with-nodejs-1nfk",
+    "title": "Marketing Pages Rot Silently. Mine Print an Expiry Date on Every Claim.",
+    "link": "https://dev.to/ofri-peretz/marketing-pages-rot-silently-mine-print-an-expiry-date-on-every-claim-1km4",
     "date": "7/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "The LLM Response Looked Fine. My Parser Disagreed.",
-    "link": "https://dev.to/plasma_01/the-llm-response-looked-fine-my-parser-disagreed-1c56",
+    "title": "How to Verify Shopify Webhook Signatures (and the Base64 Raw-Body Trap)",
+    "link": "https://dev.to/eventdock/how-to-verify-shopify-webhook-signatures-and-the-base64-raw-body-trap-6nj",
     "date": "7/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "We Were Wrong About sls remove",
-    "link": "https://dev.to/ofri-peretz/we-were-wrong-about-sls-remove-keo",
+    "title": "Marketing Pages Rot Silently. Mine Print an Expiry Date on Every Claim.",
+    "link": "https://dev.to/ofri-peretz/marketing-pages-rot-silently-mine-print-an-expiry-date-on-every-claim-1km4",
     "date": "7/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "25% of My Benchmark Verdict Is an Opinion. Here's the Anatomy.",
-    "link": "https://dev.to/ofri-peretz/25-of-my-benchmark-verdict-is-an-opinion-heres-the-anatomy-294d",
+    "title": "How to Verify Shopify Webhook Signatures (and the Base64 Raw-Body Trap)",
+    "link": "https://dev.to/eventdock/how-to-verify-shopify-webhook-signatures-and-the-base64-raw-body-trap-6nj",
     "date": "7/20/2026",
     "site": "dev.to"
-  },
-  {
-    "title": "WebSockets Explained with Practical Examples: Build Real-Time Apps with Node.js",
-    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/websockets-explained-with-practical-examples-build-real-time-apps-with-nodejs-1nfk",
-    "date": "7/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The LLM Response Looked Fine. My Parser Disagreed.",
-    "link": "https://dev.to/plasma_01/the-llm-response-looked-fine-my-parser-disagreed-1c56",
-    "date": "7/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Were Wrong About sls remove",
-    "link": "https://dev.to/ofri-peretz/we-were-wrong-about-sls-remove-keo",
-    "date": "7/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "25% of My Benchmark Verdict Is an Opinion. Here's the Anatomy.",
-    "link": "https://dev.to/ofri-peretz/25-of-my-benchmark-verdict-is-an-opinion-heres-the-anatomy-294d",
-    "date": "7/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebSockets Explained with Practical Examples: Build Real-Time Apps with Node.js",
-    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/websockets-explained-with-practical-examples-build-real-time-apps-with-nodejs-1nfk",
-    "date": "7/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The LLM Response Looked Fine. My Parser Disagreed.",
-    "link": "https://dev.to/plasma_01/the-llm-response-looked-fine-my-parser-disagreed-1c56",
-    "date": "7/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "We Were Wrong About sls remove",
-    "link": "https://dev.to/ofri-peretz/we-were-wrong-about-sls-remove-keo",
-    "date": "7/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "25% of My Benchmark Verdict Is an Opinion. Here's the Anatomy.",
-    "link": "https://dev.to/ofri-peretz/25-of-my-benchmark-verdict-is-an-opinion-heres-the-anatomy-294d",
-    "date": "7/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebSockets Explained with Practical Examples: Build Real-Time Apps with Node.js",
-    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/websockets-explained-with-practical-examples-build-real-time-apps-with-nodejs-1nfk",
-    "date": "7/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The LLM Response Looked Fine. My Parser Disagreed.",
-    "link": "https://dev.to/plasma_01/the-llm-response-looked-fine-my-parser-disagreed-1c56",
-    "date": "7/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reproducibility vs Replicability: Why Benchmark Numbers Need Both",
-    "link": "https://dev.to/ofri-peretz/reproducibility-vs-replicability-why-benchmark-numbers-need-both-26jh",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Static Analysis vs. SAST vs. Linting: The Taxonomy That Matters for Security Teams",
-    "link": "https://dev.to/ofri-peretz/static-analysis-vs-sast-vs-linting-the-taxonomy-that-matters-for-security-teams-g5o",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Valid vs. Reliable Metrics: Consistent Numbers Can Still Be Wrong",
-    "link": "https://dev.to/ofri-peretz/valid-vs-reliable-metrics-consistent-numbers-can-still-be-wrong-1a2m",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sample Size and Statistical Power: What a Small Sample Can and Cannot Tell You",
-    "link": "https://dev.to/ofri-peretz/sample-size-and-statistical-power-what-a-small-sample-can-and-cannot-tell-you-p5h",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "OWASP Top 10, Explained: An Address System, Not a Severity Scale",
-    "link": "https://dev.to/ofri-peretz/owasp-top-10-explained-an-address-system-not-a-severity-scale-3aem",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ground Truth in Security Testing: Who Decides What's Vulnerable?",
-    "link": "https://dev.to/ofri-peretz/ground-truth-in-security-testing-who-decides-whats-vulnerable-3oek",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CVSS Scores Explained: The Number Measures Severity, Not Risk",
-    "link": "https://dev.to/ofri-peretz/cvss-scores-explained-the-number-measures-severity-not-risk-4k6i",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Confusion Matrix: What TP, FP, FN, and TN Actually Mean",
-    "link": "https://dev.to/ofri-peretz/the-confusion-matrix-what-tp-fp-fn-and-tn-actually-mean-1h32",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The CWE Taxonomy, Explained: A Name Is Not a Verdict",
-    "link": "https://dev.to/ofri-peretz/the-cwe-taxonomy-explained-a-name-is-not-a-verdict-bpl",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Proxy Metrics: The Number You Optimize Is Not the Thing You Want",
-    "link": "https://dev.to/ofri-peretz/proxy-metrics-the-number-you-optimize-is-not-the-thing-you-want-kml",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ranking vs. Measuring: What a Leaderboard Throws Away",
-    "link": "https://dev.to/ofri-peretz/ranking-vs-measuring-what-a-leaderboard-throws-away-31d0",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reproducibility vs Replicability: Why Benchmark Numbers Need Both",
-    "link": "https://dev.to/ofri-peretz/reproducibility-vs-replicability-why-benchmark-numbers-need-both-26jh",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Static Analysis vs. SAST vs. Linting: The Taxonomy That Matters for Security Teams",
-    "link": "https://dev.to/ofri-peretz/static-analysis-vs-sast-vs-linting-the-taxonomy-that-matters-for-security-teams-g5o",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Valid vs. Reliable Metrics: Consistent Numbers Can Still Be Wrong",
-    "link": "https://dev.to/ofri-peretz/valid-vs-reliable-metrics-consistent-numbers-can-still-be-wrong-1a2m",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sample Size and Statistical Power: What a Small Sample Can and Cannot Tell You",
-    "link": "https://dev.to/ofri-peretz/sample-size-and-statistical-power-what-a-small-sample-can-and-cannot-tell-you-p5h",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "OWASP Top 10, Explained: An Address System, Not a Severity Scale",
-    "link": "https://dev.to/ofri-peretz/owasp-top-10-explained-an-address-system-not-a-severity-scale-3aem",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ground Truth in Security Testing: Who Decides What's Vulnerable?",
-    "link": "https://dev.to/ofri-peretz/ground-truth-in-security-testing-who-decides-whats-vulnerable-3oek",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CVSS Scores Explained: The Number Measures Severity, Not Risk",
-    "link": "https://dev.to/ofri-peretz/cvss-scores-explained-the-number-measures-severity-not-risk-4k6i",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Confusion Matrix: What TP, FP, FN, and TN Actually Mean",
-    "link": "https://dev.to/ofri-peretz/the-confusion-matrix-what-tp-fp-fn-and-tn-actually-mean-1h32",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The CWE Taxonomy, Explained: A Name Is Not a Verdict",
-    "link": "https://dev.to/ofri-peretz/the-cwe-taxonomy-explained-a-name-is-not-a-verdict-bpl",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Proxy Metrics: The Number You Optimize Is Not the Thing You Want",
-    "link": "https://dev.to/ofri-peretz/proxy-metrics-the-number-you-optimize-is-not-the-thing-you-want-kml",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ranking vs. Measuring: What a Leaderboard Throws Away",
-    "link": "https://dev.to/ofri-peretz/ranking-vs-measuring-what-a-leaderboard-throws-away-31d0",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reproducibility vs Replicability: Why Benchmark Numbers Need Both",
-    "link": "https://dev.to/ofri-peretz/reproducibility-vs-replicability-why-benchmark-numbers-need-both-26jh",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Static Analysis vs. SAST vs. Linting: The Taxonomy That Matters for Security Teams",
-    "link": "https://dev.to/ofri-peretz/static-analysis-vs-sast-vs-linting-the-taxonomy-that-matters-for-security-teams-g5o",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Valid vs. Reliable Metrics: Consistent Numbers Can Still Be Wrong",
-    "link": "https://dev.to/ofri-peretz/valid-vs-reliable-metrics-consistent-numbers-can-still-be-wrong-1a2m",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sample Size and Statistical Power: What a Small Sample Can and Cannot Tell You",
-    "link": "https://dev.to/ofri-peretz/sample-size-and-statistical-power-what-a-small-sample-can-and-cannot-tell-you-p5h",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "OWASP Top 10, Explained: An Address System, Not a Severity Scale",
-    "link": "https://dev.to/ofri-peretz/owasp-top-10-explained-an-address-system-not-a-severity-scale-3aem",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ground Truth in Security Testing: Who Decides What's Vulnerable?",
-    "link": "https://dev.to/ofri-peretz/ground-truth-in-security-testing-who-decides-whats-vulnerable-3oek",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CVSS Scores Explained: The Number Measures Severity, Not Risk",
-    "link": "https://dev.to/ofri-peretz/cvss-scores-explained-the-number-measures-severity-not-risk-4k6i",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Confusion Matrix: What TP, FP, FN, and TN Actually Mean",
-    "link": "https://dev.to/ofri-peretz/the-confusion-matrix-what-tp-fp-fn-and-tn-actually-mean-1h32",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The CWE Taxonomy, Explained: A Name Is Not a Verdict",
-    "link": "https://dev.to/ofri-peretz/the-cwe-taxonomy-explained-a-name-is-not-a-verdict-bpl",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Proxy Metrics: The Number You Optimize Is Not the Thing You Want",
-    "link": "https://dev.to/ofri-peretz/proxy-metrics-the-number-you-optimize-is-not-the-thing-you-want-kml",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ranking vs. Measuring: What a Leaderboard Throws Away",
-    "link": "https://dev.to/ofri-peretz/ranking-vs-measuring-what-a-leaderboard-throws-away-31d0",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reproducibility vs Replicability: Why Benchmark Numbers Need Both",
-    "link": "https://dev.to/ofri-peretz/reproducibility-vs-replicability-why-benchmark-numbers-need-both-26jh",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Static Analysis vs. SAST vs. Linting: The Taxonomy That Matters for Security Teams",
-    "link": "https://dev.to/ofri-peretz/static-analysis-vs-sast-vs-linting-the-taxonomy-that-matters-for-security-teams-g5o",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Valid vs. Reliable Metrics: Consistent Numbers Can Still Be Wrong",
-    "link": "https://dev.to/ofri-peretz/valid-vs-reliable-metrics-consistent-numbers-can-still-be-wrong-1a2m",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sample Size and Statistical Power: What a Small Sample Can and Cannot Tell You",
-    "link": "https://dev.to/ofri-peretz/sample-size-and-statistical-power-what-a-small-sample-can-and-cannot-tell-you-p5h",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "OWASP Top 10, Explained: An Address System, Not a Severity Scale",
-    "link": "https://dev.to/ofri-peretz/owasp-top-10-explained-an-address-system-not-a-severity-scale-3aem",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ground Truth in Security Testing: Who Decides What's Vulnerable?",
-    "link": "https://dev.to/ofri-peretz/ground-truth-in-security-testing-who-decides-whats-vulnerable-3oek",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CVSS Scores Explained: The Number Measures Severity, Not Risk",
-    "link": "https://dev.to/ofri-peretz/cvss-scores-explained-the-number-measures-severity-not-risk-4k6i",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Confusion Matrix: What TP, FP, FN, and TN Actually Mean",
-    "link": "https://dev.to/ofri-peretz/the-confusion-matrix-what-tp-fp-fn-and-tn-actually-mean-1h32",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The CWE Taxonomy, Explained: A Name Is Not a Verdict",
-    "link": "https://dev.to/ofri-peretz/the-cwe-taxonomy-explained-a-name-is-not-a-verdict-bpl",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Proxy Metrics: The Number You Optimize Is Not the Thing You Want",
-    "link": "https://dev.to/ofri-peretz/proxy-metrics-the-number-you-optimize-is-not-the-thing-you-want-kml",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ranking vs. Measuring: What a Leaderboard Throws Away",
-    "link": "https://dev.to/ofri-peretz/ranking-vs-measuring-what-a-leaderboard-throws-away-31d0",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Reproducibility vs Replicability: Why Benchmark Numbers Need Both",
-    "link": "https://dev.to/ofri-peretz/reproducibility-vs-replicability-why-benchmark-numbers-need-both-26jh",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Static Analysis vs. SAST vs. Linting: The Taxonomy That Matters for Security Teams",
-    "link": "https://dev.to/ofri-peretz/static-analysis-vs-sast-vs-linting-the-taxonomy-that-matters-for-security-teams-g5o",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Valid vs. Reliable Metrics: Consistent Numbers Can Still Be Wrong",
-    "link": "https://dev.to/ofri-peretz/valid-vs-reliable-metrics-consistent-numbers-can-still-be-wrong-1a2m",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Sample Size and Statistical Power: What a Small Sample Can and Cannot Tell You",
-    "link": "https://dev.to/ofri-peretz/sample-size-and-statistical-power-what-a-small-sample-can-and-cannot-tell-you-p5h",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "OWASP Top 10, Explained: An Address System, Not a Severity Scale",
-    "link": "https://dev.to/ofri-peretz/owasp-top-10-explained-an-address-system-not-a-severity-scale-3aem",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ground Truth in Security Testing: Who Decides What's Vulnerable?",
-    "link": "https://dev.to/ofri-peretz/ground-truth-in-security-testing-who-decides-whats-vulnerable-3oek",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CVSS Scores Explained: The Number Measures Severity, Not Risk",
-    "link": "https://dev.to/ofri-peretz/cvss-scores-explained-the-number-measures-severity-not-risk-4k6i",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Confusion Matrix: What TP, FP, FN, and TN Actually Mean",
-    "link": "https://dev.to/ofri-peretz/the-confusion-matrix-what-tp-fp-fn-and-tn-actually-mean-1h32",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The CWE Taxonomy, Explained: A Name Is Not a Verdict",
-    "link": "https://dev.to/ofri-peretz/the-cwe-taxonomy-explained-a-name-is-not-a-verdict-bpl",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Proxy Metrics: The Number You Optimize Is Not the Thing You Want",
-    "link": "https://dev.to/ofri-peretz/proxy-metrics-the-number-you-optimize-is-not-the-thing-you-want-kml",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ranking vs. Measuring: What a Leaderboard Throws Away",
-    "link": "https://dev.to/ofri-peretz/ranking-vs-measuring-what-a-leaderboard-throws-away-31d0",
-    "date": "7/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Creating A Continuous Integration Test Workflow Using GitHub Actions",
-    "link": "https://www.smashingmagazine.com/2020/11/continuous-integration-test-workflow-github-actions/",
-    "reading_time": "12 min read",
-    "date": "11/16/2020",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Handling Continuous Integration And Delivery With GitHub Actions",
-    "link": "https://www.smashingmagazine.com/2020/10/handling-continuous-integration-delivery-github-actions/",
-    "reading_time": "18 min read",
-    "date": "10/19/2020",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Better Error Handling In NodeJS With Error Classes",
-    "link": "https://www.smashingmagazine.com/2020/08/error-handling-nodejs-error-classes/",
-    "reading_time": "21 min read",
-    "date": "8/10/2020",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Getting Started With Axios In Nuxt",
-    "link": "https://www.smashingmagazine.com/2020/05/getting-started-axios-nuxt/",
-    "reading_time": "18 min read",
-    "date": "5/26/2020",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Exploring Node.js Internals",
-    "link": "https://www.smashingmagazine.com/2020/04/nodejs-internals/",
-    "reading_time": "15 min read",
-    "date": "4/23/2020",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Creating Secure Password Flows With NodeJS And MySQL",
-    "link": "https://www.smashingmagazine.com/2020/03/creating-secure-password-flows-nodejs-mysql/",
-    "reading_time": "11 min read",
-    "date": "3/11/2020",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "How To Build A Simple Cryptocurrency Blockchain In Node.js",
-    "link": "https://www.smashingmagazine.com/2020/02/cryptocurrency-blockchain-node-js/",
-    "reading_time": "12 min read",
-    "date": "2/21/2020",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Writing A Multiplayer Text Adventure Engine In Node.js: Adding Chat Into Our Game (Part 4)",
-    "link": "https://www.smashingmagazine.com/2019/11/multiplayer-text-adventure-engine-node-js-part-4/",
-    "reading_time": "12 min read",
-    "date": "11/6/2019",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Writing A Multiplayer Text Adventure Engine In Node.js: Creating The Terminal Client (Part 3)",
-    "link": "https://www.smashingmagazine.com/2019/10/multiplayer-text-adventure-engine-node-js-part-3/",
-    "reading_time": "14 min read",
-    "date": "10/30/2019",
-    "site": "smashingmagazine"
-  },
-  {
-    "title": "Writing A Multiplayer Text Adventure Engine In Node.js: Game Engine Server Design (Part 2)",
-    "link": "https://www.smashingmagazine.com/2019/10/multiplayer-text-adventure-engine-node-js-part-2/",
-    "reading_time": "17 min read",
-    "date": "10/23/2019",
-    "site": "smashingmagazine"
   },
   {
     "title": "Building A Node.js Express API To Convert Markdown To HTML",
@@ -550,7 +480,7 @@
   {
     "title": "Building A Room Detector For IoT Devices On Mac OS",
     "link": "https://www.smashingmagazine.com/2018/08/building-room-detector-iot-devices-mac-os/",
-    "reading_time": "24 min read",
+    "reading_time": "25 min read",
     "date": "8/29/2018",
     "site": "smashingmagazine"
   },
@@ -592,7 +522,7 @@
   {
     "title": "Creating Secure Password Resets With JSON Web Tokens",
     "link": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "11/9/2017",
     "site": "smashingmagazine"
   },
@@ -634,7 +564,7 @@
   {
     "title": "Next Generation Server Compression With Brotli",
     "link": "https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "10/5/2016",
     "site": "smashingmagazine"
   },
@@ -676,7 +606,7 @@
   {
     "title": "React To The Future With Isomorphic Apps",
     "link": "https://www.smashingmagazine.com/2015/04/react-to-the-future-with-isomorphic-apps/",
-    "reading_time": "12 min read",
+    "reading_time": "13 min read",
     "date": "4/21/2015",
     "site": "smashingmagazine"
   },
