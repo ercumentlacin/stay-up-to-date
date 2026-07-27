@@ -1,91 +1,451 @@
 [
   {
-    "title": "You're watching `window` to detect element size changes. `ResizeObserver` watches the element itself.",
-    "link": "https://dev.to/parsajiravand/youre-watching-window-to-detect-element-size-changes-resizeobserver-watches-the-element-46dp",
+    "title": "I built a PDF table checker that verifies arithmetic in any PDF without a template",
+    "link": "https://dev.to/hannune/i-built-a-pdf-table-checker-that-verifies-arithmetic-in-any-pdf-without-a-template-3aci",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built 47 Free Dev Tools That Run Entirely in Your Browser",
+    "link": "https://dev.to/shabir_ahmad_tech/i-built-47-free-dev-tools-that-run-entirely-in-your-browser-1me",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Removing Video Watermarks Entirely in the Browser with MI-GAN, ONNX Runtime Web, and WebGPU",
+    "link": "https://dev.to/martindelophy/removing-video-watermarks-entirely-in-the-browser-with-mi-gan-onnx-runtime-web-and-webgpu-1jdi",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Modern JavaScript Date Picker: Lessons I Learned Along the Way",
+    "link": "https://dev.to/rolldate/building-a-modern-javascript-date-picker-lessons-i-learned-along-the-way-55mn",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building an Intelligent AI Email Assistant Using OpenAI and Node.js",
+    "link": "https://dev.to/software_solutions_740799/building-an-intelligent-ai-email-assistant-using-openai-and-nodejs-1gcn",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The state of zero-runtime CSS-in-JS, mid-2026",
+    "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Privacy-First Image to PDF Converter in Next.js (Without Uploading Files on server)",
+    "link": "https://dev.to/gajendra_paliwal_278ab8aa/how-i-built-a-privacy-first-image-to-pdf-converter-in-nextjs-without-uploading-files-on-server-4ge9",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Writing API Routes: Next.js Server Actions",
+    "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "depwarden: npm Supply-Chain Scanning That Includes AI Agent Config",
+    "link": "https://dev.to/john_yaghobieh_8f294091f6/depwarden-npm-supply-chain-scanning-that-includes-ai-agent-config-o4e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDeepCompareEffect: Fix useEffect Object Dependencies (2026)",
+    "link": "https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Was Measuring LLM Latency Wrong",
+    "link": "https://dev.to/plasma_01/i-was-measuring-llm-latency-wrong-49h4",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a client-side trade document validator — no upload, no server, just the browser",
+    "link": "https://dev.to/hannune/i-built-a-client-side-trade-document-validator-no-upload-no-server-just-the-browser-3c6o",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a PDF table checker that verifies arithmetic in any PDF without a template",
+    "link": "https://dev.to/hannune/i-built-a-pdf-table-checker-that-verifies-arithmetic-in-any-pdf-without-a-template-3aci",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built 47 Free Dev Tools That Run Entirely in Your Browser",
+    "link": "https://dev.to/shabir_ahmad_tech/i-built-47-free-dev-tools-that-run-entirely-in-your-browser-1me",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Removing Video Watermarks Entirely in the Browser with MI-GAN, ONNX Runtime Web, and WebGPU",
+    "link": "https://dev.to/martindelophy/removing-video-watermarks-entirely-in-the-browser-with-mi-gan-onnx-runtime-web-and-webgpu-1jdi",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Modern JavaScript Date Picker: Lessons I Learned Along the Way",
+    "link": "https://dev.to/rolldate/building-a-modern-javascript-date-picker-lessons-i-learned-along-the-way-55mn",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building an Intelligent AI Email Assistant Using OpenAI and Node.js",
+    "link": "https://dev.to/software_solutions_740799/building-an-intelligent-ai-email-assistant-using-openai-and-nodejs-1gcn",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The state of zero-runtime CSS-in-JS, mid-2026",
+    "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Privacy-First Image to PDF Converter in Next.js (Without Uploading Files on server)",
+    "link": "https://dev.to/gajendra_paliwal_278ab8aa/how-i-built-a-privacy-first-image-to-pdf-converter-in-nextjs-without-uploading-files-on-server-4ge9",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Writing API Routes: Next.js Server Actions",
+    "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "depwarden: npm Supply-Chain Scanning That Includes AI Agent Config",
+    "link": "https://dev.to/john_yaghobieh_8f294091f6/depwarden-npm-supply-chain-scanning-that-includes-ai-agent-config-o4e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDeepCompareEffect: Fix useEffect Object Dependencies (2026)",
+    "link": "https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Was Measuring LLM Latency Wrong",
+    "link": "https://dev.to/plasma_01/i-was-measuring-llm-latency-wrong-49h4",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a client-side trade document validator — no upload, no server, just the browser",
+    "link": "https://dev.to/hannune/i-built-a-client-side-trade-document-validator-no-upload-no-server-just-the-browser-3c6o",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a PDF table checker that verifies arithmetic in any PDF without a template",
+    "link": "https://dev.to/hannune/i-built-a-pdf-table-checker-that-verifies-arithmetic-in-any-pdf-without-a-template-3aci",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built 47 Free Dev Tools That Run Entirely in Your Browser",
+    "link": "https://dev.to/shabir_ahmad_tech/i-built-47-free-dev-tools-that-run-entirely-in-your-browser-1me",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Removing Video Watermarks Entirely in the Browser with MI-GAN, ONNX Runtime Web, and WebGPU",
+    "link": "https://dev.to/martindelophy/removing-video-watermarks-entirely-in-the-browser-with-mi-gan-onnx-runtime-web-and-webgpu-1jdi",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Modern JavaScript Date Picker: Lessons I Learned Along the Way",
+    "link": "https://dev.to/rolldate/building-a-modern-javascript-date-picker-lessons-i-learned-along-the-way-55mn",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building an Intelligent AI Email Assistant Using OpenAI and Node.js",
+    "link": "https://dev.to/software_solutions_740799/building-an-intelligent-ai-email-assistant-using-openai-and-nodejs-1gcn",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The state of zero-runtime CSS-in-JS, mid-2026",
+    "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Privacy-First Image to PDF Converter in Next.js (Without Uploading Files on server)",
+    "link": "https://dev.to/gajendra_paliwal_278ab8aa/how-i-built-a-privacy-first-image-to-pdf-converter-in-nextjs-without-uploading-files-on-server-4ge9",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Writing API Routes: Next.js Server Actions",
+    "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "depwarden: npm Supply-Chain Scanning That Includes AI Agent Config",
+    "link": "https://dev.to/john_yaghobieh_8f294091f6/depwarden-npm-supply-chain-scanning-that-includes-ai-agent-config-o4e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDeepCompareEffect: Fix useEffect Object Dependencies (2026)",
+    "link": "https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Was Measuring LLM Latency Wrong",
+    "link": "https://dev.to/plasma_01/i-was-measuring-llm-latency-wrong-49h4",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a client-side trade document validator — no upload, no server, just the browser",
+    "link": "https://dev.to/hannune/i-built-a-client-side-trade-document-validator-no-upload-no-server-just-the-browser-3c6o",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a PDF table checker that verifies arithmetic in any PDF without a template",
+    "link": "https://dev.to/hannune/i-built-a-pdf-table-checker-that-verifies-arithmetic-in-any-pdf-without-a-template-3aci",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built 47 Free Dev Tools That Run Entirely in Your Browser",
+    "link": "https://dev.to/shabir_ahmad_tech/i-built-47-free-dev-tools-that-run-entirely-in-your-browser-1me",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Removing Video Watermarks Entirely in the Browser with MI-GAN, ONNX Runtime Web, and WebGPU",
+    "link": "https://dev.to/martindelophy/removing-video-watermarks-entirely-in-the-browser-with-mi-gan-onnx-runtime-web-and-webgpu-1jdi",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Modern JavaScript Date Picker: Lessons I Learned Along the Way",
+    "link": "https://dev.to/rolldate/building-a-modern-javascript-date-picker-lessons-i-learned-along-the-way-55mn",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building an Intelligent AI Email Assistant Using OpenAI and Node.js",
+    "link": "https://dev.to/software_solutions_740799/building-an-intelligent-ai-email-assistant-using-openai-and-nodejs-1gcn",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The state of zero-runtime CSS-in-JS, mid-2026",
+    "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Privacy-First Image to PDF Converter in Next.js (Without Uploading Files on server)",
+    "link": "https://dev.to/gajendra_paliwal_278ab8aa/how-i-built-a-privacy-first-image-to-pdf-converter-in-nextjs-without-uploading-files-on-server-4ge9",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Writing API Routes: Next.js Server Actions",
+    "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "depwarden: npm Supply-Chain Scanning That Includes AI Agent Config",
+    "link": "https://dev.to/john_yaghobieh_8f294091f6/depwarden-npm-supply-chain-scanning-that-includes-ai-agent-config-o4e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDeepCompareEffect: Fix useEffect Object Dependencies (2026)",
+    "link": "https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Was Measuring LLM Latency Wrong",
+    "link": "https://dev.to/plasma_01/i-was-measuring-llm-latency-wrong-49h4",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a client-side trade document validator — no upload, no server, just the browser",
+    "link": "https://dev.to/hannune/i-built-a-client-side-trade-document-validator-no-upload-no-server-just-the-browser-3c6o",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a PDF table checker that verifies arithmetic in any PDF without a template",
+    "link": "https://dev.to/hannune/i-built-a-pdf-table-checker-that-verifies-arithmetic-in-any-pdf-without-a-template-3aci",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built 47 Free Dev Tools That Run Entirely in Your Browser",
+    "link": "https://dev.to/shabir_ahmad_tech/i-built-47-free-dev-tools-that-run-entirely-in-your-browser-1me",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Removing Video Watermarks Entirely in the Browser with MI-GAN, ONNX Runtime Web, and WebGPU",
+    "link": "https://dev.to/martindelophy/removing-video-watermarks-entirely-in-the-browser-with-mi-gan-onnx-runtime-web-and-webgpu-1jdi",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Modern JavaScript Date Picker: Lessons I Learned Along the Way",
+    "link": "https://dev.to/rolldate/building-a-modern-javascript-date-picker-lessons-i-learned-along-the-way-55mn",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building an Intelligent AI Email Assistant Using OpenAI and Node.js",
+    "link": "https://dev.to/software_solutions_740799/building-an-intelligent-ai-email-assistant-using-openai-and-nodejs-1gcn",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The state of zero-runtime CSS-in-JS, mid-2026",
+    "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Built a Privacy-First Image to PDF Converter in Next.js (Without Uploading Files on server)",
+    "link": "https://dev.to/gajendra_paliwal_278ab8aa/how-i-built-a-privacy-first-image-to-pdf-converter-in-nextjs-without-uploading-files-on-server-4ge9",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Writing API Routes: Next.js Server Actions",
+    "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "depwarden: npm Supply-Chain Scanning That Includes AI Agent Config",
+    "link": "https://dev.to/john_yaghobieh_8f294091f6/depwarden-npm-supply-chain-scanning-that-includes-ai-agent-config-o4e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDeepCompareEffect: Fix useEffect Object Dependencies (2026)",
+    "link": "https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Was Measuring LLM Latency Wrong",
+    "link": "https://dev.to/plasma_01/i-was-measuring-llm-latency-wrong-49h4",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a client-side trade document validator — no upload, no server, just the browser",
+    "link": "https://dev.to/hannune/i-built-a-client-side-trade-document-validator-no-upload-no-server-just-the-browser-3c6o",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "No backend, no database, no network calls. I still found 3 security holes.",
+    "link": "https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "Frontend Interview Flow: Stages, Signals, and Prep",
-    "link": "https://dev.to/naserrasouli/frontend-interview-flow-stages-signals-and-prep-3aih",
+    "title": "No backend, no database, no network calls. I still found 3 security holes.",
+    "link": "https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "Elixir vs Node.js: Why Developers Are Exploring Elixir for Modern Backend Systems",
-    "link": "https://dev.to/whitehacker/elixir-vs-nodejs-why-developers-are-exploring-elixir-for-modern-backend-systems-81d",
+    "title": "No backend, no database, no network calls. I still found 3 security holes.",
+    "link": "https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built an open-source screening tool for ADHD & Dyslexia",
-    "link": "https://dev.to/aryanbarnvanshi/i-built-an-open-source-screening-tool-for-adhd-dyslexia-1gdm",
+    "title": "No backend, no database, no network calls. I still found 3 security holes.",
+    "link": "https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript Type Coercion — Output-Based Questions ([] + [], NaN === NaN & Friends)",
-    "link": "https://dev.to/amitkumar13/javascript-type-coercion-output-based-questions-nan-nan-friends-3jm6",
+    "title": "No backend, no database, no network calls. I still found 3 security holes.",
+    "link": "https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "The JavaScript Gamepad API: A Practical Guide to Reading Controller Input",
-    "link": "https://dev.to/trkb/the-javascript-gamepad-api-a-practical-guide-to-reading-controller-input-2lmc",
-    "date": "7/26/2026",
+    "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
+    "link": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
+    "date": "7/23/2026",
     "site": "dev.to"
   },
   {
-    "title": "CNPJ alfanumérico chegou: como validar o novo formato em JavaScript (com o algoritmo oficial)",
-    "link": "https://dev.to/andrehenrique311085debug/cnpj-alfanumerico-chegou-como-validar-o-novo-formato-em-javascript-com-o-algoritmo-oficial-570g",
-    "date": "7/26/2026",
+    "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
+    "link": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
+    "date": "7/23/2026",
     "site": "dev.to"
   },
   {
-    "title": "Auto-Locate Nearby Golf Courses on Your Map Using IP Geolocation",
-    "link": "https://dev.to/onizuka/auto-locate-nearby-golf-courses-on-your-map-using-ip-geolocation-4dn5",
-    "date": "7/26/2026",
+    "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
+    "link": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
+    "date": "7/23/2026",
     "site": "dev.to"
   },
   {
-    "title": "My click tracker said 518 humans. Only 134 people loaded the page.",
-    "link": "https://dev.to/stackpick/my-click-tracker-said-518-humans-only-134-people-loaded-the-page-4b6h",
-    "date": "7/26/2026",
+    "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
+    "link": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
+    "date": "7/23/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
-    "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Build Target Is Not an API Contract: Enforcing Baseline with TypeScript",
-    "link": "https://dev.to/ryuya/your-build-target-is-not-an-api-contract-enforcing-baseline-with-typescript-epn",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🔄 The JavaScript Event Loop: From \"What?\" to \"Oh, NOW I Get It!\" (A Deep Dive)",
-    "link": "https://dev.to/a7mad1112/the-javascript-event-loop-from-what-to-oh-now-i-get-it-a-deep-dive-49h2",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Mastering Node.js Transport Layers in MCP: Stdio vs. Server-Sent Events (SSE)",
-    "link": "https://dev.to/programmingcentral/mastering-nodejs-transport-layers-in-mcp-stdio-vs-server-sent-events-sse-245h",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline",
-    "link": "https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m",
-    "date": "7/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
-    "link": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
+    "title": "🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]",
+    "link": "https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i",
     "date": "7/23/2026",
     "site": "dev.to"
   },
@@ -113,7 +473,7 @@
   {
     "title": "JavaScript For Everyone: Iterators",
     "link": "https://www.smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "10/27/2025",
     "site": "smashingmagazine"
   },

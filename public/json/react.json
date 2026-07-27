@@ -1,453 +1,523 @@
 [
   {
-    "title": "Free Website Performance Monitoring: PageSpeed CI + CrUX + GitHub Actions",
-    "link": "https://dev.to/utlkit/free-website-performance-monitoring-pagespeed-ci-crux-github-actions-3l7h",
+    "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The state of zero-runtime CSS-in-JS, mid-2026",
+    "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Writing API Routes: Next.js Server Actions",
+    "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDeepCompareEffect: Fix useEffect Object Dependencies (2026)",
+    "link": "https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Title: How to Automate A4 Batch ID Card Printing in React (Without a Backend)",
+    "link": "https://dev.to/aabid_hussainwani_2bcb6a/title-how-to-automate-a4-batch-id-card-printing-in-react-without-a-backend-5h3d",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Full-stack Pokémon TCG simulator with pack opening, grading, PvP and card auctions",
+    "link": "https://dev.to/gamertap/full-stack-pokemon-tcg-simulator-with-pack-opening-grading-pvp-and-card-auctions-5h7i",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Built an F1 Dashboard as a Hobby Project!",
+    "link": "https://dev.to/kavindotdev/built-an-f1-dashboard-as-a-hobby-project-59ff",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Database Optimization for Web Apps: The N+1 Queries Awakens",
+    "link": "https://dev.to/timevolt/database-optimization-for-web-apps-the-n1-queries-awakens-2joa",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The state of zero-runtime CSS-in-JS, mid-2026",
+    "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Writing API Routes: Next.js Server Actions",
+    "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDeepCompareEffect: Fix useEffect Object Dependencies (2026)",
+    "link": "https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Title: How to Automate A4 Batch ID Card Printing in React (Without a Backend)",
+    "link": "https://dev.to/aabid_hussainwani_2bcb6a/title-how-to-automate-a4-batch-id-card-printing-in-react-without-a-backend-5h3d",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Full-stack Pokémon TCG simulator with pack opening, grading, PvP and card auctions",
+    "link": "https://dev.to/gamertap/full-stack-pokemon-tcg-simulator-with-pack-opening-grading-pvp-and-card-auctions-5h7i",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Built an F1 Dashboard as a Hobby Project!",
+    "link": "https://dev.to/kavindotdev/built-an-f1-dashboard-as-a-hobby-project-59ff",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Database Optimization for Web Apps: The N+1 Queries Awakens",
+    "link": "https://dev.to/timevolt/database-optimization-for-web-apps-the-n1-queries-awakens-2joa",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The state of zero-runtime CSS-in-JS, mid-2026",
+    "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Writing API Routes: Next.js Server Actions",
+    "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDeepCompareEffect: Fix useEffect Object Dependencies (2026)",
+    "link": "https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Title: How to Automate A4 Batch ID Card Printing in React (Without a Backend)",
+    "link": "https://dev.to/aabid_hussainwani_2bcb6a/title-how-to-automate-a4-batch-id-card-printing-in-react-without-a-backend-5h3d",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Full-stack Pokémon TCG simulator with pack opening, grading, PvP and card auctions",
+    "link": "https://dev.to/gamertap/full-stack-pokemon-tcg-simulator-with-pack-opening-grading-pvp-and-card-auctions-5h7i",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Built an F1 Dashboard as a Hobby Project!",
+    "link": "https://dev.to/kavindotdev/built-an-f1-dashboard-as-a-hobby-project-59ff",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Database Optimization for Web Apps: The N+1 Queries Awakens",
+    "link": "https://dev.to/timevolt/database-optimization-for-web-apps-the-n1-queries-awakens-2joa",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The state of zero-runtime CSS-in-JS, mid-2026",
+    "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Writing API Routes: Next.js Server Actions",
+    "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDeepCompareEffect: Fix useEffect Object Dependencies (2026)",
+    "link": "https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Title: How to Automate A4 Batch ID Card Printing in React (Without a Backend)",
+    "link": "https://dev.to/aabid_hussainwani_2bcb6a/title-how-to-automate-a4-batch-id-card-printing-in-react-without-a-backend-5h3d",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Full-stack Pokémon TCG simulator with pack opening, grading, PvP and card auctions",
+    "link": "https://dev.to/gamertap/full-stack-pokemon-tcg-simulator-with-pack-opening-grading-pvp-and-card-auctions-5h7i",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Built an F1 Dashboard as a Hobby Project!",
+    "link": "https://dev.to/kavindotdev/built-an-f1-dashboard-as-a-hobby-project-59ff",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Database Optimization for Web Apps: The N+1 Queries Awakens",
+    "link": "https://dev.to/timevolt/database-optimization-for-web-apps-the-n1-queries-awakens-2joa",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Fighting Referential Instability: Solving React Re-Renders with useDeepMemo",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-referential-instability-solving-react-re-renders-with-usedeepmemo-26e",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The state of zero-runtime CSS-in-JS, mid-2026",
+    "link": "https://dev.to/anber/the-state-of-zero-runtime-css-in-js-mid-2026-5ci6",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop Writing API Routes: Next.js Server Actions",
+    "link": "https://dev.to/iprajapatiparesh/stop-writing-api-routes-nextjs-server-actions-17fj",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDeepCompareEffect: Fix useEffect Object Dependencies (2026)",
+    "link": "https://dev.to/childrentime/react-usedeepcompareeffect-fix-useeffect-object-dependencies-2026-2f91",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Title: How to Automate A4 Batch ID Card Printing in React (Without a Backend)",
+    "link": "https://dev.to/aabid_hussainwani_2bcb6a/title-how-to-automate-a4-batch-id-card-printing-in-react-without-a-backend-5h3d",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Full-stack Pokémon TCG simulator with pack opening, grading, PvP and card auctions",
+    "link": "https://dev.to/gamertap/full-stack-pokemon-tcg-simulator-with-pack-opening-grading-pvp-and-card-auctions-5h7i",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Built an F1 Dashboard as a Hobby Project!",
+    "link": "https://dev.to/kavindotdev/built-an-f1-dashboard-as-a-hobby-project-59ff",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Database Optimization for Web Apps: The N+1 Queries Awakens",
+    "link": "https://dev.to/timevolt/database-optimization-for-web-apps-the-n1-queries-awakens-2joa",
+    "date": "7/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Next.js Is Getting Much Better at SPA-like UX",
+    "link": "https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript Type Coercion — Output-Based Questions ([] + [], NaN === NaN & Friends)",
-    "link": "https://dev.to/amitkumar13/javascript-type-coercion-output-based-questions-nan-nan-friends-3jm6",
+    "title": "Building SignalHQ: Engineering a Production-Grade Incident Management Platform from Scratch",
+    "link": "https://dev.to/mr_elvis/building-signalhq-engineering-a-production-grade-incident-management-platform-from-scratch-2eke",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Created a Structured JavaScript and React Learning Repository as Part of My Learning Journey",
-    "link": "https://dev.to/mkabileshwaran/i-created-a-structured-javascript-and-react-learning-repository-as-part-of-my-learning-journey-dik",
+    "title": "The checklist I wish I'd had before my first mainnet deploy",
+    "link": "https://dev.to/babydriver/the-checklist-i-wish-id-had-before-my-first-mainnet-deploy-2cfo",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "Free Website Performance Monitoring: PageSpeed CI + CrUX + GitHub Actions",
-    "link": "https://dev.to/utlkit/free-website-performance-monitoring-pagespeed-ci-crux-github-actions-3l7h",
+    "title": "How to Build a Custom Debounce Hook in React (Complete Guide)",
+    "link": "https://dev.to/shreyanshjha/how-to-build-a-custom-debounce-hook-in-react-complete-guide-cb4",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript Type Coercion — Output-Based Questions ([] + [], NaN === NaN & Friends)",
-    "link": "https://dev.to/amitkumar13/javascript-type-coercion-output-based-questions-nan-nan-friends-3jm6",
+    "title": "That CORS error? It wasn't my code",
+    "link": "https://dev.to/sarvesh_sakpal_b7927153c1/that-cors-error-it-wasnt-my-code-5d7e",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Created a Structured JavaScript and React Learning Repository as Part of My Learning Journey",
-    "link": "https://dev.to/mkabileshwaran/i-created-a-structured-javascript-and-react-learning-repository-as-part-of-my-learning-journey-dik",
+    "title": "Mutation Lifecycle in Frontend Applications: A Practical Approach",
+    "link": "https://dev.to/indexphp/mutation-lifecycle-in-frontend-applications-a-practical-approach-1gdm",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "Free Website Performance Monitoring: PageSpeed CI + CrUX + GitHub Actions",
-    "link": "https://dev.to/utlkit/free-website-performance-monitoring-pagespeed-ci-crux-github-actions-3l7h",
+    "title": "Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django & AI",
+    "link": "https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript Type Coercion — Output-Based Questions ([] + [], NaN === NaN & Friends)",
-    "link": "https://dev.to/amitkumar13/javascript-type-coercion-output-based-questions-nan-nan-friends-3jm6",
+    "title": "Next.js Is Getting Much Better at SPA-like UX",
+    "link": "https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Created a Structured JavaScript and React Learning Repository as Part of My Learning Journey",
-    "link": "https://dev.to/mkabileshwaran/i-created-a-structured-javascript-and-react-learning-repository-as-part-of-my-learning-journey-dik",
+    "title": "Building SignalHQ: Engineering a Production-Grade Incident Management Platform from Scratch",
+    "link": "https://dev.to/mr_elvis/building-signalhq-engineering-a-production-grade-incident-management-platform-from-scratch-2eke",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "Free Website Performance Monitoring: PageSpeed CI + CrUX + GitHub Actions",
-    "link": "https://dev.to/utlkit/free-website-performance-monitoring-pagespeed-ci-crux-github-actions-3l7h",
+    "title": "The checklist I wish I'd had before my first mainnet deploy",
+    "link": "https://dev.to/babydriver/the-checklist-i-wish-id-had-before-my-first-mainnet-deploy-2cfo",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript Type Coercion — Output-Based Questions ([] + [], NaN === NaN & Friends)",
-    "link": "https://dev.to/amitkumar13/javascript-type-coercion-output-based-questions-nan-nan-friends-3jm6",
+    "title": "How to Build a Custom Debounce Hook in React (Complete Guide)",
+    "link": "https://dev.to/shreyanshjha/how-to-build-a-custom-debounce-hook-in-react-complete-guide-cb4",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Created a Structured JavaScript and React Learning Repository as Part of My Learning Journey",
-    "link": "https://dev.to/mkabileshwaran/i-created-a-structured-javascript-and-react-learning-repository-as-part-of-my-learning-journey-dik",
+    "title": "That CORS error? It wasn't my code",
+    "link": "https://dev.to/sarvesh_sakpal_b7927153c1/that-cors-error-it-wasnt-my-code-5d7e",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "Free Website Performance Monitoring: PageSpeed CI + CrUX + GitHub Actions",
-    "link": "https://dev.to/utlkit/free-website-performance-monitoring-pagespeed-ci-crux-github-actions-3l7h",
+    "title": "Mutation Lifecycle in Frontend Applications: A Practical Approach",
+    "link": "https://dev.to/indexphp/mutation-lifecycle-in-frontend-applications-a-practical-approach-1gdm",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "JavaScript Type Coercion — Output-Based Questions ([] + [], NaN === NaN & Friends)",
-    "link": "https://dev.to/amitkumar13/javascript-type-coercion-output-based-questions-nan-nan-friends-3jm6",
+    "title": "Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django & AI",
+    "link": "https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Created a Structured JavaScript and React Learning Repository as Part of My Learning Journey",
-    "link": "https://dev.to/mkabileshwaran/i-created-a-structured-javascript-and-react-learning-repository-as-part-of-my-learning-journey-dik",
+    "title": "Next.js Is Getting Much Better at SPA-like UX",
+    "link": "https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a",
     "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
-    "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
-    "date": "7/25/2026",
+    "title": "Building SignalHQ: Engineering a Production-Grade Incident Management Platform from Scratch",
+    "link": "https://dev.to/mr_elvis/building-signalhq-engineering-a-production-grade-incident-management-platform-from-scratch-2eke",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built shared-element transitions for React Router — here’s how they work",
-    "link": "https://dev.to/milkevich/i-built-shared-element-transitions-for-react-router-heres-how-they-work-4edn",
-    "date": "7/25/2026",
+    "title": "The checklist I wish I'd had before my first mainnet deploy",
+    "link": "https://dev.to/babydriver/the-checklist-i-wish-id-had-before-my-first-mainnet-deploy-2cfo",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a DevTools for Telegram Mini Apps So You Don't Have to Debug on Your Phone",
-    "link": "https://dev.to/dl1ar/i-built-a-devtools-for-telegram-mini-apps-so-you-dont-have-to-debug-on-your-phone-30m9",
-    "date": "7/25/2026",
+    "title": "How to Build a Custom Debounce Hook in React (Complete Guide)",
+    "link": "https://dev.to/shreyanshjha/how-to-build-a-custom-debounce-hook-in-react-complete-guide-cb4",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "LabBench grew to 9 tools, and I shipped a second product",
-    "link": "https://dev.to/dhananjaykuseth/labbench-grew-to-9-tools-and-i-shipped-a-second-product-1j68",
-    "date": "7/25/2026",
+    "title": "That CORS error? It wasn't my code",
+    "link": "https://dev.to/sarvesh_sakpal_b7927153c1/that-cors-error-it-wasnt-my-code-5d7e",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "Built a weather app with AI-generated summaries and city bookmarking—feedback welcome (took me 9-10 days; learned a lot)",
-    "link": "https://dev.to/codesmithnazim/built-a-weather-app-with-ai-generated-summaries-and-city-bookmarking-feedback-welcome-took-me-9-10-2eo5",
-    "date": "7/25/2026",
+    "title": "Mutation Lifecycle in Frontend Applications: A Practical Approach",
+    "link": "https://dev.to/indexphp/mutation-lifecycle-in-frontend-applications-a-practical-approach-1gdm",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built an In-Browser AI Background Remover Using WebAssembly",
-    "link": "https://dev.to/muhammad_elborgy_852cee22/how-i-built-an-in-browser-ai-background-remover-using-webassembly-4lj2",
-    "date": "7/25/2026",
+    "title": "Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django & AI",
+    "link": "https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "Architecting RoutePe Auto: Building a Scalable Transport Management Software with Laravel, React, Flutter and MySQL",
-    "link": "https://dev.to/manish_datta/architecting-routepe-auto-building-a-scalable-transport-management-software-with-laravel-react-58hm",
-    "date": "7/25/2026",
+    "title": "Next.js Is Getting Much Better at SPA-like UX",
+    "link": "https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Next.js 14 Awakens: Server Components and the Future of React",
-    "link": "https://dev.to/timevolt/the-nextjs-14-awakens-server-components-and-the-future-of-react-1fm9",
-    "date": "7/25/2026",
+    "title": "Building SignalHQ: Engineering a Production-Grade Incident Management Platform from Scratch",
+    "link": "https://dev.to/mr_elvis/building-signalhq-engineering-a-production-grade-incident-management-platform-from-scratch-2eke",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev",
-    "link": "https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98",
-    "date": "7/25/2026",
+    "title": "The checklist I wish I'd had before my first mainnet deploy",
+    "link": "https://dev.to/babydriver/the-checklist-i-wish-id-had-before-my-first-mainnet-deploy-2cfo",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built SellAI – An AI Platform for Sales, CRM & Business Analytics",
-    "link": "https://dev.to/__470b499739/i-built-sellai-an-ai-platform-for-sales-crm-business-analytics-16bn",
-    "date": "7/25/2026",
+    "title": "How to Build a Custom Debounce Hook in React (Complete Guide)",
+    "link": "https://dev.to/shreyanshjha/how-to-build-a-custom-debounce-hook-in-react-complete-guide-cb4",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built KD Screen Guard: A zero-dependency, tamper-resistant lock screen overlay with WebAuthn biometrics & intruder camera capture",
-    "link": "https://dev.to/khvichadev/i-built-kd-screen-guard-a-zero-dependency-tamper-resistant-lock-screen-overlay-with-webauthn-3cdp",
-    "date": "7/25/2026",
+    "title": "That CORS error? It wasn't my code",
+    "link": "https://dev.to/sarvesh_sakpal_b7927153c1/that-cors-error-it-wasnt-my-code-5d7e",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "CSS Grid vs Flexbox: Choose Your Own Adventure — A Hero's Journey Inspired by The Matrix",
-    "link": "https://dev.to/timevolt/css-grid-vs-flexbox-choose-your-own-adventure-a-heros-journey-inspired-by-the-matrix-23da",
-    "date": "7/25/2026",
+    "title": "Mutation Lifecycle in Frontend Applications: A Practical Approach",
+    "link": "https://dev.to/indexphp/mutation-lifecycle-in-frontend-applications-a-practical-approach-1gdm",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
-    "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
-    "date": "7/25/2026",
+    "title": "Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django & AI",
+    "link": "https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built shared-element transitions for React Router — here’s how they work",
-    "link": "https://dev.to/milkevich/i-built-shared-element-transitions-for-react-router-heres-how-they-work-4edn",
-    "date": "7/25/2026",
+    "title": "Next.js Is Getting Much Better at SPA-like UX",
+    "link": "https://dev.to/erfanebrahimnia/nextjs-is-getting-much-better-at-spa-like-ux-141a",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a DevTools for Telegram Mini Apps So You Don't Have to Debug on Your Phone",
-    "link": "https://dev.to/dl1ar/i-built-a-devtools-for-telegram-mini-apps-so-you-dont-have-to-debug-on-your-phone-30m9",
-    "date": "7/25/2026",
+    "title": "Building SignalHQ: Engineering a Production-Grade Incident Management Platform from Scratch",
+    "link": "https://dev.to/mr_elvis/building-signalhq-engineering-a-production-grade-incident-management-platform-from-scratch-2eke",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "LabBench grew to 9 tools, and I shipped a second product",
-    "link": "https://dev.to/dhananjaykuseth/labbench-grew-to-9-tools-and-i-shipped-a-second-product-1j68",
-    "date": "7/25/2026",
+    "title": "The checklist I wish I'd had before my first mainnet deploy",
+    "link": "https://dev.to/babydriver/the-checklist-i-wish-id-had-before-my-first-mainnet-deploy-2cfo",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "Built a weather app with AI-generated summaries and city bookmarking—feedback welcome (took me 9-10 days; learned a lot)",
-    "link": "https://dev.to/codesmithnazim/built-a-weather-app-with-ai-generated-summaries-and-city-bookmarking-feedback-welcome-took-me-9-10-2eo5",
-    "date": "7/25/2026",
+    "title": "How to Build a Custom Debounce Hook in React (Complete Guide)",
+    "link": "https://dev.to/shreyanshjha/how-to-build-a-custom-debounce-hook-in-react-complete-guide-cb4",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built an In-Browser AI Background Remover Using WebAssembly",
-    "link": "https://dev.to/muhammad_elborgy_852cee22/how-i-built-an-in-browser-ai-background-remover-using-webassembly-4lj2",
-    "date": "7/25/2026",
+    "title": "That CORS error? It wasn't my code",
+    "link": "https://dev.to/sarvesh_sakpal_b7927153c1/that-cors-error-it-wasnt-my-code-5d7e",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "Architecting RoutePe Auto: Building a Scalable Transport Management Software with Laravel, React, Flutter and MySQL",
-    "link": "https://dev.to/manish_datta/architecting-routepe-auto-building-a-scalable-transport-management-software-with-laravel-react-58hm",
-    "date": "7/25/2026",
+    "title": "Mutation Lifecycle in Frontend Applications: A Practical Approach",
+    "link": "https://dev.to/indexphp/mutation-lifecycle-in-frontend-applications-a-practical-approach-1gdm",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Next.js 14 Awakens: Server Components and the Future of React",
-    "link": "https://dev.to/timevolt/the-nextjs-14-awakens-server-components-and-the-future-of-react-1fm9",
-    "date": "7/25/2026",
+    "title": "Building SecureTrack: An AI-Powered Cybersecurity Management Platform with React, Django & AI",
+    "link": "https://dev.to/anuskabhandari/building-securetrack-an-ai-powered-cybersecurity-management-platform-with-react-django-ai-46mb",
+    "date": "7/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev",
-    "link": "https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98",
-    "date": "7/25/2026",
-    "site": "dev.to"
+    "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+    "link": "https://www.smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+    "reading_time": "27 min read",
+    "date": "7/21/2026",
+    "site": "smashingmagazine"
   },
   {
-    "title": "I built SellAI – An AI Platform for Sales, CRM & Business Analytics",
-    "link": "https://dev.to/__470b499739/i-built-sellai-an-ai-platform-for-sales-crm-business-analytics-16bn",
-    "date": "7/25/2026",
-    "site": "dev.to"
+    "title": "Building Dynamic Forms In React And Next.js",
+    "link": "https://www.smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+    "reading_time": "14 min read",
+    "date": "3/10/2026",
+    "site": "smashingmagazine"
   },
   {
-    "title": "I built KD Screen Guard: A zero-dependency, tamper-resistant lock screen overlay with WebAuthn biometrics & intruder camera capture",
-    "link": "https://dev.to/khvichadev/i-built-kd-screen-guard-a-zero-dependency-tamper-resistant-lock-screen-overlay-with-webauthn-3cdp",
-    "date": "7/25/2026",
-    "site": "dev.to"
+    "title": "Adaptive Video Streaming With Dash.js In React",
+    "link": "https://www.smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+    "reading_time": "9 min read",
+    "date": "3/27/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "CSS Grid vs Flexbox: Choose Your Own Adventure — A Hero's Journey Inspired by The Matrix",
-    "link": "https://dev.to/timevolt/css-grid-vs-flexbox-choose-your-own-adventure-a-heros-journey-inspired-by-the-matrix-23da",
-    "date": "7/25/2026",
-    "site": "dev.to"
+    "title": "The Forensics Of React Server Components (RSCs)",
+    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
+    "reading_time": "24 min read",
+    "date": "5/9/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
-    "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
-    "date": "7/25/2026",
-    "site": "dev.to"
+    "title": "The End Of My Gatsby Journey",
+    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
+    "reading_time": "16 min read",
+    "date": "3/6/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "I built shared-element transitions for React Router — here’s how they work",
-    "link": "https://dev.to/milkevich/i-built-shared-element-transitions-for-react-router-heres-how-they-work-4edn",
-    "date": "7/25/2026",
-    "site": "dev.to"
+    "title": "Making Sense Of “Senseless” JavaScript Features",
+    "link": "https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
+    "reading_time": "14 min read",
+    "date": "12/28/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "I Built a DevTools for Telegram Mini Apps So You Don't Have to Debug on Your Phone",
-    "link": "https://dev.to/dl1ar/i-built-a-devtools-for-telegram-mini-apps-so-you-dont-have-to-debug-on-your-phone-30m9",
-    "date": "7/25/2026",
-    "site": "dev.to"
+    "title": "An Introduction To Full Stack Composability",
+    "link": "https://www.smashingmagazine.com/2023/11/introduction-full-stack-composability/",
+    "reading_time": "9 min read",
+    "date": "11/23/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "LabBench grew to 9 tools, and I shipped a second product",
-    "link": "https://dev.to/dhananjaykuseth/labbench-grew-to-9-tools-and-i-shipped-a-second-product-1j68",
-    "date": "7/25/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 2)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
+    "reading_time": "22 min read",
+    "date": "10/16/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Built a weather app with AI-generated summaries and city bookmarking—feedback welcome (took me 9-10 days; learned a lot)",
-    "link": "https://dev.to/codesmithnazim/built-a-weather-app-with-ai-generated-summaries-and-city-bookmarking-feedback-welcome-took-me-9-10-2eo5",
-    "date": "7/25/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 1)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
+    "reading_time": "17 min read",
+    "date": "10/9/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "How I Built an In-Browser AI Background Remover Using WebAssembly",
-    "link": "https://dev.to/muhammad_elborgy_852cee22/how-i-built-an-in-browser-ai-background-remover-using-webassembly-4lj2",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Architecting RoutePe Auto: Building a Scalable Transport Management Software with Laravel, React, Flutter and MySQL",
-    "link": "https://dev.to/manish_datta/architecting-routepe-auto-building-a-scalable-transport-management-software-with-laravel-react-58hm",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Next.js 14 Awakens: Server Components and the Future of React",
-    "link": "https://dev.to/timevolt/the-nextjs-14-awakens-server-components-and-the-future-of-react-1fm9",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev",
-    "link": "https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built SellAI – An AI Platform for Sales, CRM & Business Analytics",
-    "link": "https://dev.to/__470b499739/i-built-sellai-an-ai-platform-for-sales-crm-business-analytics-16bn",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built KD Screen Guard: A zero-dependency, tamper-resistant lock screen overlay with WebAuthn biometrics & intruder camera capture",
-    "link": "https://dev.to/khvichadev/i-built-kd-screen-guard-a-zero-dependency-tamper-resistant-lock-screen-overlay-with-webauthn-3cdp",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox: Choose Your Own Adventure — A Hero's Journey Inspired by The Matrix",
-    "link": "https://dev.to/timevolt/css-grid-vs-flexbox-choose-your-own-adventure-a-heros-journey-inspired-by-the-matrix-23da",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
-    "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built shared-element transitions for React Router — here’s how they work",
-    "link": "https://dev.to/milkevich/i-built-shared-element-transitions-for-react-router-heres-how-they-work-4edn",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a DevTools for Telegram Mini Apps So You Don't Have to Debug on Your Phone",
-    "link": "https://dev.to/dl1ar/i-built-a-devtools-for-telegram-mini-apps-so-you-dont-have-to-debug-on-your-phone-30m9",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "LabBench grew to 9 tools, and I shipped a second product",
-    "link": "https://dev.to/dhananjaykuseth/labbench-grew-to-9-tools-and-i-shipped-a-second-product-1j68",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Built a weather app with AI-generated summaries and city bookmarking—feedback welcome (took me 9-10 days; learned a lot)",
-    "link": "https://dev.to/codesmithnazim/built-a-weather-app-with-ai-generated-summaries-and-city-bookmarking-feedback-welcome-took-me-9-10-2eo5",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built an In-Browser AI Background Remover Using WebAssembly",
-    "link": "https://dev.to/muhammad_elborgy_852cee22/how-i-built-an-in-browser-ai-background-remover-using-webassembly-4lj2",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Architecting RoutePe Auto: Building a Scalable Transport Management Software with Laravel, React, Flutter and MySQL",
-    "link": "https://dev.to/manish_datta/architecting-routepe-auto-building-a-scalable-transport-management-software-with-laravel-react-58hm",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Next.js 14 Awakens: Server Components and the Future of React",
-    "link": "https://dev.to/timevolt/the-nextjs-14-awakens-server-components-and-the-future-of-react-1fm9",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev",
-    "link": "https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built SellAI – An AI Platform for Sales, CRM & Business Analytics",
-    "link": "https://dev.to/__470b499739/i-built-sellai-an-ai-platform-for-sales-crm-business-analytics-16bn",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built KD Screen Guard: A zero-dependency, tamper-resistant lock screen overlay with WebAuthn biometrics & intruder camera capture",
-    "link": "https://dev.to/khvichadev/i-built-kd-screen-guard-a-zero-dependency-tamper-resistant-lock-screen-overlay-with-webauthn-3cdp",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox: Choose Your Own Adventure — A Hero's Journey Inspired by The Matrix",
-    "link": "https://dev.to/timevolt/css-grid-vs-flexbox-choose-your-own-adventure-a-heros-journey-inspired-by-the-matrix-23da",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Multiple Browser Tab Token Trap: Synchronizing JWT Refresh Across Browser Tabs",
-    "link": "https://dev.to/nileshcodehub/the-multiple-browser-tab-token-trap-synchronizing-jwt-refresh-across-browser-tabs-45f6",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built shared-element transitions for React Router — here’s how they work",
-    "link": "https://dev.to/milkevich/i-built-shared-element-transitions-for-react-router-heres-how-they-work-4edn",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a DevTools for Telegram Mini Apps So You Don't Have to Debug on Your Phone",
-    "link": "https://dev.to/dl1ar/i-built-a-devtools-for-telegram-mini-apps-so-you-dont-have-to-debug-on-your-phone-30m9",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "LabBench grew to 9 tools, and I shipped a second product",
-    "link": "https://dev.to/dhananjaykuseth/labbench-grew-to-9-tools-and-i-shipped-a-second-product-1j68",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Built a weather app with AI-generated summaries and city bookmarking—feedback welcome (took me 9-10 days; learned a lot)",
-    "link": "https://dev.to/codesmithnazim/built-a-weather-app-with-ai-generated-summaries-and-city-bookmarking-feedback-welcome-took-me-9-10-2eo5",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built an In-Browser AI Background Remover Using WebAssembly",
-    "link": "https://dev.to/muhammad_elborgy_852cee22/how-i-built-an-in-browser-ai-background-remover-using-webassembly-4lj2",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Architecting RoutePe Auto: Building a Scalable Transport Management Software with Laravel, React, Flutter and MySQL",
-    "link": "https://dev.to/manish_datta/architecting-routepe-auto-building-a-scalable-transport-management-software-with-laravel-react-58hm",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Next.js 14 Awakens: Server Components and the Future of React",
-    "link": "https://dev.to/timevolt/the-nextjs-14-awakens-server-components-and-the-future-of-react-1fm9",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Scale a Developer SaaS from 0 to 1 Lessons from Building PromptDev",
-    "link": "https://dev.to/mianabdullahdev/how-to-scale-a-developer-saas-from-0-to-1-lessons-from-building-promptdev-2b98",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built SellAI – An AI Platform for Sales, CRM & Business Analytics",
-    "link": "https://dev.to/__470b499739/i-built-sellai-an-ai-platform-for-sales-crm-business-analytics-16bn",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built KD Screen Guard: A zero-dependency, tamper-resistant lock screen overlay with WebAuthn biometrics & intruder camera capture",
-    "link": "https://dev.to/khvichadev/i-built-kd-screen-guard-a-zero-dependency-tamper-resistant-lock-screen-overlay-with-webauthn-3cdp",
-    "date": "7/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox: Choose Your Own Adventure — A Hero's Journey Inspired by The Matrix",
-    "link": "https://dev.to/timevolt/css-grid-vs-flexbox-choose-your-own-adventure-a-heros-journey-inspired-by-the-matrix-23da",
-    "date": "7/25/2026",
-    "site": "dev.to"
+    "title": "Meet Codux: The React Visual Editor That Improves Developer Experience",
+    "link": "https://www.smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
+    "reading_time": "7 min read",
+    "date": "6/15/2023",
+    "site": "smashingmagazine"
   },
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
@@ -529,7 +599,7 @@
   {
     "title": "Remix Routes Demystified",
     "link": "https://www.smashingmagazine.com/2022/03/remix-routes-demystified/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "3/25/2022",
     "site": "smashingmagazine"
   },
@@ -725,7 +795,7 @@
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   }
