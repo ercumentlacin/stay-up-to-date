@@ -1,331 +1,421 @@
 [
   {
-    "title": "What Users Actually Feel When Your AI-Generated Code Is 'Fine': A UX Autopsy of 3 Shipped Features",
-    "link": "https://dev.to/lucas_martin_8cb158b9a81b/what-users-actually-feel-when-your-ai-generated-code-is-fine-a-ux-autopsy-of-3-shipped-features-2emc",
+    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
+    "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enterprise State Management: React & Zustand 🐻",
+    "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Blood Donation Management System with the MERN Stack",
+    "link": "https://dev.to/mahamudul_haque_dev/i-built-a-blood-donation-management-system-with-the-mern-stack-c16",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a link-in-bio tool that gamifies your audience growth (with XP, ranks, and achievements)",
+    "link": "https://dev.to/foldedweb/i-built-a-link-in-bio-tool-that-gamifies-your-audience-growth-with-xp-ranks-and-achievements-m88",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React.lazy() isn't enough — my code-split chunks were still loading on every page",
+    "link": "https://dev.to/haider484991/reactlazy-isnt-enough-my-code-split-chunks-were-still-loading-on-every-page-94o",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Auth Flow Can Freeze Forever If This Refresh Token Call Fails — Here's Why",
+    "link": "https://dev.to/iqbal120708/your-auth-flow-can-freeze-forever-if-this-refresh-token-call-fails-heres-why-9ep",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
+    "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enterprise State Management: React & Zustand 🐻",
+    "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Blood Donation Management System with the MERN Stack",
+    "link": "https://dev.to/mahamudul_haque_dev/i-built-a-blood-donation-management-system-with-the-mern-stack-c16",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a link-in-bio tool that gamifies your audience growth (with XP, ranks, and achievements)",
+    "link": "https://dev.to/foldedweb/i-built-a-link-in-bio-tool-that-gamifies-your-audience-growth-with-xp-ranks-and-achievements-m88",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React.lazy() isn't enough — my code-split chunks were still loading on every page",
+    "link": "https://dev.to/haider484991/reactlazy-isnt-enough-my-code-split-chunks-were-still-loading-on-every-page-94o",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Auth Flow Can Freeze Forever If This Refresh Token Call Fails — Here's Why",
+    "link": "https://dev.to/iqbal120708/your-auth-flow-can-freeze-forever-if-this-refresh-token-call-fails-heres-why-9ep",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
+    "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enterprise State Management: React & Zustand 🐻",
+    "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Blood Donation Management System with the MERN Stack",
+    "link": "https://dev.to/mahamudul_haque_dev/i-built-a-blood-donation-management-system-with-the-mern-stack-c16",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a link-in-bio tool that gamifies your audience growth (with XP, ranks, and achievements)",
+    "link": "https://dev.to/foldedweb/i-built-a-link-in-bio-tool-that-gamifies-your-audience-growth-with-xp-ranks-and-achievements-m88",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React.lazy() isn't enough — my code-split chunks were still loading on every page",
+    "link": "https://dev.to/haider484991/reactlazy-isnt-enough-my-code-split-chunks-were-still-loading-on-every-page-94o",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Auth Flow Can Freeze Forever If This Refresh Token Call Fails — Here's Why",
+    "link": "https://dev.to/iqbal120708/your-auth-flow-can-freeze-forever-if-this-refresh-token-call-fails-heres-why-9ep",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
+    "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enterprise State Management: React & Zustand 🐻",
+    "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Blood Donation Management System with the MERN Stack",
+    "link": "https://dev.to/mahamudul_haque_dev/i-built-a-blood-donation-management-system-with-the-mern-stack-c16",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a link-in-bio tool that gamifies your audience growth (with XP, ranks, and achievements)",
+    "link": "https://dev.to/foldedweb/i-built-a-link-in-bio-tool-that-gamifies-your-audience-growth-with-xp-ranks-and-achievements-m88",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React.lazy() isn't enough — my code-split chunks were still loading on every page",
+    "link": "https://dev.to/haider484991/reactlazy-isnt-enough-my-code-split-chunks-were-still-loading-on-every-page-94o",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Auth Flow Can Freeze Forever If This Refresh Token Call Fails — Here's Why",
+    "link": "https://dev.to/iqbal120708/your-auth-flow-can-freeze-forever-if-this-refresh-token-call-fails-heres-why-9ep",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
+    "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Enterprise State Management: React & Zustand 🐻",
+    "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Blood Donation Management System with the MERN Stack",
+    "link": "https://dev.to/mahamudul_haque_dev/i-built-a-blood-donation-management-system-with-the-mern-stack-c16",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a link-in-bio tool that gamifies your audience growth (with XP, ranks, and achievements)",
+    "link": "https://dev.to/foldedweb/i-built-a-link-in-bio-tool-that-gamifies-your-audience-growth-with-xp-ranks-and-achievements-m88",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React.lazy() isn't enough — my code-split chunks were still loading on every page",
+    "link": "https://dev.to/haider484991/reactlazy-isnt-enough-my-code-split-chunks-were-still-loading-on-every-page-94o",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Auth Flow Can Freeze Forever If This Refresh Token Call Fails — Here's Why",
+    "link": "https://dev.to/iqbal120708/your-auth-flow-can-freeze-forever-if-this-refresh-token-call-fails-heres-why-9ep",
+    "date": "7/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Payment Integration Process Using AI with React JS - DEV.to Guide 2026",
+    "link": "https://dev.to/muhammad_tayyabhassan_a1/payment-integration-process-using-ai-with-react-js-devto-guide-2026-lho",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form",
-    "link": "https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o",
+    "title": "Building Conjecture Forge: An Open-Source AI-Assisted Mathematical Discovery Engine",
+    "link": "https://dev.to/samitha_tharanga/building-conjecture-forge-an-open-source-ai-assisted-mathematical-discovery-engine-34eb",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I put my entire CRUD in one React hook. It felt efficient. Then it wasn’t.",
-    "link": "https://dev.to/kiaravzm/i-put-my-entire-crud-in-one-react-hook-it-felt-efficient-then-it-wasnt-10mf",
+    "title": "Beginner's Guide: Connect React with Supabase (Build a Simple To-Do App) published: true tags: react, supabase, beginners, webdev",
+    "link": "https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "Shattering the Frontend Monolith: Micro-Frontends in Next.js 🧩",
-    "link": "https://dev.to/iprajapatiparesh/shattering-the-frontend-monolith-micro-frontends-in-nextjs-3lc4",
+    "title": "One analytics codebase, three runtimes (web, native, offline)",
+    "link": "https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Chose Copy-and-Paste Components Instead of an npm Package",
-    "link": "https://dev.to/vladyusha/why-i-chose-copy-and-paste-components-instead-of-an-npm-package-2g0e",
+    "title": "Stop Faking Your Mock APIs: Introducing Playground API 🚀",
+    "link": "https://dev.to/nileshcodehub/stop-faking-your-mock-apis-introducing-playground-api-5b03",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "7 Lessons I Learned While Building an Open-Source React Component Library",
-    "link": "https://dev.to/vladyusha/7-lessons-i-learned-while-building-an-open-source-react-component-library-2hgn",
+    "title": "Multi-brand design systems are a massive waste of time",
+    "link": "https://dev.to/alexandersstudi/multi-brand-design-systems-are-a-massive-waste-of-time-3b7f",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built Another React UI Library — Here's Why",
-    "link": "https://dev.to/vladyusha/i-built-another-react-ui-library-heres-why-3k7p",
+    "title": "Stop Fighting Your Router: Full URL Parsing in React with Zero Dependencies",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-your-router-full-url-parsing-in-react-with-zero-dependencies-f0e",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `never` in Practice: Exhaustive Checks, Impossible States, and Narrowing Dead Code",
-    "link": "https://dev.to/jsmanifest/typescript-never-in-practice-exhaustive-checks-impossible-states-and-narrowing-dead-code-1d5",
+    "title": "10 Next.js Performance Mistakes That Slow Down Production Apps",
+    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/10-nextjs-performance-mistakes-that-slow-down-production-apps-1n3",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I needed a collision engine for a React timeline. Here is how I built it.",
-    "link": "https://dev.to/vladimirpal/i-needed-a-collision-engine-for-a-react-timeline-here-is-how-i-built-it-19if",
+    "title": "Payment Integration Process Using AI with React JS - DEV.to Guide 2026",
+    "link": "https://dev.to/muhammad_tayyabhassan_a1/payment-integration-process-using-ai-with-react-js-devto-guide-2026-lho",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Compiler in Production: Adoption, Measurement & Safe Rollout",
-    "link": "https://dev.to/endurance-softwares/react-compiler-in-production-adoption-measurement-safe-rollout-14pf",
+    "title": "Building Conjecture Forge: An Open-Source AI-Assisted Mathematical Discovery Engine",
+    "link": "https://dev.to/samitha_tharanga/building-conjecture-forge-an-open-source-ai-assisted-mathematical-discovery-engine-34eb",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "React usePrevious Hook: Track Previous State & Props (2026)",
-    "link": "https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7",
+    "title": "Beginner's Guide: Connect React with Supabase (Build a Simple To-Do App) published: true tags: react, supabase, beginners, webdev",
+    "link": "https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "What Users Actually Feel When Your AI-Generated Code Is 'Fine': A UX Autopsy of 3 Shipped Features",
-    "link": "https://dev.to/lucas_martin_8cb158b9a81b/what-users-actually-feel-when-your-ai-generated-code-is-fine-a-ux-autopsy-of-3-shipped-features-2emc",
+    "title": "One analytics codebase, three runtimes (web, native, offline)",
+    "link": "https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form",
-    "link": "https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o",
+    "title": "Stop Faking Your Mock APIs: Introducing Playground API 🚀",
+    "link": "https://dev.to/nileshcodehub/stop-faking-your-mock-apis-introducing-playground-api-5b03",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I put my entire CRUD in one React hook. It felt efficient. Then it wasn’t.",
-    "link": "https://dev.to/kiaravzm/i-put-my-entire-crud-in-one-react-hook-it-felt-efficient-then-it-wasnt-10mf",
+    "title": "Multi-brand design systems are a massive waste of time",
+    "link": "https://dev.to/alexandersstudi/multi-brand-design-systems-are-a-massive-waste-of-time-3b7f",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "Shattering the Frontend Monolith: Micro-Frontends in Next.js 🧩",
-    "link": "https://dev.to/iprajapatiparesh/shattering-the-frontend-monolith-micro-frontends-in-nextjs-3lc4",
+    "title": "Stop Fighting Your Router: Full URL Parsing in React with Zero Dependencies",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-your-router-full-url-parsing-in-react-with-zero-dependencies-f0e",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Chose Copy-and-Paste Components Instead of an npm Package",
-    "link": "https://dev.to/vladyusha/why-i-chose-copy-and-paste-components-instead-of-an-npm-package-2g0e",
+    "title": "10 Next.js Performance Mistakes That Slow Down Production Apps",
+    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/10-nextjs-performance-mistakes-that-slow-down-production-apps-1n3",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "7 Lessons I Learned While Building an Open-Source React Component Library",
-    "link": "https://dev.to/vladyusha/7-lessons-i-learned-while-building-an-open-source-react-component-library-2hgn",
+    "title": "Payment Integration Process Using AI with React JS - DEV.to Guide 2026",
+    "link": "https://dev.to/muhammad_tayyabhassan_a1/payment-integration-process-using-ai-with-react-js-devto-guide-2026-lho",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built Another React UI Library — Here's Why",
-    "link": "https://dev.to/vladyusha/i-built-another-react-ui-library-heres-why-3k7p",
+    "title": "Building Conjecture Forge: An Open-Source AI-Assisted Mathematical Discovery Engine",
+    "link": "https://dev.to/samitha_tharanga/building-conjecture-forge-an-open-source-ai-assisted-mathematical-discovery-engine-34eb",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `never` in Practice: Exhaustive Checks, Impossible States, and Narrowing Dead Code",
-    "link": "https://dev.to/jsmanifest/typescript-never-in-practice-exhaustive-checks-impossible-states-and-narrowing-dead-code-1d5",
+    "title": "Beginner's Guide: Connect React with Supabase (Build a Simple To-Do App) published: true tags: react, supabase, beginners, webdev",
+    "link": "https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I needed a collision engine for a React timeline. Here is how I built it.",
-    "link": "https://dev.to/vladimirpal/i-needed-a-collision-engine-for-a-react-timeline-here-is-how-i-built-it-19if",
+    "title": "One analytics codebase, three runtimes (web, native, offline)",
+    "link": "https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Compiler in Production: Adoption, Measurement & Safe Rollout",
-    "link": "https://dev.to/endurance-softwares/react-compiler-in-production-adoption-measurement-safe-rollout-14pf",
+    "title": "Stop Faking Your Mock APIs: Introducing Playground API 🚀",
+    "link": "https://dev.to/nileshcodehub/stop-faking-your-mock-apis-introducing-playground-api-5b03",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "React usePrevious Hook: Track Previous State & Props (2026)",
-    "link": "https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7",
+    "title": "Multi-brand design systems are a massive waste of time",
+    "link": "https://dev.to/alexandersstudi/multi-brand-design-systems-are-a-massive-waste-of-time-3b7f",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "What Users Actually Feel When Your AI-Generated Code Is 'Fine': A UX Autopsy of 3 Shipped Features",
-    "link": "https://dev.to/lucas_martin_8cb158b9a81b/what-users-actually-feel-when-your-ai-generated-code-is-fine-a-ux-autopsy-of-3-shipped-features-2emc",
+    "title": "Stop Fighting Your Router: Full URL Parsing in React with Zero Dependencies",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-your-router-full-url-parsing-in-react-with-zero-dependencies-f0e",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form",
-    "link": "https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o",
+    "title": "10 Next.js Performance Mistakes That Slow Down Production Apps",
+    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/10-nextjs-performance-mistakes-that-slow-down-production-apps-1n3",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I put my entire CRUD in one React hook. It felt efficient. Then it wasn’t.",
-    "link": "https://dev.to/kiaravzm/i-put-my-entire-crud-in-one-react-hook-it-felt-efficient-then-it-wasnt-10mf",
+    "title": "Payment Integration Process Using AI with React JS - DEV.to Guide 2026",
+    "link": "https://dev.to/muhammad_tayyabhassan_a1/payment-integration-process-using-ai-with-react-js-devto-guide-2026-lho",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "Shattering the Frontend Monolith: Micro-Frontends in Next.js 🧩",
-    "link": "https://dev.to/iprajapatiparesh/shattering-the-frontend-monolith-micro-frontends-in-nextjs-3lc4",
+    "title": "Building Conjecture Forge: An Open-Source AI-Assisted Mathematical Discovery Engine",
+    "link": "https://dev.to/samitha_tharanga/building-conjecture-forge-an-open-source-ai-assisted-mathematical-discovery-engine-34eb",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Chose Copy-and-Paste Components Instead of an npm Package",
-    "link": "https://dev.to/vladyusha/why-i-chose-copy-and-paste-components-instead-of-an-npm-package-2g0e",
+    "title": "Beginner's Guide: Connect React with Supabase (Build a Simple To-Do App) published: true tags: react, supabase, beginners, webdev",
+    "link": "https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "7 Lessons I Learned While Building an Open-Source React Component Library",
-    "link": "https://dev.to/vladyusha/7-lessons-i-learned-while-building-an-open-source-react-component-library-2hgn",
+    "title": "One analytics codebase, three runtimes (web, native, offline)",
+    "link": "https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built Another React UI Library — Here's Why",
-    "link": "https://dev.to/vladyusha/i-built-another-react-ui-library-heres-why-3k7p",
+    "title": "Stop Faking Your Mock APIs: Introducing Playground API 🚀",
+    "link": "https://dev.to/nileshcodehub/stop-faking-your-mock-apis-introducing-playground-api-5b03",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `never` in Practice: Exhaustive Checks, Impossible States, and Narrowing Dead Code",
-    "link": "https://dev.to/jsmanifest/typescript-never-in-practice-exhaustive-checks-impossible-states-and-narrowing-dead-code-1d5",
+    "title": "Multi-brand design systems are a massive waste of time",
+    "link": "https://dev.to/alexandersstudi/multi-brand-design-systems-are-a-massive-waste-of-time-3b7f",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I needed a collision engine for a React timeline. Here is how I built it.",
-    "link": "https://dev.to/vladimirpal/i-needed-a-collision-engine-for-a-react-timeline-here-is-how-i-built-it-19if",
+    "title": "Stop Fighting Your Router: Full URL Parsing in React with Zero Dependencies",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-your-router-full-url-parsing-in-react-with-zero-dependencies-f0e",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Compiler in Production: Adoption, Measurement & Safe Rollout",
-    "link": "https://dev.to/endurance-softwares/react-compiler-in-production-adoption-measurement-safe-rollout-14pf",
+    "title": "10 Next.js Performance Mistakes That Slow Down Production Apps",
+    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/10-nextjs-performance-mistakes-that-slow-down-production-apps-1n3",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "React usePrevious Hook: Track Previous State & Props (2026)",
-    "link": "https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7",
+    "title": "Payment Integration Process Using AI with React JS - DEV.to Guide 2026",
+    "link": "https://dev.to/muhammad_tayyabhassan_a1/payment-integration-process-using-ai-with-react-js-devto-guide-2026-lho",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "What Users Actually Feel When Your AI-Generated Code Is 'Fine': A UX Autopsy of 3 Shipped Features",
-    "link": "https://dev.to/lucas_martin_8cb158b9a81b/what-users-actually-feel-when-your-ai-generated-code-is-fine-a-ux-autopsy-of-3-shipped-features-2emc",
+    "title": "Building Conjecture Forge: An Open-Source AI-Assisted Mathematical Discovery Engine",
+    "link": "https://dev.to/samitha_tharanga/building-conjecture-forge-an-open-source-ai-assisted-mathematical-discovery-engine-34eb",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form",
-    "link": "https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o",
+    "title": "Beginner's Guide: Connect React with Supabase (Build a Simple To-Do App) published: true tags: react, supabase, beginners, webdev",
+    "link": "https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I put my entire CRUD in one React hook. It felt efficient. Then it wasn’t.",
-    "link": "https://dev.to/kiaravzm/i-put-my-entire-crud-in-one-react-hook-it-felt-efficient-then-it-wasnt-10mf",
+    "title": "One analytics codebase, three runtimes (web, native, offline)",
+    "link": "https://dev.to/jofflin/one-analytics-codebase-three-runtimes-web-native-offline-4jf2",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "Shattering the Frontend Monolith: Micro-Frontends in Next.js 🧩",
-    "link": "https://dev.to/iprajapatiparesh/shattering-the-frontend-monolith-micro-frontends-in-nextjs-3lc4",
+    "title": "Stop Faking Your Mock APIs: Introducing Playground API 🚀",
+    "link": "https://dev.to/nileshcodehub/stop-faking-your-mock-apis-introducing-playground-api-5b03",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why I Chose Copy-and-Paste Components Instead of an npm Package",
-    "link": "https://dev.to/vladyusha/why-i-chose-copy-and-paste-components-instead-of-an-npm-package-2g0e",
+    "title": "Multi-brand design systems are a massive waste of time",
+    "link": "https://dev.to/alexandersstudi/multi-brand-design-systems-are-a-massive-waste-of-time-3b7f",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "7 Lessons I Learned While Building an Open-Source React Component Library",
-    "link": "https://dev.to/vladyusha/7-lessons-i-learned-while-building-an-open-source-react-component-library-2hgn",
+    "title": "Stop Fighting Your Router: Full URL Parsing in React with Zero Dependencies",
+    "link": "https://dev.to/saurav_tb_pandey/stop-fighting-your-router-full-url-parsing-in-react-with-zero-dependencies-f0e",
     "date": "7/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built Another React UI Library — Here's Why",
-    "link": "https://dev.to/vladyusha/i-built-another-react-ui-library-heres-why-3k7p",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript `never` in Practice: Exhaustive Checks, Impossible States, and Narrowing Dead Code",
-    "link": "https://dev.to/jsmanifest/typescript-never-in-practice-exhaustive-checks-impossible-states-and-narrowing-dead-code-1d5",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I needed a collision engine for a React timeline. Here is how I built it.",
-    "link": "https://dev.to/vladimirpal/i-needed-a-collision-engine-for-a-react-timeline-here-is-how-i-built-it-19if",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Compiler in Production: Adoption, Measurement & Safe Rollout",
-    "link": "https://dev.to/endurance-softwares/react-compiler-in-production-adoption-measurement-safe-rollout-14pf",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React usePrevious Hook: Track Previous State & Props (2026)",
-    "link": "https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Users Actually Feel When Your AI-Generated Code Is 'Fine': A UX Autopsy of 3 Shipped Features",
-    "link": "https://dev.to/lucas_martin_8cb158b9a81b/what-users-actually-feel-when-your-ai-generated-code-is-fine-a-ux-autopsy-of-3-shipped-features-2emc",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Disabled Button Is Not Delivery: Build a Receipt-Based React Support Form",
-    "link": "https://dev.to/susiewang/a-disabled-button-is-not-delivery-build-a-receipt-based-react-support-form-d8o",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I put my entire CRUD in one React hook. It felt efficient. Then it wasn’t.",
-    "link": "https://dev.to/kiaravzm/i-put-my-entire-crud-in-one-react-hook-it-felt-efficient-then-it-wasnt-10mf",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shattering the Frontend Monolith: Micro-Frontends in Next.js 🧩",
-    "link": "https://dev.to/iprajapatiparesh/shattering-the-frontend-monolith-micro-frontends-in-nextjs-3lc4",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Chose Copy-and-Paste Components Instead of an npm Package",
-    "link": "https://dev.to/vladyusha/why-i-chose-copy-and-paste-components-instead-of-an-npm-package-2g0e",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Lessons I Learned While Building an Open-Source React Component Library",
-    "link": "https://dev.to/vladyusha/7-lessons-i-learned-while-building-an-open-source-react-component-library-2hgn",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built Another React UI Library — Here's Why",
-    "link": "https://dev.to/vladyusha/i-built-another-react-ui-library-heres-why-3k7p",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript `never` in Practice: Exhaustive Checks, Impossible States, and Narrowing Dead Code",
-    "link": "https://dev.to/jsmanifest/typescript-never-in-practice-exhaustive-checks-impossible-states-and-narrowing-dead-code-1d5",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I needed a collision engine for a React timeline. Here is how I built it.",
-    "link": "https://dev.to/vladimirpal/i-needed-a-collision-engine-for-a-react-timeline-here-is-how-i-built-it-19if",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Compiler in Production: Adoption, Measurement & Safe Rollout",
-    "link": "https://dev.to/endurance-softwares/react-compiler-in-production-adoption-measurement-safe-rollout-14pf",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React usePrevious Hook: Track Previous State & Props (2026)",
-    "link": "https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7",
+    "title": "10 Next.js Performance Mistakes That Slow Down Production Apps",
+    "link": "https://dev.to/synfinity-dynamics-pvt-ltd/10-nextjs-performance-mistakes-that-slow-down-production-apps-1n3",
     "date": "7/29/2026",
     "site": "dev.to"
   },
@@ -336,20 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "The React Concept That Broke My Brain (And Why It Was Actually Simple)",
-    "link": "https://dev.to/blackjosh007/the-react-concept-that-broke-my-brain-and-why-it-was-actually-simple-22km",
-    "date": "7/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google reCAPTCHA v2 and v3 in React, Vue, or Angular, with one prop",
-    "link": "https://dev.to/souhailmakni/google-recaptcha-v2-and-v3-in-react-vue-or-angular-with-one-prop-13d9",
-    "date": "7/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)",
-    "link": "https://dev.to/lugwiire_benard_f91d020cf/building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing-f9b",
+    "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+    "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "date": "7/28/2026",
     "site": "dev.to"
   },
@@ -360,20 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "The React Concept That Broke My Brain (And Why It Was Actually Simple)",
-    "link": "https://dev.to/blackjosh007/the-react-concept-that-broke-my-brain-and-why-it-was-actually-simple-22km",
-    "date": "7/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google reCAPTCHA v2 and v3 in React, Vue, or Angular, with one prop",
-    "link": "https://dev.to/souhailmakni/google-recaptcha-v2-and-v3-in-react-vue-or-angular-with-one-prop-13d9",
-    "date": "7/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)",
-    "link": "https://dev.to/lugwiire_benard_f91d020cf/building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing-f9b",
+    "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
+    "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
     "date": "7/28/2026",
     "site": "dev.to"
   },
@@ -384,70 +450,74 @@
     "site": "dev.to"
   },
   {
-    "title": "The React Concept That Broke My Brain (And Why It Was Actually Simple)",
-    "link": "https://dev.to/blackjosh007/the-react-concept-that-broke-my-brain-and-why-it-was-actually-simple-22km",
-    "date": "7/28/2026",
-    "site": "dev.to"
+    "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+    "link": "https://www.smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+    "reading_time": "27 min read",
+    "date": "7/21/2026",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Google reCAPTCHA v2 and v3 in React, Vue, or Angular, with one prop",
-    "link": "https://dev.to/souhailmakni/google-recaptcha-v2-and-v3-in-react-vue-or-angular-with-one-prop-13d9",
-    "date": "7/28/2026",
-    "site": "dev.to"
+    "title": "Building Dynamic Forms In React And Next.js",
+    "link": "https://www.smashingmagazine.com/2026/03/building-dynamic-forms-react-next-js/",
+    "reading_time": "14 min read",
+    "date": "3/10/2026",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)",
-    "link": "https://dev.to/lugwiire_benard_f91d020cf/building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing-f9b",
-    "date": "7/28/2026",
-    "site": "dev.to"
+    "title": "Adaptive Video Streaming With Dash.js In React",
+    "link": "https://www.smashingmagazine.com/2025/03/adaptive-video-streaming-dashjs-react/",
+    "reading_time": "9 min read",
+    "date": "3/27/2025",
+    "site": "smashingmagazine"
   },
   {
-    "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-    "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-    "date": "7/28/2026",
-    "site": "dev.to"
+    "title": "The Forensics Of React Server Components (RSCs)",
+    "link": "https://www.smashingmagazine.com/2024/05/forensics-react-server-components/",
+    "reading_time": "24 min read",
+    "date": "5/9/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "The React Concept That Broke My Brain (And Why It Was Actually Simple)",
-    "link": "https://dev.to/blackjosh007/the-react-concept-that-broke-my-brain-and-why-it-was-actually-simple-22km",
-    "date": "7/28/2026",
-    "site": "dev.to"
+    "title": "The End Of My Gatsby Journey",
+    "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
+    "reading_time": "16 min read",
+    "date": "3/6/2024",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Google reCAPTCHA v2 and v3 in React, Vue, or Angular, with one prop",
-    "link": "https://dev.to/souhailmakni/google-recaptcha-v2-and-v3-in-react-vue-or-angular-with-one-prop-13d9",
-    "date": "7/28/2026",
-    "site": "dev.to"
+    "title": "Making Sense Of “Senseless” JavaScript Features",
+    "link": "https://www.smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
+    "reading_time": "14 min read",
+    "date": "12/28/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)",
-    "link": "https://dev.to/lugwiire_benard_f91d020cf/building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing-f9b",
-    "date": "7/28/2026",
-    "site": "dev.to"
+    "title": "An Introduction To Full Stack Composability",
+    "link": "https://www.smashingmagazine.com/2023/11/introduction-full-stack-composability/",
+    "reading_time": "9 min read",
+    "date": "11/23/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-    "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-    "date": "7/28/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 2)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
+    "reading_time": "22 min read",
+    "date": "10/16/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "The React Concept That Broke My Brain (And Why It Was Actually Simple)",
-    "link": "https://dev.to/blackjosh007/the-react-concept-that-broke-my-brain-and-why-it-was-actually-simple-22km",
-    "date": "7/28/2026",
-    "site": "dev.to"
+    "title": "Gatsby Headaches: Working With Media (Part 1)",
+    "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
+    "reading_time": "17 min read",
+    "date": "10/9/2023",
+    "site": "smashingmagazine"
   },
   {
-    "title": "Google reCAPTCHA v2 and v3 in React, Vue, or Angular, with one prop",
-    "link": "https://dev.to/souhailmakni/google-recaptcha-v2-and-v3-in-react-vue-or-angular-with-one-prop-13d9",
-    "date": "7/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building FetchMark: A clutter-Free Bookmark Manager (No AI, Pure DOM parsing)",
-    "link": "https://dev.to/lugwiire_benard_f91d020cf/building-fetchmark-a-clutter-free-bookmark-manager-no-ai-pure-dom-parsing-f9b",
-    "date": "7/28/2026",
-    "site": "dev.to"
+    "title": "Meet Codux: The React Visual Editor That Improves Developer Experience",
+    "link": "https://www.smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
+    "reading_time": "7 min read",
+    "date": "6/15/2023",
+    "site": "smashingmagazine"
   },
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
@@ -655,7 +725,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -676,7 +746,7 @@
   {
     "title": "Client-Side Routing In Next.js",
     "link": "https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "6/18/2021",
     "site": "smashingmagazine"
   },
@@ -725,7 +795,7 @@
   {
     "title": "Integrating A Dialogflow Agent Into A React Application",
     "link": "https://www.smashingmagazine.com/2021/01/dialogflow-agent-react-application/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "1/14/2021",
     "site": "smashingmagazine"
   }
