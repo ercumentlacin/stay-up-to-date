@@ -1,73 +1,325 @@
 [
   {
+    "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+    "link": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your LLM Writes \\(x\\), Your Markdown Parser Wants $x$",
+    "link": "https://dev.to/duz52/your-llm-writes-x-your-markdown-parser-wants-x-3n3l",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When you actually need a headless browser (and when you're just wasting RAM)",
+    "link": "https://dev.to/votiakov/when-you-actually-need-a-headless-browser-and-when-youre-just-wasting-ram-209e",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cache-Busting a React Micro-Frontend Inside an Angular Shell",
+    "link": "https://dev.to/sanketmunot/cache-busting-a-react-micro-frontend-inside-an-angular-shell-4g8k",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Turns out a \"random\" spin wheel doesn't pick a winner and rotate to it — it spins first, then checks who's standing there",
+    "link": "https://dev.to/joe8_lin_tw/turns-out-a-random-spin-wheel-doesnt-pick-a-winner-and-rotate-to-it-it-spins-first-then-1pke",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "toISOString().slice(0, 10) is not today's date",
+    "link": "https://dev.to/slate_co_il/toisostringslice0-10-is-not-todays-date-3mf5",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Compress Images in the Browser Without Uploading Them",
+    "link": "https://dev.to/tanya_monoware/how-to-compress-images-in-the-browser-without-uploading-them-4hc7",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Telechat — Claude AI on your phone. Self-hosted. No cloud relay.",
+    "link": "https://dev.to/sumaninster/telechat-claude-ai-on-your-phone-self-hosted-no-cloud-relay-1l55",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Embedding Stats Widgets Without Breaking CSP: iframes, CORS, and Content Security Policy",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/embedding-stats-widgets-without-breaking-csp-iframes-cors-and-content-security-policy-2ii4",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useThrottle Hook: Throttle Values & Callbacks (2026)",
+    "link": "https://dev.to/childrentime/react-usethrottle-hook-throttle-values-callbacks-2026-7lf",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+    "link": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your LLM Writes \\(x\\), Your Markdown Parser Wants $x$",
+    "link": "https://dev.to/duz52/your-llm-writes-x-your-markdown-parser-wants-x-3n3l",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When you actually need a headless browser (and when you're just wasting RAM)",
+    "link": "https://dev.to/votiakov/when-you-actually-need-a-headless-browser-and-when-youre-just-wasting-ram-209e",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cache-Busting a React Micro-Frontend Inside an Angular Shell",
+    "link": "https://dev.to/sanketmunot/cache-busting-a-react-micro-frontend-inside-an-angular-shell-4g8k",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Turns out a \"random\" spin wheel doesn't pick a winner and rotate to it — it spins first, then checks who's standing there",
+    "link": "https://dev.to/joe8_lin_tw/turns-out-a-random-spin-wheel-doesnt-pick-a-winner-and-rotate-to-it-it-spins-first-then-1pke",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "toISOString().slice(0, 10) is not today's date",
+    "link": "https://dev.to/slate_co_il/toisostringslice0-10-is-not-todays-date-3mf5",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Compress Images in the Browser Without Uploading Them",
+    "link": "https://dev.to/tanya_monoware/how-to-compress-images-in-the-browser-without-uploading-them-4hc7",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Telechat — Claude AI on your phone. Self-hosted. No cloud relay.",
+    "link": "https://dev.to/sumaninster/telechat-claude-ai-on-your-phone-self-hosted-no-cloud-relay-1l55",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Embedding Stats Widgets Without Breaking CSP: iframes, CORS, and Content Security Policy",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/embedding-stats-widgets-without-breaking-csp-iframes-cors-and-content-security-policy-2ii4",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useThrottle Hook: Throttle Values & Callbacks (2026)",
+    "link": "https://dev.to/childrentime/react-usethrottle-hook-throttle-values-callbacks-2026-7lf",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+    "link": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your LLM Writes \\(x\\), Your Markdown Parser Wants $x$",
+    "link": "https://dev.to/duz52/your-llm-writes-x-your-markdown-parser-wants-x-3n3l",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When you actually need a headless browser (and when you're just wasting RAM)",
+    "link": "https://dev.to/votiakov/when-you-actually-need-a-headless-browser-and-when-youre-just-wasting-ram-209e",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cache-Busting a React Micro-Frontend Inside an Angular Shell",
+    "link": "https://dev.to/sanketmunot/cache-busting-a-react-micro-frontend-inside-an-angular-shell-4g8k",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Turns out a \"random\" spin wheel doesn't pick a winner and rotate to it — it spins first, then checks who's standing there",
+    "link": "https://dev.to/joe8_lin_tw/turns-out-a-random-spin-wheel-doesnt-pick-a-winner-and-rotate-to-it-it-spins-first-then-1pke",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "toISOString().slice(0, 10) is not today's date",
+    "link": "https://dev.to/slate_co_il/toisostringslice0-10-is-not-todays-date-3mf5",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Compress Images in the Browser Without Uploading Them",
+    "link": "https://dev.to/tanya_monoware/how-to-compress-images-in-the-browser-without-uploading-them-4hc7",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Telechat — Claude AI on your phone. Self-hosted. No cloud relay.",
+    "link": "https://dev.to/sumaninster/telechat-claude-ai-on-your-phone-self-hosted-no-cloud-relay-1l55",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Embedding Stats Widgets Without Breaking CSP: iframes, CORS, and Content Security Policy",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/embedding-stats-widgets-without-breaking-csp-iframes-cors-and-content-security-policy-2ii4",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useThrottle Hook: Throttle Values & Callbacks (2026)",
+    "link": "https://dev.to/childrentime/react-usethrottle-hook-throttle-values-callbacks-2026-7lf",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+    "link": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your LLM Writes \\(x\\), Your Markdown Parser Wants $x$",
+    "link": "https://dev.to/duz52/your-llm-writes-x-your-markdown-parser-wants-x-3n3l",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When you actually need a headless browser (and when you're just wasting RAM)",
+    "link": "https://dev.to/votiakov/when-you-actually-need-a-headless-browser-and-when-youre-just-wasting-ram-209e",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cache-Busting a React Micro-Frontend Inside an Angular Shell",
+    "link": "https://dev.to/sanketmunot/cache-busting-a-react-micro-frontend-inside-an-angular-shell-4g8k",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Turns out a \"random\" spin wheel doesn't pick a winner and rotate to it — it spins first, then checks who's standing there",
+    "link": "https://dev.to/joe8_lin_tw/turns-out-a-random-spin-wheel-doesnt-pick-a-winner-and-rotate-to-it-it-spins-first-then-1pke",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "toISOString().slice(0, 10) is not today's date",
+    "link": "https://dev.to/slate_co_il/toisostringslice0-10-is-not-todays-date-3mf5",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Compress Images in the Browser Without Uploading Them",
+    "link": "https://dev.to/tanya_monoware/how-to-compress-images-in-the-browser-without-uploading-them-4hc7",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Telechat — Claude AI on your phone. Self-hosted. No cloud relay.",
+    "link": "https://dev.to/sumaninster/telechat-claude-ai-on-your-phone-self-hosted-no-cloud-relay-1l55",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Embedding Stats Widgets Without Breaking CSP: iframes, CORS, and Content Security Policy",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/embedding-stats-widgets-without-breaking-csp-iframes-cors-and-content-security-policy-2ii4",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useThrottle Hook: Throttle Values & Callbacks (2026)",
+    "link": "https://dev.to/childrentime/react-usethrottle-hook-throttle-values-callbacks-2026-7lf",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Fixed Broken Portrait/Landscape Gallery Alignment (and Open-Sourced It)",
+    "link": "https://dev.to/meera9/how-i-fixed-squarespaces-broken-portraitlandscape-gallery-alignment-and-open-sourced-it-3gfi",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your LLM Writes \\(x\\), Your Markdown Parser Wants $x$",
+    "link": "https://dev.to/duz52/your-llm-writes-x-your-markdown-parser-wants-x-3n3l",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When you actually need a headless browser (and when you're just wasting RAM)",
+    "link": "https://dev.to/votiakov/when-you-actually-need-a-headless-browser-and-when-youre-just-wasting-ram-209e",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cache-Busting a React Micro-Frontend Inside an Angular Shell",
+    "link": "https://dev.to/sanketmunot/cache-busting-a-react-micro-frontend-inside-an-angular-shell-4g8k",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Turns out a \"random\" spin wheel doesn't pick a winner and rotate to it — it spins first, then checks who's standing there",
+    "link": "https://dev.to/joe8_lin_tw/turns-out-a-random-spin-wheel-doesnt-pick-a-winner-and-rotate-to-it-it-spins-first-then-1pke",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "toISOString().slice(0, 10) is not today's date",
+    "link": "https://dev.to/slate_co_il/toisostringslice0-10-is-not-todays-date-3mf5",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Compress Images in the Browser Without Uploading Them",
+    "link": "https://dev.to/tanya_monoware/how-to-compress-images-in-the-browser-without-uploading-them-4hc7",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Telechat — Claude AI on your phone. Self-hosted. No cloud relay.",
+    "link": "https://dev.to/sumaninster/telechat-claude-ai-on-your-phone-self-hosted-no-cloud-relay-1l55",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Embedding Stats Widgets Without Breaking CSP: iframes, CORS, and Content Security Policy",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/embedding-stats-widgets-without-breaking-csp-iframes-cors-and-content-security-policy-2ii4",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useThrottle Hook: Throttle Values & Callbacks (2026)",
+    "link": "https://dev.to/childrentime/react-usethrottle-hook-throttle-values-callbacks-2026-7lf",
+    "date": "7/31/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "It Was Just a Patch Update. What Could Possibly Go Wrong?",
     "link": "https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Regex Bug That Passes Code Review, Passes Tests, and Takes Down Prod",
-    "link": "https://dev.to/just-a-guy360/the-regex-bug-that-passes-code-review-passes-tests-and-takes-down-prod-4gf1",
+    "title": "What Actually Happens After You Send a Webhook",
+    "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Seven government recall feeds, and what it takes to make them agree",
-    "link": "https://dev.to/nate_b_76a98ee76221cdb5bb/seven-government-recall-feeds-and-what-it-takes-to-make-them-agree-1faf",
+    "title": "PISCA: I turned an Andean breakfast soup into an interactive landscape",
+    "link": "https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
-    "link": "https://dev.to/parsajiravand/array-methods-are-eager-iterator-helpers-are-lazy-heres-why-that-matters-58li",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
-    "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turns out my \"random group splitter\" doesn't roll any dice — here's what it does instead",
-    "link": "https://dev.to/joe8_lin_tw/turns-out-my-random-group-splitter-doesnt-roll-any-dice-heres-what-it-does-instead-3laa",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Enterprise State Management: React & Zustand 🐻",
-    "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Yoru Ramen 夜ラーメン — A Late-Night Tokyo Ramen Shop | Perfect Landing",
-    "link": "https://dev.to/elsie-rainee/yoru-ramen-ye-ramen-a-late-night-tokyo-ramen-shop-perfect-landing-3n43",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why \"just convert everything to UTC\" is the wrong way to find a meeting time across time zones",
-    "link": "https://dev.to/joe8_lin_tw/why-just-convert-everything-to-utc-is-the-wrong-way-to-find-a-meeting-time-across-time-zones-540h",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built TryQuickImg: compress HEIC/JPG/PNG in the browser — no upload",
-    "link": "https://dev.to/samsonpg/i-built-tryquickimg-compress-heicjpgpng-in-the-browser-no-upload-4bn0",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Porting Excel PMT to the browser: two traps that only show up in money",
-    "link": "https://dev.to/jmshinhwa/porting-excel-pmt-to-the-browser-two-traps-that-only-show-up-in-money-g0p",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Gemini 3's Function Calling Has a Signature Rule That Only Bites You Once You Add a Second Tool Call",
-    "link": "https://dev.to/ethan_5b3022150e2c07a4030/gemini-3s-function-calling-has-a-signature-rule-that-only-bites-you-once-you-add-a-second-tool-call-31mm",
+    "title": "The Astro Image Gotcha That Broke Our Production Build and How We Fixed It",
+    "link": "https://dev.to/rachido_sama/the-astro-image-gotcha-that-broke-our-production-build-and-how-we-fixed-it-566d",
     "date": "7/30/2026",
     "site": "dev.to"
   },
@@ -78,68 +330,20 @@
     "site": "dev.to"
   },
   {
-    "title": "The Regex Bug That Passes Code Review, Passes Tests, and Takes Down Prod",
-    "link": "https://dev.to/just-a-guy360/the-regex-bug-that-passes-code-review-passes-tests-and-takes-down-prod-4gf1",
+    "title": "What Actually Happens After You Send a Webhook",
+    "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Seven government recall feeds, and what it takes to make them agree",
-    "link": "https://dev.to/nate_b_76a98ee76221cdb5bb/seven-government-recall-feeds-and-what-it-takes-to-make-them-agree-1faf",
+    "title": "PISCA: I turned an Andean breakfast soup into an interactive landscape",
+    "link": "https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
-    "link": "https://dev.to/parsajiravand/array-methods-are-eager-iterator-helpers-are-lazy-heres-why-that-matters-58li",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
-    "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turns out my \"random group splitter\" doesn't roll any dice — here's what it does instead",
-    "link": "https://dev.to/joe8_lin_tw/turns-out-my-random-group-splitter-doesnt-roll-any-dice-heres-what-it-does-instead-3laa",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Enterprise State Management: React & Zustand 🐻",
-    "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Yoru Ramen 夜ラーメン — A Late-Night Tokyo Ramen Shop | Perfect Landing",
-    "link": "https://dev.to/elsie-rainee/yoru-ramen-ye-ramen-a-late-night-tokyo-ramen-shop-perfect-landing-3n43",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why \"just convert everything to UTC\" is the wrong way to find a meeting time across time zones",
-    "link": "https://dev.to/joe8_lin_tw/why-just-convert-everything-to-utc-is-the-wrong-way-to-find-a-meeting-time-across-time-zones-540h",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built TryQuickImg: compress HEIC/JPG/PNG in the browser — no upload",
-    "link": "https://dev.to/samsonpg/i-built-tryquickimg-compress-heicjpgpng-in-the-browser-no-upload-4bn0",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Porting Excel PMT to the browser: two traps that only show up in money",
-    "link": "https://dev.to/jmshinhwa/porting-excel-pmt-to-the-browser-two-traps-that-only-show-up-in-money-g0p",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Gemini 3's Function Calling Has a Signature Rule That Only Bites You Once You Add a Second Tool Call",
-    "link": "https://dev.to/ethan_5b3022150e2c07a4030/gemini-3s-function-calling-has-a-signature-rule-that-only-bites-you-once-you-add-a-second-tool-call-31mm",
+    "title": "The Astro Image Gotcha That Broke Our Production Build and How We Fixed It",
+    "link": "https://dev.to/rachido_sama/the-astro-image-gotcha-that-broke-our-production-build-and-how-we-fixed-it-566d",
     "date": "7/30/2026",
     "site": "dev.to"
   },
@@ -150,68 +354,20 @@
     "site": "dev.to"
   },
   {
-    "title": "The Regex Bug That Passes Code Review, Passes Tests, and Takes Down Prod",
-    "link": "https://dev.to/just-a-guy360/the-regex-bug-that-passes-code-review-passes-tests-and-takes-down-prod-4gf1",
+    "title": "What Actually Happens After You Send a Webhook",
+    "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Seven government recall feeds, and what it takes to make them agree",
-    "link": "https://dev.to/nate_b_76a98ee76221cdb5bb/seven-government-recall-feeds-and-what-it-takes-to-make-them-agree-1faf",
+    "title": "PISCA: I turned an Andean breakfast soup into an interactive landscape",
+    "link": "https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
-    "link": "https://dev.to/parsajiravand/array-methods-are-eager-iterator-helpers-are-lazy-heres-why-that-matters-58li",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
-    "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turns out my \"random group splitter\" doesn't roll any dice — here's what it does instead",
-    "link": "https://dev.to/joe8_lin_tw/turns-out-my-random-group-splitter-doesnt-roll-any-dice-heres-what-it-does-instead-3laa",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Enterprise State Management: React & Zustand 🐻",
-    "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Yoru Ramen 夜ラーメン — A Late-Night Tokyo Ramen Shop | Perfect Landing",
-    "link": "https://dev.to/elsie-rainee/yoru-ramen-ye-ramen-a-late-night-tokyo-ramen-shop-perfect-landing-3n43",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why \"just convert everything to UTC\" is the wrong way to find a meeting time across time zones",
-    "link": "https://dev.to/joe8_lin_tw/why-just-convert-everything-to-utc-is-the-wrong-way-to-find-a-meeting-time-across-time-zones-540h",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built TryQuickImg: compress HEIC/JPG/PNG in the browser — no upload",
-    "link": "https://dev.to/samsonpg/i-built-tryquickimg-compress-heicjpgpng-in-the-browser-no-upload-4bn0",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Porting Excel PMT to the browser: two traps that only show up in money",
-    "link": "https://dev.to/jmshinhwa/porting-excel-pmt-to-the-browser-two-traps-that-only-show-up-in-money-g0p",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Gemini 3's Function Calling Has a Signature Rule That Only Bites You Once You Add a Second Tool Call",
-    "link": "https://dev.to/ethan_5b3022150e2c07a4030/gemini-3s-function-calling-has-a-signature-rule-that-only-bites-you-once-you-add-a-second-tool-call-31mm",
+    "title": "The Astro Image Gotcha That Broke Our Production Build and How We Fixed It",
+    "link": "https://dev.to/rachido_sama/the-astro-image-gotcha-that-broke-our-production-build-and-how-we-fixed-it-566d",
     "date": "7/30/2026",
     "site": "dev.to"
   },
@@ -222,68 +378,20 @@
     "site": "dev.to"
   },
   {
-    "title": "The Regex Bug That Passes Code Review, Passes Tests, and Takes Down Prod",
-    "link": "https://dev.to/just-a-guy360/the-regex-bug-that-passes-code-review-passes-tests-and-takes-down-prod-4gf1",
+    "title": "What Actually Happens After You Send a Webhook",
+    "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Seven government recall feeds, and what it takes to make them agree",
-    "link": "https://dev.to/nate_b_76a98ee76221cdb5bb/seven-government-recall-feeds-and-what-it-takes-to-make-them-agree-1faf",
+    "title": "PISCA: I turned an Andean breakfast soup into an interactive landscape",
+    "link": "https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
-    "link": "https://dev.to/parsajiravand/array-methods-are-eager-iterator-helpers-are-lazy-heres-why-that-matters-58li",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
-    "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turns out my \"random group splitter\" doesn't roll any dice — here's what it does instead",
-    "link": "https://dev.to/joe8_lin_tw/turns-out-my-random-group-splitter-doesnt-roll-any-dice-heres-what-it-does-instead-3laa",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Enterprise State Management: React & Zustand 🐻",
-    "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Yoru Ramen 夜ラーメン — A Late-Night Tokyo Ramen Shop | Perfect Landing",
-    "link": "https://dev.to/elsie-rainee/yoru-ramen-ye-ramen-a-late-night-tokyo-ramen-shop-perfect-landing-3n43",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why \"just convert everything to UTC\" is the wrong way to find a meeting time across time zones",
-    "link": "https://dev.to/joe8_lin_tw/why-just-convert-everything-to-utc-is-the-wrong-way-to-find-a-meeting-time-across-time-zones-540h",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built TryQuickImg: compress HEIC/JPG/PNG in the browser — no upload",
-    "link": "https://dev.to/samsonpg/i-built-tryquickimg-compress-heicjpgpng-in-the-browser-no-upload-4bn0",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Porting Excel PMT to the browser: two traps that only show up in money",
-    "link": "https://dev.to/jmshinhwa/porting-excel-pmt-to-the-browser-two-traps-that-only-show-up-in-money-g0p",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Gemini 3's Function Calling Has a Signature Rule That Only Bites You Once You Add a Second Tool Call",
-    "link": "https://dev.to/ethan_5b3022150e2c07a4030/gemini-3s-function-calling-has-a-signature-rule-that-only-bites-you-once-you-add-a-second-tool-call-31mm",
+    "title": "The Astro Image Gotcha That Broke Our Production Build and How We Fixed It",
+    "link": "https://dev.to/rachido_sama/the-astro-image-gotcha-that-broke-our-production-build-and-how-we-fixed-it-566d",
     "date": "7/30/2026",
     "site": "dev.to"
   },
@@ -294,68 +402,20 @@
     "site": "dev.to"
   },
   {
-    "title": "The Regex Bug That Passes Code Review, Passes Tests, and Takes Down Prod",
-    "link": "https://dev.to/just-a-guy360/the-regex-bug-that-passes-code-review-passes-tests-and-takes-down-prod-4gf1",
+    "title": "What Actually Happens After You Send a Webhook",
+    "link": "https://dev.to/devopsdaily/what-actually-happens-after-you-send-a-webhook-fao",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Seven government recall feeds, and what it takes to make them agree",
-    "link": "https://dev.to/nate_b_76a98ee76221cdb5bb/seven-government-recall-feeds-and-what-it-takes-to-make-them-agree-1faf",
+    "title": "PISCA: I turned an Andean breakfast soup into an interactive landscape",
+    "link": "https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8",
     "date": "7/30/2026",
     "site": "dev.to"
   },
   {
-    "title": "Array methods are eager. Iterator helpers are lazy. Here's why that matters.",
-    "link": "https://dev.to/parsajiravand/array-methods-are-eager-iterator-helpers-are-lazy-heres-why-that-matters-58li",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useUpdateEffect Hook: Skip the First Render (2026)",
-    "link": "https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turns out my \"random group splitter\" doesn't roll any dice — here's what it does instead",
-    "link": "https://dev.to/joe8_lin_tw/turns-out-my-random-group-splitter-doesnt-roll-any-dice-heres-what-it-does-instead-3laa",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Enterprise State Management: React & Zustand 🐻",
-    "link": "https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Yoru Ramen 夜ラーメン — A Late-Night Tokyo Ramen Shop | Perfect Landing",
-    "link": "https://dev.to/elsie-rainee/yoru-ramen-ye-ramen-a-late-night-tokyo-ramen-shop-perfect-landing-3n43",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why \"just convert everything to UTC\" is the wrong way to find a meeting time across time zones",
-    "link": "https://dev.to/joe8_lin_tw/why-just-convert-everything-to-utc-is-the-wrong-way-to-find-a-meeting-time-across-time-zones-540h",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built TryQuickImg: compress HEIC/JPG/PNG in the browser — no upload",
-    "link": "https://dev.to/samsonpg/i-built-tryquickimg-compress-heicjpgpng-in-the-browser-no-upload-4bn0",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Porting Excel PMT to the browser: two traps that only show up in money",
-    "link": "https://dev.to/jmshinhwa/porting-excel-pmt-to-the-browser-two-traps-that-only-show-up-in-money-g0p",
-    "date": "7/30/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Gemini 3's Function Calling Has a Signature Rule That Only Bites You Once You Add a Second Tool Call",
-    "link": "https://dev.to/ethan_5b3022150e2c07a4030/gemini-3s-function-calling-has-a-signature-rule-that-only-bites-you-once-you-add-a-second-tool-call-31mm",
+    "title": "The Astro Image Gotcha That Broke Our Production Build and How We Fixed It",
+    "link": "https://dev.to/rachido_sama/the-astro-image-gotcha-that-broke-our-production-build-and-how-we-fixed-it-566d",
     "date": "7/30/2026",
     "site": "dev.to"
   },
@@ -366,8 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Rock paper scissors is secretly a distributed systems problem",
-    "link": "https://dev.to/ozgurozalp/rock-paper-scissors-is-secretly-a-distributed-systems-problem-21i9",
+    "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+    "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "date": "7/29/2026",
     "site": "dev.to"
   },
@@ -378,8 +438,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Rock paper scissors is secretly a distributed systems problem",
-    "link": "https://dev.to/ozgurozalp/rock-paper-scissors-is-secretly-a-distributed-systems-problem-21i9",
+    "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
+    "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "date": "7/29/2026",
     "site": "dev.to"
   },
@@ -387,66 +447,6 @@
     "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
     "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
     "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rock paper scissors is secretly a distributed systems problem",
-    "link": "https://dev.to/ozgurozalp/rock-paper-scissors-is-secretly-a-distributed-systems-problem-21i9",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-    "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rock paper scissors is secretly a distributed systems problem",
-    "link": "https://dev.to/ozgurozalp/rock-paper-scissors-is-secretly-a-distributed-systems-problem-21i9",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Join our latest Frontend Challenge: Comfort Food Edition 🍲",
-    "link": "https://dev.to/devteam/join-our-latest-frontend-challenge-comfort-food-edition-28a0",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rock paper scissors is secretly a distributed systems problem",
-    "link": "https://dev.to/ozgurozalp/rock-paper-scissors-is-secretly-a-distributed-systems-problem-21i9",
-    "date": "7/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-    "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-    "date": "7/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-    "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-    "date": "7/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-    "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-    "date": "7/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-    "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-    "date": "7/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React 19's useActionState Showed Me Why Disabling My Submit Button Was Never Enough",
-    "link": "https://dev.to/shubhradev/react-19s-useactionstate-showed-me-why-disabling-my-submit-button-was-never-enough-53jd",
-    "date": "7/28/2026",
     "site": "dev.to"
   },
   {
@@ -543,7 +543,7 @@
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
@@ -676,7 +676,7 @@
   {
     "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
     "link": "https://www.smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "4/21/2023",
     "site": "smashingmagazine"
   },
