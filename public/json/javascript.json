@@ -1,7 +1,373 @@
 [
   {
-    "title": "The Leaf Is the Page: My Mother's Sunday Meal, Served in Eating Order",
-    "link": "https://dev.to/snipforge/the-leaf-is-the-page-my-mothers-sunday-meal-served-in-eating-order-3bc8",
+    "title": "TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly",
+    "link": "https://dev.to/jsmanifest/typescript-asserts-and-type-predicates-in-2026-writing-guards-that-actually-narrow-correctly-3kid",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A formula can be implemented perfectly and still give the wrong answer",
+    "link": "https://dev.to/javeed450sudo/a-formula-can-be-implemented-perfectly-and-still-give-the-wrong-answer-2d37",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I gave a user the right answer with the wrong mechanism. They caught it within a day.",
+    "link": "https://dev.to/achiya-automation/i-gave-a-user-the-right-answer-with-the-wrong-mechanism-he-caught-it-within-a-day-2k41",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three things Indian finance code gets wrong (with the numbers)",
+    "link": "https://dev.to/javeed450sudo/three-things-indian-finance-code-gets-wrong-with-the-numbers-3hm0",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build multi-CDN failover with HLS content steering, hls.js, and a 40-line server",
+    "link": "https://dev.to/masonwritescode/build-multi-cdn-failover-with-hls-content-steering-hlsjs-and-a-40-line-server-1l8i",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The backend was green and the video kept buffering: a QoE debugging playbook",
+    "link": "https://dev.to/masonwritescode/the-backend-was-green-and-the-video-kept-buffering-a-qoe-debugging-playbook-1kcg",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I rebuilt a 1996 Macintosh and found nothing missing",
+    "link": "https://dev.to/marciojpflorindo/i-rebuilt-a-1996-macintosh-and-found-nothing-missing-58kl",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDisclosure Hook: Manage Modal & Drawer State (2026)",
+    "link": "https://dev.to/childrentime/react-usedisclosure-hook-manage-modal-drawer-state-2026-4b4p",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Fix CORS Errors in React: The Practical Guide (With Real Solutions)",
+    "link": "https://dev.to/blogs_world/how-to-fix-cors-errors-in-react-the-practical-guide-with-real-solutions-33p9",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `new Date(garbage) === \"Invalid Date\"` is always false (a timestamp converter taught me this the hard way)",
+    "link": "https://dev.to/joe8_lin_tw/why-new-dategarbage-invalid-date-is-always-false-a-timestamp-converter-taught-me-this-362",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We built a GB-first Maps & Places API because the mapping bill stopped making sense",
+    "link": "https://dev.to/icentric/we-built-a-gb-first-maps-places-api-because-the-mapping-bill-stopped-making-sense-39h1",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leftover Ladle: Comfort Food from What You Already Have",
+    "link": "https://dev.to/alexshev/leftover-ladle-comfort-food-from-what-you-already-have-4h7l",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly",
+    "link": "https://dev.to/jsmanifest/typescript-asserts-and-type-predicates-in-2026-writing-guards-that-actually-narrow-correctly-3kid",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A formula can be implemented perfectly and still give the wrong answer",
+    "link": "https://dev.to/javeed450sudo/a-formula-can-be-implemented-perfectly-and-still-give-the-wrong-answer-2d37",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I gave a user the right answer with the wrong mechanism. They caught it within a day.",
+    "link": "https://dev.to/achiya-automation/i-gave-a-user-the-right-answer-with-the-wrong-mechanism-he-caught-it-within-a-day-2k41",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three things Indian finance code gets wrong (with the numbers)",
+    "link": "https://dev.to/javeed450sudo/three-things-indian-finance-code-gets-wrong-with-the-numbers-3hm0",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build multi-CDN failover with HLS content steering, hls.js, and a 40-line server",
+    "link": "https://dev.to/masonwritescode/build-multi-cdn-failover-with-hls-content-steering-hlsjs-and-a-40-line-server-1l8i",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The backend was green and the video kept buffering: a QoE debugging playbook",
+    "link": "https://dev.to/masonwritescode/the-backend-was-green-and-the-video-kept-buffering-a-qoe-debugging-playbook-1kcg",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I rebuilt a 1996 Macintosh and found nothing missing",
+    "link": "https://dev.to/marciojpflorindo/i-rebuilt-a-1996-macintosh-and-found-nothing-missing-58kl",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDisclosure Hook: Manage Modal & Drawer State (2026)",
+    "link": "https://dev.to/childrentime/react-usedisclosure-hook-manage-modal-drawer-state-2026-4b4p",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Fix CORS Errors in React: The Practical Guide (With Real Solutions)",
+    "link": "https://dev.to/blogs_world/how-to-fix-cors-errors-in-react-the-practical-guide-with-real-solutions-33p9",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `new Date(garbage) === \"Invalid Date\"` is always false (a timestamp converter taught me this the hard way)",
+    "link": "https://dev.to/joe8_lin_tw/why-new-dategarbage-invalid-date-is-always-false-a-timestamp-converter-taught-me-this-362",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We built a GB-first Maps & Places API because the mapping bill stopped making sense",
+    "link": "https://dev.to/icentric/we-built-a-gb-first-maps-places-api-because-the-mapping-bill-stopped-making-sense-39h1",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leftover Ladle: Comfort Food from What You Already Have",
+    "link": "https://dev.to/alexshev/leftover-ladle-comfort-food-from-what-you-already-have-4h7l",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly",
+    "link": "https://dev.to/jsmanifest/typescript-asserts-and-type-predicates-in-2026-writing-guards-that-actually-narrow-correctly-3kid",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A formula can be implemented perfectly and still give the wrong answer",
+    "link": "https://dev.to/javeed450sudo/a-formula-can-be-implemented-perfectly-and-still-give-the-wrong-answer-2d37",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I gave a user the right answer with the wrong mechanism. They caught it within a day.",
+    "link": "https://dev.to/achiya-automation/i-gave-a-user-the-right-answer-with-the-wrong-mechanism-he-caught-it-within-a-day-2k41",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three things Indian finance code gets wrong (with the numbers)",
+    "link": "https://dev.to/javeed450sudo/three-things-indian-finance-code-gets-wrong-with-the-numbers-3hm0",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build multi-CDN failover with HLS content steering, hls.js, and a 40-line server",
+    "link": "https://dev.to/masonwritescode/build-multi-cdn-failover-with-hls-content-steering-hlsjs-and-a-40-line-server-1l8i",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The backend was green and the video kept buffering: a QoE debugging playbook",
+    "link": "https://dev.to/masonwritescode/the-backend-was-green-and-the-video-kept-buffering-a-qoe-debugging-playbook-1kcg",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I rebuilt a 1996 Macintosh and found nothing missing",
+    "link": "https://dev.to/marciojpflorindo/i-rebuilt-a-1996-macintosh-and-found-nothing-missing-58kl",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDisclosure Hook: Manage Modal & Drawer State (2026)",
+    "link": "https://dev.to/childrentime/react-usedisclosure-hook-manage-modal-drawer-state-2026-4b4p",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Fix CORS Errors in React: The Practical Guide (With Real Solutions)",
+    "link": "https://dev.to/blogs_world/how-to-fix-cors-errors-in-react-the-practical-guide-with-real-solutions-33p9",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `new Date(garbage) === \"Invalid Date\"` is always false (a timestamp converter taught me this the hard way)",
+    "link": "https://dev.to/joe8_lin_tw/why-new-dategarbage-invalid-date-is-always-false-a-timestamp-converter-taught-me-this-362",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We built a GB-first Maps & Places API because the mapping bill stopped making sense",
+    "link": "https://dev.to/icentric/we-built-a-gb-first-maps-places-api-because-the-mapping-bill-stopped-making-sense-39h1",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leftover Ladle: Comfort Food from What You Already Have",
+    "link": "https://dev.to/alexshev/leftover-ladle-comfort-food-from-what-you-already-have-4h7l",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly",
+    "link": "https://dev.to/jsmanifest/typescript-asserts-and-type-predicates-in-2026-writing-guards-that-actually-narrow-correctly-3kid",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A formula can be implemented perfectly and still give the wrong answer",
+    "link": "https://dev.to/javeed450sudo/a-formula-can-be-implemented-perfectly-and-still-give-the-wrong-answer-2d37",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I gave a user the right answer with the wrong mechanism. They caught it within a day.",
+    "link": "https://dev.to/achiya-automation/i-gave-a-user-the-right-answer-with-the-wrong-mechanism-he-caught-it-within-a-day-2k41",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three things Indian finance code gets wrong (with the numbers)",
+    "link": "https://dev.to/javeed450sudo/three-things-indian-finance-code-gets-wrong-with-the-numbers-3hm0",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build multi-CDN failover with HLS content steering, hls.js, and a 40-line server",
+    "link": "https://dev.to/masonwritescode/build-multi-cdn-failover-with-hls-content-steering-hlsjs-and-a-40-line-server-1l8i",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The backend was green and the video kept buffering: a QoE debugging playbook",
+    "link": "https://dev.to/masonwritescode/the-backend-was-green-and-the-video-kept-buffering-a-qoe-debugging-playbook-1kcg",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I rebuilt a 1996 Macintosh and found nothing missing",
+    "link": "https://dev.to/marciojpflorindo/i-rebuilt-a-1996-macintosh-and-found-nothing-missing-58kl",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDisclosure Hook: Manage Modal & Drawer State (2026)",
+    "link": "https://dev.to/childrentime/react-usedisclosure-hook-manage-modal-drawer-state-2026-4b4p",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Fix CORS Errors in React: The Practical Guide (With Real Solutions)",
+    "link": "https://dev.to/blogs_world/how-to-fix-cors-errors-in-react-the-practical-guide-with-real-solutions-33p9",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `new Date(garbage) === \"Invalid Date\"` is always false (a timestamp converter taught me this the hard way)",
+    "link": "https://dev.to/joe8_lin_tw/why-new-dategarbage-invalid-date-is-always-false-a-timestamp-converter-taught-me-this-362",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We built a GB-first Maps & Places API because the mapping bill stopped making sense",
+    "link": "https://dev.to/icentric/we-built-a-gb-first-maps-places-api-because-the-mapping-bill-stopped-making-sense-39h1",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leftover Ladle: Comfort Food from What You Already Have",
+    "link": "https://dev.to/alexshev/leftover-ladle-comfort-food-from-what-you-already-have-4h7l",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly",
+    "link": "https://dev.to/jsmanifest/typescript-asserts-and-type-predicates-in-2026-writing-guards-that-actually-narrow-correctly-3kid",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A formula can be implemented perfectly and still give the wrong answer",
+    "link": "https://dev.to/javeed450sudo/a-formula-can-be-implemented-perfectly-and-still-give-the-wrong-answer-2d37",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I gave a user the right answer with the wrong mechanism. They caught it within a day.",
+    "link": "https://dev.to/achiya-automation/i-gave-a-user-the-right-answer-with-the-wrong-mechanism-he-caught-it-within-a-day-2k41",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three things Indian finance code gets wrong (with the numbers)",
+    "link": "https://dev.to/javeed450sudo/three-things-indian-finance-code-gets-wrong-with-the-numbers-3hm0",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build multi-CDN failover with HLS content steering, hls.js, and a 40-line server",
+    "link": "https://dev.to/masonwritescode/build-multi-cdn-failover-with-hls-content-steering-hlsjs-and-a-40-line-server-1l8i",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The backend was green and the video kept buffering: a QoE debugging playbook",
+    "link": "https://dev.to/masonwritescode/the-backend-was-green-and-the-video-kept-buffering-a-qoe-debugging-playbook-1kcg",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I rebuilt a 1996 Macintosh and found nothing missing",
+    "link": "https://dev.to/marciojpflorindo/i-rebuilt-a-1996-macintosh-and-found-nothing-missing-58kl",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useDisclosure Hook: Manage Modal & Drawer State (2026)",
+    "link": "https://dev.to/childrentime/react-usedisclosure-hook-manage-modal-drawer-state-2026-4b4p",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Fix CORS Errors in React: The Practical Guide (With Real Solutions)",
+    "link": "https://dev.to/blogs_world/how-to-fix-cors-errors-in-react-the-practical-guide-with-real-solutions-33p9",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why `new Date(garbage) === \"Invalid Date\"` is always false (a timestamp converter taught me this the hard way)",
+    "link": "https://dev.to/joe8_lin_tw/why-new-dategarbage-invalid-date-is-always-false-a-timestamp-converter-taught-me-this-362",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We built a GB-first Maps & Places API because the mapping bill stopped making sense",
+    "link": "https://dev.to/icentric/we-built-a-gb-first-maps-places-api-because-the-mapping-bill-stopped-making-sense-39h1",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Leftover Ladle: Comfort Food from What You Already Have",
+    "link": "https://dev.to/alexshev/leftover-ladle-comfort-food-from-what-you-already-have-4h7l",
+    "date": "8/4/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript 7 Went Native: What Actually Changes And What Doesn't",
+    "link": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
+    "date": "8/3/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a free fitness tracker with no backend and no account — here's what I learned",
+    "link": "https://dev.to/uhdallas/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-58pb",
     "date": "8/3/2026",
     "site": "dev.to"
   },
@@ -12,68 +378,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Warm Table — A Taiwanese Comfort Soup Landing Page",
-    "link": "https://dev.to/zoe_lin_0653/warm-table-a-taiwanese-comfort-soup-landing-page-fnl",
+    "title": "TypeScript 7 Went Native: What Actually Changes And What Doesn't",
+    "link": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "date": "8/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why three \"characters\" in my HTML symbol table aren't actually there",
-    "link": "https://dev.to/joe8_lin_tw/why-three-characters-in-my-html-symbol-table-arent-actually-there-5f4",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)",
-    "link": "https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a real-time social network to challenge X/Twitter. Try to crash it.",
-    "link": "https://dev.to/codemaster_121482/i-built-a-real-time-social-network-to-challenge-xtwitter-try-to-crash-it-3m8g",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Improve Website Performance Without Sacrificing Design",
-    "link": "https://dev.to/_artclick/how-to-improve-website-performance-without-sacrificing-design-3d3m",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "💎 The Performance Bottleneck Hidden Inside My Gem Price Estimator: How Smarter Algorithms Created a Much Faster Experience",
-    "link": "https://dev.to/dmsmenula/the-performance-bottleneck-hidden-inside-my-gem-price-estimator-how-smarter-algorithms-created-a-62f",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Resilient Retry Logic in Node.js: Exponential Backoff, Jitter, and Circuit Breakers Done Right",
-    "link": "https://dev.to/mukesh_13/building-resilient-retry-logic-in-nodejs-exponential-backoff-jitter-and-circuit-breakers-done-279n",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How a 60-Day Sliding Window Flooded Our Slack with 500 Duplicate Alerts",
-    "link": "https://dev.to/anand_rathnas_d5b608cc3de/how-a-60-day-sliding-window-flooded-our-slack-with-500-duplicate-alerts-4oo8",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native i18n in 2026: A Practical Expo Router Playbook",
-    "link": "https://dev.to/sophie_fa_6ed935b0601d76/react-native-i18n-in-2026-a-practical-expo-router-playbook-2k8f",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "# Building SemaKazi Part 3: Adding Tests (and Why I Had to Refactor First)",
-    "link": "https://dev.to/iochieng1/-building-semakazi-part-3-adding-tests-and-why-i-had-to-refactor-first-2pne",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Leaf Is the Page: My Mother's Sunday Meal, Served in Eating Order",
-    "link": "https://dev.to/snipforge/the-leaf-is-the-page-my-mothers-sunday-meal-served-in-eating-order-3bc8",
+    "title": "I built a free fitness tracker with no backend and no account — here's what I learned",
+    "link": "https://dev.to/uhdallas/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-58pb",
     "date": "8/3/2026",
     "site": "dev.to"
   },
@@ -84,68 +396,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Warm Table — A Taiwanese Comfort Soup Landing Page",
-    "link": "https://dev.to/zoe_lin_0653/warm-table-a-taiwanese-comfort-soup-landing-page-fnl",
+    "title": "TypeScript 7 Went Native: What Actually Changes And What Doesn't",
+    "link": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "date": "8/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why three \"characters\" in my HTML symbol table aren't actually there",
-    "link": "https://dev.to/joe8_lin_tw/why-three-characters-in-my-html-symbol-table-arent-actually-there-5f4",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)",
-    "link": "https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a real-time social network to challenge X/Twitter. Try to crash it.",
-    "link": "https://dev.to/codemaster_121482/i-built-a-real-time-social-network-to-challenge-xtwitter-try-to-crash-it-3m8g",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Improve Website Performance Without Sacrificing Design",
-    "link": "https://dev.to/_artclick/how-to-improve-website-performance-without-sacrificing-design-3d3m",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "💎 The Performance Bottleneck Hidden Inside My Gem Price Estimator: How Smarter Algorithms Created a Much Faster Experience",
-    "link": "https://dev.to/dmsmenula/the-performance-bottleneck-hidden-inside-my-gem-price-estimator-how-smarter-algorithms-created-a-62f",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Resilient Retry Logic in Node.js: Exponential Backoff, Jitter, and Circuit Breakers Done Right",
-    "link": "https://dev.to/mukesh_13/building-resilient-retry-logic-in-nodejs-exponential-backoff-jitter-and-circuit-breakers-done-279n",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How a 60-Day Sliding Window Flooded Our Slack with 500 Duplicate Alerts",
-    "link": "https://dev.to/anand_rathnas_d5b608cc3de/how-a-60-day-sliding-window-flooded-our-slack-with-500-duplicate-alerts-4oo8",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native i18n in 2026: A Practical Expo Router Playbook",
-    "link": "https://dev.to/sophie_fa_6ed935b0601d76/react-native-i18n-in-2026-a-practical-expo-router-playbook-2k8f",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "# Building SemaKazi Part 3: Adding Tests (and Why I Had to Refactor First)",
-    "link": "https://dev.to/iochieng1/-building-semakazi-part-3-adding-tests-and-why-i-had-to-refactor-first-2pne",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Leaf Is the Page: My Mother's Sunday Meal, Served in Eating Order",
-    "link": "https://dev.to/snipforge/the-leaf-is-the-page-my-mothers-sunday-meal-served-in-eating-order-3bc8",
+    "title": "I built a free fitness tracker with no backend and no account — here's what I learned",
+    "link": "https://dev.to/uhdallas/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-58pb",
     "date": "8/3/2026",
     "site": "dev.to"
   },
@@ -156,68 +414,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Warm Table — A Taiwanese Comfort Soup Landing Page",
-    "link": "https://dev.to/zoe_lin_0653/warm-table-a-taiwanese-comfort-soup-landing-page-fnl",
+    "title": "TypeScript 7 Went Native: What Actually Changes And What Doesn't",
+    "link": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "date": "8/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why three \"characters\" in my HTML symbol table aren't actually there",
-    "link": "https://dev.to/joe8_lin_tw/why-three-characters-in-my-html-symbol-table-arent-actually-there-5f4",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)",
-    "link": "https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a real-time social network to challenge X/Twitter. Try to crash it.",
-    "link": "https://dev.to/codemaster_121482/i-built-a-real-time-social-network-to-challenge-xtwitter-try-to-crash-it-3m8g",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Improve Website Performance Without Sacrificing Design",
-    "link": "https://dev.to/_artclick/how-to-improve-website-performance-without-sacrificing-design-3d3m",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "💎 The Performance Bottleneck Hidden Inside My Gem Price Estimator: How Smarter Algorithms Created a Much Faster Experience",
-    "link": "https://dev.to/dmsmenula/the-performance-bottleneck-hidden-inside-my-gem-price-estimator-how-smarter-algorithms-created-a-62f",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Resilient Retry Logic in Node.js: Exponential Backoff, Jitter, and Circuit Breakers Done Right",
-    "link": "https://dev.to/mukesh_13/building-resilient-retry-logic-in-nodejs-exponential-backoff-jitter-and-circuit-breakers-done-279n",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How a 60-Day Sliding Window Flooded Our Slack with 500 Duplicate Alerts",
-    "link": "https://dev.to/anand_rathnas_d5b608cc3de/how-a-60-day-sliding-window-flooded-our-slack-with-500-duplicate-alerts-4oo8",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native i18n in 2026: A Practical Expo Router Playbook",
-    "link": "https://dev.to/sophie_fa_6ed935b0601d76/react-native-i18n-in-2026-a-practical-expo-router-playbook-2k8f",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "# Building SemaKazi Part 3: Adding Tests (and Why I Had to Refactor First)",
-    "link": "https://dev.to/iochieng1/-building-semakazi-part-3-adding-tests-and-why-i-had-to-refactor-first-2pne",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Leaf Is the Page: My Mother's Sunday Meal, Served in Eating Order",
-    "link": "https://dev.to/snipforge/the-leaf-is-the-page-my-mothers-sunday-meal-served-in-eating-order-3bc8",
+    "title": "I built a free fitness tracker with no backend and no account — here's what I learned",
+    "link": "https://dev.to/uhdallas/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-58pb",
     "date": "8/3/2026",
     "site": "dev.to"
   },
@@ -228,68 +432,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Warm Table — A Taiwanese Comfort Soup Landing Page",
-    "link": "https://dev.to/zoe_lin_0653/warm-table-a-taiwanese-comfort-soup-landing-page-fnl",
+    "title": "TypeScript 7 Went Native: What Actually Changes And What Doesn't",
+    "link": "https://dev.to/nazar-boyko/typescript-7-went-native-what-actually-changes-and-what-doesnt-6b3",
     "date": "8/3/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why three \"characters\" in my HTML symbol table aren't actually there",
-    "link": "https://dev.to/joe8_lin_tw/why-three-characters-in-my-html-symbol-table-arent-actually-there-5f4",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)",
-    "link": "https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a real-time social network to challenge X/Twitter. Try to crash it.",
-    "link": "https://dev.to/codemaster_121482/i-built-a-real-time-social-network-to-challenge-xtwitter-try-to-crash-it-3m8g",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Improve Website Performance Without Sacrificing Design",
-    "link": "https://dev.to/_artclick/how-to-improve-website-performance-without-sacrificing-design-3d3m",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "💎 The Performance Bottleneck Hidden Inside My Gem Price Estimator: How Smarter Algorithms Created a Much Faster Experience",
-    "link": "https://dev.to/dmsmenula/the-performance-bottleneck-hidden-inside-my-gem-price-estimator-how-smarter-algorithms-created-a-62f",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Resilient Retry Logic in Node.js: Exponential Backoff, Jitter, and Circuit Breakers Done Right",
-    "link": "https://dev.to/mukesh_13/building-resilient-retry-logic-in-nodejs-exponential-backoff-jitter-and-circuit-breakers-done-279n",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How a 60-Day Sliding Window Flooded Our Slack with 500 Duplicate Alerts",
-    "link": "https://dev.to/anand_rathnas_d5b608cc3de/how-a-60-day-sliding-window-flooded-our-slack-with-500-duplicate-alerts-4oo8",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native i18n in 2026: A Practical Expo Router Playbook",
-    "link": "https://dev.to/sophie_fa_6ed935b0601d76/react-native-i18n-in-2026-a-practical-expo-router-playbook-2k8f",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "# Building SemaKazi Part 3: Adding Tests (and Why I Had to Refactor First)",
-    "link": "https://dev.to/iochieng1/-building-semakazi-part-3-adding-tests-and-why-i-had-to-refactor-first-2pne",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Leaf Is the Page: My Mother's Sunday Meal, Served in Eating Order",
-    "link": "https://dev.to/snipforge/the-leaf-is-the-page-my-mothers-sunday-meal-served-in-eating-order-3bc8",
+    "title": "I built a free fitness tracker with no backend and no account — here's what I learned",
+    "link": "https://dev.to/uhdallas/i-built-a-free-fitness-tracker-with-no-backend-and-no-account-heres-what-i-learned-58pb",
     "date": "8/3/2026",
     "site": "dev.to"
   },
@@ -297,156 +447,6 @@
     "title": "Building a Zero-API-Key Real-Time Market Data Proxy",
     "link": "https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69",
     "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Warm Table — A Taiwanese Comfort Soup Landing Page",
-    "link": "https://dev.to/zoe_lin_0653/warm-table-a-taiwanese-comfort-soup-landing-page-fnl",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why three \"characters\" in my HTML symbol table aren't actually there",
-    "link": "https://dev.to/joe8_lin_tw/why-three-characters-in-my-html-symbol-table-arent-actually-there-5f4",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useInfiniteScroll Hook: Infinite Scrolling Made Simple (2026)",
-    "link": "https://dev.to/childrentime/react-useinfinitescroll-hook-infinite-scrolling-made-simple-2026-15c4",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a real-time social network to challenge X/Twitter. Try to crash it.",
-    "link": "https://dev.to/codemaster_121482/i-built-a-real-time-social-network-to-challenge-xtwitter-try-to-crash-it-3m8g",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Improve Website Performance Without Sacrificing Design",
-    "link": "https://dev.to/_artclick/how-to-improve-website-performance-without-sacrificing-design-3d3m",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "💎 The Performance Bottleneck Hidden Inside My Gem Price Estimator: How Smarter Algorithms Created a Much Faster Experience",
-    "link": "https://dev.to/dmsmenula/the-performance-bottleneck-hidden-inside-my-gem-price-estimator-how-smarter-algorithms-created-a-62f",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Resilient Retry Logic in Node.js: Exponential Backoff, Jitter, and Circuit Breakers Done Right",
-    "link": "https://dev.to/mukesh_13/building-resilient-retry-logic-in-nodejs-exponential-backoff-jitter-and-circuit-breakers-done-279n",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How a 60-Day Sliding Window Flooded Our Slack with 500 Duplicate Alerts",
-    "link": "https://dev.to/anand_rathnas_d5b608cc3de/how-a-60-day-sliding-window-flooded-our-slack-with-500-duplicate-alerts-4oo8",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Native i18n in 2026: A Practical Expo Router Playbook",
-    "link": "https://dev.to/sophie_fa_6ed935b0601d76/react-native-i18n-in-2026-a-practical-expo-router-playbook-2k8f",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "# Building SemaKazi Part 3: Adding Tests (and Why I Had to Refactor First)",
-    "link": "https://dev.to/iochieng1/-building-semakazi-part-3-adding-tests-and-why-i-had-to-refactor-first-2pne",
-    "date": "8/3/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Added Tutorial Mode | Moksha",
-    "link": "https://dev.to/weirdcodesofficial/added-tutorial-mode-moksha-17af",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Validar números de teléfono en JavaScript: por qué tu expresión regular está mal",
-    "link": "https://dev.to/ivanindiv/validar-numeros-de-telefono-en-javascript-por-que-tu-expresion-regular-esta-mal-26e2",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Biryani, With Love: A Deccan-Inspired Interactive Atlas",
-    "link": "https://dev.to/adityawaslost/biryani-with-love-a-deccan-inspired-interactive-atlas-4amb",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Added Tutorial Mode | Moksha",
-    "link": "https://dev.to/weirdcodesofficial/added-tutorial-mode-moksha-17af",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Validar números de teléfono en JavaScript: por qué tu expresión regular está mal",
-    "link": "https://dev.to/ivanindiv/validar-numeros-de-telefono-en-javascript-por-que-tu-expresion-regular-esta-mal-26e2",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Biryani, With Love: A Deccan-Inspired Interactive Atlas",
-    "link": "https://dev.to/adityawaslost/biryani-with-love-a-deccan-inspired-interactive-atlas-4amb",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Added Tutorial Mode | Moksha",
-    "link": "https://dev.to/weirdcodesofficial/added-tutorial-mode-moksha-17af",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Validar números de teléfono en JavaScript: por qué tu expresión regular está mal",
-    "link": "https://dev.to/ivanindiv/validar-numeros-de-telefono-en-javascript-por-que-tu-expresion-regular-esta-mal-26e2",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Biryani, With Love: A Deccan-Inspired Interactive Atlas",
-    "link": "https://dev.to/adityawaslost/biryani-with-love-a-deccan-inspired-interactive-atlas-4amb",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Added Tutorial Mode | Moksha",
-    "link": "https://dev.to/weirdcodesofficial/added-tutorial-mode-moksha-17af",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Validar números de teléfono en JavaScript: por qué tu expresión regular está mal",
-    "link": "https://dev.to/ivanindiv/validar-numeros-de-telefono-en-javascript-por-que-tu-expresion-regular-esta-mal-26e2",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Biryani, With Love: A Deccan-Inspired Interactive Atlas",
-    "link": "https://dev.to/adityawaslost/biryani-with-love-a-deccan-inspired-interactive-atlas-4amb",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Added Tutorial Mode | Moksha",
-    "link": "https://dev.to/weirdcodesofficial/added-tutorial-mode-moksha-17af",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Validar números de teléfono en JavaScript: por qué tu expresión regular está mal",
-    "link": "https://dev.to/ivanindiv/validar-numeros-de-telefono-en-javascript-por-que-tu-expresion-regular-esta-mal-26e2",
-    "date": "8/2/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Biryani, With Love: A Deccan-Inspired Interactive Atlas",
-    "link": "https://dev.to/adityawaslost/biryani-with-love-a-deccan-inspired-interactive-atlas-4amb",
-    "date": "8/2/2026",
     "site": "dev.to"
   },
   {
@@ -494,7 +494,7 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
@@ -529,7 +529,7 @@
   {
     "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
     "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "8/20/2024",
     "site": "smashingmagazine"
   },
@@ -543,7 +543,7 @@
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
@@ -697,7 +697,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
@@ -732,7 +732,7 @@
   {
     "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
     "link": "https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-    "reading_time": "23 min read",
+    "reading_time": "24 min read",
     "date": "11/24/2022",
     "site": "smashingmagazine"
   },
