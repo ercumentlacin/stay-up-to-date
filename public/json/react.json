@@ -1,169 +1,145 @@
 [
   {
-    "title": "React useInterval Hook: setInterval Without Stale Closures (2026)",
-    "link": "https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla",
+    "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
+    "link": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PawPrint — The Clue Might Already Be Out There 🐾",
+    "link": "https://dev.to/yogeswar142/pawprint-the-clue-might-already-be-out-there-4g74",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A stale response can quietly break a recommendation tool",
+    "link": "https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PICK A PLATFORM, ANY PLATFORM...",
+    "link": "https://dev.to/one_user_4e8b9b04ce8/pick-a-platform-any-platform-16ao",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
+    "link": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PawPrint — The Clue Might Already Be Out There 🐾",
+    "link": "https://dev.to/yogeswar142/pawprint-the-clue-might-already-be-out-there-4g74",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A stale response can quietly break a recommendation tool",
+    "link": "https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PICK A PLATFORM, ANY PLATFORM...",
+    "link": "https://dev.to/one_user_4e8b9b04ce8/pick-a-platform-any-platform-16ao",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
+    "link": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PawPrint — The Clue Might Already Be Out There 🐾",
+    "link": "https://dev.to/yogeswar142/pawprint-the-clue-might-already-be-out-there-4g74",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A stale response can quietly break a recommendation tool",
+    "link": "https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PICK A PLATFORM, ANY PLATFORM...",
+    "link": "https://dev.to/one_user_4e8b9b04ce8/pick-a-platform-any-platform-16ao",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
+    "link": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PawPrint — The Clue Might Already Be Out There 🐾",
+    "link": "https://dev.to/yogeswar142/pawprint-the-clue-might-already-be-out-there-4g74",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A stale response can quietly break a recommendation tool",
+    "link": "https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PICK A PLATFORM, ANY PLATFORM...",
+    "link": "https://dev.to/one_user_4e8b9b04ce8/pick-a-platform-any-platform-16ao",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useLatest Hook: Read Fresh State in Async Callbacks (2026)",
+    "link": "https://dev.to/childrentime/react-uselatest-hook-read-fresh-state-in-async-callbacks-2026-24hb",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PawPrint — The Clue Might Already Be Out There 🐾",
+    "link": "https://dev.to/yogeswar142/pawprint-the-clue-might-already-be-out-there-4g74",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A stale response can quietly break a recommendation tool",
+    "link": "https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PICK A PLATFORM, ANY PLATFORM...",
+    "link": "https://dev.to/one_user_4e8b9b04ce8/pick-a-platform-any-platform-16ao",
+    "date": "8/16/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Rebuilding BICO v3.0.0 from scratch: worker threads, GPU shaders, and a contrast formula that got it wrong",
+    "link": "https://dev.to/shehari007/rebuilding-bico-v300-from-scratch-worker-threads-gpu-shaders-and-a-contrast-formula-that-got-1ki5",
     "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Rasa — Turning Ayurveda’s Six Rasas Into CSS Art",
-    "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
+    "title": "YOUTHTREND-Beyond the group chat",
+    "link": "https://dev.to/b_christine/youthtrend-beyond-the-group-chat-18f7",
     "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
-    "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
+    "title": "Your Date Picker Is Outdated. Here’s a Better Way.",
+    "link": "https://dev.to/joodi/your-date-picker-is-outdated-heres-a-better-way-57h2",
     "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
-    "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Does React Break HTML Rules? Let's Find Out",
-    "link": "https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSX - 0 to Hero",
-    "link": "https://dev.to/shanitiwari/jsx-0-to-hero-439h",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useInterval Hook: setInterval Without Stale Closures (2026)",
-    "link": "https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rasa — Turning Ayurveda’s Six Rasas Into CSS Art",
-    "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
-    "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
-    "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Does React Break HTML Rules? Let's Find Out",
-    "link": "https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSX - 0 to Hero",
-    "link": "https://dev.to/shanitiwari/jsx-0-to-hero-439h",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useInterval Hook: setInterval Without Stale Closures (2026)",
-    "link": "https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rasa — Turning Ayurveda’s Six Rasas Into CSS Art",
-    "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
-    "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
-    "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Does React Break HTML Rules? Let's Find Out",
-    "link": "https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSX - 0 to Hero",
-    "link": "https://dev.to/shanitiwari/jsx-0-to-hero-439h",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useInterval Hook: setInterval Without Stale Closures (2026)",
-    "link": "https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rasa — Turning Ayurveda’s Six Rasas Into CSS Art",
-    "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
-    "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
-    "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Does React Break HTML Rules? Let's Find Out",
-    "link": "https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSX - 0 to Hero",
-    "link": "https://dev.to/shanitiwari/jsx-0-to-hero-439h",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React useInterval Hook: setInterval Without Stale Closures (2026)",
-    "link": "https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rasa — Turning Ayurveda’s Six Rasas Into CSS Art",
-    "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
-    "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
-    "date": "8/15/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
-    "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
+    "title": "Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss",
+    "link": "https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8",
     "date": "8/15/2026",
     "site": "dev.to"
   },
@@ -174,279 +150,303 @@
     "site": "dev.to"
   },
   {
-    "title": "JSX - 0 to Hero",
-    "link": "https://dev.to/shanitiwari/jsx-0-to-hero-439h",
+    "title": "A tablist that looked finished until a keyboard asked it a question",
+    "link": "https://dev.to/aniruddha_adak/a-tablist-that-looked-finished-until-a-keyboard-asked-it-a-question-2of",
     "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?",
-    "link": "https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40",
-    "date": "8/14/2026",
+    "title": "The shortcut that stole the text field",
+    "link": "https://dev.to/aniruddha_adak/the-shortcut-that-stole-the-text-field-1ff7",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Toolcrib Taste-Test: An AI agent argued with my prompt, demanded N=3 trials, and wrote a post-mortem on Cascading Style 💩",
-    "link": "https://dev.to/g_dollar/toolcrib-taste-test-an-ai-agent-argued-with-my-prompt-demanded-n3-trials-and-wrote-a-2222",
-    "date": "8/14/2026",
+    "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
+    "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic",
-    "link": "https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5",
-    "date": "8/14/2026",
+    "title": "Detect Detached DOM Nodes & Memory Leaks with leak-doctor",
+    "link": "https://dev.to/mmy-lana/detached-dom-nodes-and-uncollected-closures-are-silent-performance-killers-in-single-page-5c5c",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Catch Zombie Fetches & Missing AbortControllers in React 19 with fetch-doctor",
-    "link": "https://dev.to/mmy-lana/catch-zombie-fetches-missing-abortcontrollers-in-react-19-with-fetch-doctor-2fhg",
-    "date": "8/14/2026",
+    "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
+    "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Email Checks Need One Source of Truth",
-    "link": "https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn",
-    "date": "8/14/2026",
+    "title": "Turning Ayurveda’s Six Rasas Into CSS Art",
+    "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "EverShop 2.2.1: our biggest release since 2.0 — page builder, metafields, and React 19",
-    "link": "https://dev.to/the_nguyen/evershop-221-our-biggest-release-since-20-page-builder-metafields-and-react-19-1g1o",
-    "date": "8/14/2026",
+    "title": "Rebuilding BICO v3.0.0 from scratch: worker threads, GPU shaders, and a contrast formula that got it wrong",
+    "link": "https://dev.to/shehari007/rebuilding-bico-v300-from-scratch-worker-threads-gpu-shaders-and-a-contrast-formula-that-got-1ki5",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Ordexa: a Next.js 16 admin dashboard template I actually finished",
-    "link": "https://dev.to/tovrr/ordexa-a-nextjs-16-admin-dashboard-template-i-actually-finished-4ko4",
-    "date": "8/14/2026",
+    "title": "YOUTHTREND-Beyond the group chat",
+    "link": "https://dev.to/b_christine/youthtrend-beyond-the-group-chat-18f7",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "This Week In React #293: Next.js, TanStack, browser(), React Aria | PlainText, Vision Camera, Gesture Handler | Stacked PRs, Flue, Node",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-293-nextjs-tanstack-browser-react-aria-plaintext-vision-camera-4mn8",
-    "date": "8/14/2026",
+    "title": "Your Date Picker Is Outdated. Here’s a Better Way.",
+    "link": "https://dev.to/joodi/your-date-picker-is-outdated-heres-a-better-way-57h2",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-2onn",
-    "date": "8/14/2026",
+    "title": "Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss",
+    "link": "https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?",
-    "link": "https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40",
-    "date": "8/14/2026",
+    "title": "Does React Break HTML Rules? Let's Find Out",
+    "link": "https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Toolcrib Taste-Test: An AI agent argued with my prompt, demanded N=3 trials, and wrote a post-mortem on Cascading Style 💩",
-    "link": "https://dev.to/g_dollar/toolcrib-taste-test-an-ai-agent-argued-with-my-prompt-demanded-n3-trials-and-wrote-a-2222",
-    "date": "8/14/2026",
+    "title": "A tablist that looked finished until a keyboard asked it a question",
+    "link": "https://dev.to/aniruddha_adak/a-tablist-that-looked-finished-until-a-keyboard-asked-it-a-question-2of",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic",
-    "link": "https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5",
-    "date": "8/14/2026",
+    "title": "The shortcut that stole the text field",
+    "link": "https://dev.to/aniruddha_adak/the-shortcut-that-stole-the-text-field-1ff7",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Catch Zombie Fetches & Missing AbortControllers in React 19 with fetch-doctor",
-    "link": "https://dev.to/mmy-lana/catch-zombie-fetches-missing-abortcontrollers-in-react-19-with-fetch-doctor-2fhg",
-    "date": "8/14/2026",
+    "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
+    "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Email Checks Need One Source of Truth",
-    "link": "https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn",
-    "date": "8/14/2026",
+    "title": "Detect Detached DOM Nodes & Memory Leaks with leak-doctor",
+    "link": "https://dev.to/mmy-lana/detached-dom-nodes-and-uncollected-closures-are-silent-performance-killers-in-single-page-5c5c",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "EverShop 2.2.1: our biggest release since 2.0 — page builder, metafields, and React 19",
-    "link": "https://dev.to/the_nguyen/evershop-221-our-biggest-release-since-20-page-builder-metafields-and-react-19-1g1o",
-    "date": "8/14/2026",
+    "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
+    "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Ordexa: a Next.js 16 admin dashboard template I actually finished",
-    "link": "https://dev.to/tovrr/ordexa-a-nextjs-16-admin-dashboard-template-i-actually-finished-4ko4",
-    "date": "8/14/2026",
+    "title": "Turning Ayurveda’s Six Rasas Into CSS Art",
+    "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "This Week In React #293: Next.js, TanStack, browser(), React Aria | PlainText, Vision Camera, Gesture Handler | Stacked PRs, Flue, Node",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-293-nextjs-tanstack-browser-react-aria-plaintext-vision-camera-4mn8",
-    "date": "8/14/2026",
+    "title": "Rebuilding BICO v3.0.0 from scratch: worker threads, GPU shaders, and a contrast formula that got it wrong",
+    "link": "https://dev.to/shehari007/rebuilding-bico-v300-from-scratch-worker-threads-gpu-shaders-and-a-contrast-formula-that-got-1ki5",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-2onn",
-    "date": "8/14/2026",
+    "title": "YOUTHTREND-Beyond the group chat",
+    "link": "https://dev.to/b_christine/youthtrend-beyond-the-group-chat-18f7",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?",
-    "link": "https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40",
-    "date": "8/14/2026",
+    "title": "Your Date Picker Is Outdated. Here’s a Better Way.",
+    "link": "https://dev.to/joodi/your-date-picker-is-outdated-heres-a-better-way-57h2",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Toolcrib Taste-Test: An AI agent argued with my prompt, demanded N=3 trials, and wrote a post-mortem on Cascading Style 💩",
-    "link": "https://dev.to/g_dollar/toolcrib-taste-test-an-ai-agent-argued-with-my-prompt-demanded-n3-trials-and-wrote-a-2222",
-    "date": "8/14/2026",
+    "title": "Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss",
+    "link": "https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic",
-    "link": "https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5",
-    "date": "8/14/2026",
+    "title": "Does React Break HTML Rules? Let's Find Out",
+    "link": "https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Catch Zombie Fetches & Missing AbortControllers in React 19 with fetch-doctor",
-    "link": "https://dev.to/mmy-lana/catch-zombie-fetches-missing-abortcontrollers-in-react-19-with-fetch-doctor-2fhg",
-    "date": "8/14/2026",
+    "title": "A tablist that looked finished until a keyboard asked it a question",
+    "link": "https://dev.to/aniruddha_adak/a-tablist-that-looked-finished-until-a-keyboard-asked-it-a-question-2of",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Email Checks Need One Source of Truth",
-    "link": "https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn",
-    "date": "8/14/2026",
+    "title": "The shortcut that stole the text field",
+    "link": "https://dev.to/aniruddha_adak/the-shortcut-that-stole-the-text-field-1ff7",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "EverShop 2.2.1: our biggest release since 2.0 — page builder, metafields, and React 19",
-    "link": "https://dev.to/the_nguyen/evershop-221-our-biggest-release-since-20-page-builder-metafields-and-react-19-1g1o",
-    "date": "8/14/2026",
+    "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
+    "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Ordexa: a Next.js 16 admin dashboard template I actually finished",
-    "link": "https://dev.to/tovrr/ordexa-a-nextjs-16-admin-dashboard-template-i-actually-finished-4ko4",
-    "date": "8/14/2026",
+    "title": "Detect Detached DOM Nodes & Memory Leaks with leak-doctor",
+    "link": "https://dev.to/mmy-lana/detached-dom-nodes-and-uncollected-closures-are-silent-performance-killers-in-single-page-5c5c",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "This Week In React #293: Next.js, TanStack, browser(), React Aria | PlainText, Vision Camera, Gesture Handler | Stacked PRs, Flue, Node",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-293-nextjs-tanstack-browser-react-aria-plaintext-vision-camera-4mn8",
-    "date": "8/14/2026",
+    "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
+    "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-2onn",
-    "date": "8/14/2026",
+    "title": "Turning Ayurveda’s Six Rasas Into CSS Art",
+    "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?",
-    "link": "https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40",
-    "date": "8/14/2026",
+    "title": "Rebuilding BICO v3.0.0 from scratch: worker threads, GPU shaders, and a contrast formula that got it wrong",
+    "link": "https://dev.to/shehari007/rebuilding-bico-v300-from-scratch-worker-threads-gpu-shaders-and-a-contrast-formula-that-got-1ki5",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Toolcrib Taste-Test: An AI agent argued with my prompt, demanded N=3 trials, and wrote a post-mortem on Cascading Style 💩",
-    "link": "https://dev.to/g_dollar/toolcrib-taste-test-an-ai-agent-argued-with-my-prompt-demanded-n3-trials-and-wrote-a-2222",
-    "date": "8/14/2026",
+    "title": "YOUTHTREND-Beyond the group chat",
+    "link": "https://dev.to/b_christine/youthtrend-beyond-the-group-chat-18f7",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic",
-    "link": "https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5",
-    "date": "8/14/2026",
+    "title": "Your Date Picker Is Outdated. Here’s a Better Way.",
+    "link": "https://dev.to/joodi/your-date-picker-is-outdated-heres-a-better-way-57h2",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Catch Zombie Fetches & Missing AbortControllers in React 19 with fetch-doctor",
-    "link": "https://dev.to/mmy-lana/catch-zombie-fetches-missing-abortcontrollers-in-react-19-with-fetch-doctor-2fhg",
-    "date": "8/14/2026",
+    "title": "Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss",
+    "link": "https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Email Checks Need One Source of Truth",
-    "link": "https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn",
-    "date": "8/14/2026",
+    "title": "Does React Break HTML Rules? Let's Find Out",
+    "link": "https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "EverShop 2.2.1: our biggest release since 2.0 — page builder, metafields, and React 19",
-    "link": "https://dev.to/the_nguyen/evershop-221-our-biggest-release-since-20-page-builder-metafields-and-react-19-1g1o",
-    "date": "8/14/2026",
+    "title": "A tablist that looked finished until a keyboard asked it a question",
+    "link": "https://dev.to/aniruddha_adak/a-tablist-that-looked-finished-until-a-keyboard-asked-it-a-question-2of",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Ordexa: a Next.js 16 admin dashboard template I actually finished",
-    "link": "https://dev.to/tovrr/ordexa-a-nextjs-16-admin-dashboard-template-i-actually-finished-4ko4",
-    "date": "8/14/2026",
+    "title": "The shortcut that stole the text field",
+    "link": "https://dev.to/aniruddha_adak/the-shortcut-that-stole-the-text-field-1ff7",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "This Week In React #293: Next.js, TanStack, browser(), React Aria | PlainText, Vision Camera, Gesture Handler | Stacked PRs, Flue, Node",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-293-nextjs-tanstack-browser-react-aria-plaintext-vision-camera-4mn8",
-    "date": "8/14/2026",
+    "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
+    "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-2onn",
-    "date": "8/14/2026",
+    "title": "Detect Detached DOM Nodes & Memory Leaks with leak-doctor",
+    "link": "https://dev.to/mmy-lana/detached-dom-nodes-and-uncollected-closures-are-silent-performance-killers-in-single-page-5c5c",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Client-Side Rendering (CSR) vs Server-Side Rendering (SSR): Which One Should You Choose?",
-    "link": "https://dev.to/uiuxsatyam/client-side-rendering-csr-vs-server-side-rendering-ssr-which-one-should-you-choose-1h40",
-    "date": "8/14/2026",
+    "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
+    "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Toolcrib Taste-Test: An AI agent argued with my prompt, demanded N=3 trials, and wrote a post-mortem on Cascading Style 💩",
-    "link": "https://dev.to/g_dollar/toolcrib-taste-test-an-ai-agent-argued-with-my-prompt-demanded-n3-trials-and-wrote-a-2222",
-    "date": "8/14/2026",
+    "title": "Turning Ayurveda’s Six Rasas Into CSS Art",
+    "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic",
-    "link": "https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5",
-    "date": "8/14/2026",
+    "title": "Rebuilding BICO v3.0.0 from scratch: worker threads, GPU shaders, and a contrast formula that got it wrong",
+    "link": "https://dev.to/shehari007/rebuilding-bico-v300-from-scratch-worker-threads-gpu-shaders-and-a-contrast-formula-that-got-1ki5",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Catch Zombie Fetches & Missing AbortControllers in React 19 with fetch-doctor",
-    "link": "https://dev.to/mmy-lana/catch-zombie-fetches-missing-abortcontrollers-in-react-19-with-fetch-doctor-2fhg",
-    "date": "8/14/2026",
+    "title": "YOUTHTREND-Beyond the group chat",
+    "link": "https://dev.to/b_christine/youthtrend-beyond-the-group-chat-18f7",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "React Email Checks Need One Source of Truth",
-    "link": "https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn",
-    "date": "8/14/2026",
+    "title": "Your Date Picker Is Outdated. Here’s a Better Way.",
+    "link": "https://dev.to/joodi/your-date-picker-is-outdated-heres-a-better-way-57h2",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "EverShop 2.2.1: our biggest release since 2.0 — page builder, metafields, and React 19",
-    "link": "https://dev.to/the_nguyen/evershop-221-our-biggest-release-since-20-page-builder-metafields-and-react-19-1g1o",
-    "date": "8/14/2026",
+    "title": "Next.js Image Optimization in 2026: `next/image` v4, AVIF by Default, and the Config Changes Teams Miss",
+    "link": "https://dev.to/jsmanifest/nextjs-image-optimization-in-2026-nextimage-v4-avif-by-default-and-the-config-changes-teams-jg8",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Ordexa: a Next.js 16 admin dashboard template I actually finished",
-    "link": "https://dev.to/tovrr/ordexa-a-nextjs-16-admin-dashboard-template-i-actually-finished-4ko4",
-    "date": "8/14/2026",
+    "title": "Does React Break HTML Rules? Let's Find Out",
+    "link": "https://dev.to/aymaneldawy/does-react-break-html-rules-lets-find-out-9p8",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "This Week In React #293: Next.js, TanStack, browser(), React Aria | PlainText, Vision Camera, Gesture Handler | Stacked PRs, Flue, Node",
-    "link": "https://dev.to/sebastienlorber/this-week-in-react-293-nextjs-tanstack-browser-react-aria-plaintext-vision-camera-4mn8",
-    "date": "8/14/2026",
+    "title": "A tablist that looked finished until a keyboard asked it a question",
+    "link": "https://dev.to/aniruddha_adak/a-tablist-that-looked-finished-until-a-keyboard-asked-it-a-question-2of",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "Cómo solucionar el error \\\"Text content does not match server-rendered HTML\\\" en Next.js App Router",
-    "link": "https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-2onn",
-    "date": "8/14/2026",
+    "title": "The shortcut that stole the text field",
+    "link": "https://dev.to/aniruddha_adak/the-shortcut-that-stole-the-text-field-1ff7",
+    "date": "8/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps",
+    "link": "https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0",
+    "date": "8/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Detect Detached DOM Nodes & Memory Leaks with leak-doctor",
+    "link": "https://dev.to/mmy-lana/detached-dom-nodes-and-uncollected-closures-are-silent-performance-killers-in-single-page-5c5c",
+    "date": "8/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Feature Flags API: React Polling and Defensive Defaults for Delivery Status",
+    "link": "https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f",
+    "date": "8/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Turning Ayurveda’s Six Rasas Into CSS Art",
+    "link": "https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6",
+    "date": "8/15/2026",
     "site": "dev.to"
   },
   {
@@ -480,7 +480,7 @@
   {
     "title": "The End Of My Gatsby Journey",
     "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "3/6/2024",
     "site": "smashingmagazine"
   },
@@ -522,7 +522,7 @@
   {
     "title": "A Guide To Redux Toolkit With TypeScript",
     "link": "https://www.smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "5/10/2023",
     "site": "smashingmagazine"
   },
@@ -564,7 +564,7 @@
   {
     "title": "The Key To Good Component Design Is Selfishness",
     "link": "https://www.smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "1/20/2023",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Building A Web App With React, Redux And Sanity.io",
     "link": "https://www.smashingmagazine.com/2021/02/web-app-react-redux-sanity-io/",
-    "reading_time": "34 min read",
+    "reading_time": "35 min read",
     "date": "2/11/2021",
     "site": "smashingmagazine"
   },
