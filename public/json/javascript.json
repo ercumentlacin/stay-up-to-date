@@ -1,91 +1,433 @@
 [
   {
+    "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
+    "link": "https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Practical Solutions for Large List Rendering in Vue 3",
+    "link": "https://dev.to/alan_529cf536b9cf0f88ec8c/5-practical-solutions-for-large-list-rendering-in-vue-3-4lbi",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ask Workday's public API for 100 jobs and you get zero — with no error",
+    "link": "https://dev.to/juancarlosguti/ask-workdays-public-api-for-100-jobs-and-you-get-zero-with-no-error-54b2",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why pasted text keeps breaking search and formatting (and the regexes I ended up using to clean it)",
+    "link": "https://dev.to/begoodtool/why-pasted-text-keeps-breaking-search-and-formatting-and-the-regexes-i-ended-up-using-to-clean-it-100f",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A news-watch bot, an 8,900-character prompt, and three rules that never reached the model",
+    "link": "https://dev.to/ohugonnot/a-news-watch-bot-an-8900-character-prompt-and-three-rules-that-never-reached-the-model-1b5b",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How 500 Concurrent HN Connections Took Down Peakd.io - and How I Rebuilt the Infrastructure",
+    "link": "https://dev.to/peakd/how-500-concurrent-hn-connections-took-down-peakd-and-how-i-rebuilt-the-infrastructure-4537",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a real-time job board watcher that alerts you the second a matching job goes live",
+    "link": "https://dev.to/alex_m_137/i-built-a-real-time-job-board-watcher-that-alerts-you-the-second-a-matching-job-goes-live-3ni1",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3db6",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Markdown Parser Is Not Your XSS Boundary",
+    "link": "https://dev.to/mdfold/your-markdown-parser-is-not-your-xss-boundary-2gpk",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Decode JWT Payloads Locally: What the Claims Tell You (and Don't)",
+    "link": "https://dev.to/wendygostudio/decode-jwt-payloads-locally-what-the-claims-tell-you-and-dont-9ih",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop asking 'what's wrong with this function",
+    "link": "https://dev.to/xiaodong_zhang_bd8dc835b3/stop-asking-whats-wrong-with-this-function-3021",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building image & video conversion that never leaves the browser",
+    "link": "https://dev.to/ken_lee_fc82a8ce3a147aea6/building-image-video-conversion-that-never-leaves-the-browser-iga",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Parse Cron Expressions in the Browser Without a Backend",
+    "link": "https://dev.to/ggwork/how-to-parse-cron-expressions-in-the-browser-without-a-backend-b0l",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript: async/await patterns that will save you hours – The Matrix Reloaded Edition",
+    "link": "https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix-reloaded-edition-1mnl",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
+    "link": "https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Practical Solutions for Large List Rendering in Vue 3",
+    "link": "https://dev.to/alan_529cf536b9cf0f88ec8c/5-practical-solutions-for-large-list-rendering-in-vue-3-4lbi",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ask Workday's public API for 100 jobs and you get zero — with no error",
+    "link": "https://dev.to/juancarlosguti/ask-workdays-public-api-for-100-jobs-and-you-get-zero-with-no-error-54b2",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why pasted text keeps breaking search and formatting (and the regexes I ended up using to clean it)",
+    "link": "https://dev.to/begoodtool/why-pasted-text-keeps-breaking-search-and-formatting-and-the-regexes-i-ended-up-using-to-clean-it-100f",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A news-watch bot, an 8,900-character prompt, and three rules that never reached the model",
+    "link": "https://dev.to/ohugonnot/a-news-watch-bot-an-8900-character-prompt-and-three-rules-that-never-reached-the-model-1b5b",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How 500 Concurrent HN Connections Took Down Peakd.io - and How I Rebuilt the Infrastructure",
+    "link": "https://dev.to/peakd/how-500-concurrent-hn-connections-took-down-peakd-and-how-i-rebuilt-the-infrastructure-4537",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a real-time job board watcher that alerts you the second a matching job goes live",
+    "link": "https://dev.to/alex_m_137/i-built-a-real-time-job-board-watcher-that-alerts-you-the-second-a-matching-job-goes-live-3ni1",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3db6",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Markdown Parser Is Not Your XSS Boundary",
+    "link": "https://dev.to/mdfold/your-markdown-parser-is-not-your-xss-boundary-2gpk",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Decode JWT Payloads Locally: What the Claims Tell You (and Don't)",
+    "link": "https://dev.to/wendygostudio/decode-jwt-payloads-locally-what-the-claims-tell-you-and-dont-9ih",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop asking 'what's wrong with this function",
+    "link": "https://dev.to/xiaodong_zhang_bd8dc835b3/stop-asking-whats-wrong-with-this-function-3021",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building image & video conversion that never leaves the browser",
+    "link": "https://dev.to/ken_lee_fc82a8ce3a147aea6/building-image-video-conversion-that-never-leaves-the-browser-iga",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Parse Cron Expressions in the Browser Without a Backend",
+    "link": "https://dev.to/ggwork/how-to-parse-cron-expressions-in-the-browser-without-a-backend-b0l",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript: async/await patterns that will save you hours – The Matrix Reloaded Edition",
+    "link": "https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix-reloaded-edition-1mnl",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
+    "link": "https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Practical Solutions for Large List Rendering in Vue 3",
+    "link": "https://dev.to/alan_529cf536b9cf0f88ec8c/5-practical-solutions-for-large-list-rendering-in-vue-3-4lbi",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ask Workday's public API for 100 jobs and you get zero — with no error",
+    "link": "https://dev.to/juancarlosguti/ask-workdays-public-api-for-100-jobs-and-you-get-zero-with-no-error-54b2",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why pasted text keeps breaking search and formatting (and the regexes I ended up using to clean it)",
+    "link": "https://dev.to/begoodtool/why-pasted-text-keeps-breaking-search-and-formatting-and-the-regexes-i-ended-up-using-to-clean-it-100f",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A news-watch bot, an 8,900-character prompt, and three rules that never reached the model",
+    "link": "https://dev.to/ohugonnot/a-news-watch-bot-an-8900-character-prompt-and-three-rules-that-never-reached-the-model-1b5b",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How 500 Concurrent HN Connections Took Down Peakd.io - and How I Rebuilt the Infrastructure",
+    "link": "https://dev.to/peakd/how-500-concurrent-hn-connections-took-down-peakd-and-how-i-rebuilt-the-infrastructure-4537",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a real-time job board watcher that alerts you the second a matching job goes live",
+    "link": "https://dev.to/alex_m_137/i-built-a-real-time-job-board-watcher-that-alerts-you-the-second-a-matching-job-goes-live-3ni1",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3db6",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Markdown Parser Is Not Your XSS Boundary",
+    "link": "https://dev.to/mdfold/your-markdown-parser-is-not-your-xss-boundary-2gpk",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Decode JWT Payloads Locally: What the Claims Tell You (and Don't)",
+    "link": "https://dev.to/wendygostudio/decode-jwt-payloads-locally-what-the-claims-tell-you-and-dont-9ih",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop asking 'what's wrong with this function",
+    "link": "https://dev.to/xiaodong_zhang_bd8dc835b3/stop-asking-whats-wrong-with-this-function-3021",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building image & video conversion that never leaves the browser",
+    "link": "https://dev.to/ken_lee_fc82a8ce3a147aea6/building-image-video-conversion-that-never-leaves-the-browser-iga",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Parse Cron Expressions in the Browser Without a Backend",
+    "link": "https://dev.to/ggwork/how-to-parse-cron-expressions-in-the-browser-without-a-backend-b0l",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript: async/await patterns that will save you hours – The Matrix Reloaded Edition",
+    "link": "https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix-reloaded-edition-1mnl",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
+    "link": "https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Practical Solutions for Large List Rendering in Vue 3",
+    "link": "https://dev.to/alan_529cf536b9cf0f88ec8c/5-practical-solutions-for-large-list-rendering-in-vue-3-4lbi",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ask Workday's public API for 100 jobs and you get zero — with no error",
+    "link": "https://dev.to/juancarlosguti/ask-workdays-public-api-for-100-jobs-and-you-get-zero-with-no-error-54b2",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why pasted text keeps breaking search and formatting (and the regexes I ended up using to clean it)",
+    "link": "https://dev.to/begoodtool/why-pasted-text-keeps-breaking-search-and-formatting-and-the-regexes-i-ended-up-using-to-clean-it-100f",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A news-watch bot, an 8,900-character prompt, and three rules that never reached the model",
+    "link": "https://dev.to/ohugonnot/a-news-watch-bot-an-8900-character-prompt-and-three-rules-that-never-reached-the-model-1b5b",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How 500 Concurrent HN Connections Took Down Peakd.io - and How I Rebuilt the Infrastructure",
+    "link": "https://dev.to/peakd/how-500-concurrent-hn-connections-took-down-peakd-and-how-i-rebuilt-the-infrastructure-4537",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a real-time job board watcher that alerts you the second a matching job goes live",
+    "link": "https://dev.to/alex_m_137/i-built-a-real-time-job-board-watcher-that-alerts-you-the-second-a-matching-job-goes-live-3ni1",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3db6",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Markdown Parser Is Not Your XSS Boundary",
+    "link": "https://dev.to/mdfold/your-markdown-parser-is-not-your-xss-boundary-2gpk",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Decode JWT Payloads Locally: What the Claims Tell You (and Don't)",
+    "link": "https://dev.to/wendygostudio/decode-jwt-payloads-locally-what-the-claims-tell-you-and-dont-9ih",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop asking 'what's wrong with this function",
+    "link": "https://dev.to/xiaodong_zhang_bd8dc835b3/stop-asking-whats-wrong-with-this-function-3021",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building image & video conversion that never leaves the browser",
+    "link": "https://dev.to/ken_lee_fc82a8ce3a147aea6/building-image-video-conversion-that-never-leaves-the-browser-iga",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Parse Cron Expressions in the Browser Without a Backend",
+    "link": "https://dev.to/ggwork/how-to-parse-cron-expressions-in-the-browser-without-a-backend-b0l",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript: async/await patterns that will save you hours – The Matrix Reloaded Edition",
+    "link": "https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix-reloaded-edition-1mnl",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React useScrollLock Hook: Lock Body Scroll for Modals (2026)",
+    "link": "https://dev.to/childrentime/react-usescrolllock-hook-lock-body-scroll-for-modals-2026-2ach",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "5 Practical Solutions for Large List Rendering in Vue 3",
+    "link": "https://dev.to/alan_529cf536b9cf0f88ec8c/5-practical-solutions-for-large-list-rendering-in-vue-3-4lbi",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ask Workday's public API for 100 jobs and you get zero — with no error",
+    "link": "https://dev.to/juancarlosguti/ask-workdays-public-api-for-100-jobs-and-you-get-zero-with-no-error-54b2",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why pasted text keeps breaking search and formatting (and the regexes I ended up using to clean it)",
+    "link": "https://dev.to/begoodtool/why-pasted-text-keeps-breaking-search-and-formatting-and-the-regexes-i-ended-up-using-to-clean-it-100f",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A news-watch bot, an 8,900-character prompt, and three rules that never reached the model",
+    "link": "https://dev.to/ohugonnot/a-news-watch-bot-an-8900-character-prompt-and-three-rules-that-never-reached-the-model-1b5b",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How 500 Concurrent HN Connections Took Down Peakd.io - and How I Rebuilt the Infrastructure",
+    "link": "https://dev.to/peakd/how-500-concurrent-hn-connections-took-down-peakd-and-how-i-rebuilt-the-infrastructure-4537",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a real-time job board watcher that alerts you the second a matching job goes live",
+    "link": "https://dev.to/alex_m_137/i-built-a-real-time-job-board-watcher-that-alerts-you-the-second-a-matching-job-goes-live-3ni1",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
+    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3db6",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Markdown Parser Is Not Your XSS Boundary",
+    "link": "https://dev.to/mdfold/your-markdown-parser-is-not-your-xss-boundary-2gpk",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Decode JWT Payloads Locally: What the Claims Tell You (and Don't)",
+    "link": "https://dev.to/wendygostudio/decode-jwt-payloads-locally-what-the-claims-tell-you-and-dont-9ih",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stop asking 'what's wrong with this function",
+    "link": "https://dev.to/xiaodong_zhang_bd8dc835b3/stop-asking-whats-wrong-with-this-function-3021",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building image & video conversion that never leaves the browser",
+    "link": "https://dev.to/ken_lee_fc82a8ce3a147aea6/building-image-video-conversion-that-never-leaves-the-browser-iga",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Parse Cron Expressions in the Browser Without a Backend",
+    "link": "https://dev.to/ggwork/how-to-parse-cron-expressions-in-the-browser-without-a-backend-b0l",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "JavaScript: async/await patterns that will save you hours – The Matrix Reloaded Edition",
+    "link": "https://dev.to/timevolt/javascript-asyncawait-patterns-that-will-save-you-hours-the-matrix-reloaded-edition-1mnl",
+    "date": "8/19/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "The same Rust gave two different answers, and neither matched JavaScript",
     "link": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
     "date": "8/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Kept Reaching for Redux by Default. One Question Fixed That",
-    "link": "https://dev.to/blogs_world/i-kept-reaching-for-redux-by-default-one-question-fixed-that-18f0",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Web Framework From Scratch on Bun — Here's What I Learned",
-    "link": "https://dev.to/ranjeet_kumarjena_4a6b1b/i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned-ndg",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3abp",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js",
-    "link": "https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a 10-Band Equalizer with the Web Audio API",
-    "link": "https://dev.to/kaleem_ullah_6698699/building-a-10-band-equalizer-with-the-web-audio-api-5cm4",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React's Activity Component: Hide UI Without Losing Its State",
-    "link": "https://dev.to/grimicorn/reacts-activity-component-hide-ui-without-losing-its-state-jem",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a real-time global leaderboard with Supabase Realtime",
-    "link": "https://dev.to/furiosastudio/building-a-real-time-global-leaderboard-with-supabase-realtime-4dkd",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The fastest part of this fuzzy duplicate finder is the comparison it never does",
-    "link": "https://dev.to/begoodtool/the-fastest-part-of-this-fuzzy-duplicate-finder-is-the-comparison-it-never-does-2if6",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks",
-    "link": "https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Client-Side Zodiac Calculator: When \"Just Use an API\" Isn't the Answer",
-    "link": "https://dev.to/ggwork/building-a-client-side-zodiac-calculator-when-just-use-an-api-isnt-the-answer-2ebb",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What I Checked Before Shipping a Browser Game to itch.io",
-    "link": "https://dev.to/zzzu2221/what-i-checked-before-shipping-a-browser-game-to-itchio-4506",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Turn Latitude and Longitude into an Address with JavaScript",
-    "link": "https://dev.to/echoluoluo/how-to-turn-latitude-and-longitude-into-an-address-with-javascript-54de",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Custom AI Agents With JavaScript and React — From Prototype to Production",
-    "link": "https://dev.to/vishal_porwal_e0389856c35/building-custom-ai-agents-with-javascript-and-react-from-prototype-to-production-7id",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React scrollIntoView with useRef: Scroll to an Element (2026)",
-    "link": "https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4",
+    "title": "The same Rust gave two different answers, and neither matched JavaScript",
+    "link": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
     "date": "8/18/2026",
     "site": "dev.to"
   },
@@ -96,356 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "I Kept Reaching for Redux by Default. One Question Fixed That",
-    "link": "https://dev.to/blogs_world/i-kept-reaching-for-redux-by-default-one-question-fixed-that-18f0",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Web Framework From Scratch on Bun — Here's What I Learned",
-    "link": "https://dev.to/ranjeet_kumarjena_4a6b1b/i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned-ndg",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3abp",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js",
-    "link": "https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a 10-Band Equalizer with the Web Audio API",
-    "link": "https://dev.to/kaleem_ullah_6698699/building-a-10-band-equalizer-with-the-web-audio-api-5cm4",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React's Activity Component: Hide UI Without Losing Its State",
-    "link": "https://dev.to/grimicorn/reacts-activity-component-hide-ui-without-losing-its-state-jem",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a real-time global leaderboard with Supabase Realtime",
-    "link": "https://dev.to/furiosastudio/building-a-real-time-global-leaderboard-with-supabase-realtime-4dkd",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The fastest part of this fuzzy duplicate finder is the comparison it never does",
-    "link": "https://dev.to/begoodtool/the-fastest-part-of-this-fuzzy-duplicate-finder-is-the-comparison-it-never-does-2if6",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks",
-    "link": "https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Client-Side Zodiac Calculator: When \"Just Use an API\" Isn't the Answer",
-    "link": "https://dev.to/ggwork/building-a-client-side-zodiac-calculator-when-just-use-an-api-isnt-the-answer-2ebb",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What I Checked Before Shipping a Browser Game to itch.io",
-    "link": "https://dev.to/zzzu2221/what-i-checked-before-shipping-a-browser-game-to-itchio-4506",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Turn Latitude and Longitude into an Address with JavaScript",
-    "link": "https://dev.to/echoluoluo/how-to-turn-latitude-and-longitude-into-an-address-with-javascript-54de",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Custom AI Agents With JavaScript and React — From Prototype to Production",
-    "link": "https://dev.to/vishal_porwal_e0389856c35/building-custom-ai-agents-with-javascript-and-react-from-prototype-to-production-7id",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React scrollIntoView with useRef: Scroll to an Element (2026)",
-    "link": "https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "The same Rust gave two different answers, and neither matched JavaScript",
     "link": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
     "date": "8/18/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Kept Reaching for Redux by Default. One Question Fixed That",
-    "link": "https://dev.to/blogs_world/i-kept-reaching-for-redux-by-default-one-question-fixed-that-18f0",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Web Framework From Scratch on Bun — Here's What I Learned",
-    "link": "https://dev.to/ranjeet_kumarjena_4a6b1b/i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned-ndg",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3abp",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js",
-    "link": "https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a 10-Band Equalizer with the Web Audio API",
-    "link": "https://dev.to/kaleem_ullah_6698699/building-a-10-band-equalizer-with-the-web-audio-api-5cm4",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React's Activity Component: Hide UI Without Losing Its State",
-    "link": "https://dev.to/grimicorn/reacts-activity-component-hide-ui-without-losing-its-state-jem",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a real-time global leaderboard with Supabase Realtime",
-    "link": "https://dev.to/furiosastudio/building-a-real-time-global-leaderboard-with-supabase-realtime-4dkd",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The fastest part of this fuzzy duplicate finder is the comparison it never does",
-    "link": "https://dev.to/begoodtool/the-fastest-part-of-this-fuzzy-duplicate-finder-is-the-comparison-it-never-does-2if6",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks",
-    "link": "https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Client-Side Zodiac Calculator: When \"Just Use an API\" Isn't the Answer",
-    "link": "https://dev.to/ggwork/building-a-client-side-zodiac-calculator-when-just-use-an-api-isnt-the-answer-2ebb",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What I Checked Before Shipping a Browser Game to itch.io",
-    "link": "https://dev.to/zzzu2221/what-i-checked-before-shipping-a-browser-game-to-itchio-4506",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Turn Latitude and Longitude into an Address with JavaScript",
-    "link": "https://dev.to/echoluoluo/how-to-turn-latitude-and-longitude-into-an-address-with-javascript-54de",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Custom AI Agents With JavaScript and React — From Prototype to Production",
-    "link": "https://dev.to/vishal_porwal_e0389856c35/building-custom-ai-agents-with-javascript-and-react-from-prototype-to-production-7id",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React scrollIntoView with useRef: Scroll to an Element (2026)",
-    "link": "https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "The same Rust gave two different answers, and neither matched JavaScript",
     "link": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Kept Reaching for Redux by Default. One Question Fixed That",
-    "link": "https://dev.to/blogs_world/i-kept-reaching-for-redux-by-default-one-question-fixed-that-18f0",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Web Framework From Scratch on Bun — Here's What I Learned",
-    "link": "https://dev.to/ranjeet_kumarjena_4a6b1b/i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned-ndg",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3abp",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js",
-    "link": "https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a 10-Band Equalizer with the Web Audio API",
-    "link": "https://dev.to/kaleem_ullah_6698699/building-a-10-band-equalizer-with-the-web-audio-api-5cm4",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React's Activity Component: Hide UI Without Losing Its State",
-    "link": "https://dev.to/grimicorn/reacts-activity-component-hide-ui-without-losing-its-state-jem",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a real-time global leaderboard with Supabase Realtime",
-    "link": "https://dev.to/furiosastudio/building-a-real-time-global-leaderboard-with-supabase-realtime-4dkd",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The fastest part of this fuzzy duplicate finder is the comparison it never does",
-    "link": "https://dev.to/begoodtool/the-fastest-part-of-this-fuzzy-duplicate-finder-is-the-comparison-it-never-does-2if6",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks",
-    "link": "https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Client-Side Zodiac Calculator: When \"Just Use an API\" Isn't the Answer",
-    "link": "https://dev.to/ggwork/building-a-client-side-zodiac-calculator-when-just-use-an-api-isnt-the-answer-2ebb",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What I Checked Before Shipping a Browser Game to itch.io",
-    "link": "https://dev.to/zzzu2221/what-i-checked-before-shipping-a-browser-game-to-itchio-4506",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Turn Latitude and Longitude into an Address with JavaScript",
-    "link": "https://dev.to/echoluoluo/how-to-turn-latitude-and-longitude-into-an-address-with-javascript-54de",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Custom AI Agents With JavaScript and React — From Prototype to Production",
-    "link": "https://dev.to/vishal_porwal_e0389856c35/building-custom-ai-agents-with-javascript-and-react-from-prototype-to-production-7id",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React scrollIntoView with useRef: Scroll to an Element (2026)",
-    "link": "https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same Rust gave two different answers, and neither matched JavaScript",
-    "link": "https://dev.to/bigachiever/the-same-rust-gave-two-different-answers-and-neither-matched-javascript-j03",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Kept Reaching for Redux by Default. One Question Fixed That",
-    "link": "https://dev.to/blogs_world/i-kept-reaching-for-redux-by-default-one-question-fixed-that-18f0",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Web Framework From Scratch on Bun — Here's What I Learned",
-    "link": "https://dev.to/ranjeet_kumarjena_4a6b1b/i-built-a-web-framework-from-scratch-on-bun-heres-what-i-learned-ndg",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3abp",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built the Same Commerce App in Kudzu, Astro, React Router, TanStack Start, and Next.js",
-    "link": "https://dev.to/bunzzeok/i-built-the-same-commerce-app-in-kudzu-astro-react-router-tanstack-start-and-nextjs-6n9",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a 10-Band Equalizer with the Web Audio API",
-    "link": "https://dev.to/kaleem_ullah_6698699/building-a-10-band-equalizer-with-the-web-audio-api-5cm4",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React's Activity Component: Hide UI Without Losing Its State",
-    "link": "https://dev.to/grimicorn/reacts-activity-component-hide-ui-without-losing-its-state-jem",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a real-time global leaderboard with Supabase Realtime",
-    "link": "https://dev.to/furiosastudio/building-a-real-time-global-leaderboard-with-supabase-realtime-4dkd",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The fastest part of this fuzzy duplicate finder is the comparison it never does",
-    "link": "https://dev.to/begoodtool/the-fastest-part-of-this-fuzzy-duplicate-finder-is-the-comparison-it-never-does-2if6",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks",
-    "link": "https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Client-Side Zodiac Calculator: When \"Just Use an API\" Isn't the Answer",
-    "link": "https://dev.to/ggwork/building-a-client-side-zodiac-calculator-when-just-use-an-api-isnt-the-answer-2ebb",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What I Checked Before Shipping a Browser Game to itch.io",
-    "link": "https://dev.to/zzzu2221/what-i-checked-before-shipping-a-browser-game-to-itchio-4506",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Turn Latitude and Longitude into an Address with JavaScript",
-    "link": "https://dev.to/echoluoluo/how-to-turn-latitude-and-longitude-into-an-address-with-javascript-54de",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Custom AI Agents With JavaScript and React — From Prototype to Production",
-    "link": "https://dev.to/vishal_porwal_e0389856c35/building-custom-ai-agents-with-javascript-and-react-from-prototype-to-production-7id",
-    "date": "8/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React scrollIntoView with useRef: Scroll to an Element (2026)",
-    "link": "https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4",
     "date": "8/18/2026",
     "site": "dev.to"
   },
@@ -501,7 +501,7 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
@@ -599,7 +599,7 @@
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
