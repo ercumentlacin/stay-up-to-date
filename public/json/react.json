@@ -1,301 +1,421 @@
 [
   {
-    "title": "Next.js 'use cache' + Partial Prerendering Guide 2026",
-    "link": "https://dev.to/nainikmehta/nextjs-use-cache-partial-prerendering-guide-2026-5436",
+    "title": "Trust the React Compiler — stop premature useMemo",
+    "link": "https://dev.to/nainikmehta/trust-the-react-compiler-stop-premature-usememo-3bec",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Show Dev: I built a 3D circuit simulator in Three.js",
+    "link": "https://dev.to/pankaj_gupta_0a01a1f6ba71/show-dev-i-built-a-3d-circuit-simulator-in-threejs-1nj",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Polling to SSE in RTK Query Without Breaking Reconnect Logic",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/from-polling-to-sse-in-rtk-query-without-breaking-reconnect-logic-4g5a",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cheapest Flag Control Plane? React/Node.js Startup Trade-offs",
+    "link": "https://dev.to/dorianreed2186/cheapest-flag-control-plane-reactnodejs-startup-trade-offs-2mj5",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "El patrón Entity Adapter: cómo domar JSON gigantes en un BackOffice",
+    "link": "https://dev.to/dariel_fernandez_1c819d9f/el-patron-entity-adapter-como-domar-json-gigantes-en-un-backoffice-2c86",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zero Latency AI: Streaming LLMs in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/zero-latency-ai-streaming-llms-in-nextjs-gn4",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Trust the React Compiler — stop premature useMemo",
+    "link": "https://dev.to/nainikmehta/trust-the-react-compiler-stop-premature-usememo-3bec",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Show Dev: I built a 3D circuit simulator in Three.js",
+    "link": "https://dev.to/pankaj_gupta_0a01a1f6ba71/show-dev-i-built-a-3d-circuit-simulator-in-threejs-1nj",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Polling to SSE in RTK Query Without Breaking Reconnect Logic",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/from-polling-to-sse-in-rtk-query-without-breaking-reconnect-logic-4g5a",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cheapest Flag Control Plane? React/Node.js Startup Trade-offs",
+    "link": "https://dev.to/dorianreed2186/cheapest-flag-control-plane-reactnodejs-startup-trade-offs-2mj5",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "El patrón Entity Adapter: cómo domar JSON gigantes en un BackOffice",
+    "link": "https://dev.to/dariel_fernandez_1c819d9f/el-patron-entity-adapter-como-domar-json-gigantes-en-un-backoffice-2c86",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zero Latency AI: Streaming LLMs in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/zero-latency-ai-streaming-llms-in-nextjs-gn4",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Trust the React Compiler — stop premature useMemo",
+    "link": "https://dev.to/nainikmehta/trust-the-react-compiler-stop-premature-usememo-3bec",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Show Dev: I built a 3D circuit simulator in Three.js",
+    "link": "https://dev.to/pankaj_gupta_0a01a1f6ba71/show-dev-i-built-a-3d-circuit-simulator-in-threejs-1nj",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Polling to SSE in RTK Query Without Breaking Reconnect Logic",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/from-polling-to-sse-in-rtk-query-without-breaking-reconnect-logic-4g5a",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cheapest Flag Control Plane? React/Node.js Startup Trade-offs",
+    "link": "https://dev.to/dorianreed2186/cheapest-flag-control-plane-reactnodejs-startup-trade-offs-2mj5",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "El patrón Entity Adapter: cómo domar JSON gigantes en un BackOffice",
+    "link": "https://dev.to/dariel_fernandez_1c819d9f/el-patron-entity-adapter-como-domar-json-gigantes-en-un-backoffice-2c86",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zero Latency AI: Streaming LLMs in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/zero-latency-ai-streaming-llms-in-nextjs-gn4",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Trust the React Compiler — stop premature useMemo",
+    "link": "https://dev.to/nainikmehta/trust-the-react-compiler-stop-premature-usememo-3bec",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Show Dev: I built a 3D circuit simulator in Three.js",
+    "link": "https://dev.to/pankaj_gupta_0a01a1f6ba71/show-dev-i-built-a-3d-circuit-simulator-in-threejs-1nj",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Polling to SSE in RTK Query Without Breaking Reconnect Logic",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/from-polling-to-sse-in-rtk-query-without-breaking-reconnect-logic-4g5a",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cheapest Flag Control Plane? React/Node.js Startup Trade-offs",
+    "link": "https://dev.to/dorianreed2186/cheapest-flag-control-plane-reactnodejs-startup-trade-offs-2mj5",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "El patrón Entity Adapter: cómo domar JSON gigantes en un BackOffice",
+    "link": "https://dev.to/dariel_fernandez_1c819d9f/el-patron-entity-adapter-como-domar-json-gigantes-en-un-backoffice-2c86",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zero Latency AI: Streaming LLMs in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/zero-latency-ai-streaming-llms-in-nextjs-gn4",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Trust the React Compiler — stop premature useMemo",
+    "link": "https://dev.to/nainikmehta/trust-the-react-compiler-stop-premature-usememo-3bec",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Show Dev: I built a 3D circuit simulator in Three.js",
+    "link": "https://dev.to/pankaj_gupta_0a01a1f6ba71/show-dev-i-built-a-3d-circuit-simulator-in-threejs-1nj",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From Polling to SSE in RTK Query Without Breaking Reconnect Logic",
+    "link": "https://dev.to/anand_rathnas_d5b608cc3de/from-polling-to-sse-in-rtk-query-without-breaking-reconnect-logic-4g5a",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cheapest Flag Control Plane? React/Node.js Startup Trade-offs",
+    "link": "https://dev.to/dorianreed2186/cheapest-flag-control-plane-reactnodejs-startup-trade-offs-2mj5",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "El patrón Entity Adapter: cómo domar JSON gigantes en un BackOffice",
+    "link": "https://dev.to/dariel_fernandez_1c819d9f/el-patron-entity-adapter-como-domar-json-gigantes-en-un-backoffice-2c86",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zero Latency AI: Streaming LLMs in Next.js ⚡",
+    "link": "https://dev.to/iprajapatiparesh/zero-latency-ai-streaming-llms-in-nextjs-gn4",
+    "date": "8/26/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Decoupling Claim Timeouts from Feature Flags",
+    "link": "https://dev.to/humzakt/decoupling-claim-timeouts-from-feature-flags-4f0a",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "React WebSocket Performance: Buffer, Don't Render Every Msg",
-    "link": "https://dev.to/nainikmehta/react-websocket-performance-buffer-dont-render-every-msg-4ka4",
+    "title": "Building an SFT Recording Pipeline",
+    "link": "https://dev.to/humzakt/building-an-sft-recording-pipeline-2f7o",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js Partial Prerendering: A Senior Engineer's Guide",
-    "link": "https://dev.to/nainikmehta/nextjs-partial-prerendering-a-senior-engineers-guide-e76",
+    "title": "Halving Reviewer Clicks: Feedback Navigator, Keyboard Navigation, and Read-Only Context Patterns",
+    "link": "https://dev.to/humzakt/halving-reviewer-clicks-feedback-navigator-keyboard-navigation-and-read-only-context-patterns-1d0n",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a Web SSH dashboard because the ones I tried were ugly",
-    "link": "https://dev.to/flulwh/w-4nhp",
+    "title": "A UX Polish Sprint: 8 PRs in 48 Hours",
+    "link": "https://dev.to/humzakt/a-ux-polish-sprint-8-prs-in-48-hours-43dl",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Docora — An open-source documentation framework for Next.js and React",
-    "link": "https://dev.to/md_arifulislam_77c9d1236/docora-an-open-source-documentation-framework-for-nextjs-and-react-2482",
+    "title": "Trainer Gate QC: Integrating Quality Checks into a Multi-Stage Review Pipeline",
+    "link": "https://dev.to/humzakt/trainer-gate-qc-integrating-quality-checks-into-a-multi-stage-review-pipeline-49g4",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building High-Performance Web Systems & Mobile Apps: Lessons from Modern Software Engineering",
-    "link": "https://dev.to/supuldulanka/building-high-performance-web-systems-mobile-apps-lessons-from-modern-software-engineering-4hpi",
+    "title": "Locking Down an Admin Dashboard: Role Guards and a Shared Resizable-Panel System",
+    "link": "https://dev.to/humzakt/locking-down-an-admin-dashboard-role-guards-and-a-shared-resizable-panel-system-ab4",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Motion-Driven Messi Tribute Site — Messi Aura 🐐",
-    "link": "https://dev.to/nirjon_09/i-built-a-motion-driven-messi-tribute-site-messi-aura-4ec8",
+    "title": "React interview questions seniors actually get asked",
+    "link": "https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Architectural Breakdown: Can AI Remember What It Sees?",
-    "link": "https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6",
+    "title": "NFSFU234 Open Source Day: Three Tools, One Scope",
+    "link": "https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I open-sourced a UI kit — then went looking for everything I got wrong about it",
-    "link": "https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72",
+    "title": "Decoupling Claim Timeouts from Feature Flags",
+    "link": "https://dev.to/humzakt/decoupling-claim-timeouts-from-feature-flags-4f0a",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Bypassing the Server: WebRTC Architecture in Next.js 📡",
-    "link": "https://dev.to/iprajapatiparesh/bypassing-the-server-webrtc-architecture-in-nextjs-5chd",
+    "title": "Building an SFT Recording Pipeline",
+    "link": "https://dev.to/humzakt/building-an-sft-recording-pipeline-2f7o",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js 'use cache' + Partial Prerendering Guide 2026",
-    "link": "https://dev.to/nainikmehta/nextjs-use-cache-partial-prerendering-guide-2026-5436",
+    "title": "Halving Reviewer Clicks: Feedback Navigator, Keyboard Navigation, and Read-Only Context Patterns",
+    "link": "https://dev.to/humzakt/halving-reviewer-clicks-feedback-navigator-keyboard-navigation-and-read-only-context-patterns-1d0n",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "React WebSocket Performance: Buffer, Don't Render Every Msg",
-    "link": "https://dev.to/nainikmehta/react-websocket-performance-buffer-dont-render-every-msg-4ka4",
+    "title": "A UX Polish Sprint: 8 PRs in 48 Hours",
+    "link": "https://dev.to/humzakt/a-ux-polish-sprint-8-prs-in-48-hours-43dl",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js Partial Prerendering: A Senior Engineer's Guide",
-    "link": "https://dev.to/nainikmehta/nextjs-partial-prerendering-a-senior-engineers-guide-e76",
+    "title": "Trainer Gate QC: Integrating Quality Checks into a Multi-Stage Review Pipeline",
+    "link": "https://dev.to/humzakt/trainer-gate-qc-integrating-quality-checks-into-a-multi-stage-review-pipeline-49g4",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a Web SSH dashboard because the ones I tried were ugly",
-    "link": "https://dev.to/flulwh/w-4nhp",
+    "title": "Locking Down an Admin Dashboard: Role Guards and a Shared Resizable-Panel System",
+    "link": "https://dev.to/humzakt/locking-down-an-admin-dashboard-role-guards-and-a-shared-resizable-panel-system-ab4",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Docora — An open-source documentation framework for Next.js and React",
-    "link": "https://dev.to/md_arifulislam_77c9d1236/docora-an-open-source-documentation-framework-for-nextjs-and-react-2482",
+    "title": "React interview questions seniors actually get asked",
+    "link": "https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building High-Performance Web Systems & Mobile Apps: Lessons from Modern Software Engineering",
-    "link": "https://dev.to/supuldulanka/building-high-performance-web-systems-mobile-apps-lessons-from-modern-software-engineering-4hpi",
+    "title": "NFSFU234 Open Source Day: Three Tools, One Scope",
+    "link": "https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Motion-Driven Messi Tribute Site — Messi Aura 🐐",
-    "link": "https://dev.to/nirjon_09/i-built-a-motion-driven-messi-tribute-site-messi-aura-4ec8",
+    "title": "Decoupling Claim Timeouts from Feature Flags",
+    "link": "https://dev.to/humzakt/decoupling-claim-timeouts-from-feature-flags-4f0a",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Architectural Breakdown: Can AI Remember What It Sees?",
-    "link": "https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6",
+    "title": "Building an SFT Recording Pipeline",
+    "link": "https://dev.to/humzakt/building-an-sft-recording-pipeline-2f7o",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I open-sourced a UI kit — then went looking for everything I got wrong about it",
-    "link": "https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72",
+    "title": "Halving Reviewer Clicks: Feedback Navigator, Keyboard Navigation, and Read-Only Context Patterns",
+    "link": "https://dev.to/humzakt/halving-reviewer-clicks-feedback-navigator-keyboard-navigation-and-read-only-context-patterns-1d0n",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Bypassing the Server: WebRTC Architecture in Next.js 📡",
-    "link": "https://dev.to/iprajapatiparesh/bypassing-the-server-webrtc-architecture-in-nextjs-5chd",
+    "title": "A UX Polish Sprint: 8 PRs in 48 Hours",
+    "link": "https://dev.to/humzakt/a-ux-polish-sprint-8-prs-in-48-hours-43dl",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js 'use cache' + Partial Prerendering Guide 2026",
-    "link": "https://dev.to/nainikmehta/nextjs-use-cache-partial-prerendering-guide-2026-5436",
+    "title": "Trainer Gate QC: Integrating Quality Checks into a Multi-Stage Review Pipeline",
+    "link": "https://dev.to/humzakt/trainer-gate-qc-integrating-quality-checks-into-a-multi-stage-review-pipeline-49g4",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "React WebSocket Performance: Buffer, Don't Render Every Msg",
-    "link": "https://dev.to/nainikmehta/react-websocket-performance-buffer-dont-render-every-msg-4ka4",
+    "title": "Locking Down an Admin Dashboard: Role Guards and a Shared Resizable-Panel System",
+    "link": "https://dev.to/humzakt/locking-down-an-admin-dashboard-role-guards-and-a-shared-resizable-panel-system-ab4",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js Partial Prerendering: A Senior Engineer's Guide",
-    "link": "https://dev.to/nainikmehta/nextjs-partial-prerendering-a-senior-engineers-guide-e76",
+    "title": "React interview questions seniors actually get asked",
+    "link": "https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a Web SSH dashboard because the ones I tried were ugly",
-    "link": "https://dev.to/flulwh/w-4nhp",
+    "title": "NFSFU234 Open Source Day: Three Tools, One Scope",
+    "link": "https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Docora — An open-source documentation framework for Next.js and React",
-    "link": "https://dev.to/md_arifulislam_77c9d1236/docora-an-open-source-documentation-framework-for-nextjs-and-react-2482",
+    "title": "Decoupling Claim Timeouts from Feature Flags",
+    "link": "https://dev.to/humzakt/decoupling-claim-timeouts-from-feature-flags-4f0a",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building High-Performance Web Systems & Mobile Apps: Lessons from Modern Software Engineering",
-    "link": "https://dev.to/supuldulanka/building-high-performance-web-systems-mobile-apps-lessons-from-modern-software-engineering-4hpi",
+    "title": "Building an SFT Recording Pipeline",
+    "link": "https://dev.to/humzakt/building-an-sft-recording-pipeline-2f7o",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Motion-Driven Messi Tribute Site — Messi Aura 🐐",
-    "link": "https://dev.to/nirjon_09/i-built-a-motion-driven-messi-tribute-site-messi-aura-4ec8",
+    "title": "Halving Reviewer Clicks: Feedback Navigator, Keyboard Navigation, and Read-Only Context Patterns",
+    "link": "https://dev.to/humzakt/halving-reviewer-clicks-feedback-navigator-keyboard-navigation-and-read-only-context-patterns-1d0n",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Architectural Breakdown: Can AI Remember What It Sees?",
-    "link": "https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6",
+    "title": "A UX Polish Sprint: 8 PRs in 48 Hours",
+    "link": "https://dev.to/humzakt/a-ux-polish-sprint-8-prs-in-48-hours-43dl",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I open-sourced a UI kit — then went looking for everything I got wrong about it",
-    "link": "https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72",
+    "title": "Trainer Gate QC: Integrating Quality Checks into a Multi-Stage Review Pipeline",
+    "link": "https://dev.to/humzakt/trainer-gate-qc-integrating-quality-checks-into-a-multi-stage-review-pipeline-49g4",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Bypassing the Server: WebRTC Architecture in Next.js 📡",
-    "link": "https://dev.to/iprajapatiparesh/bypassing-the-server-webrtc-architecture-in-nextjs-5chd",
+    "title": "Locking Down an Admin Dashboard: Role Guards and a Shared Resizable-Panel System",
+    "link": "https://dev.to/humzakt/locking-down-an-admin-dashboard-role-guards-and-a-shared-resizable-panel-system-ab4",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js 'use cache' + Partial Prerendering Guide 2026",
-    "link": "https://dev.to/nainikmehta/nextjs-use-cache-partial-prerendering-guide-2026-5436",
+    "title": "React interview questions seniors actually get asked",
+    "link": "https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "React WebSocket Performance: Buffer, Don't Render Every Msg",
-    "link": "https://dev.to/nainikmehta/react-websocket-performance-buffer-dont-render-every-msg-4ka4",
+    "title": "NFSFU234 Open Source Day: Three Tools, One Scope",
+    "link": "https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Next.js Partial Prerendering: A Senior Engineer's Guide",
-    "link": "https://dev.to/nainikmehta/nextjs-partial-prerendering-a-senior-engineers-guide-e76",
+    "title": "Decoupling Claim Timeouts from Feature Flags",
+    "link": "https://dev.to/humzakt/decoupling-claim-timeouts-from-feature-flags-4f0a",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a Web SSH dashboard because the ones I tried were ugly",
-    "link": "https://dev.to/flulwh/w-4nhp",
+    "title": "Building an SFT Recording Pipeline",
+    "link": "https://dev.to/humzakt/building-an-sft-recording-pipeline-2f7o",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Docora — An open-source documentation framework for Next.js and React",
-    "link": "https://dev.to/md_arifulislam_77c9d1236/docora-an-open-source-documentation-framework-for-nextjs-and-react-2482",
+    "title": "Halving Reviewer Clicks: Feedback Navigator, Keyboard Navigation, and Read-Only Context Patterns",
+    "link": "https://dev.to/humzakt/halving-reviewer-clicks-feedback-navigator-keyboard-navigation-and-read-only-context-patterns-1d0n",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building High-Performance Web Systems & Mobile Apps: Lessons from Modern Software Engineering",
-    "link": "https://dev.to/supuldulanka/building-high-performance-web-systems-mobile-apps-lessons-from-modern-software-engineering-4hpi",
+    "title": "A UX Polish Sprint: 8 PRs in 48 Hours",
+    "link": "https://dev.to/humzakt/a-ux-polish-sprint-8-prs-in-48-hours-43dl",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I Built a Motion-Driven Messi Tribute Site — Messi Aura 🐐",
-    "link": "https://dev.to/nirjon_09/i-built-a-motion-driven-messi-tribute-site-messi-aura-4ec8",
+    "title": "Trainer Gate QC: Integrating Quality Checks into a Multi-Stage Review Pipeline",
+    "link": "https://dev.to/humzakt/trainer-gate-qc-integrating-quality-checks-into-a-multi-stage-review-pipeline-49g4",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Architectural Breakdown: Can AI Remember What It Sees?",
-    "link": "https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6",
+    "title": "Locking Down an Admin Dashboard: Role Guards and a Shared Resizable-Panel System",
+    "link": "https://dev.to/humzakt/locking-down-an-admin-dashboard-role-guards-and-a-shared-resizable-panel-system-ab4",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "I open-sourced a UI kit — then went looking for everything I got wrong about it",
-    "link": "https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72",
+    "title": "React interview questions seniors actually get asked",
+    "link": "https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b",
     "date": "8/25/2026",
     "site": "dev.to"
   },
   {
-    "title": "Bypassing the Server: WebRTC Architecture in Next.js 📡",
-    "link": "https://dev.to/iprajapatiparesh/bypassing-the-server-webrtc-architecture-in-nextjs-5chd",
-    "date": "8/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js 'use cache' + Partial Prerendering Guide 2026",
-    "link": "https://dev.to/nainikmehta/nextjs-use-cache-partial-prerendering-guide-2026-5436",
-    "date": "8/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React WebSocket Performance: Buffer, Don't Render Every Msg",
-    "link": "https://dev.to/nainikmehta/react-websocket-performance-buffer-dont-render-every-msg-4ka4",
-    "date": "8/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js Partial Prerendering: A Senior Engineer's Guide",
-    "link": "https://dev.to/nainikmehta/nextjs-partial-prerendering-a-senior-engineers-guide-e76",
-    "date": "8/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a Web SSH dashboard because the ones I tried were ugly",
-    "link": "https://dev.to/flulwh/w-4nhp",
-    "date": "8/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Docora — An open-source documentation framework for Next.js and React",
-    "link": "https://dev.to/md_arifulislam_77c9d1236/docora-an-open-source-documentation-framework-for-nextjs-and-react-2482",
-    "date": "8/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building High-Performance Web Systems & Mobile Apps: Lessons from Modern Software Engineering",
-    "link": "https://dev.to/supuldulanka/building-high-performance-web-systems-mobile-apps-lessons-from-modern-software-engineering-4hpi",
-    "date": "8/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Built a Motion-Driven Messi Tribute Site — Messi Aura 🐐",
-    "link": "https://dev.to/nirjon_09/i-built-a-motion-driven-messi-tribute-site-messi-aura-4ec8",
-    "date": "8/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Architectural Breakdown: Can AI Remember What It Sees?",
-    "link": "https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6",
-    "date": "8/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced a UI kit — then went looking for everything I got wrong about it",
-    "link": "https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72",
-    "date": "8/25/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bypassing the Server: WebRTC Architecture in Next.js 📡",
-    "link": "https://dev.to/iprajapatiparesh/bypassing-the-server-webrtc-architecture-in-nextjs-5chd",
+    "title": "NFSFU234 Open Source Day: Three Tools, One Scope",
+    "link": "https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e",
     "date": "8/25/2026",
     "site": "dev.to"
   },
@@ -306,26 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖",
-    "link": "https://dev.to/umersmx/how-i-built-an-in-browser-ai-workout-tracker-using-react-and-mediapipe-573b",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt the One-Rep Max Calculator Every Gym Bro Uses — Here's the TypeScript Math Behind the Core Strength Formulas",
-    "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-one-rep-max-calculator-every-gym-bro-uses-heres-the-typescript-math-behind-the-16jg",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox: The Matrix of Layouts",
-    "link": "https://dev.to/timevolt/css-grid-vs-flexbox-the-matrix-of-layouts-25pd",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Instant, Correct Retained Root Tabs in React Native",
-    "link": "https://dev.to/arshan_nawaz/building-instant-correct-retained-root-tabs-in-react-native-1a77",
+    "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
+    "link": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
     "date": "8/24/2026",
     "site": "dev.to"
   },
@@ -336,116 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖",
-    "link": "https://dev.to/umersmx/how-i-built-an-in-browser-ai-workout-tracker-using-react-and-mediapipe-573b",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt the One-Rep Max Calculator Every Gym Bro Uses — Here's the TypeScript Math Behind the Core Strength Formulas",
-    "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-one-rep-max-calculator-every-gym-bro-uses-heres-the-typescript-math-behind-the-16jg",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox: The Matrix of Layouts",
-    "link": "https://dev.to/timevolt/css-grid-vs-flexbox-the-matrix-of-layouts-25pd",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Instant, Correct Retained Root Tabs in React Native",
-    "link": "https://dev.to/arshan_nawaz/building-instant-correct-retained-root-tabs-in-react-native-1a77",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
     "link": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
     "date": "8/24/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖",
-    "link": "https://dev.to/umersmx/how-i-built-an-in-browser-ai-workout-tracker-using-react-and-mediapipe-573b",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt the One-Rep Max Calculator Every Gym Bro Uses — Here's the TypeScript Math Behind the Core Strength Formulas",
-    "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-one-rep-max-calculator-every-gym-bro-uses-heres-the-typescript-math-behind-the-16jg",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox: The Matrix of Layouts",
-    "link": "https://dev.to/timevolt/css-grid-vs-flexbox-the-matrix-of-layouts-25pd",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Instant, Correct Retained Root Tabs in React Native",
-    "link": "https://dev.to/arshan_nawaz/building-instant-correct-retained-root-tabs-in-react-native-1a77",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
     "link": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖",
-    "link": "https://dev.to/umersmx/how-i-built-an-in-browser-ai-workout-tracker-using-react-and-mediapipe-573b",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt the One-Rep Max Calculator Every Gym Bro Uses — Here's the TypeScript Math Behind the Core Strength Formulas",
-    "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-one-rep-max-calculator-every-gym-bro-uses-heres-the-typescript-math-behind-the-16jg",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox: The Matrix of Layouts",
-    "link": "https://dev.to/timevolt/css-grid-vs-flexbox-the-matrix-of-layouts-25pd",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Instant, Correct Retained Root Tabs in React Native",
-    "link": "https://dev.to/arshan_nawaz/building-instant-correct-retained-root-tabs-in-react-native-1a77",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Used React DataGrid to Build a Real Space Mission Explorer",
-    "link": "https://dev.to/hadil/i-used-react-datagrid-to-build-a-real-space-mission-explorer-4g8b",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built an In-Browser AI Workout Tracker Using React and MediaPipe 🏋️‍♂️🤖",
-    "link": "https://dev.to/umersmx/how-i-built-an-in-browser-ai-workout-tracker-using-react-and-mediapipe-573b",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Rebuilt the One-Rep Max Calculator Every Gym Bro Uses — Here's the TypeScript Math Behind the Core Strength Formulas",
-    "link": "https://dev.to/g_s_6bc9d3a878dd452010bec/i-rebuilt-the-one-rep-max-calculator-every-gym-bro-uses-heres-the-typescript-math-behind-the-16jg",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox: The Matrix of Layouts",
-    "link": "https://dev.to/timevolt/css-grid-vs-flexbox-the-matrix-of-layouts-25pd",
-    "date": "8/24/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Instant, Correct Retained Root Tabs in React Native",
-    "link": "https://dev.to/arshan_nawaz/building-instant-correct-retained-root-tabs-in-react-native-1a77",
     "date": "8/24/2026",
     "site": "dev.to"
   },
@@ -480,7 +480,7 @@
   {
     "title": "The End Of My Gatsby Journey",
     "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "17 min read",
+    "reading_time": "16 min read",
     "date": "3/6/2024",
     "site": "smashingmagazine"
   },
@@ -501,7 +501,7 @@
   {
     "title": "Gatsby Headaches: Working With Media (Part 2)",
     "link": "https://www.smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
-    "reading_time": "22 min read",
+    "reading_time": "23 min read",
     "date": "10/16/2023",
     "site": "smashingmagazine"
   },
@@ -683,7 +683,7 @@
   {
     "title": "Optimizing Next.js Applications With Nx",
     "link": "https://www.smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "10/26/2021",
     "site": "smashingmagazine"
   },
@@ -725,7 +725,7 @@
   {
     "title": "Global vs. Local Styling In Next.js",
     "link": "https://www.smashingmagazine.com/2021/07/global-local-styling-nextjs/",
-    "reading_time": "15 min read",
+    "reading_time": "16 min read",
     "date": "7/27/2021",
     "site": "smashingmagazine"
   },
@@ -753,7 +753,7 @@
   {
     "title": "How To Implement Authentication In Next.js With Auth0",
     "link": "https://www.smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "5/20/2021",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Building A Web App With React, Redux And Sanity.io",
     "link": "https://www.smashingmagazine.com/2021/02/web-app-react-redux-sanity-io/",
-    "reading_time": "35 min read",
+    "reading_time": "34 min read",
     "date": "2/11/2021",
     "site": "smashingmagazine"
   },
@@ -788,7 +788,7 @@
   {
     "title": "Using Grommet In React Applications",
     "link": "https://www.smashingmagazine.com/2021/01/grommet-react-applications/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "1/18/2021",
     "site": "smashingmagazine"
   },
