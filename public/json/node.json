@@ -1,55 +1,379 @@
 [
   {
+    "title": "1Password's secret masking silently corrupts MCP servers",
+    "link": "https://dev.to/wiktormalyska/1passwords-secret-masking-silently-corrupts-mcp-servers-312b",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "pdf-lib is silently deleting characters from your users' data",
+    "link": "https://dev.to/stackedboost/pdf-lib-is-silently-deleting-characters-from-your-users-data-51ld",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Architecting Full-Stack Observability: OpenTelemetry, Structured Logging, & Distributed Tracing",
+    "link": "https://dev.to/mtahir27/architecting-full-stack-observability-opentelemetry-structured-logging-distributed-tracing-24a1",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Availability slots across timezones and DST",
+    "link": "https://dev.to/kensaadi/availability-slots-across-timezones-and-dst-1e5h",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AsyncLocalStorage in Node.js: stop passing requestId to every function",
+    "link": "https://dev.to/tarun_koshti_122/asynclocalstorage-in-nodejs-stop-passing-requestid-to-every-function-2lcd",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Audit JavaScript Regexes for Catastrophic Backtracking",
+    "link": "https://dev.to/sathvic_kollu/how-i-audit-javascript-regexes-for-catastrophic-backtracking-1aj9",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RBAC in React and Node: enforce the same policy on both sides",
+    "link": "https://dev.to/kensaadi/rbac-in-react-and-node-enforce-the-same-policy-on-both-sides-2ial",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exit Code 137: Why Your Container Gets OOMKilled While Node's Heap Looks Fine",
+    "link": "https://dev.to/libme/exit-code-137-why-your-container-gets-oomkilled-while-nodes-heap-looks-fine-412p",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best Object Storage for Private Image Thumbnails and Signed Links in Node.js",
+    "link": "https://dev.to/zanesterling7589/best-object-storage-for-private-image-thumbnails-and-signed-links-in-nodejs-465c",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stay ahead in web development: latest news, tools, and insights #152",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-152-2abj",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Queue Push Webhook Subscriber: Public HTTPS Endpoint Verification",
+    "link": "dev.to/zebedeeholloway9023/nodejs-queue-push-webhook-subscriber-public-https-endpoint-verification-3ld6",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Chose Password Reset Email Deliverability Setup for Support SaaS (and Why)",
+    "link": "https://dev.to/vespasianblack3884/why-i-chose-password-reset-email-deliverability-setup-for-support-saas-and-why-5d6b",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "1Password's secret masking silently corrupts MCP servers",
+    "link": "https://dev.to/wiktormalyska/1passwords-secret-masking-silently-corrupts-mcp-servers-312b",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "pdf-lib is silently deleting characters from your users' data",
+    "link": "https://dev.to/stackedboost/pdf-lib-is-silently-deleting-characters-from-your-users-data-51ld",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Architecting Full-Stack Observability: OpenTelemetry, Structured Logging, & Distributed Tracing",
+    "link": "https://dev.to/mtahir27/architecting-full-stack-observability-opentelemetry-structured-logging-distributed-tracing-24a1",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Availability slots across timezones and DST",
+    "link": "https://dev.to/kensaadi/availability-slots-across-timezones-and-dst-1e5h",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AsyncLocalStorage in Node.js: stop passing requestId to every function",
+    "link": "https://dev.to/tarun_koshti_122/asynclocalstorage-in-nodejs-stop-passing-requestid-to-every-function-2lcd",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Audit JavaScript Regexes for Catastrophic Backtracking",
+    "link": "https://dev.to/sathvic_kollu/how-i-audit-javascript-regexes-for-catastrophic-backtracking-1aj9",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RBAC in React and Node: enforce the same policy on both sides",
+    "link": "https://dev.to/kensaadi/rbac-in-react-and-node-enforce-the-same-policy-on-both-sides-2ial",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exit Code 137: Why Your Container Gets OOMKilled While Node's Heap Looks Fine",
+    "link": "https://dev.to/libme/exit-code-137-why-your-container-gets-oomkilled-while-nodes-heap-looks-fine-412p",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best Object Storage for Private Image Thumbnails and Signed Links in Node.js",
+    "link": "https://dev.to/zanesterling7589/best-object-storage-for-private-image-thumbnails-and-signed-links-in-nodejs-465c",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stay ahead in web development: latest news, tools, and insights #152",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-152-2abj",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Queue Push Webhook Subscriber: Public HTTPS Endpoint Verification",
+    "link": "dev.to/zebedeeholloway9023/nodejs-queue-push-webhook-subscriber-public-https-endpoint-verification-3ld6",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Chose Password Reset Email Deliverability Setup for Support SaaS (and Why)",
+    "link": "https://dev.to/vespasianblack3884/why-i-chose-password-reset-email-deliverability-setup-for-support-saas-and-why-5d6b",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "1Password's secret masking silently corrupts MCP servers",
+    "link": "https://dev.to/wiktormalyska/1passwords-secret-masking-silently-corrupts-mcp-servers-312b",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "pdf-lib is silently deleting characters from your users' data",
+    "link": "https://dev.to/stackedboost/pdf-lib-is-silently-deleting-characters-from-your-users-data-51ld",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Architecting Full-Stack Observability: OpenTelemetry, Structured Logging, & Distributed Tracing",
+    "link": "https://dev.to/mtahir27/architecting-full-stack-observability-opentelemetry-structured-logging-distributed-tracing-24a1",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Availability slots across timezones and DST",
+    "link": "https://dev.to/kensaadi/availability-slots-across-timezones-and-dst-1e5h",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AsyncLocalStorage in Node.js: stop passing requestId to every function",
+    "link": "https://dev.to/tarun_koshti_122/asynclocalstorage-in-nodejs-stop-passing-requestid-to-every-function-2lcd",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Audit JavaScript Regexes for Catastrophic Backtracking",
+    "link": "https://dev.to/sathvic_kollu/how-i-audit-javascript-regexes-for-catastrophic-backtracking-1aj9",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RBAC in React and Node: enforce the same policy on both sides",
+    "link": "https://dev.to/kensaadi/rbac-in-react-and-node-enforce-the-same-policy-on-both-sides-2ial",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exit Code 137: Why Your Container Gets OOMKilled While Node's Heap Looks Fine",
+    "link": "https://dev.to/libme/exit-code-137-why-your-container-gets-oomkilled-while-nodes-heap-looks-fine-412p",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best Object Storage for Private Image Thumbnails and Signed Links in Node.js",
+    "link": "https://dev.to/zanesterling7589/best-object-storage-for-private-image-thumbnails-and-signed-links-in-nodejs-465c",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stay ahead in web development: latest news, tools, and insights #152",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-152-2abj",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Queue Push Webhook Subscriber: Public HTTPS Endpoint Verification",
+    "link": "dev.to/zebedeeholloway9023/nodejs-queue-push-webhook-subscriber-public-https-endpoint-verification-3ld6",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Chose Password Reset Email Deliverability Setup for Support SaaS (and Why)",
+    "link": "https://dev.to/vespasianblack3884/why-i-chose-password-reset-email-deliverability-setup-for-support-saas-and-why-5d6b",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "1Password's secret masking silently corrupts MCP servers",
+    "link": "https://dev.to/wiktormalyska/1passwords-secret-masking-silently-corrupts-mcp-servers-312b",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "pdf-lib is silently deleting characters from your users' data",
+    "link": "https://dev.to/stackedboost/pdf-lib-is-silently-deleting-characters-from-your-users-data-51ld",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Architecting Full-Stack Observability: OpenTelemetry, Structured Logging, & Distributed Tracing",
+    "link": "https://dev.to/mtahir27/architecting-full-stack-observability-opentelemetry-structured-logging-distributed-tracing-24a1",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Availability slots across timezones and DST",
+    "link": "https://dev.to/kensaadi/availability-slots-across-timezones-and-dst-1e5h",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AsyncLocalStorage in Node.js: stop passing requestId to every function",
+    "link": "https://dev.to/tarun_koshti_122/asynclocalstorage-in-nodejs-stop-passing-requestid-to-every-function-2lcd",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Audit JavaScript Regexes for Catastrophic Backtracking",
+    "link": "https://dev.to/sathvic_kollu/how-i-audit-javascript-regexes-for-catastrophic-backtracking-1aj9",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RBAC in React and Node: enforce the same policy on both sides",
+    "link": "https://dev.to/kensaadi/rbac-in-react-and-node-enforce-the-same-policy-on-both-sides-2ial",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exit Code 137: Why Your Container Gets OOMKilled While Node's Heap Looks Fine",
+    "link": "https://dev.to/libme/exit-code-137-why-your-container-gets-oomkilled-while-nodes-heap-looks-fine-412p",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best Object Storage for Private Image Thumbnails and Signed Links in Node.js",
+    "link": "https://dev.to/zanesterling7589/best-object-storage-for-private-image-thumbnails-and-signed-links-in-nodejs-465c",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stay ahead in web development: latest news, tools, and insights #152",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-152-2abj",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Queue Push Webhook Subscriber: Public HTTPS Endpoint Verification",
+    "link": "dev.to/zebedeeholloway9023/nodejs-queue-push-webhook-subscriber-public-https-endpoint-verification-3ld6",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Chose Password Reset Email Deliverability Setup for Support SaaS (and Why)",
+    "link": "https://dev.to/vespasianblack3884/why-i-chose-password-reset-email-deliverability-setup-for-support-saas-and-why-5d6b",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "1Password's secret masking silently corrupts MCP servers",
+    "link": "https://dev.to/wiktormalyska/1passwords-secret-masking-silently-corrupts-mcp-servers-312b",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "pdf-lib is silently deleting characters from your users' data",
+    "link": "https://dev.to/stackedboost/pdf-lib-is-silently-deleting-characters-from-your-users-data-51ld",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Architecting Full-Stack Observability: OpenTelemetry, Structured Logging, & Distributed Tracing",
+    "link": "https://dev.to/mtahir27/architecting-full-stack-observability-opentelemetry-structured-logging-distributed-tracing-24a1",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Availability slots across timezones and DST",
+    "link": "https://dev.to/kensaadi/availability-slots-across-timezones-and-dst-1e5h",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AsyncLocalStorage in Node.js: stop passing requestId to every function",
+    "link": "https://dev.to/tarun_koshti_122/asynclocalstorage-in-nodejs-stop-passing-requestid-to-every-function-2lcd",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Audit JavaScript Regexes for Catastrophic Backtracking",
+    "link": "https://dev.to/sathvic_kollu/how-i-audit-javascript-regexes-for-catastrophic-backtracking-1aj9",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "RBAC in React and Node: enforce the same policy on both sides",
+    "link": "https://dev.to/kensaadi/rbac-in-react-and-node-enforce-the-same-policy-on-both-sides-2ial",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Exit Code 137: Why Your Container Gets OOMKilled While Node's Heap Looks Fine",
+    "link": "https://dev.to/libme/exit-code-137-why-your-container-gets-oomkilled-while-nodes-heap-looks-fine-412p",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Best Object Storage for Private Image Thumbnails and Signed Links in Node.js",
+    "link": "https://dev.to/zanesterling7589/best-object-storage-for-private-image-thumbnails-and-signed-links-in-nodejs-465c",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stay ahead in web development: latest news, tools, and insights #152",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-152-2abj",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Queue Push Webhook Subscriber: Public HTTPS Endpoint Verification",
+    "link": "dev.to/zebedeeholloway9023/nodejs-queue-push-webhook-subscriber-public-https-endpoint-verification-3ld6",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I Chose Password Reset Email Deliverability Setup for Support SaaS (and Why)",
+    "link": "https://dev.to/vespasianblack3884/why-i-chose-password-reset-email-deliverability-setup-for-support-saas-and-why-5d6b",
+    "date": "8/30/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "Why I stopped making \"landing pages\" and turned my portfolio into an OS",
     "link": "https://dev.to/lancao2/why-i-stopped-making-landing-pages-and-turned-my-portfolio-into-an-os-546e",
     "date": "8/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "🚀 A Tiny Developer Tool I Built for My Node.js Workflow",
-    "link": "https://dev.to/abmdevx/a-tiny-developer-tool-i-built-for-my-nodejs-workflow-5a68",
+    "title": "Build an XRPL Token Screener in About 50 Lines",
+    "link": "https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-1n38",
     "date": "8/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a zero-dependency CLI that crawls your site and lints its JSON-LD",
-    "link": "https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-that-crawls-your-site-and-lints-its-json-ld-225l",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing Toondash — The Headless Query & Mutation Engine for High-Performance AI Data Streams",
-    "link": "https://dev.to/ayushsrtv/introducing-srtvtoondash-the-headless-query-mutation-engine-for-high-performance-ai-data-2478",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Cron Trigger Queue Worker: Scheduled Enqueue for Long-Running Background Jobs",
-    "link": "https://dev.to/urbandonovan1576/nodejs-cron-trigger-queue-worker-scheduled-enqueue-for-long-running-background-jobs-eai",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Scheduled Enqueue Example: A Queue Alternative for Background Reports",
-    "link": "https://dev.to/hadleyfox8439/nodejs-scheduled-enqueue-example-a-queue-alternative-for-background-reports-5gaa",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Preventing Duplicate Node.js Notifications Across Bulk Email, SMS, Queues, and Pollers",
-    "link": "https://dev.to/sullivanreed1247/preventing-duplicate-nodejs-notifications-across-bulk-email-sms-queues-and-pollers-18a6",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Idempotency for Reliable APIs",
-    "link": "https://dev.to/techforge/idempotency-for-reliable-apis-1mjd",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Disable a Broken Node.js Feature Rollout During an Outage",
-    "link": "https://dev.to/horatiofox1281/how-to-disable-a-broken-nodejs-feature-rollout-during-an-outage-4933",
+    "title": "How I Built Security Middleware for Express: SQL Injection, XSS, Rate Limiting, and IP Reputation",
+    "link": "https://dev.to/sandeepsharmacode/how-i-built-security-middleware-for-express-sql-injection-xss-rate-limiting-and-ip-reputation-ooo",
     "date": "8/29/2026",
     "site": "dev.to"
   },
@@ -60,50 +384,14 @@
     "site": "dev.to"
   },
   {
-    "title": "🚀 A Tiny Developer Tool I Built for My Node.js Workflow",
-    "link": "https://dev.to/abmdevx/a-tiny-developer-tool-i-built-for-my-nodejs-workflow-5a68",
+    "title": "Build an XRPL Token Screener in About 50 Lines",
+    "link": "https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-1n38",
     "date": "8/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a zero-dependency CLI that crawls your site and lints its JSON-LD",
-    "link": "https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-that-crawls-your-site-and-lints-its-json-ld-225l",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing Toondash — The Headless Query & Mutation Engine for High-Performance AI Data Streams",
-    "link": "https://dev.to/ayushsrtv/introducing-srtvtoondash-the-headless-query-mutation-engine-for-high-performance-ai-data-2478",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Cron Trigger Queue Worker: Scheduled Enqueue for Long-Running Background Jobs",
-    "link": "https://dev.to/urbandonovan1576/nodejs-cron-trigger-queue-worker-scheduled-enqueue-for-long-running-background-jobs-eai",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Scheduled Enqueue Example: A Queue Alternative for Background Reports",
-    "link": "https://dev.to/hadleyfox8439/nodejs-scheduled-enqueue-example-a-queue-alternative-for-background-reports-5gaa",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Preventing Duplicate Node.js Notifications Across Bulk Email, SMS, Queues, and Pollers",
-    "link": "https://dev.to/sullivanreed1247/preventing-duplicate-nodejs-notifications-across-bulk-email-sms-queues-and-pollers-18a6",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Idempotency for Reliable APIs",
-    "link": "https://dev.to/techforge/idempotency-for-reliable-apis-1mjd",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Disable a Broken Node.js Feature Rollout During an Outage",
-    "link": "https://dev.to/horatiofox1281/how-to-disable-a-broken-nodejs-feature-rollout-during-an-outage-4933",
+    "title": "How I Built Security Middleware for Express: SQL Injection, XSS, Rate Limiting, and IP Reputation",
+    "link": "https://dev.to/sandeepsharmacode/how-i-built-security-middleware-for-express-sql-injection-xss-rate-limiting-and-ip-reputation-ooo",
     "date": "8/29/2026",
     "site": "dev.to"
   },
@@ -114,50 +402,14 @@
     "site": "dev.to"
   },
   {
-    "title": "🚀 A Tiny Developer Tool I Built for My Node.js Workflow",
-    "link": "https://dev.to/abmdevx/a-tiny-developer-tool-i-built-for-my-nodejs-workflow-5a68",
+    "title": "Build an XRPL Token Screener in About 50 Lines",
+    "link": "https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-1n38",
     "date": "8/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a zero-dependency CLI that crawls your site and lints its JSON-LD",
-    "link": "https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-that-crawls-your-site-and-lints-its-json-ld-225l",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing Toondash — The Headless Query & Mutation Engine for High-Performance AI Data Streams",
-    "link": "https://dev.to/ayushsrtv/introducing-srtvtoondash-the-headless-query-mutation-engine-for-high-performance-ai-data-2478",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Cron Trigger Queue Worker: Scheduled Enqueue for Long-Running Background Jobs",
-    "link": "https://dev.to/urbandonovan1576/nodejs-cron-trigger-queue-worker-scheduled-enqueue-for-long-running-background-jobs-eai",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Scheduled Enqueue Example: A Queue Alternative for Background Reports",
-    "link": "https://dev.to/hadleyfox8439/nodejs-scheduled-enqueue-example-a-queue-alternative-for-background-reports-5gaa",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Preventing Duplicate Node.js Notifications Across Bulk Email, SMS, Queues, and Pollers",
-    "link": "https://dev.to/sullivanreed1247/preventing-duplicate-nodejs-notifications-across-bulk-email-sms-queues-and-pollers-18a6",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Idempotency for Reliable APIs",
-    "link": "https://dev.to/techforge/idempotency-for-reliable-apis-1mjd",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Disable a Broken Node.js Feature Rollout During an Outage",
-    "link": "https://dev.to/horatiofox1281/how-to-disable-a-broken-nodejs-feature-rollout-during-an-outage-4933",
+    "title": "How I Built Security Middleware for Express: SQL Injection, XSS, Rate Limiting, and IP Reputation",
+    "link": "https://dev.to/sandeepsharmacode/how-i-built-security-middleware-for-express-sql-injection-xss-rate-limiting-and-ip-reputation-ooo",
     "date": "8/29/2026",
     "site": "dev.to"
   },
@@ -168,50 +420,14 @@
     "site": "dev.to"
   },
   {
-    "title": "🚀 A Tiny Developer Tool I Built for My Node.js Workflow",
-    "link": "https://dev.to/abmdevx/a-tiny-developer-tool-i-built-for-my-nodejs-workflow-5a68",
+    "title": "Build an XRPL Token Screener in About 50 Lines",
+    "link": "https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-1n38",
     "date": "8/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a zero-dependency CLI that crawls your site and lints its JSON-LD",
-    "link": "https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-that-crawls-your-site-and-lints-its-json-ld-225l",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing Toondash — The Headless Query & Mutation Engine for High-Performance AI Data Streams",
-    "link": "https://dev.to/ayushsrtv/introducing-srtvtoondash-the-headless-query-mutation-engine-for-high-performance-ai-data-2478",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Cron Trigger Queue Worker: Scheduled Enqueue for Long-Running Background Jobs",
-    "link": "https://dev.to/urbandonovan1576/nodejs-cron-trigger-queue-worker-scheduled-enqueue-for-long-running-background-jobs-eai",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Scheduled Enqueue Example: A Queue Alternative for Background Reports",
-    "link": "https://dev.to/hadleyfox8439/nodejs-scheduled-enqueue-example-a-queue-alternative-for-background-reports-5gaa",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Preventing Duplicate Node.js Notifications Across Bulk Email, SMS, Queues, and Pollers",
-    "link": "https://dev.to/sullivanreed1247/preventing-duplicate-nodejs-notifications-across-bulk-email-sms-queues-and-pollers-18a6",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Idempotency for Reliable APIs",
-    "link": "https://dev.to/techforge/idempotency-for-reliable-apis-1mjd",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Disable a Broken Node.js Feature Rollout During an Outage",
-    "link": "https://dev.to/horatiofox1281/how-to-disable-a-broken-nodejs-feature-rollout-during-an-outage-4933",
+    "title": "How I Built Security Middleware for Express: SQL Injection, XSS, Rate Limiting, and IP Reputation",
+    "link": "https://dev.to/sandeepsharmacode/how-i-built-security-middleware-for-express-sql-injection-xss-rate-limiting-and-ip-reputation-ooo",
     "date": "8/29/2026",
     "site": "dev.to"
   },
@@ -222,231 +438,15 @@
     "site": "dev.to"
   },
   {
-    "title": "🚀 A Tiny Developer Tool I Built for My Node.js Workflow",
-    "link": "https://dev.to/abmdevx/a-tiny-developer-tool-i-built-for-my-nodejs-workflow-5a68",
+    "title": "Build an XRPL Token Screener in About 50 Lines",
+    "link": "https://dev.to/nyxagi/build-an-xrpl-token-screener-in-about-50-lines-1n38",
     "date": "8/29/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built a zero-dependency CLI that crawls your site and lints its JSON-LD",
-    "link": "https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-that-crawls-your-site-and-lints-its-json-ld-225l",
+    "title": "How I Built Security Middleware for Express: SQL Injection, XSS, Rate Limiting, and IP Reputation",
+    "link": "https://dev.to/sandeepsharmacode/how-i-built-security-middleware-for-express-sql-injection-xss-rate-limiting-and-ip-reputation-ooo",
     "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Introducing Toondash — The Headless Query & Mutation Engine for High-Performance AI Data Streams",
-    "link": "https://dev.to/ayushsrtv/introducing-srtvtoondash-the-headless-query-mutation-engine-for-high-performance-ai-data-2478",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Cron Trigger Queue Worker: Scheduled Enqueue for Long-Running Background Jobs",
-    "link": "https://dev.to/urbandonovan1576/nodejs-cron-trigger-queue-worker-scheduled-enqueue-for-long-running-background-jobs-eai",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Scheduled Enqueue Example: A Queue Alternative for Background Reports",
-    "link": "https://dev.to/hadleyfox8439/nodejs-scheduled-enqueue-example-a-queue-alternative-for-background-reports-5gaa",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Preventing Duplicate Node.js Notifications Across Bulk Email, SMS, Queues, and Pollers",
-    "link": "https://dev.to/sullivanreed1247/preventing-duplicate-nodejs-notifications-across-bulk-email-sms-queues-and-pollers-18a6",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Idempotency for Reliable APIs",
-    "link": "https://dev.to/techforge/idempotency-for-reliable-apis-1mjd",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Disable a Broken Node.js Feature Rollout During an Outage",
-    "link": "https://dev.to/horatiofox1281/how-to-disable-a-broken-nodejs-feature-rollout-during-an-outage-4933",
-    "date": "8/29/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Stripe Webhooks Vanish After the 3-Day Retry Window (And How to Fix It)",
-    "link": "https://dev.to/sy_babayev_faaaca67391beb/why-your-stripe-webhooks-vanish-after-the-3-day-retry-window-and-how-to-fix-it-17mj",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js + Node.js: Where Do You Draw the Line?",
-    "link": "https://dev.to/crdtcto/nextjs-nodejs-where-do-you-draw-the-line-1nic",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "GitHub Trending #1 Installed Cleanly, but the Main UI Still Would Not Start",
-    "link": "https://dev.to/sword_luan_6dfb4e81cf5f15/github-trending-1-installed-cleanly-but-the-main-ui-still-would-not-start-3p05",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop writing raw SQL in your migrations (most of the time)",
-    "link": "https://dev.to/darkmavis1980/stop-writing-raw-sql-in-your-migrations-most-of-the-time-i1o",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Automate Pull‑Request Code Reviews with ChatGPT’s Function Calling and AWS Lambda (Node.js/TypeScript)",
-    "link": "https://dev.to/dineshgowtham/how-to-automate-pull-request-code-reviews-with-chatgpts-function-calling-and-aws-lambda-3904",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple Hosted Metrics Dashboard API Explained (for Small Node.js SaaS with Postgres)",
-    "link": "https://dev.to/ottmarjohansson6924/simple-hosted-metrics-dashboard-api-explained-for-small-nodejs-saas-with-postgres-27p6",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Stripe Webhooks Vanish After the 3-Day Retry Window (And How to Fix It)",
-    "link": "https://dev.to/sy_babayev_faaaca67391beb/why-your-stripe-webhooks-vanish-after-the-3-day-retry-window-and-how-to-fix-it-17mj",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js + Node.js: Where Do You Draw the Line?",
-    "link": "https://dev.to/crdtcto/nextjs-nodejs-where-do-you-draw-the-line-1nic",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "GitHub Trending #1 Installed Cleanly, but the Main UI Still Would Not Start",
-    "link": "https://dev.to/sword_luan_6dfb4e81cf5f15/github-trending-1-installed-cleanly-but-the-main-ui-still-would-not-start-3p05",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop writing raw SQL in your migrations (most of the time)",
-    "link": "https://dev.to/darkmavis1980/stop-writing-raw-sql-in-your-migrations-most-of-the-time-i1o",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Automate Pull‑Request Code Reviews with ChatGPT’s Function Calling and AWS Lambda (Node.js/TypeScript)",
-    "link": "https://dev.to/dineshgowtham/how-to-automate-pull-request-code-reviews-with-chatgpts-function-calling-and-aws-lambda-3904",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple Hosted Metrics Dashboard API Explained (for Small Node.js SaaS with Postgres)",
-    "link": "https://dev.to/ottmarjohansson6924/simple-hosted-metrics-dashboard-api-explained-for-small-nodejs-saas-with-postgres-27p6",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Stripe Webhooks Vanish After the 3-Day Retry Window (And How to Fix It)",
-    "link": "https://dev.to/sy_babayev_faaaca67391beb/why-your-stripe-webhooks-vanish-after-the-3-day-retry-window-and-how-to-fix-it-17mj",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js + Node.js: Where Do You Draw the Line?",
-    "link": "https://dev.to/crdtcto/nextjs-nodejs-where-do-you-draw-the-line-1nic",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "GitHub Trending #1 Installed Cleanly, but the Main UI Still Would Not Start",
-    "link": "https://dev.to/sword_luan_6dfb4e81cf5f15/github-trending-1-installed-cleanly-but-the-main-ui-still-would-not-start-3p05",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop writing raw SQL in your migrations (most of the time)",
-    "link": "https://dev.to/darkmavis1980/stop-writing-raw-sql-in-your-migrations-most-of-the-time-i1o",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Automate Pull‑Request Code Reviews with ChatGPT’s Function Calling and AWS Lambda (Node.js/TypeScript)",
-    "link": "https://dev.to/dineshgowtham/how-to-automate-pull-request-code-reviews-with-chatgpts-function-calling-and-aws-lambda-3904",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple Hosted Metrics Dashboard API Explained (for Small Node.js SaaS with Postgres)",
-    "link": "https://dev.to/ottmarjohansson6924/simple-hosted-metrics-dashboard-api-explained-for-small-nodejs-saas-with-postgres-27p6",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Stripe Webhooks Vanish After the 3-Day Retry Window (And How to Fix It)",
-    "link": "https://dev.to/sy_babayev_faaaca67391beb/why-your-stripe-webhooks-vanish-after-the-3-day-retry-window-and-how-to-fix-it-17mj",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js + Node.js: Where Do You Draw the Line?",
-    "link": "https://dev.to/crdtcto/nextjs-nodejs-where-do-you-draw-the-line-1nic",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "GitHub Trending #1 Installed Cleanly, but the Main UI Still Would Not Start",
-    "link": "https://dev.to/sword_luan_6dfb4e81cf5f15/github-trending-1-installed-cleanly-but-the-main-ui-still-would-not-start-3p05",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop writing raw SQL in your migrations (most of the time)",
-    "link": "https://dev.to/darkmavis1980/stop-writing-raw-sql-in-your-migrations-most-of-the-time-i1o",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Automate Pull‑Request Code Reviews with ChatGPT’s Function Calling and AWS Lambda (Node.js/TypeScript)",
-    "link": "https://dev.to/dineshgowtham/how-to-automate-pull-request-code-reviews-with-chatgpts-function-calling-and-aws-lambda-3904",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple Hosted Metrics Dashboard API Explained (for Small Node.js SaaS with Postgres)",
-    "link": "https://dev.to/ottmarjohansson6924/simple-hosted-metrics-dashboard-api-explained-for-small-nodejs-saas-with-postgres-27p6",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Stripe Webhooks Vanish After the 3-Day Retry Window (And How to Fix It)",
-    "link": "https://dev.to/sy_babayev_faaaca67391beb/why-your-stripe-webhooks-vanish-after-the-3-day-retry-window-and-how-to-fix-it-17mj",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js + Node.js: Where Do You Draw the Line?",
-    "link": "https://dev.to/crdtcto/nextjs-nodejs-where-do-you-draw-the-line-1nic",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "GitHub Trending #1 Installed Cleanly, but the Main UI Still Would Not Start",
-    "link": "https://dev.to/sword_luan_6dfb4e81cf5f15/github-trending-1-installed-cleanly-but-the-main-ui-still-would-not-start-3p05",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stop writing raw SQL in your migrations (most of the time)",
-    "link": "https://dev.to/darkmavis1980/stop-writing-raw-sql-in-your-migrations-most-of-the-time-i1o",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Automate Pull‑Request Code Reviews with ChatGPT’s Function Calling and AWS Lambda (Node.js/TypeScript)",
-    "link": "https://dev.to/dineshgowtham/how-to-automate-pull-request-code-reviews-with-chatgpts-function-calling-and-aws-lambda-3904",
-    "date": "8/28/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Simple Hosted Metrics Dashboard API Explained (for Small Node.js SaaS with Postgres)",
-    "link": "https://dev.to/ottmarjohansson6924/simple-hosted-metrics-dashboard-api-explained-for-small-nodejs-saas-with-postgres-27p6",
-    "date": "8/28/2026",
     "site": "dev.to"
   },
   {
@@ -578,7 +578,7 @@
   {
     "title": "Writing A Multiplayer Text Adventure Engine In Node.js: Creating The Terminal Client (Part 3)",
     "link": "https://www.smashingmagazine.com/2019/10/multiplayer-text-adventure-engine-node-js-part-3/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "10/30/2019",
     "site": "smashingmagazine"
   },
@@ -592,7 +592,7 @@
   {
     "title": "Building A Node.js Express API To Convert Markdown To HTML",
     "link": "https://www.smashingmagazine.com/2019/04/nodejs-express-api-markdown-html/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "4/23/2019",
     "site": "smashingmagazine"
   },
@@ -627,7 +627,7 @@
   {
     "title": "Building A Pub/Sub Service In-House Using Node.js And Redis",
     "link": "https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "6/12/2018",
     "site": "smashingmagazine"
   },
@@ -662,7 +662,7 @@
   {
     "title": "Creating Secure Password Resets With JSON Web Tokens",
     "link": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "11/9/2017",
     "site": "smashingmagazine"
   },
@@ -697,7 +697,7 @@
   {
     "title": "How To Develop A Chat Bot With Node.js",
     "link": "https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "10/17/2016",
     "site": "smashingmagazine"
   },
@@ -718,14 +718,14 @@
   {
     "title": "How To Harness The Machines: Being Productive With Task Runners",
     "link": "https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "6/22/2016",
     "site": "smashingmagazine"
   },
   {
     "title": "Building A Real-Time Retrospective Board With Video Chat",
     "link": "https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/8/2016",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Useful Node.js Tools, Tutorials And Resources",
     "link": "https://www.smashingmagazine.com/2011/09/useful-node-js-tools-tutorials-and-resources/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "9/16/2011",
     "site": "smashingmagazine"
   }
