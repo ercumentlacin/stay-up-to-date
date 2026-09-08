@@ -1,79 +1,355 @@
 [
   {
+    "title": "Kubernetes can resize your pod without a restart. Your app might not notice.",
+    "link": "https://dev.to/remdore/kubernetes-can-resize-your-pod-without-a-restart-your-app-might-not-notice-2a7c",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compose has init containers now. Here's what I deleted.",
+    "link": "https://dev.to/remdore/compose-has-init-containers-now-heres-what-i-deleted-903",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Backend Framework Because Express Setup Made Me Miserable",
+    "link": "https://dev.to/pishelin_6624396e0b75aeae/i-built-a-backend-framework-because-express-setup-made-me-miserable-180g",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Ask Leya: Lessons Learned from Local ONNX Embeddings, Prisma Migrations, and Express Async Handlers",
+    "link": "https://dev.to/mhk_sameera/building-ask-leya-lessons-learned-from-local-onnx-embeddings-prisma-migrations-and-express-async-29e4",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing a Frontmatter Parser in 60 Lines Instead of Adding a Dependency",
+    "link": "https://dev.to/mrnoyy/writing-a-frontmatter-parser-in-60-lines-instead-of-adding-a-dependency-45jc",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building an MVP Agentic Tool-Use Bot with Node.js and OpenRouter 🌤️🤖",
+    "link": "https://dev.to/ankit_halder_7840b622b962/building-an-mvp-ai-weather-agent-with-nodejs-and-openrouter-49eg",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Self-hosted cron job monitoring with zero dependencies — node server.js and done",
+    "link": "https://dev.to/kvkolab/self-hosted-cron-job-monitoring-with-zero-dependencies-node-serverjs-and-done-4n3i",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three ways LLM tool calls lie to you — and the action layer I built to catch them",
+    "link": "https://dev.to/linxi8590jpg/three-ways-llm-tool-calls-lie-to-you-and-the-action-layer-i-built-to-catch-them-2pf0",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Check a Page's Canonical URL Programmatically (Node.js)",
+    "link": "https://dev.to/simran_kaur_9eda1e242c31f/how-to-check-a-pages-canonical-url-programmatically-nodejs-1a5o",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Convert CSV to Excel (XLSX) in JavaScript, in the Browser and in Node",
+    "link": "https://dev.to/simran_kaur_9eda1e242c31f/convert-csv-to-excel-xlsx-in-javascript-in-the-browser-and-in-node-29a6",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build an Email Support Agent That Reads the Thread Before It Replies",
+    "link": "https://dev.to/zhu_726761e22491e810619fc/build-an-email-support-agent-that-reads-the-thread-before-it-replies-4imo",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Kubernetes can resize your pod without a restart. Your app might not notice.",
+    "link": "https://dev.to/remdore/kubernetes-can-resize-your-pod-without-a-restart-your-app-might-not-notice-2a7c",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compose has init containers now. Here's what I deleted.",
+    "link": "https://dev.to/remdore/compose-has-init-containers-now-heres-what-i-deleted-903",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Backend Framework Because Express Setup Made Me Miserable",
+    "link": "https://dev.to/pishelin_6624396e0b75aeae/i-built-a-backend-framework-because-express-setup-made-me-miserable-180g",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Ask Leya: Lessons Learned from Local ONNX Embeddings, Prisma Migrations, and Express Async Handlers",
+    "link": "https://dev.to/mhk_sameera/building-ask-leya-lessons-learned-from-local-onnx-embeddings-prisma-migrations-and-express-async-29e4",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing a Frontmatter Parser in 60 Lines Instead of Adding a Dependency",
+    "link": "https://dev.to/mrnoyy/writing-a-frontmatter-parser-in-60-lines-instead-of-adding-a-dependency-45jc",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building an MVP Agentic Tool-Use Bot with Node.js and OpenRouter 🌤️🤖",
+    "link": "https://dev.to/ankit_halder_7840b622b962/building-an-mvp-ai-weather-agent-with-nodejs-and-openrouter-49eg",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Self-hosted cron job monitoring with zero dependencies — node server.js and done",
+    "link": "https://dev.to/kvkolab/self-hosted-cron-job-monitoring-with-zero-dependencies-node-serverjs-and-done-4n3i",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three ways LLM tool calls lie to you — and the action layer I built to catch them",
+    "link": "https://dev.to/linxi8590jpg/three-ways-llm-tool-calls-lie-to-you-and-the-action-layer-i-built-to-catch-them-2pf0",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Check a Page's Canonical URL Programmatically (Node.js)",
+    "link": "https://dev.to/simran_kaur_9eda1e242c31f/how-to-check-a-pages-canonical-url-programmatically-nodejs-1a5o",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Convert CSV to Excel (XLSX) in JavaScript, in the Browser and in Node",
+    "link": "https://dev.to/simran_kaur_9eda1e242c31f/convert-csv-to-excel-xlsx-in-javascript-in-the-browser-and-in-node-29a6",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build an Email Support Agent That Reads the Thread Before It Replies",
+    "link": "https://dev.to/zhu_726761e22491e810619fc/build-an-email-support-agent-that-reads-the-thread-before-it-replies-4imo",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Kubernetes can resize your pod without a restart. Your app might not notice.",
+    "link": "https://dev.to/remdore/kubernetes-can-resize-your-pod-without-a-restart-your-app-might-not-notice-2a7c",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compose has init containers now. Here's what I deleted.",
+    "link": "https://dev.to/remdore/compose-has-init-containers-now-heres-what-i-deleted-903",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Backend Framework Because Express Setup Made Me Miserable",
+    "link": "https://dev.to/pishelin_6624396e0b75aeae/i-built-a-backend-framework-because-express-setup-made-me-miserable-180g",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Ask Leya: Lessons Learned from Local ONNX Embeddings, Prisma Migrations, and Express Async Handlers",
+    "link": "https://dev.to/mhk_sameera/building-ask-leya-lessons-learned-from-local-onnx-embeddings-prisma-migrations-and-express-async-29e4",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing a Frontmatter Parser in 60 Lines Instead of Adding a Dependency",
+    "link": "https://dev.to/mrnoyy/writing-a-frontmatter-parser-in-60-lines-instead-of-adding-a-dependency-45jc",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building an MVP Agentic Tool-Use Bot with Node.js and OpenRouter 🌤️🤖",
+    "link": "https://dev.to/ankit_halder_7840b622b962/building-an-mvp-ai-weather-agent-with-nodejs-and-openrouter-49eg",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Self-hosted cron job monitoring with zero dependencies — node server.js and done",
+    "link": "https://dev.to/kvkolab/self-hosted-cron-job-monitoring-with-zero-dependencies-node-serverjs-and-done-4n3i",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three ways LLM tool calls lie to you — and the action layer I built to catch them",
+    "link": "https://dev.to/linxi8590jpg/three-ways-llm-tool-calls-lie-to-you-and-the-action-layer-i-built-to-catch-them-2pf0",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Check a Page's Canonical URL Programmatically (Node.js)",
+    "link": "https://dev.to/simran_kaur_9eda1e242c31f/how-to-check-a-pages-canonical-url-programmatically-nodejs-1a5o",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Convert CSV to Excel (XLSX) in JavaScript, in the Browser and in Node",
+    "link": "https://dev.to/simran_kaur_9eda1e242c31f/convert-csv-to-excel-xlsx-in-javascript-in-the-browser-and-in-node-29a6",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build an Email Support Agent That Reads the Thread Before It Replies",
+    "link": "https://dev.to/zhu_726761e22491e810619fc/build-an-email-support-agent-that-reads-the-thread-before-it-replies-4imo",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Kubernetes can resize your pod without a restart. Your app might not notice.",
+    "link": "https://dev.to/remdore/kubernetes-can-resize-your-pod-without-a-restart-your-app-might-not-notice-2a7c",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compose has init containers now. Here's what I deleted.",
+    "link": "https://dev.to/remdore/compose-has-init-containers-now-heres-what-i-deleted-903",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Backend Framework Because Express Setup Made Me Miserable",
+    "link": "https://dev.to/pishelin_6624396e0b75aeae/i-built-a-backend-framework-because-express-setup-made-me-miserable-180g",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Ask Leya: Lessons Learned from Local ONNX Embeddings, Prisma Migrations, and Express Async Handlers",
+    "link": "https://dev.to/mhk_sameera/building-ask-leya-lessons-learned-from-local-onnx-embeddings-prisma-migrations-and-express-async-29e4",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing a Frontmatter Parser in 60 Lines Instead of Adding a Dependency",
+    "link": "https://dev.to/mrnoyy/writing-a-frontmatter-parser-in-60-lines-instead-of-adding-a-dependency-45jc",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building an MVP Agentic Tool-Use Bot with Node.js and OpenRouter 🌤️🤖",
+    "link": "https://dev.to/ankit_halder_7840b622b962/building-an-mvp-ai-weather-agent-with-nodejs-and-openrouter-49eg",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Self-hosted cron job monitoring with zero dependencies — node server.js and done",
+    "link": "https://dev.to/kvkolab/self-hosted-cron-job-monitoring-with-zero-dependencies-node-serverjs-and-done-4n3i",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three ways LLM tool calls lie to you — and the action layer I built to catch them",
+    "link": "https://dev.to/linxi8590jpg/three-ways-llm-tool-calls-lie-to-you-and-the-action-layer-i-built-to-catch-them-2pf0",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Check a Page's Canonical URL Programmatically (Node.js)",
+    "link": "https://dev.to/simran_kaur_9eda1e242c31f/how-to-check-a-pages-canonical-url-programmatically-nodejs-1a5o",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Convert CSV to Excel (XLSX) in JavaScript, in the Browser and in Node",
+    "link": "https://dev.to/simran_kaur_9eda1e242c31f/convert-csv-to-excel-xlsx-in-javascript-in-the-browser-and-in-node-29a6",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build an Email Support Agent That Reads the Thread Before It Replies",
+    "link": "https://dev.to/zhu_726761e22491e810619fc/build-an-email-support-agent-that-reads-the-thread-before-it-replies-4imo",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Kubernetes can resize your pod without a restart. Your app might not notice.",
+    "link": "https://dev.to/remdore/kubernetes-can-resize-your-pod-without-a-restart-your-app-might-not-notice-2a7c",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Compose has init containers now. Here's what I deleted.",
+    "link": "https://dev.to/remdore/compose-has-init-containers-now-heres-what-i-deleted-903",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a Backend Framework Because Express Setup Made Me Miserable",
+    "link": "https://dev.to/pishelin_6624396e0b75aeae/i-built-a-backend-framework-because-express-setup-made-me-miserable-180g",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building Ask Leya: Lessons Learned from Local ONNX Embeddings, Prisma Migrations, and Express Async Handlers",
+    "link": "https://dev.to/mhk_sameera/building-ask-leya-lessons-learned-from-local-onnx-embeddings-prisma-migrations-and-express-async-29e4",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing a Frontmatter Parser in 60 Lines Instead of Adding a Dependency",
+    "link": "https://dev.to/mrnoyy/writing-a-frontmatter-parser-in-60-lines-instead-of-adding-a-dependency-45jc",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building an MVP Agentic Tool-Use Bot with Node.js and OpenRouter 🌤️🤖",
+    "link": "https://dev.to/ankit_halder_7840b622b962/building-an-mvp-ai-weather-agent-with-nodejs-and-openrouter-49eg",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Self-hosted cron job monitoring with zero dependencies — node server.js and done",
+    "link": "https://dev.to/kvkolab/self-hosted-cron-job-monitoring-with-zero-dependencies-node-serverjs-and-done-4n3i",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three ways LLM tool calls lie to you — and the action layer I built to catch them",
+    "link": "https://dev.to/linxi8590jpg/three-ways-llm-tool-calls-lie-to-you-and-the-action-layer-i-built-to-catch-them-2pf0",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Check a Page's Canonical URL Programmatically (Node.js)",
+    "link": "https://dev.to/simran_kaur_9eda1e242c31f/how-to-check-a-pages-canonical-url-programmatically-nodejs-1a5o",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Convert CSV to Excel (XLSX) in JavaScript, in the Browser and in Node",
+    "link": "https://dev.to/simran_kaur_9eda1e242c31f/convert-csv-to-excel-xlsx-in-javascript-in-the-browser-and-in-node-29a6",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build an Email Support Agent That Reads the Thread Before It Replies",
+    "link": "https://dev.to/zhu_726761e22491e810619fc/build-an-email-support-agent-that-reads-the-thread-before-it-replies-4imo",
+    "date": "9/8/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "The Secret Muscle of Node.js",
     "link": "https://dev.to/3z/the-secret-muscle-of-nodejs-3e8b",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "Building Scalable Microservices with NestJS: Architecture, Communication & Best Practices",
-    "link": "https://dev.to/abodhkumar/building-scalable-microservices-with-nestjs-architecture-communication-best-practices-4m8o",
+    "title": "Moleculer vs NestJS: which one, and when",
+    "link": "https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "The infrastructure I run alone for a transactional email API",
-    "link": "https://dev.to/greg_pabijanmorawski/the-infrastructure-i-run-alone-for-a-transactional-email-api-1l9i",
+    "title": "Node.js microservices without Kubernetes (and without a platform team)",
+    "link": "https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "TruffleHog vs Gitleaks vs GitHub Secret Scanning: Why Most CI Scanners Fail (2026)",
-    "link": "https://dev.to/chintanshah35/trufflehog-vs-gitleaks-vs-github-secret-scanning-why-most-ci-scanners-fail-2026-1372",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an Apify Actor that turns a list of company domains into a ranked \"who to call first\" list",
-    "link": "https://dev.to/timmkal01/i-built-an-apify-actor-that-turns-a-list-of-company-domains-into-a-ranked-who-to-call-first-list-45gn",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rate Limiting and API Security in Node.js",
-    "link": "https://dev.to/mryadavgulshan/rate-limiting-and-api-security-in-nodejs-5219",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Month My AI Pipeline Failed 100% of the Time and Every Log Said \"Success\"",
-    "link": "https://dev.to/suyashdev/the-month-my-ai-pipeline-failed-100-of-the-time-and-every-log-said-success-58ba",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Cannot Tell It Does Not Ship Until You Ship It",
-    "link": "https://dev.to/quintetkit/you-cannot-tell-it-does-not-ship-until-you-ship-it-46pf",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Designing a zero-dependency build.js: static sites assembled from JSON",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/designing-a-zero-dependency-buildjs-static-sites-assembled-from-json-1jf0",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build AI Trading Signals Agent: Sub-200ms Latency",
-    "link": "https://dev.to/umair24171/build-ai-trading-signals-agent-sub-200ms-latency-52kc",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Lesson in HTTP Connection Management",
-    "link": "dev.to/abhivyaktii/a-lesson-in-http-connection-management-13io",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Real-Time AI Agent Event Stream with Kinesis: Build a Low-Latency LLM Chat Pipeline",
-    "link": "https://dev.to/dineshgowtham/real-time-ai-agent-event-stream-with-kinesis-build-a-low-latency-llm-chat-pipeline-4lci",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three things that surprised me shipping a 200-line npm package",
-    "link": "https://dev.to/mengyuxuan/three-things-that-surprised-me-shipping-a-200-line-npm-package-56a9",
+    "title": "Nobody Gets Hired for Knowing Node.js. Here's What Actually Does.",
+    "link": "https://dev.to/akashguptasky/nobody-gets-hired-for-knowing-nodejs-heres-what-actually-does-5hif",
     "date": "9/7/2026",
     "site": "dev.to"
   },
@@ -84,74 +360,20 @@
     "site": "dev.to"
   },
   {
-    "title": "Building Scalable Microservices with NestJS: Architecture, Communication & Best Practices",
-    "link": "https://dev.to/abodhkumar/building-scalable-microservices-with-nestjs-architecture-communication-best-practices-4m8o",
+    "title": "Moleculer vs NestJS: which one, and when",
+    "link": "https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "The infrastructure I run alone for a transactional email API",
-    "link": "https://dev.to/greg_pabijanmorawski/the-infrastructure-i-run-alone-for-a-transactional-email-api-1l9i",
+    "title": "Node.js microservices without Kubernetes (and without a platform team)",
+    "link": "https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "TruffleHog vs Gitleaks vs GitHub Secret Scanning: Why Most CI Scanners Fail (2026)",
-    "link": "https://dev.to/chintanshah35/trufflehog-vs-gitleaks-vs-github-secret-scanning-why-most-ci-scanners-fail-2026-1372",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an Apify Actor that turns a list of company domains into a ranked \"who to call first\" list",
-    "link": "https://dev.to/timmkal01/i-built-an-apify-actor-that-turns-a-list-of-company-domains-into-a-ranked-who-to-call-first-list-45gn",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rate Limiting and API Security in Node.js",
-    "link": "https://dev.to/mryadavgulshan/rate-limiting-and-api-security-in-nodejs-5219",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Month My AI Pipeline Failed 100% of the Time and Every Log Said \"Success\"",
-    "link": "https://dev.to/suyashdev/the-month-my-ai-pipeline-failed-100-of-the-time-and-every-log-said-success-58ba",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Cannot Tell It Does Not Ship Until You Ship It",
-    "link": "https://dev.to/quintetkit/you-cannot-tell-it-does-not-ship-until-you-ship-it-46pf",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Designing a zero-dependency build.js: static sites assembled from JSON",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/designing-a-zero-dependency-buildjs-static-sites-assembled-from-json-1jf0",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build AI Trading Signals Agent: Sub-200ms Latency",
-    "link": "https://dev.to/umair24171/build-ai-trading-signals-agent-sub-200ms-latency-52kc",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Lesson in HTTP Connection Management",
-    "link": "dev.to/abhivyaktii/a-lesson-in-http-connection-management-13io",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Real-Time AI Agent Event Stream with Kinesis: Build a Low-Latency LLM Chat Pipeline",
-    "link": "https://dev.to/dineshgowtham/real-time-ai-agent-event-stream-with-kinesis-build-a-low-latency-llm-chat-pipeline-4lci",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three things that surprised me shipping a 200-line npm package",
-    "link": "https://dev.to/mengyuxuan/three-things-that-surprised-me-shipping-a-200-line-npm-package-56a9",
+    "title": "Nobody Gets Hired for Knowing Node.js. Here's What Actually Does.",
+    "link": "https://dev.to/akashguptasky/nobody-gets-hired-for-knowing-nodejs-heres-what-actually-does-5hif",
     "date": "9/7/2026",
     "site": "dev.to"
   },
@@ -162,74 +384,20 @@
     "site": "dev.to"
   },
   {
-    "title": "Building Scalable Microservices with NestJS: Architecture, Communication & Best Practices",
-    "link": "https://dev.to/abodhkumar/building-scalable-microservices-with-nestjs-architecture-communication-best-practices-4m8o",
+    "title": "Moleculer vs NestJS: which one, and when",
+    "link": "https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "The infrastructure I run alone for a transactional email API",
-    "link": "https://dev.to/greg_pabijanmorawski/the-infrastructure-i-run-alone-for-a-transactional-email-api-1l9i",
+    "title": "Node.js microservices without Kubernetes (and without a platform team)",
+    "link": "https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "TruffleHog vs Gitleaks vs GitHub Secret Scanning: Why Most CI Scanners Fail (2026)",
-    "link": "https://dev.to/chintanshah35/trufflehog-vs-gitleaks-vs-github-secret-scanning-why-most-ci-scanners-fail-2026-1372",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an Apify Actor that turns a list of company domains into a ranked \"who to call first\" list",
-    "link": "https://dev.to/timmkal01/i-built-an-apify-actor-that-turns-a-list-of-company-domains-into-a-ranked-who-to-call-first-list-45gn",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rate Limiting and API Security in Node.js",
-    "link": "https://dev.to/mryadavgulshan/rate-limiting-and-api-security-in-nodejs-5219",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Month My AI Pipeline Failed 100% of the Time and Every Log Said \"Success\"",
-    "link": "https://dev.to/suyashdev/the-month-my-ai-pipeline-failed-100-of-the-time-and-every-log-said-success-58ba",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Cannot Tell It Does Not Ship Until You Ship It",
-    "link": "https://dev.to/quintetkit/you-cannot-tell-it-does-not-ship-until-you-ship-it-46pf",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Designing a zero-dependency build.js: static sites assembled from JSON",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/designing-a-zero-dependency-buildjs-static-sites-assembled-from-json-1jf0",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build AI Trading Signals Agent: Sub-200ms Latency",
-    "link": "https://dev.to/umair24171/build-ai-trading-signals-agent-sub-200ms-latency-52kc",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Lesson in HTTP Connection Management",
-    "link": "dev.to/abhivyaktii/a-lesson-in-http-connection-management-13io",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Real-Time AI Agent Event Stream with Kinesis: Build a Low-Latency LLM Chat Pipeline",
-    "link": "https://dev.to/dineshgowtham/real-time-ai-agent-event-stream-with-kinesis-build-a-low-latency-llm-chat-pipeline-4lci",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three things that surprised me shipping a 200-line npm package",
-    "link": "https://dev.to/mengyuxuan/three-things-that-surprised-me-shipping-a-200-line-npm-package-56a9",
+    "title": "Nobody Gets Hired for Knowing Node.js. Here's What Actually Does.",
+    "link": "https://dev.to/akashguptasky/nobody-gets-hired-for-knowing-nodejs-heres-what-actually-does-5hif",
     "date": "9/7/2026",
     "site": "dev.to"
   },
@@ -240,74 +408,20 @@
     "site": "dev.to"
   },
   {
-    "title": "Building Scalable Microservices with NestJS: Architecture, Communication & Best Practices",
-    "link": "https://dev.to/abodhkumar/building-scalable-microservices-with-nestjs-architecture-communication-best-practices-4m8o",
+    "title": "Moleculer vs NestJS: which one, and when",
+    "link": "https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "The infrastructure I run alone for a transactional email API",
-    "link": "https://dev.to/greg_pabijanmorawski/the-infrastructure-i-run-alone-for-a-transactional-email-api-1l9i",
+    "title": "Node.js microservices without Kubernetes (and without a platform team)",
+    "link": "https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "TruffleHog vs Gitleaks vs GitHub Secret Scanning: Why Most CI Scanners Fail (2026)",
-    "link": "https://dev.to/chintanshah35/trufflehog-vs-gitleaks-vs-github-secret-scanning-why-most-ci-scanners-fail-2026-1372",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an Apify Actor that turns a list of company domains into a ranked \"who to call first\" list",
-    "link": "https://dev.to/timmkal01/i-built-an-apify-actor-that-turns-a-list-of-company-domains-into-a-ranked-who-to-call-first-list-45gn",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rate Limiting and API Security in Node.js",
-    "link": "https://dev.to/mryadavgulshan/rate-limiting-and-api-security-in-nodejs-5219",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Month My AI Pipeline Failed 100% of the Time and Every Log Said \"Success\"",
-    "link": "https://dev.to/suyashdev/the-month-my-ai-pipeline-failed-100-of-the-time-and-every-log-said-success-58ba",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Cannot Tell It Does Not Ship Until You Ship It",
-    "link": "https://dev.to/quintetkit/you-cannot-tell-it-does-not-ship-until-you-ship-it-46pf",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Designing a zero-dependency build.js: static sites assembled from JSON",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/designing-a-zero-dependency-buildjs-static-sites-assembled-from-json-1jf0",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build AI Trading Signals Agent: Sub-200ms Latency",
-    "link": "https://dev.to/umair24171/build-ai-trading-signals-agent-sub-200ms-latency-52kc",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Lesson in HTTP Connection Management",
-    "link": "dev.to/abhivyaktii/a-lesson-in-http-connection-management-13io",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Real-Time AI Agent Event Stream with Kinesis: Build a Low-Latency LLM Chat Pipeline",
-    "link": "https://dev.to/dineshgowtham/real-time-ai-agent-event-stream-with-kinesis-build-a-low-latency-llm-chat-pipeline-4lci",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three things that surprised me shipping a 200-line npm package",
-    "link": "https://dev.to/mengyuxuan/three-things-that-surprised-me-shipping-a-200-line-npm-package-56a9",
+    "title": "Nobody Gets Hired for Knowing Node.js. Here's What Actually Does.",
+    "link": "https://dev.to/akashguptasky/nobody-gets-hired-for-knowing-nodejs-heres-what-actually-does-5hif",
     "date": "9/7/2026",
     "site": "dev.to"
   },
@@ -318,135 +432,21 @@
     "site": "dev.to"
   },
   {
-    "title": "Building Scalable Microservices with NestJS: Architecture, Communication & Best Practices",
-    "link": "https://dev.to/abodhkumar/building-scalable-microservices-with-nestjs-architecture-communication-best-practices-4m8o",
+    "title": "Moleculer vs NestJS: which one, and when",
+    "link": "https://dev.to/icebob/moleculer-vs-nestjs-which-one-and-when-ngp",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "The infrastructure I run alone for a transactional email API",
-    "link": "https://dev.to/greg_pabijanmorawski/the-infrastructure-i-run-alone-for-a-transactional-email-api-1l9i",
+    "title": "Node.js microservices without Kubernetes (and without a platform team)",
+    "link": "https://dev.to/icebob/nodejs-microservices-without-kubernetes-and-without-a-platform-team-2mhe",
     "date": "9/7/2026",
     "site": "dev.to"
   },
   {
-    "title": "TruffleHog vs Gitleaks vs GitHub Secret Scanning: Why Most CI Scanners Fail (2026)",
-    "link": "https://dev.to/chintanshah35/trufflehog-vs-gitleaks-vs-github-secret-scanning-why-most-ci-scanners-fail-2026-1372",
+    "title": "Nobody Gets Hired for Knowing Node.js. Here's What Actually Does.",
+    "link": "https://dev.to/akashguptasky/nobody-gets-hired-for-knowing-nodejs-heres-what-actually-does-5hif",
     "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an Apify Actor that turns a list of company domains into a ranked \"who to call first\" list",
-    "link": "https://dev.to/timmkal01/i-built-an-apify-actor-that-turns-a-list-of-company-domains-into-a-ranked-who-to-call-first-list-45gn",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rate Limiting and API Security in Node.js",
-    "link": "https://dev.to/mryadavgulshan/rate-limiting-and-api-security-in-nodejs-5219",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Month My AI Pipeline Failed 100% of the Time and Every Log Said \"Success\"",
-    "link": "https://dev.to/suyashdev/the-month-my-ai-pipeline-failed-100-of-the-time-and-every-log-said-success-58ba",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Cannot Tell It Does Not Ship Until You Ship It",
-    "link": "https://dev.to/quintetkit/you-cannot-tell-it-does-not-ship-until-you-ship-it-46pf",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Designing a zero-dependency build.js: static sites assembled from JSON",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/designing-a-zero-dependency-buildjs-static-sites-assembled-from-json-1jf0",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build AI Trading Signals Agent: Sub-200ms Latency",
-    "link": "https://dev.to/umair24171/build-ai-trading-signals-agent-sub-200ms-latency-52kc",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A Lesson in HTTP Connection Management",
-    "link": "dev.to/abhivyaktii/a-lesson-in-http-connection-management-13io",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Real-Time AI Agent Event Stream with Kinesis: Build a Low-Latency LLM Chat Pipeline",
-    "link": "https://dev.to/dineshgowtham/real-time-ai-agent-event-stream-with-kinesis-build-a-low-latency-llm-chat-pipeline-4lci",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three things that surprised me shipping a 200-line npm package",
-    "link": "https://dev.to/mengyuxuan/three-things-that-surprised-me-shipping-a-200-line-npm-package-56a9",
-    "date": "9/7/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same glob pattern means three different things in one repository",
-    "link": "https://dev.to/tamerkalla/the-same-glob-pattern-means-three-different-things-in-one-repository-3hda",
-    "date": "9/6/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Routing 95 automation scripts through one Node.js entry point",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/routing-95-automation-scripts-through-one-nodejs-entry-point-9op",
-    "date": "9/6/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same glob pattern means three different things in one repository",
-    "link": "https://dev.to/tamerkalla/the-same-glob-pattern-means-three-different-things-in-one-repository-3hda",
-    "date": "9/6/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Routing 95 automation scripts through one Node.js entry point",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/routing-95-automation-scripts-through-one-nodejs-entry-point-9op",
-    "date": "9/6/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same glob pattern means three different things in one repository",
-    "link": "https://dev.to/tamerkalla/the-same-glob-pattern-means-three-different-things-in-one-repository-3hda",
-    "date": "9/6/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Routing 95 automation scripts through one Node.js entry point",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/routing-95-automation-scripts-through-one-nodejs-entry-point-9op",
-    "date": "9/6/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same glob pattern means three different things in one repository",
-    "link": "https://dev.to/tamerkalla/the-same-glob-pattern-means-three-different-things-in-one-repository-3hda",
-    "date": "9/6/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Routing 95 automation scripts through one Node.js entry point",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/routing-95-automation-scripts-through-one-nodejs-entry-point-9op",
-    "date": "9/6/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same glob pattern means three different things in one repository",
-    "link": "https://dev.to/tamerkalla/the-same-glob-pattern-means-three-different-things-in-one-repository-3hda",
-    "date": "9/6/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Routing 95 automation scripts through one Node.js entry point",
-    "link": "https://dev.to/takahiro_hashito_a1f3f0dc/routing-95-automation-scripts-through-one-nodejs-entry-point-9op",
-    "date": "9/6/2026",
     "site": "dev.to"
   },
   {
@@ -536,7 +536,7 @@
   {
     "title": "Better Error Handling In NodeJS With Error Classes",
     "link": "https://www.smashingmagazine.com/2020/08/error-handling-nodejs-error-classes/",
-    "reading_time": "22 min read",
+    "reading_time": "21 min read",
     "date": "8/10/2020",
     "site": "smashingmagazine"
   },
@@ -620,7 +620,7 @@
   {
     "title": "Building A Room Detector For IoT Devices On Mac OS",
     "link": "https://www.smashingmagazine.com/2018/08/building-room-detector-iot-devices-mac-os/",
-    "reading_time": "24 min read",
+    "reading_time": "25 min read",
     "date": "8/29/2018",
     "site": "smashingmagazine"
   },
@@ -634,7 +634,7 @@
   {
     "title": "Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers",
     "link": "https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "6/7/2018",
     "site": "smashingmagazine"
   },
@@ -683,28 +683,28 @@
   {
     "title": "Beyond The Browser: From Web Apps To Desktop Apps",
     "link": "https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/",
-    "reading_time": "39 min read",
+    "reading_time": "40 min read",
     "date": "3/21/2017",
     "site": "smashingmagazine"
   },
   {
     "title": "How To Develop An Interactive Command Line Application Using Node.js",
     "link": "https://www.smashingmagazine.com/2017/03/interactive-command-line-application-node-js/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "3/14/2017",
     "site": "smashingmagazine"
   },
   {
     "title": "How To Develop A Chat Bot With Node.js",
     "link": "https://www.smashingmagazine.com/2016/10/how-to-develop-a-chat-bot-with-node-js/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "10/17/2016",
     "site": "smashingmagazine"
   },
   {
     "title": "Next Generation Server Compression With Brotli",
     "link": "https://www.smashingmagazine.com/2016/10/next-generation-server-compression-with-brotli/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "10/5/2016",
     "site": "smashingmagazine"
   },
@@ -725,7 +725,7 @@
   {
     "title": "Building A Real-Time Retrospective Board With Video Chat",
     "link": "https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "3/8/2016",
     "site": "smashingmagazine"
   },
