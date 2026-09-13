@@ -1,91 +1,433 @@
 [
   {
+    "title": "The Search Highlight That Deletes Your Selection",
+    "link": "https://dev.to/parsajiravand/the-search-highlight-that-deletes-your-selection-3acb",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "60 % of our image decode failures were HEIC files named .jpg",
+    "link": "https://dev.to/yanwang/60-of-our-image-decode-failures-were-heic-files-named-jpg-5518",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A scan is never perfectly square",
+    "link": "https://dev.to/yanwang/a-scan-is-never-perfectly-square-3nce",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode",
+    "link": "https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keeping a browser video and a locally processed audio track in sync — and the 0.2s leak that broke it",
+    "link": "https://dev.to/smsmy/keeping-a-browser-video-and-a-locally-processed-audio-track-in-sync-and-the-02s-leak-that-broke-26fe",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Struggling to keep up with team changes across repositories? I built a local-first impact graph",
+    "link": "https://dev.to/soil0119/how-i-built-a-local-first-impact-graph-for-multi-repository-code-changes-3kkg",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Counted How Many Free Dev Tools Quietly Upload Your Data. Then I Built 80 That Don't.",
+    "link": "https://dev.to/sharefun2023/i-counted-how-many-free-dev-tools-quietly-upload-your-data-then-i-built-80-that-dont-d89",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "useAsyncData Keys in Nuxt: Caching, Dedupe & the Sharing Bug",
+    "link": "https://dev.to/parsajiravand/useasyncdata-keys-in-nuxt-caching-dedupe-the-sharing-bug-el1",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a browser-first PHP tools directory without pretending everything is offline",
+    "link": "https://dev.to/imagebear/building-a-browser-first-php-tools-directory-without-pretending-everything-is-offline-17hn",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repository Agent-Security Gap Study — v2h baseline",
+    "link": "https://dev.to/jackymencz/repository-agent-security-gap-study-v2h-baseline-52f5",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repository Agent-Security Gap Study — v2",
+    "link": "https://dev.to/jackymencz/repository-agent-security-gap-study-v2-5g3",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "canvas.toBlob('image/avif') silently returns a PNG. Here's how I shipped AVIF export anyway",
+    "link": "https://dev.to/meltem_intepeler_7189d77b/canvastoblobimageavif-silently-returns-a-png-heres-how-i-shipped-avif-export-anyway-1o13",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The adaptive threshold that deleted the thing we were looking for",
+    "link": "https://dev.to/yanwang/the-adaptive-threshold-that-deleted-the-thing-we-were-looking-for-1ef8",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your React Hotfix Isn't Reaching Users - And How to Fix It with Nginx",
+    "link": "https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Search Highlight That Deletes Your Selection",
+    "link": "https://dev.to/parsajiravand/the-search-highlight-that-deletes-your-selection-3acb",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "60 % of our image decode failures were HEIC files named .jpg",
+    "link": "https://dev.to/yanwang/60-of-our-image-decode-failures-were-heic-files-named-jpg-5518",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A scan is never perfectly square",
+    "link": "https://dev.to/yanwang/a-scan-is-never-perfectly-square-3nce",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode",
+    "link": "https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keeping a browser video and a locally processed audio track in sync — and the 0.2s leak that broke it",
+    "link": "https://dev.to/smsmy/keeping-a-browser-video-and-a-locally-processed-audio-track-in-sync-and-the-02s-leak-that-broke-26fe",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Struggling to keep up with team changes across repositories? I built a local-first impact graph",
+    "link": "https://dev.to/soil0119/how-i-built-a-local-first-impact-graph-for-multi-repository-code-changes-3kkg",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Counted How Many Free Dev Tools Quietly Upload Your Data. Then I Built 80 That Don't.",
+    "link": "https://dev.to/sharefun2023/i-counted-how-many-free-dev-tools-quietly-upload-your-data-then-i-built-80-that-dont-d89",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "useAsyncData Keys in Nuxt: Caching, Dedupe & the Sharing Bug",
+    "link": "https://dev.to/parsajiravand/useasyncdata-keys-in-nuxt-caching-dedupe-the-sharing-bug-el1",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a browser-first PHP tools directory without pretending everything is offline",
+    "link": "https://dev.to/imagebear/building-a-browser-first-php-tools-directory-without-pretending-everything-is-offline-17hn",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repository Agent-Security Gap Study — v2h baseline",
+    "link": "https://dev.to/jackymencz/repository-agent-security-gap-study-v2h-baseline-52f5",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repository Agent-Security Gap Study — v2",
+    "link": "https://dev.to/jackymencz/repository-agent-security-gap-study-v2-5g3",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "canvas.toBlob('image/avif') silently returns a PNG. Here's how I shipped AVIF export anyway",
+    "link": "https://dev.to/meltem_intepeler_7189d77b/canvastoblobimageavif-silently-returns-a-png-heres-how-i-shipped-avif-export-anyway-1o13",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The adaptive threshold that deleted the thing we were looking for",
+    "link": "https://dev.to/yanwang/the-adaptive-threshold-that-deleted-the-thing-we-were-looking-for-1ef8",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your React Hotfix Isn't Reaching Users - And How to Fix It with Nginx",
+    "link": "https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Search Highlight That Deletes Your Selection",
+    "link": "https://dev.to/parsajiravand/the-search-highlight-that-deletes-your-selection-3acb",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "60 % of our image decode failures were HEIC files named .jpg",
+    "link": "https://dev.to/yanwang/60-of-our-image-decode-failures-were-heic-files-named-jpg-5518",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A scan is never perfectly square",
+    "link": "https://dev.to/yanwang/a-scan-is-never-perfectly-square-3nce",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode",
+    "link": "https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keeping a browser video and a locally processed audio track in sync — and the 0.2s leak that broke it",
+    "link": "https://dev.to/smsmy/keeping-a-browser-video-and-a-locally-processed-audio-track-in-sync-and-the-02s-leak-that-broke-26fe",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Struggling to keep up with team changes across repositories? I built a local-first impact graph",
+    "link": "https://dev.to/soil0119/how-i-built-a-local-first-impact-graph-for-multi-repository-code-changes-3kkg",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Counted How Many Free Dev Tools Quietly Upload Your Data. Then I Built 80 That Don't.",
+    "link": "https://dev.to/sharefun2023/i-counted-how-many-free-dev-tools-quietly-upload-your-data-then-i-built-80-that-dont-d89",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "useAsyncData Keys in Nuxt: Caching, Dedupe & the Sharing Bug",
+    "link": "https://dev.to/parsajiravand/useasyncdata-keys-in-nuxt-caching-dedupe-the-sharing-bug-el1",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a browser-first PHP tools directory without pretending everything is offline",
+    "link": "https://dev.to/imagebear/building-a-browser-first-php-tools-directory-without-pretending-everything-is-offline-17hn",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repository Agent-Security Gap Study — v2h baseline",
+    "link": "https://dev.to/jackymencz/repository-agent-security-gap-study-v2h-baseline-52f5",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repository Agent-Security Gap Study — v2",
+    "link": "https://dev.to/jackymencz/repository-agent-security-gap-study-v2-5g3",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "canvas.toBlob('image/avif') silently returns a PNG. Here's how I shipped AVIF export anyway",
+    "link": "https://dev.to/meltem_intepeler_7189d77b/canvastoblobimageavif-silently-returns-a-png-heres-how-i-shipped-avif-export-anyway-1o13",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The adaptive threshold that deleted the thing we were looking for",
+    "link": "https://dev.to/yanwang/the-adaptive-threshold-that-deleted-the-thing-we-were-looking-for-1ef8",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your React Hotfix Isn't Reaching Users - And How to Fix It with Nginx",
+    "link": "https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Search Highlight That Deletes Your Selection",
+    "link": "https://dev.to/parsajiravand/the-search-highlight-that-deletes-your-selection-3acb",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "60 % of our image decode failures were HEIC files named .jpg",
+    "link": "https://dev.to/yanwang/60-of-our-image-decode-failures-were-heic-files-named-jpg-5518",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A scan is never perfectly square",
+    "link": "https://dev.to/yanwang/a-scan-is-never-perfectly-square-3nce",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode",
+    "link": "https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keeping a browser video and a locally processed audio track in sync — and the 0.2s leak that broke it",
+    "link": "https://dev.to/smsmy/keeping-a-browser-video-and-a-locally-processed-audio-track-in-sync-and-the-02s-leak-that-broke-26fe",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Struggling to keep up with team changes across repositories? I built a local-first impact graph",
+    "link": "https://dev.to/soil0119/how-i-built-a-local-first-impact-graph-for-multi-repository-code-changes-3kkg",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Counted How Many Free Dev Tools Quietly Upload Your Data. Then I Built 80 That Don't.",
+    "link": "https://dev.to/sharefun2023/i-counted-how-many-free-dev-tools-quietly-upload-your-data-then-i-built-80-that-dont-d89",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "useAsyncData Keys in Nuxt: Caching, Dedupe & the Sharing Bug",
+    "link": "https://dev.to/parsajiravand/useasyncdata-keys-in-nuxt-caching-dedupe-the-sharing-bug-el1",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a browser-first PHP tools directory without pretending everything is offline",
+    "link": "https://dev.to/imagebear/building-a-browser-first-php-tools-directory-without-pretending-everything-is-offline-17hn",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repository Agent-Security Gap Study — v2h baseline",
+    "link": "https://dev.to/jackymencz/repository-agent-security-gap-study-v2h-baseline-52f5",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repository Agent-Security Gap Study — v2",
+    "link": "https://dev.to/jackymencz/repository-agent-security-gap-study-v2-5g3",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "canvas.toBlob('image/avif') silently returns a PNG. Here's how I shipped AVIF export anyway",
+    "link": "https://dev.to/meltem_intepeler_7189d77b/canvastoblobimageavif-silently-returns-a-png-heres-how-i-shipped-avif-export-anyway-1o13",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The adaptive threshold that deleted the thing we were looking for",
+    "link": "https://dev.to/yanwang/the-adaptive-threshold-that-deleted-the-thing-we-were-looking-for-1ef8",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your React Hotfix Isn't Reaching Users - And How to Fix It with Nginx",
+    "link": "https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Search Highlight That Deletes Your Selection",
+    "link": "https://dev.to/parsajiravand/the-search-highlight-that-deletes-your-selection-3acb",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "60 % of our image decode failures were HEIC files named .jpg",
+    "link": "https://dev.to/yanwang/60-of-our-image-decode-failures-were-heic-files-named-jpg-5518",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A scan is never perfectly square",
+    "link": "https://dev.to/yanwang/a-scan-is-never-perfectly-square-3nce",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode",
+    "link": "https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keeping a browser video and a locally processed audio track in sync — and the 0.2s leak that broke it",
+    "link": "https://dev.to/smsmy/keeping-a-browser-video-and-a-locally-processed-audio-track-in-sync-and-the-02s-leak-that-broke-26fe",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Struggling to keep up with team changes across repositories? I built a local-first impact graph",
+    "link": "https://dev.to/soil0119/how-i-built-a-local-first-impact-graph-for-multi-repository-code-changes-3kkg",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Counted How Many Free Dev Tools Quietly Upload Your Data. Then I Built 80 That Don't.",
+    "link": "https://dev.to/sharefun2023/i-counted-how-many-free-dev-tools-quietly-upload-your-data-then-i-built-80-that-dont-d89",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "useAsyncData Keys in Nuxt: Caching, Dedupe & the Sharing Bug",
+    "link": "https://dev.to/parsajiravand/useasyncdata-keys-in-nuxt-caching-dedupe-the-sharing-bug-el1",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a browser-first PHP tools directory without pretending everything is offline",
+    "link": "https://dev.to/imagebear/building-a-browser-first-php-tools-directory-without-pretending-everything-is-offline-17hn",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repository Agent-Security Gap Study — v2h baseline",
+    "link": "https://dev.to/jackymencz/repository-agent-security-gap-study-v2h-baseline-52f5",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Repository Agent-Security Gap Study — v2",
+    "link": "https://dev.to/jackymencz/repository-agent-security-gap-study-v2-5g3",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "canvas.toBlob('image/avif') silently returns a PNG. Here's how I shipped AVIF export anyway",
+    "link": "https://dev.to/meltem_intepeler_7189d77b/canvastoblobimageavif-silently-returns-a-png-heres-how-i-shipped-avif-export-anyway-1o13",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The adaptive threshold that deleted the thing we were looking for",
+    "link": "https://dev.to/yanwang/the-adaptive-threshold-that-deleted-the-thing-we-were-looking-for-1ef8",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your React Hotfix Isn't Reaching Users - And How to Fix It with Nginx",
+    "link": "https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m",
+    "date": "9/13/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
     "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
     "date": "9/12/2026",
     "site": "dev.to"
   },
   {
-    "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
-    "link": "https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Form Actions: useActionState & useFormStatus Guide",
-    "link": "https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to catch the frozen tabs and jank your monitoring misses",
-    "link": "https://dev.to/yadhubuilds/how-to-catch-the-frozen-tabs-and-jank-your-monitoring-misses-3h2a",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your AI agent can plan anything. It still can't click \"Post\".",
-    "link": "https://dev.to/wvdstoep/your-ai-agent-can-plan-anything-it-still-cant-click-post-2bpb",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Actually Happens When You Type a URL in Your Browser?",
-    "link": "https://dev.to/megalraja/what-actually-happens-when-you-type-a-url-in-your-browser-1b1n",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Dynamic CPC & Max Bid Calculator in Next.js / React",
-    "link": "https://dev.to/muhammad_shahid_ea40fb883/how-to-build-a-dynamic-cpc-max-bid-calculator-in-nextjs-react-25h3",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 45+ Free Developer Utilities with 100% Client-Side Privacy (Zero Server Logging)",
-    "link": "https://dev.to/devomnitools/i-built-45-free-developer-utilities-with-100-client-side-privacy-zero-server-logging-48a2",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Wrapping redirect() in a try/catch in Next.js Can Silently Swallow the Redirect",
-    "link": "https://dev.to/anas_sheikh_2/wrapping-redirect-in-a-trycatch-in-nextjs-can-silently-swallow-the-redirect-4mjd",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Fast, Clean Wiki & Database for Steal an Egg",
-    "link": "https://dev.to/jack_ford_53b5dc5cb14901f/how-i-built-a-fast-clean-wiki-database-for-steal-an-egg-m1n",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Fast, Offline-First Gluten Detection PWA Using Web OCR & Open Food Facts",
-    "link": "https://dev.to/particual_fa18b6a17d860df/how-i-built-a-fast-offline-first-gluten-detection-pwa-using-web-ocr-open-food-facts-26og",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The 3 Most-Installed ESLint Plugins Went Quiet in 2025",
-    "link": "https://dev.to/ofri-peretz/the-3-most-installed-eslint-plugins-went-quiet-in-2025-23ni",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-27ih",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Don't Need Express to Build a Microservice (Here's the Zero-Dependency Version)",
-    "link": "https://dev.to/dev_encyclopedia/you-dont-need-express-to-build-a-microservice-heres-the-zero-dependency-version-921",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Page count is the wrong unit for estimating a PDF-to-text job",
-    "link": "https://dev.to/shu_jing_915fa287b22539ad/page-count-is-the-wrong-unit-for-estimating-a-pdf-to-text-job-5f82",
+    "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
+    "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
     "date": "9/12/2026",
     "site": "dev.to"
   },
@@ -96,356 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
-    "link": "https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Form Actions: useActionState & useFormStatus Guide",
-    "link": "https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to catch the frozen tabs and jank your monitoring misses",
-    "link": "https://dev.to/yadhubuilds/how-to-catch-the-frozen-tabs-and-jank-your-monitoring-misses-3h2a",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your AI agent can plan anything. It still can't click \"Post\".",
-    "link": "https://dev.to/wvdstoep/your-ai-agent-can-plan-anything-it-still-cant-click-post-2bpb",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Actually Happens When You Type a URL in Your Browser?",
-    "link": "https://dev.to/megalraja/what-actually-happens-when-you-type-a-url-in-your-browser-1b1n",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Dynamic CPC & Max Bid Calculator in Next.js / React",
-    "link": "https://dev.to/muhammad_shahid_ea40fb883/how-to-build-a-dynamic-cpc-max-bid-calculator-in-nextjs-react-25h3",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 45+ Free Developer Utilities with 100% Client-Side Privacy (Zero Server Logging)",
-    "link": "https://dev.to/devomnitools/i-built-45-free-developer-utilities-with-100-client-side-privacy-zero-server-logging-48a2",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Wrapping redirect() in a try/catch in Next.js Can Silently Swallow the Redirect",
-    "link": "https://dev.to/anas_sheikh_2/wrapping-redirect-in-a-trycatch-in-nextjs-can-silently-swallow-the-redirect-4mjd",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Fast, Clean Wiki & Database for Steal an Egg",
-    "link": "https://dev.to/jack_ford_53b5dc5cb14901f/how-i-built-a-fast-clean-wiki-database-for-steal-an-egg-m1n",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Fast, Offline-First Gluten Detection PWA Using Web OCR & Open Food Facts",
-    "link": "https://dev.to/particual_fa18b6a17d860df/how-i-built-a-fast-offline-first-gluten-detection-pwa-using-web-ocr-open-food-facts-26og",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The 3 Most-Installed ESLint Plugins Went Quiet in 2025",
-    "link": "https://dev.to/ofri-peretz/the-3-most-installed-eslint-plugins-went-quiet-in-2025-23ni",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-27ih",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Don't Need Express to Build a Microservice (Here's the Zero-Dependency Version)",
-    "link": "https://dev.to/dev_encyclopedia/you-dont-need-express-to-build-a-microservice-heres-the-zero-dependency-version-921",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Page count is the wrong unit for estimating a PDF-to-text job",
-    "link": "https://dev.to/shu_jing_915fa287b22539ad/page-count-is-the-wrong-unit-for-estimating-a-pdf-to-text-job-5f82",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
     "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
     "date": "9/12/2026",
     "site": "dev.to"
   },
   {
-    "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
-    "link": "https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Form Actions: useActionState & useFormStatus Guide",
-    "link": "https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to catch the frozen tabs and jank your monitoring misses",
-    "link": "https://dev.to/yadhubuilds/how-to-catch-the-frozen-tabs-and-jank-your-monitoring-misses-3h2a",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your AI agent can plan anything. It still can't click \"Post\".",
-    "link": "https://dev.to/wvdstoep/your-ai-agent-can-plan-anything-it-still-cant-click-post-2bpb",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Actually Happens When You Type a URL in Your Browser?",
-    "link": "https://dev.to/megalraja/what-actually-happens-when-you-type-a-url-in-your-browser-1b1n",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Dynamic CPC & Max Bid Calculator in Next.js / React",
-    "link": "https://dev.to/muhammad_shahid_ea40fb883/how-to-build-a-dynamic-cpc-max-bid-calculator-in-nextjs-react-25h3",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 45+ Free Developer Utilities with 100% Client-Side Privacy (Zero Server Logging)",
-    "link": "https://dev.to/devomnitools/i-built-45-free-developer-utilities-with-100-client-side-privacy-zero-server-logging-48a2",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Wrapping redirect() in a try/catch in Next.js Can Silently Swallow the Redirect",
-    "link": "https://dev.to/anas_sheikh_2/wrapping-redirect-in-a-trycatch-in-nextjs-can-silently-swallow-the-redirect-4mjd",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Fast, Clean Wiki & Database for Steal an Egg",
-    "link": "https://dev.to/jack_ford_53b5dc5cb14901f/how-i-built-a-fast-clean-wiki-database-for-steal-an-egg-m1n",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Fast, Offline-First Gluten Detection PWA Using Web OCR & Open Food Facts",
-    "link": "https://dev.to/particual_fa18b6a17d860df/how-i-built-a-fast-offline-first-gluten-detection-pwa-using-web-ocr-open-food-facts-26og",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The 3 Most-Installed ESLint Plugins Went Quiet in 2025",
-    "link": "https://dev.to/ofri-peretz/the-3-most-installed-eslint-plugins-went-quiet-in-2025-23ni",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-27ih",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Don't Need Express to Build a Microservice (Here's the Zero-Dependency Version)",
-    "link": "https://dev.to/dev_encyclopedia/you-dont-need-express-to-build-a-microservice-heres-the-zero-dependency-version-921",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Page count is the wrong unit for estimating a PDF-to-text job",
-    "link": "https://dev.to/shu_jing_915fa287b22539ad/page-count-is-the-wrong-unit-for-estimating-a-pdf-to-text-job-5f82",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
     "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
-    "link": "https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Form Actions: useActionState & useFormStatus Guide",
-    "link": "https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to catch the frozen tabs and jank your monitoring misses",
-    "link": "https://dev.to/yadhubuilds/how-to-catch-the-frozen-tabs-and-jank-your-monitoring-misses-3h2a",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your AI agent can plan anything. It still can't click \"Post\".",
-    "link": "https://dev.to/wvdstoep/your-ai-agent-can-plan-anything-it-still-cant-click-post-2bpb",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Actually Happens When You Type a URL in Your Browser?",
-    "link": "https://dev.to/megalraja/what-actually-happens-when-you-type-a-url-in-your-browser-1b1n",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Dynamic CPC & Max Bid Calculator in Next.js / React",
-    "link": "https://dev.to/muhammad_shahid_ea40fb883/how-to-build-a-dynamic-cpc-max-bid-calculator-in-nextjs-react-25h3",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 45+ Free Developer Utilities with 100% Client-Side Privacy (Zero Server Logging)",
-    "link": "https://dev.to/devomnitools/i-built-45-free-developer-utilities-with-100-client-side-privacy-zero-server-logging-48a2",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Wrapping redirect() in a try/catch in Next.js Can Silently Swallow the Redirect",
-    "link": "https://dev.to/anas_sheikh_2/wrapping-redirect-in-a-trycatch-in-nextjs-can-silently-swallow-the-redirect-4mjd",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Fast, Clean Wiki & Database for Steal an Egg",
-    "link": "https://dev.to/jack_ford_53b5dc5cb14901f/how-i-built-a-fast-clean-wiki-database-for-steal-an-egg-m1n",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Fast, Offline-First Gluten Detection PWA Using Web OCR & Open Food Facts",
-    "link": "https://dev.to/particual_fa18b6a17d860df/how-i-built-a-fast-offline-first-gluten-detection-pwa-using-web-ocr-open-food-facts-26og",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The 3 Most-Installed ESLint Plugins Went Quiet in 2025",
-    "link": "https://dev.to/ofri-peretz/the-3-most-installed-eslint-plugins-went-quiet-in-2025-23ni",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-27ih",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Don't Need Express to Build a Microservice (Here's the Zero-Dependency Version)",
-    "link": "https://dev.to/dev_encyclopedia/you-dont-need-express-to-build-a-microservice-heres-the-zero-dependency-version-921",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Page count is the wrong unit for estimating a PDF-to-text job",
-    "link": "https://dev.to/shu_jing_915fa287b22539ad/page-count-is-the-wrong-unit-for-estimating-a-pdf-to-text-job-5f82",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Bun 1.4's Rust rewrite cuts script startup time from 10.5ms to 4.2ms",
-    "link": "https://dev.to/alexgeorgiev17/bun-14s-rust-rewrite-cuts-script-startup-time-from-105ms-to-42ms-2je0",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "addDays() Mutated a Date Three Components Away From Where I Called It",
-    "link": "https://dev.to/parsajiravand/adddays-mutated-a-date-three-components-away-from-where-i-called-it-3400",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Form Actions: useActionState & useFormStatus Guide",
-    "link": "https://dev.to/parsajiravand/react-form-actions-useactionstate-useformstatus-guide-39jf",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to catch the frozen tabs and jank your monitoring misses",
-    "link": "https://dev.to/yadhubuilds/how-to-catch-the-frozen-tabs-and-jank-your-monitoring-misses-3h2a",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your AI agent can plan anything. It still can't click \"Post\".",
-    "link": "https://dev.to/wvdstoep/your-ai-agent-can-plan-anything-it-still-cant-click-post-2bpb",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What Actually Happens When You Type a URL in Your Browser?",
-    "link": "https://dev.to/megalraja/what-actually-happens-when-you-type-a-url-in-your-browser-1b1n",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Build a Dynamic CPC & Max Bid Calculator in Next.js / React",
-    "link": "https://dev.to/muhammad_shahid_ea40fb883/how-to-build-a-dynamic-cpc-max-bid-calculator-in-nextjs-react-25h3",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 45+ Free Developer Utilities with 100% Client-Side Privacy (Zero Server Logging)",
-    "link": "https://dev.to/devomnitools/i-built-45-free-developer-utilities-with-100-client-side-privacy-zero-server-logging-48a2",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Wrapping redirect() in a try/catch in Next.js Can Silently Swallow the Redirect",
-    "link": "https://dev.to/anas_sheikh_2/wrapping-redirect-in-a-trycatch-in-nextjs-can-silently-swallow-the-redirect-4mjd",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Fast, Clean Wiki & Database for Steal an Egg",
-    "link": "https://dev.to/jack_ford_53b5dc5cb14901f/how-i-built-a-fast-clean-wiki-database-for-steal-an-egg-m1n",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Built a Fast, Offline-First Gluten Detection PWA Using Web OCR & Open Food Facts",
-    "link": "https://dev.to/particual_fa18b6a17d860df/how-i-built-a-fast-offline-first-gluten-detection-pwa-using-web-ocr-open-food-facts-26og",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The 3 Most-Installed ESLint Plugins Went Quiet in 2025",
-    "link": "https://dev.to/ofri-peretz/the-3-most-installed-eslint-plugins-went-quiet-in-2025-23ni",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-27ih",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "You Don't Need Express to Build a Microservice (Here's the Zero-Dependency Version)",
-    "link": "https://dev.to/dev_encyclopedia/you-dont-need-express-to-build-a-microservice-heres-the-zero-dependency-version-921",
-    "date": "9/12/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Page count is the wrong unit for estimating a PDF-to-text job",
-    "link": "https://dev.to/shu_jing_915fa287b22539ad/page-count-is-the-wrong-unit-for-estimating-a-pdf-to-text-job-5f82",
     "date": "9/12/2026",
     "site": "dev.to"
   },
@@ -536,7 +536,7 @@
   {
     "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
     "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "8/20/2024",
     "site": "smashingmagazine"
   },
@@ -550,7 +550,7 @@
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
@@ -599,7 +599,7 @@
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
@@ -669,7 +669,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "11 min read",
+    "reading_time": "10 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -746,7 +746,7 @@
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
