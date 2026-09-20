@@ -1,19 +1,271 @@
 [
   {
-    "title": "A container restarted 39,352 times. Every exit code was 0.",
-    "link": "https://dev.to/cxtao/a-container-restarted-39352-times-every-exit-code-was-0-2g6i",
+    "title": "Why Your Production API Needs Idempotency Keys (And How to Build an Engine in Node.js & Redis)",
+    "link": "https://dev.to/mindinu/why-your-production-api-needs-idempotency-keys-and-how-to-build-an-engine-in-nodejs-redis-30n6",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploying Your Streaming Chatbot with Docker: From Localhost to a Live URL",
+    "link": "https://dev.to/whoismarce/deploying-your-streaming-chatbot-with-docker-from-localhost-to-a-live-url-2lla",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Actually Prepare for a Backend Developer Interview in 2026",
+    "link": "https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Good strategy, bad execution on Polymarket — need help improving my execution layer",
+    "link": "https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Cut AI Agent Failures 25%: build AI agent non-autoregressive planning",
+    "link": "https://dev.to/umair24171/how-i-cut-ai-agent-failures-25-build-ai-agent-non-autoregressive-planning-ia0",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Node.js App Crashes Under Traffic: The Magic of Connection Pooling",
+    "link": "https://dev.to/saurav_tb_pandey/why-your-nodejs-app-crashes-under-traffic-the-magic-of-connection-pooling-39on",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join my AI-agent-only social network in 30 seconds (copy-paste Node.js)",
+    "link": "https://dev.to/machenh001/join-my-ai-agent-only-social-network-in-30-seconds-copy-paste-nodejs-1614",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ten Packages, One Rule: A Check Must Be Able to Fail",
+    "link": "https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Production API Needs Idempotency Keys (And How to Build an Engine in Node.js & Redis)",
+    "link": "https://dev.to/mindinu/why-your-production-api-needs-idempotency-keys-and-how-to-build-an-engine-in-nodejs-redis-30n6",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploying Your Streaming Chatbot with Docker: From Localhost to a Live URL",
+    "link": "https://dev.to/whoismarce/deploying-your-streaming-chatbot-with-docker-from-localhost-to-a-live-url-2lla",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Actually Prepare for a Backend Developer Interview in 2026",
+    "link": "https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Good strategy, bad execution on Polymarket — need help improving my execution layer",
+    "link": "https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Cut AI Agent Failures 25%: build AI agent non-autoregressive planning",
+    "link": "https://dev.to/umair24171/how-i-cut-ai-agent-failures-25-build-ai-agent-non-autoregressive-planning-ia0",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Node.js App Crashes Under Traffic: The Magic of Connection Pooling",
+    "link": "https://dev.to/saurav_tb_pandey/why-your-nodejs-app-crashes-under-traffic-the-magic-of-connection-pooling-39on",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join my AI-agent-only social network in 30 seconds (copy-paste Node.js)",
+    "link": "https://dev.to/machenh001/join-my-ai-agent-only-social-network-in-30-seconds-copy-paste-nodejs-1614",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ten Packages, One Rule: A Check Must Be Able to Fail",
+    "link": "https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Production API Needs Idempotency Keys (And How to Build an Engine in Node.js & Redis)",
+    "link": "https://dev.to/mindinu/why-your-production-api-needs-idempotency-keys-and-how-to-build-an-engine-in-nodejs-redis-30n6",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploying Your Streaming Chatbot with Docker: From Localhost to a Live URL",
+    "link": "https://dev.to/whoismarce/deploying-your-streaming-chatbot-with-docker-from-localhost-to-a-live-url-2lla",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Actually Prepare for a Backend Developer Interview in 2026",
+    "link": "https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Good strategy, bad execution on Polymarket — need help improving my execution layer",
+    "link": "https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Cut AI Agent Failures 25%: build AI agent non-autoregressive planning",
+    "link": "https://dev.to/umair24171/how-i-cut-ai-agent-failures-25-build-ai-agent-non-autoregressive-planning-ia0",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Node.js App Crashes Under Traffic: The Magic of Connection Pooling",
+    "link": "https://dev.to/saurav_tb_pandey/why-your-nodejs-app-crashes-under-traffic-the-magic-of-connection-pooling-39on",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join my AI-agent-only social network in 30 seconds (copy-paste Node.js)",
+    "link": "https://dev.to/machenh001/join-my-ai-agent-only-social-network-in-30-seconds-copy-paste-nodejs-1614",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ten Packages, One Rule: A Check Must Be Able to Fail",
+    "link": "https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Production API Needs Idempotency Keys (And How to Build an Engine in Node.js & Redis)",
+    "link": "https://dev.to/mindinu/why-your-production-api-needs-idempotency-keys-and-how-to-build-an-engine-in-nodejs-redis-30n6",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploying Your Streaming Chatbot with Docker: From Localhost to a Live URL",
+    "link": "https://dev.to/whoismarce/deploying-your-streaming-chatbot-with-docker-from-localhost-to-a-live-url-2lla",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Actually Prepare for a Backend Developer Interview in 2026",
+    "link": "https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Good strategy, bad execution on Polymarket — need help improving my execution layer",
+    "link": "https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Cut AI Agent Failures 25%: build AI agent non-autoregressive planning",
+    "link": "https://dev.to/umair24171/how-i-cut-ai-agent-failures-25-build-ai-agent-non-autoregressive-planning-ia0",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Node.js App Crashes Under Traffic: The Magic of Connection Pooling",
+    "link": "https://dev.to/saurav_tb_pandey/why-your-nodejs-app-crashes-under-traffic-the-magic-of-connection-pooling-39on",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join my AI-agent-only social network in 30 seconds (copy-paste Node.js)",
+    "link": "https://dev.to/machenh001/join-my-ai-agent-only-social-network-in-30-seconds-copy-paste-nodejs-1614",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ten Packages, One Rule: A Check Must Be Able to Fail",
+    "link": "https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Production API Needs Idempotency Keys (And How to Build an Engine in Node.js & Redis)",
+    "link": "https://dev.to/mindinu/why-your-production-api-needs-idempotency-keys-and-how-to-build-an-engine-in-nodejs-redis-30n6",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Deploying Your Streaming Chatbot with Docker: From Localhost to a Live URL",
+    "link": "https://dev.to/whoismarce/deploying-your-streaming-chatbot-with-docker-from-localhost-to-a-live-url-2lla",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Actually Prepare for a Backend Developer Interview in 2026",
+    "link": "https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Good strategy, bad execution on Polymarket — need help improving my execution layer",
+    "link": "https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Cut AI Agent Failures 25%: build AI agent non-autoregressive planning",
+    "link": "https://dev.to/umair24171/how-i-cut-ai-agent-failures-25-build-ai-agent-non-autoregressive-planning-ia0",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Node.js App Crashes Under Traffic: The Magic of Connection Pooling",
+    "link": "https://dev.to/saurav_tb_pandey/why-your-nodejs-app-crashes-under-traffic-the-magic-of-connection-pooling-39on",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Join my AI-agent-only social network in 30 seconds (copy-paste Node.js)",
+    "link": "https://dev.to/machenh001/join-my-ai-agent-only-social-network-in-30-seconds-copy-paste-nodejs-1614",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Ten Packages, One Rule: A Check Must Be Able to Fail",
+    "link": "https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let’s Break Down a Full-Stack RAG Pipeline With React, Node.js & MongoDB",
+    "link": "https://dev.to/sam000/lets-break-down-a-full-stack-rag-pipeline-with-react-nodejs-mongodb-4mmp",
     "date": "9/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
-    "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
+    "title": "Why I built a local-first visual builder instead of another cloud SaaS",
+    "link": "https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a",
     "date": "9/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Supercharge Your Node.js App: Why You Need Database Connection Pooling",
-    "link": "https://dev.to/saurav_tb_pandey/supercharge-your-nodejs-app-why-you-need-database-connection-pooling-fbp",
+    "title": "Dumping Every User's Plaintext Password Without Touching the Database",
+    "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I open-sourced 3 small Node utilities I pulled out of building an edtech platform",
+    "link": "https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution",
+    "link": "https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983",
     "date": "9/19/2026",
     "site": "dev.to"
   },
@@ -24,26 +276,38 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Modern E-Commerce Platform: From Product Search to Secure Checkout 🛒🚀",
-    "link": "https://dev.to/victory_maya_58f1fcd9b8e4/building-a-modern-e-commerce-platform-from-product-search-to-secure-checkout-1go8",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A container restarted 39,352 times. Every exit code was 0.",
-    "link": "https://dev.to/cxtao/a-container-restarted-39352-times-every-exit-code-was-0-2g6i",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
     "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
     "date": "9/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Supercharge Your Node.js App: Why You Need Database Connection Pooling",
-    "link": "https://dev.to/saurav_tb_pandey/supercharge-your-nodejs-app-why-you-need-database-connection-pooling-fbp",
+    "title": "Let’s Break Down a Full-Stack RAG Pipeline With React, Node.js & MongoDB",
+    "link": "https://dev.to/sam000/lets-break-down-a-full-stack-rag-pipeline-with-react-nodejs-mongodb-4mmp",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built a local-first visual builder instead of another cloud SaaS",
+    "link": "https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dumping Every User's Plaintext Password Without Touching the Database",
+    "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I open-sourced 3 small Node utilities I pulled out of building an edtech platform",
+    "link": "https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution",
+    "link": "https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983",
     "date": "9/19/2026",
     "site": "dev.to"
   },
@@ -54,26 +318,38 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Modern E-Commerce Platform: From Product Search to Secure Checkout 🛒🚀",
-    "link": "https://dev.to/victory_maya_58f1fcd9b8e4/building-a-modern-e-commerce-platform-from-product-search-to-secure-checkout-1go8",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A container restarted 39,352 times. Every exit code was 0.",
-    "link": "https://dev.to/cxtao/a-container-restarted-39352-times-every-exit-code-was-0-2g6i",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
     "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
     "date": "9/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Supercharge Your Node.js App: Why You Need Database Connection Pooling",
-    "link": "https://dev.to/saurav_tb_pandey/supercharge-your-nodejs-app-why-you-need-database-connection-pooling-fbp",
+    "title": "Let’s Break Down a Full-Stack RAG Pipeline With React, Node.js & MongoDB",
+    "link": "https://dev.to/sam000/lets-break-down-a-full-stack-rag-pipeline-with-react-nodejs-mongodb-4mmp",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built a local-first visual builder instead of another cloud SaaS",
+    "link": "https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dumping Every User's Plaintext Password Without Touching the Database",
+    "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I open-sourced 3 small Node utilities I pulled out of building an edtech platform",
+    "link": "https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution",
+    "link": "https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983",
     "date": "9/19/2026",
     "site": "dev.to"
   },
@@ -84,26 +360,38 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Modern E-Commerce Platform: From Product Search to Secure Checkout 🛒🚀",
-    "link": "https://dev.to/victory_maya_58f1fcd9b8e4/building-a-modern-e-commerce-platform-from-product-search-to-secure-checkout-1go8",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A container restarted 39,352 times. Every exit code was 0.",
-    "link": "https://dev.to/cxtao/a-container-restarted-39352-times-every-exit-code-was-0-2g6i",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
     "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
     "date": "9/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Supercharge Your Node.js App: Why You Need Database Connection Pooling",
-    "link": "https://dev.to/saurav_tb_pandey/supercharge-your-nodejs-app-why-you-need-database-connection-pooling-fbp",
+    "title": "Let’s Break Down a Full-Stack RAG Pipeline With React, Node.js & MongoDB",
+    "link": "https://dev.to/sam000/lets-break-down-a-full-stack-rag-pipeline-with-react-nodejs-mongodb-4mmp",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built a local-first visual builder instead of another cloud SaaS",
+    "link": "https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dumping Every User's Plaintext Password Without Touching the Database",
+    "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I open-sourced 3 small Node utilities I pulled out of building an edtech platform",
+    "link": "https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution",
+    "link": "https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983",
     "date": "9/19/2026",
     "site": "dev.to"
   },
@@ -114,26 +402,38 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Modern E-Commerce Platform: From Product Search to Secure Checkout 🛒🚀",
-    "link": "https://dev.to/victory_maya_58f1fcd9b8e4/building-a-modern-e-commerce-platform-from-product-search-to-secure-checkout-1go8",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A container restarted 39,352 times. Every exit code was 0.",
-    "link": "https://dev.to/cxtao/a-container-restarted-39352-times-every-exit-code-was-0-2g6i",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
     "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
     "date": "9/19/2026",
     "site": "dev.to"
   },
   {
-    "title": "Supercharge Your Node.js App: Why You Need Database Connection Pooling",
-    "link": "https://dev.to/saurav_tb_pandey/supercharge-your-nodejs-app-why-you-need-database-connection-pooling-fbp",
+    "title": "Let’s Break Down a Full-Stack RAG Pipeline With React, Node.js & MongoDB",
+    "link": "https://dev.to/sam000/lets-break-down-a-full-stack-rag-pipeline-with-react-nodejs-mongodb-4mmp",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why I built a local-first visual builder instead of another cloud SaaS",
+    "link": "https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Dumping Every User's Plaintext Password Without Touching the Database",
+    "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I open-sourced 3 small Node utilities I pulled out of building an edtech platform",
+    "link": "https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd",
+    "date": "9/19/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution",
+    "link": "https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983",
     "date": "9/19/2026",
     "site": "dev.to"
   },
@@ -144,309 +444,9 @@
     "site": "dev.to"
   },
   {
-    "title": "Building a Modern E-Commerce Platform: From Product Search to Secure Checkout 🛒🚀",
-    "link": "https://dev.to/victory_maya_58f1fcd9b8e4/building-a-modern-e-commerce-platform-from-product-search-to-secure-checkout-1go8",
+    "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
+    "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
     "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Engineering a Self-Hosted Transactional Email Gateway: Architecture, Async Queues, and Cryptographic Key Rotation",
-    "link": "https://dev.to/ruan_lopes_ff1139db227941/engineering-a-self-hosted-transactional-email-gateway-architecture-async-queues-and-4cek",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "💻 A Full-Fledged Trading Engine for the Node.js Ecosystem",
-    "link": "https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streaming Claude Tokens from Bedrock with Node.js 22: SSE Made Simple",
-    "link": "https://dev.to/dineshgowtham/streaming-claude-tokens-from-bedrock-with-nodejs-22-sse-made-simple-4oid",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Polling versus events for Node background work",
-    "link": "https://dev.to/yaseenyk04/polling-versus-events-for-node-background-work-5hk9",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite",
-    "link": "https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Caching VAT and FX Rates at Build Time, Not on the Request Path",
-    "link": "https://dev.to/iurii_rogulia/caching-vat-and-fx-rates-at-build-time-not-on-the-request-path-4jpa",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Lightweight BuiltWith Alternative with Node.js",
-    "link": "https://dev.to/faraz_ahmad_f950367a09746/build-a-lightweight-builtwith-alternative-with-nodejs-2ea1",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When AI writes the fix and the test together, is PASS enough?",
-    "link": "https://dev.to/iwadjp/when-ai-writes-the-fix-and-the-test-together-is-pass-enough-1n2p",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your OpenAI JSON Calls Randomly Fail with \"could not parse JSON body\" (And How to Fix It)",
-    "link": "https://dev.to/zey-smith/why-your-openai-json-calls-randomly-fail-with-could-not-parse-json-body-and-how-to-fix-it-2nip",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building RealWrite: An Open-Source Writing Collaboration App For Content Teams",
-    "link": "https://dev.to/_5f7af2c6355ebbaee134/building-realwrite-an-open-source-writing-collaboration-app-for-content-teams-3phe",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Engineering a Self-Hosted Transactional Email Gateway: Architecture, Async Queues, and Cryptographic Key Rotation",
-    "link": "https://dev.to/ruan_lopes_ff1139db227941/engineering-a-self-hosted-transactional-email-gateway-architecture-async-queues-and-4cek",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "💻 A Full-Fledged Trading Engine for the Node.js Ecosystem",
-    "link": "https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streaming Claude Tokens from Bedrock with Node.js 22: SSE Made Simple",
-    "link": "https://dev.to/dineshgowtham/streaming-claude-tokens-from-bedrock-with-nodejs-22-sse-made-simple-4oid",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Polling versus events for Node background work",
-    "link": "https://dev.to/yaseenyk04/polling-versus-events-for-node-background-work-5hk9",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite",
-    "link": "https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Caching VAT and FX Rates at Build Time, Not on the Request Path",
-    "link": "https://dev.to/iurii_rogulia/caching-vat-and-fx-rates-at-build-time-not-on-the-request-path-4jpa",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Lightweight BuiltWith Alternative with Node.js",
-    "link": "https://dev.to/faraz_ahmad_f950367a09746/build-a-lightweight-builtwith-alternative-with-nodejs-2ea1",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When AI writes the fix and the test together, is PASS enough?",
-    "link": "https://dev.to/iwadjp/when-ai-writes-the-fix-and-the-test-together-is-pass-enough-1n2p",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your OpenAI JSON Calls Randomly Fail with \"could not parse JSON body\" (And How to Fix It)",
-    "link": "https://dev.to/zey-smith/why-your-openai-json-calls-randomly-fail-with-could-not-parse-json-body-and-how-to-fix-it-2nip",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building RealWrite: An Open-Source Writing Collaboration App For Content Teams",
-    "link": "https://dev.to/_5f7af2c6355ebbaee134/building-realwrite-an-open-source-writing-collaboration-app-for-content-teams-3phe",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Engineering a Self-Hosted Transactional Email Gateway: Architecture, Async Queues, and Cryptographic Key Rotation",
-    "link": "https://dev.to/ruan_lopes_ff1139db227941/engineering-a-self-hosted-transactional-email-gateway-architecture-async-queues-and-4cek",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "💻 A Full-Fledged Trading Engine for the Node.js Ecosystem",
-    "link": "https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streaming Claude Tokens from Bedrock with Node.js 22: SSE Made Simple",
-    "link": "https://dev.to/dineshgowtham/streaming-claude-tokens-from-bedrock-with-nodejs-22-sse-made-simple-4oid",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Polling versus events for Node background work",
-    "link": "https://dev.to/yaseenyk04/polling-versus-events-for-node-background-work-5hk9",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite",
-    "link": "https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Caching VAT and FX Rates at Build Time, Not on the Request Path",
-    "link": "https://dev.to/iurii_rogulia/caching-vat-and-fx-rates-at-build-time-not-on-the-request-path-4jpa",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Lightweight BuiltWith Alternative with Node.js",
-    "link": "https://dev.to/faraz_ahmad_f950367a09746/build-a-lightweight-builtwith-alternative-with-nodejs-2ea1",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When AI writes the fix and the test together, is PASS enough?",
-    "link": "https://dev.to/iwadjp/when-ai-writes-the-fix-and-the-test-together-is-pass-enough-1n2p",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your OpenAI JSON Calls Randomly Fail with \"could not parse JSON body\" (And How to Fix It)",
-    "link": "https://dev.to/zey-smith/why-your-openai-json-calls-randomly-fail-with-could-not-parse-json-body-and-how-to-fix-it-2nip",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building RealWrite: An Open-Source Writing Collaboration App For Content Teams",
-    "link": "https://dev.to/_5f7af2c6355ebbaee134/building-realwrite-an-open-source-writing-collaboration-app-for-content-teams-3phe",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Engineering a Self-Hosted Transactional Email Gateway: Architecture, Async Queues, and Cryptographic Key Rotation",
-    "link": "https://dev.to/ruan_lopes_ff1139db227941/engineering-a-self-hosted-transactional-email-gateway-architecture-async-queues-and-4cek",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "💻 A Full-Fledged Trading Engine for the Node.js Ecosystem",
-    "link": "https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streaming Claude Tokens from Bedrock with Node.js 22: SSE Made Simple",
-    "link": "https://dev.to/dineshgowtham/streaming-claude-tokens-from-bedrock-with-nodejs-22-sse-made-simple-4oid",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Polling versus events for Node background work",
-    "link": "https://dev.to/yaseenyk04/polling-versus-events-for-node-background-work-5hk9",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite",
-    "link": "https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Caching VAT and FX Rates at Build Time, Not on the Request Path",
-    "link": "https://dev.to/iurii_rogulia/caching-vat-and-fx-rates-at-build-time-not-on-the-request-path-4jpa",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Lightweight BuiltWith Alternative with Node.js",
-    "link": "https://dev.to/faraz_ahmad_f950367a09746/build-a-lightweight-builtwith-alternative-with-nodejs-2ea1",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When AI writes the fix and the test together, is PASS enough?",
-    "link": "https://dev.to/iwadjp/when-ai-writes-the-fix-and-the-test-together-is-pass-enough-1n2p",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your OpenAI JSON Calls Randomly Fail with \"could not parse JSON body\" (And How to Fix It)",
-    "link": "https://dev.to/zey-smith/why-your-openai-json-calls-randomly-fail-with-could-not-parse-json-body-and-how-to-fix-it-2nip",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building RealWrite: An Open-Source Writing Collaboration App For Content Teams",
-    "link": "https://dev.to/_5f7af2c6355ebbaee134/building-realwrite-an-open-source-writing-collaboration-app-for-content-teams-3phe",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Engineering a Self-Hosted Transactional Email Gateway: Architecture, Async Queues, and Cryptographic Key Rotation",
-    "link": "https://dev.to/ruan_lopes_ff1139db227941/engineering-a-self-hosted-transactional-email-gateway-architecture-async-queues-and-4cek",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "💻 A Full-Fledged Trading Engine for the Node.js Ecosystem",
-    "link": "https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streaming Claude Tokens from Bedrock with Node.js 22: SSE Made Simple",
-    "link": "https://dev.to/dineshgowtham/streaming-claude-tokens-from-bedrock-with-nodejs-22-sse-made-simple-4oid",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Polling versus events for Node background work",
-    "link": "https://dev.to/yaseenyk04/polling-versus-events-for-node-background-work-5hk9",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Disk Video Stream Proxy with Node.js, Express, and Vite",
-    "link": "https://dev.to/shahab_khan_2a0296705745e/building-a-zero-disk-video-stream-proxy-with-nodejs-express-and-vite-5e5m",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Caching VAT and FX Rates at Build Time, Not on the Request Path",
-    "link": "https://dev.to/iurii_rogulia/caching-vat-and-fx-rates-at-build-time-not-on-the-request-path-4jpa",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Build a Lightweight BuiltWith Alternative with Node.js",
-    "link": "https://dev.to/faraz_ahmad_f950367a09746/build-a-lightweight-builtwith-alternative-with-nodejs-2ea1",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When AI writes the fix and the test together, is PASS enough?",
-    "link": "https://dev.to/iwadjp/when-ai-writes-the-fix-and-the-test-together-is-pass-enough-1n2p",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your OpenAI JSON Calls Randomly Fail with \"could not parse JSON body\" (And How to Fix It)",
-    "link": "https://dev.to/zey-smith/why-your-openai-json-calls-randomly-fail-with-could-not-parse-json-body-and-how-to-fix-it-2nip",
-    "date": "9/18/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building RealWrite: An Open-Source Writing Collaboration App For Content Teams",
-    "link": "https://dev.to/_5f7af2c6355ebbaee134/building-realwrite-an-open-source-writing-collaboration-app-for-content-teams-3phe",
-    "date": "9/18/2026",
     "site": "dev.to"
   },
   {
@@ -466,7 +466,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -494,7 +494,7 @@
   {
     "title": "Building A Video Streaming App With Nuxt.js, Node And Express",
     "link": "https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "4/13/2021",
     "site": "smashingmagazine"
   },
@@ -557,7 +557,7 @@
   {
     "title": "Creating Secure Password Flows With NodeJS And MySQL",
     "link": "https://www.smashingmagazine.com/2020/03/creating-secure-password-flows-nodejs-mysql/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "3/11/2020",
     "site": "smashingmagazine"
   },
@@ -578,7 +578,7 @@
   {
     "title": "Writing A Multiplayer Text Adventure Engine In Node.js: Creating The Terminal Client (Part 3)",
     "link": "https://www.smashingmagazine.com/2019/10/multiplayer-text-adventure-engine-node-js-part-3/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "10/30/2019",
     "site": "smashingmagazine"
   },
@@ -627,7 +627,7 @@
   {
     "title": "Building A Pub/Sub Service In-House Using Node.js And Redis",
     "link": "https://www.smashingmagazine.com/2018/06/pub-sub-service-in-house-node-js-redis/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "6/12/2018",
     "site": "smashingmagazine"
   },
@@ -662,7 +662,7 @@
   {
     "title": "Creating Secure Password Resets With JSON Web Tokens",
     "link": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "11/9/2017",
     "site": "smashingmagazine"
   },
@@ -718,7 +718,7 @@
   {
     "title": "How To Harness The Machines: Being Productive With Task Runners",
     "link": "https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "6/22/2016",
     "site": "smashingmagazine"
   },
