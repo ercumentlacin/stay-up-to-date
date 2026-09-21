@@ -1,7 +1,373 @@
 [
   {
-    "title": "Why Your Production API Needs Idempotency Keys (And How to Build an Engine in Node.js & Redis)",
-    "link": "https://dev.to/mindinu/why-your-production-api-needs-idempotency-keys-and-how-to-build-an-engine-in-nodejs-redis-30n6",
+    "title": "My payment webhook silently failed on the first real transaction — and I built a tool to catch silent failures",
+    "link": "https://dev.to/lizard_gecko_0126a0bcb606/my-payment-webhook-silently-failed-on-the-first-real-transaction-and-i-built-a-tool-to-catch-4i9d",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zero-Downtime Postgres Migrations: Field Notes on Expand/Contract, lock_timeout, and the ALTER TABLE That Queued Behind One Slow Query",
+    "link": "https://dev.to/ahmed_mahmoud360/zero-downtime-postgres-migrations-field-notes-on-expandcontract-locktimeout-and-the-alter-3d3m",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Night Our Server Got Owned — and Why I Built DevCompass",
+    "link": "https://dev.to/ajaybthorat20/the-night-our-server-got-owned-and-why-i-built-devcompass-1kbi",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node 26: What Breaks When You Upgrade, and When the Jump Is Worth It (LTS Guide)",
+    "link": "https://dev.to/marco_odev/node-26-what-breaks-when-you-upgrade-and-when-the-jump-is-worth-it-lts-guide-4go2",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resize and strip EXIF metadata from user uploads in Node.js",
+    "link": "https://dev.to/purlo/resize-and-strip-exif-metadata-from-user-uploads-in-nodejs-f5m",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How many WebSocket connections can a $6 server hold? 99,770, and memory is the wall",
+    "link": "https://dev.to/remdore/how-many-websocket-connections-can-a-6-server-hold-99770-and-memory-is-the-wall-5d4k",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The LLM Is Not Your Ranker. Four Layers, and It Only Touches Two",
+    "link": "https://dev.to/brocoders/the-llm-is-not-your-ranker-four-layers-and-it-only-touches-two-2hb4",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Silent Performance Killer: Demystifying the N+1 Query Problem in Node.js",
+    "link": "https://dev.to/saurav_tb_pandey/the-silent-performance-killer-demystifying-the-n1-query-problem-in-nodejs-3kn2",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stay ahead in web development: latest news, tools, and insights #155",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-155-8n4",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "percentile_cont, a 20,000 row window, and the difference between skipped and failed",
+    "link": "https://dev.to/daniel_pertu/percentilecont-a-20000-row-window-and-the-difference-between-skipped-and-failed-gek",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seven steps to charge one credit, and why none of them can be reordered",
+    "link": "https://dev.to/daniel_pertu/seven-steps-to-charge-one-credit-and-why-none-of-them-can-be-reordered-1a9n",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mern Stack Developer",
+    "link": "https://dev.to/hunain_siddique_a9c0be82d/mern-stack-developer-1og8",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My payment webhook silently failed on the first real transaction — and I built a tool to catch silent failures",
+    "link": "https://dev.to/lizard_gecko_0126a0bcb606/my-payment-webhook-silently-failed-on-the-first-real-transaction-and-i-built-a-tool-to-catch-4i9d",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zero-Downtime Postgres Migrations: Field Notes on Expand/Contract, lock_timeout, and the ALTER TABLE That Queued Behind One Slow Query",
+    "link": "https://dev.to/ahmed_mahmoud360/zero-downtime-postgres-migrations-field-notes-on-expandcontract-locktimeout-and-the-alter-3d3m",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Night Our Server Got Owned — and Why I Built DevCompass",
+    "link": "https://dev.to/ajaybthorat20/the-night-our-server-got-owned-and-why-i-built-devcompass-1kbi",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node 26: What Breaks When You Upgrade, and When the Jump Is Worth It (LTS Guide)",
+    "link": "https://dev.to/marco_odev/node-26-what-breaks-when-you-upgrade-and-when-the-jump-is-worth-it-lts-guide-4go2",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resize and strip EXIF metadata from user uploads in Node.js",
+    "link": "https://dev.to/purlo/resize-and-strip-exif-metadata-from-user-uploads-in-nodejs-f5m",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How many WebSocket connections can a $6 server hold? 99,770, and memory is the wall",
+    "link": "https://dev.to/remdore/how-many-websocket-connections-can-a-6-server-hold-99770-and-memory-is-the-wall-5d4k",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The LLM Is Not Your Ranker. Four Layers, and It Only Touches Two",
+    "link": "https://dev.to/brocoders/the-llm-is-not-your-ranker-four-layers-and-it-only-touches-two-2hb4",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Silent Performance Killer: Demystifying the N+1 Query Problem in Node.js",
+    "link": "https://dev.to/saurav_tb_pandey/the-silent-performance-killer-demystifying-the-n1-query-problem-in-nodejs-3kn2",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stay ahead in web development: latest news, tools, and insights #155",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-155-8n4",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "percentile_cont, a 20,000 row window, and the difference between skipped and failed",
+    "link": "https://dev.to/daniel_pertu/percentilecont-a-20000-row-window-and-the-difference-between-skipped-and-failed-gek",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seven steps to charge one credit, and why none of them can be reordered",
+    "link": "https://dev.to/daniel_pertu/seven-steps-to-charge-one-credit-and-why-none-of-them-can-be-reordered-1a9n",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mern Stack Developer",
+    "link": "https://dev.to/hunain_siddique_a9c0be82d/mern-stack-developer-1og8",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My payment webhook silently failed on the first real transaction — and I built a tool to catch silent failures",
+    "link": "https://dev.to/lizard_gecko_0126a0bcb606/my-payment-webhook-silently-failed-on-the-first-real-transaction-and-i-built-a-tool-to-catch-4i9d",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zero-Downtime Postgres Migrations: Field Notes on Expand/Contract, lock_timeout, and the ALTER TABLE That Queued Behind One Slow Query",
+    "link": "https://dev.to/ahmed_mahmoud360/zero-downtime-postgres-migrations-field-notes-on-expandcontract-locktimeout-and-the-alter-3d3m",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Night Our Server Got Owned — and Why I Built DevCompass",
+    "link": "https://dev.to/ajaybthorat20/the-night-our-server-got-owned-and-why-i-built-devcompass-1kbi",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node 26: What Breaks When You Upgrade, and When the Jump Is Worth It (LTS Guide)",
+    "link": "https://dev.to/marco_odev/node-26-what-breaks-when-you-upgrade-and-when-the-jump-is-worth-it-lts-guide-4go2",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resize and strip EXIF metadata from user uploads in Node.js",
+    "link": "https://dev.to/purlo/resize-and-strip-exif-metadata-from-user-uploads-in-nodejs-f5m",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How many WebSocket connections can a $6 server hold? 99,770, and memory is the wall",
+    "link": "https://dev.to/remdore/how-many-websocket-connections-can-a-6-server-hold-99770-and-memory-is-the-wall-5d4k",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The LLM Is Not Your Ranker. Four Layers, and It Only Touches Two",
+    "link": "https://dev.to/brocoders/the-llm-is-not-your-ranker-four-layers-and-it-only-touches-two-2hb4",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Silent Performance Killer: Demystifying the N+1 Query Problem in Node.js",
+    "link": "https://dev.to/saurav_tb_pandey/the-silent-performance-killer-demystifying-the-n1-query-problem-in-nodejs-3kn2",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stay ahead in web development: latest news, tools, and insights #155",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-155-8n4",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "percentile_cont, a 20,000 row window, and the difference between skipped and failed",
+    "link": "https://dev.to/daniel_pertu/percentilecont-a-20000-row-window-and-the-difference-between-skipped-and-failed-gek",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seven steps to charge one credit, and why none of them can be reordered",
+    "link": "https://dev.to/daniel_pertu/seven-steps-to-charge-one-credit-and-why-none-of-them-can-be-reordered-1a9n",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mern Stack Developer",
+    "link": "https://dev.to/hunain_siddique_a9c0be82d/mern-stack-developer-1og8",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My payment webhook silently failed on the first real transaction — and I built a tool to catch silent failures",
+    "link": "https://dev.to/lizard_gecko_0126a0bcb606/my-payment-webhook-silently-failed-on-the-first-real-transaction-and-i-built-a-tool-to-catch-4i9d",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zero-Downtime Postgres Migrations: Field Notes on Expand/Contract, lock_timeout, and the ALTER TABLE That Queued Behind One Slow Query",
+    "link": "https://dev.to/ahmed_mahmoud360/zero-downtime-postgres-migrations-field-notes-on-expandcontract-locktimeout-and-the-alter-3d3m",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Night Our Server Got Owned — and Why I Built DevCompass",
+    "link": "https://dev.to/ajaybthorat20/the-night-our-server-got-owned-and-why-i-built-devcompass-1kbi",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node 26: What Breaks When You Upgrade, and When the Jump Is Worth It (LTS Guide)",
+    "link": "https://dev.to/marco_odev/node-26-what-breaks-when-you-upgrade-and-when-the-jump-is-worth-it-lts-guide-4go2",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resize and strip EXIF metadata from user uploads in Node.js",
+    "link": "https://dev.to/purlo/resize-and-strip-exif-metadata-from-user-uploads-in-nodejs-f5m",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How many WebSocket connections can a $6 server hold? 99,770, and memory is the wall",
+    "link": "https://dev.to/remdore/how-many-websocket-connections-can-a-6-server-hold-99770-and-memory-is-the-wall-5d4k",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The LLM Is Not Your Ranker. Four Layers, and It Only Touches Two",
+    "link": "https://dev.to/brocoders/the-llm-is-not-your-ranker-four-layers-and-it-only-touches-two-2hb4",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Silent Performance Killer: Demystifying the N+1 Query Problem in Node.js",
+    "link": "https://dev.to/saurav_tb_pandey/the-silent-performance-killer-demystifying-the-n1-query-problem-in-nodejs-3kn2",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stay ahead in web development: latest news, tools, and insights #155",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-155-8n4",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "percentile_cont, a 20,000 row window, and the difference between skipped and failed",
+    "link": "https://dev.to/daniel_pertu/percentilecont-a-20000-row-window-and-the-difference-between-skipped-and-failed-gek",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seven steps to charge one credit, and why none of them can be reordered",
+    "link": "https://dev.to/daniel_pertu/seven-steps-to-charge-one-credit-and-why-none-of-them-can-be-reordered-1a9n",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mern Stack Developer",
+    "link": "https://dev.to/hunain_siddique_a9c0be82d/mern-stack-developer-1og8",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My payment webhook silently failed on the first real transaction — and I built a tool to catch silent failures",
+    "link": "https://dev.to/lizard_gecko_0126a0bcb606/my-payment-webhook-silently-failed-on-the-first-real-transaction-and-i-built-a-tool-to-catch-4i9d",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Zero-Downtime Postgres Migrations: Field Notes on Expand/Contract, lock_timeout, and the ALTER TABLE That Queued Behind One Slow Query",
+    "link": "https://dev.to/ahmed_mahmoud360/zero-downtime-postgres-migrations-field-notes-on-expandcontract-locktimeout-and-the-alter-3d3m",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Night Our Server Got Owned — and Why I Built DevCompass",
+    "link": "https://dev.to/ajaybthorat20/the-night-our-server-got-owned-and-why-i-built-devcompass-1kbi",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node 26: What Breaks When You Upgrade, and When the Jump Is Worth It (LTS Guide)",
+    "link": "https://dev.to/marco_odev/node-26-what-breaks-when-you-upgrade-and-when-the-jump-is-worth-it-lts-guide-4go2",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Resize and strip EXIF metadata from user uploads in Node.js",
+    "link": "https://dev.to/purlo/resize-and-strip-exif-metadata-from-user-uploads-in-nodejs-f5m",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How many WebSocket connections can a $6 server hold? 99,770, and memory is the wall",
+    "link": "https://dev.to/remdore/how-many-websocket-connections-can-a-6-server-hold-99770-and-memory-is-the-wall-5d4k",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The LLM Is Not Your Ranker. Four Layers, and It Only Touches Two",
+    "link": "https://dev.to/brocoders/the-llm-is-not-your-ranker-four-layers-and-it-only-touches-two-2hb4",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Silent Performance Killer: Demystifying the N+1 Query Problem in Node.js",
+    "link": "https://dev.to/saurav_tb_pandey/the-silent-performance-killer-demystifying-the-n1-query-problem-in-nodejs-3kn2",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stay ahead in web development: latest news, tools, and insights #155",
+    "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-155-8n4",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "percentile_cont, a 20,000 row window, and the difference between skipped and failed",
+    "link": "https://dev.to/daniel_pertu/percentilecont-a-20000-row-window-and-the-difference-between-skipped-and-failed-gek",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seven steps to charge one credit, and why none of them can be reordered",
+    "link": "https://dev.to/daniel_pertu/seven-steps-to-charge-one-credit-and-why-none-of-them-can-be-reordered-1a9n",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Mern Stack Developer",
+    "link": "https://dev.to/hunain_siddique_a9c0be82d/mern-stack-developer-1og8",
+    "date": "9/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "bro.js v3.0.0 – What’s new",
+    "link": "https://dev.to/yass1n/brojs-v300-whats-new-53op",
+    "date": "9/20/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a Tri-State Email Risk Gate in Node.js",
+    "link": "https://dev.to/faraz_ahmad_f950367a09746/build-a-tri-state-email-risk-gate-in-nodejs-4hf0",
     "date": "9/20/2026",
     "site": "dev.to"
   },
@@ -12,44 +378,14 @@
     "site": "dev.to"
   },
   {
-    "title": "How to Actually Prepare for a Backend Developer Interview in 2026",
-    "link": "https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57",
+    "title": "bro.js v3.0.0 – What’s new",
+    "link": "https://dev.to/yass1n/brojs-v300-whats-new-53op",
     "date": "9/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "Good strategy, bad execution on Polymarket — need help improving my execution layer",
-    "link": "https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Cut AI Agent Failures 25%: build AI agent non-autoregressive planning",
-    "link": "https://dev.to/umair24171/how-i-cut-ai-agent-failures-25-build-ai-agent-non-autoregressive-planning-ia0",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Node.js App Crashes Under Traffic: The Magic of Connection Pooling",
-    "link": "https://dev.to/saurav_tb_pandey/why-your-nodejs-app-crashes-under-traffic-the-magic-of-connection-pooling-39on",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Join my AI-agent-only social network in 30 seconds (copy-paste Node.js)",
-    "link": "https://dev.to/machenh001/join-my-ai-agent-only-social-network-in-30-seconds-copy-paste-nodejs-1614",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ten Packages, One Rule: A Check Must Be Able to Fail",
-    "link": "https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Production API Needs Idempotency Keys (And How to Build an Engine in Node.js & Redis)",
-    "link": "https://dev.to/mindinu/why-your-production-api-needs-idempotency-keys-and-how-to-build-an-engine-in-nodejs-redis-30n6",
+    "title": "Build a Tri-State Email Risk Gate in Node.js",
+    "link": "https://dev.to/faraz_ahmad_f950367a09746/build-a-tri-state-email-risk-gate-in-nodejs-4hf0",
     "date": "9/20/2026",
     "site": "dev.to"
   },
@@ -60,44 +396,14 @@
     "site": "dev.to"
   },
   {
-    "title": "How to Actually Prepare for a Backend Developer Interview in 2026",
-    "link": "https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57",
+    "title": "bro.js v3.0.0 – What’s new",
+    "link": "https://dev.to/yass1n/brojs-v300-whats-new-53op",
     "date": "9/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "Good strategy, bad execution on Polymarket — need help improving my execution layer",
-    "link": "https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Cut AI Agent Failures 25%: build AI agent non-autoregressive planning",
-    "link": "https://dev.to/umair24171/how-i-cut-ai-agent-failures-25-build-ai-agent-non-autoregressive-planning-ia0",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Node.js App Crashes Under Traffic: The Magic of Connection Pooling",
-    "link": "https://dev.to/saurav_tb_pandey/why-your-nodejs-app-crashes-under-traffic-the-magic-of-connection-pooling-39on",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Join my AI-agent-only social network in 30 seconds (copy-paste Node.js)",
-    "link": "https://dev.to/machenh001/join-my-ai-agent-only-social-network-in-30-seconds-copy-paste-nodejs-1614",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ten Packages, One Rule: A Check Must Be Able to Fail",
-    "link": "https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Production API Needs Idempotency Keys (And How to Build an Engine in Node.js & Redis)",
-    "link": "https://dev.to/mindinu/why-your-production-api-needs-idempotency-keys-and-how-to-build-an-engine-in-nodejs-redis-30n6",
+    "title": "Build a Tri-State Email Risk Gate in Node.js",
+    "link": "https://dev.to/faraz_ahmad_f950367a09746/build-a-tri-state-email-risk-gate-in-nodejs-4hf0",
     "date": "9/20/2026",
     "site": "dev.to"
   },
@@ -108,44 +414,14 @@
     "site": "dev.to"
   },
   {
-    "title": "How to Actually Prepare for a Backend Developer Interview in 2026",
-    "link": "https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57",
+    "title": "bro.js v3.0.0 – What’s new",
+    "link": "https://dev.to/yass1n/brojs-v300-whats-new-53op",
     "date": "9/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "Good strategy, bad execution on Polymarket — need help improving my execution layer",
-    "link": "https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Cut AI Agent Failures 25%: build AI agent non-autoregressive planning",
-    "link": "https://dev.to/umair24171/how-i-cut-ai-agent-failures-25-build-ai-agent-non-autoregressive-planning-ia0",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Node.js App Crashes Under Traffic: The Magic of Connection Pooling",
-    "link": "https://dev.to/saurav_tb_pandey/why-your-nodejs-app-crashes-under-traffic-the-magic-of-connection-pooling-39on",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Join my AI-agent-only social network in 30 seconds (copy-paste Node.js)",
-    "link": "https://dev.to/machenh001/join-my-ai-agent-only-social-network-in-30-seconds-copy-paste-nodejs-1614",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ten Packages, One Rule: A Check Must Be Able to Fail",
-    "link": "https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Production API Needs Idempotency Keys (And How to Build an Engine in Node.js & Redis)",
-    "link": "https://dev.to/mindinu/why-your-production-api-needs-idempotency-keys-and-how-to-build-an-engine-in-nodejs-redis-30n6",
+    "title": "Build a Tri-State Email Risk Gate in Node.js",
+    "link": "https://dev.to/faraz_ahmad_f950367a09746/build-a-tri-state-email-risk-gate-in-nodejs-4hf0",
     "date": "9/20/2026",
     "site": "dev.to"
   },
@@ -156,44 +432,14 @@
     "site": "dev.to"
   },
   {
-    "title": "How to Actually Prepare for a Backend Developer Interview in 2026",
-    "link": "https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57",
+    "title": "bro.js v3.0.0 – What’s new",
+    "link": "https://dev.to/yass1n/brojs-v300-whats-new-53op",
     "date": "9/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "Good strategy, bad execution on Polymarket — need help improving my execution layer",
-    "link": "https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Cut AI Agent Failures 25%: build AI agent non-autoregressive planning",
-    "link": "https://dev.to/umair24171/how-i-cut-ai-agent-failures-25-build-ai-agent-non-autoregressive-planning-ia0",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Node.js App Crashes Under Traffic: The Magic of Connection Pooling",
-    "link": "https://dev.to/saurav_tb_pandey/why-your-nodejs-app-crashes-under-traffic-the-magic-of-connection-pooling-39on",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Join my AI-agent-only social network in 30 seconds (copy-paste Node.js)",
-    "link": "https://dev.to/machenh001/join-my-ai-agent-only-social-network-in-30-seconds-copy-paste-nodejs-1614",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ten Packages, One Rule: A Check Must Be Able to Fail",
-    "link": "https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Production API Needs Idempotency Keys (And How to Build an Engine in Node.js & Redis)",
-    "link": "https://dev.to/mindinu/why-your-production-api-needs-idempotency-keys-and-how-to-build-an-engine-in-nodejs-redis-30n6",
+    "title": "Build a Tri-State Email Risk Gate in Node.js",
+    "link": "https://dev.to/faraz_ahmad_f950367a09746/build-a-tri-state-email-risk-gate-in-nodejs-4hf0",
     "date": "9/20/2026",
     "site": "dev.to"
   },
@@ -201,252 +447,6 @@
     "title": "Deploying Your Streaming Chatbot with Docker: From Localhost to a Live URL",
     "link": "https://dev.to/whoismarce/deploying-your-streaming-chatbot-with-docker-from-localhost-to-a-live-url-2lla",
     "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to Actually Prepare for a Backend Developer Interview in 2026",
-    "link": "https://dev.to/akashguptasky/how-to-actually-prepare-for-a-backend-developer-interview-in-2026-4h57",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Good strategy, bad execution on Polymarket — need help improving my execution layer",
-    "link": "https://dev.to/theshawshankredemption/good-strategy-bad-execution-on-polymarket-need-help-improving-my-execution-layer-26a5",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I Cut AI Agent Failures 25%: build AI agent non-autoregressive planning",
-    "link": "https://dev.to/umair24171/how-i-cut-ai-agent-failures-25-build-ai-agent-non-autoregressive-planning-ia0",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why Your Node.js App Crashes Under Traffic: The Magic of Connection Pooling",
-    "link": "https://dev.to/saurav_tb_pandey/why-your-nodejs-app-crashes-under-traffic-the-magic-of-connection-pooling-39on",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Join my AI-agent-only social network in 30 seconds (copy-paste Node.js)",
-    "link": "https://dev.to/machenh001/join-my-ai-agent-only-social-network-in-30-seconds-copy-paste-nodejs-1614",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Ten Packages, One Rule: A Check Must Be Able to Fail",
-    "link": "https://dev.to/megapixel99/ten-packages-one-rule-a-check-must-be-able-to-fail-60f",
-    "date": "9/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Let’s Break Down a Full-Stack RAG Pipeline With React, Node.js & MongoDB",
-    "link": "https://dev.to/sam000/lets-break-down-a-full-stack-rag-pipeline-with-react-nodejs-mongodb-4mmp",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I built a local-first visual builder instead of another cloud SaaS",
-    "link": "https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dumping Every User's Plaintext Password Without Touching the Database",
-    "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced 3 small Node utilities I pulled out of building an edtech platform",
-    "link": "https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution",
-    "link": "https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Event-Driven Restaurant System with Node.js and Kafka",
-    "link": "https://dev.to/ankit_halder_7840b622b962/building-an-event-driven-restaurant-system-with-nodejs-and-kafka-2oaj",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
-    "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Let’s Break Down a Full-Stack RAG Pipeline With React, Node.js & MongoDB",
-    "link": "https://dev.to/sam000/lets-break-down-a-full-stack-rag-pipeline-with-react-nodejs-mongodb-4mmp",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I built a local-first visual builder instead of another cloud SaaS",
-    "link": "https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dumping Every User's Plaintext Password Without Touching the Database",
-    "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced 3 small Node utilities I pulled out of building an edtech platform",
-    "link": "https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution",
-    "link": "https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Event-Driven Restaurant System with Node.js and Kafka",
-    "link": "https://dev.to/ankit_halder_7840b622b962/building-an-event-driven-restaurant-system-with-nodejs-and-kafka-2oaj",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
-    "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Let’s Break Down a Full-Stack RAG Pipeline With React, Node.js & MongoDB",
-    "link": "https://dev.to/sam000/lets-break-down-a-full-stack-rag-pipeline-with-react-nodejs-mongodb-4mmp",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I built a local-first visual builder instead of another cloud SaaS",
-    "link": "https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dumping Every User's Plaintext Password Without Touching the Database",
-    "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced 3 small Node utilities I pulled out of building an edtech platform",
-    "link": "https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution",
-    "link": "https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Event-Driven Restaurant System with Node.js and Kafka",
-    "link": "https://dev.to/ankit_halder_7840b622b962/building-an-event-driven-restaurant-system-with-nodejs-and-kafka-2oaj",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
-    "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Let’s Break Down a Full-Stack RAG Pipeline With React, Node.js & MongoDB",
-    "link": "https://dev.to/sam000/lets-break-down-a-full-stack-rag-pipeline-with-react-nodejs-mongodb-4mmp",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I built a local-first visual builder instead of another cloud SaaS",
-    "link": "https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dumping Every User's Plaintext Password Without Touching the Database",
-    "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced 3 small Node utilities I pulled out of building an edtech platform",
-    "link": "https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution",
-    "link": "https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Event-Driven Restaurant System with Node.js and Kafka",
-    "link": "https://dev.to/ankit_halder_7840b622b962/building-an-event-driven-restaurant-system-with-nodejs-and-kafka-2oaj",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
-    "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Let’s Break Down a Full-Stack RAG Pipeline With React, Node.js & MongoDB",
-    "link": "https://dev.to/sam000/lets-break-down-a-full-stack-rag-pipeline-with-react-nodejs-mongodb-4mmp",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I built a local-first visual builder instead of another cloud SaaS",
-    "link": "https://dev.to/opening-butterfly73/why-i-built-a-local-first-visual-builder-instead-of-another-cloud-saas-162a",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Dumping Every User's Plaintext Password Without Touching the Database",
-    "link": "https://dev.to/oopssec-store/dumping-every-users-plaintext-password-without-touching-the-database-34ob",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I open-sourced 3 small Node utilities I pulled out of building an edtech platform",
-    "link": "https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution",
-    "link": "https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an Event-Driven Restaurant System with Node.js and Kafka",
-    "link": "https://dev.to/ankit_halder_7840b622b962/building-an-event-driven-restaurant-system-with-nodejs-and-kafka-2oaj",
-    "date": "9/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "13 Days of Silence: How One Bad Draft Froze an Entire DM Lane",
-    "link": "https://dev.to/bokuwalily/13-days-of-silence-how-one-bad-draft-froze-an-entire-dm-lane-52jd",
-    "date": "9/19/2026",
     "site": "dev.to"
   },
   {
@@ -466,7 +466,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -557,7 +557,7 @@
   {
     "title": "Creating Secure Password Flows With NodeJS And MySQL",
     "link": "https://www.smashingmagazine.com/2020/03/creating-secure-password-flows-nodejs-mysql/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "3/11/2020",
     "site": "smashingmagazine"
   },
@@ -620,7 +620,7 @@
   {
     "title": "Building A Room Detector For IoT Devices On Mac OS",
     "link": "https://www.smashingmagazine.com/2018/08/building-room-detector-iot-devices-mac-os/",
-    "reading_time": "25 min read",
+    "reading_time": "24 min read",
     "date": "8/29/2018",
     "site": "smashingmagazine"
   },
@@ -641,7 +641,7 @@
   {
     "title": "Sharing Code Between Projects: Lessons Learned In The Trenches",
     "link": "https://www.smashingmagazine.com/2018/04/sharing-code-between-projects/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "4/25/2018",
     "site": "smashingmagazine"
   },
@@ -662,7 +662,7 @@
   {
     "title": "Creating Secure Password Resets With JSON Web Tokens",
     "link": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "11/9/2017",
     "site": "smashingmagazine"
   },
@@ -718,14 +718,14 @@
   {
     "title": "How To Harness The Machines: Being Productive With Task Runners",
     "link": "https://www.smashingmagazine.com/2016/06/harness-machines-productive-task-runners/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "6/22/2016",
     "site": "smashingmagazine"
   },
   {
     "title": "Building A Real-Time Retrospective Board With Video Chat",
     "link": "https://www.smashingmagazine.com/2016/03/building-a-real-time-retrospective-board-with-video-chat/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/8/2016",
     "site": "smashingmagazine"
   },
@@ -746,7 +746,7 @@
   {
     "title": "React To The Future With Isomorphic Apps",
     "link": "https://www.smashingmagazine.com/2015/04/react-to-the-future-with-isomorphic-apps/",
-    "reading_time": "12 min read",
+    "reading_time": "13 min read",
     "date": "4/21/2015",
     "site": "smashingmagazine"
   },
