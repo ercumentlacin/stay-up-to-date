@@ -1,91 +1,409 @@
 [
   {
+    "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
+    "link": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add a DVR window to your live HLS stream without 404ing the scrubber",
+    "link": "https://dev.to/masonwritescode/add-a-dvr-window-to-your-live-hls-stream-without-404ing-the-scrubber-4db8",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built DirectSurface, a Canvas UI framework for dockable browser workspaces",
+    "link": "https://dev.to/hailinbigbaby/i-built-directsurface-a-canvas-ui-framework-for-dockable-browser-workspaces-54lg",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser fingerprinting: test how trackable you really are (with code)",
+    "link": "https://dev.to/gofortool/browser-fingerprinting-test-how-trackable-you-really-are-with-code-2obc",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We built a data grid for technical data. Here is what a column type has to know.",
+    "link": "https://dev.to/tonygoodchild/we-built-a-data-grid-for-technical-data-here-is-what-a-column-type-has-to-know-8co",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React glass that refracts the page using Snell's law",
+    "link": "https://dev.to/thanhphuchuynh/react-glass-that-refracts-the-page-using-snells-law-4gmd",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vite+ — Chapter 1: Why Do We Need Another JavaScript Tool?",
+    "link": "https://dev.to/othmane_nemli/vite-chapter-1-why-do-we-need-another-javascript-tool-13l",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "HTTP 200 does not mean your page rendered",
+    "link": "dev.to/ibrahim_topbai_1c4ab4f4e/http-200-does-not-mean-your-page-rendered-5bg1",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A .docx does not store where its pages end",
+    "link": "https://dev.to/pm_cheng_3f36acecfb9c59f5/a-docx-does-not-store-where-its-pages-end-pee",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Day Is Not 86400 Seconds: The DST Bug in Your Date Math",
+    "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/a-day-is-not-86400-seconds-the-dst-bug-in-your-date-math-3bc0",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A web app in one offline HTML file: IndexedDB, a localStorage fallback and a hand-written ZIP",
+    "link": "https://dev.to/spectrtech/a-web-app-in-one-offline-html-file-indexeddb-a-localstorage-fallback-and-a-hand-written-zip-459e",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "fs.cpSync copied the framework and left every symlink pointing at the cache",
+    "link": "https://dev.to/daniel_pertu/fscpsync-copied-the-framework-and-left-every-symlink-pointing-at-the-cache-54lc",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Generate 3D Meshes (GLB, OBJ, STL) Directly From the Terminal and AI Agents",
+    "link": "https://dev.to/mit9/generate-3d-meshes-glb-obj-stl-directly-from-the-terminal-and-ai-agents-4fd4",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
+    "link": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add a DVR window to your live HLS stream without 404ing the scrubber",
+    "link": "https://dev.to/masonwritescode/add-a-dvr-window-to-your-live-hls-stream-without-404ing-the-scrubber-4db8",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built DirectSurface, a Canvas UI framework for dockable browser workspaces",
+    "link": "https://dev.to/hailinbigbaby/i-built-directsurface-a-canvas-ui-framework-for-dockable-browser-workspaces-54lg",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser fingerprinting: test how trackable you really are (with code)",
+    "link": "https://dev.to/gofortool/browser-fingerprinting-test-how-trackable-you-really-are-with-code-2obc",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We built a data grid for technical data. Here is what a column type has to know.",
+    "link": "https://dev.to/tonygoodchild/we-built-a-data-grid-for-technical-data-here-is-what-a-column-type-has-to-know-8co",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React glass that refracts the page using Snell's law",
+    "link": "https://dev.to/thanhphuchuynh/react-glass-that-refracts-the-page-using-snells-law-4gmd",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vite+ — Chapter 1: Why Do We Need Another JavaScript Tool?",
+    "link": "https://dev.to/othmane_nemli/vite-chapter-1-why-do-we-need-another-javascript-tool-13l",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "HTTP 200 does not mean your page rendered",
+    "link": "dev.to/ibrahim_topbai_1c4ab4f4e/http-200-does-not-mean-your-page-rendered-5bg1",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A .docx does not store where its pages end",
+    "link": "https://dev.to/pm_cheng_3f36acecfb9c59f5/a-docx-does-not-store-where-its-pages-end-pee",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Day Is Not 86400 Seconds: The DST Bug in Your Date Math",
+    "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/a-day-is-not-86400-seconds-the-dst-bug-in-your-date-math-3bc0",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A web app in one offline HTML file: IndexedDB, a localStorage fallback and a hand-written ZIP",
+    "link": "https://dev.to/spectrtech/a-web-app-in-one-offline-html-file-indexeddb-a-localstorage-fallback-and-a-hand-written-zip-459e",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "fs.cpSync copied the framework and left every symlink pointing at the cache",
+    "link": "https://dev.to/daniel_pertu/fscpsync-copied-the-framework-and-left-every-symlink-pointing-at-the-cache-54lc",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Generate 3D Meshes (GLB, OBJ, STL) Directly From the Terminal and AI Agents",
+    "link": "https://dev.to/mit9/generate-3d-meshes-glb-obj-stl-directly-from-the-terminal-and-ai-agents-4fd4",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
+    "link": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add a DVR window to your live HLS stream without 404ing the scrubber",
+    "link": "https://dev.to/masonwritescode/add-a-dvr-window-to-your-live-hls-stream-without-404ing-the-scrubber-4db8",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built DirectSurface, a Canvas UI framework for dockable browser workspaces",
+    "link": "https://dev.to/hailinbigbaby/i-built-directsurface-a-canvas-ui-framework-for-dockable-browser-workspaces-54lg",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser fingerprinting: test how trackable you really are (with code)",
+    "link": "https://dev.to/gofortool/browser-fingerprinting-test-how-trackable-you-really-are-with-code-2obc",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We built a data grid for technical data. Here is what a column type has to know.",
+    "link": "https://dev.to/tonygoodchild/we-built-a-data-grid-for-technical-data-here-is-what-a-column-type-has-to-know-8co",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React glass that refracts the page using Snell's law",
+    "link": "https://dev.to/thanhphuchuynh/react-glass-that-refracts-the-page-using-snells-law-4gmd",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vite+ — Chapter 1: Why Do We Need Another JavaScript Tool?",
+    "link": "https://dev.to/othmane_nemli/vite-chapter-1-why-do-we-need-another-javascript-tool-13l",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "HTTP 200 does not mean your page rendered",
+    "link": "dev.to/ibrahim_topbai_1c4ab4f4e/http-200-does-not-mean-your-page-rendered-5bg1",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A .docx does not store where its pages end",
+    "link": "https://dev.to/pm_cheng_3f36acecfb9c59f5/a-docx-does-not-store-where-its-pages-end-pee",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Day Is Not 86400 Seconds: The DST Bug in Your Date Math",
+    "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/a-day-is-not-86400-seconds-the-dst-bug-in-your-date-math-3bc0",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A web app in one offline HTML file: IndexedDB, a localStorage fallback and a hand-written ZIP",
+    "link": "https://dev.to/spectrtech/a-web-app-in-one-offline-html-file-indexeddb-a-localstorage-fallback-and-a-hand-written-zip-459e",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "fs.cpSync copied the framework and left every symlink pointing at the cache",
+    "link": "https://dev.to/daniel_pertu/fscpsync-copied-the-framework-and-left-every-symlink-pointing-at-the-cache-54lc",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Generate 3D Meshes (GLB, OBJ, STL) Directly From the Terminal and AI Agents",
+    "link": "https://dev.to/mit9/generate-3d-meshes-glb-obj-stl-directly-from-the-terminal-and-ai-agents-4fd4",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
+    "link": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add a DVR window to your live HLS stream without 404ing the scrubber",
+    "link": "https://dev.to/masonwritescode/add-a-dvr-window-to-your-live-hls-stream-without-404ing-the-scrubber-4db8",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built DirectSurface, a Canvas UI framework for dockable browser workspaces",
+    "link": "https://dev.to/hailinbigbaby/i-built-directsurface-a-canvas-ui-framework-for-dockable-browser-workspaces-54lg",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser fingerprinting: test how trackable you really are (with code)",
+    "link": "https://dev.to/gofortool/browser-fingerprinting-test-how-trackable-you-really-are-with-code-2obc",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We built a data grid for technical data. Here is what a column type has to know.",
+    "link": "https://dev.to/tonygoodchild/we-built-a-data-grid-for-technical-data-here-is-what-a-column-type-has-to-know-8co",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React glass that refracts the page using Snell's law",
+    "link": "https://dev.to/thanhphuchuynh/react-glass-that-refracts-the-page-using-snells-law-4gmd",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vite+ — Chapter 1: Why Do We Need Another JavaScript Tool?",
+    "link": "https://dev.to/othmane_nemli/vite-chapter-1-why-do-we-need-another-javascript-tool-13l",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "HTTP 200 does not mean your page rendered",
+    "link": "dev.to/ibrahim_topbai_1c4ab4f4e/http-200-does-not-mean-your-page-rendered-5bg1",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A .docx does not store where its pages end",
+    "link": "https://dev.to/pm_cheng_3f36acecfb9c59f5/a-docx-does-not-store-where-its-pages-end-pee",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Day Is Not 86400 Seconds: The DST Bug in Your Date Math",
+    "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/a-day-is-not-86400-seconds-the-dst-bug-in-your-date-math-3bc0",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A web app in one offline HTML file: IndexedDB, a localStorage fallback and a hand-written ZIP",
+    "link": "https://dev.to/spectrtech/a-web-app-in-one-offline-html-file-indexeddb-a-localstorage-fallback-and-a-hand-written-zip-459e",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "fs.cpSync copied the framework and left every symlink pointing at the cache",
+    "link": "https://dev.to/daniel_pertu/fscpsync-copied-the-framework-and-left-every-symlink-pointing-at-the-cache-54lc",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Generate 3D Meshes (GLB, OBJ, STL) Directly From the Terminal and AI Agents",
+    "link": "https://dev.to/mit9/generate-3d-meshes-glb-obj-stl-directly-from-the-terminal-and-ai-agents-4fd4",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Devlog: I Built a 3D Library in Three.js Without a Level Editor — So I Made My Own",
+    "link": "https://dev.to/mikachu/devlog-i-built-a-3d-library-in-threejs-without-a-level-editor-so-i-made-my-own-500i",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Add a DVR window to your live HLS stream without 404ing the scrubber",
+    "link": "https://dev.to/masonwritescode/add-a-dvr-window-to-your-live-hls-stream-without-404ing-the-scrubber-4db8",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built DirectSurface, a Canvas UI framework for dockable browser workspaces",
+    "link": "https://dev.to/hailinbigbaby/i-built-directsurface-a-canvas-ui-framework-for-dockable-browser-workspaces-54lg",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Browser fingerprinting: test how trackable you really are (with code)",
+    "link": "https://dev.to/gofortool/browser-fingerprinting-test-how-trackable-you-really-are-with-code-2obc",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We built a data grid for technical data. Here is what a column type has to know.",
+    "link": "https://dev.to/tonygoodchild/we-built-a-data-grid-for-technical-data-here-is-what-a-column-type-has-to-know-8co",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React glass that refracts the page using Snell's law",
+    "link": "https://dev.to/thanhphuchuynh/react-glass-that-refracts-the-page-using-snells-law-4gmd",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Vite+ — Chapter 1: Why Do We Need Another JavaScript Tool?",
+    "link": "https://dev.to/othmane_nemli/vite-chapter-1-why-do-we-need-another-javascript-tool-13l",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "HTTP 200 does not mean your page rendered",
+    "link": "dev.to/ibrahim_topbai_1c4ab4f4e/http-200-does-not-mean-your-page-rendered-5bg1",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A .docx does not store where its pages end",
+    "link": "https://dev.to/pm_cheng_3f36acecfb9c59f5/a-docx-does-not-store-where-its-pages-end-pee",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Day Is Not 86400 Seconds: The DST Bug in Your Date Math",
+    "link": "https://dev.to/zhihu_wu_dea1d82af01a04d7/a-day-is-not-86400-seconds-the-dst-bug-in-your-date-math-3bc0",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A web app in one offline HTML file: IndexedDB, a localStorage fallback and a hand-written ZIP",
+    "link": "https://dev.to/spectrtech/a-web-app-in-one-offline-html-file-indexeddb-a-localstorage-fallback-and-a-hand-written-zip-459e",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "fs.cpSync copied the framework and left every symlink pointing at the cache",
+    "link": "https://dev.to/daniel_pertu/fscpsync-copied-the-framework-and-left-every-symlink-pointing-at-the-cache-54lc",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Generate 3D Meshes (GLB, OBJ, STL) Directly From the Terminal and AI Agents",
+    "link": "https://dev.to/mit9/generate-3d-meshes-glb-obj-stl-directly-from-the-terminal-and-ai-agents-4fd4",
+    "date": "9/24/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+    "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
+    "date": "9/23/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "My OSS Projects: Piral",
     "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
     "date": "9/23/2026",
     "site": "dev.to"
   },
   {
-    "title": "12 Important Concepts All Software Developers Should Know",
-    "link": "https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nobody left to fix it: measuring dependencies with no maintainer",
-    "link": "https://dev.to/prasadv-depproof/nobody-left-to-fix-it-measuring-dependencies-with-no-maintainer-6d3",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React State vs Server State: Why You Shouldn't Store Everything in useState",
-    "link": "https://dev.to/prince_patel_09/react-state-vs-server-state-why-you-shouldnt-store-everything-in-usestate-19da",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 image upload, crop, and adjustment in one component?",
-    "link": "https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "INP and Partytown: give the main thread back to your users",
-    "link": "https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The One-Line Refactor That Made this Become undefined in Production",
-    "link": "https://dev.to/abhishekdutta619/the-one-line-refactor-that-made-this-become-undefined-in-production-1am2",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Watching EU Public Tenders With the TED API (and Never Alerting on the Same One Twice)",
-    "link": "https://dev.to/jdpg23/watching-eu-public-tenders-with-the-ted-api-and-never-alerting-on-the-same-one-twice-1h8l",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 New React Challenge: OTP Input",
-    "link": "https://dev.to/reactchallenges/new-react-challenge-otp-input-1ld9",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Corporate Offsite Cost Calculator That Doesn't Guess",
-    "link": "https://dev.to/amit_sheoran_c8a49b102659/building-a-corporate-offsite-cost-calculator-that-doesnt-guess-5hfe",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three entries in our Next.js config did nothing, and one was holding production up",
-    "link": "https://dev.to/daniel_pertu/three-entries-in-our-nextjs-config-did-nothing-and-one-was-holding-production-up-4338",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "If Web Dev Tools Were People",
-    "link": "https://dev.to/riponh/if-web-dev-tools-were-people-20mj",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Chose P2P Instead of S3 for My File Transfer Product",
-    "link": "https://dev.to/anirban00537/why-i-chose-p2p-instead-of-s3-for-my-file-transfer-product-3mgo",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4p0m",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebRTC Data Channels for Large File Transfer: What I Learned the Hard Way",
-    "link": "https://dev.to/anirban00537/webrtc-data-channels-for-large-file-transfer-what-i-learned-the-hard-way-2ama",
+    "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+    "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
     "date": "9/23/2026",
     "site": "dev.to"
   },
@@ -96,86 +414,8 @@
     "site": "dev.to"
   },
   {
-    "title": "12 Important Concepts All Software Developers Should Know",
-    "link": "https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nobody left to fix it: measuring dependencies with no maintainer",
-    "link": "https://dev.to/prasadv-depproof/nobody-left-to-fix-it-measuring-dependencies-with-no-maintainer-6d3",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React State vs Server State: Why You Shouldn't Store Everything in useState",
-    "link": "https://dev.to/prince_patel_09/react-state-vs-server-state-why-you-shouldnt-store-everything-in-usestate-19da",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 image upload, crop, and adjustment in one component?",
-    "link": "https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "INP and Partytown: give the main thread back to your users",
-    "link": "https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The One-Line Refactor That Made this Become undefined in Production",
-    "link": "https://dev.to/abhishekdutta619/the-one-line-refactor-that-made-this-become-undefined-in-production-1am2",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Watching EU Public Tenders With the TED API (and Never Alerting on the Same One Twice)",
-    "link": "https://dev.to/jdpg23/watching-eu-public-tenders-with-the-ted-api-and-never-alerting-on-the-same-one-twice-1h8l",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 New React Challenge: OTP Input",
-    "link": "https://dev.to/reactchallenges/new-react-challenge-otp-input-1ld9",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Corporate Offsite Cost Calculator That Doesn't Guess",
-    "link": "https://dev.to/amit_sheoran_c8a49b102659/building-a-corporate-offsite-cost-calculator-that-doesnt-guess-5hfe",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three entries in our Next.js config did nothing, and one was holding production up",
-    "link": "https://dev.to/daniel_pertu/three-entries-in-our-nextjs-config-did-nothing-and-one-was-holding-production-up-4338",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "If Web Dev Tools Were People",
-    "link": "https://dev.to/riponh/if-web-dev-tools-were-people-20mj",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Chose P2P Instead of S3 for My File Transfer Product",
-    "link": "https://dev.to/anirban00537/why-i-chose-p2p-instead-of-s3-for-my-file-transfer-product-3mgo",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4p0m",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebRTC Data Channels for Large File Transfer: What I Learned the Hard Way",
-    "link": "https://dev.to/anirban00537/webrtc-data-channels-for-large-file-transfer-what-i-learned-the-hard-way-2ama",
+    "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+    "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
     "date": "9/23/2026",
     "site": "dev.to"
   },
@@ -186,86 +426,8 @@
     "site": "dev.to"
   },
   {
-    "title": "12 Important Concepts All Software Developers Should Know",
-    "link": "https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nobody left to fix it: measuring dependencies with no maintainer",
-    "link": "https://dev.to/prasadv-depproof/nobody-left-to-fix-it-measuring-dependencies-with-no-maintainer-6d3",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React State vs Server State: Why You Shouldn't Store Everything in useState",
-    "link": "https://dev.to/prince_patel_09/react-state-vs-server-state-why-you-shouldnt-store-everything-in-usestate-19da",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 image upload, crop, and adjustment in one component?",
-    "link": "https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "INP and Partytown: give the main thread back to your users",
-    "link": "https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The One-Line Refactor That Made this Become undefined in Production",
-    "link": "https://dev.to/abhishekdutta619/the-one-line-refactor-that-made-this-become-undefined-in-production-1am2",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Watching EU Public Tenders With the TED API (and Never Alerting on the Same One Twice)",
-    "link": "https://dev.to/jdpg23/watching-eu-public-tenders-with-the-ted-api-and-never-alerting-on-the-same-one-twice-1h8l",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 New React Challenge: OTP Input",
-    "link": "https://dev.to/reactchallenges/new-react-challenge-otp-input-1ld9",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Corporate Offsite Cost Calculator That Doesn't Guess",
-    "link": "https://dev.to/amit_sheoran_c8a49b102659/building-a-corporate-offsite-cost-calculator-that-doesnt-guess-5hfe",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three entries in our Next.js config did nothing, and one was holding production up",
-    "link": "https://dev.to/daniel_pertu/three-entries-in-our-nextjs-config-did-nothing-and-one-was-holding-production-up-4338",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "If Web Dev Tools Were People",
-    "link": "https://dev.to/riponh/if-web-dev-tools-were-people-20mj",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Chose P2P Instead of S3 for My File Transfer Product",
-    "link": "https://dev.to/anirban00537/why-i-chose-p2p-instead-of-s3-for-my-file-transfer-product-3mgo",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4p0m",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebRTC Data Channels for Large File Transfer: What I Learned the Hard Way",
-    "link": "https://dev.to/anirban00537/webrtc-data-channels-for-large-file-transfer-what-i-learned-the-hard-way-2ama",
+    "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+    "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
     "date": "9/23/2026",
     "site": "dev.to"
   },
@@ -276,176 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "12 Important Concepts All Software Developers Should Know",
-    "link": "https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nobody left to fix it: measuring dependencies with no maintainer",
-    "link": "https://dev.to/prasadv-depproof/nobody-left-to-fix-it-measuring-dependencies-with-no-maintainer-6d3",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React State vs Server State: Why You Shouldn't Store Everything in useState",
-    "link": "https://dev.to/prince_patel_09/react-state-vs-server-state-why-you-shouldnt-store-everything-in-usestate-19da",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 image upload, crop, and adjustment in one component?",
-    "link": "https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "INP and Partytown: give the main thread back to your users",
-    "link": "https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The One-Line Refactor That Made this Become undefined in Production",
-    "link": "https://dev.to/abhishekdutta619/the-one-line-refactor-that-made-this-become-undefined-in-production-1am2",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Watching EU Public Tenders With the TED API (and Never Alerting on the Same One Twice)",
-    "link": "https://dev.to/jdpg23/watching-eu-public-tenders-with-the-ted-api-and-never-alerting-on-the-same-one-twice-1h8l",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 New React Challenge: OTP Input",
-    "link": "https://dev.to/reactchallenges/new-react-challenge-otp-input-1ld9",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Corporate Offsite Cost Calculator That Doesn't Guess",
-    "link": "https://dev.to/amit_sheoran_c8a49b102659/building-a-corporate-offsite-cost-calculator-that-doesnt-guess-5hfe",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three entries in our Next.js config did nothing, and one was holding production up",
-    "link": "https://dev.to/daniel_pertu/three-entries-in-our-nextjs-config-did-nothing-and-one-was-holding-production-up-4338",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "If Web Dev Tools Were People",
-    "link": "https://dev.to/riponh/if-web-dev-tools-were-people-20mj",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Chose P2P Instead of S3 for My File Transfer Product",
-    "link": "https://dev.to/anirban00537/why-i-chose-p2p-instead-of-s3-for-my-file-transfer-product-3mgo",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4p0m",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebRTC Data Channels for Large File Transfer: What I Learned the Hard Way",
-    "link": "https://dev.to/anirban00537/webrtc-data-channels-for-large-file-transfer-what-i-learned-the-hard-way-2ama",
+    "title": "Your Type Guard Can Silently Drift from Your TypeScript Type 🔧",
+    "link": "https://dev.to/nyaomaru/your-type-guard-can-silently-drift-from-your-typescript-type-o57",
     "date": "9/23/2026",
     "site": "dev.to"
   },
   {
     "title": "My OSS Projects: Piral",
     "link": "https://dev.to/florianrappl/my-oss-projects-piral-2856",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "12 Important Concepts All Software Developers Should Know",
-    "link": "https://dev.to/bradtraversy/12-important-concepts-all-software-developers-should-know-1lfj",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Nobody left to fix it: measuring dependencies with no maintainer",
-    "link": "https://dev.to/prasadv-depproof/nobody-left-to-fix-it-measuring-dependencies-with-no-maintainer-6d3",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React State vs Server State: Why You Shouldn't Store Everything in useState",
-    "link": "https://dev.to/prince_patel_09/react-state-vs-server-state-why-you-shouldnt-store-everything-in-usestate-19da",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Vue 3 image upload, crop, and adjustment in one component?",
-    "link": "https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "INP and Partytown: give the main thread back to your users",
-    "link": "https://dev.to/playfulprogramming/inp-and-partytown-give-the-main-thread-back-to-your-users-o9m",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The One-Line Refactor That Made this Become undefined in Production",
-    "link": "https://dev.to/abhishekdutta619/the-one-line-refactor-that-made-this-become-undefined-in-production-1am2",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Watching EU Public Tenders With the TED API (and Never Alerting on the Same One Twice)",
-    "link": "https://dev.to/jdpg23/watching-eu-public-tenders-with-the-ted-api-and-never-alerting-on-the-same-one-twice-1h8l",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🚀 New React Challenge: OTP Input",
-    "link": "https://dev.to/reactchallenges/new-react-challenge-otp-input-1ld9",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Corporate Offsite Cost Calculator That Doesn't Guess",
-    "link": "https://dev.to/amit_sheoran_c8a49b102659/building-a-corporate-offsite-cost-calculator-that-doesnt-guess-5hfe",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Three entries in our Next.js config did nothing, and one was holding production up",
-    "link": "https://dev.to/daniel_pertu/three-entries-in-our-nextjs-config-did-nothing-and-one-was-holding-production-up-4338",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "If Web Dev Tools Were People",
-    "link": "https://dev.to/riponh/if-web-dev-tools-were-people-20mj",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why I Chose P2P Instead of S3 for My File Transfer Product",
-    "link": "https://dev.to/anirban00537/why-i-chose-p2p-instead-of-s3-for-my-file-transfer-product-3mgo",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 59 free browser-based dev tools in vanilla JS — here's what I learned",
-    "link": "https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4p0m",
-    "date": "9/23/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "WebRTC Data Channels for Large File Transfer: What I Learned the Hard Way",
-    "link": "https://dev.to/anirban00537/webrtc-data-channels-for-large-file-transfer-what-i-learned-the-hard-way-2ama",
     "date": "9/23/2026",
     "site": "dev.to"
   },
@@ -466,7 +466,7 @@
   {
     "title": "Moving From Moment.js To The JS Temporal API",
     "link": "https://www.smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "3/13/2026",
     "site": "smashingmagazine"
   },
@@ -508,7 +508,7 @@
   {
     "title": "Building An Offline-Friendly Image Upload System",
     "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "4/23/2025",
     "site": "smashingmagazine"
   },
@@ -536,7 +536,7 @@
   {
     "title": "Regexes Got Good: The History And Future Of Regular Expressions In JavaScript",
     "link": "https://www.smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
-    "reading_time": "16 min read",
+    "reading_time": "15 min read",
     "date": "8/20/2024",
     "site": "smashingmagazine"
   },
@@ -585,7 +585,7 @@
   {
     "title": "The End Of My Gatsby Journey",
     "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "3/6/2024",
     "site": "smashingmagazine"
   },
@@ -599,14 +599,14 @@
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
   {
     "title": "SolidStart: A Different Breed Of Meta-Framework",
     "link": "https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "1/8/2024",
     "site": "smashingmagazine"
   },
@@ -683,7 +683,7 @@
   {
     "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
     "link": "https://www.smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "4/21/2023",
     "site": "smashingmagazine"
   },
@@ -704,7 +704,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
