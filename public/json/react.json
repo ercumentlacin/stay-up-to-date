@@ -1,91 +1,433 @@
 [
   {
+    "title": "How to add a like animation in React (and play it in reverse)",
+    "link": "https://dev.to/romanherenow/how-to-add-a-like-animation-in-react-and-play-it-in-reverse-5b0k",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Interactive SVG Maps in React: Clickable Regions Without a Map Library",
+    "link": "https://dev.to/rushan123/interactive-svg-maps-in-react-clickable-regions-without-a-map-library-29n8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CampusCore v1.0.0: Building an Open-Source Student Management System",
+    "link": "https://dev.to/sanskarcodes/campuscore-v100-building-an-open-source-student-management-system-33l7",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built shipshape-cli: a preflight check for JavaScript and React projects before you ship",
+    "link": "https://dev.to/mhk_sameera/i-built-shipshape-cli-a-preflight-check-for-javascript-and-react-projects-before-you-ship-ia4",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Memoization Techniques: Master useMemo, useCallback, and React.memo",
+    "link": "https://dev.to/ansh_sheladiya/react-memoization-techniques-master-usememo-usecallback-and-reactmemo-fg",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your React Fetch Requests Don't Care That You Left",
+    "link": "https://dev.to/highflyer910/your-react-fetch-requests-dont-care-that-you-left-n2j",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Every Next.js Server Action Is a Public Endpoint, and Your bind(null, id) Is Not Protected",
+    "link": "https://dev.to/anas_sheikh_2/every-nextjs-server-action-is-a-public-endpoint-and-your-bindnull-id-is-not-protected-10bg",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance Debugging: Find and Fix Unnecessary Re-Renders with Real Examples",
+    "link": "https://dev.to/purvisondarva/react-performance-debugging-find-and-fix-unnecessary-re-renders-with-real-examples-57l0",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A background refresh must not move the row under your cursor, so our table renders the snapshot it loaded with",
+    "link": "https://dev.to/daniel_pertu/a-background-refresh-must-not-move-the-row-under-your-cursor-so-our-table-renders-the-snapshot-it-2629",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We cut a scene out of our Remotion reel and slowed the rest to 80%, and two one-line functions kept every cue on its frame",
+    "link": "https://dev.to/daniel_pertu/we-cut-a-scene-out-of-our-remotion-reel-and-slowed-the-rest-to-80-and-two-one-line-functions-kept-1oon",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three icon conventions in one app, and the copy-pasted one is on every sign-in screen",
+    "link": "https://dev.to/daniel_pertu/three-icon-conventions-in-one-app-and-the-copy-pasted-one-is-on-every-sign-in-screen-59dk",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Five ways to say \"wait\" in one Next.js app, and the sign-in form uses none of them",
+    "link": "https://dev.to/daniel_pertu/five-ways-to-say-wait-in-one-nextjs-app-and-the-sign-in-form-uses-none-of-them-29n8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our heaviest animation is a word nobody is meant to read, at 5% opacity, hidden on every phone",
+    "link": "https://dev.to/daniel_pertu/our-heaviest-animation-is-a-word-nobody-is-meant-to-read-at-5-opacity-hidden-on-every-phone-2a5m",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our .env.example documents 19 variables and the app reads 15, and you can read one of them off the live HTML",
+    "link": "https://dev.to/daniel_pertu/our-envexample-documents-19-variables-and-the-app-reads-15-and-you-can-read-one-of-them-off-the-3f14",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to add a like animation in React (and play it in reverse)",
+    "link": "https://dev.to/romanherenow/how-to-add-a-like-animation-in-react-and-play-it-in-reverse-5b0k",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Interactive SVG Maps in React: Clickable Regions Without a Map Library",
+    "link": "https://dev.to/rushan123/interactive-svg-maps-in-react-clickable-regions-without-a-map-library-29n8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CampusCore v1.0.0: Building an Open-Source Student Management System",
+    "link": "https://dev.to/sanskarcodes/campuscore-v100-building-an-open-source-student-management-system-33l7",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built shipshape-cli: a preflight check for JavaScript and React projects before you ship",
+    "link": "https://dev.to/mhk_sameera/i-built-shipshape-cli-a-preflight-check-for-javascript-and-react-projects-before-you-ship-ia4",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Memoization Techniques: Master useMemo, useCallback, and React.memo",
+    "link": "https://dev.to/ansh_sheladiya/react-memoization-techniques-master-usememo-usecallback-and-reactmemo-fg",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your React Fetch Requests Don't Care That You Left",
+    "link": "https://dev.to/highflyer910/your-react-fetch-requests-dont-care-that-you-left-n2j",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Every Next.js Server Action Is a Public Endpoint, and Your bind(null, id) Is Not Protected",
+    "link": "https://dev.to/anas_sheikh_2/every-nextjs-server-action-is-a-public-endpoint-and-your-bindnull-id-is-not-protected-10bg",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance Debugging: Find and Fix Unnecessary Re-Renders with Real Examples",
+    "link": "https://dev.to/purvisondarva/react-performance-debugging-find-and-fix-unnecessary-re-renders-with-real-examples-57l0",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A background refresh must not move the row under your cursor, so our table renders the snapshot it loaded with",
+    "link": "https://dev.to/daniel_pertu/a-background-refresh-must-not-move-the-row-under-your-cursor-so-our-table-renders-the-snapshot-it-2629",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We cut a scene out of our Remotion reel and slowed the rest to 80%, and two one-line functions kept every cue on its frame",
+    "link": "https://dev.to/daniel_pertu/we-cut-a-scene-out-of-our-remotion-reel-and-slowed-the-rest-to-80-and-two-one-line-functions-kept-1oon",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three icon conventions in one app, and the copy-pasted one is on every sign-in screen",
+    "link": "https://dev.to/daniel_pertu/three-icon-conventions-in-one-app-and-the-copy-pasted-one-is-on-every-sign-in-screen-59dk",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Five ways to say \"wait\" in one Next.js app, and the sign-in form uses none of them",
+    "link": "https://dev.to/daniel_pertu/five-ways-to-say-wait-in-one-nextjs-app-and-the-sign-in-form-uses-none-of-them-29n8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our heaviest animation is a word nobody is meant to read, at 5% opacity, hidden on every phone",
+    "link": "https://dev.to/daniel_pertu/our-heaviest-animation-is-a-word-nobody-is-meant-to-read-at-5-opacity-hidden-on-every-phone-2a5m",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our .env.example documents 19 variables and the app reads 15, and you can read one of them off the live HTML",
+    "link": "https://dev.to/daniel_pertu/our-envexample-documents-19-variables-and-the-app-reads-15-and-you-can-read-one-of-them-off-the-3f14",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to add a like animation in React (and play it in reverse)",
+    "link": "https://dev.to/romanherenow/how-to-add-a-like-animation-in-react-and-play-it-in-reverse-5b0k",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Interactive SVG Maps in React: Clickable Regions Without a Map Library",
+    "link": "https://dev.to/rushan123/interactive-svg-maps-in-react-clickable-regions-without-a-map-library-29n8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CampusCore v1.0.0: Building an Open-Source Student Management System",
+    "link": "https://dev.to/sanskarcodes/campuscore-v100-building-an-open-source-student-management-system-33l7",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built shipshape-cli: a preflight check for JavaScript and React projects before you ship",
+    "link": "https://dev.to/mhk_sameera/i-built-shipshape-cli-a-preflight-check-for-javascript-and-react-projects-before-you-ship-ia4",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Memoization Techniques: Master useMemo, useCallback, and React.memo",
+    "link": "https://dev.to/ansh_sheladiya/react-memoization-techniques-master-usememo-usecallback-and-reactmemo-fg",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your React Fetch Requests Don't Care That You Left",
+    "link": "https://dev.to/highflyer910/your-react-fetch-requests-dont-care-that-you-left-n2j",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Every Next.js Server Action Is a Public Endpoint, and Your bind(null, id) Is Not Protected",
+    "link": "https://dev.to/anas_sheikh_2/every-nextjs-server-action-is-a-public-endpoint-and-your-bindnull-id-is-not-protected-10bg",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance Debugging: Find and Fix Unnecessary Re-Renders with Real Examples",
+    "link": "https://dev.to/purvisondarva/react-performance-debugging-find-and-fix-unnecessary-re-renders-with-real-examples-57l0",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A background refresh must not move the row under your cursor, so our table renders the snapshot it loaded with",
+    "link": "https://dev.to/daniel_pertu/a-background-refresh-must-not-move-the-row-under-your-cursor-so-our-table-renders-the-snapshot-it-2629",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We cut a scene out of our Remotion reel and slowed the rest to 80%, and two one-line functions kept every cue on its frame",
+    "link": "https://dev.to/daniel_pertu/we-cut-a-scene-out-of-our-remotion-reel-and-slowed-the-rest-to-80-and-two-one-line-functions-kept-1oon",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three icon conventions in one app, and the copy-pasted one is on every sign-in screen",
+    "link": "https://dev.to/daniel_pertu/three-icon-conventions-in-one-app-and-the-copy-pasted-one-is-on-every-sign-in-screen-59dk",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Five ways to say \"wait\" in one Next.js app, and the sign-in form uses none of them",
+    "link": "https://dev.to/daniel_pertu/five-ways-to-say-wait-in-one-nextjs-app-and-the-sign-in-form-uses-none-of-them-29n8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our heaviest animation is a word nobody is meant to read, at 5% opacity, hidden on every phone",
+    "link": "https://dev.to/daniel_pertu/our-heaviest-animation-is-a-word-nobody-is-meant-to-read-at-5-opacity-hidden-on-every-phone-2a5m",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our .env.example documents 19 variables and the app reads 15, and you can read one of them off the live HTML",
+    "link": "https://dev.to/daniel_pertu/our-envexample-documents-19-variables-and-the-app-reads-15-and-you-can-read-one-of-them-off-the-3f14",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to add a like animation in React (and play it in reverse)",
+    "link": "https://dev.to/romanherenow/how-to-add-a-like-animation-in-react-and-play-it-in-reverse-5b0k",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Interactive SVG Maps in React: Clickable Regions Without a Map Library",
+    "link": "https://dev.to/rushan123/interactive-svg-maps-in-react-clickable-regions-without-a-map-library-29n8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CampusCore v1.0.0: Building an Open-Source Student Management System",
+    "link": "https://dev.to/sanskarcodes/campuscore-v100-building-an-open-source-student-management-system-33l7",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built shipshape-cli: a preflight check for JavaScript and React projects before you ship",
+    "link": "https://dev.to/mhk_sameera/i-built-shipshape-cli-a-preflight-check-for-javascript-and-react-projects-before-you-ship-ia4",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Memoization Techniques: Master useMemo, useCallback, and React.memo",
+    "link": "https://dev.to/ansh_sheladiya/react-memoization-techniques-master-usememo-usecallback-and-reactmemo-fg",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your React Fetch Requests Don't Care That You Left",
+    "link": "https://dev.to/highflyer910/your-react-fetch-requests-dont-care-that-you-left-n2j",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Every Next.js Server Action Is a Public Endpoint, and Your bind(null, id) Is Not Protected",
+    "link": "https://dev.to/anas_sheikh_2/every-nextjs-server-action-is-a-public-endpoint-and-your-bindnull-id-is-not-protected-10bg",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance Debugging: Find and Fix Unnecessary Re-Renders with Real Examples",
+    "link": "https://dev.to/purvisondarva/react-performance-debugging-find-and-fix-unnecessary-re-renders-with-real-examples-57l0",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A background refresh must not move the row under your cursor, so our table renders the snapshot it loaded with",
+    "link": "https://dev.to/daniel_pertu/a-background-refresh-must-not-move-the-row-under-your-cursor-so-our-table-renders-the-snapshot-it-2629",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We cut a scene out of our Remotion reel and slowed the rest to 80%, and two one-line functions kept every cue on its frame",
+    "link": "https://dev.to/daniel_pertu/we-cut-a-scene-out-of-our-remotion-reel-and-slowed-the-rest-to-80-and-two-one-line-functions-kept-1oon",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three icon conventions in one app, and the copy-pasted one is on every sign-in screen",
+    "link": "https://dev.to/daniel_pertu/three-icon-conventions-in-one-app-and-the-copy-pasted-one-is-on-every-sign-in-screen-59dk",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Five ways to say \"wait\" in one Next.js app, and the sign-in form uses none of them",
+    "link": "https://dev.to/daniel_pertu/five-ways-to-say-wait-in-one-nextjs-app-and-the-sign-in-form-uses-none-of-them-29n8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our heaviest animation is a word nobody is meant to read, at 5% opacity, hidden on every phone",
+    "link": "https://dev.to/daniel_pertu/our-heaviest-animation-is-a-word-nobody-is-meant-to-read-at-5-opacity-hidden-on-every-phone-2a5m",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our .env.example documents 19 variables and the app reads 15, and you can read one of them off the live HTML",
+    "link": "https://dev.to/daniel_pertu/our-envexample-documents-19-variables-and-the-app-reads-15-and-you-can-read-one-of-them-off-the-3f14",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to add a like animation in React (and play it in reverse)",
+    "link": "https://dev.to/romanherenow/how-to-add-a-like-animation-in-react-and-play-it-in-reverse-5b0k",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Interactive SVG Maps in React: Clickable Regions Without a Map Library",
+    "link": "https://dev.to/rushan123/interactive-svg-maps-in-react-clickable-regions-without-a-map-library-29n8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CampusCore v1.0.0: Building an Open-Source Student Management System",
+    "link": "https://dev.to/sanskarcodes/campuscore-v100-building-an-open-source-student-management-system-33l7",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built shipshape-cli: a preflight check for JavaScript and React projects before you ship",
+    "link": "https://dev.to/mhk_sameera/i-built-shipshape-cli-a-preflight-check-for-javascript-and-react-projects-before-you-ship-ia4",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Memoization Techniques: Master useMemo, useCallback, and React.memo",
+    "link": "https://dev.to/ansh_sheladiya/react-memoization-techniques-master-usememo-usecallback-and-reactmemo-fg",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your React Fetch Requests Don't Care That You Left",
+    "link": "https://dev.to/highflyer910/your-react-fetch-requests-dont-care-that-you-left-n2j",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Every Next.js Server Action Is a Public Endpoint, and Your bind(null, id) Is Not Protected",
+    "link": "https://dev.to/anas_sheikh_2/every-nextjs-server-action-is-a-public-endpoint-and-your-bindnull-id-is-not-protected-10bg",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "React Performance Debugging: Find and Fix Unnecessary Re-Renders with Real Examples",
+    "link": "https://dev.to/purvisondarva/react-performance-debugging-find-and-fix-unnecessary-re-renders-with-real-examples-57l0",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A background refresh must not move the row under your cursor, so our table renders the snapshot it loaded with",
+    "link": "https://dev.to/daniel_pertu/a-background-refresh-must-not-move-the-row-under-your-cursor-so-our-table-renders-the-snapshot-it-2629",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "We cut a scene out of our Remotion reel and slowed the rest to 80%, and two one-line functions kept every cue on its frame",
+    "link": "https://dev.to/daniel_pertu/we-cut-a-scene-out-of-our-remotion-reel-and-slowed-the-rest-to-80-and-two-one-line-functions-kept-1oon",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Three icon conventions in one app, and the copy-pasted one is on every sign-in screen",
+    "link": "https://dev.to/daniel_pertu/three-icon-conventions-in-one-app-and-the-copy-pasted-one-is-on-every-sign-in-screen-59dk",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Five ways to say \"wait\" in one Next.js app, and the sign-in form uses none of them",
+    "link": "https://dev.to/daniel_pertu/five-ways-to-say-wait-in-one-nextjs-app-and-the-sign-in-form-uses-none-of-them-29n8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our heaviest animation is a word nobody is meant to read, at 5% opacity, hidden on every phone",
+    "link": "https://dev.to/daniel_pertu/our-heaviest-animation-is-a-word-nobody-is-meant-to-read-at-5-opacity-hidden-on-every-phone-2a5m",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our .env.example documents 19 variables and the app reads 15, and you can read one of them off the live HTML",
+    "link": "https://dev.to/daniel_pertu/our-envexample-documents-19-variables-and-the-app-reads-15-and-you-can-read-one-of-them-off-the-3f14",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
     "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
     "date": "10/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-    "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Most \"WBS tools\" are secretly Gantt editors — I built a board for real Work Breakdown Structures",
-    "link": "https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Farmora: my Next.js shop stalled up to 6s a page, so I made it local-first",
-    "link": "https://dev.to/ehan_siddique/farmora-my-nextjs-shop-stalled-up-to-6s-a-page-so-i-made-it-local-first-3h9o",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Architecture Patterns: A Practical Guide with JavaScript Examples",
-    "link": "https://dev.to/ansh_sheladiya/react-architecture-patterns-a-practical-guide-with-javascript-examples-280i",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a sales report your users can rearrange, with a React pivot table",
-    "link": "https://dev.to/kanunilabs/how-to-build-a-sales-report-your-users-can-rearrange-with-a-react-pivot-table-16bm",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping shareable poll results with Next.js ImageResponse",
-    "link": "https://dev.to/joancomadran/shipping-shareable-poll-results-with-nextjs-imageresponse-2kji",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An 11-Week React Roadmap: What to Build Before 2026 Ends",
-    "link": "https://dev.to/shreysaraswatweb/an-11-week-react-roadmap-what-to-build-before-2026-ends-2a7g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expo in 2026: what's new, and how it compares to Xcode and Android Studio",
-    "link": "https://dev.to/muchassak/expo-in-2026-whats-new-and-how-it-compares-to-xcode-and-android-studio-8be",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a site with 50 browser games — here are 3 things I learned the hard way",
-    "link": "https://dev.to/weiliping/i-built-a-site-with-50-browser-games-here-are-3-things-i-learned-the-hard-way-1j6g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Friction, Real-Time Planning Poker App with Next.js and WebSockets",
-    "link": "https://dev.to/geekecia/building-a-zero-friction-real-time-planning-poker-app-with-nextjs-and-websockets-2a0k",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Startup as a Teen Founder—The Raw, Unfiltered Reality",
-    "link": "https://dev.to/aayan_shikalgar_de22e40a5/building-a-startup-as-a-teen-founder-the-raw-unfiltered-reality-1ofi",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React State Management Techniques: A Practical Guide with Examples",
-    "link": "https://dev.to/ansh_sheladiya/react-state-management-techniques-a-practical-guide-with-examples-5hj6",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A purchase intent has to survive a round trip through Google, so ours rides in a query parameter that deletes itself on arrival",
-    "link": "https://dev.to/daniel_pertu/a-purchase-intent-has-to-survive-a-round-trip-through-google-so-ours-rides-in-a-query-parameter-2788",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A prefetch of our pricing page is a different URL, and our auth check nearly sent it to the login page",
-    "link": "https://dev.to/daniel_pertu/a-prefetch-of-our-pricing-page-is-a-different-url-and-our-auth-check-nearly-sent-it-to-the-login-2hb1",
+    "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
+    "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
     "date": "10/14/2026",
     "site": "dev.to"
   },
@@ -96,356 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-    "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Most \"WBS tools\" are secretly Gantt editors — I built a board for real Work Breakdown Structures",
-    "link": "https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Farmora: my Next.js shop stalled up to 6s a page, so I made it local-first",
-    "link": "https://dev.to/ehan_siddique/farmora-my-nextjs-shop-stalled-up-to-6s-a-page-so-i-made-it-local-first-3h9o",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Architecture Patterns: A Practical Guide with JavaScript Examples",
-    "link": "https://dev.to/ansh_sheladiya/react-architecture-patterns-a-practical-guide-with-javascript-examples-280i",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a sales report your users can rearrange, with a React pivot table",
-    "link": "https://dev.to/kanunilabs/how-to-build-a-sales-report-your-users-can-rearrange-with-a-react-pivot-table-16bm",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping shareable poll results with Next.js ImageResponse",
-    "link": "https://dev.to/joancomadran/shipping-shareable-poll-results-with-nextjs-imageresponse-2kji",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An 11-Week React Roadmap: What to Build Before 2026 Ends",
-    "link": "https://dev.to/shreysaraswatweb/an-11-week-react-roadmap-what-to-build-before-2026-ends-2a7g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expo in 2026: what's new, and how it compares to Xcode and Android Studio",
-    "link": "https://dev.to/muchassak/expo-in-2026-whats-new-and-how-it-compares-to-xcode-and-android-studio-8be",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a site with 50 browser games — here are 3 things I learned the hard way",
-    "link": "https://dev.to/weiliping/i-built-a-site-with-50-browser-games-here-are-3-things-i-learned-the-hard-way-1j6g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Friction, Real-Time Planning Poker App with Next.js and WebSockets",
-    "link": "https://dev.to/geekecia/building-a-zero-friction-real-time-planning-poker-app-with-nextjs-and-websockets-2a0k",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Startup as a Teen Founder—The Raw, Unfiltered Reality",
-    "link": "https://dev.to/aayan_shikalgar_de22e40a5/building-a-startup-as-a-teen-founder-the-raw-unfiltered-reality-1ofi",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React State Management Techniques: A Practical Guide with Examples",
-    "link": "https://dev.to/ansh_sheladiya/react-state-management-techniques-a-practical-guide-with-examples-5hj6",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A purchase intent has to survive a round trip through Google, so ours rides in a query parameter that deletes itself on arrival",
-    "link": "https://dev.to/daniel_pertu/a-purchase-intent-has-to-survive-a-round-trip-through-google-so-ours-rides-in-a-query-parameter-2788",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A prefetch of our pricing page is a different URL, and our auth check nearly sent it to the login page",
-    "link": "https://dev.to/daniel_pertu/a-prefetch-of-our-pricing-page-is-a-different-url-and-our-auth-check-nearly-sent-it-to-the-login-2hb1",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
     "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
     "date": "10/14/2026",
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-    "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Most \"WBS tools\" are secretly Gantt editors — I built a board for real Work Breakdown Structures",
-    "link": "https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Farmora: my Next.js shop stalled up to 6s a page, so I made it local-first",
-    "link": "https://dev.to/ehan_siddique/farmora-my-nextjs-shop-stalled-up-to-6s-a-page-so-i-made-it-local-first-3h9o",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Architecture Patterns: A Practical Guide with JavaScript Examples",
-    "link": "https://dev.to/ansh_sheladiya/react-architecture-patterns-a-practical-guide-with-javascript-examples-280i",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a sales report your users can rearrange, with a React pivot table",
-    "link": "https://dev.to/kanunilabs/how-to-build-a-sales-report-your-users-can-rearrange-with-a-react-pivot-table-16bm",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping shareable poll results with Next.js ImageResponse",
-    "link": "https://dev.to/joancomadran/shipping-shareable-poll-results-with-nextjs-imageresponse-2kji",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An 11-Week React Roadmap: What to Build Before 2026 Ends",
-    "link": "https://dev.to/shreysaraswatweb/an-11-week-react-roadmap-what-to-build-before-2026-ends-2a7g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expo in 2026: what's new, and how it compares to Xcode and Android Studio",
-    "link": "https://dev.to/muchassak/expo-in-2026-whats-new-and-how-it-compares-to-xcode-and-android-studio-8be",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a site with 50 browser games — here are 3 things I learned the hard way",
-    "link": "https://dev.to/weiliping/i-built-a-site-with-50-browser-games-here-are-3-things-i-learned-the-hard-way-1j6g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Friction, Real-Time Planning Poker App with Next.js and WebSockets",
-    "link": "https://dev.to/geekecia/building-a-zero-friction-real-time-planning-poker-app-with-nextjs-and-websockets-2a0k",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Startup as a Teen Founder—The Raw, Unfiltered Reality",
-    "link": "https://dev.to/aayan_shikalgar_de22e40a5/building-a-startup-as-a-teen-founder-the-raw-unfiltered-reality-1ofi",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React State Management Techniques: A Practical Guide with Examples",
-    "link": "https://dev.to/ansh_sheladiya/react-state-management-techniques-a-practical-guide-with-examples-5hj6",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A purchase intent has to survive a round trip through Google, so ours rides in a query parameter that deletes itself on arrival",
-    "link": "https://dev.to/daniel_pertu/a-purchase-intent-has-to-survive-a-round-trip-through-google-so-ours-rides-in-a-query-parameter-2788",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A prefetch of our pricing page is a different URL, and our auth check nearly sent it to the login page",
-    "link": "https://dev.to/daniel_pertu/a-prefetch-of-our-pricing-page-is-a-different-url-and-our-auth-check-nearly-sent-it-to-the-login-2hb1",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
     "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-    "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Most \"WBS tools\" are secretly Gantt editors — I built a board for real Work Breakdown Structures",
-    "link": "https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Farmora: my Next.js shop stalled up to 6s a page, so I made it local-first",
-    "link": "https://dev.to/ehan_siddique/farmora-my-nextjs-shop-stalled-up-to-6s-a-page-so-i-made-it-local-first-3h9o",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Architecture Patterns: A Practical Guide with JavaScript Examples",
-    "link": "https://dev.to/ansh_sheladiya/react-architecture-patterns-a-practical-guide-with-javascript-examples-280i",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a sales report your users can rearrange, with a React pivot table",
-    "link": "https://dev.to/kanunilabs/how-to-build-a-sales-report-your-users-can-rearrange-with-a-react-pivot-table-16bm",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping shareable poll results with Next.js ImageResponse",
-    "link": "https://dev.to/joancomadran/shipping-shareable-poll-results-with-nextjs-imageresponse-2kji",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An 11-Week React Roadmap: What to Build Before 2026 Ends",
-    "link": "https://dev.to/shreysaraswatweb/an-11-week-react-roadmap-what-to-build-before-2026-ends-2a7g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expo in 2026: what's new, and how it compares to Xcode and Android Studio",
-    "link": "https://dev.to/muchassak/expo-in-2026-whats-new-and-how-it-compares-to-xcode-and-android-studio-8be",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a site with 50 browser games — here are 3 things I learned the hard way",
-    "link": "https://dev.to/weiliping/i-built-a-site-with-50-browser-games-here-are-3-things-i-learned-the-hard-way-1j6g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Friction, Real-Time Planning Poker App with Next.js and WebSockets",
-    "link": "https://dev.to/geekecia/building-a-zero-friction-real-time-planning-poker-app-with-nextjs-and-websockets-2a0k",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Startup as a Teen Founder—The Raw, Unfiltered Reality",
-    "link": "https://dev.to/aayan_shikalgar_de22e40a5/building-a-startup-as-a-teen-founder-the-raw-unfiltered-reality-1ofi",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React State Management Techniques: A Practical Guide with Examples",
-    "link": "https://dev.to/ansh_sheladiya/react-state-management-techniques-a-practical-guide-with-examples-5hj6",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A purchase intent has to survive a round trip through Google, so ours rides in a query parameter that deletes itself on arrival",
-    "link": "https://dev.to/daniel_pertu/a-purchase-intent-has-to-survive-a-round-trip-through-google-so-ours-rides-in-a-query-parameter-2788",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A prefetch of our pricing page is a different URL, and our auth check nearly sent it to the login page",
-    "link": "https://dev.to/daniel_pertu/a-prefetch-of-our-pricing-page-is-a-different-url-and-our-auth-check-nearly-sent-it-to-the-login-2hb1",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-    "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-    "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Most \"WBS tools\" are secretly Gantt editors — I built a board for real Work Breakdown Structures",
-    "link": "https://dev.to/cuculhart/most-wbs-tools-are-secretly-gantt-editors-i-built-a-board-for-real-work-breakdown-structures-3id",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Farmora: my Next.js shop stalled up to 6s a page, so I made it local-first",
-    "link": "https://dev.to/ehan_siddique/farmora-my-nextjs-shop-stalled-up-to-6s-a-page-so-i-made-it-local-first-3h9o",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React Architecture Patterns: A Practical Guide with JavaScript Examples",
-    "link": "https://dev.to/ansh_sheladiya/react-architecture-patterns-a-practical-guide-with-javascript-examples-280i",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How to build a sales report your users can rearrange, with a React pivot table",
-    "link": "https://dev.to/kanunilabs/how-to-build-a-sales-report-your-users-can-rearrange-with-a-react-pivot-table-16bm",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shipping shareable poll results with Next.js ImageResponse",
-    "link": "https://dev.to/joancomadran/shipping-shareable-poll-results-with-nextjs-imageresponse-2kji",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An 11-Week React Roadmap: What to Build Before 2026 Ends",
-    "link": "https://dev.to/shreysaraswatweb/an-11-week-react-roadmap-what-to-build-before-2026-ends-2a7g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Expo in 2026: what's new, and how it compares to Xcode and Android Studio",
-    "link": "https://dev.to/muchassak/expo-in-2026-whats-new-and-how-it-compares-to-xcode-and-android-studio-8be",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a site with 50 browser games — here are 3 things I learned the hard way",
-    "link": "https://dev.to/weiliping/i-built-a-site-with-50-browser-games-here-are-3-things-i-learned-the-hard-way-1j6g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Friction, Real-Time Planning Poker App with Next.js and WebSockets",
-    "link": "https://dev.to/geekecia/building-a-zero-friction-real-time-planning-poker-app-with-nextjs-and-websockets-2a0k",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Startup as a Teen Founder—The Raw, Unfiltered Reality",
-    "link": "https://dev.to/aayan_shikalgar_de22e40a5/building-a-startup-as-a-teen-founder-the-raw-unfiltered-reality-1ofi",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "React State Management Techniques: A Practical Guide with Examples",
-    "link": "https://dev.to/ansh_sheladiya/react-state-management-techniques-a-practical-guide-with-examples-5hj6",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A purchase intent has to survive a round trip through Google, so ours rides in a query parameter that deletes itself on arrival",
-    "link": "https://dev.to/daniel_pertu/a-purchase-intent-has-to-survive-a-round-trip-through-google-so-ours-rides-in-a-query-parameter-2788",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A prefetch of our pricing page is a different URL, and our auth check nearly sent it to the login page",
-    "link": "https://dev.to/daniel_pertu/a-prefetch-of-our-pricing-page-is-a-different-url-and-our-auth-check-nearly-sent-it-to-the-login-2hb1",
     "date": "10/14/2026",
     "site": "dev.to"
   },
@@ -585,7 +585,7 @@
   {
     "title": "Migration From jQuery to Next.js: A Guide",
     "link": "https://www.smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "8/3/2022",
     "site": "smashingmagazine"
   },
@@ -599,14 +599,14 @@
   {
     "title": "Remix Routes Demystified",
     "link": "https://www.smashingmagazine.com/2022/03/remix-routes-demystified/",
-    "reading_time": "13 min read",
+    "reading_time": "14 min read",
     "date": "3/25/2022",
     "site": "smashingmagazine"
   },
   {
     "title": "A Guide To Audio Visualization With JavaScript And GSAP (Part 2)",
     "link": "https://www.smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
-    "reading_time": "21 min read",
+    "reading_time": "22 min read",
     "date": "3/9/2022",
     "site": "smashingmagazine"
   },
@@ -683,7 +683,7 @@
   {
     "title": "Optimizing Next.js Applications With Nx",
     "link": "https://www.smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
-    "reading_time": "14 min read",
+    "reading_time": "13 min read",
     "date": "10/26/2021",
     "site": "smashingmagazine"
   },
@@ -746,7 +746,7 @@
   {
     "title": "Client-Side Routing In Next.js",
     "link": "https://www.smashingmagazine.com/2021/06/client-side-routing-next-js/",
-    "reading_time": "17 min read",
+    "reading_time": "18 min read",
     "date": "6/18/2021",
     "site": "smashingmagazine"
   },

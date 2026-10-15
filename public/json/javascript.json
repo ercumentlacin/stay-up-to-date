@@ -1,13 +1,367 @@
 [
   {
-    "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-    "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-    "date": "10/14/2026",
+    "title": "TypeScript `ReadonlyMap` and `ReadonlySet` in 2026: Immutable Collections That Stop Accidental Mutation at the Type Level",
+    "link": "https://dev.to/jsmanifest/typescript-readonlymap-and-readonlyset-in-2026-immutable-collections-that-stop-accidental-2ida",
+    "date": "10/15/2026",
     "site": "dev.to"
   },
   {
-    "title": "My OSS Projects: Picard.js",
-    "link": "https://dev.to/florianrappl/my-oss-projects-picardjs-1f48",
+    "title": "Keeping declarativeNetRequest rules in sync after a Manifest V3 service worker restarts",
+    "link": "https://dev.to/parmarth-kumar/keeping-declarativenetrequest-rules-in-sync-after-a-manifest-v3-service-worker-restarts-4hal",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your .env hit git. Here's how I keep secrets on a VPS",
+    "link": "https://dev.to/amorizz/your-env-hit-git-heres-how-i-keep-secrets-on-a-vps-3hae",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why collapsible tab headers jump in React Native (and how to fix it)",
+    "link": "https://dev.to/scanner/why-collapsible-tab-headers-jump-in-react-native-and-how-to-fix-it-5d4f",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I chi-square tested my physics dice, found a bias with five dice, and fixed it (three.js + cannon-es)",
+    "link": "https://dev.to/3droll/i-chi-square-tested-my-physics-dice-found-a-bias-with-five-dice-and-fixed-it-threejs--53a6",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When Does Claude Code Check the Web? I Logged My Sessions to Find Out",
+    "link": "https://dev.to/vadim_albarov/when-does-claude-code-check-the-web-i-logged-my-sessions-to-find-out-3ki8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stripping EXIF and GPS from photos in the browser, losslessly, in ~500 lines of vanilla JS",
+    "link": "https://dev.to/amjad_khan_3752d036cd1d58/stripping-exif-and-gps-from-photos-in-the-browser-losslessly-in-500-lines-of-vanilla-js-ll4",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Basecamp's Home Page Gave Me Two Valid Phone Numbers. Both Were Calendar Day Numbers",
+    "link": "https://dev.to/nikita_iakovlev_415524c19/basecamps-home-page-gave-me-two-valid-phone-numbers-both-were-calendar-day-numbers-oj3",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a niche job board from company ATS feeds (Greenhouse, Lever, Ashby & Workday)",
+    "link": "https://dev.to/rjmacarthy/build-a-niche-job-board-from-company-ats-feeds-greenhouse-lever-ashby-workday-2fi1",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a DSH Plugin That Renders SPAs and Logged-In Pages for web_fetch",
+    "link": "https://dev.to/wac0623/i-built-a-dsh-plugin-that-renders-spas-and-logged-in-pages-for-webfetch-56h",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your rebuild will drop URLs. Google will tell you in six weeks.",
+    "link": "https://dev.to/manojsethi/your-rebuild-will-drop-urls-google-will-tell-you-in-six-weeks-92b",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a white-label crystal bracelet builder with vanilla JS, PHP and zero database",
+    "link": "https://dev.to/spiritrackingarch/building-a-white-label-crystal-bracelet-builder-with-vanilla-js-php-and-zero-database-172k",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `ReadonlyMap` and `ReadonlySet` in 2026: Immutable Collections That Stop Accidental Mutation at the Type Level",
+    "link": "https://dev.to/jsmanifest/typescript-readonlymap-and-readonlyset-in-2026-immutable-collections-that-stop-accidental-2ida",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keeping declarativeNetRequest rules in sync after a Manifest V3 service worker restarts",
+    "link": "https://dev.to/parmarth-kumar/keeping-declarativenetrequest-rules-in-sync-after-a-manifest-v3-service-worker-restarts-4hal",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your .env hit git. Here's how I keep secrets on a VPS",
+    "link": "https://dev.to/amorizz/your-env-hit-git-heres-how-i-keep-secrets-on-a-vps-3hae",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why collapsible tab headers jump in React Native (and how to fix it)",
+    "link": "https://dev.to/scanner/why-collapsible-tab-headers-jump-in-react-native-and-how-to-fix-it-5d4f",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I chi-square tested my physics dice, found a bias with five dice, and fixed it (three.js + cannon-es)",
+    "link": "https://dev.to/3droll/i-chi-square-tested-my-physics-dice-found-a-bias-with-five-dice-and-fixed-it-threejs--53a6",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When Does Claude Code Check the Web? I Logged My Sessions to Find Out",
+    "link": "https://dev.to/vadim_albarov/when-does-claude-code-check-the-web-i-logged-my-sessions-to-find-out-3ki8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stripping EXIF and GPS from photos in the browser, losslessly, in ~500 lines of vanilla JS",
+    "link": "https://dev.to/amjad_khan_3752d036cd1d58/stripping-exif-and-gps-from-photos-in-the-browser-losslessly-in-500-lines-of-vanilla-js-ll4",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Basecamp's Home Page Gave Me Two Valid Phone Numbers. Both Were Calendar Day Numbers",
+    "link": "https://dev.to/nikita_iakovlev_415524c19/basecamps-home-page-gave-me-two-valid-phone-numbers-both-were-calendar-day-numbers-oj3",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a niche job board from company ATS feeds (Greenhouse, Lever, Ashby & Workday)",
+    "link": "https://dev.to/rjmacarthy/build-a-niche-job-board-from-company-ats-feeds-greenhouse-lever-ashby-workday-2fi1",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a DSH Plugin That Renders SPAs and Logged-In Pages for web_fetch",
+    "link": "https://dev.to/wac0623/i-built-a-dsh-plugin-that-renders-spas-and-logged-in-pages-for-webfetch-56h",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your rebuild will drop URLs. Google will tell you in six weeks.",
+    "link": "https://dev.to/manojsethi/your-rebuild-will-drop-urls-google-will-tell-you-in-six-weeks-92b",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a white-label crystal bracelet builder with vanilla JS, PHP and zero database",
+    "link": "https://dev.to/spiritrackingarch/building-a-white-label-crystal-bracelet-builder-with-vanilla-js-php-and-zero-database-172k",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `ReadonlyMap` and `ReadonlySet` in 2026: Immutable Collections That Stop Accidental Mutation at the Type Level",
+    "link": "https://dev.to/jsmanifest/typescript-readonlymap-and-readonlyset-in-2026-immutable-collections-that-stop-accidental-2ida",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keeping declarativeNetRequest rules in sync after a Manifest V3 service worker restarts",
+    "link": "https://dev.to/parmarth-kumar/keeping-declarativenetrequest-rules-in-sync-after-a-manifest-v3-service-worker-restarts-4hal",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your .env hit git. Here's how I keep secrets on a VPS",
+    "link": "https://dev.to/amorizz/your-env-hit-git-heres-how-i-keep-secrets-on-a-vps-3hae",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why collapsible tab headers jump in React Native (and how to fix it)",
+    "link": "https://dev.to/scanner/why-collapsible-tab-headers-jump-in-react-native-and-how-to-fix-it-5d4f",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I chi-square tested my physics dice, found a bias with five dice, and fixed it (three.js + cannon-es)",
+    "link": "https://dev.to/3droll/i-chi-square-tested-my-physics-dice-found-a-bias-with-five-dice-and-fixed-it-threejs--53a6",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When Does Claude Code Check the Web? I Logged My Sessions to Find Out",
+    "link": "https://dev.to/vadim_albarov/when-does-claude-code-check-the-web-i-logged-my-sessions-to-find-out-3ki8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stripping EXIF and GPS from photos in the browser, losslessly, in ~500 lines of vanilla JS",
+    "link": "https://dev.to/amjad_khan_3752d036cd1d58/stripping-exif-and-gps-from-photos-in-the-browser-losslessly-in-500-lines-of-vanilla-js-ll4",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Basecamp's Home Page Gave Me Two Valid Phone Numbers. Both Were Calendar Day Numbers",
+    "link": "https://dev.to/nikita_iakovlev_415524c19/basecamps-home-page-gave-me-two-valid-phone-numbers-both-were-calendar-day-numbers-oj3",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a niche job board from company ATS feeds (Greenhouse, Lever, Ashby & Workday)",
+    "link": "https://dev.to/rjmacarthy/build-a-niche-job-board-from-company-ats-feeds-greenhouse-lever-ashby-workday-2fi1",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a DSH Plugin That Renders SPAs and Logged-In Pages for web_fetch",
+    "link": "https://dev.to/wac0623/i-built-a-dsh-plugin-that-renders-spas-and-logged-in-pages-for-webfetch-56h",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your rebuild will drop URLs. Google will tell you in six weeks.",
+    "link": "https://dev.to/manojsethi/your-rebuild-will-drop-urls-google-will-tell-you-in-six-weeks-92b",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a white-label crystal bracelet builder with vanilla JS, PHP and zero database",
+    "link": "https://dev.to/spiritrackingarch/building-a-white-label-crystal-bracelet-builder-with-vanilla-js-php-and-zero-database-172k",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `ReadonlyMap` and `ReadonlySet` in 2026: Immutable Collections That Stop Accidental Mutation at the Type Level",
+    "link": "https://dev.to/jsmanifest/typescript-readonlymap-and-readonlyset-in-2026-immutable-collections-that-stop-accidental-2ida",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keeping declarativeNetRequest rules in sync after a Manifest V3 service worker restarts",
+    "link": "https://dev.to/parmarth-kumar/keeping-declarativenetrequest-rules-in-sync-after-a-manifest-v3-service-worker-restarts-4hal",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your .env hit git. Here's how I keep secrets on a VPS",
+    "link": "https://dev.to/amorizz/your-env-hit-git-heres-how-i-keep-secrets-on-a-vps-3hae",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why collapsible tab headers jump in React Native (and how to fix it)",
+    "link": "https://dev.to/scanner/why-collapsible-tab-headers-jump-in-react-native-and-how-to-fix-it-5d4f",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I chi-square tested my physics dice, found a bias with five dice, and fixed it (three.js + cannon-es)",
+    "link": "https://dev.to/3droll/i-chi-square-tested-my-physics-dice-found-a-bias-with-five-dice-and-fixed-it-threejs--53a6",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When Does Claude Code Check the Web? I Logged My Sessions to Find Out",
+    "link": "https://dev.to/vadim_albarov/when-does-claude-code-check-the-web-i-logged-my-sessions-to-find-out-3ki8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stripping EXIF and GPS from photos in the browser, losslessly, in ~500 lines of vanilla JS",
+    "link": "https://dev.to/amjad_khan_3752d036cd1d58/stripping-exif-and-gps-from-photos-in-the-browser-losslessly-in-500-lines-of-vanilla-js-ll4",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Basecamp's Home Page Gave Me Two Valid Phone Numbers. Both Were Calendar Day Numbers",
+    "link": "https://dev.to/nikita_iakovlev_415524c19/basecamps-home-page-gave-me-two-valid-phone-numbers-both-were-calendar-day-numbers-oj3",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a niche job board from company ATS feeds (Greenhouse, Lever, Ashby & Workday)",
+    "link": "https://dev.to/rjmacarthy/build-a-niche-job-board-from-company-ats-feeds-greenhouse-lever-ashby-workday-2fi1",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a DSH Plugin That Renders SPAs and Logged-In Pages for web_fetch",
+    "link": "https://dev.to/wac0623/i-built-a-dsh-plugin-that-renders-spas-and-logged-in-pages-for-webfetch-56h",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your rebuild will drop URLs. Google will tell you in six weeks.",
+    "link": "https://dev.to/manojsethi/your-rebuild-will-drop-urls-google-will-tell-you-in-six-weeks-92b",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a white-label crystal bracelet builder with vanilla JS, PHP and zero database",
+    "link": "https://dev.to/spiritrackingarch/building-a-white-label-crystal-bracelet-builder-with-vanilla-js-php-and-zero-database-172k",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `ReadonlyMap` and `ReadonlySet` in 2026: Immutable Collections That Stop Accidental Mutation at the Type Level",
+    "link": "https://dev.to/jsmanifest/typescript-readonlymap-and-readonlyset-in-2026-immutable-collections-that-stop-accidental-2ida",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Keeping declarativeNetRequest rules in sync after a Manifest V3 service worker restarts",
+    "link": "https://dev.to/parmarth-kumar/keeping-declarativenetrequest-rules-in-sync-after-a-manifest-v3-service-worker-restarts-4hal",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your .env hit git. Here's how I keep secrets on a VPS",
+    "link": "https://dev.to/amorizz/your-env-hit-git-heres-how-i-keep-secrets-on-a-vps-3hae",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why collapsible tab headers jump in React Native (and how to fix it)",
+    "link": "https://dev.to/scanner/why-collapsible-tab-headers-jump-in-react-native-and-how-to-fix-it-5d4f",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I chi-square tested my physics dice, found a bias with five dice, and fixed it (three.js + cannon-es)",
+    "link": "https://dev.to/3droll/i-chi-square-tested-my-physics-dice-found-a-bias-with-five-dice-and-fixed-it-threejs--53a6",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When Does Claude Code Check the Web? I Logged My Sessions to Find Out",
+    "link": "https://dev.to/vadim_albarov/when-does-claude-code-check-the-web-i-logged-my-sessions-to-find-out-3ki8",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stripping EXIF and GPS from photos in the browser, losslessly, in ~500 lines of vanilla JS",
+    "link": "https://dev.to/amjad_khan_3752d036cd1d58/stripping-exif-and-gps-from-photos-in-the-browser-losslessly-in-500-lines-of-vanilla-js-ll4",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Basecamp's Home Page Gave Me Two Valid Phone Numbers. Both Were Calendar Day Numbers",
+    "link": "https://dev.to/nikita_iakovlev_415524c19/basecamps-home-page-gave-me-two-valid-phone-numbers-both-were-calendar-day-numbers-oj3",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Build a niche job board from company ATS feeds (Greenhouse, Lever, Ashby & Workday)",
+    "link": "https://dev.to/rjmacarthy/build-a-niche-job-board-from-company-ats-feeds-greenhouse-lever-ashby-workday-2fi1",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built a DSH Plugin That Renders SPAs and Logged-In Pages for web_fetch",
+    "link": "https://dev.to/wac0623/i-built-a-dsh-plugin-that-renders-spas-and-logged-in-pages-for-webfetch-56h",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your rebuild will drop URLs. Google will tell you in six weeks.",
+    "link": "https://dev.to/manojsethi/your-rebuild-will-drop-urls-google-will-tell-you-in-six-weeks-92b",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a white-label crystal bracelet builder with vanilla JS, PHP and zero database",
+    "link": "https://dev.to/spiritrackingarch/building-a-white-label-crystal-bracelet-builder-with-vanilla-js-php-and-zero-database-172k",
+    "date": "10/15/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
+    "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
     "date": "10/14/2026",
     "site": "dev.to"
   },
@@ -18,86 +372,8 @@
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-    "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an ATS CV checker that never uploads your CV (pdf.js, jszip and a lot of heuristics)",
-    "link": "https://dev.to/marvel_akinwale/i-built-an-ats-cv-checker-that-never-uploads-your-cv-pdfjs-jszip-and-a-lot-of-heuristics-479i",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What AI crawlers are blind to: the text your JavaScript renders",
-    "link": "https://dev.to/sergei-swh/what-ai-crawlers-are-blind-to-the-text-your-javascript-renders-4oen",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"Make the import better\" is not a task: a two-part template and a worked handoff",
-    "link": "https://dev.to/sam_novak_574b07811e18495/make-the-import-better-is-not-a-task-a-two-part-template-and-a-worked-handoff-1d49",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "208 file tools that never upload your files — and the 7 bugs that taught us how",
-    "link": "https://dev.to/sebestian/208-file-tools-that-never-upload-your-files-and-the-7-bugs-that-taught-us-how-208p",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Browser Blocked It. window.onerror Never Fired.",
-    "link": "https://dev.to/session_replay/the-browser-blocked-it-windowonerror-never-fired-2jdd",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Chatbots Are Lazy Design: Building an 'Invisible UI' with In-Browser SLMs & WebGPU",
-    "link": "https://dev.to/quentin_merle/chatbots-are-lazy-design-building-an-invisible-ui-with-in-browser-slms-webgpu-2e3m",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Claude Code mods in the desktop app: a one-page summary and what to recheck after updates",
-    "link": "https://dev.to/nakadadev/claude-code-mods-in-the-desktop-app-a-one-page-summary-and-what-to-recheck-after-updates-23bo",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rendering a 2.9-million-triangle human body in the browser without freezing the page",
-    "link": "https://dev.to/balwinder_singh_dev/rendering-a-29-million-triangle-human-body-in-the-browser-without-freezing-the-page-1j7g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I’m Building Modi: An AI-Powered Learning Assistant as a Student Developer",
-    "link": "https://dev.to/akintayo_mofeoluwarichar/how-im-building-modi-an-ai-powered-learning-assistant-as-a-student-developer-36me",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "RxDB's sync engine, run through 8 offline-first failure modes",
-    "link": "https://dev.to/alfa_ilands/rxdbs-sync-engine-run-through-8-offline-first-failure-modes-5elj",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TanStack Start 1.0 + tanstack-fetch: 6 Real-World Data Fetching Patterns",
-    "link": "https://dev.to/mwmdgmb/tanstack-start-10-tanstack-fetch-6-real-world-data-fetching-patterns-hk3",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
     "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My OSS Projects: Picard.js",
-    "link": "https://dev.to/florianrappl/my-oss-projects-picardjs-1f48",
     "date": "10/14/2026",
     "site": "dev.to"
   },
@@ -108,86 +384,8 @@
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-    "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an ATS CV checker that never uploads your CV (pdf.js, jszip and a lot of heuristics)",
-    "link": "https://dev.to/marvel_akinwale/i-built-an-ats-cv-checker-that-never-uploads-your-cv-pdfjs-jszip-and-a-lot-of-heuristics-479i",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What AI crawlers are blind to: the text your JavaScript renders",
-    "link": "https://dev.to/sergei-swh/what-ai-crawlers-are-blind-to-the-text-your-javascript-renders-4oen",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"Make the import better\" is not a task: a two-part template and a worked handoff",
-    "link": "https://dev.to/sam_novak_574b07811e18495/make-the-import-better-is-not-a-task-a-two-part-template-and-a-worked-handoff-1d49",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "208 file tools that never upload your files — and the 7 bugs that taught us how",
-    "link": "https://dev.to/sebestian/208-file-tools-that-never-upload-your-files-and-the-7-bugs-that-taught-us-how-208p",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Browser Blocked It. window.onerror Never Fired.",
-    "link": "https://dev.to/session_replay/the-browser-blocked-it-windowonerror-never-fired-2jdd",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Chatbots Are Lazy Design: Building an 'Invisible UI' with In-Browser SLMs & WebGPU",
-    "link": "https://dev.to/quentin_merle/chatbots-are-lazy-design-building-an-invisible-ui-with-in-browser-slms-webgpu-2e3m",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Claude Code mods in the desktop app: a one-page summary and what to recheck after updates",
-    "link": "https://dev.to/nakadadev/claude-code-mods-in-the-desktop-app-a-one-page-summary-and-what-to-recheck-after-updates-23bo",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rendering a 2.9-million-triangle human body in the browser without freezing the page",
-    "link": "https://dev.to/balwinder_singh_dev/rendering-a-29-million-triangle-human-body-in-the-browser-without-freezing-the-page-1j7g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I’m Building Modi: An AI-Powered Learning Assistant as a Student Developer",
-    "link": "https://dev.to/akintayo_mofeoluwarichar/how-im-building-modi-an-ai-powered-learning-assistant-as-a-student-developer-36me",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "RxDB's sync engine, run through 8 offline-first failure modes",
-    "link": "https://dev.to/alfa_ilands/rxdbs-sync-engine-run-through-8-offline-first-failure-modes-5elj",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TanStack Start 1.0 + tanstack-fetch: 6 Real-World Data Fetching Patterns",
-    "link": "https://dev.to/mwmdgmb/tanstack-start-10-tanstack-fetch-6-real-world-data-fetching-patterns-hk3",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
     "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My OSS Projects: Picard.js",
-    "link": "https://dev.to/florianrappl/my-oss-projects-picardjs-1f48",
     "date": "10/14/2026",
     "site": "dev.to"
   },
@@ -198,86 +396,8 @@
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-    "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an ATS CV checker that never uploads your CV (pdf.js, jszip and a lot of heuristics)",
-    "link": "https://dev.to/marvel_akinwale/i-built-an-ats-cv-checker-that-never-uploads-your-cv-pdfjs-jszip-and-a-lot-of-heuristics-479i",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What AI crawlers are blind to: the text your JavaScript renders",
-    "link": "https://dev.to/sergei-swh/what-ai-crawlers-are-blind-to-the-text-your-javascript-renders-4oen",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"Make the import better\" is not a task: a two-part template and a worked handoff",
-    "link": "https://dev.to/sam_novak_574b07811e18495/make-the-import-better-is-not-a-task-a-two-part-template-and-a-worked-handoff-1d49",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "208 file tools that never upload your files — and the 7 bugs that taught us how",
-    "link": "https://dev.to/sebestian/208-file-tools-that-never-upload-your-files-and-the-7-bugs-that-taught-us-how-208p",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Browser Blocked It. window.onerror Never Fired.",
-    "link": "https://dev.to/session_replay/the-browser-blocked-it-windowonerror-never-fired-2jdd",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Chatbots Are Lazy Design: Building an 'Invisible UI' with In-Browser SLMs & WebGPU",
-    "link": "https://dev.to/quentin_merle/chatbots-are-lazy-design-building-an-invisible-ui-with-in-browser-slms-webgpu-2e3m",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Claude Code mods in the desktop app: a one-page summary and what to recheck after updates",
-    "link": "https://dev.to/nakadadev/claude-code-mods-in-the-desktop-app-a-one-page-summary-and-what-to-recheck-after-updates-23bo",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rendering a 2.9-million-triangle human body in the browser without freezing the page",
-    "link": "https://dev.to/balwinder_singh_dev/rendering-a-29-million-triangle-human-body-in-the-browser-without-freezing-the-page-1j7g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I’m Building Modi: An AI-Powered Learning Assistant as a Student Developer",
-    "link": "https://dev.to/akintayo_mofeoluwarichar/how-im-building-modi-an-ai-powered-learning-assistant-as-a-student-developer-36me",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "RxDB's sync engine, run through 8 offline-first failure modes",
-    "link": "https://dev.to/alfa_ilands/rxdbs-sync-engine-run-through-8-offline-first-failure-modes-5elj",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TanStack Start 1.0 + tanstack-fetch: 6 Real-World Data Fetching Patterns",
-    "link": "https://dev.to/mwmdgmb/tanstack-start-10-tanstack-fetch-6-real-world-data-fetching-patterns-hk3",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
     "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My OSS Projects: Picard.js",
-    "link": "https://dev.to/florianrappl/my-oss-projects-picardjs-1f48",
     "date": "10/14/2026",
     "site": "dev.to"
   },
@@ -288,86 +408,8 @@
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-    "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built an ATS CV checker that never uploads your CV (pdf.js, jszip and a lot of heuristics)",
-    "link": "https://dev.to/marvel_akinwale/i-built-an-ats-cv-checker-that-never-uploads-your-cv-pdfjs-jszip-and-a-lot-of-heuristics-479i",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What AI crawlers are blind to: the text your JavaScript renders",
-    "link": "https://dev.to/sergei-swh/what-ai-crawlers-are-blind-to-the-text-your-javascript-renders-4oen",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "\"Make the import better\" is not a task: a two-part template and a worked handoff",
-    "link": "https://dev.to/sam_novak_574b07811e18495/make-the-import-better-is-not-a-task-a-two-part-template-and-a-worked-handoff-1d49",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "208 file tools that never upload your files — and the 7 bugs that taught us how",
-    "link": "https://dev.to/sebestian/208-file-tools-that-never-upload-your-files-and-the-7-bugs-that-taught-us-how-208p",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Browser Blocked It. window.onerror Never Fired.",
-    "link": "https://dev.to/session_replay/the-browser-blocked-it-windowonerror-never-fired-2jdd",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Chatbots Are Lazy Design: Building an 'Invisible UI' with In-Browser SLMs & WebGPU",
-    "link": "https://dev.to/quentin_merle/chatbots-are-lazy-design-building-an-invisible-ui-with-in-browser-slms-webgpu-2e3m",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Claude Code mods in the desktop app: a one-page summary and what to recheck after updates",
-    "link": "https://dev.to/nakadadev/claude-code-mods-in-the-desktop-app-a-one-page-summary-and-what-to-recheck-after-updates-23bo",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rendering a 2.9-million-triangle human body in the browser without freezing the page",
-    "link": "https://dev.to/balwinder_singh_dev/rendering-a-29-million-triangle-human-body-in-the-browser-without-freezing-the-page-1j7g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I’m Building Modi: An AI-Powered Learning Assistant as a Student Developer",
-    "link": "https://dev.to/akintayo_mofeoluwarichar/how-im-building-modi-an-ai-powered-learning-assistant-as-a-student-developer-36me",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "RxDB's sync engine, run through 8 offline-first failure modes",
-    "link": "https://dev.to/alfa_ilands/rxdbs-sync-engine-run-through-8-offline-first-failure-modes-5elj",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TanStack Start 1.0 + tanstack-fetch: 6 Real-World Data Fetching Patterns",
-    "link": "https://dev.to/mwmdgmb/tanstack-start-10-tanstack-fetch-6-real-world-data-fetching-patterns-hk3",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
     "link": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My OSS Projects: Picard.js",
-    "link": "https://dev.to/florianrappl/my-oss-projects-picardjs-1f48",
     "date": "10/14/2026",
     "site": "dev.to"
   },
@@ -378,75 +420,33 @@
     "site": "dev.to"
   },
   {
-    "title": "TypeScript `PropertyKey` vs `string | number | symbol`: When the Distinction Actually Matters",
-    "link": "https://dev.to/jsmanifest/typescript-propertykey-vs-string-number-symbol-when-the-distinction-actually-matters-14go",
-    "date": "10/14/2026",
+    "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
+    "link": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
+    "date": "10/13/2026",
     "site": "dev.to"
   },
   {
-    "title": "I built an ATS CV checker that never uploads your CV (pdf.js, jszip and a lot of heuristics)",
-    "link": "https://dev.to/marvel_akinwale/i-built-an-ats-cv-checker-that-never-uploads-your-cv-pdfjs-jszip-and-a-lot-of-heuristics-479i",
-    "date": "10/14/2026",
+    "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
+    "link": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
+    "date": "10/13/2026",
     "site": "dev.to"
   },
   {
-    "title": "What AI crawlers are blind to: the text your JavaScript renders",
-    "link": "https://dev.to/sergei-swh/what-ai-crawlers-are-blind-to-the-text-your-javascript-renders-4oen",
-    "date": "10/14/2026",
+    "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
+    "link": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
+    "date": "10/13/2026",
     "site": "dev.to"
   },
   {
-    "title": "\"Make the import better\" is not a task: a two-part template and a worked handoff",
-    "link": "https://dev.to/sam_novak_574b07811e18495/make-the-import-better-is-not-a-task-a-two-part-template-and-a-worked-handoff-1d49",
-    "date": "10/14/2026",
+    "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
+    "link": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
+    "date": "10/13/2026",
     "site": "dev.to"
   },
   {
-    "title": "208 file tools that never upload your files — and the 7 bugs that taught us how",
-    "link": "https://dev.to/sebestian/208-file-tools-that-never-upload-your-files-and-the-7-bugs-that-taught-us-how-208p",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Browser Blocked It. window.onerror Never Fired.",
-    "link": "https://dev.to/session_replay/the-browser-blocked-it-windowonerror-never-fired-2jdd",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Chatbots Are Lazy Design: Building an 'Invisible UI' with In-Browser SLMs & WebGPU",
-    "link": "https://dev.to/quentin_merle/chatbots-are-lazy-design-building-an-invisible-ui-with-in-browser-slms-webgpu-2e3m",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Claude Code mods in the desktop app: a one-page summary and what to recheck after updates",
-    "link": "https://dev.to/nakadadev/claude-code-mods-in-the-desktop-app-a-one-page-summary-and-what-to-recheck-after-updates-23bo",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Rendering a 2.9-million-triangle human body in the browser without freezing the page",
-    "link": "https://dev.to/balwinder_singh_dev/rendering-a-29-million-triangle-human-body-in-the-browser-without-freezing-the-page-1j7g",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I’m Building Modi: An AI-Powered Learning Assistant as a Student Developer",
-    "link": "https://dev.to/akintayo_mofeoluwarichar/how-im-building-modi-an-ai-powered-learning-assistant-as-a-student-developer-36me",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "RxDB's sync engine, run through 8 offline-first failure modes",
-    "link": "https://dev.to/alfa_ilands/rxdbs-sync-engine-run-through-8-offline-first-failure-modes-5elj",
-    "date": "10/14/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TanStack Start 1.0 + tanstack-fetch: 6 Real-World Data Fetching Patterns",
-    "link": "https://dev.to/mwmdgmb/tanstack-start-10-tanstack-fetch-6-real-world-data-fetching-patterns-hk3",
-    "date": "10/14/2026",
+    "title": "I Built a Cozy 60 FPS AI Agent Bakery Game to Teach RAG, Guardrails, Context Caching & Multi-Agent Orchestration",
+    "link": "https://dev.to/gde/i-built-a-cozy-60-fps-ai-agent-bakery-game-to-teach-rag-guardrails-context-caching-multi-agent-2ek",
+    "date": "10/13/2026",
     "site": "dev.to"
   },
   {
@@ -480,7 +480,7 @@
   {
     "title": "JavaScript For Everyone: Iterators",
     "link": "https://www.smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "10/27/2025",
     "site": "smashingmagazine"
   },
@@ -606,7 +606,7 @@
   {
     "title": "SolidStart: A Different Breed Of Meta-Framework",
     "link": "https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-    "reading_time": "9 min read",
+    "reading_time": "8 min read",
     "date": "1/8/2024",
     "site": "smashingmagazine"
   },
@@ -669,7 +669,7 @@
   {
     "title": "Learning JavaScript With Imagination",
     "link": "https://www.smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-    "reading_time": "10 min read",
+    "reading_time": "11 min read",
     "date": "5/5/2023",
     "site": "smashingmagazine"
   },
@@ -683,7 +683,7 @@
   {
     "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
     "link": "https://www.smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "4/21/2023",
     "site": "smashingmagazine"
   },
@@ -704,7 +704,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "15 min read",
+    "reading_time": "14 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
@@ -760,7 +760,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "7 min read",
+    "reading_time": "8 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
