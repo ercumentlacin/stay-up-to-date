@@ -1,5 +1,425 @@
 [
   {
+    "title": "Your Flex Child Won't Shrink, and overflow: hidden Isn't the Fix (It's min-width: 0)",
+    "link": "https://dev.to/anas_sheikh_2/your-flex-child-wont-shrink-and-overflow-hidden-isnt-the-fix-its-min-width-0-28cf",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CSS progress(): one number drives the whole layout",
+    "link": "https://dev.to/richicodes/css-progress-one-number-drives-the-whole-layout-2nb6",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Clipped Dropdown in a Collapsed Sidebar — the Hidden Meaning of overflow-y: auto",
+    "link": "https://dev.to/pythona/the-clipped-dropdown-in-a-collapsed-sidebar-the-hidden-meaning-of-overflow-y-auto-4257",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Modern CSS: :has(), :is(), nesting",
+    "link": "https://dev.to/godofgeeks/modern-css-has-is-nesting-ae3",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A webmanifest cannot read a CSS variable, so our brand colour is spelled twice: once as OKLCH and once as hex",
+    "link": "https://dev.to/daniel_pertu/a-webmanifest-cannot-read-a-css-variable-so-our-brand-colour-is-spelled-twice-once-as-oklch-and-1l05",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "One palette in a package, 28 CSS variables beside it, and the file that calls itself the source of truth is still green",
+    "link": "https://dev.to/daniel_pertu/one-palette-in-a-package-28-css-variables-beside-it-and-the-file-that-calls-itself-the-source-of-9ll",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CSS Logical Properties: How Browsers Translate Them to Physical Styles",
+    "link": "https://dev.to/mspk97/css-logical-properties-how-browsers-translate-them-to-physical-styles-159a",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why does a sprite selection border disappear in Windows high contrast?",
+    "link": "https://dev.to/framesprite-team/why-does-a-sprite-selection-border-disappear-in-windows-high-contrast-5ef1",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I measured what Safari actually gives your web page on iPhone Duo",
+    "link": "https://dev.to/tyoukyou23/i-measured-what-safari-actually-gives-your-web-page-on-iphone-duo-8jp",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Print-First SVG Gallery: Lessons in CSS, PDFs, and Progressive Enhancement",
+    "link": "https://dev.to/avendliu/building-a-print-first-svg-gallery-lessons-in-css-pdfs-and-progressive-enhancement-2mgc",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Can Write CSS. Chrome DevTools Can Now Show It Why the Browser Disagrees.",
+    "link": "https://dev.to/thereleasedesk/ai-can-write-css-chrome-devtools-can-now-show-it-why-the-browser-disagrees-5918",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "FSCSS layout helpers: stack, hstack, center, size, rounded, ratio-fit, and friends",
+    "link": "https://dev.to/fscss/fscss-layout-helpers-stack-hstack-center-size-rounded-ratio-fit-and-friends-4jg",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why do sprite review labels and approval controls disappear at browser zoom?",
+    "link": "https://dev.to/framesprite-team/why-do-sprite-review-labels-and-approval-controls-disappear-at-browser-zoom-122l",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bank() Function:",
+    "link": "https://dev.to/sathish_kumar_967/bank-function-37k0",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Flex Child Won't Shrink, and overflow: hidden Isn't the Fix (It's min-width: 0)",
+    "link": "https://dev.to/anas_sheikh_2/your-flex-child-wont-shrink-and-overflow-hidden-isnt-the-fix-its-min-width-0-28cf",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CSS progress(): one number drives the whole layout",
+    "link": "https://dev.to/richicodes/css-progress-one-number-drives-the-whole-layout-2nb6",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Clipped Dropdown in a Collapsed Sidebar — the Hidden Meaning of overflow-y: auto",
+    "link": "https://dev.to/pythona/the-clipped-dropdown-in-a-collapsed-sidebar-the-hidden-meaning-of-overflow-y-auto-4257",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Modern CSS: :has(), :is(), nesting",
+    "link": "https://dev.to/godofgeeks/modern-css-has-is-nesting-ae3",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A webmanifest cannot read a CSS variable, so our brand colour is spelled twice: once as OKLCH and once as hex",
+    "link": "https://dev.to/daniel_pertu/a-webmanifest-cannot-read-a-css-variable-so-our-brand-colour-is-spelled-twice-once-as-oklch-and-1l05",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "One palette in a package, 28 CSS variables beside it, and the file that calls itself the source of truth is still green",
+    "link": "https://dev.to/daniel_pertu/one-palette-in-a-package-28-css-variables-beside-it-and-the-file-that-calls-itself-the-source-of-9ll",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CSS Logical Properties: How Browsers Translate Them to Physical Styles",
+    "link": "https://dev.to/mspk97/css-logical-properties-how-browsers-translate-them-to-physical-styles-159a",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why does a sprite selection border disappear in Windows high contrast?",
+    "link": "https://dev.to/framesprite-team/why-does-a-sprite-selection-border-disappear-in-windows-high-contrast-5ef1",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I measured what Safari actually gives your web page on iPhone Duo",
+    "link": "https://dev.to/tyoukyou23/i-measured-what-safari-actually-gives-your-web-page-on-iphone-duo-8jp",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Print-First SVG Gallery: Lessons in CSS, PDFs, and Progressive Enhancement",
+    "link": "https://dev.to/avendliu/building-a-print-first-svg-gallery-lessons-in-css-pdfs-and-progressive-enhancement-2mgc",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Can Write CSS. Chrome DevTools Can Now Show It Why the Browser Disagrees.",
+    "link": "https://dev.to/thereleasedesk/ai-can-write-css-chrome-devtools-can-now-show-it-why-the-browser-disagrees-5918",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "FSCSS layout helpers: stack, hstack, center, size, rounded, ratio-fit, and friends",
+    "link": "https://dev.to/fscss/fscss-layout-helpers-stack-hstack-center-size-rounded-ratio-fit-and-friends-4jg",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why do sprite review labels and approval controls disappear at browser zoom?",
+    "link": "https://dev.to/framesprite-team/why-do-sprite-review-labels-and-approval-controls-disappear-at-browser-zoom-122l",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bank() Function:",
+    "link": "https://dev.to/sathish_kumar_967/bank-function-37k0",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Flex Child Won't Shrink, and overflow: hidden Isn't the Fix (It's min-width: 0)",
+    "link": "https://dev.to/anas_sheikh_2/your-flex-child-wont-shrink-and-overflow-hidden-isnt-the-fix-its-min-width-0-28cf",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CSS progress(): one number drives the whole layout",
+    "link": "https://dev.to/richicodes/css-progress-one-number-drives-the-whole-layout-2nb6",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Clipped Dropdown in a Collapsed Sidebar — the Hidden Meaning of overflow-y: auto",
+    "link": "https://dev.to/pythona/the-clipped-dropdown-in-a-collapsed-sidebar-the-hidden-meaning-of-overflow-y-auto-4257",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Modern CSS: :has(), :is(), nesting",
+    "link": "https://dev.to/godofgeeks/modern-css-has-is-nesting-ae3",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A webmanifest cannot read a CSS variable, so our brand colour is spelled twice: once as OKLCH and once as hex",
+    "link": "https://dev.to/daniel_pertu/a-webmanifest-cannot-read-a-css-variable-so-our-brand-colour-is-spelled-twice-once-as-oklch-and-1l05",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "One palette in a package, 28 CSS variables beside it, and the file that calls itself the source of truth is still green",
+    "link": "https://dev.to/daniel_pertu/one-palette-in-a-package-28-css-variables-beside-it-and-the-file-that-calls-itself-the-source-of-9ll",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CSS Logical Properties: How Browsers Translate Them to Physical Styles",
+    "link": "https://dev.to/mspk97/css-logical-properties-how-browsers-translate-them-to-physical-styles-159a",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why does a sprite selection border disappear in Windows high contrast?",
+    "link": "https://dev.to/framesprite-team/why-does-a-sprite-selection-border-disappear-in-windows-high-contrast-5ef1",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I measured what Safari actually gives your web page on iPhone Duo",
+    "link": "https://dev.to/tyoukyou23/i-measured-what-safari-actually-gives-your-web-page-on-iphone-duo-8jp",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Print-First SVG Gallery: Lessons in CSS, PDFs, and Progressive Enhancement",
+    "link": "https://dev.to/avendliu/building-a-print-first-svg-gallery-lessons-in-css-pdfs-and-progressive-enhancement-2mgc",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Can Write CSS. Chrome DevTools Can Now Show It Why the Browser Disagrees.",
+    "link": "https://dev.to/thereleasedesk/ai-can-write-css-chrome-devtools-can-now-show-it-why-the-browser-disagrees-5918",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "FSCSS layout helpers: stack, hstack, center, size, rounded, ratio-fit, and friends",
+    "link": "https://dev.to/fscss/fscss-layout-helpers-stack-hstack-center-size-rounded-ratio-fit-and-friends-4jg",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why do sprite review labels and approval controls disappear at browser zoom?",
+    "link": "https://dev.to/framesprite-team/why-do-sprite-review-labels-and-approval-controls-disappear-at-browser-zoom-122l",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bank() Function:",
+    "link": "https://dev.to/sathish_kumar_967/bank-function-37k0",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Flex Child Won't Shrink, and overflow: hidden Isn't the Fix (It's min-width: 0)",
+    "link": "https://dev.to/anas_sheikh_2/your-flex-child-wont-shrink-and-overflow-hidden-isnt-the-fix-its-min-width-0-28cf",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CSS progress(): one number drives the whole layout",
+    "link": "https://dev.to/richicodes/css-progress-one-number-drives-the-whole-layout-2nb6",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Clipped Dropdown in a Collapsed Sidebar — the Hidden Meaning of overflow-y: auto",
+    "link": "https://dev.to/pythona/the-clipped-dropdown-in-a-collapsed-sidebar-the-hidden-meaning-of-overflow-y-auto-4257",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Modern CSS: :has(), :is(), nesting",
+    "link": "https://dev.to/godofgeeks/modern-css-has-is-nesting-ae3",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A webmanifest cannot read a CSS variable, so our brand colour is spelled twice: once as OKLCH and once as hex",
+    "link": "https://dev.to/daniel_pertu/a-webmanifest-cannot-read-a-css-variable-so-our-brand-colour-is-spelled-twice-once-as-oklch-and-1l05",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "One palette in a package, 28 CSS variables beside it, and the file that calls itself the source of truth is still green",
+    "link": "https://dev.to/daniel_pertu/one-palette-in-a-package-28-css-variables-beside-it-and-the-file-that-calls-itself-the-source-of-9ll",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CSS Logical Properties: How Browsers Translate Them to Physical Styles",
+    "link": "https://dev.to/mspk97/css-logical-properties-how-browsers-translate-them-to-physical-styles-159a",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why does a sprite selection border disappear in Windows high contrast?",
+    "link": "https://dev.to/framesprite-team/why-does-a-sprite-selection-border-disappear-in-windows-high-contrast-5ef1",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I measured what Safari actually gives your web page on iPhone Duo",
+    "link": "https://dev.to/tyoukyou23/i-measured-what-safari-actually-gives-your-web-page-on-iphone-duo-8jp",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Print-First SVG Gallery: Lessons in CSS, PDFs, and Progressive Enhancement",
+    "link": "https://dev.to/avendliu/building-a-print-first-svg-gallery-lessons-in-css-pdfs-and-progressive-enhancement-2mgc",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Can Write CSS. Chrome DevTools Can Now Show It Why the Browser Disagrees.",
+    "link": "https://dev.to/thereleasedesk/ai-can-write-css-chrome-devtools-can-now-show-it-why-the-browser-disagrees-5918",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "FSCSS layout helpers: stack, hstack, center, size, rounded, ratio-fit, and friends",
+    "link": "https://dev.to/fscss/fscss-layout-helpers-stack-hstack-center-size-rounded-ratio-fit-and-friends-4jg",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why do sprite review labels and approval controls disappear at browser zoom?",
+    "link": "https://dev.to/framesprite-team/why-do-sprite-review-labels-and-approval-controls-disappear-at-browser-zoom-122l",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bank() Function:",
+    "link": "https://dev.to/sathish_kumar_967/bank-function-37k0",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Flex Child Won't Shrink, and overflow: hidden Isn't the Fix (It's min-width: 0)",
+    "link": "https://dev.to/anas_sheikh_2/your-flex-child-wont-shrink-and-overflow-hidden-isnt-the-fix-its-min-width-0-28cf",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CSS progress(): one number drives the whole layout",
+    "link": "https://dev.to/richicodes/css-progress-one-number-drives-the-whole-layout-2nb6",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Clipped Dropdown in a Collapsed Sidebar — the Hidden Meaning of overflow-y: auto",
+    "link": "https://dev.to/pythona/the-clipped-dropdown-in-a-collapsed-sidebar-the-hidden-meaning-of-overflow-y-auto-4257",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Modern CSS: :has(), :is(), nesting",
+    "link": "https://dev.to/godofgeeks/modern-css-has-is-nesting-ae3",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A webmanifest cannot read a CSS variable, so our brand colour is spelled twice: once as OKLCH and once as hex",
+    "link": "https://dev.to/daniel_pertu/a-webmanifest-cannot-read-a-css-variable-so-our-brand-colour-is-spelled-twice-once-as-oklch-and-1l05",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "One palette in a package, 28 CSS variables beside it, and the file that calls itself the source of truth is still green",
+    "link": "https://dev.to/daniel_pertu/one-palette-in-a-package-28-css-variables-beside-it-and-the-file-that-calls-itself-the-source-of-9ll",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "CSS Logical Properties: How Browsers Translate Them to Physical Styles",
+    "link": "https://dev.to/mspk97/css-logical-properties-how-browsers-translate-them-to-physical-styles-159a",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why does a sprite selection border disappear in Windows high contrast?",
+    "link": "https://dev.to/framesprite-team/why-does-a-sprite-selection-border-disappear-in-windows-high-contrast-5ef1",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I measured what Safari actually gives your web page on iPhone Duo",
+    "link": "https://dev.to/tyoukyou23/i-measured-what-safari-actually-gives-your-web-page-on-iphone-duo-8jp",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Building a Print-First SVG Gallery: Lessons in CSS, PDFs, and Progressive Enhancement",
+    "link": "https://dev.to/avendliu/building-a-print-first-svg-gallery-lessons-in-css-pdfs-and-progressive-enhancement-2mgc",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "AI Can Write CSS. Chrome DevTools Can Now Show It Why the Browser Disagrees.",
+    "link": "https://dev.to/thereleasedesk/ai-can-write-css-chrome-devtools-can-now-show-it-why-the-browser-disagrees-5918",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "FSCSS layout helpers: stack, hstack, center, size, rounded, ratio-fit, and friends",
+    "link": "https://dev.to/fscss/fscss-layout-helpers-stack-hstack-center-size-rounded-ratio-fit-and-friends-4jg",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why do sprite review labels and approval controls disappear at browser zoom?",
+    "link": "https://dev.to/framesprite-team/why-do-sprite-review-labels-and-approval-controls-disappear-at-browser-zoom-122l",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Bank() Function:",
+    "link": "https://dev.to/sathish_kumar_967/bank-function-37k0",
+    "date": "10/21/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "Embracing Playful Imperfection With The CSS random() Function",
     "link": "https://www.smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
     "reading_time": "16 min read",
@@ -7,453 +427,33 @@
     "site": "smashingmagazine"
   },
   {
-    "title": "A brand that has to work as a 16 px favicon and a sticker",
-    "link": "https://dev.to/adrian_turbiski_f62044ad/a-brand-that-has-to-work-as-a-16-px-favicon-and-a-sticker-2min",
+    "title": "Mastering Flexbox: The Ultimate Stress-Free Guide to Modern Web Layouts",
+    "link": "https://dev.to/nwadiogo_emelie_1b51e55e6/mastering-flexbox-the-ultimate-stress-free-guide-to-modern-web-layouts-3j9a",
     "date": "10/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "The Real Cost of CSS Variables: Runtime Resolution and Performance Implications",
-    "link": "https://dev.to/mspk97/the-real-cost-of-css-variables-runtime-resolution-and-performance-implications-3lbo",
+    "title": "Mastering Flexbox: The Ultimate Stress-Free Guide to Modern Web Layouts",
+    "link": "https://dev.to/nwadiogo_emelie_1b51e55e6/mastering-flexbox-the-ultimate-stress-free-guide-to-modern-web-layouts-3j9a",
     "date": "10/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "Beyond the Basics - Advanced CSS Techniques for Web Developers",
-    "link": "https://dev.to/khriztianmoreno/beyond-the-basics-advanced-css-techniques-for-web-developers-2lbp",
+    "title": "Mastering Flexbox: The Ultimate Stress-Free Guide to Modern Web Layouts",
+    "link": "https://dev.to/nwadiogo_emelie_1b51e55e6/mastering-flexbox-the-ultimate-stress-free-guide-to-modern-web-layouts-3j9a",
     "date": "10/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "Why CSS Selectors Break — and How I Built StableHTMLFinder to Analyze DOM Stability",
-    "link": "https://dev.to/pavelcraft/why-css-selectors-break-and-how-i-built-stablehtmlfinder-to-analyze-dom-stability-30n2",
+    "title": "Mastering Flexbox: The Ultimate Stress-Free Guide to Modern Web Layouts",
+    "link": "https://dev.to/nwadiogo_emelie_1b51e55e6/mastering-flexbox-the-ultimate-stress-free-guide-to-modern-web-layouts-3j9a",
     "date": "10/20/2026",
     "site": "dev.to"
   },
   {
-    "title": "CSS Grid vs Flexbox Advanced",
-    "link": "https://dev.to/godofgeeks/css-grid-vs-flexbox-advanced-503k",
+    "title": "Mastering Flexbox: The Ultimate Stress-Free Guide to Modern Web Layouts",
+    "link": "https://dev.to/nwadiogo_emelie_1b51e55e6/mastering-flexbox-the-ultimate-stress-free-guide-to-modern-web-layouts-3j9a",
     "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same soft light is a CSS radial gradient on our website and an SVG in our app, and 0.53 is the number that keeps them honest",
-    "link": "https://dev.to/daniel_pertu/the-same-soft-light-is-a-css-radial-gradient-on-our-website-and-an-svg-in-our-app-and-053-is-the-4p9e",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Gap Decorations: Divider Lines Without the Border Hacks",
-    "link": "https://dev.to/grimicorn/css-gap-decorations-divider-lines-without-the-border-hacks-2e37",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Delete your z-index scale",
-    "link": "https://dev.to/maxpro/delete-your-z-index-scale-3931",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The CSS Box Model Every Beginner Must Understand: A Simple Guide to Content, Padding, Border and Margin",
-    "link": "https://dev.to/okoye_ndidiamaka_5e3b7d30/the-css-box-model-every-beginner-must-understand-a-simple-guide-to-content-padding-border-and-19ne",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Responsive Layout Without Breaking Accessibility:Modern HTML5 & CSS3 Rules",
-    "link": "https://dev.to/siva_ranchani_aa4aa7a30cc/building-responsive-layout-without-breaking-accessibilitymodern-html5-css3-rules-1kba",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your mockups deserve better than the same grey lorem ipsum",
-    "link": "https://dev.to/mubeenkhaaan/your-mockups-deserve-better-than-the-same-grey-lorem-ipsum-coo",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An AI cleanup deleted 8 lines of CSS. The build passed. The signboard vanished.",
-    "link": "https://dev.to/amazong110/an-ai-cleanup-deleted-8-lines-of-css-the-build-passed-the-signboard-vanished-19ii",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A brand that has to work as a 16 px favicon and a sticker",
-    "link": "https://dev.to/adrian_turbiski_f62044ad/a-brand-that-has-to-work-as-a-16-px-favicon-and-a-sticker-2min",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Real Cost of CSS Variables: Runtime Resolution and Performance Implications",
-    "link": "https://dev.to/mspk97/the-real-cost-of-css-variables-runtime-resolution-and-performance-implications-3lbo",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Beyond the Basics - Advanced CSS Techniques for Web Developers",
-    "link": "https://dev.to/khriztianmoreno/beyond-the-basics-advanced-css-techniques-for-web-developers-2lbp",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why CSS Selectors Break — and How I Built StableHTMLFinder to Analyze DOM Stability",
-    "link": "https://dev.to/pavelcraft/why-css-selectors-break-and-how-i-built-stablehtmlfinder-to-analyze-dom-stability-30n2",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox Advanced",
-    "link": "https://dev.to/godofgeeks/css-grid-vs-flexbox-advanced-503k",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same soft light is a CSS radial gradient on our website and an SVG in our app, and 0.53 is the number that keeps them honest",
-    "link": "https://dev.to/daniel_pertu/the-same-soft-light-is-a-css-radial-gradient-on-our-website-and-an-svg-in-our-app-and-053-is-the-4p9e",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Gap Decorations: Divider Lines Without the Border Hacks",
-    "link": "https://dev.to/grimicorn/css-gap-decorations-divider-lines-without-the-border-hacks-2e37",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Delete your z-index scale",
-    "link": "https://dev.to/maxpro/delete-your-z-index-scale-3931",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The CSS Box Model Every Beginner Must Understand: A Simple Guide to Content, Padding, Border and Margin",
-    "link": "https://dev.to/okoye_ndidiamaka_5e3b7d30/the-css-box-model-every-beginner-must-understand-a-simple-guide-to-content-padding-border-and-19ne",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Responsive Layout Without Breaking Accessibility:Modern HTML5 & CSS3 Rules",
-    "link": "https://dev.to/siva_ranchani_aa4aa7a30cc/building-responsive-layout-without-breaking-accessibilitymodern-html5-css3-rules-1kba",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your mockups deserve better than the same grey lorem ipsum",
-    "link": "https://dev.to/mubeenkhaaan/your-mockups-deserve-better-than-the-same-grey-lorem-ipsum-coo",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An AI cleanup deleted 8 lines of CSS. The build passed. The signboard vanished.",
-    "link": "https://dev.to/amazong110/an-ai-cleanup-deleted-8-lines-of-css-the-build-passed-the-signboard-vanished-19ii",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A brand that has to work as a 16 px favicon and a sticker",
-    "link": "https://dev.to/adrian_turbiski_f62044ad/a-brand-that-has-to-work-as-a-16-px-favicon-and-a-sticker-2min",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Real Cost of CSS Variables: Runtime Resolution and Performance Implications",
-    "link": "https://dev.to/mspk97/the-real-cost-of-css-variables-runtime-resolution-and-performance-implications-3lbo",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Beyond the Basics - Advanced CSS Techniques for Web Developers",
-    "link": "https://dev.to/khriztianmoreno/beyond-the-basics-advanced-css-techniques-for-web-developers-2lbp",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why CSS Selectors Break — and How I Built StableHTMLFinder to Analyze DOM Stability",
-    "link": "https://dev.to/pavelcraft/why-css-selectors-break-and-how-i-built-stablehtmlfinder-to-analyze-dom-stability-30n2",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox Advanced",
-    "link": "https://dev.to/godofgeeks/css-grid-vs-flexbox-advanced-503k",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same soft light is a CSS radial gradient on our website and an SVG in our app, and 0.53 is the number that keeps them honest",
-    "link": "https://dev.to/daniel_pertu/the-same-soft-light-is-a-css-radial-gradient-on-our-website-and-an-svg-in-our-app-and-053-is-the-4p9e",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Gap Decorations: Divider Lines Without the Border Hacks",
-    "link": "https://dev.to/grimicorn/css-gap-decorations-divider-lines-without-the-border-hacks-2e37",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Delete your z-index scale",
-    "link": "https://dev.to/maxpro/delete-your-z-index-scale-3931",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The CSS Box Model Every Beginner Must Understand: A Simple Guide to Content, Padding, Border and Margin",
-    "link": "https://dev.to/okoye_ndidiamaka_5e3b7d30/the-css-box-model-every-beginner-must-understand-a-simple-guide-to-content-padding-border-and-19ne",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Responsive Layout Without Breaking Accessibility:Modern HTML5 & CSS3 Rules",
-    "link": "https://dev.to/siva_ranchani_aa4aa7a30cc/building-responsive-layout-without-breaking-accessibilitymodern-html5-css3-rules-1kba",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your mockups deserve better than the same grey lorem ipsum",
-    "link": "https://dev.to/mubeenkhaaan/your-mockups-deserve-better-than-the-same-grey-lorem-ipsum-coo",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An AI cleanup deleted 8 lines of CSS. The build passed. The signboard vanished.",
-    "link": "https://dev.to/amazong110/an-ai-cleanup-deleted-8-lines-of-css-the-build-passed-the-signboard-vanished-19ii",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A brand that has to work as a 16 px favicon and a sticker",
-    "link": "https://dev.to/adrian_turbiski_f62044ad/a-brand-that-has-to-work-as-a-16-px-favicon-and-a-sticker-2min",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Real Cost of CSS Variables: Runtime Resolution and Performance Implications",
-    "link": "https://dev.to/mspk97/the-real-cost-of-css-variables-runtime-resolution-and-performance-implications-3lbo",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Beyond the Basics - Advanced CSS Techniques for Web Developers",
-    "link": "https://dev.to/khriztianmoreno/beyond-the-basics-advanced-css-techniques-for-web-developers-2lbp",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why CSS Selectors Break — and How I Built StableHTMLFinder to Analyze DOM Stability",
-    "link": "https://dev.to/pavelcraft/why-css-selectors-break-and-how-i-built-stablehtmlfinder-to-analyze-dom-stability-30n2",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox Advanced",
-    "link": "https://dev.to/godofgeeks/css-grid-vs-flexbox-advanced-503k",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same soft light is a CSS radial gradient on our website and an SVG in our app, and 0.53 is the number that keeps them honest",
-    "link": "https://dev.to/daniel_pertu/the-same-soft-light-is-a-css-radial-gradient-on-our-website-and-an-svg-in-our-app-and-053-is-the-4p9e",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Gap Decorations: Divider Lines Without the Border Hacks",
-    "link": "https://dev.to/grimicorn/css-gap-decorations-divider-lines-without-the-border-hacks-2e37",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Delete your z-index scale",
-    "link": "https://dev.to/maxpro/delete-your-z-index-scale-3931",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The CSS Box Model Every Beginner Must Understand: A Simple Guide to Content, Padding, Border and Margin",
-    "link": "https://dev.to/okoye_ndidiamaka_5e3b7d30/the-css-box-model-every-beginner-must-understand-a-simple-guide-to-content-padding-border-and-19ne",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Responsive Layout Without Breaking Accessibility:Modern HTML5 & CSS3 Rules",
-    "link": "https://dev.to/siva_ranchani_aa4aa7a30cc/building-responsive-layout-without-breaking-accessibilitymodern-html5-css3-rules-1kba",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your mockups deserve better than the same grey lorem ipsum",
-    "link": "https://dev.to/mubeenkhaaan/your-mockups-deserve-better-than-the-same-grey-lorem-ipsum-coo",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An AI cleanup deleted 8 lines of CSS. The build passed. The signboard vanished.",
-    "link": "https://dev.to/amazong110/an-ai-cleanup-deleted-8-lines-of-css-the-build-passed-the-signboard-vanished-19ii",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "A brand that has to work as a 16 px favicon and a sticker",
-    "link": "https://dev.to/adrian_turbiski_f62044ad/a-brand-that-has-to-work-as-a-16-px-favicon-and-a-sticker-2min",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The Real Cost of CSS Variables: Runtime Resolution and Performance Implications",
-    "link": "https://dev.to/mspk97/the-real-cost-of-css-variables-runtime-resolution-and-performance-implications-3lbo",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Beyond the Basics - Advanced CSS Techniques for Web Developers",
-    "link": "https://dev.to/khriztianmoreno/beyond-the-basics-advanced-css-techniques-for-web-developers-2lbp",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why CSS Selectors Break — and How I Built StableHTMLFinder to Analyze DOM Stability",
-    "link": "https://dev.to/pavelcraft/why-css-selectors-break-and-how-i-built-stablehtmlfinder-to-analyze-dom-stability-30n2",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Grid vs Flexbox Advanced",
-    "link": "https://dev.to/godofgeeks/css-grid-vs-flexbox-advanced-503k",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The same soft light is a CSS radial gradient on our website and an SVG in our app, and 0.53 is the number that keeps them honest",
-    "link": "https://dev.to/daniel_pertu/the-same-soft-light-is-a-css-radial-gradient-on-our-website-and-an-svg-in-our-app-and-053-is-the-4p9e",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "CSS Gap Decorations: Divider Lines Without the Border Hacks",
-    "link": "https://dev.to/grimicorn/css-gap-decorations-divider-lines-without-the-border-hacks-2e37",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Delete your z-index scale",
-    "link": "https://dev.to/maxpro/delete-your-z-index-scale-3931",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "The CSS Box Model Every Beginner Must Understand: A Simple Guide to Content, Padding, Border and Margin",
-    "link": "https://dev.to/okoye_ndidiamaka_5e3b7d30/the-css-box-model-every-beginner-must-understand-a-simple-guide-to-content-padding-border-and-19ne",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building Responsive Layout Without Breaking Accessibility:Modern HTML5 & CSS3 Rules",
-    "link": "https://dev.to/siva_ranchani_aa4aa7a30cc/building-responsive-layout-without-breaking-accessibilitymodern-html5-css3-rules-1kba",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Your mockups deserve better than the same grey lorem ipsum",
-    "link": "https://dev.to/mubeenkhaaan/your-mockups-deserve-better-than-the-same-grey-lorem-ipsum-coo",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "An AI cleanup deleted 8 lines of CSS. The build passed. The signboard vanished.",
-    "link": "https://dev.to/amazong110/an-ai-cleanup-deleted-8-lines-of-css-the-build-passed-the-signboard-vanished-19ii",
-    "date": "10/20/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Screen size is not viewport size: the consent banner that kept hiding our call button",
-    "link": "https://dev.to/cbarank/screen-size-is-not-viewport-size-the-consent-banner-that-kept-hiding-our-call-button-5fpi",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Playwright recorded my 25 fps animation at about 9. The fix was to stop recording.",
-    "link": "https://dev.to/ayoub_hammoudi/playwright-recorded-my-25-fps-animation-at-about-9-the-fix-was-to-stop-recording-5ac7",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Benchmarking GPUI-kit: Rendering Throughput and Memory Overhead in Cross-Platform Rust GUI",
-    "link": "https://dev.to/chloe_chen/benchmarking-gpui-kit-rendering-throughput-and-memory-overhead-in-cross-platform-rust-gui-49ai",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Screen size is not viewport size: the consent banner that kept hiding our call button",
-    "link": "https://dev.to/cbarank/screen-size-is-not-viewport-size-the-consent-banner-that-kept-hiding-our-call-button-5fpi",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Playwright recorded my 25 fps animation at about 9. The fix was to stop recording.",
-    "link": "https://dev.to/ayoub_hammoudi/playwright-recorded-my-25-fps-animation-at-about-9-the-fix-was-to-stop-recording-5ac7",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Benchmarking GPUI-kit: Rendering Throughput and Memory Overhead in Cross-Platform Rust GUI",
-    "link": "https://dev.to/chloe_chen/benchmarking-gpui-kit-rendering-throughput-and-memory-overhead-in-cross-platform-rust-gui-49ai",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Screen size is not viewport size: the consent banner that kept hiding our call button",
-    "link": "https://dev.to/cbarank/screen-size-is-not-viewport-size-the-consent-banner-that-kept-hiding-our-call-button-5fpi",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Playwright recorded my 25 fps animation at about 9. The fix was to stop recording.",
-    "link": "https://dev.to/ayoub_hammoudi/playwright-recorded-my-25-fps-animation-at-about-9-the-fix-was-to-stop-recording-5ac7",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Benchmarking GPUI-kit: Rendering Throughput and Memory Overhead in Cross-Platform Rust GUI",
-    "link": "https://dev.to/chloe_chen/benchmarking-gpui-kit-rendering-throughput-and-memory-overhead-in-cross-platform-rust-gui-49ai",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Screen size is not viewport size: the consent banner that kept hiding our call button",
-    "link": "https://dev.to/cbarank/screen-size-is-not-viewport-size-the-consent-banner-that-kept-hiding-our-call-button-5fpi",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Playwright recorded my 25 fps animation at about 9. The fix was to stop recording.",
-    "link": "https://dev.to/ayoub_hammoudi/playwright-recorded-my-25-fps-animation-at-about-9-the-fix-was-to-stop-recording-5ac7",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Benchmarking GPUI-kit: Rendering Throughput and Memory Overhead in Cross-Platform Rust GUI",
-    "link": "https://dev.to/chloe_chen/benchmarking-gpui-kit-rendering-throughput-and-memory-overhead-in-cross-platform-rust-gui-49ai",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Screen size is not viewport size: the consent banner that kept hiding our call button",
-    "link": "https://dev.to/cbarank/screen-size-is-not-viewport-size-the-consent-banner-that-kept-hiding-our-call-button-5fpi",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Playwright recorded my 25 fps animation at about 9. The fix was to stop recording.",
-    "link": "https://dev.to/ayoub_hammoudi/playwright-recorded-my-25-fps-animation-at-about-9-the-fix-was-to-stop-recording-5ac7",
-    "date": "10/19/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Benchmarking GPUI-kit: Rendering Throughput and Memory Overhead in Cross-Platform Rust GUI",
-    "link": "https://dev.to/chloe_chen/benchmarking-gpui-kit-rendering-throughput-and-memory-overhead-in-cross-platform-rust-gui-49ai",
-    "date": "10/19/2026",
     "site": "dev.to"
   },
   {
