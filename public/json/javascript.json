@@ -1,7 +1,427 @@
 [
   {
-    "title": "My OSS Projects: dets",
-    "link": "https://dev.to/florianrappl/my-oss-projects-dets-1gjk",
+    "title": "I Built Avi.js — A Lightweight TypeScript Framework Inspired by NestJS",
+    "link": "https://dev.to/chrischase011/i-built-avijs-a-lightweight-typescript-framework-inspired-by-nestjs-1jp1",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our moderation model answers in 0.3 s or in 19 s, nothing in between. Hedged requests took us from 15/30 to 26/30",
+    "link": "https://dev.to/formgongteam/our-moderation-model-answers-in-03-s-or-in-19-s-nothing-in-between-hedged-requests-took-us-from-15k",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Compress Images to an Exact File Size in the Browser",
+    "link": "https://dev.to/vektratool/how-i-compress-images-to-an-exact-file-size-in-the-browser-468o",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Tab Was Discarded, and Nothing in Your Code Was Told",
+    "link": "https://dev.to/session_replay/your-tab-was-discarded-and-nothing-in-your-code-was-told-1pm",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's learn React 19.3 by building a Bug Zoo",
+    "link": "https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PDF.js Deep Dive 2: getDocument & getPage",
+    "link": "https://dev.to/streampdf/pdfjs-deep-dive-2-getdocument-getpage-5e7a",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seating wedding guests with constraints: a small optimiser in a Web Worker",
+    "link": "https://dev.to/silkline/seating-wedding-guests-with-constraints-a-small-optimiser-in-a-web-worker-1nk0",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cloudflare Workers: Add ASN, Hosting and Tor Checks Beyond request.cf",
+    "link": "https://dev.to/networkdatalabs/cloudflare-workers-add-asn-hosting-and-tor-checks-beyond-requestcf-ah5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You should use Map instead of object literals for lookup tables",
+    "link": "https://dev.to/darkmavis1980/you-should-use-map-instead-of-object-literals-for-lookup-tables-2fmb",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Vibe-Coded Site Works. AI Search Can't See It.",
+    "link": "https://dev.to/irfangulzarx/your-vibe-coded-site-works-ai-search-cant-see-it-2ep5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What breaks when you move Pipedream code steps to n8n (tested on 92 workflows)",
+    "link": "https://dev.to/aidnurs/what-breaks-when-you-move-pipedream-code-steps-to-n8n-tested-on-92-workflows-1a85",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cardify: restyling a storefront's product cards without touching its code",
+    "link": "https://dev.to/haideraniq/cardify-restyling-a-storefronts-product-cards-without-touching-its-code-om5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My regex found an IP address in the word \"candidate\"",
+    "link": "https://dev.to/katiabelokon/my-regex-found-an-ip-address-in-the-word-candidate-1e7",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Workable has a public search API across every employer — here's how to use it",
+    "link": "https://dev.to/kunnu_data/workable-has-a-public-search-api-across-every-employer-heres-how-to-use-it-47k6",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built Avi.js — A Lightweight TypeScript Framework Inspired by NestJS",
+    "link": "https://dev.to/chrischase011/i-built-avijs-a-lightweight-typescript-framework-inspired-by-nestjs-1jp1",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our moderation model answers in 0.3 s or in 19 s, nothing in between. Hedged requests took us from 15/30 to 26/30",
+    "link": "https://dev.to/formgongteam/our-moderation-model-answers-in-03-s-or-in-19-s-nothing-in-between-hedged-requests-took-us-from-15k",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Compress Images to an Exact File Size in the Browser",
+    "link": "https://dev.to/vektratool/how-i-compress-images-to-an-exact-file-size-in-the-browser-468o",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Tab Was Discarded, and Nothing in Your Code Was Told",
+    "link": "https://dev.to/session_replay/your-tab-was-discarded-and-nothing-in-your-code-was-told-1pm",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's learn React 19.3 by building a Bug Zoo",
+    "link": "https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PDF.js Deep Dive 2: getDocument & getPage",
+    "link": "https://dev.to/streampdf/pdfjs-deep-dive-2-getdocument-getpage-5e7a",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seating wedding guests with constraints: a small optimiser in a Web Worker",
+    "link": "https://dev.to/silkline/seating-wedding-guests-with-constraints-a-small-optimiser-in-a-web-worker-1nk0",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cloudflare Workers: Add ASN, Hosting and Tor Checks Beyond request.cf",
+    "link": "https://dev.to/networkdatalabs/cloudflare-workers-add-asn-hosting-and-tor-checks-beyond-requestcf-ah5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You should use Map instead of object literals for lookup tables",
+    "link": "https://dev.to/darkmavis1980/you-should-use-map-instead-of-object-literals-for-lookup-tables-2fmb",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Vibe-Coded Site Works. AI Search Can't See It.",
+    "link": "https://dev.to/irfangulzarx/your-vibe-coded-site-works-ai-search-cant-see-it-2ep5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What breaks when you move Pipedream code steps to n8n (tested on 92 workflows)",
+    "link": "https://dev.to/aidnurs/what-breaks-when-you-move-pipedream-code-steps-to-n8n-tested-on-92-workflows-1a85",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cardify: restyling a storefront's product cards without touching its code",
+    "link": "https://dev.to/haideraniq/cardify-restyling-a-storefronts-product-cards-without-touching-its-code-om5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My regex found an IP address in the word \"candidate\"",
+    "link": "https://dev.to/katiabelokon/my-regex-found-an-ip-address-in-the-word-candidate-1e7",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Workable has a public search API across every employer — here's how to use it",
+    "link": "https://dev.to/kunnu_data/workable-has-a-public-search-api-across-every-employer-heres-how-to-use-it-47k6",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built Avi.js — A Lightweight TypeScript Framework Inspired by NestJS",
+    "link": "https://dev.to/chrischase011/i-built-avijs-a-lightweight-typescript-framework-inspired-by-nestjs-1jp1",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our moderation model answers in 0.3 s or in 19 s, nothing in between. Hedged requests took us from 15/30 to 26/30",
+    "link": "https://dev.to/formgongteam/our-moderation-model-answers-in-03-s-or-in-19-s-nothing-in-between-hedged-requests-took-us-from-15k",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Compress Images to an Exact File Size in the Browser",
+    "link": "https://dev.to/vektratool/how-i-compress-images-to-an-exact-file-size-in-the-browser-468o",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Tab Was Discarded, and Nothing in Your Code Was Told",
+    "link": "https://dev.to/session_replay/your-tab-was-discarded-and-nothing-in-your-code-was-told-1pm",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's learn React 19.3 by building a Bug Zoo",
+    "link": "https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PDF.js Deep Dive 2: getDocument & getPage",
+    "link": "https://dev.to/streampdf/pdfjs-deep-dive-2-getdocument-getpage-5e7a",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seating wedding guests with constraints: a small optimiser in a Web Worker",
+    "link": "https://dev.to/silkline/seating-wedding-guests-with-constraints-a-small-optimiser-in-a-web-worker-1nk0",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cloudflare Workers: Add ASN, Hosting and Tor Checks Beyond request.cf",
+    "link": "https://dev.to/networkdatalabs/cloudflare-workers-add-asn-hosting-and-tor-checks-beyond-requestcf-ah5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You should use Map instead of object literals for lookup tables",
+    "link": "https://dev.to/darkmavis1980/you-should-use-map-instead-of-object-literals-for-lookup-tables-2fmb",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Vibe-Coded Site Works. AI Search Can't See It.",
+    "link": "https://dev.to/irfangulzarx/your-vibe-coded-site-works-ai-search-cant-see-it-2ep5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What breaks when you move Pipedream code steps to n8n (tested on 92 workflows)",
+    "link": "https://dev.to/aidnurs/what-breaks-when-you-move-pipedream-code-steps-to-n8n-tested-on-92-workflows-1a85",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cardify: restyling a storefront's product cards without touching its code",
+    "link": "https://dev.to/haideraniq/cardify-restyling-a-storefronts-product-cards-without-touching-its-code-om5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My regex found an IP address in the word \"candidate\"",
+    "link": "https://dev.to/katiabelokon/my-regex-found-an-ip-address-in-the-word-candidate-1e7",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Workable has a public search API across every employer — here's how to use it",
+    "link": "https://dev.to/kunnu_data/workable-has-a-public-search-api-across-every-employer-heres-how-to-use-it-47k6",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built Avi.js — A Lightweight TypeScript Framework Inspired by NestJS",
+    "link": "https://dev.to/chrischase011/i-built-avijs-a-lightweight-typescript-framework-inspired-by-nestjs-1jp1",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our moderation model answers in 0.3 s or in 19 s, nothing in between. Hedged requests took us from 15/30 to 26/30",
+    "link": "https://dev.to/formgongteam/our-moderation-model-answers-in-03-s-or-in-19-s-nothing-in-between-hedged-requests-took-us-from-15k",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Compress Images to an Exact File Size in the Browser",
+    "link": "https://dev.to/vektratool/how-i-compress-images-to-an-exact-file-size-in-the-browser-468o",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Tab Was Discarded, and Nothing in Your Code Was Told",
+    "link": "https://dev.to/session_replay/your-tab-was-discarded-and-nothing-in-your-code-was-told-1pm",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's learn React 19.3 by building a Bug Zoo",
+    "link": "https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PDF.js Deep Dive 2: getDocument & getPage",
+    "link": "https://dev.to/streampdf/pdfjs-deep-dive-2-getdocument-getpage-5e7a",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seating wedding guests with constraints: a small optimiser in a Web Worker",
+    "link": "https://dev.to/silkline/seating-wedding-guests-with-constraints-a-small-optimiser-in-a-web-worker-1nk0",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cloudflare Workers: Add ASN, Hosting and Tor Checks Beyond request.cf",
+    "link": "https://dev.to/networkdatalabs/cloudflare-workers-add-asn-hosting-and-tor-checks-beyond-requestcf-ah5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You should use Map instead of object literals for lookup tables",
+    "link": "https://dev.to/darkmavis1980/you-should-use-map-instead-of-object-literals-for-lookup-tables-2fmb",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Vibe-Coded Site Works. AI Search Can't See It.",
+    "link": "https://dev.to/irfangulzarx/your-vibe-coded-site-works-ai-search-cant-see-it-2ep5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What breaks when you move Pipedream code steps to n8n (tested on 92 workflows)",
+    "link": "https://dev.to/aidnurs/what-breaks-when-you-move-pipedream-code-steps-to-n8n-tested-on-92-workflows-1a85",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cardify: restyling a storefront's product cards without touching its code",
+    "link": "https://dev.to/haideraniq/cardify-restyling-a-storefronts-product-cards-without-touching-its-code-om5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My regex found an IP address in the word \"candidate\"",
+    "link": "https://dev.to/katiabelokon/my-regex-found-an-ip-address-in-the-word-candidate-1e7",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Workable has a public search API across every employer — here's how to use it",
+    "link": "https://dev.to/kunnu_data/workable-has-a-public-search-api-across-every-employer-heres-how-to-use-it-47k6",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I Built Avi.js — A Lightweight TypeScript Framework Inspired by NestJS",
+    "link": "https://dev.to/chrischase011/i-built-avijs-a-lightweight-typescript-framework-inspired-by-nestjs-1jp1",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Our moderation model answers in 0.3 s or in 19 s, nothing in between. Hedged requests took us from 15/30 to 26/30",
+    "link": "https://dev.to/formgongteam/our-moderation-model-answers-in-03-s-or-in-19-s-nothing-in-between-hedged-requests-took-us-from-15k",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Compress Images to an Exact File Size in the Browser",
+    "link": "https://dev.to/vektratool/how-i-compress-images-to-an-exact-file-size-in-the-browser-468o",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Tab Was Discarded, and Nothing in Your Code Was Told",
+    "link": "https://dev.to/session_replay/your-tab-was-discarded-and-nothing-in-your-code-was-told-1pm",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Let's learn React 19.3 by building a Bug Zoo",
+    "link": "https://dev.to/thereleasedesk/lets-learn-react-193-by-building-a-bug-zoo-232c",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "PDF.js Deep Dive 2: getDocument & getPage",
+    "link": "https://dev.to/streampdf/pdfjs-deep-dive-2-getdocument-getpage-5e7a",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Seating wedding guests with constraints: a small optimiser in a Web Worker",
+    "link": "https://dev.to/silkline/seating-wedding-guests-with-constraints-a-small-optimiser-in-a-web-worker-1nk0",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cloudflare Workers: Add ASN, Hosting and Tor Checks Beyond request.cf",
+    "link": "https://dev.to/networkdatalabs/cloudflare-workers-add-asn-hosting-and-tor-checks-beyond-requestcf-ah5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You should use Map instead of object literals for lookup tables",
+    "link": "https://dev.to/darkmavis1980/you-should-use-map-instead-of-object-literals-for-lookup-tables-2fmb",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your Vibe-Coded Site Works. AI Search Can't See It.",
+    "link": "https://dev.to/irfangulzarx/your-vibe-coded-site-works-ai-search-cant-see-it-2ep5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "What breaks when you move Pipedream code steps to n8n (tested on 92 workflows)",
+    "link": "https://dev.to/aidnurs/what-breaks-when-you-move-pipedream-code-steps-to-n8n-tested-on-92-workflows-1a85",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Cardify: restyling a storefront's product cards without touching its code",
+    "link": "https://dev.to/haideraniq/cardify-restyling-a-storefronts-product-cards-without-touching-its-code-om5",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "My regex found an IP address in the word \"candidate\"",
+    "link": "https://dev.to/katiabelokon/my-regex-found-an-ip-address-in-the-word-candidate-1e7",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Workable has a public search API across every employer — here's how to use it",
+    "link": "https://dev.to/kunnu_data/workable-has-a-public-search-api-across-every-employer-heres-how-to-use-it-47k6",
+    "date": "10/22/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Stuck in the same dev.to topics? An open model fixed it.",
+    "link": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
     "date": "10/21/2026",
     "site": "dev.to"
   },
@@ -12,86 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "I let a 25 MB model choose the typeface for my quote cards. It got it wrong.",
-    "link": "https://dev.to/cadets_atease/i-let-a-25-mb-model-choose-the-typeface-for-my-quote-cards-it-got-it-wrong-and-i-shipped-it-3mg0",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Erasing text from manga in the browser, without an inpainting model (and where that ran out)",
-    "link": "https://dev.to/lxhsoluto-star/erasing-text-from-manga-in-the-browser-without-an-inpainting-model-and-where-that-ran-out-2436",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 190+ free online tools that don't upload your files",
-    "link": "https://dev.to/fayazali121/i-built-190-free-online-tools-that-dont-upload-your-files-13kj",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why a Word Ladder Needs a Graph Search: BFS in JavaScript",
-    "link": "https://dev.to/zyx94/why-a-word-ladder-needs-a-graph-search-bfs-in-javascript-3d07",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streaming Koa server-sent events on Bun: the four things that broke, and what Flight 3.0.1 changed",
-    "link": "https://dev.to/ispyhumanfly/streaming-koa-server-sent-events-on-bun-the-four-things-that-broke-and-what-flight-301-changed-2nnm",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free, offline Descript alternative (and open-sourced it)",
-    "link": "https://dev.to/iamspyder/i-built-a-free-offline-descript-alternative-and-open-sourced-it-1665",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "`localStorage.clear()` Tells Your Other Tabs Nothing They Are Listening For",
-    "link": "https://dev.to/session_replay/localstorageclear-tells-your-other-tabs-nothing-they-are-listening-for-499l",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of doing timezone math in Google Meet, so I built an open-source, zero-permission Chrome extension",
-    "link": "https://dev.to/mamareza_fd48d1a86e1b7187/i-got-tired-of-doing-timezone-math-in-google-meet-so-i-built-an-open-source-zero-permission-3dka",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "VoidSpider: Building a Visual Security Scanner for Websites and Local Code",
-    "link": "https://dev.to/patrick_ivanuell_be019c61/building-voidspider-a-modern-approach-to-web-automation-and-crawling-10ad",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Dependency Interactive T-Shirt Size Calculator (S-5XL) in Vanilla JavaScript",
-    "link": "https://dev.to/alex_nguyen/building-a-zero-dependency-interactive-t-shirt-size-calculator-s-5xl-in-vanilla-javascript-4ja7",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Compress images from Node.js with the Blinkimg API and fetch",
-    "link": "https://dev.to/dev-sahadat/compress-images-from-nodejs-with-the-blinkimg-api-and-fetch-4c7p",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Shipped a Token Counter That Silently Returned Wrong Numbers: Here Is the Bug and the Diff",
-    "link": "https://dev.to/devenquan/i-shipped-a-token-counter-that-silently-returned-wrong-numbers-here-is-the-bug-and-the-diff-1ce5",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving Shopify purchase tags out of Additional Scripts into a Custom Pixel",
-    "link": "https://dev.to/marketingkamran/moving-shopify-purchase-tags-out-of-additional-scripts-into-a-custom-pixel-561j",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My OSS Projects: dets",
-    "link": "https://dev.to/florianrappl/my-oss-projects-dets-1gjk",
+    "title": "Stuck in the same dev.to topics? An open model fixed it.",
+    "link": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
     "date": "10/21/2026",
     "site": "dev.to"
   },
@@ -102,350 +444,8 @@
     "site": "dev.to"
   },
   {
-    "title": "I let a 25 MB model choose the typeface for my quote cards. It got it wrong.",
-    "link": "https://dev.to/cadets_atease/i-let-a-25-mb-model-choose-the-typeface-for-my-quote-cards-it-got-it-wrong-and-i-shipped-it-3mg0",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Erasing text from manga in the browser, without an inpainting model (and where that ran out)",
-    "link": "https://dev.to/lxhsoluto-star/erasing-text-from-manga-in-the-browser-without-an-inpainting-model-and-where-that-ran-out-2436",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 190+ free online tools that don't upload your files",
-    "link": "https://dev.to/fayazali121/i-built-190-free-online-tools-that-dont-upload-your-files-13kj",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why a Word Ladder Needs a Graph Search: BFS in JavaScript",
-    "link": "https://dev.to/zyx94/why-a-word-ladder-needs-a-graph-search-bfs-in-javascript-3d07",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streaming Koa server-sent events on Bun: the four things that broke, and what Flight 3.0.1 changed",
-    "link": "https://dev.to/ispyhumanfly/streaming-koa-server-sent-events-on-bun-the-four-things-that-broke-and-what-flight-301-changed-2nnm",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free, offline Descript alternative (and open-sourced it)",
-    "link": "https://dev.to/iamspyder/i-built-a-free-offline-descript-alternative-and-open-sourced-it-1665",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "`localStorage.clear()` Tells Your Other Tabs Nothing They Are Listening For",
-    "link": "https://dev.to/session_replay/localstorageclear-tells-your-other-tabs-nothing-they-are-listening-for-499l",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of doing timezone math in Google Meet, so I built an open-source, zero-permission Chrome extension",
-    "link": "https://dev.to/mamareza_fd48d1a86e1b7187/i-got-tired-of-doing-timezone-math-in-google-meet-so-i-built-an-open-source-zero-permission-3dka",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "VoidSpider: Building a Visual Security Scanner for Websites and Local Code",
-    "link": "https://dev.to/patrick_ivanuell_be019c61/building-voidspider-a-modern-approach-to-web-automation-and-crawling-10ad",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Dependency Interactive T-Shirt Size Calculator (S-5XL) in Vanilla JavaScript",
-    "link": "https://dev.to/alex_nguyen/building-a-zero-dependency-interactive-t-shirt-size-calculator-s-5xl-in-vanilla-javascript-4ja7",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Compress images from Node.js with the Blinkimg API and fetch",
-    "link": "https://dev.to/dev-sahadat/compress-images-from-nodejs-with-the-blinkimg-api-and-fetch-4c7p",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Shipped a Token Counter That Silently Returned Wrong Numbers: Here Is the Bug and the Diff",
-    "link": "https://dev.to/devenquan/i-shipped-a-token-counter-that-silently-returned-wrong-numbers-here-is-the-bug-and-the-diff-1ce5",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving Shopify purchase tags out of Additional Scripts into a Custom Pixel",
-    "link": "https://dev.to/marketingkamran/moving-shopify-purchase-tags-out-of-additional-scripts-into-a-custom-pixel-561j",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My OSS Projects: dets",
-    "link": "https://dev.to/florianrappl/my-oss-projects-dets-1gjk",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Stuck in the same dev.to topics? An open model fixed it.",
     "link": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I let a 25 MB model choose the typeface for my quote cards. It got it wrong.",
-    "link": "https://dev.to/cadets_atease/i-let-a-25-mb-model-choose-the-typeface-for-my-quote-cards-it-got-it-wrong-and-i-shipped-it-3mg0",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Erasing text from manga in the browser, without an inpainting model (and where that ran out)",
-    "link": "https://dev.to/lxhsoluto-star/erasing-text-from-manga-in-the-browser-without-an-inpainting-model-and-where-that-ran-out-2436",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 190+ free online tools that don't upload your files",
-    "link": "https://dev.to/fayazali121/i-built-190-free-online-tools-that-dont-upload-your-files-13kj",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why a Word Ladder Needs a Graph Search: BFS in JavaScript",
-    "link": "https://dev.to/zyx94/why-a-word-ladder-needs-a-graph-search-bfs-in-javascript-3d07",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streaming Koa server-sent events on Bun: the four things that broke, and what Flight 3.0.1 changed",
-    "link": "https://dev.to/ispyhumanfly/streaming-koa-server-sent-events-on-bun-the-four-things-that-broke-and-what-flight-301-changed-2nnm",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free, offline Descript alternative (and open-sourced it)",
-    "link": "https://dev.to/iamspyder/i-built-a-free-offline-descript-alternative-and-open-sourced-it-1665",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "`localStorage.clear()` Tells Your Other Tabs Nothing They Are Listening For",
-    "link": "https://dev.to/session_replay/localstorageclear-tells-your-other-tabs-nothing-they-are-listening-for-499l",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of doing timezone math in Google Meet, so I built an open-source, zero-permission Chrome extension",
-    "link": "https://dev.to/mamareza_fd48d1a86e1b7187/i-got-tired-of-doing-timezone-math-in-google-meet-so-i-built-an-open-source-zero-permission-3dka",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "VoidSpider: Building a Visual Security Scanner for Websites and Local Code",
-    "link": "https://dev.to/patrick_ivanuell_be019c61/building-voidspider-a-modern-approach-to-web-automation-and-crawling-10ad",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Dependency Interactive T-Shirt Size Calculator (S-5XL) in Vanilla JavaScript",
-    "link": "https://dev.to/alex_nguyen/building-a-zero-dependency-interactive-t-shirt-size-calculator-s-5xl-in-vanilla-javascript-4ja7",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Compress images from Node.js with the Blinkimg API and fetch",
-    "link": "https://dev.to/dev-sahadat/compress-images-from-nodejs-with-the-blinkimg-api-and-fetch-4c7p",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Shipped a Token Counter That Silently Returned Wrong Numbers: Here Is the Bug and the Diff",
-    "link": "https://dev.to/devenquan/i-shipped-a-token-counter-that-silently-returned-wrong-numbers-here-is-the-bug-and-the-diff-1ce5",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving Shopify purchase tags out of Additional Scripts into a Custom Pixel",
-    "link": "https://dev.to/marketingkamran/moving-shopify-purchase-tags-out-of-additional-scripts-into-a-custom-pixel-561j",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My OSS Projects: dets",
-    "link": "https://dev.to/florianrappl/my-oss-projects-dets-1gjk",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stuck in the same dev.to topics? An open model fixed it.",
-    "link": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I let a 25 MB model choose the typeface for my quote cards. It got it wrong.",
-    "link": "https://dev.to/cadets_atease/i-let-a-25-mb-model-choose-the-typeface-for-my-quote-cards-it-got-it-wrong-and-i-shipped-it-3mg0",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Erasing text from manga in the browser, without an inpainting model (and where that ran out)",
-    "link": "https://dev.to/lxhsoluto-star/erasing-text-from-manga-in-the-browser-without-an-inpainting-model-and-where-that-ran-out-2436",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 190+ free online tools that don't upload your files",
-    "link": "https://dev.to/fayazali121/i-built-190-free-online-tools-that-dont-upload-your-files-13kj",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why a Word Ladder Needs a Graph Search: BFS in JavaScript",
-    "link": "https://dev.to/zyx94/why-a-word-ladder-needs-a-graph-search-bfs-in-javascript-3d07",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streaming Koa server-sent events on Bun: the four things that broke, and what Flight 3.0.1 changed",
-    "link": "https://dev.to/ispyhumanfly/streaming-koa-server-sent-events-on-bun-the-four-things-that-broke-and-what-flight-301-changed-2nnm",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free, offline Descript alternative (and open-sourced it)",
-    "link": "https://dev.to/iamspyder/i-built-a-free-offline-descript-alternative-and-open-sourced-it-1665",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "`localStorage.clear()` Tells Your Other Tabs Nothing They Are Listening For",
-    "link": "https://dev.to/session_replay/localstorageclear-tells-your-other-tabs-nothing-they-are-listening-for-499l",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of doing timezone math in Google Meet, so I built an open-source, zero-permission Chrome extension",
-    "link": "https://dev.to/mamareza_fd48d1a86e1b7187/i-got-tired-of-doing-timezone-math-in-google-meet-so-i-built-an-open-source-zero-permission-3dka",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "VoidSpider: Building a Visual Security Scanner for Websites and Local Code",
-    "link": "https://dev.to/patrick_ivanuell_be019c61/building-voidspider-a-modern-approach-to-web-automation-and-crawling-10ad",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Dependency Interactive T-Shirt Size Calculator (S-5XL) in Vanilla JavaScript",
-    "link": "https://dev.to/alex_nguyen/building-a-zero-dependency-interactive-t-shirt-size-calculator-s-5xl-in-vanilla-javascript-4ja7",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Compress images from Node.js with the Blinkimg API and fetch",
-    "link": "https://dev.to/dev-sahadat/compress-images-from-nodejs-with-the-blinkimg-api-and-fetch-4c7p",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Shipped a Token Counter That Silently Returned Wrong Numbers: Here Is the Bug and the Diff",
-    "link": "https://dev.to/devenquan/i-shipped-a-token-counter-that-silently-returned-wrong-numbers-here-is-the-bug-and-the-diff-1ce5",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving Shopify purchase tags out of Additional Scripts into a Custom Pixel",
-    "link": "https://dev.to/marketingkamran/moving-shopify-purchase-tags-out-of-additional-scripts-into-a-custom-pixel-561j",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "My OSS Projects: dets",
-    "link": "https://dev.to/florianrappl/my-oss-projects-dets-1gjk",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Stuck in the same dev.to topics? An open model fixed it.",
-    "link": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I let a 25 MB model choose the typeface for my quote cards. It got it wrong.",
-    "link": "https://dev.to/cadets_atease/i-let-a-25-mb-model-choose-the-typeface-for-my-quote-cards-it-got-it-wrong-and-i-shipped-it-3mg0",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Erasing text from manga in the browser, without an inpainting model (and where that ran out)",
-    "link": "https://dev.to/lxhsoluto-star/erasing-text-from-manga-in-the-browser-without-an-inpainting-model-and-where-that-ran-out-2436",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 190+ free online tools that don't upload your files",
-    "link": "https://dev.to/fayazali121/i-built-190-free-online-tools-that-dont-upload-your-files-13kj",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why a Word Ladder Needs a Graph Search: BFS in JavaScript",
-    "link": "https://dev.to/zyx94/why-a-word-ladder-needs-a-graph-search-bfs-in-javascript-3d07",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Streaming Koa server-sent events on Bun: the four things that broke, and what Flight 3.0.1 changed",
-    "link": "https://dev.to/ispyhumanfly/streaming-koa-server-sent-events-on-bun-the-four-things-that-broke-and-what-flight-301-changed-2nnm",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a free, offline Descript alternative (and open-sourced it)",
-    "link": "https://dev.to/iamspyder/i-built-a-free-offline-descript-alternative-and-open-sourced-it-1665",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "`localStorage.clear()` Tells Your Other Tabs Nothing They Are Listening For",
-    "link": "https://dev.to/session_replay/localstorageclear-tells-your-other-tabs-nothing-they-are-listening-for-499l",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I got tired of doing timezone math in Google Meet, so I built an open-source, zero-permission Chrome extension",
-    "link": "https://dev.to/mamareza_fd48d1a86e1b7187/i-got-tired-of-doing-timezone-math-in-google-meet-so-i-built-an-open-source-zero-permission-3dka",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "VoidSpider: Building a Visual Security Scanner for Websites and Local Code",
-    "link": "https://dev.to/patrick_ivanuell_be019c61/building-voidspider-a-modern-approach-to-web-automation-and-crawling-10ad",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Zero-Dependency Interactive T-Shirt Size Calculator (S-5XL) in Vanilla JavaScript",
-    "link": "https://dev.to/alex_nguyen/building-a-zero-dependency-interactive-t-shirt-size-calculator-s-5xl-in-vanilla-javascript-4ja7",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Compress images from Node.js with the Blinkimg API and fetch",
-    "link": "https://dev.to/dev-sahadat/compress-images-from-nodejs-with-the-blinkimg-api-and-fetch-4c7p",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Shipped a Token Counter That Silently Returned Wrong Numbers: Here Is the Bug and the Diff",
-    "link": "https://dev.to/devenquan/i-shipped-a-token-counter-that-silently-returned-wrong-numbers-here-is-the-bug-and-the-diff-1ce5",
-    "date": "10/21/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Moving Shopify purchase tags out of Additional Scripts into a Custom Pixel",
-    "link": "https://dev.to/marketingkamran/moving-shopify-purchase-tags-out-of-additional-scripts-into-a-custom-pixel-561j",
     "date": "10/21/2026",
     "site": "dev.to"
   },
@@ -508,7 +508,7 @@
   {
     "title": "Building An Offline-Friendly Image Upload System",
     "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-    "reading_time": "10 min read",
+    "reading_time": "9 min read",
     "date": "4/23/2025",
     "site": "smashingmagazine"
   },
@@ -550,7 +550,7 @@
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "12 min read",
+    "reading_time": "11 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
@@ -704,7 +704,7 @@
   {
     "title": "Building Complex Forms In Vue",
     "link": "https://www.smashingmagazine.com/2023/03/building-complex-forms-vue/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "3/9/2023",
     "site": "smashingmagazine"
   },
@@ -746,7 +746,7 @@
   {
     "title": "Optimizing A Vue App",
     "link": "https://www.smashingmagazine.com/2022/11/optimizing-vue-app/",
-    "reading_time": "14 min read",
+    "reading_time": "15 min read",
     "date": "11/22/2022",
     "site": "smashingmagazine"
   },
@@ -760,7 +760,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "8 min read",
+    "reading_time": "7 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "27 min read",
+    "reading_time": "26 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
