@@ -1,13 +1,427 @@
 [
   {
-    "title": "🗓️ Monthly Dev Report: October 2026",
-    "link": "https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7",
-    "date": "10/26/2026",
+    "title": "TypeScript 7.1 Can Now Import Almost Anything. So I Made It Import C++, C, and Rust.",
+    "link": "https://dev.to/mykhailen/typescript-71-can-now-import-almost-anything-so-i-made-it-import-c-c-and-rust-3h25",
+    "date": "10/27/2026",
     "site": "dev.to"
   },
   {
-    "title": "AWS Lambda now runs your HTTP server. Do you still need API Gateway?",
-    "link": "dev.to/roosterdev/aws-lambda-now-runs-your-http-server-do-you-still-need-api-gateway-2fop",
+    "title": "Your agent needs a stand-in, not the password: a surrogate-token proxy in Node.js",
+    "link": "https://dev.to/dekita/your-agent-needs-a-stand-in-not-the-password-a-surrogate-token-proxy-in-nodejs-2116",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You Might Not Need Redis for Background Jobs",
+    "link": "https://dev.to/ihssmaheel/you-might-not-need-redis-for-background-jobs-1a9n",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Diagnosing BullMQ Jobs with OpenTelemetry and SigNoz",
+    "link": "https://dev.to/hunter-debug00/diagnosing-bullmq-jobs-with-opentelemetry-and-signoz-3gma",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Progressive vs baseline JPEG with mozjpeg: the byte difference",
+    "link": "https://dev.to/dev-sahadat/progressive-vs-baseline-jpeg-with-mozjpeg-the-byte-difference-34hm",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "7 Resend Alternatives in 2026, With Real Prices and Tradeoffs",
+    "link": "https://dev.to/boiliev/7-resend-alternatives-in-2026-with-real-prices-and-tradeoffs-2d2a",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "my dashboard said a post from seconds ago would happen in 7 hours",
+    "link": "https://dev.to/motzumoto/my-dashboard-said-a-post-from-seconds-ago-would-happen-in-7-hours-4a6e",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Pairing Hour on JSON That Parses but Lies: The Contract Canary We Kept",
+    "link": "https://dev.to/appjs_7055/a-pairing-hour-on-json-that-parses-but-lies-the-contract-canary-we-kept-e9e",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Secure AI Tool Calls in Node.js 22: Using Permission Flags to Sandbox Claude Agents",
+    "link": "https://dev.to/dineshgowtham/secure-ai-tool-calls-in-nodejs-22-using-permission-flags-to-sandbox-claude-agents-2p67",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "73% of firebase-admin downloads are still on v13 or older, 4 months after v14",
+    "link": "https://dev.to/ivan_tsomo_c71556b8abba1f/73-of-firebase-admin-downloads-are-still-on-v13-or-older-4-months-after-v14-2acf",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Connecting a Netlify Function to a Home Server via a Dynamic Cloudflare Tunnel",
+    "link": "https://dev.to/the_bomber_f1e42beb1feaec/connecting-a-netlify-function-to-a-home-server-via-a-dynamic-cloudflare-tunnel-4bl7",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "new Date('2026-10-25') Shows October 24 West of Greenwich, and a Day Filter Built on It Is Off Everywhere but UTC",
+    "link": "https://dev.to/superfunicular/new-date2026-10-25-shows-october-24-west-of-greenwich-and-a-day-filter-built-on-it-is-off-ecb",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Time Tracking App Like Hubstaff: Lessons from Staffvertex",
+    "link": "https://dev.to/osama_khattak_c40f3a9e302/how-to-build-a-time-tracking-app-like-hubstaff-lessons-from-staffvertex-mjp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding TOTP 2FA to your app the RFC way (Node.js and Python, no libraries)",
+    "link": "https://dev.to/ragedpanda/adding-totp-2fa-to-your-app-the-rfc-way-nodejs-and-python-no-libraries-2ko7",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript 7.1 Can Now Import Almost Anything. So I Made It Import C++, C, and Rust.",
+    "link": "https://dev.to/mykhailen/typescript-71-can-now-import-almost-anything-so-i-made-it-import-c-c-and-rust-3h25",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your agent needs a stand-in, not the password: a surrogate-token proxy in Node.js",
+    "link": "https://dev.to/dekita/your-agent-needs-a-stand-in-not-the-password-a-surrogate-token-proxy-in-nodejs-2116",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You Might Not Need Redis for Background Jobs",
+    "link": "https://dev.to/ihssmaheel/you-might-not-need-redis-for-background-jobs-1a9n",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Diagnosing BullMQ Jobs with OpenTelemetry and SigNoz",
+    "link": "https://dev.to/hunter-debug00/diagnosing-bullmq-jobs-with-opentelemetry-and-signoz-3gma",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Progressive vs baseline JPEG with mozjpeg: the byte difference",
+    "link": "https://dev.to/dev-sahadat/progressive-vs-baseline-jpeg-with-mozjpeg-the-byte-difference-34hm",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "7 Resend Alternatives in 2026, With Real Prices and Tradeoffs",
+    "link": "https://dev.to/boiliev/7-resend-alternatives-in-2026-with-real-prices-and-tradeoffs-2d2a",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "my dashboard said a post from seconds ago would happen in 7 hours",
+    "link": "https://dev.to/motzumoto/my-dashboard-said-a-post-from-seconds-ago-would-happen-in-7-hours-4a6e",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Pairing Hour on JSON That Parses but Lies: The Contract Canary We Kept",
+    "link": "https://dev.to/appjs_7055/a-pairing-hour-on-json-that-parses-but-lies-the-contract-canary-we-kept-e9e",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Secure AI Tool Calls in Node.js 22: Using Permission Flags to Sandbox Claude Agents",
+    "link": "https://dev.to/dineshgowtham/secure-ai-tool-calls-in-nodejs-22-using-permission-flags-to-sandbox-claude-agents-2p67",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "73% of firebase-admin downloads are still on v13 or older, 4 months after v14",
+    "link": "https://dev.to/ivan_tsomo_c71556b8abba1f/73-of-firebase-admin-downloads-are-still-on-v13-or-older-4-months-after-v14-2acf",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Connecting a Netlify Function to a Home Server via a Dynamic Cloudflare Tunnel",
+    "link": "https://dev.to/the_bomber_f1e42beb1feaec/connecting-a-netlify-function-to-a-home-server-via-a-dynamic-cloudflare-tunnel-4bl7",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "new Date('2026-10-25') Shows October 24 West of Greenwich, and a Day Filter Built on It Is Off Everywhere but UTC",
+    "link": "https://dev.to/superfunicular/new-date2026-10-25-shows-october-24-west-of-greenwich-and-a-day-filter-built-on-it-is-off-ecb",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Time Tracking App Like Hubstaff: Lessons from Staffvertex",
+    "link": "https://dev.to/osama_khattak_c40f3a9e302/how-to-build-a-time-tracking-app-like-hubstaff-lessons-from-staffvertex-mjp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding TOTP 2FA to your app the RFC way (Node.js and Python, no libraries)",
+    "link": "https://dev.to/ragedpanda/adding-totp-2fa-to-your-app-the-rfc-way-nodejs-and-python-no-libraries-2ko7",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript 7.1 Can Now Import Almost Anything. So I Made It Import C++, C, and Rust.",
+    "link": "https://dev.to/mykhailen/typescript-71-can-now-import-almost-anything-so-i-made-it-import-c-c-and-rust-3h25",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your agent needs a stand-in, not the password: a surrogate-token proxy in Node.js",
+    "link": "https://dev.to/dekita/your-agent-needs-a-stand-in-not-the-password-a-surrogate-token-proxy-in-nodejs-2116",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You Might Not Need Redis for Background Jobs",
+    "link": "https://dev.to/ihssmaheel/you-might-not-need-redis-for-background-jobs-1a9n",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Diagnosing BullMQ Jobs with OpenTelemetry and SigNoz",
+    "link": "https://dev.to/hunter-debug00/diagnosing-bullmq-jobs-with-opentelemetry-and-signoz-3gma",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Progressive vs baseline JPEG with mozjpeg: the byte difference",
+    "link": "https://dev.to/dev-sahadat/progressive-vs-baseline-jpeg-with-mozjpeg-the-byte-difference-34hm",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "7 Resend Alternatives in 2026, With Real Prices and Tradeoffs",
+    "link": "https://dev.to/boiliev/7-resend-alternatives-in-2026-with-real-prices-and-tradeoffs-2d2a",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "my dashboard said a post from seconds ago would happen in 7 hours",
+    "link": "https://dev.to/motzumoto/my-dashboard-said-a-post-from-seconds-ago-would-happen-in-7-hours-4a6e",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Pairing Hour on JSON That Parses but Lies: The Contract Canary We Kept",
+    "link": "https://dev.to/appjs_7055/a-pairing-hour-on-json-that-parses-but-lies-the-contract-canary-we-kept-e9e",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Secure AI Tool Calls in Node.js 22: Using Permission Flags to Sandbox Claude Agents",
+    "link": "https://dev.to/dineshgowtham/secure-ai-tool-calls-in-nodejs-22-using-permission-flags-to-sandbox-claude-agents-2p67",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "73% of firebase-admin downloads are still on v13 or older, 4 months after v14",
+    "link": "https://dev.to/ivan_tsomo_c71556b8abba1f/73-of-firebase-admin-downloads-are-still-on-v13-or-older-4-months-after-v14-2acf",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Connecting a Netlify Function to a Home Server via a Dynamic Cloudflare Tunnel",
+    "link": "https://dev.to/the_bomber_f1e42beb1feaec/connecting-a-netlify-function-to-a-home-server-via-a-dynamic-cloudflare-tunnel-4bl7",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "new Date('2026-10-25') Shows October 24 West of Greenwich, and a Day Filter Built on It Is Off Everywhere but UTC",
+    "link": "https://dev.to/superfunicular/new-date2026-10-25-shows-october-24-west-of-greenwich-and-a-day-filter-built-on-it-is-off-ecb",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Time Tracking App Like Hubstaff: Lessons from Staffvertex",
+    "link": "https://dev.to/osama_khattak_c40f3a9e302/how-to-build-a-time-tracking-app-like-hubstaff-lessons-from-staffvertex-mjp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding TOTP 2FA to your app the RFC way (Node.js and Python, no libraries)",
+    "link": "https://dev.to/ragedpanda/adding-totp-2fa-to-your-app-the-rfc-way-nodejs-and-python-no-libraries-2ko7",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript 7.1 Can Now Import Almost Anything. So I Made It Import C++, C, and Rust.",
+    "link": "https://dev.to/mykhailen/typescript-71-can-now-import-almost-anything-so-i-made-it-import-c-c-and-rust-3h25",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your agent needs a stand-in, not the password: a surrogate-token proxy in Node.js",
+    "link": "https://dev.to/dekita/your-agent-needs-a-stand-in-not-the-password-a-surrogate-token-proxy-in-nodejs-2116",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You Might Not Need Redis for Background Jobs",
+    "link": "https://dev.to/ihssmaheel/you-might-not-need-redis-for-background-jobs-1a9n",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Diagnosing BullMQ Jobs with OpenTelemetry and SigNoz",
+    "link": "https://dev.to/hunter-debug00/diagnosing-bullmq-jobs-with-opentelemetry-and-signoz-3gma",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Progressive vs baseline JPEG with mozjpeg: the byte difference",
+    "link": "https://dev.to/dev-sahadat/progressive-vs-baseline-jpeg-with-mozjpeg-the-byte-difference-34hm",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "7 Resend Alternatives in 2026, With Real Prices and Tradeoffs",
+    "link": "https://dev.to/boiliev/7-resend-alternatives-in-2026-with-real-prices-and-tradeoffs-2d2a",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "my dashboard said a post from seconds ago would happen in 7 hours",
+    "link": "https://dev.to/motzumoto/my-dashboard-said-a-post-from-seconds-ago-would-happen-in-7-hours-4a6e",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Pairing Hour on JSON That Parses but Lies: The Contract Canary We Kept",
+    "link": "https://dev.to/appjs_7055/a-pairing-hour-on-json-that-parses-but-lies-the-contract-canary-we-kept-e9e",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Secure AI Tool Calls in Node.js 22: Using Permission Flags to Sandbox Claude Agents",
+    "link": "https://dev.to/dineshgowtham/secure-ai-tool-calls-in-nodejs-22-using-permission-flags-to-sandbox-claude-agents-2p67",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "73% of firebase-admin downloads are still on v13 or older, 4 months after v14",
+    "link": "https://dev.to/ivan_tsomo_c71556b8abba1f/73-of-firebase-admin-downloads-are-still-on-v13-or-older-4-months-after-v14-2acf",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Connecting a Netlify Function to a Home Server via a Dynamic Cloudflare Tunnel",
+    "link": "https://dev.to/the_bomber_f1e42beb1feaec/connecting-a-netlify-function-to-a-home-server-via-a-dynamic-cloudflare-tunnel-4bl7",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "new Date('2026-10-25') Shows October 24 West of Greenwich, and a Day Filter Built on It Is Off Everywhere but UTC",
+    "link": "https://dev.to/superfunicular/new-date2026-10-25-shows-october-24-west-of-greenwich-and-a-day-filter-built-on-it-is-off-ecb",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Time Tracking App Like Hubstaff: Lessons from Staffvertex",
+    "link": "https://dev.to/osama_khattak_c40f3a9e302/how-to-build-a-time-tracking-app-like-hubstaff-lessons-from-staffvertex-mjp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding TOTP 2FA to your app the RFC way (Node.js and Python, no libraries)",
+    "link": "https://dev.to/ragedpanda/adding-totp-2fa-to-your-app-the-rfc-way-nodejs-and-python-no-libraries-2ko7",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript 7.1 Can Now Import Almost Anything. So I Made It Import C++, C, and Rust.",
+    "link": "https://dev.to/mykhailen/typescript-71-can-now-import-almost-anything-so-i-made-it-import-c-c-and-rust-3h25",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Your agent needs a stand-in, not the password: a surrogate-token proxy in Node.js",
+    "link": "https://dev.to/dekita/your-agent-needs-a-stand-in-not-the-password-a-surrogate-token-proxy-in-nodejs-2116",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "You Might Not Need Redis for Background Jobs",
+    "link": "https://dev.to/ihssmaheel/you-might-not-need-redis-for-background-jobs-1a9n",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Diagnosing BullMQ Jobs with OpenTelemetry and SigNoz",
+    "link": "https://dev.to/hunter-debug00/diagnosing-bullmq-jobs-with-opentelemetry-and-signoz-3gma",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Progressive vs baseline JPEG with mozjpeg: the byte difference",
+    "link": "https://dev.to/dev-sahadat/progressive-vs-baseline-jpeg-with-mozjpeg-the-byte-difference-34hm",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "7 Resend Alternatives in 2026, With Real Prices and Tradeoffs",
+    "link": "https://dev.to/boiliev/7-resend-alternatives-in-2026-with-real-prices-and-tradeoffs-2d2a",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "my dashboard said a post from seconds ago would happen in 7 hours",
+    "link": "https://dev.to/motzumoto/my-dashboard-said-a-post-from-seconds-ago-would-happen-in-7-hours-4a6e",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A Pairing Hour on JSON That Parses but Lies: The Contract Canary We Kept",
+    "link": "https://dev.to/appjs_7055/a-pairing-hour-on-json-that-parses-but-lies-the-contract-canary-we-kept-e9e",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Secure AI Tool Calls in Node.js 22: Using Permission Flags to Sandbox Claude Agents",
+    "link": "https://dev.to/dineshgowtham/secure-ai-tool-calls-in-nodejs-22-using-permission-flags-to-sandbox-claude-agents-2p67",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "73% of firebase-admin downloads are still on v13 or older, 4 months after v14",
+    "link": "https://dev.to/ivan_tsomo_c71556b8abba1f/73-of-firebase-admin-downloads-are-still-on-v13-or-older-4-months-after-v14-2acf",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Connecting a Netlify Function to a Home Server via a Dynamic Cloudflare Tunnel",
+    "link": "https://dev.to/the_bomber_f1e42beb1feaec/connecting-a-netlify-function-to-a-home-server-via-a-dynamic-cloudflare-tunnel-4bl7",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "new Date('2026-10-25') Shows October 24 West of Greenwich, and a Day Filter Built on It Is Off Everywhere but UTC",
+    "link": "https://dev.to/superfunicular/new-date2026-10-25-shows-october-24-west-of-greenwich-and-a-day-filter-built-on-it-is-off-ecb",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Build a Time Tracking App Like Hubstaff: Lessons from Staffvertex",
+    "link": "https://dev.to/osama_khattak_c40f3a9e302/how-to-build-a-time-tracking-app-like-hubstaff-lessons-from-staffvertex-mjp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Adding TOTP 2FA to your app the RFC way (Node.js and Python, no libraries)",
+    "link": "https://dev.to/ragedpanda/adding-totp-2fa-to-your-app-the-rfc-way-nodejs-and-python-no-libraries-2ko7",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
+    "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
     "date": "10/26/2026",
     "site": "dev.to"
   },
@@ -18,86 +432,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Building an AI Shorts pipeline with ffmpeg: 9:16, Ken Burns zoom, captions that match the voice",
-    "link": "https://dev.to/syncoders/building-an-ai-shorts-pipeline-with-ffmpeg-916-ken-burns-zoom-captions-that-match-the-voice-1lc1",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSON.parse Source Text Access: Stop Losing Precision on Big IDs",
-    "link": "https://dev.to/grimicorn/jsonparse-source-text-access-stop-losing-precision-on-big-ids-57gh",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Printing 72 vector PDFs from HTML and CSS with headless Chrome",
-    "link": "https://dev.to/_d56ee71434515ebe5ebd7f/printing-72-vector-pdfs-from-html-and-css-with-headless-chrome-13h",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Linode became Akamai Cloud — is it still worth it for Node.js in 2026?",
-    "link": "https://dev.to/vpsfordev/linode-became-akamai-cloud-is-it-still-worth-it-for-nodejs-in-2026-51j3",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two core RCEs in one week, neither needs a sleepless night",
-    "link": "https://dev.to/analista_83/two-core-rces-in-one-week-neither-needs-a-sleepless-night-c6p",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What if you could change your HTTP server in Node.js without touching a single line of business logic?",
-    "link": "dev.to/mattiacarcione/what-if-you-could-change-your-http-server-in-nodejs-without-touching-a-single-line-of-business-184g",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two of our sixteen npm scripts call files that are not in the repository, and one of them has been broken since the day it was written",
-    "link": "https://dev.to/daniel_pertu/two-of-our-sixteen-npm-scripts-call-files-that-are-not-in-the-repository-and-one-of-them-has-been-3a28",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When curl prints 000: building an egress check that cannot lie",
-    "link": "https://dev.to/pinnadash/when-curl-prints-000-building-an-egress-check-that-cannot-lie-i27",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Our Windows installer is 56 days older than our Mac one, and nothing in the product can say so",
-    "link": "https://dev.to/daniel_pertu/our-windows-installer-is-56-days-older-than-our-mac-one-and-nothing-in-the-product-can-say-so-19n9",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Forwarding inbound mail from our own domain switched off the receiving inbox's spam filter, and the support address was replying to the pitches",
-    "link": "https://dev.to/daniel_pertu/forwarding-inbound-mail-from-our-own-domain-switched-off-the-receiving-inboxs-spam-filter-and-the-1f1o",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From zero to your first Garmin data in Node",
-    "link": "https://dev.to/dynamicsninja/from-zero-to-your-first-garmin-data-in-node-4ai6",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Lanczos Upscaling for Catalog AI Images: 2 Steps (and Why I Chose One)",
-    "link": "https://dev.to/thomasmoore157/nodejs-lanczos-upscaling-for-catalog-ai-images-2-steps-and-why-i-chose-one-34ln",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🗓️ Monthly Dev Report: October 2026",
-    "link": "https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AWS Lambda now runs your HTTP server. Do you still need API Gateway?",
-    "link": "dev.to/roosterdev/aws-lambda-now-runs-your-http-server-do-you-still-need-api-gateway-2fop",
+    "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
+    "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
     "date": "10/26/2026",
     "site": "dev.to"
   },
@@ -108,344 +444,8 @@
     "site": "dev.to"
   },
   {
-    "title": "Building an AI Shorts pipeline with ffmpeg: 9:16, Ken Burns zoom, captions that match the voice",
-    "link": "https://dev.to/syncoders/building-an-ai-shorts-pipeline-with-ffmpeg-916-ken-burns-zoom-captions-that-match-the-voice-1lc1",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSON.parse Source Text Access: Stop Losing Precision on Big IDs",
-    "link": "https://dev.to/grimicorn/jsonparse-source-text-access-stop-losing-precision-on-big-ids-57gh",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Printing 72 vector PDFs from HTML and CSS with headless Chrome",
-    "link": "https://dev.to/_d56ee71434515ebe5ebd7f/printing-72-vector-pdfs-from-html-and-css-with-headless-chrome-13h",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Linode became Akamai Cloud — is it still worth it for Node.js in 2026?",
-    "link": "https://dev.to/vpsfordev/linode-became-akamai-cloud-is-it-still-worth-it-for-nodejs-in-2026-51j3",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two core RCEs in one week, neither needs a sleepless night",
-    "link": "https://dev.to/analista_83/two-core-rces-in-one-week-neither-needs-a-sleepless-night-c6p",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What if you could change your HTTP server in Node.js without touching a single line of business logic?",
-    "link": "dev.to/mattiacarcione/what-if-you-could-change-your-http-server-in-nodejs-without-touching-a-single-line-of-business-184g",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two of our sixteen npm scripts call files that are not in the repository, and one of them has been broken since the day it was written",
-    "link": "https://dev.to/daniel_pertu/two-of-our-sixteen-npm-scripts-call-files-that-are-not-in-the-repository-and-one-of-them-has-been-3a28",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When curl prints 000: building an egress check that cannot lie",
-    "link": "https://dev.to/pinnadash/when-curl-prints-000-building-an-egress-check-that-cannot-lie-i27",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Our Windows installer is 56 days older than our Mac one, and nothing in the product can say so",
-    "link": "https://dev.to/daniel_pertu/our-windows-installer-is-56-days-older-than-our-mac-one-and-nothing-in-the-product-can-say-so-19n9",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Forwarding inbound mail from our own domain switched off the receiving inbox's spam filter, and the support address was replying to the pitches",
-    "link": "https://dev.to/daniel_pertu/forwarding-inbound-mail-from-our-own-domain-switched-off-the-receiving-inboxs-spam-filter-and-the-1f1o",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From zero to your first Garmin data in Node",
-    "link": "https://dev.to/dynamicsninja/from-zero-to-your-first-garmin-data-in-node-4ai6",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Lanczos Upscaling for Catalog AI Images: 2 Steps (and Why I Chose One)",
-    "link": "https://dev.to/thomasmoore157/nodejs-lanczos-upscaling-for-catalog-ai-images-2-steps-and-why-i-chose-one-34ln",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🗓️ Monthly Dev Report: October 2026",
-    "link": "https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AWS Lambda now runs your HTTP server. Do you still need API Gateway?",
-    "link": "dev.to/roosterdev/aws-lambda-now-runs-your-http-server-do-you-still-need-api-gateway-2fop",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
     "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an AI Shorts pipeline with ffmpeg: 9:16, Ken Burns zoom, captions that match the voice",
-    "link": "https://dev.to/syncoders/building-an-ai-shorts-pipeline-with-ffmpeg-916-ken-burns-zoom-captions-that-match-the-voice-1lc1",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSON.parse Source Text Access: Stop Losing Precision on Big IDs",
-    "link": "https://dev.to/grimicorn/jsonparse-source-text-access-stop-losing-precision-on-big-ids-57gh",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Printing 72 vector PDFs from HTML and CSS with headless Chrome",
-    "link": "https://dev.to/_d56ee71434515ebe5ebd7f/printing-72-vector-pdfs-from-html-and-css-with-headless-chrome-13h",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Linode became Akamai Cloud — is it still worth it for Node.js in 2026?",
-    "link": "https://dev.to/vpsfordev/linode-became-akamai-cloud-is-it-still-worth-it-for-nodejs-in-2026-51j3",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two core RCEs in one week, neither needs a sleepless night",
-    "link": "https://dev.to/analista_83/two-core-rces-in-one-week-neither-needs-a-sleepless-night-c6p",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What if you could change your HTTP server in Node.js without touching a single line of business logic?",
-    "link": "dev.to/mattiacarcione/what-if-you-could-change-your-http-server-in-nodejs-without-touching-a-single-line-of-business-184g",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two of our sixteen npm scripts call files that are not in the repository, and one of them has been broken since the day it was written",
-    "link": "https://dev.to/daniel_pertu/two-of-our-sixteen-npm-scripts-call-files-that-are-not-in-the-repository-and-one-of-them-has-been-3a28",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When curl prints 000: building an egress check that cannot lie",
-    "link": "https://dev.to/pinnadash/when-curl-prints-000-building-an-egress-check-that-cannot-lie-i27",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Our Windows installer is 56 days older than our Mac one, and nothing in the product can say so",
-    "link": "https://dev.to/daniel_pertu/our-windows-installer-is-56-days-older-than-our-mac-one-and-nothing-in-the-product-can-say-so-19n9",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Forwarding inbound mail from our own domain switched off the receiving inbox's spam filter, and the support address was replying to the pitches",
-    "link": "https://dev.to/daniel_pertu/forwarding-inbound-mail-from-our-own-domain-switched-off-the-receiving-inboxs-spam-filter-and-the-1f1o",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From zero to your first Garmin data in Node",
-    "link": "https://dev.to/dynamicsninja/from-zero-to-your-first-garmin-data-in-node-4ai6",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Lanczos Upscaling for Catalog AI Images: 2 Steps (and Why I Chose One)",
-    "link": "https://dev.to/thomasmoore157/nodejs-lanczos-upscaling-for-catalog-ai-images-2-steps-and-why-i-chose-one-34ln",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🗓️ Monthly Dev Report: October 2026",
-    "link": "https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AWS Lambda now runs your HTTP server. Do you still need API Gateway?",
-    "link": "dev.to/roosterdev/aws-lambda-now-runs-your-http-server-do-you-still-need-api-gateway-2fop",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
-    "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an AI Shorts pipeline with ffmpeg: 9:16, Ken Burns zoom, captions that match the voice",
-    "link": "https://dev.to/syncoders/building-an-ai-shorts-pipeline-with-ffmpeg-916-ken-burns-zoom-captions-that-match-the-voice-1lc1",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSON.parse Source Text Access: Stop Losing Precision on Big IDs",
-    "link": "https://dev.to/grimicorn/jsonparse-source-text-access-stop-losing-precision-on-big-ids-57gh",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Printing 72 vector PDFs from HTML and CSS with headless Chrome",
-    "link": "https://dev.to/_d56ee71434515ebe5ebd7f/printing-72-vector-pdfs-from-html-and-css-with-headless-chrome-13h",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Linode became Akamai Cloud — is it still worth it for Node.js in 2026?",
-    "link": "https://dev.to/vpsfordev/linode-became-akamai-cloud-is-it-still-worth-it-for-nodejs-in-2026-51j3",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two core RCEs in one week, neither needs a sleepless night",
-    "link": "https://dev.to/analista_83/two-core-rces-in-one-week-neither-needs-a-sleepless-night-c6p",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What if you could change your HTTP server in Node.js without touching a single line of business logic?",
-    "link": "dev.to/mattiacarcione/what-if-you-could-change-your-http-server-in-nodejs-without-touching-a-single-line-of-business-184g",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two of our sixteen npm scripts call files that are not in the repository, and one of them has been broken since the day it was written",
-    "link": "https://dev.to/daniel_pertu/two-of-our-sixteen-npm-scripts-call-files-that-are-not-in-the-repository-and-one-of-them-has-been-3a28",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When curl prints 000: building an egress check that cannot lie",
-    "link": "https://dev.to/pinnadash/when-curl-prints-000-building-an-egress-check-that-cannot-lie-i27",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Our Windows installer is 56 days older than our Mac one, and nothing in the product can say so",
-    "link": "https://dev.to/daniel_pertu/our-windows-installer-is-56-days-older-than-our-mac-one-and-nothing-in-the-product-can-say-so-19n9",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Forwarding inbound mail from our own domain switched off the receiving inbox's spam filter, and the support address was replying to the pitches",
-    "link": "https://dev.to/daniel_pertu/forwarding-inbound-mail-from-our-own-domain-switched-off-the-receiving-inboxs-spam-filter-and-the-1f1o",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From zero to your first Garmin data in Node",
-    "link": "https://dev.to/dynamicsninja/from-zero-to-your-first-garmin-data-in-node-4ai6",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Lanczos Upscaling for Catalog AI Images: 2 Steps (and Why I Chose One)",
-    "link": "https://dev.to/thomasmoore157/nodejs-lanczos-upscaling-for-catalog-ai-images-2-steps-and-why-i-chose-one-34ln",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "🗓️ Monthly Dev Report: October 2026",
-    "link": "https://dev.to/francistrdev/monthly-dev-report-october-2026-1ja7",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "AWS Lambda now runs your HTTP server. Do you still need API Gateway?",
-    "link": "dev.to/roosterdev/aws-lambda-now-runs-your-http-server-do-you-still-need-api-gateway-2fop",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
-    "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building an AI Shorts pipeline with ffmpeg: 9:16, Ken Burns zoom, captions that match the voice",
-    "link": "https://dev.to/syncoders/building-an-ai-shorts-pipeline-with-ffmpeg-916-ken-burns-zoom-captions-that-match-the-voice-1lc1",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSON.parse Source Text Access: Stop Losing Precision on Big IDs",
-    "link": "https://dev.to/grimicorn/jsonparse-source-text-access-stop-losing-precision-on-big-ids-57gh",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Printing 72 vector PDFs from HTML and CSS with headless Chrome",
-    "link": "https://dev.to/_d56ee71434515ebe5ebd7f/printing-72-vector-pdfs-from-html-and-css-with-headless-chrome-13h",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Linode became Akamai Cloud — is it still worth it for Node.js in 2026?",
-    "link": "https://dev.to/vpsfordev/linode-became-akamai-cloud-is-it-still-worth-it-for-nodejs-in-2026-51j3",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two core RCEs in one week, neither needs a sleepless night",
-    "link": "https://dev.to/analista_83/two-core-rces-in-one-week-neither-needs-a-sleepless-night-c6p",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What if you could change your HTTP server in Node.js without touching a single line of business logic?",
-    "link": "dev.to/mattiacarcione/what-if-you-could-change-your-http-server-in-nodejs-without-touching-a-single-line-of-business-184g",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Two of our sixteen npm scripts call files that are not in the repository, and one of them has been broken since the day it was written",
-    "link": "https://dev.to/daniel_pertu/two-of-our-sixteen-npm-scripts-call-files-that-are-not-in-the-repository-and-one-of-them-has-been-3a28",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "When curl prints 000: building an egress check that cannot lie",
-    "link": "https://dev.to/pinnadash/when-curl-prints-000-building-an-egress-check-that-cannot-lie-i27",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Our Windows installer is 56 days older than our Mac one, and nothing in the product can say so",
-    "link": "https://dev.to/daniel_pertu/our-windows-installer-is-56-days-older-than-our-mac-one-and-nothing-in-the-product-can-say-so-19n9",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Forwarding inbound mail from our own domain switched off the receiving inbox's spam filter, and the support address was replying to the pitches",
-    "link": "https://dev.to/daniel_pertu/forwarding-inbound-mail-from-our-own-domain-switched-off-the-receiving-inboxs-spam-filter-and-the-1f1o",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "From zero to your first Garmin data in Node",
-    "link": "https://dev.to/dynamicsninja/from-zero-to-your-first-garmin-data-in-node-4ai6",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Lanczos Upscaling for Catalog AI Images: 2 Steps (and Why I Chose One)",
-    "link": "https://dev.to/thomasmoore157/nodejs-lanczos-upscaling-for-catalog-ai-images-2-steps-and-why-i-chose-one-34ln",
     "date": "10/26/2026",
     "site": "dev.to"
   },
@@ -466,7 +466,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
@@ -662,7 +662,7 @@
   {
     "title": "Creating Secure Password Resets With JSON Web Tokens",
     "link": "https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/",
-    "reading_time": "18 min read",
+    "reading_time": "19 min read",
     "date": "11/9/2017",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Useful Node.js Tools, Tutorials And Resources",
     "link": "https://www.smashingmagazine.com/2011/09/useful-node-js-tools-tutorials-and-resources/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "9/16/2011",
     "site": "smashingmagazine"
   }

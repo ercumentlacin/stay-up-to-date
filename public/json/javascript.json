@@ -1,91 +1,433 @@
 [
   {
+    "title": "console.log is a legitimate debugging tool",
+    "link": "https://dev.to/khushighosh/consolelog-is-a-legitimate-debugging-tool-2dhp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again",
+    "link": "https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From client-only to SSR: building Gemkit, a SvelteKit-style framework for Web Components",
+    "link": "https://dev.to/mantou132/from-client-only-to-ssr-building-gemkit-a-sveltekit-style-framework-for-web-components-8ag",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built browser-only image, PDF and video tools – nothing gets uploaded",
+    "link": "https://dev.to/daily-solution/i-built-browser-only-image-pdf-and-video-tools-nothing-gets-uploaded-8a",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "tRPC + TanStack Router: Build Fully Type-Safe Data Fetching with tanstack-fetch",
+    "link": "https://dev.to/mwmdgmb/trpc-tanstack-router-build-fully-type-safe-data-fetching-with-tanstack-fetch-4gnb",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced FFmpeg.wasm with WebCodecs in my browser video tools. Compression went from 97 s to 5.6 s",
+    "link": "https://dev.to/muhammad_afan/i-replaced-ffmpegwasm-with-webcodecs-in-my-browser-video-tools-compression-went-from-97-s-to-56-s-32em",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pourquoi ton code prépare un futur qui n'arrivera jamais (YAGNI)",
+    "link": "https://dev.to/_notbu7ch/pourquoi-ton-code-prepare-un-futur-qui-narrivera-jamais-yagni-2dik",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "O fantasma que assombra o PDF da Fecombustíveis: um robô que transforma a tributação dos combustíveis em XML",
+    "link": "https://dev.to/fabiohcnobre/o-fantasma-que-assombra-o-pdf-da-fecombustiveis-um-robo-que-transforma-a-tributacao-dos-1b30",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I tested my browser-based email checkers against dkimpy, checkdmarc and pyspf: 12,618 results, 76 disagreements",
+    "link": "https://dev.to/jeremiah_say/i-tested-my-browser-based-email-checkers-against-dkimpy-checkdmarc-and-pyspf-12618-results-76-m18",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Profanity Filter Blocks Scunthorpe (And How to Fix It)",
+    "link": "https://dev.to/tomer_n/why-your-profanity-filter-blocks-scunthorpe-and-how-to-fix-it-32jn",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How we built an MCP App for a cash-on-delivery store in Uzbekistan",
+    "link": "https://dev.to/birinchishop/how-we-built-an-mcp-app-for-a-cash-on-delivery-store-in-uzbekistan-4gin",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I fetched 30 AI-built sites without JavaScript. 8 of 9 Bolt sites were empty pages.",
+    "link": "https://dev.to/duoni/i-fetched-30-ai-built-sites-without-javascript-8-of-9-bolt-sites-were-empty-pages-2je2",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unexpected token '<' means your server sent you a web page",
+    "link": "https://dev.to/vish045/unexpected-token-means-your-server-sent-you-a-web-page-fni",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A smaller catalogue page without losing crawlable navigation",
+    "link": "https://dev.to/ar_karakaya_b6b310823e/a-smaller-catalogue-page-without-losing-crawlable-navigation-4c3g",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "console.log is a legitimate debugging tool",
+    "link": "https://dev.to/khushighosh/consolelog-is-a-legitimate-debugging-tool-2dhp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again",
+    "link": "https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From client-only to SSR: building Gemkit, a SvelteKit-style framework for Web Components",
+    "link": "https://dev.to/mantou132/from-client-only-to-ssr-building-gemkit-a-sveltekit-style-framework-for-web-components-8ag",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built browser-only image, PDF and video tools – nothing gets uploaded",
+    "link": "https://dev.to/daily-solution/i-built-browser-only-image-pdf-and-video-tools-nothing-gets-uploaded-8a",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "tRPC + TanStack Router: Build Fully Type-Safe Data Fetching with tanstack-fetch",
+    "link": "https://dev.to/mwmdgmb/trpc-tanstack-router-build-fully-type-safe-data-fetching-with-tanstack-fetch-4gnb",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced FFmpeg.wasm with WebCodecs in my browser video tools. Compression went from 97 s to 5.6 s",
+    "link": "https://dev.to/muhammad_afan/i-replaced-ffmpegwasm-with-webcodecs-in-my-browser-video-tools-compression-went-from-97-s-to-56-s-32em",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pourquoi ton code prépare un futur qui n'arrivera jamais (YAGNI)",
+    "link": "https://dev.to/_notbu7ch/pourquoi-ton-code-prepare-un-futur-qui-narrivera-jamais-yagni-2dik",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "O fantasma que assombra o PDF da Fecombustíveis: um robô que transforma a tributação dos combustíveis em XML",
+    "link": "https://dev.to/fabiohcnobre/o-fantasma-que-assombra-o-pdf-da-fecombustiveis-um-robo-que-transforma-a-tributacao-dos-1b30",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I tested my browser-based email checkers against dkimpy, checkdmarc and pyspf: 12,618 results, 76 disagreements",
+    "link": "https://dev.to/jeremiah_say/i-tested-my-browser-based-email-checkers-against-dkimpy-checkdmarc-and-pyspf-12618-results-76-m18",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Profanity Filter Blocks Scunthorpe (And How to Fix It)",
+    "link": "https://dev.to/tomer_n/why-your-profanity-filter-blocks-scunthorpe-and-how-to-fix-it-32jn",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How we built an MCP App for a cash-on-delivery store in Uzbekistan",
+    "link": "https://dev.to/birinchishop/how-we-built-an-mcp-app-for-a-cash-on-delivery-store-in-uzbekistan-4gin",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I fetched 30 AI-built sites without JavaScript. 8 of 9 Bolt sites were empty pages.",
+    "link": "https://dev.to/duoni/i-fetched-30-ai-built-sites-without-javascript-8-of-9-bolt-sites-were-empty-pages-2je2",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unexpected token '<' means your server sent you a web page",
+    "link": "https://dev.to/vish045/unexpected-token-means-your-server-sent-you-a-web-page-fni",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A smaller catalogue page without losing crawlable navigation",
+    "link": "https://dev.to/ar_karakaya_b6b310823e/a-smaller-catalogue-page-without-losing-crawlable-navigation-4c3g",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "console.log is a legitimate debugging tool",
+    "link": "https://dev.to/khushighosh/consolelog-is-a-legitimate-debugging-tool-2dhp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again",
+    "link": "https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From client-only to SSR: building Gemkit, a SvelteKit-style framework for Web Components",
+    "link": "https://dev.to/mantou132/from-client-only-to-ssr-building-gemkit-a-sveltekit-style-framework-for-web-components-8ag",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built browser-only image, PDF and video tools – nothing gets uploaded",
+    "link": "https://dev.to/daily-solution/i-built-browser-only-image-pdf-and-video-tools-nothing-gets-uploaded-8a",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "tRPC + TanStack Router: Build Fully Type-Safe Data Fetching with tanstack-fetch",
+    "link": "https://dev.to/mwmdgmb/trpc-tanstack-router-build-fully-type-safe-data-fetching-with-tanstack-fetch-4gnb",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced FFmpeg.wasm with WebCodecs in my browser video tools. Compression went from 97 s to 5.6 s",
+    "link": "https://dev.to/muhammad_afan/i-replaced-ffmpegwasm-with-webcodecs-in-my-browser-video-tools-compression-went-from-97-s-to-56-s-32em",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pourquoi ton code prépare un futur qui n'arrivera jamais (YAGNI)",
+    "link": "https://dev.to/_notbu7ch/pourquoi-ton-code-prepare-un-futur-qui-narrivera-jamais-yagni-2dik",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "O fantasma que assombra o PDF da Fecombustíveis: um robô que transforma a tributação dos combustíveis em XML",
+    "link": "https://dev.to/fabiohcnobre/o-fantasma-que-assombra-o-pdf-da-fecombustiveis-um-robo-que-transforma-a-tributacao-dos-1b30",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I tested my browser-based email checkers against dkimpy, checkdmarc and pyspf: 12,618 results, 76 disagreements",
+    "link": "https://dev.to/jeremiah_say/i-tested-my-browser-based-email-checkers-against-dkimpy-checkdmarc-and-pyspf-12618-results-76-m18",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Profanity Filter Blocks Scunthorpe (And How to Fix It)",
+    "link": "https://dev.to/tomer_n/why-your-profanity-filter-blocks-scunthorpe-and-how-to-fix-it-32jn",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How we built an MCP App for a cash-on-delivery store in Uzbekistan",
+    "link": "https://dev.to/birinchishop/how-we-built-an-mcp-app-for-a-cash-on-delivery-store-in-uzbekistan-4gin",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I fetched 30 AI-built sites without JavaScript. 8 of 9 Bolt sites were empty pages.",
+    "link": "https://dev.to/duoni/i-fetched-30-ai-built-sites-without-javascript-8-of-9-bolt-sites-were-empty-pages-2je2",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unexpected token '<' means your server sent you a web page",
+    "link": "https://dev.to/vish045/unexpected-token-means-your-server-sent-you-a-web-page-fni",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A smaller catalogue page without losing crawlable navigation",
+    "link": "https://dev.to/ar_karakaya_b6b310823e/a-smaller-catalogue-page-without-losing-crawlable-navigation-4c3g",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "console.log is a legitimate debugging tool",
+    "link": "https://dev.to/khushighosh/consolelog-is-a-legitimate-debugging-tool-2dhp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again",
+    "link": "https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From client-only to SSR: building Gemkit, a SvelteKit-style framework for Web Components",
+    "link": "https://dev.to/mantou132/from-client-only-to-ssr-building-gemkit-a-sveltekit-style-framework-for-web-components-8ag",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built browser-only image, PDF and video tools – nothing gets uploaded",
+    "link": "https://dev.to/daily-solution/i-built-browser-only-image-pdf-and-video-tools-nothing-gets-uploaded-8a",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "tRPC + TanStack Router: Build Fully Type-Safe Data Fetching with tanstack-fetch",
+    "link": "https://dev.to/mwmdgmb/trpc-tanstack-router-build-fully-type-safe-data-fetching-with-tanstack-fetch-4gnb",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced FFmpeg.wasm with WebCodecs in my browser video tools. Compression went from 97 s to 5.6 s",
+    "link": "https://dev.to/muhammad_afan/i-replaced-ffmpegwasm-with-webcodecs-in-my-browser-video-tools-compression-went-from-97-s-to-56-s-32em",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pourquoi ton code prépare un futur qui n'arrivera jamais (YAGNI)",
+    "link": "https://dev.to/_notbu7ch/pourquoi-ton-code-prepare-un-futur-qui-narrivera-jamais-yagni-2dik",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "O fantasma que assombra o PDF da Fecombustíveis: um robô que transforma a tributação dos combustíveis em XML",
+    "link": "https://dev.to/fabiohcnobre/o-fantasma-que-assombra-o-pdf-da-fecombustiveis-um-robo-que-transforma-a-tributacao-dos-1b30",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I tested my browser-based email checkers against dkimpy, checkdmarc and pyspf: 12,618 results, 76 disagreements",
+    "link": "https://dev.to/jeremiah_say/i-tested-my-browser-based-email-checkers-against-dkimpy-checkdmarc-and-pyspf-12618-results-76-m18",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Profanity Filter Blocks Scunthorpe (And How to Fix It)",
+    "link": "https://dev.to/tomer_n/why-your-profanity-filter-blocks-scunthorpe-and-how-to-fix-it-32jn",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How we built an MCP App for a cash-on-delivery store in Uzbekistan",
+    "link": "https://dev.to/birinchishop/how-we-built-an-mcp-app-for-a-cash-on-delivery-store-in-uzbekistan-4gin",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I fetched 30 AI-built sites without JavaScript. 8 of 9 Bolt sites were empty pages.",
+    "link": "https://dev.to/duoni/i-fetched-30-ai-built-sites-without-javascript-8-of-9-bolt-sites-were-empty-pages-2je2",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unexpected token '<' means your server sent you a web page",
+    "link": "https://dev.to/vish045/unexpected-token-means-your-server-sent-you-a-web-page-fni",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A smaller catalogue page without losing crawlable navigation",
+    "link": "https://dev.to/ar_karakaya_b6b310823e/a-smaller-catalogue-page-without-losing-crawlable-navigation-4c3g",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "console.log is a legitimate debugging tool",
+    "link": "https://dev.to/khushighosh/consolelog-is-a-legitimate-debugging-tool-2dhp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "TypeScript `ReadonlyDeep<T>` Without a Library: Writing the Recursive Utility Type Once and Never Again",
+    "link": "https://dev.to/jsmanifest/typescript-readonlydeep-without-a-library-writing-the-recursive-utility-type-once-and-never-2blp",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "From client-only to SSR: building Gemkit, a SvelteKit-style framework for Web Components",
+    "link": "https://dev.to/mantou132/from-client-only-to-ssr-building-gemkit-a-sveltekit-style-framework-for-web-components-8ag",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built browser-only image, PDF and video tools – nothing gets uploaded",
+    "link": "https://dev.to/daily-solution/i-built-browser-only-image-pdf-and-video-tools-nothing-gets-uploaded-8a",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "tRPC + TanStack Router: Build Fully Type-Safe Data Fetching with tanstack-fetch",
+    "link": "https://dev.to/mwmdgmb/trpc-tanstack-router-build-fully-type-safe-data-fetching-with-tanstack-fetch-4gnb",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I replaced FFmpeg.wasm with WebCodecs in my browser video tools. Compression went from 97 s to 5.6 s",
+    "link": "https://dev.to/muhammad_afan/i-replaced-ffmpegwasm-with-webcodecs-in-my-browser-video-tools-compression-went-from-97-s-to-56-s-32em",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Pourquoi ton code prépare un futur qui n'arrivera jamais (YAGNI)",
+    "link": "https://dev.to/_notbu7ch/pourquoi-ton-code-prepare-un-futur-qui-narrivera-jamais-yagni-2dik",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "O fantasma que assombra o PDF da Fecombustíveis: um robô que transforma a tributação dos combustíveis em XML",
+    "link": "https://dev.to/fabiohcnobre/o-fantasma-que-assombra-o-pdf-da-fecombustiveis-um-robo-que-transforma-a-tributacao-dos-1b30",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I tested my browser-based email checkers against dkimpy, checkdmarc and pyspf: 12,618 results, 76 disagreements",
+    "link": "https://dev.to/jeremiah_say/i-tested-my-browser-based-email-checkers-against-dkimpy-checkdmarc-and-pyspf-12618-results-76-m18",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Why Your Profanity Filter Blocks Scunthorpe (And How to Fix It)",
+    "link": "https://dev.to/tomer_n/why-your-profanity-filter-blocks-scunthorpe-and-how-to-fix-it-32jn",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How we built an MCP App for a cash-on-delivery store in Uzbekistan",
+    "link": "https://dev.to/birinchishop/how-we-built-an-mcp-app-for-a-cash-on-delivery-store-in-uzbekistan-4gin",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I fetched 30 AI-built sites without JavaScript. 8 of 9 Bolt sites were empty pages.",
+    "link": "https://dev.to/duoni/i-fetched-30-ai-built-sites-without-javascript-8-of-9-bolt-sites-were-empty-pages-2je2",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Unexpected token '<' means your server sent you a web page",
+    "link": "https://dev.to/vish045/unexpected-token-means-your-server-sent-you-a-web-page-fni",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A smaller catalogue page without losing crawlable navigation",
+    "link": "https://dev.to/ar_karakaya_b6b310823e/a-smaller-catalogue-page-without-losing-crawlable-navigation-4c3g",
+    "date": "10/27/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
     "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
     "date": "10/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I turned my logo into 3D glass that breaks apart as you scroll",
-    "link": "https://dev.to/hasanalpgungor/how-i-turned-my-logo-into-3d-glass-that-breaks-apart-as-you-scroll-569l",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a desktop pet that floats over every window — using the Document Picture-in-Picture API",
-    "link": "https://dev.to/ethanbennett_dev/i-built-a-desktop-pet-that-floats-over-every-window-using-the-document-picture-in-picture-api-3gbf",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "In a Background Tab, setInterval(fn, 1000) Runs Once a Minute",
-    "link": "https://dev.to/session_replay/in-a-background-tab-setintervalfn-1000-runs-once-a-minute-4mo5",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google Maps Alternative for Tunisia: TMaps Compared",
-    "link": "https://dev.to/tmaps/google-maps-alternative-for-tunisia-tmaps-compared-3aoa",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How we test 102 browser-only tools: unit, property, oracle, and real-browser tests",
-    "link": "https://dev.to/xiuhai_shi_a30442601c2bec/how-we-test-102-browser-only-tools-unit-property-oracle-and-real-browser-tests-5en2",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shake the Jar: How a Childhood Game Became My Writing Prompt Picker",
-    "link": "https://dev.to/rei0322/shake-the-jar-how-a-childhood-game-became-my-writing-prompt-picker-jdc",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSON.parse Source Text Access: Stop Losing Precision on Big IDs",
-    "link": "https://dev.to/grimicorn/jsonparse-source-text-access-stop-losing-precision-on-big-ids-57gh",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent 5 Months Trying to Learn JavaScript. Then I Found Scrimba.",
-    "link": "https://dev.to/natyle_83c0aaed9650bd063b/i-spent-5-months-trying-to-learn-javascript-then-i-found-scrimba-4nm1",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Harness Engineering, Explained by Building One: An AI Agent Test Bench That Runs in Your Browser",
-    "link": "https://dev.to/vishalmysore/harness-engineering-explained-by-building-one-an-ai-agent-test-bench-that-runs-in-your-browser-2m5m",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 75 free tools that refuse to upload your files",
-    "link": "https://dev.to/hamzaalibasra/i-built-70-free-tools-that-refuse-to-upload-your-files-2jl0",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turn 8-K filings into sales trigger alerts",
-    "link": "https://dev.to/agents001code/turn-8-k-filings-into-sales-trigger-alerts-ng5",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Web Development Practices That Help Build Scalable Applications",
-    "link": "https://dev.to/sarah_mitchell_172ed68dc6/7-web-development-practices-that-help-build-scalable-applications-pik",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Frictionless Vocal Range Test: A Deep Dive into Web Audio API and Astro",
-    "link": "https://dev.to/eason87/building-a-frictionless-vocal-range-test-a-deep-dive-into-web-audio-api-and-astro-2ja2",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Git hooks in a zip: the attack that never touches npm install",
-    "link": "https://dev.to/cryptostrapon/your-take-home-repo-can-attack-you-without-npm-install-2495",
+    "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
+    "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
     "date": "10/26/2026",
     "site": "dev.to"
   },
@@ -96,356 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "How I turned my logo into 3D glass that breaks apart as you scroll",
-    "link": "https://dev.to/hasanalpgungor/how-i-turned-my-logo-into-3d-glass-that-breaks-apart-as-you-scroll-569l",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a desktop pet that floats over every window — using the Document Picture-in-Picture API",
-    "link": "https://dev.to/ethanbennett_dev/i-built-a-desktop-pet-that-floats-over-every-window-using-the-document-picture-in-picture-api-3gbf",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "In a Background Tab, setInterval(fn, 1000) Runs Once a Minute",
-    "link": "https://dev.to/session_replay/in-a-background-tab-setintervalfn-1000-runs-once-a-minute-4mo5",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google Maps Alternative for Tunisia: TMaps Compared",
-    "link": "https://dev.to/tmaps/google-maps-alternative-for-tunisia-tmaps-compared-3aoa",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How we test 102 browser-only tools: unit, property, oracle, and real-browser tests",
-    "link": "https://dev.to/xiuhai_shi_a30442601c2bec/how-we-test-102-browser-only-tools-unit-property-oracle-and-real-browser-tests-5en2",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shake the Jar: How a Childhood Game Became My Writing Prompt Picker",
-    "link": "https://dev.to/rei0322/shake-the-jar-how-a-childhood-game-became-my-writing-prompt-picker-jdc",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSON.parse Source Text Access: Stop Losing Precision on Big IDs",
-    "link": "https://dev.to/grimicorn/jsonparse-source-text-access-stop-losing-precision-on-big-ids-57gh",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent 5 Months Trying to Learn JavaScript. Then I Found Scrimba.",
-    "link": "https://dev.to/natyle_83c0aaed9650bd063b/i-spent-5-months-trying-to-learn-javascript-then-i-found-scrimba-4nm1",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Harness Engineering, Explained by Building One: An AI Agent Test Bench That Runs in Your Browser",
-    "link": "https://dev.to/vishalmysore/harness-engineering-explained-by-building-one-an-ai-agent-test-bench-that-runs-in-your-browser-2m5m",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 75 free tools that refuse to upload your files",
-    "link": "https://dev.to/hamzaalibasra/i-built-70-free-tools-that-refuse-to-upload-your-files-2jl0",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turn 8-K filings into sales trigger alerts",
-    "link": "https://dev.to/agents001code/turn-8-k-filings-into-sales-trigger-alerts-ng5",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Web Development Practices That Help Build Scalable Applications",
-    "link": "https://dev.to/sarah_mitchell_172ed68dc6/7-web-development-practices-that-help-build-scalable-applications-pik",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Frictionless Vocal Range Test: A Deep Dive into Web Audio API and Astro",
-    "link": "https://dev.to/eason87/building-a-frictionless-vocal-range-test-a-deep-dive-into-web-audio-api-and-astro-2ja2",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Git hooks in a zip: the attack that never touches npm install",
-    "link": "https://dev.to/cryptostrapon/your-take-home-repo-can-attack-you-without-npm-install-2495",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
     "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
     "date": "10/26/2026",
     "site": "dev.to"
   },
   {
-    "title": "How I turned my logo into 3D glass that breaks apart as you scroll",
-    "link": "https://dev.to/hasanalpgungor/how-i-turned-my-logo-into-3d-glass-that-breaks-apart-as-you-scroll-569l",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a desktop pet that floats over every window — using the Document Picture-in-Picture API",
-    "link": "https://dev.to/ethanbennett_dev/i-built-a-desktop-pet-that-floats-over-every-window-using-the-document-picture-in-picture-api-3gbf",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "In a Background Tab, setInterval(fn, 1000) Runs Once a Minute",
-    "link": "https://dev.to/session_replay/in-a-background-tab-setintervalfn-1000-runs-once-a-minute-4mo5",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google Maps Alternative for Tunisia: TMaps Compared",
-    "link": "https://dev.to/tmaps/google-maps-alternative-for-tunisia-tmaps-compared-3aoa",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How we test 102 browser-only tools: unit, property, oracle, and real-browser tests",
-    "link": "https://dev.to/xiuhai_shi_a30442601c2bec/how-we-test-102-browser-only-tools-unit-property-oracle-and-real-browser-tests-5en2",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shake the Jar: How a Childhood Game Became My Writing Prompt Picker",
-    "link": "https://dev.to/rei0322/shake-the-jar-how-a-childhood-game-became-my-writing-prompt-picker-jdc",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSON.parse Source Text Access: Stop Losing Precision on Big IDs",
-    "link": "https://dev.to/grimicorn/jsonparse-source-text-access-stop-losing-precision-on-big-ids-57gh",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent 5 Months Trying to Learn JavaScript. Then I Found Scrimba.",
-    "link": "https://dev.to/natyle_83c0aaed9650bd063b/i-spent-5-months-trying-to-learn-javascript-then-i-found-scrimba-4nm1",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Harness Engineering, Explained by Building One: An AI Agent Test Bench That Runs in Your Browser",
-    "link": "https://dev.to/vishalmysore/harness-engineering-explained-by-building-one-an-ai-agent-test-bench-that-runs-in-your-browser-2m5m",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 75 free tools that refuse to upload your files",
-    "link": "https://dev.to/hamzaalibasra/i-built-70-free-tools-that-refuse-to-upload-your-files-2jl0",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turn 8-K filings into sales trigger alerts",
-    "link": "https://dev.to/agents001code/turn-8-k-filings-into-sales-trigger-alerts-ng5",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Web Development Practices That Help Build Scalable Applications",
-    "link": "https://dev.to/sarah_mitchell_172ed68dc6/7-web-development-practices-that-help-build-scalable-applications-pik",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Frictionless Vocal Range Test: A Deep Dive into Web Audio API and Astro",
-    "link": "https://dev.to/eason87/building-a-frictionless-vocal-range-test-a-deep-dive-into-web-audio-api-and-astro-2ja2",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Git hooks in a zip: the attack that never touches npm install",
-    "link": "https://dev.to/cryptostrapon/your-take-home-repo-can-attack-you-without-npm-install-2495",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
     "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I turned my logo into 3D glass that breaks apart as you scroll",
-    "link": "https://dev.to/hasanalpgungor/how-i-turned-my-logo-into-3d-glass-that-breaks-apart-as-you-scroll-569l",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a desktop pet that floats over every window — using the Document Picture-in-Picture API",
-    "link": "https://dev.to/ethanbennett_dev/i-built-a-desktop-pet-that-floats-over-every-window-using-the-document-picture-in-picture-api-3gbf",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "In a Background Tab, setInterval(fn, 1000) Runs Once a Minute",
-    "link": "https://dev.to/session_replay/in-a-background-tab-setintervalfn-1000-runs-once-a-minute-4mo5",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google Maps Alternative for Tunisia: TMaps Compared",
-    "link": "https://dev.to/tmaps/google-maps-alternative-for-tunisia-tmaps-compared-3aoa",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How we test 102 browser-only tools: unit, property, oracle, and real-browser tests",
-    "link": "https://dev.to/xiuhai_shi_a30442601c2bec/how-we-test-102-browser-only-tools-unit-property-oracle-and-real-browser-tests-5en2",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shake the Jar: How a Childhood Game Became My Writing Prompt Picker",
-    "link": "https://dev.to/rei0322/shake-the-jar-how-a-childhood-game-became-my-writing-prompt-picker-jdc",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSON.parse Source Text Access: Stop Losing Precision on Big IDs",
-    "link": "https://dev.to/grimicorn/jsonparse-source-text-access-stop-losing-precision-on-big-ids-57gh",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent 5 Months Trying to Learn JavaScript. Then I Found Scrimba.",
-    "link": "https://dev.to/natyle_83c0aaed9650bd063b/i-spent-5-months-trying-to-learn-javascript-then-i-found-scrimba-4nm1",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Harness Engineering, Explained by Building One: An AI Agent Test Bench That Runs in Your Browser",
-    "link": "https://dev.to/vishalmysore/harness-engineering-explained-by-building-one-an-ai-agent-test-bench-that-runs-in-your-browser-2m5m",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 75 free tools that refuse to upload your files",
-    "link": "https://dev.to/hamzaalibasra/i-built-70-free-tools-that-refuse-to-upload-your-files-2jl0",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turn 8-K filings into sales trigger alerts",
-    "link": "https://dev.to/agents001code/turn-8-k-filings-into-sales-trigger-alerts-ng5",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Web Development Practices That Help Build Scalable Applications",
-    "link": "https://dev.to/sarah_mitchell_172ed68dc6/7-web-development-practices-that-help-build-scalable-applications-pik",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Frictionless Vocal Range Test: A Deep Dive into Web Audio API and Astro",
-    "link": "https://dev.to/eason87/building-a-frictionless-vocal-range-test-a-deep-dive-into-web-audio-api-and-astro-2ja2",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Git hooks in a zip: the attack that never touches npm install",
-    "link": "https://dev.to/cryptostrapon/your-take-home-repo-can-attack-you-without-npm-install-2495",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Node.js Isn't Single-Threaded. How libuv and the OS Kernel Actually Run Your Code.",
-    "link": "https://dev.to/smtahosin/nodejs-isnt-single-threaded-how-libuv-and-the-os-kernel-actually-run-your-code-3460",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How I turned my logo into 3D glass that breaks apart as you scroll",
-    "link": "https://dev.to/hasanalpgungor/how-i-turned-my-logo-into-3d-glass-that-breaks-apart-as-you-scroll-569l",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built a desktop pet that floats over every window — using the Document Picture-in-Picture API",
-    "link": "https://dev.to/ethanbennett_dev/i-built-a-desktop-pet-that-floats-over-every-window-using-the-document-picture-in-picture-api-3gbf",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "In a Background Tab, setInterval(fn, 1000) Runs Once a Minute",
-    "link": "https://dev.to/session_replay/in-a-background-tab-setintervalfn-1000-runs-once-a-minute-4mo5",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Google Maps Alternative for Tunisia: TMaps Compared",
-    "link": "https://dev.to/tmaps/google-maps-alternative-for-tunisia-tmaps-compared-3aoa",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "How we test 102 browser-only tools: unit, property, oracle, and real-browser tests",
-    "link": "https://dev.to/xiuhai_shi_a30442601c2bec/how-we-test-102-browser-only-tools-unit-property-oracle-and-real-browser-tests-5en2",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Shake the Jar: How a Childhood Game Became My Writing Prompt Picker",
-    "link": "https://dev.to/rei0322/shake-the-jar-how-a-childhood-game-became-my-writing-prompt-picker-jdc",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "JSON.parse Source Text Access: Stop Losing Precision on Big IDs",
-    "link": "https://dev.to/grimicorn/jsonparse-source-text-access-stop-losing-precision-on-big-ids-57gh",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I Spent 5 Months Trying to Learn JavaScript. Then I Found Scrimba.",
-    "link": "https://dev.to/natyle_83c0aaed9650bd063b/i-spent-5-months-trying-to-learn-javascript-then-i-found-scrimba-4nm1",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Harness Engineering, Explained by Building One: An AI Agent Test Bench That Runs in Your Browser",
-    "link": "https://dev.to/vishalmysore/harness-engineering-explained-by-building-one-an-ai-agent-test-bench-that-runs-in-your-browser-2m5m",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I built 75 free tools that refuse to upload your files",
-    "link": "https://dev.to/hamzaalibasra/i-built-70-free-tools-that-refuse-to-upload-your-files-2jl0",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Turn 8-K filings into sales trigger alerts",
-    "link": "https://dev.to/agents001code/turn-8-k-filings-into-sales-trigger-alerts-ng5",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "7 Web Development Practices That Help Build Scalable Applications",
-    "link": "https://dev.to/sarah_mitchell_172ed68dc6/7-web-development-practices-that-help-build-scalable-applications-pik",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a Frictionless Vocal Range Test: A Deep Dive into Web Audio API and Astro",
-    "link": "https://dev.to/eason87/building-a-frictionless-vocal-range-test-a-deep-dive-into-web-audio-api-and-astro-2ja2",
-    "date": "10/26/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Git hooks in a zip: the attack that never touches npm install",
-    "link": "https://dev.to/cryptostrapon/your-take-home-repo-can-attack-you-without-npm-install-2495",
     "date": "10/26/2026",
     "site": "dev.to"
   },
@@ -466,7 +466,7 @@
   {
     "title": "Moving From Moment.js To The JS Temporal API",
     "link": "https://www.smashingmagazine.com/2026/03/moving-from-moment-to-temporal-api/",
-    "reading_time": "19 min read",
+    "reading_time": "18 min read",
     "date": "3/13/2026",
     "site": "smashingmagazine"
   },
@@ -480,7 +480,7 @@
   {
     "title": "JavaScript For Everyone: Iterators",
     "link": "https://www.smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "10/27/2025",
     "site": "smashingmagazine"
   },
@@ -508,7 +508,7 @@
   {
     "title": "Building An Offline-Friendly Image Upload System",
     "link": "https://www.smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-    "reading_time": "9 min read",
+    "reading_time": "10 min read",
     "date": "4/23/2025",
     "site": "smashingmagazine"
   },
@@ -585,7 +585,7 @@
   {
     "title": "The End Of My Gatsby Journey",
     "link": "https://www.smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-    "reading_time": "16 min read",
+    "reading_time": "17 min read",
     "date": "3/6/2024",
     "site": "smashingmagazine"
   },
@@ -599,14 +599,14 @@
   {
     "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
     "link": "https://www.smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-    "reading_time": "23 min read",
+    "reading_time": "22 min read",
     "date": "2/7/2024",
     "site": "smashingmagazine"
   },
   {
     "title": "SolidStart: A Different Breed Of Meta-Framework",
     "link": "https://www.smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "1/8/2024",
     "site": "smashingmagazine"
   },
@@ -683,7 +683,7 @@
   {
     "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
     "link": "https://www.smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
-    "reading_time": "18 min read",
+    "reading_time": "17 min read",
     "date": "4/21/2023",
     "site": "smashingmagazine"
   },
@@ -760,7 +760,7 @@
   {
     "title": "What’s New In Next.js 13?",
     "link": "https://www.smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-    "reading_time": "8 min read",
+    "reading_time": "7 min read",
     "date": "11/7/2022",
     "site": "smashingmagazine"
   },
@@ -774,7 +774,7 @@
   {
     "title": "Node.js Authentication With Twilio Verify",
     "link": "https://www.smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/",
-    "reading_time": "26 min read",
+    "reading_time": "27 min read",
     "date": "10/7/2022",
     "site": "smashingmagazine"
   },
