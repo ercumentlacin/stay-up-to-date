@@ -1,91 +1,433 @@
 [
   {
+    "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+    "link": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)",
+    "link": "https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Added WebMCP to a Collaborative Sheet Music Editor",
+    "link": "https://dev.to/tan-z-tan/how-i-added-webmcp-to-a-collaborative-sheet-music-editor-1dl",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Run Pandoc's WebAssembly Build Inside a Browser Extension (Offline Word-to-LaTeX)",
+    "link": "https://dev.to/sidadda/how-i-run-pandocs-webassembly-build-inside-a-browser-extension-offline-word-to-latex-54ie",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a 3D survival game in a weekend and shipped it from my own PC",
+    "link": "https://dev.to/uumuse/i-built-a-3d-survival-game-in-a-weekend-and-shipped-it-from-my-own-pc-4l9i",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a handwritten notes compiler because AI kept giving me walls of text",
+    "link": "https://dev.to/shylerweb/i-built-a-handwritten-notes-compiler-because-ai-kept-giving-me-walls-of-text-25g2",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Online multiplayer with no game server: WebRTC invite links and a browser as referee",
+    "link": "https://dev.to/playtrova/online-multiplayer-with-no-game-server-webrtc-invite-links-and-a-browser-as-referee-316b",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When can a PNG become a JPEG? Check opacity with sharp stats",
+    "link": "https://dev.to/dev-sahadat/when-can-a-png-become-a-jpeg-check-opacity-with-sharp-stats-3228",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Test Your Local Dev Server on Your Phone",
+    "link": "https://dev.to/anmolsethi_dev/how-to-test-your-local-dev-server-on-your-phone-56nd",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Textbook quartiles equal Excel's QUARTILE.EXC, but only when n is odd",
+    "link": "https://dev.to/waitlab/textbook-quartiles-equal-excels-quartileexc-but-only-when-n-is-odd-36nn",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Playwright fixtures: built-in, custom and worker-scoped",
+    "link": "https://dev.to/wuweiweiwu/playwright-fixtures-built-in-custom-and-worker-scoped-1jdo",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A tiny evidence log for manual AI search tests (拾玖搜证台)",
+    "link": "https://dev.to/nineting19/a-tiny-evidence-log-for-manual-ai-search-tests-shi-jiu-sou-zheng-tai--3nbc",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reading a stack trace that points at your own line",
+    "link": "https://dev.to/jslab/reading-a-stack-trace-that-points-at-your-own-line-468e",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing verifiable facts for 118 browser games found 9 bugs in my own code",
+    "link": "https://dev.to/ankit_gupta_37c6b9df66fb7/writing-verifiable-facts-for-118-browser-games-found-9-bugs-in-my-own-code-jol",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+    "link": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)",
+    "link": "https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Added WebMCP to a Collaborative Sheet Music Editor",
+    "link": "https://dev.to/tan-z-tan/how-i-added-webmcp-to-a-collaborative-sheet-music-editor-1dl",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Run Pandoc's WebAssembly Build Inside a Browser Extension (Offline Word-to-LaTeX)",
+    "link": "https://dev.to/sidadda/how-i-run-pandocs-webassembly-build-inside-a-browser-extension-offline-word-to-latex-54ie",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a 3D survival game in a weekend and shipped it from my own PC",
+    "link": "https://dev.to/uumuse/i-built-a-3d-survival-game-in-a-weekend-and-shipped-it-from-my-own-pc-4l9i",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a handwritten notes compiler because AI kept giving me walls of text",
+    "link": "https://dev.to/shylerweb/i-built-a-handwritten-notes-compiler-because-ai-kept-giving-me-walls-of-text-25g2",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Online multiplayer with no game server: WebRTC invite links and a browser as referee",
+    "link": "https://dev.to/playtrova/online-multiplayer-with-no-game-server-webrtc-invite-links-and-a-browser-as-referee-316b",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When can a PNG become a JPEG? Check opacity with sharp stats",
+    "link": "https://dev.to/dev-sahadat/when-can-a-png-become-a-jpeg-check-opacity-with-sharp-stats-3228",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Test Your Local Dev Server on Your Phone",
+    "link": "https://dev.to/anmolsethi_dev/how-to-test-your-local-dev-server-on-your-phone-56nd",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Textbook quartiles equal Excel's QUARTILE.EXC, but only when n is odd",
+    "link": "https://dev.to/waitlab/textbook-quartiles-equal-excels-quartileexc-but-only-when-n-is-odd-36nn",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Playwright fixtures: built-in, custom and worker-scoped",
+    "link": "https://dev.to/wuweiweiwu/playwright-fixtures-built-in-custom-and-worker-scoped-1jdo",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A tiny evidence log for manual AI search tests (拾玖搜证台)",
+    "link": "https://dev.to/nineting19/a-tiny-evidence-log-for-manual-ai-search-tests-shi-jiu-sou-zheng-tai--3nbc",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reading a stack trace that points at your own line",
+    "link": "https://dev.to/jslab/reading-a-stack-trace-that-points-at-your-own-line-468e",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing verifiable facts for 118 browser games found 9 bugs in my own code",
+    "link": "https://dev.to/ankit_gupta_37c6b9df66fb7/writing-verifiable-facts-for-118-browser-games-found-9-bugs-in-my-own-code-jol",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+    "link": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)",
+    "link": "https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Added WebMCP to a Collaborative Sheet Music Editor",
+    "link": "https://dev.to/tan-z-tan/how-i-added-webmcp-to-a-collaborative-sheet-music-editor-1dl",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Run Pandoc's WebAssembly Build Inside a Browser Extension (Offline Word-to-LaTeX)",
+    "link": "https://dev.to/sidadda/how-i-run-pandocs-webassembly-build-inside-a-browser-extension-offline-word-to-latex-54ie",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a 3D survival game in a weekend and shipped it from my own PC",
+    "link": "https://dev.to/uumuse/i-built-a-3d-survival-game-in-a-weekend-and-shipped-it-from-my-own-pc-4l9i",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a handwritten notes compiler because AI kept giving me walls of text",
+    "link": "https://dev.to/shylerweb/i-built-a-handwritten-notes-compiler-because-ai-kept-giving-me-walls-of-text-25g2",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Online multiplayer with no game server: WebRTC invite links and a browser as referee",
+    "link": "https://dev.to/playtrova/online-multiplayer-with-no-game-server-webrtc-invite-links-and-a-browser-as-referee-316b",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When can a PNG become a JPEG? Check opacity with sharp stats",
+    "link": "https://dev.to/dev-sahadat/when-can-a-png-become-a-jpeg-check-opacity-with-sharp-stats-3228",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Test Your Local Dev Server on Your Phone",
+    "link": "https://dev.to/anmolsethi_dev/how-to-test-your-local-dev-server-on-your-phone-56nd",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Textbook quartiles equal Excel's QUARTILE.EXC, but only when n is odd",
+    "link": "https://dev.to/waitlab/textbook-quartiles-equal-excels-quartileexc-but-only-when-n-is-odd-36nn",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Playwright fixtures: built-in, custom and worker-scoped",
+    "link": "https://dev.to/wuweiweiwu/playwright-fixtures-built-in-custom-and-worker-scoped-1jdo",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A tiny evidence log for manual AI search tests (拾玖搜证台)",
+    "link": "https://dev.to/nineting19/a-tiny-evidence-log-for-manual-ai-search-tests-shi-jiu-sou-zheng-tai--3nbc",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reading a stack trace that points at your own line",
+    "link": "https://dev.to/jslab/reading-a-stack-trace-that-points-at-your-own-line-468e",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing verifiable facts for 118 browser games found 9 bugs in my own code",
+    "link": "https://dev.to/ankit_gupta_37c6b9df66fb7/writing-verifiable-facts-for-118-browser-games-found-9-bugs-in-my-own-code-jol",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+    "link": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)",
+    "link": "https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Added WebMCP to a Collaborative Sheet Music Editor",
+    "link": "https://dev.to/tan-z-tan/how-i-added-webmcp-to-a-collaborative-sheet-music-editor-1dl",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Run Pandoc's WebAssembly Build Inside a Browser Extension (Offline Word-to-LaTeX)",
+    "link": "https://dev.to/sidadda/how-i-run-pandocs-webassembly-build-inside-a-browser-extension-offline-word-to-latex-54ie",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a 3D survival game in a weekend and shipped it from my own PC",
+    "link": "https://dev.to/uumuse/i-built-a-3d-survival-game-in-a-weekend-and-shipped-it-from-my-own-pc-4l9i",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a handwritten notes compiler because AI kept giving me walls of text",
+    "link": "https://dev.to/shylerweb/i-built-a-handwritten-notes-compiler-because-ai-kept-giving-me-walls-of-text-25g2",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Online multiplayer with no game server: WebRTC invite links and a browser as referee",
+    "link": "https://dev.to/playtrova/online-multiplayer-with-no-game-server-webrtc-invite-links-and-a-browser-as-referee-316b",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When can a PNG become a JPEG? Check opacity with sharp stats",
+    "link": "https://dev.to/dev-sahadat/when-can-a-png-become-a-jpeg-check-opacity-with-sharp-stats-3228",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Test Your Local Dev Server on Your Phone",
+    "link": "https://dev.to/anmolsethi_dev/how-to-test-your-local-dev-server-on-your-phone-56nd",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Textbook quartiles equal Excel's QUARTILE.EXC, but only when n is odd",
+    "link": "https://dev.to/waitlab/textbook-quartiles-equal-excels-quartileexc-but-only-when-n-is-odd-36nn",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Playwright fixtures: built-in, custom and worker-scoped",
+    "link": "https://dev.to/wuweiweiwu/playwright-fixtures-built-in-custom-and-worker-scoped-1jdo",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A tiny evidence log for manual AI search tests (拾玖搜证台)",
+    "link": "https://dev.to/nineting19/a-tiny-evidence-log-for-manual-ai-search-tests-shi-jiu-sou-zheng-tai--3nbc",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reading a stack trace that points at your own line",
+    "link": "https://dev.to/jslab/reading-a-stack-trace-that-points-at-your-own-line-468e",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing verifiable facts for 118 browser games found 9 bugs in my own code",
+    "link": "https://dev.to/ankit_gupta_37c6b9df66fb7/writing-verifiable-facts-for-118-browser-games-found-9-bugs-in-my-own-code-jol",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "The Fibonacci Spiral Is Secretly a Straight Line",
+    "link": "https://dev.to/highflyer910/the-fibonacci-spiral-is-secretly-a-straight-line-4b4p",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Manipulate and Reorganize Multi-Page PDFs In-Browser Without Crashing the Tab (pdf-lib & pdf.js Dual-Engine Guide)",
+    "link": "https://dev.to/elias_miller/how-to-manipulate-and-reorganize-multi-page-pdfs-in-browser-without-crashing-the-tab-pdf-lib--42gn",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Added WebMCP to a Collaborative Sheet Music Editor",
+    "link": "https://dev.to/tan-z-tan/how-i-added-webmcp-to-a-collaborative-sheet-music-editor-1dl",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How I Run Pandoc's WebAssembly Build Inside a Browser Extension (Offline Word-to-LaTeX)",
+    "link": "https://dev.to/sidadda/how-i-run-pandocs-webassembly-build-inside-a-browser-extension-offline-word-to-latex-54ie",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a 3D survival game in a weekend and shipped it from my own PC",
+    "link": "https://dev.to/uumuse/i-built-a-3d-survival-game-in-a-weekend-and-shipped-it-from-my-own-pc-4l9i",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "I built a handwritten notes compiler because AI kept giving me walls of text",
+    "link": "https://dev.to/shylerweb/i-built-a-handwritten-notes-compiler-because-ai-kept-giving-me-walls-of-text-25g2",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Online multiplayer with no game server: WebRTC invite links and a browser as referee",
+    "link": "https://dev.to/playtrova/online-multiplayer-with-no-game-server-webrtc-invite-links-and-a-browser-as-referee-316b",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "When can a PNG become a JPEG? Check opacity with sharp stats",
+    "link": "https://dev.to/dev-sahadat/when-can-a-png-become-a-jpeg-check-opacity-with-sharp-stats-3228",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "How to Test Your Local Dev Server on Your Phone",
+    "link": "https://dev.to/anmolsethi_dev/how-to-test-your-local-dev-server-on-your-phone-56nd",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Textbook quartiles equal Excel's QUARTILE.EXC, but only when n is odd",
+    "link": "https://dev.to/waitlab/textbook-quartiles-equal-excels-quartileexc-but-only-when-n-is-odd-36nn",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Playwright fixtures: built-in, custom and worker-scoped",
+    "link": "https://dev.to/wuweiweiwu/playwright-fixtures-built-in-custom-and-worker-scoped-1jdo",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "A tiny evidence log for manual AI search tests (拾玖搜证台)",
+    "link": "https://dev.to/nineting19/a-tiny-evidence-log-for-manual-ai-search-tests-shi-jiu-sou-zheng-tai--3nbc",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Reading a stack trace that points at your own line",
+    "link": "https://dev.to/jslab/reading-a-stack-trace-that-points-at-your-own-line-468e",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
+    "title": "Writing verifiable facts for 118 browser games found 9 bugs in my own code",
+    "link": "https://dev.to/ankit_gupta_37c6b9df66fb7/writing-verifiable-facts-for-118-browser-games-found-9-bugs-in-my-own-code-jol",
+    "date": "11/5/2026",
+    "site": "dev.to"
+  },
+  {
     "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood",
     "link": "https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3",
     "date": "11/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Handover: I made three AI agents run an exit interview in team chat",
-    "link": "https://dev.to/pinnaclecrypt/handover-i-made-three-ai-agents-run-an-exit-interview-in-team-chat-57mf",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Postman approved its own hook. Newman approves its own collection.",
-    "link": "https://dev.to/pm25coder/postman-approved-its-own-hook-newman-approves-its-own-collection-hmk",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tiny image placeholders with sharp: bytes for 8 to 32 px LQIPs",
-    "link": "https://dev.to/dev-sahadat/tiny-image-placeholders-with-sharp-bytes-for-8-to-32-px-lqips-3de7",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Users Don't Complain, They Just Quit: 7 Signals to Catch in Your React Native App",
-    "link": "https://dev.to/riveora/users-dont-complain-they-just-quit-7-signals-to-catch-in-your-react-native-app-343p",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a browser-based vocal splitter: decode locally, queue the job, delete the files",
-    "link": "https://dev.to/jackcooper/building-a-browser-based-vocal-splitter-decode-locally-queue-the-job-delete-the-files-4pf3",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Writing cards straight into Anki from a browser extension (AnkiConnect, without the hand-waving)",
-    "link": "https://dev.to/glenkit/writing-cards-straight-into-anki-from-a-browser-extension-ankiconnect-without-the-hand-waving-g2h",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hyperliquid JavaScript SDK quickstart for Node.js and TypeScript",
-    "link": "https://dev.to/siebly/hyperliquid-javascript-sdk-quickstart-for-nodejs-and-typescript-31j2",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js App Router SEO checklist: 9 things I fixed on my own site",
-    "link": "https://dev.to/101stand/nextjs-app-router-seo-checklist-9-things-i-fixed-on-my-own-site-4906",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Engineering Sector-76: Building a Factorio-Inspired Dieselpunk MMO in the Browser (Vue 3, sass, Three.js, GSAP)",
-    "link": "https://dev.to/manukyan21/engineering-sector-76-building-a-factorio-inspired-dieselpunk-mmo-in-the-browser-vue-3-sass-27ib",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where Claude's usage limits went: from SSE to protobuf frames",
-    "link": "https://dev.to/msadofschi/where-claudes-usage-limits-went-from-sse-to-protobuf-frames-c8d",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What it actually costs to move your email templates to another provider",
-    "link": "https://dev.to/igorfilippov3/what-it-actually-costs-to-move-your-email-templates-to-another-provider-2162",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why \"best Balatro seeds\" lists go stale, and how a deterministic seed replay works",
-    "link": "https://dev.to/hggend/why-best-balatro-seeds-lists-go-stale-and-how-a-deterministic-seed-replay-works-1m4",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript types you can see running",
-    "link": "https://dev.to/jslab/typescript-types-you-can-see-running-2kbm",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I shipped my extension in 9 languages to two stores. Here's what broke.",
-    "link": "https://dev.to/glenkit/i-shipped-my-extension-in-9-languages-to-two-stores-heres-what-broke-b5d",
+    "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood",
+    "link": "https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3",
     "date": "11/4/2026",
     "site": "dev.to"
   },
@@ -96,356 +438,14 @@
     "site": "dev.to"
   },
   {
-    "title": "Handover: I made three AI agents run an exit interview in team chat",
-    "link": "https://dev.to/pinnaclecrypt/handover-i-made-three-ai-agents-run-an-exit-interview-in-team-chat-57mf",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Postman approved its own hook. Newman approves its own collection.",
-    "link": "https://dev.to/pm25coder/postman-approved-its-own-hook-newman-approves-its-own-collection-hmk",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tiny image placeholders with sharp: bytes for 8 to 32 px LQIPs",
-    "link": "https://dev.to/dev-sahadat/tiny-image-placeholders-with-sharp-bytes-for-8-to-32-px-lqips-3de7",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Users Don't Complain, They Just Quit: 7 Signals to Catch in Your React Native App",
-    "link": "https://dev.to/riveora/users-dont-complain-they-just-quit-7-signals-to-catch-in-your-react-native-app-343p",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a browser-based vocal splitter: decode locally, queue the job, delete the files",
-    "link": "https://dev.to/jackcooper/building-a-browser-based-vocal-splitter-decode-locally-queue-the-job-delete-the-files-4pf3",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Writing cards straight into Anki from a browser extension (AnkiConnect, without the hand-waving)",
-    "link": "https://dev.to/glenkit/writing-cards-straight-into-anki-from-a-browser-extension-ankiconnect-without-the-hand-waving-g2h",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hyperliquid JavaScript SDK quickstart for Node.js and TypeScript",
-    "link": "https://dev.to/siebly/hyperliquid-javascript-sdk-quickstart-for-nodejs-and-typescript-31j2",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js App Router SEO checklist: 9 things I fixed on my own site",
-    "link": "https://dev.to/101stand/nextjs-app-router-seo-checklist-9-things-i-fixed-on-my-own-site-4906",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Engineering Sector-76: Building a Factorio-Inspired Dieselpunk MMO in the Browser (Vue 3, sass, Three.js, GSAP)",
-    "link": "https://dev.to/manukyan21/engineering-sector-76-building-a-factorio-inspired-dieselpunk-mmo-in-the-browser-vue-3-sass-27ib",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where Claude's usage limits went: from SSE to protobuf frames",
-    "link": "https://dev.to/msadofschi/where-claudes-usage-limits-went-from-sse-to-protobuf-frames-c8d",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What it actually costs to move your email templates to another provider",
-    "link": "https://dev.to/igorfilippov3/what-it-actually-costs-to-move-your-email-templates-to-another-provider-2162",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why \"best Balatro seeds\" lists go stale, and how a deterministic seed replay works",
-    "link": "https://dev.to/hggend/why-best-balatro-seeds-lists-go-stale-and-how-a-deterministic-seed-replay-works-1m4",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript types you can see running",
-    "link": "https://dev.to/jslab/typescript-types-you-can-see-running-2kbm",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I shipped my extension in 9 languages to two stores. Here's what broke.",
-    "link": "https://dev.to/glenkit/i-shipped-my-extension-in-9-languages-to-two-stores-heres-what-broke-b5d",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood",
     "link": "https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3",
     "date": "11/4/2026",
     "site": "dev.to"
   },
   {
-    "title": "Handover: I made three AI agents run an exit interview in team chat",
-    "link": "https://dev.to/pinnaclecrypt/handover-i-made-three-ai-agents-run-an-exit-interview-in-team-chat-57mf",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Postman approved its own hook. Newman approves its own collection.",
-    "link": "https://dev.to/pm25coder/postman-approved-its-own-hook-newman-approves-its-own-collection-hmk",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tiny image placeholders with sharp: bytes for 8 to 32 px LQIPs",
-    "link": "https://dev.to/dev-sahadat/tiny-image-placeholders-with-sharp-bytes-for-8-to-32-px-lqips-3de7",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Users Don't Complain, They Just Quit: 7 Signals to Catch in Your React Native App",
-    "link": "https://dev.to/riveora/users-dont-complain-they-just-quit-7-signals-to-catch-in-your-react-native-app-343p",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a browser-based vocal splitter: decode locally, queue the job, delete the files",
-    "link": "https://dev.to/jackcooper/building-a-browser-based-vocal-splitter-decode-locally-queue-the-job-delete-the-files-4pf3",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Writing cards straight into Anki from a browser extension (AnkiConnect, without the hand-waving)",
-    "link": "https://dev.to/glenkit/writing-cards-straight-into-anki-from-a-browser-extension-ankiconnect-without-the-hand-waving-g2h",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hyperliquid JavaScript SDK quickstart for Node.js and TypeScript",
-    "link": "https://dev.to/siebly/hyperliquid-javascript-sdk-quickstart-for-nodejs-and-typescript-31j2",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js App Router SEO checklist: 9 things I fixed on my own site",
-    "link": "https://dev.to/101stand/nextjs-app-router-seo-checklist-9-things-i-fixed-on-my-own-site-4906",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Engineering Sector-76: Building a Factorio-Inspired Dieselpunk MMO in the Browser (Vue 3, sass, Three.js, GSAP)",
-    "link": "https://dev.to/manukyan21/engineering-sector-76-building-a-factorio-inspired-dieselpunk-mmo-in-the-browser-vue-3-sass-27ib",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where Claude's usage limits went: from SSE to protobuf frames",
-    "link": "https://dev.to/msadofschi/where-claudes-usage-limits-went-from-sse-to-protobuf-frames-c8d",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What it actually costs to move your email templates to another provider",
-    "link": "https://dev.to/igorfilippov3/what-it-actually-costs-to-move-your-email-templates-to-another-provider-2162",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why \"best Balatro seeds\" lists go stale, and how a deterministic seed replay works",
-    "link": "https://dev.to/hggend/why-best-balatro-seeds-lists-go-stale-and-how-a-deterministic-seed-replay-works-1m4",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript types you can see running",
-    "link": "https://dev.to/jslab/typescript-types-you-can-see-running-2kbm",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I shipped my extension in 9 languages to two stores. Here's what broke.",
-    "link": "https://dev.to/glenkit/i-shipped-my-extension-in-9-languages-to-two-stores-heres-what-broke-b5d",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
     "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood",
     "link": "https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Handover: I made three AI agents run an exit interview in team chat",
-    "link": "https://dev.to/pinnaclecrypt/handover-i-made-three-ai-agents-run-an-exit-interview-in-team-chat-57mf",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Postman approved its own hook. Newman approves its own collection.",
-    "link": "https://dev.to/pm25coder/postman-approved-its-own-hook-newman-approves-its-own-collection-hmk",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tiny image placeholders with sharp: bytes for 8 to 32 px LQIPs",
-    "link": "https://dev.to/dev-sahadat/tiny-image-placeholders-with-sharp-bytes-for-8-to-32-px-lqips-3de7",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Users Don't Complain, They Just Quit: 7 Signals to Catch in Your React Native App",
-    "link": "https://dev.to/riveora/users-dont-complain-they-just-quit-7-signals-to-catch-in-your-react-native-app-343p",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a browser-based vocal splitter: decode locally, queue the job, delete the files",
-    "link": "https://dev.to/jackcooper/building-a-browser-based-vocal-splitter-decode-locally-queue-the-job-delete-the-files-4pf3",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Writing cards straight into Anki from a browser extension (AnkiConnect, without the hand-waving)",
-    "link": "https://dev.to/glenkit/writing-cards-straight-into-anki-from-a-browser-extension-ankiconnect-without-the-hand-waving-g2h",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hyperliquid JavaScript SDK quickstart for Node.js and TypeScript",
-    "link": "https://dev.to/siebly/hyperliquid-javascript-sdk-quickstart-for-nodejs-and-typescript-31j2",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js App Router SEO checklist: 9 things I fixed on my own site",
-    "link": "https://dev.to/101stand/nextjs-app-router-seo-checklist-9-things-i-fixed-on-my-own-site-4906",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Engineering Sector-76: Building a Factorio-Inspired Dieselpunk MMO in the Browser (Vue 3, sass, Three.js, GSAP)",
-    "link": "https://dev.to/manukyan21/engineering-sector-76-building-a-factorio-inspired-dieselpunk-mmo-in-the-browser-vue-3-sass-27ib",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where Claude's usage limits went: from SSE to protobuf frames",
-    "link": "https://dev.to/msadofschi/where-claudes-usage-limits-went-from-sse-to-protobuf-frames-c8d",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What it actually costs to move your email templates to another provider",
-    "link": "https://dev.to/igorfilippov3/what-it-actually-costs-to-move-your-email-templates-to-another-provider-2162",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why \"best Balatro seeds\" lists go stale, and how a deterministic seed replay works",
-    "link": "https://dev.to/hggend/why-best-balatro-seeds-lists-go-stale-and-how-a-deterministic-seed-replay-works-1m4",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript types you can see running",
-    "link": "https://dev.to/jslab/typescript-types-you-can-see-running-2kbm",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I shipped my extension in 9 languages to two stores. Here's what broke.",
-    "link": "https://dev.to/glenkit/i-shipped-my-extension-in-9-languages-to-two-stores-heres-what-broke-b5d",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Svelte 5 Isn't Pure Compiler Magic: How Runes, Fine-Grained Signals, and Direct DOM Mutations Actually Work Under the Hood",
-    "link": "https://dev.to/smtahosin/svelte-5-isnt-pure-compiler-magic-how-runes-fine-grained-signals-and-direct-dom-mutations-36a3",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Handover: I made three AI agents run an exit interview in team chat",
-    "link": "https://dev.to/pinnaclecrypt/handover-i-made-three-ai-agents-run-an-exit-interview-in-team-chat-57mf",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Postman approved its own hook. Newman approves its own collection.",
-    "link": "https://dev.to/pm25coder/postman-approved-its-own-hook-newman-approves-its-own-collection-hmk",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Tiny image placeholders with sharp: bytes for 8 to 32 px LQIPs",
-    "link": "https://dev.to/dev-sahadat/tiny-image-placeholders-with-sharp-bytes-for-8-to-32-px-lqips-3de7",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Users Don't Complain, They Just Quit: 7 Signals to Catch in Your React Native App",
-    "link": "https://dev.to/riveora/users-dont-complain-they-just-quit-7-signals-to-catch-in-your-react-native-app-343p",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Building a browser-based vocal splitter: decode locally, queue the job, delete the files",
-    "link": "https://dev.to/jackcooper/building-a-browser-based-vocal-splitter-decode-locally-queue-the-job-delete-the-files-4pf3",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Writing cards straight into Anki from a browser extension (AnkiConnect, without the hand-waving)",
-    "link": "https://dev.to/glenkit/writing-cards-straight-into-anki-from-a-browser-extension-ankiconnect-without-the-hand-waving-g2h",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Hyperliquid JavaScript SDK quickstart for Node.js and TypeScript",
-    "link": "https://dev.to/siebly/hyperliquid-javascript-sdk-quickstart-for-nodejs-and-typescript-31j2",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Next.js App Router SEO checklist: 9 things I fixed on my own site",
-    "link": "https://dev.to/101stand/nextjs-app-router-seo-checklist-9-things-i-fixed-on-my-own-site-4906",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Engineering Sector-76: Building a Factorio-Inspired Dieselpunk MMO in the Browser (Vue 3, sass, Three.js, GSAP)",
-    "link": "https://dev.to/manukyan21/engineering-sector-76-building-a-factorio-inspired-dieselpunk-mmo-in-the-browser-vue-3-sass-27ib",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Where Claude's usage limits went: from SSE to protobuf frames",
-    "link": "https://dev.to/msadofschi/where-claudes-usage-limits-went-from-sse-to-protobuf-frames-c8d",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "What it actually costs to move your email templates to another provider",
-    "link": "https://dev.to/igorfilippov3/what-it-actually-costs-to-move-your-email-templates-to-another-provider-2162",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "Why \"best Balatro seeds\" lists go stale, and how a deterministic seed replay works",
-    "link": "https://dev.to/hggend/why-best-balatro-seeds-lists-go-stale-and-how-a-deterministic-seed-replay-works-1m4",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "TypeScript types you can see running",
-    "link": "https://dev.to/jslab/typescript-types-you-can-see-running-2kbm",
-    "date": "11/4/2026",
-    "site": "dev.to"
-  },
-  {
-    "title": "I shipped my extension in 9 languages to two stores. Here's what broke.",
-    "link": "https://dev.to/glenkit/i-shipped-my-extension-in-9-languages-to-two-stores-heres-what-broke-b5d",
     "date": "11/4/2026",
     "site": "dev.to"
   },
@@ -501,7 +501,7 @@
   {
     "title": "Creating The “Moving Highlight” Navigation Bar With JavaScript And CSS",
     "link": "https://www.smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
-    "reading_time": "8 min read",
+    "reading_time": "9 min read",
     "date": "6/11/2025",
     "site": "smashingmagazine"
   },
@@ -550,7 +550,7 @@
   {
     "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
     "link": "https://www.smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-    "reading_time": "11 min read",
+    "reading_time": "12 min read",
     "date": "6/20/2024",
     "site": "smashingmagazine"
   },
